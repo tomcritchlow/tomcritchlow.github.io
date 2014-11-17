@@ -15,8 +15,4 @@ title: Archive
   * [ {{ poem.title }} ]({{ poem.url }})
 {% endfor %}
 
-{{site.collections[0]}}
-
-{{site.collections[1]}}
-
 {{site.collections}}
