@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Tom Critchlow Title
+tagline:          My Github Site
+url:              http://tomcritchlow.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Tom Critchlow
+  url:            https://twitter.com/tomcritchlow
+  email:          tjcritchlow@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
