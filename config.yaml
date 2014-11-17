@@ -16,3 +16,6 @@ author:
 # Custom vars
 version:          1.0.0
 github:
+collections:
+  _poetry:
+    output: true
