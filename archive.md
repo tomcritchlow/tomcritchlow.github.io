@@ -14,3 +14,9 @@ title: Archive
 {% for poem in site.poetry %}
   * [ {{ poem.title }} ]({{ poem.url }})
 {% endfor %}
+
+{{site.collections[0]}}
+
+{{site.collections[1]}}
+
+{{site.collections}}

@@ -13,9 +13,7 @@ author:
   url:            https://twitter.com/tomcritchlow
   email:          tjcritchlow@gmail.com
 
-# Custom vars
-version:          1.0.0
-github:
+
 collections:
   poetry:
     output: true
