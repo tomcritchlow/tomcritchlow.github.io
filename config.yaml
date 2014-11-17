@@ -17,5 +17,5 @@ author:
 version:          1.0.0
 github:
 collections:
-  _poetry:
+  poetry:
     output: true
