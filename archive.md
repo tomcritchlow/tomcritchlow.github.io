@@ -16,3 +16,7 @@ title: Archive
 {% endfor %}
 
 {{site.collections}}
+
+{{site.collections[0]}}
+
+{{site.collections[1]}}
