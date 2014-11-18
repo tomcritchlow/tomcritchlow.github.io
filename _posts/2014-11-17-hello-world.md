@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: the magnificent machinery of hands
 ---
 
