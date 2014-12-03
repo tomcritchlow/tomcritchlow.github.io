@@ -12,7 +12,7 @@ title: Archive
 ## Poetry
 
 {% for poem in site.poetry %}
-  []{{poem.title}}]({{poem.url}})
+  [{{poem.title}}]({{poem.url}})
 {% endfor %}
 
 {{site.collections}}
