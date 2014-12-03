@@ -15,5 +15,5 @@ author:
 
 
 collections:
-  poetry:
+  - poetry:
     output: true
