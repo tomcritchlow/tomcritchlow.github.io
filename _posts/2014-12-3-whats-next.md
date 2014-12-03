@@ -1,6 +1,6 @@
 ---
-layout:blog
-title:What's Next for Messaging?
+layout: blog
+title: What's Next for Messaging?
 ---
 
 # What's Next for Business Messaging?
