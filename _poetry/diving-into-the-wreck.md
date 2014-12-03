@@ -1,6 +1,6 @@
 ---
-Title:Diving into the Wreck by Adrienne Rich
-Layout:poetry
+title:Diving into the Wreck by Adrienne Rich
+tayout:poetry
 ---
 
 Diving into the Wreck
