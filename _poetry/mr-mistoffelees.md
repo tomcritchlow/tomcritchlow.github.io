@@ -1,4 +1,5 @@
 ---
+permalink: cats
 ---
 
 Mr. Mistoffelees by T. S. Eliot
