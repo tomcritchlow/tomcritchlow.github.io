@@ -1,5 +1,5 @@
 ---
-permalink: cats
+title: Mr. Mistoffelees by T. S. Eliot
 ---
 
 Mr. Mistoffelees by T. S. Eliot
