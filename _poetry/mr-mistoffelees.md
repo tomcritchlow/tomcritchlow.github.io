@@ -1,5 +1,6 @@
 ---
 title: Mr. Mistoffelees by T. S. Eliot
+layout:poetry
 ---
 
 Mr. Mistoffelees by T. S. Eliot
