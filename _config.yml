@@ -1,0 +1,8 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+
+collections:
+  poetry:
+    output: true
