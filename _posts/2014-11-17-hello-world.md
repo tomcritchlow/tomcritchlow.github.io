@@ -1,8 +1,9 @@
 ---
 layout: blog
-title: the magnificent machinery of hands
+title: testing pretty urls
+permalink: pretty
 ---
 
 Hello world.
 
-#The magnificent machinery of hands
+##mmm pretty URLS
