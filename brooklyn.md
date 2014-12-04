@@ -1,5 +1,5 @@
 ---
 ---
 {% for link in site.brooklyn %}
-{{link.url}}
+{{link.image}}
 {% endfor %}

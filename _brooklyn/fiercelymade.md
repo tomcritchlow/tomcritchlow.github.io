@@ -1,4 +1,4 @@
 ---
 title:
-image:
+image: /innovation.png
 ---
