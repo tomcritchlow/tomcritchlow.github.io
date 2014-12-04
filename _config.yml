@@ -6,5 +6,3 @@ relative_permalinks: true
 collections:
   poetry:
     output: true
-  brooklyn:
-    output: false
