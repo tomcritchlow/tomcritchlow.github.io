@@ -17,7 +17,10 @@
   margin:auto;
 }
 
-
+blockquote{
+  border-left:2px solid #FF5722;
+  padding-left:20px;
+}
 
 
 
