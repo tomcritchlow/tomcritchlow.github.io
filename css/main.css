@@ -12,8 +12,6 @@
   height:50px;
 }
 
-
-
 h1{
   font-size:45px;
   text-align:center;
@@ -50,6 +48,8 @@ blockquote{
   margin-left:-10px;
 }
 
-
+p iframe{
+  margin:0px !important; 
+}
 
 }
