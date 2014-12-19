@@ -19,15 +19,15 @@ Included on the list was *Stuck between the devil and the blues in drop C by Kil
 
 Jamie the front man of Kill Kasper reached out to me to ask how his album made it onto the list:
 
-Hello,
-
-Yesterday (24th June 2012) our EP release (Stuck between the devil and the blues in drop C by Kill Kasper) ended up on your most shared list, along with the likes of The Smashing Pumpkins and Linkin park…
-
-We only told a few mates about it, and none of us use twitter!!! We couldn’t find anything searching twitter either, so I thought I’d ask… How the fuck did we end up on your most shared list??? :))
-
-Much Love…
-
-Jamie K, confused (but very happy) front man!
+> Hello,
+>
+> Yesterday (24th June 2012) our EP release (Stuck between the devil and the blues in drop C by Kill Kasper) ended up on your most shared list, along with the likes of The Smashing Pumpkins and Linkin park…
+>
+> We only told a few mates about it, and none of us use twitter!!! We couldn’t find anything searching twitter either, so I thought I’d ask… How the fuck did we end up on your most shared list??? :))
+>
+> Much Love…
+>
+> Jamie K, confused (but very happy) front man!
 
 In truth I had no idea but I’m glad that I was able to make him happy for one day at least. Our email exchange ended like this:
 
