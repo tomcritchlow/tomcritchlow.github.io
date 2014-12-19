@@ -27,6 +27,9 @@ blockquote{
   border-left:5px solid #FF5722;
   padding-left:10px;
   margin-left:-20px;
+  font-size:25px;
+  line-height:35px;
+  font-style:italic;
 }
 
 
