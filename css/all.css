@@ -12,6 +12,12 @@ body{
   margin:0px;
 }
 
+h1{
+  font-size:30px;
+  line-height:35px;
+  font-weight:400;
+  }
+
 /* Colors from here: http://www.materialpalette.com/green/deep-orange */
 
 .dark-primary-color    { background: #388E3C; }

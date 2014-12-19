@@ -1,5 +1,9 @@
 @media (min-width: 1025px) {
 
+.body{
+
+}
+
 .welcomebox{
   width:500px;
   padding:50px;
@@ -10,6 +14,7 @@
 
 .blogcontent{
   width:650px;
+  margin:auto;
 }
 
 
