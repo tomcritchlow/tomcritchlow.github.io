@@ -1,7 +1,8 @@
 @media (min-width: 1025px) {
 
 .body{
-
+  font-size:25px;
+  line-height:35px;
 }
 
 .welcomebox{
