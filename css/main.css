@@ -3,6 +3,19 @@
 .body{
   font-size:25px;
   line-height:35px;
+  border-top:15px solid #388E3C;
+}
+
+
+
+h1{
+  font-size:45px;
+  text-align:center;
+}
+
+h2{
+  font-size:35px;
+  text-align:center;
 }
 
 p{
@@ -28,8 +41,8 @@ blockquote{
   padding-left:10px;
   font-size:25px;
   line-height:35px;
-  font-style:italic;
   font-weight:200;
+  margin-left:0px;
 }
 
 
