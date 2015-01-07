@@ -10,6 +10,12 @@
   border-top:15px solid #388E3C;
   background-color:#4CAF50;
   height:50px;
+  text-align:center;
+}
+
+.topnav span{
+  color:white;
+
 }
 
 h1{
@@ -51,5 +57,15 @@ blockquote{
 p iframe{
   margin:0px !important;
 }
+
+.footer{
+  width:650px;
+  border-top:10px solid #4CAF50;
+}
+
+
+
+
+
 
 }
