@@ -40,6 +40,11 @@ p{
   line-height:35px;
 }
 
+p img{
+  display:block;
+  margin:auto;
+}
+
 .welcomebox{
   width:500px;
   padding:50px;
