@@ -15,9 +15,14 @@
 
 .topnav span{
   color:white;
+  font-size:30px;
+  font-weight:bold;
   padding-right:20px;
   padding-left:20px;
+}
 
+.topnav span a{
+  color:white;
 }
 
 h1{
