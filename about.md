@@ -3,24 +3,12 @@ layout: page
 title: About
 ---
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi there - this is an about page. Barely.
 
-There are currently two themes built on Poole:
+Yes, it's on my todo list to make this page better. In the meantime - here are some more interesting links that you may find useful:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[Fiercely Made](http://www.fiercelymade.com)
+[Fiercely Curious](http://www.fiercelycurious.com)
+[@tomcritchlow](http://twitter.com/tomcritchlow)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Email me here: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com)
