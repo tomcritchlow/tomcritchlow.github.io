@@ -60,19 +60,14 @@ p iframe{
   margin:0px !important;
 }
 
-.footer{
-  width:650px;
-  margin:auto;
-  border-top:10px solid #4CAF50;
-  padding-bottom:100px;
-}
-
 .bottomnav{
   width:100%;
   border-bottom:10px solid #388E3C;
   background-color:#4CAF50;
   height:50px;
   text-align:center;
+  padding-top:30px;
+  color:white;
 }
 
 
