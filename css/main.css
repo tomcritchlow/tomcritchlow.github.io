@@ -69,23 +69,7 @@ p iframe{
   margin:0px !important;
 }
 
-.bottomnav{
-  width:100%;
-  border-bottom:10px solid #388E3C;
-  background-color:#4CAF50;
-  height:50px;
-  text-align:center;
-  margin-top:30px;
-  color:white;
-}
 
-.bottomnav i{
-  padding-top:9px;
-}
-
-.bottomnav a{
-  color:white;
-}
 
 
 
