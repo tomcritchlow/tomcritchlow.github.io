@@ -1,14 +1,15 @@
 @media (min-width: 1025px) {
 
 html{
-  border-left:10px solid #4CAF50;  
+  border-left:10px solid #4CAF50;
 }
 
 
 .topnav{
-  width:100%;
-  height:50px;
+  width:1000px;
+  height:200px;
   text-align:center;
+  margin:auto;
 }
 
 .topnav span{
@@ -20,7 +21,7 @@ html{
 }
 
 .topnav span a{
-  color:white;
+  color:#4CAF50;
 }
 
 h1{
