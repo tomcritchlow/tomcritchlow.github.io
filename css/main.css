@@ -3,12 +3,12 @@
 .body{
   font-size:25px;
   line-height:35px;
+  border-left:10px solid #4CAF50;
 }
 
 .topnav{
   width:100%;
-  border-top:10px solid #388E3C;
-  background-color:#4CAF50;
+
   height:50px;
   text-align:center;
 }
