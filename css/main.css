@@ -1,6 +1,6 @@
 @media (min-width: 1025px) {
 
-.body{
+body{
   font-size:25px;
   line-height:35px;
   border-left:10px solid #4CAF50;
@@ -8,7 +8,6 @@
 
 .topnav{
   width:100%;
-
   height:50px;
   text-align:center;
 }
