@@ -3,7 +3,6 @@
 html{
   border-left:10px solid #4CAF50;
   min-height:100%;
-  padding-bottom:150px;
 }
 
 
@@ -62,6 +61,7 @@ p img{
 .blogcontent{
   width:650px;
   margin:auto;
+  padding-bottom:150px;
 }
 
 blockquote{
