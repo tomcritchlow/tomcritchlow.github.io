@@ -5,6 +5,9 @@ html{
   min-height:100%;
 }
 
+.homepage{
+
+}
 
 .topnav{
   width:1000px;
@@ -18,7 +21,6 @@ html{
   color:#4CAF50;
   font-size:20px;
   font-weight:800;
-  padding-right:20px;
   padding-left:20px;
   font-family:'Open Sans'
 }
