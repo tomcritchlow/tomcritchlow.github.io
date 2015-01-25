@@ -33,7 +33,55 @@ html{
     color:#4CAF50;
   }
 
+  h1{
+    font-size:45px;
+    text-align:center;
+    font-family:'Open Sans';
+    font-weight:800;
+  }
 
+  h2{
+    font-size:25px;
+    text-align:center;
+    font-family:'Open Sans'
+  }
+
+  p{
+    font-size:15px;
+    line-height:25px;
+  }
+
+  p img{
+    display:block;
+    margin:auto;
+  }
+
+
+  .blogcontent{
+    width:90%;
+    margin:auto;
+    padding-bottom:150px;
+  }
+
+  blockquote{
+    border-left:10px solid #4CAF50;
+    padding-left:10px;
+    font-size:15px;
+    line-height:25px;
+    margin-left:-10px;
+  }
+
+  p iframe{
+    margin:0px !important;
+  }
+
+  .imgonly{
+    width:100%;
+  }
+
+  .imgonly img{
+    width:100%;
+  }
 
 
 
