@@ -24,7 +24,7 @@
 $(window).load(function() {
 
   $('p img').each(function(){
-    $(this).unwrap();
+    $(this).parent().addClass("imgonly");
     })
   });
 </script>

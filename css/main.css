@@ -83,7 +83,16 @@ p iframe{
   margin:0px !important;
 }
 
+.imgonly{
+  margin: 0 -35%;
+  width: 170%;
+  text-align: center;
+}
 
+.imgonly img{
+  max-width: 100%;
+  margin: auto;
+}
 
 
 
