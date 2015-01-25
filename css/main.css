@@ -6,19 +6,19 @@ html{
 }
 
 .welcomewrapper{
-  display: inline-flex;
+  position:absolute;
+  top:50%;
+  margin-top:-400px;
 }
 
 .welcomebox{
-  height:700px;
+  height:800px;
   width:900px;
   line-height:45px;
   font-size:40px;
   margin-left:50px;
-  margin-top:20px;
   font-family:'Open Sans';
   font-weight:800;
-  margin:auto;
 }
 
 .topnav{
