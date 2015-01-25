@@ -7,9 +7,11 @@ html{
 
 .welcomebox{
   height:700px;
-  line-height:60px;
-  font-size:55px;
-  text-align:center;
+  width:900px;
+  line-height:55px;
+  font-size:50px;
+  margin-left:50px;
+  margin-top:20px;
   font-family:'Open Sans';
   font-weight:800;
 }
