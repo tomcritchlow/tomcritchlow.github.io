@@ -23,11 +23,13 @@ Then starts the real growth and “golden age” as the infrastructure built in 
 
 This diagram sums up the installation and deployment periods well:
 
+![](/images/carlotta1.jpg)
+
 ##The 5 major technology revolutions
 
 Carlotta lays out the five major technological revolutions as outlined in this diagram:
 
-![](/images/carlotta1.jpg)
+![](/images/carlotta2.jpg)
 
 ##Predicting the 6th revolution
 
@@ -36,6 +38,8 @@ While we’re living in the “golden age” of the current information revoluti
 ##AI & Robotics as the 6th revolution
 
 We’re right at the beginning of the installation period for AI & robotics. I summarized a few of the key events in the tech space that hopefully give you a flavor of how seriously this is being taken: But where does this trend lead? What happens next? Here’s a rough timeline I dreamed up:
+
+![](/images/carlotta3.jpg)
 
 2010 - 2020: Beginning of build out and research applications enabled by the previous golden age of information technology. Cloud computing, global networks, processing, quantum computers etc.
 
