@@ -5,6 +5,10 @@ html{
   min-height:100%;
 }
 
+.welcomewrapper{
+  display: inline-flex;
+}
+
 .welcomebox{
   height:700px;
   width:900px;
@@ -14,6 +18,7 @@ html{
   margin-top:20px;
   font-family:'Open Sans';
   font-weight:800;
+  margin:auto;
 }
 
 .topnav{
