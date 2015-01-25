@@ -56,8 +56,8 @@ And importantly, how might we soften the impact of the next boom/bust revolution
 ##Alternatives
 
 Obviously I’ve just made all of that up - so there’s clearly alternatives out there. The whole point about these revolutions is that no one sees them coming… So what else might there be? Here’s a few ideas:
-Global warming just fucks everything right up and there is no 6th technological revolution (or we have bigger things to worry about at least)
-An energy revolution is actually more profound - free/cheap/sustainable energy sources might drive a technological revolution distinct from the AI+robotics one
-Biotech. I don’t know much about nanotech and wetware but there’s definitely potential for massive disruption to come from biotech, life form creation, and so on.
-Something else. As Miles was kind enough to point out when I sent this post to him for review - AI and robotics feels like an extension of the information age and not a new paradigm. So maybe we all end up ruled by robots but there’s another different revolution going on that we all miss…
+- Global warming just fucks everything right up and there is no 6th technological revolution (or we have bigger things to worry about at least)
+- An energy revolution is actually more profound - free/cheap/sustainable energy sources might drive a technological revolution distinct from the AI+robotics one
+- Biotech. I don’t know much about nanotech and wetware but there’s definitely potential for massive disruption to come from biotech, life form creation, and so on.
+- Something else. As Miles was kind enough to point out when I sent this post to him for review - AI and robotics feels like an extension of the information age and not a new paradigm. So maybe we all end up ruled by robots but there’s another different revolution going on that we all miss…
 I’d love to chat with you about your ideas. Disagree? Have interesting data to share? Drop me a note and let me know: tjcritchlow@gmail.com.
