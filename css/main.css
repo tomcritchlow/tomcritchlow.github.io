@@ -7,11 +7,12 @@ html{
 
 .welcomebox{
   height:700px;
-  font-size:50px;
-  line-height:55px;
+  line-height:60px;
   color:#388E3C;
-  
-
+  font-size:55px;
+  text-align:center;
+  font-family:'Open Sans';
+  font-weight:800;
 }
 
 .topnav{
@@ -54,13 +55,6 @@ p{
 
 p img{
   display:block;
-  margin:auto;
-}
-
-.welcomebox{
-  width:500px;
-  padding:50px;
-  padding-top:100px;
   margin:auto;
 }
 
