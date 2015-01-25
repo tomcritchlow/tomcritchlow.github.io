@@ -1,13 +1,37 @@
 @media (max-width: 1024px) {
 
+html{
+    border-top:10px solid #4CAF50;
+    width:100%;
+  }
+
 .welcomebox{
-    width:85%;
-    padding-top:5%;
-    margin:auto;
+  padding:20px;
+  margin:auto;
+  line-height:25px;
+  font-size:20px;
+  font-family:'Open Sans';
+  font-weight:800;
   }
 
 
+  .topnav{
+    width:100%;
+    text-align:center;
+    margin-top:40px;
+  }
 
+  .topnav span{
+    color:#4CAF50;
+    font-size:15px;
+    font-weight:800;
+    padding-left:20px;
+    font-family:'Open Sans'
+  }
+
+  .topnav span a{
+    color:#4CAF50;
+  }
 
 
 
