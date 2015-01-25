@@ -27,6 +27,8 @@ This diagram sums up the installation and deployment periods well:
 
 Carlotta lays out the five major technological revolutions as outlined in this diagram:
 
+!(/images/carlotta1.jpg)
+
 ##Predicting the 6th revolution
 
 While we’re living in the “golden age” of the current information revolution it’s never too soon to start speculating on what the 6th major technological disruption might be and how it might play out. What follows is purely conjecture and an exercise in thinking critically. I welcome feedback, disagreement, discussion and analysis.
