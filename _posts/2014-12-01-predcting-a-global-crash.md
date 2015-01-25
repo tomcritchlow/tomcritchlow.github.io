@@ -27,7 +27,7 @@ This diagram sums up the installation and deployment periods well:
 
 Carlotta lays out the five major technological revolutions as outlined in this diagram:
 
-!(/images/carlotta1.jpg)
+![](/images/carlotta1.jpg)
 
 ##Predicting the 6th revolution
 
