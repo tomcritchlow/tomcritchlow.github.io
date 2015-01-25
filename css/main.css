@@ -8,11 +8,11 @@ html{
 .welcomewrapper{
   position:absolute;
   top:50%;
-  margin-top:-400px;
+  margin-top:-325px;
 }
 
 .welcomebox{
-  height:800px;
+  height:675px;
   width:900px;
   line-height:45px;
   font-size:40px;
