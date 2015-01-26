@@ -9,7 +9,7 @@ Yes, it's on my todo list to make this page better. In the meantime - here are s
 
 <a class="embedly-card" href="http://fiercelymade.com">Fiercely Made</a>
 
-<a class="embedly-card" href="http://www.fiercelcurious.com">Fiercely Curious</a>
+<a class="embedly-card" href="http://www.fiercelycurious.com">Fiercely Curious</a>
 
 [@tomcritchlow](http://twitter.com/tomcritchlow)
 
