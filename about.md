@@ -7,9 +7,9 @@ Hi there - this is an about page. Barely.
 
 Yes, it's on my todo list to make this page better. In the meantime - here are some more interesting links that you may find useful:
 
-[Fiercely Made](http://www.fiercelymade.com)
+<a class="embedly-card" href="http://fiercelymade.com">Fiercely Made</a>
 
-[Fiercely Curious](http://www.fiercelycurious.com)
+<a class="embedly-card" href="http://www.fiercelcurious.com">Fiercely Curious</a>
 
 [@tomcritchlow](http://twitter.com/tomcritchlow)
 
