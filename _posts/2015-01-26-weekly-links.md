@@ -16,6 +16,7 @@ In which a buzzfeed clone literally reposts a buzzfeed article but with added te
 >Walk through a museum. Look around a city. Almost all the artifacts that we value as a society were made by or at the order of men. But behind every one is an invisible infrastructure of labor—primarily caregiving, in its various aspects—that is mostly performed by women.
 
 This piece resonates very strongly with me. Being recently self-employed and feeling the emotions of money more keenly it really brings into focus the idea of "worth", "value" and making things... Lots to digest here but well worth the read.
+
 ---
 
 [Stuid and beautiful by Ben Pieratt](http://blog.pieratt.com/post/108646778840/stupid-and-beautiful)
