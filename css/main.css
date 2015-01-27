@@ -46,6 +46,8 @@ h1{
   text-align:center;
   font-family:'Open Sans';
   font-weight:800;
+  width:800px;
+  margin-left:-75px;
 }
 
 h2{
