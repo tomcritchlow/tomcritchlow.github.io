@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: About
+title: About Me
 ---
 
 Hi there - this is an about page. Barely.
