@@ -1,8 +1,8 @@
 {% include head.html %}
 
-{% if coverimage %}
+{% if page.coverimage %}
   <div class='coverimage'>
-    <img src="coverimage" />
+    <img src="{{page.coverimage}}" />
   </div>
 
 {% else %}
