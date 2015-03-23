@@ -13,12 +13,12 @@ html{
 
 .welcomebox{
   height:675px;
-  width:900px;
+  width:600px;
   line-height:45px;
   font-size:40px;
   margin-left:300px;
-  font-family:'Open Sans';
-  font-weight:800;
+  font-family:'Neuton';
+  font-weight:300;
 }
 
 .topnav{
