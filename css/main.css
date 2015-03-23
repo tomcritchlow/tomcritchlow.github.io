@@ -48,12 +48,12 @@ h1{
   font-weight:300;
   width:800px;
   margin-left:-75px;
+  margin-bottom:75px;
 }
 
 h2{
   font-size:35px;
   text-align:center;
-  font-family:'Open Sans'
 }
 
 p{
