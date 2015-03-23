@@ -1,5 +1,12 @@
 {% include head.html %}
 
+{% if coverimage %}
+  <div class='coverimage'>
+    <img src="coverimage" />
+  </div>
+
+{% else %}
+
 <div class="topnav">
   <div class="navigation">
     <span><a href="/">HELLO</a></span>
@@ -8,6 +15,8 @@
     <span>
   </div>
 </div>
+
+{% endif %}
 
 <div class="blogcontent">
   <h1>{{page.title}}</h1>
