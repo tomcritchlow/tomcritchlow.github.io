@@ -14,11 +14,18 @@ html{
 .welcomebox{
   height:675px;
   width:600px;
-  line-height:45px;
-  font-size:40px;
+  line-height:39px;
+  font-size:35px;
   margin-left:300px;
   font-family:'Neuton';
   font-weight:300;
+}
+
+.pacifico{
+  font-family:'Pacifico';
+  font-size:50px;
+  text-align:center;
+  color:#4CAF50;
 }
 
 .topnav{
