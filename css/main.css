@@ -41,6 +41,16 @@ html{
   color:#4CAF50;
 }
 
+.coverimage{
+  width:100%;
+  max-width:2000px;
+}
+
+.coverimage img{
+  width:100%;
+}
+
+
 h1{
   font-size:55px;
   text-align:center;
