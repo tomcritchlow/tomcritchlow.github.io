@@ -31,7 +31,7 @@ Jamie the front man of Kill Kasper reached out to me to ask how his album made i
 
 In truth I had no idea but I’m glad that I was able to make him happy for one day at least. Our email exchange ended like this:
 
-"Your broken algorithm, made my day, I’m glad you didn’t fix it :)"
+“Your broken algorithm, made my day, I’m glad you didn’t fix it :)"
 The least we can do is all go listen to the EP right? It’s kind of good. Check it on myspace here or on Spotify.
 Celebrate the Broken, Obscure and Random Things In Life
 
