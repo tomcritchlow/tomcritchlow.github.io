@@ -19,6 +19,6 @@ Playing in the intersection between art, design, technology, offline and online 
 
 [Fiercely Made](http://www.fiercelymade.com)
 
-Looking to chat? Just get in touch. I'm always happy to meet for coffee.
+Just get in touch. I'm always happy to meet for coffee.
 
 Much love.
