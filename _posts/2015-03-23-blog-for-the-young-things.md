@@ -19,7 +19,7 @@ I've been struggling to articule to myself why I was unable to write "interestin
 
 No - instead my motivations were misaligned. I don't have a ton to teach but also very few people are looking out for the next generation. Who's helping them cope with beginning a non-traditional career? Who's helping set expectations for working in tech? Who's giving them a helping hand? Who's writing about learning to code as a creative endeavour?
 
-I recall starting my adult life - fresh out of university, staring bright eyed at the world and thinking to myself that the only thing I knew was that I didn't want to work in the city through a "management training program". But I had no idea what I *did* want to do.
+I recall starting my adult life - fresh out of university, staring bright eyed at the world and thinking to myself that the only thing I knew was that I didn't want to work in the city through a &#8220;management training program". But I had no idea what I *did* want to do.
 
 So here's me starting up the blogging engine. If you're young and want advice email me. Or tweet at me and I'll write you a blog post.
 
