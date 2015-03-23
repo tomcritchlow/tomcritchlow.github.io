@@ -45,6 +45,7 @@ html{
   width:100%;
   max-width:2000px;
   text-align:center;
+  margin:auto;
 }
 
 .coverimage img{
