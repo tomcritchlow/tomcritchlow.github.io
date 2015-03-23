@@ -9,6 +9,10 @@ body{
   padding:0px;
   margin:0px;
   color:#212121;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -webkit-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
 }
 
 /* Colors from here: http://www.materialpalette.com/green/deep-orange */
