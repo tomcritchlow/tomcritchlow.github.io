@@ -99,11 +99,10 @@ p img{
 }
 
 blockquote{
-  border-left:10px solid #4CAF50;
+  border-left:2px solid #4CAF50;
   padding-left:10px;
   font-size:25px;
   line-height:35px;
-  margin-left:-10px;
 }
 
 p iframe{

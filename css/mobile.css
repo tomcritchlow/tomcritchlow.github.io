@@ -75,11 +75,10 @@ html{
   }
 
   blockquote{
-    border-left:10px solid #4CAF50;
+    border-left:2px solid #4CAF50;
     padding-left:10px;
     font-size:15px;
     line-height:25px;
-    margin-left:-10px;
   }
 
   p iframe{
