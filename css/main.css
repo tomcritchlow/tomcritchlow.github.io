@@ -14,8 +14,8 @@ html{
 .welcomebox{
   height:675px;
   width:600px;
-  line-height:39px;
-  font-size:35px;
+  line-height:35px;
+  font-size:30px;
   margin-left:300px;
   font-family:'Neuton';
   font-weight:300;
@@ -24,6 +24,7 @@ html{
 .pacifico{
   font-family:'Pacifico';
   font-size:50px;
+  padding-top:20px;
   text-align:center;
   color:#4CAF50;
 }
