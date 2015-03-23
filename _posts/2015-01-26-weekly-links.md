@@ -5,7 +5,7 @@ title: Links Jan 26th
 
 Here's some links I'm noodling on this week:
 
-[The buzzfeed aesthetic is self-replicating](http://waitbutwhy.com/2015/01/most-depressing-buzzfeed-article-of-all-time.html)
+<i class="fa fa-bolt"></i> [The buzzfeed aesthetic is self-replicating](http://waitbutwhy.com/2015/01/most-depressing-buzzfeed-article-of-all-time.html)
 
 In which a buzzfeed clone literally reposts a buzzfeed article but with added text (though clearly the value is in the original images). "You won't guess what this buzzfeed article just posted..."
 
