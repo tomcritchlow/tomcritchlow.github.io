@@ -1,9 +1,7 @@
 ---
 layout: blog
-title: Writing
+title: Latest Writing
 ---
-
-## Latest Writing
 
 {% for post in site.posts %}
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
@@ -11,6 +9,6 @@ title: Writing
 
 ## Writing Elsewhere
 
-[https://medium.com/fiercely-curious/tiny-experiments-in-doing-916768ff6e14]
+[Tiny Experiment in Doing](https://medium.com/fiercely-curious/tiny-experiments-in-doing-916768ff6e14)
 
-[https://medium.com/7-books-lists-of-books/board-games-culture-connecting-the-dots-95d7d6f33bba]
+[Board Games & Culture - Connecting the Dots](https://medium.com/7-books-lists-of-books/board-games-culture-connecting-the-dots-95d7d6f33bba)
