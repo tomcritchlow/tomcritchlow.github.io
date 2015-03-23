@@ -1,4 +1,7 @@
-# Blog for the young things
+---
+layout: blog
+title: Blog For The Young Things
+---
 
 Why do we blog? Let's skirt around the question of *what* a blog is and focus on why we even do this stupid internet-writing in the first place.
 
@@ -21,4 +24,3 @@ I recall starting my adult life - fresh out of university, staring bright eyed a
 So here's me starting up the blogging engine. If you're young and want advice email me. Or tweet at me and I'll write you a blog post.
 
 I'm sure there will be other posts I'll write not specifically for young ones but it's a focus I'm excited about. It's a focus I think is important.
-
