@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Weekly Links (Jan 26th)
+title: Links Jan 26th
 ---
 
 Here's some links I'm noodling on this week:
