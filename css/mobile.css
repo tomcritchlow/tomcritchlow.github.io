@@ -14,6 +14,16 @@ html{
   font-weight:300;
   }
 
+  .pacifico{
+    font-family:'Pacifico';
+    font-size:30px;
+    line-height:30px;
+    margin-top:20px;
+    text-align:right;
+    color:#4CAF50;
+    display:block;
+  }
+
 
   .topnav{
     width:100%;

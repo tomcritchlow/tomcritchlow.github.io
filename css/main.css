@@ -28,8 +28,9 @@ html{
   font-size:50px;
   line-height:50px;
   margin-top:20px;
-  text-align:center;
+  text-align:right;
   color:#4CAF50;
+  display:block;
 }
 
 .topnav{
