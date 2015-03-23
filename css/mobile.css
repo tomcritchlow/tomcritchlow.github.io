@@ -36,14 +36,15 @@ html{
   h1{
     font-size:45px;
     text-align:center;
-    font-family:'Open Sans';
-    font-weight:800;
+    font-family:'Neuton';
+    font-weight:300;
   }
 
   h2{
     font-size:25px;
     text-align:center;
-    font-family:'Open Sans'
+    font-family:'Neuton';
+    font-weight:300;
   }
 
   p{
