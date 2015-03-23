@@ -85,6 +85,17 @@ html{
     width:100%;
   }
 
+  .footer{
+    width:100%;
+    text-align:center;
+    padding-bottom:40px;
+  }
+
+  .footer a{
+    color:#4CAF50;
+    font-size:20px;
+    font-weight:600;
+  }
 
 
 }
