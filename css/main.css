@@ -8,6 +8,7 @@ html{
 .welcomewrapper{
   position:absolute;
   top:50%;
+  width:600px
   margin-top:-325px;
 }
 
@@ -16,7 +17,7 @@ html{
   width:600px;
   line-height:35px;
   font-size:30px;
-  margin-left:300px;
+  margin-left:-300px;
   font-family:'Neuton';
   font-weight:300;
 }
@@ -24,7 +25,7 @@ html{
 .pacifico{
   font-family:'Pacifico';
   font-size:50px;
-  padding-top:20px;
+  margin-top:20px;
   text-align:center;
   color:#4CAF50;
 }
