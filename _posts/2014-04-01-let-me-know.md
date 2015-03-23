@@ -3,7 +3,7 @@ layout: blog
 title: Let Me Know How I Can Help
 ---
 
-You’re buzzing, partly from the free beer, partly from just meeting some awesome new connections at this hip Brooklyn meetup. You’re having a great chat with a bearded, plaid-shirt-wearing startup guy and just as you’re about to part ways he says:
+You’re buzzing, &#8220;partly from the free beer, partly from just meeting some awesome new connections at this hip Brooklyn meetup. You’re having a great chat with a bearded, plaid-shirt-wearing startup guy and just as you’re about to part ways he says:
 
 **"Let me know how I can help"…**
 
