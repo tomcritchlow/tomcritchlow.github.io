@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Writing
 ---
 
@@ -12,3 +12,4 @@ title: Writing
 ## Writing Elsewhere
 
 https://medium.com/fiercely-curious/tiny-experiments-in-doing-916768ff6e14
+https://medium.com/7-books-lists-of-books/board-games-culture-connecting-the-dots-95d7d6f33bba
