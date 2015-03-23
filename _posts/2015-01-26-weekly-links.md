@@ -11,7 +11,7 @@ In which a buzzfeed clone literally reposts a buzzfeed article but with added te
 
 ---
 
-[Why I'm not a Maker by Debbie Chachra](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)
+<i class="fa fa-heart"></i> [Why I'm not a Maker by Debbie Chachra](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)
 
 >Walk through a museum. Look around a city. Almost all the artifacts that we value as a society were made by or at the order of men. But behind every one is an invisible infrastructure of labor—primarily caregiving, in its various aspects—that is mostly performed by women.
 
@@ -19,7 +19,7 @@ This piece resonates very strongly with me. Being recently self-employed and fee
 
 ---
 
-[Stuid and beautiful by Ben Pieratt](http://blog.pieratt.com/post/108646778840/stupid-and-beautiful)
+<i class="fa fa-hand-o-right"></i> [Stuid and beautiful by Ben Pieratt](http://blog.pieratt.com/post/108646778840/stupid-and-beautiful)
 
 >Once upon a time a vulture had no name, the eagle too. A vulture is no eagle but its hardly a vulture either. So it is with us. We’re neither animal nor mineral nor behavior nor dictionary. You are you, stupid and smart, beautiful and awful, 100% the truth of yourself, no matter what anyone Says.
 
