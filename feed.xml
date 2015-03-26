@@ -5,7 +5,7 @@
   <channel>
     <title>tomcritchlow.com</title>
     <description></description>
-    <link>http://tomcritchlow.com</link>
+    <link>{{site.url}}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
       <item>
