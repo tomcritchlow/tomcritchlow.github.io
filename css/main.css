@@ -85,7 +85,7 @@ h2{
   font-weight:400;
 }
 
-p{
+p, ul, li, ol{
   font-size:25px;
   line-height:35px;
 }
