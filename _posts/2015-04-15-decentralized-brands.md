@@ -3,7 +3,7 @@ layout: blog
 title: Decentralized Brands & The Future of Content Marketing
 ---
 
-We're living in a world where National Geographic is paying hundreds of thousands of dollars advertising on Snapchat, BWM is sponsoring collections on Medium and Purina is buying native advertising from BuzzFeed.
+We're living in a world where National Geographic is paying hundreds of thousands of dollars advertising on Snapchat, BMW is sponsoring collections on Medium and Purina is buying native advertising from BuzzFeed.
 
 It occurs to me that we might just be entering a new phase of brand building online. One that is inherently decoupled from "clicks", "links" and even websites. A phase that's all about decentralized brands. What follows is more or less a stream of consciousness. This is not a fully fleshed out thesis yet but rather some jumping off points.
 
