@@ -27,4 +27,4 @@ If you mix the above two ingredients together you arrive at BuzzFeed distributed
 
 Is this BuzzFeed being a crazy VC-backed media company? Or is this actually the future of publishing online? I'm beginning to think it's the latter... Remember - this is all happening at the same time that SEO is losing it's dominance as a channel - losing dominance for everyone but especially publishers! Who cares about a "duplicate content penalty" when publishing the same article 5 times in 5 different places gains 5x the eyeballs?
 
-I'm not 100% where this thinking leads but look out for more cross-publishing, more branded content and better measurement of "brand" online vs clicks, links and traffic.
+I'm not 100% sure where this thinking leads but look out for more cross-publishing, more branded content and better measurement of "brand" online vs clicks, links and traffic as our notion of brands becomes further decentralized.
