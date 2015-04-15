@@ -40,4 +40,4 @@ I'm based in New York City, but available to travel for work.
 
 ![I <3 clients](/images/clients.png)
 
-Please get in touch: tjcritchlow@gmail.com
+Please get in touch: (tjcritchlow@gmail.com)[mailto:tjcritchlow@gmail.com] / 917 414 9121
