@@ -22,4 +22,13 @@
 
 <script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
 
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+ <meta property="og:type"   content="article" />
+ <meta property="og:url"    content="{{page.url}}" />
+ <meta property="og:title"  content="{{page.title}}" />
+ {% if page.coverimage %}
+ <meta property="og:image"  content="{{page.coverimage}}" />
+ {% endif %}
+
+
 </head>
