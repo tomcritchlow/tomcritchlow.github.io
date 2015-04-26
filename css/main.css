@@ -37,6 +37,10 @@ html{
   display:inline-block;
 }
 
+.header .pacifico{
+  font-size:30px;
+}
+
 .topnav{
   width:1000px;
   height:75px;
