@@ -33,6 +33,10 @@ html{
   display:block;
 }
 
+.header{
+  display:inline-block;
+}
+
 .topnav{
   width:1000px;
   height:75px;
