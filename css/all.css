@@ -30,3 +30,7 @@ a {
   color:#FF5722;
   text-decoration: none;
  }
+
+.hidden{
+   display:none;
+ }

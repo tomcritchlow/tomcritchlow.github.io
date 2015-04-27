@@ -14,6 +14,7 @@ html{
   font-weight:300;
   }
 
+
   .pacifico{
     font-family:'Pacifico';
     font-size:30px;
@@ -24,6 +25,10 @@ html{
     display:block;
   }
 
+.header{
+    display:inline-block;
+    font-size:30px;
+  }
 
   .topnav{
     width:100%;
