@@ -24,3 +24,5 @@ Just get in touch. I'm always happy to meet for coffee.
 I'm currently working out of [The Works](http://www.thisistheworks.com/) in Carroll Gardens.
 
 Much love.
+
+![Me. Posing instead of rock climbing.](/images/aboutme.jpg)
