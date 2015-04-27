@@ -30,6 +30,13 @@ html{
     font-size:30px;
   }
 
+.navigation{
+  position:absolute;
+  top:0px;
+  width:100%;
+  background-color:#4CAF50;
+}
+
   .topnav{
     width:100%;
     text-align:center;
