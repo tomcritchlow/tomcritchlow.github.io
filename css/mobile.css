@@ -48,10 +48,15 @@ html{
     width:100%;
     color:white;
     font-size:40px;
+    display:block;
   }
 
   .topnav span a{
     color:white;
+  }
+
+  .navigation .close{
+    padding-top:40px;
   }
 
   h1{

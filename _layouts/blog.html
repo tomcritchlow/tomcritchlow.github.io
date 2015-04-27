@@ -13,7 +13,7 @@
     <span><a href="/">hello</a></span>
     <span><a href="/about">about me</a></span>
     <span><a href="/writing">writing</a></span>
-    <span class="desktophidden">X</span>
+    <span class="desktophidden opensans close">X</span>
   </div>
 </div>
 
@@ -42,5 +42,10 @@ $('p img').each(function(){
 $(".header").click(function(){
     $(".navigation").slideToggle();
   });
+
+$(".close").click(function(){
+      $(".navigation").slideToggle();
+    });
+
 
 </script>

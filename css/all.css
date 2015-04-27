@@ -34,3 +34,7 @@ a {
 .hidden{
    display:none;
  }
+
+ .opensans{
+   font-family:'open sans'
+ }
