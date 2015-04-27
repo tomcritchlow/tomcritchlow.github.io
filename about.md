@@ -25,4 +25,4 @@ I'm currently working out of [The Works](http://www.thisistheworks.com/) in Carr
 
 Much love.
 
-![Me. Posing instead of rock climbing.](/images/aboutme.jpg)
+![Me. Posing instead of rock climbing.](/images/aboutme.JPG)
