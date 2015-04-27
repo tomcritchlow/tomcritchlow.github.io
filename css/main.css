@@ -53,6 +53,7 @@ html{
 .topnav span{
   color:#4CAF50;
   font-size:20px;
+  font-weight:600;
 }
 
 .topnav span:nth-child(2) {
