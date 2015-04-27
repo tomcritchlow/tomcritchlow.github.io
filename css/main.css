@@ -40,6 +40,8 @@ html{
 .header{
   display:inline-block;
   font-size:30px;
+  cursor: pointer;
+  cursor: hand;
 }
 
 .topnav{
