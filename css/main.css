@@ -5,6 +5,10 @@ html{
   min-height:100%;
 }
 
+.hidden{
+  display:none;
+}
+
 .welcomewrapper{
   position:absolute;
   top:50%;
