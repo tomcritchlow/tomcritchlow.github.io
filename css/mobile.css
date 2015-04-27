@@ -45,13 +45,13 @@ html{
   }
 
   .topnav span{
-    color:#4CAF50;
-    font-size:15px;
-    padding-left:20px;
+    width:100%;
+    color:white;
+    font-size:40px;
   }
 
   .topnav span a{
-    color:#4CAF50;
+    color:white;
   }
 
   h1{
