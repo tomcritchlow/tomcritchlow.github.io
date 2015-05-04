@@ -31,10 +31,16 @@ I'm not 100% sure where this thinking leads but look out for more cross-publishi
 
 --
 
-Update - interesting trend here that plays into this theme:
+Update #1
+
+Andy Weissman tweeted this out:
 
 <blockquote class="twitter-tweet" lang="en"><p>this shit is intense. Someday soon, a publisher or business might find themselves eclipsed by some service that doesnt even have a web site.</p>&mdash; Andy Weissman (@aweissman) <a href="https://twitter.com/aweissman/status/588372543616126976">April 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Which references this amazing post on the New York Times:
+
+[Instagram's TMZ](http://www.nytimes.com/2015/04/19/magazine/instagrams-tmz.html)
 
 --
 
@@ -43,3 +49,11 @@ Update #2
 Jonathan Libov and I had some great conversations around this topic and he wrote up some more thinking on this over on his blog:
 
 [Destination Everywhere](http://whoo.ps/2015/04/24/destination-everywhere)
+
+--
+
+Update #3
+
+Toby Shorin has posted a follow-up exploring ideas of decentralized ecommerce here:
+
+[The Future of Ecommerce is Distributed](http://subpixel.space/entries/distributed-ecommerce/)
