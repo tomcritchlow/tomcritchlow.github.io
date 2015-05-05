@@ -1,21 +1,19 @@
 ---
 layout: blog
-title: Building a local Instagram feed
+title: Building a feed of Instagram photos near where I live.
 ---
 
-One of the most rewarding habits I try to cultivate is to look more closely at the world around me. Paying attention. 
+One of the most rewarding habits I try to cultivate is to look more closely at the world around me. Paying attention to the world and the self as I walk through the world. This quote from Italo Calvino eloquently illustrates the point that most people learn blindness as a defense: 
 
-> There are two ways to escape suffering [the inferno of living]. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it.
+> *There are two ways to escape suffering [the inferno of living]. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it.* - Italo Calvino
 
-I've built a little thing. Nothing fancy - just some APIs and culture. 
+So I built a lens. A digital tool that lets me look at the world around me in a new way. It's something that Instagram doesn't offer natively - a feed of images taken around me. I'm not interested in building out a full app and hitting rate limits so I just built this for myself. It's a feed of instagram photos taken within 400 yards of where I live which includes parts or Boerum Hill and Gowanus in Brooklyn. 
 
-What do we learn from looking at the world around us? How closely do we observe?
+What do we learn from looking at the world around us? It turns out that you learn a lot - this feed looks very different from my curated filter bubble that is my traditional Instagram feed...
 
-![Instagram images from the Boerum Hill area of Brooklyn, NY](/images/instagram.png)
+![Instagram images from the Boerum Hill / Gowanus area of Brooklyn, NY](/images/instagram.png)
 
-If you're interested - check it out.
-
-The feed of Instagram images tagged with geoloction near Boerum Hill, Brooklyn.
+See for yourself here: [tomcritchlow.com/instagram/](/instagram/)
 
 ## The plumbing
 
