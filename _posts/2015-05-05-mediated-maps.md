@@ -11,7 +11,7 @@ I built a tool to look at all the Instagram photos taken near where I live. The 
 
 Technically it’s just a feed of instagram photos taken within 400 yards of where I live which includes parts or Boerum Hill and Gowanus in Brooklyn, but in reality it’s kitchens, playgrounds and commutes of people who live around me but never show up in the mediated maps of Facebook and Instagram. 
 
-One of the most rewarding habits I try to cultivate is to look more closely at the world around me and is a little lens. A digital tool that lets me look at the world around me in a new way.
+One of the most rewarding habits I try to cultivate is to look more closely at the world around me, but looking is an old habit. I wanted to build a digital tool that lets me look at the world around me in a new way, and give me a new lens.  
 
 See for yourself here: [tomcritchlow.com/instagram/](/instagram/)
 
