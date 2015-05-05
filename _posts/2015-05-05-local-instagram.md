@@ -1,21 +1,21 @@
 ---
 layout: blog
-title: Building a feed of Instagram photos near where I live.
+title: Mediated maps & digital blind spots.
 ---
 
-One of the most rewarding habits I try to cultivate is to look more closely at the world around me. Paying attention to the world and the self as I walk through the world. This quote from Italo Calvino eloquently illustrates the point that most people learn blindness as a defense: 
-
-> *There are two ways to escape suffering [the inferno of living]. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it.* - Italo Calvino
-
-So I built a lens. A digital tool that lets me look at the world around me in a new way. It's something that Instagram doesn't offer natively - a feed of images taken around me. I'm not interested in building out a full app and hitting rate limits so I just built this for myself. It's a feed of instagram photos taken within 400 yards of where I live which includes parts or Boerum Hill and Gowanus in Brooklyn. 
-
-What do we learn from looking at the world around us? It turns out that you learn a lot - this feed looks very different from my curated filter bubble that is my traditional Instagram feed...
+What do we learn from looking at the world around us? I believe there’s value in looking so, I built a little tool to look at all the Instagram photos taken near where I live and this feed looks very different from my curated filter bubble that is my traditional Instagram feed...
 
 ![Instagram images from the Boerum Hill / Gowanus area of Brooklyn, NY](/images/instagram.png)
 
+One of the most rewarding habits I try to cultivate is to look more closely at the world around me. This habit is exhausting. You quickly realize that there is plenty of the world you don’t see. Life happening just around the corner from you that you never see or think about.
+
+So I built a lens. A digital tool that lets me look at the world around me in a new way.
+
+It's a feed of instagram photos taken within 400 yards of where I live which includes parts or Boerum Hill and Gowanus in Brooklyn.  
+
 See for yourself here: [tomcritchlow.com/instagram/](/instagram/)
 
-More to come soon on the thinking behind using the internet to unearth insights and reflection of the real world around us rather than the curated filter bubble from our friends.
+This is really just the tip of the iceberg in the broader conversation about how we become human beings on and with and using the internet. You realize that the act of following is also the act of excluding - how can we build new inclusions? Sometimes it’s important to change your filter to think in new ways about how “place”, “people” and “communities” work.
 
 ## The plumbing
 
@@ -26,3 +26,9 @@ Firstly - the data gets pulled into a spreadsheet using Google Scripts ([see the
 Then - I publish that spreadsheet ([see it here](https://docs.google.com/spreadsheets/d/1er8KB9DhFaAddMAGekPWlJddcAZQEFuDg58WOpUKI08/pubhtml?gid=0&single=true)).
 
 Lastly - I use tabletop.js to display the data visually ([see the front end code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/boerumhill.html)).
+
+## Digital Research
+
+A higher resolution map of the spaces we inhabit, whether target audiences or physical neighborhoods, lets us find more opportunity for finding real problems, understanding real lives and engaging with communities in real, meaningful ways.
+
+I’m thinking more closely about research projects - if you’re curious about using digital tools to unearth stories and insights about the real world get in touch. I’d love to talk.
