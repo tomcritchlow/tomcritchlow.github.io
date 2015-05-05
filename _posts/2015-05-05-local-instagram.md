@@ -15,6 +15,8 @@ What do we learn from looking at the world around us? It turns out that you lear
 
 See for yourself here: [tomcritchlow.com/instagram/](/instagram/)
 
+More to come soon on the thinking behind using the internet to unearth insights and reflection of the real world around us rather than the curated filter bubble from our friends.
+
 ## The plumbing
 
 Behind the scenes, here's how I built it:
