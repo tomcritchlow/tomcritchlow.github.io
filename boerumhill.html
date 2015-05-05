@@ -24,7 +24,7 @@
          $(".cover").slideToggle("slow");
          var i = 0;
          while(i < 51) {
-            $(".box").append("<div class='image'><a href='"+data[i].link+"'><img src='"+data[i].url+"' /></a>"+data[i].username+"</div>");
+            $(".box").append("<div class='image'><a href='"+data[i].link+"'><img src='"+data[i].url+"' /></a>@"+data[i].username+"</div>");
             i++;
           };
           }
@@ -45,7 +45,7 @@
     float:left;
     padding-right:10px;
     padding-left:10px;
-    margin-bottom:20px;
+    margin-bottom:50px;
     }
 
 .image img{
