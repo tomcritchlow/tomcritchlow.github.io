@@ -57,3 +57,11 @@ Update #3
 Toby Shorin has posted a follow-up exploring ideas of decentralized ecommerce here:
 
 [The Future of Ecommerce is Distributed](http://subpixel.space/entries/distributed-ecommerce/)
+
+--
+
+Update #4
+
+Andy Weissman has blogged:
+
+[The No-Stack Startup](http://blog.aweissman.com/2015/05/no-stack-startups.html?m=1)
