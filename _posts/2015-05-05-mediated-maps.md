@@ -25,7 +25,7 @@ Firstly - the data gets pulled into a spreadsheet using Google Scripts and refre
 
 Then - I publish that spreadsheet ([see it here](https://docs.google.com/spreadsheets/d/1er8KB9DhFaAddMAGekPWlJddcAZQEFuDg58WOpUKI08/pubhtml?gid=0&single=true)).
 
-Lastly - I use tabletop.js to display the last 50 photos visually ([see the front end code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/boerumhill.html)).
+Lastly - I use tabletop.js to display the last 50 photos visually ([see the front end code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/instagram.html)).
 
 ## Digital Research
 
