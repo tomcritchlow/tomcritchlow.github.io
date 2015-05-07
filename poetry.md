@@ -62,3 +62,17 @@ in which
 our names do not appear.
 
 >[Diving into the wreck by Adrienne Rich](http://www.poets.org/poetsorg/poem/diving-wreck)
+
+
+
+
+<script>
+	
+$('p').each(function(){
+  $(this).split("\n").join("<br />");
+});
+	
+	
+	
+	
+	</script>
