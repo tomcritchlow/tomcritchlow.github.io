@@ -71,7 +71,7 @@ our names do not appear.
 $('p').each(function(){
   var text =$(this).text();
   var text = text.split("\n").join("<br />") 
-  $(this).replaceWith(text);
+  $(this).html(text);
 });
 	
 	
