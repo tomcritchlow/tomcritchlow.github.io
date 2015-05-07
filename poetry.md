@@ -72,6 +72,7 @@ $('p').each(function(){
   var text =$(this).text();
   var text = text.split("\n").join("<br />") 
   $(this).html(text);
+  alert(text);
 });
 	
 	
