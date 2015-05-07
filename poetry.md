@@ -69,10 +69,9 @@ our names do not appear.
 <script>
 	
 $('p').each(function(){
-  var text =$(this).text();
+  var text =$(this).html();
   var text = text.split("\n").join("<br />") 
   $(this).html(text);
-  alert(text);
 });
 	
 	
