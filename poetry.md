@@ -69,7 +69,7 @@ our names do not appear.
 <script>
 	
 $('p').each(function(){
-  $(this).split("\n").join("<br />");
+  $(this).text().split("\n").join("<br />");
 });
 	
 	
