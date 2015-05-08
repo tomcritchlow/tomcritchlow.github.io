@@ -3,11 +3,11 @@ layout: blog
 title: Some of my favourite poems
 ---
 
-http://www.poets.org/poetsorg/poem/asphodel-greeny-flower-excerpt
-
 >But the sea
 >which no one tends
 >is also a garden
+
+[Asphodel, That Greeny Flower by William Carlos Williams](http://www.poets.org/poetsorg/poem/asphodel-greeny-flower-excerpt)
 
 --
 
@@ -34,17 +34,17 @@ Hafiz
 
 --
 
-In the summer
-I stretch out on the shore
-And think of you
-Had I told the sea
-What I felt for you,
-It would have left its shores,
-Its shells,
-Its fish,
-And followed me.
+>In the summer
+>I stretch out on the shore
+>And think of you
+>Had I told the sea
+>What I felt for you,
+>It would have left its shores,
+>Its shells,
+>Its fish,
+>And followed me.
  
->Nizar Qabbani
+Nizar Qabbani
 
 --
 
@@ -52,7 +52,7 @@ And followed me.
 
 --
 
-We are, I am, you are
+>We are, I am, you are
 by cowardice or courage
 the one who find our way
 back to this scene
@@ -61,7 +61,7 @@ a book of myths
 in which
 our names do not appear.
 
->[Diving into the wreck by Adrienne Rich](http://www.poets.org/poetsorg/poem/diving-wreck)
+[Diving into the wreck by Adrienne Rich](http://www.poets.org/poetsorg/poem/diving-wreck)
 
 
 
@@ -73,8 +73,5 @@ $('p').each(function(){
   var text = text.split("\n").join("<br />") 
   $(this).html(text);
 });
-	
-	
-	
-	
-	</script>
+
+</script>
