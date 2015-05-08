@@ -4,8 +4,8 @@ title: Some of my favourite poems
 ---
 
 >But the sea
->which no one tends
->is also a garden
+which no one tends
+is also a garden
 
 [Asphodel, That Greeny Flower by William Carlos Williams](http://www.poets.org/poetsorg/poem/asphodel-greeny-flower-excerpt)
 
@@ -18,31 +18,31 @@ Hafiz
 --
 
 >And we all say: OH!
->Well I never!
->Was there ever
->A Cat so clever
->As Magical Mr. Mistoffelees!
+Well I never!
+Was there ever
+A Cat so clever
+As Magical Mr. Mistoffelees!
 
 [Mr Mistophelees by TS Eliot](http://famouspoetsandpoems.com/poets/t__s__eliot/poems/15147)
 
 --
 
 >So the darkness shall be the light, and the stillness the dancing.
->Whisper of running streams, and winter lightning.
+Whisper of running streams, and winter lightning.
 
 [The Four Quartets by TS Eliot](http://www.coldbacon.com/poems/fq.html)
 
 --
 
 >In the summer
->I stretch out on the shore
->And think of you
->Had I told the sea
->What I felt for you,
->It would have left its shores,
->Its shells,
->Its fish,
->And followed me.
+I stretch out on the shore
+And think of you
+Had I told the sea
+What I felt for you,
+It would have left its shores,
+Its shells,
+Its fish,
+And followed me.
  
 Nizar Qabbani
 
