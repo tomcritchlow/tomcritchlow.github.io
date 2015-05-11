@@ -48,6 +48,15 @@ Nizar Qabbani
 
 --
 
+>But after a time allowed for it to swim,
+Instead of proving human when it neared
+And someone else additional to him,
+As a great buck it powerfully appeared,
+Pushing the crumpled water up ahead,
+And landed pouring like a waterfall,
+And stumbled through the rocks with horny tread,
+And forced the underbrush--and that was all.
+
 [The Most of It by Robert Frost](http://genius.com/Robert-frost-the-most-of-it-annotated)
 
 --
