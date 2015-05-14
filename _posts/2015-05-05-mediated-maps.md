@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mediated Maps & Digital Blind Spots
+subtitle: An experiment in looking at the world around me through a new lens
 ---
 
 What do we learn from looking at the world around us?
