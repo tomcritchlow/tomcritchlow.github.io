@@ -38,3 +38,7 @@ a {
  .opensans{
    font-family:'open sans'
  }
+
+pre{
+  word-wrap: break-word; 
+}
