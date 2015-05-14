@@ -26,7 +26,9 @@
 <h2 class='subtitle'>{{page.subtitle}}</h2>
   {% endif %}
 
+{% if page.date %}
 <p class="date">&mdash; {{ page.date | date: "%B %-d, %Y" }} &mdash;</p>
+  {% endif %}
   
   {{content}}
 
