@@ -80,7 +80,10 @@ html{
   font-weight:200;
 }
 
-.date{text-align:center}
+.date{
+  text-align:center;
+  text-transform: uppercase;
+}
 
   p, ul, li, ol{
     font-size:18px;
