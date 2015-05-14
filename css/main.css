@@ -86,7 +86,6 @@ h1{
   font-weight:300;
   width:800px;
   margin-left:-75px;
-  margin-bottom:75px;
 }
 
 h2{
@@ -96,14 +95,13 @@ h2{
 }
 
 .subtitle{
-  margin-top:-50px;
-  margin-bottom:75px;
   font-weight:200;
 }
 
 .date{
   text-align:center;
   text-transform: uppercase;
+  font-weight:200;
 }
 
 p, ul, li, ol{

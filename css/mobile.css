@@ -83,6 +83,7 @@ html{
 .date{
   text-align:center;
   text-transform: uppercase;
+  font-weight:200;
 }
 
   p, ul, li, ol{
