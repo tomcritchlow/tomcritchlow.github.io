@@ -96,7 +96,10 @@ h2{
 }
 
 .subtitle{
-  
+  margin-top:-50px;
+  margin-bottom:75px;
+  color:lightgrey;
+  font-style:italic;
 }
 
 p, ul, li, ol{
