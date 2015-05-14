@@ -75,6 +75,11 @@ html{
     font-weight:300;
   }
 
+
+.subtitle{
+  font-weight:200;
+}
+
   p, ul, li, ol{
     font-size:18px;
     line-height:25px;
