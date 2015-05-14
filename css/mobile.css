@@ -63,6 +63,7 @@ html{
 
   h1{
     font-size:45px;
+    line-height:50px;
     text-align:center;
     font-family:'Neuton';
     font-weight:300;
@@ -87,8 +88,8 @@ html{
 }
 
   p, ul, li, ol{
-    font-size:18px;
-    line-height:25px;
+    font-size:20px;
+    line-height:28px;
   }
 
   p img{
