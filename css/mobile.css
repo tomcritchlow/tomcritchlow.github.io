@@ -80,6 +80,8 @@ html{
   font-weight:200;
 }
 
+.date{text-align:center}
+
   p, ul, li, ol{
     font-size:18px;
     line-height:25px;

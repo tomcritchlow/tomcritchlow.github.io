@@ -101,6 +101,8 @@ h2{
   font-weight:200;
 }
 
+.date{text-align:center}
+
 p, ul, li, ol{
   font-size:25px;
   line-height:35px;
