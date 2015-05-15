@@ -144,7 +144,15 @@ p iframe{
   margin: auto;
 }
 
+.slider{
+  margin: 0 -35%;
+  width: 170%;
+  text-align: center;
+}
+
 .slider img{
+  max-width: 100%;
+  margin: auto;
   display:none;
 }
 
