@@ -65,8 +65,12 @@ $(".close").click(function(){
       $(".navigation").slideToggle();
     });
     
+// add some setup here to add the prev/next to each slider and initial count val
+    
 $(".slider next").click(function(){
-      $(this).parent().html()
+      var count = $(this).parent().attr("data-count");
+      var images = $(this).parent().find("img");
+      images[count].show();
     });
 
 $(".slider prev").click(function(){
