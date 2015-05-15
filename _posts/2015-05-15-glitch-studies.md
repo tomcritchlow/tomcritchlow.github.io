@@ -31,13 +31,13 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 <div class="slider" data-count="0">
 
-<i class='fa fa-angle-left prev'></i>
+<i class='fa fa-angle-left fa-3x prev'></i>
 
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 
-<i class='fa fa-angle-right next'></i>
+<i class='fa fa-angle-right fa-3x next'></i>
 
 </div>
 
