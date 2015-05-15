@@ -144,6 +144,10 @@ p iframe{
   margin: auto;
 }
 
+.slider:before{
+  content: "<i class='fa fa-angle-left'></i>"
+}
+
 .footer{
   width:100%;
   text-align:center;

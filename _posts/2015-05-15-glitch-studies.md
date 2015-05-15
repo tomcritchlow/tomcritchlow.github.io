@@ -17,15 +17,25 @@ https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
 
 Glitch Cookies is a body of work produced by taking screenshots of the New York Times and *glitching* these images using the cookies from the New York Times homepage and inserting them into the bytes of the screenshot at random intervals. This work was produced using screenshots and cookies generated on May 14th. Screenshots were used from several different sections of the New York Times and a total of 78 cookies were recorded during a visit to the site in Chrome. 
 
+![](/images/glitchstudies/nytheadline2.gif)
+
 ## The Thinking Behind Glitch Cookies
 
 The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight. To quote the matrix - they're in the walls.
 
-![](/images/glitchstudies/nytheadline.gif)
+
 
 The following are my studies of various NYT screenshots - I've picked the best snapshots and crops from the images that were generated. To view the full album of images head over to this imgur gallery.
 
 ## The New York Times Homepage
+
+<div class="slider">
+
+<img src="/images/glitchstudies/glitchcookiecover.jpg" />
+<img src="/images/glitchstudies/glitchcookiecover.jpg" />
+<img src="/images/glitchstudies/glitchcookiecover.jpg" />
+
+</div>
 
 ## The Art Decade
 
