@@ -69,8 +69,9 @@ $(".close").click(function(){
     
 $(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
-      count = count % $(this).parent().find("img").length;
-      alert(count);
+      var length = $(this).parent().find("img").length - 1;
+      count = count % length;
+      alert(count, length);
       $(this).parent().find("img").eq(count).hide();
       count++;
       $(this).parent().find("img").eq(count).show();
