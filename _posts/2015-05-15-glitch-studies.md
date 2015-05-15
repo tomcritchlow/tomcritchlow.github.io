@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Glitch Studies
+title: Glitch Studies (draft! Please ignore!)
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
 coverimage: /images/glitchstudies/glitchcookiecover.jpg 
 ---
