@@ -67,14 +67,14 @@ $(".close").click(function(){
     
 // add some setup here to add the prev/next to each slider and initial count val
     
-$(".slider next").click(function(){
+$(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
       var images = $(this).parent().find("img");
       alert(count);
       count++
     });
 
-$(".slider prev").click(function(){
+$(".slider .prev").click(function(){
       $(this).parent().html()
     });
 
