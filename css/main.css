@@ -148,6 +148,7 @@ p iframe{
   margin: 0 -35%;
   width: 170%;
   text-align: center;
+  position:relative;
 }
 
 .slider img{
@@ -158,6 +159,11 @@ p iframe{
 
 .slider img:first-of-type{
   display:inline;
+}
+
+.slider .prev, .next{
+  position:absolute;
+  top:50%;
 }
 
 .footer{
