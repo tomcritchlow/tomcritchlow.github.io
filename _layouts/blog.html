@@ -70,7 +70,7 @@ $(".close").click(function(){
 $(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
       $(this).parent().find("img").eq(count).hide();
-      if (count = 2){
+      if (count == 2){
         count = 0;
       } else{
         count++
