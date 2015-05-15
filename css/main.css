@@ -167,11 +167,11 @@ p iframe{
 }
 
 .slider .prev{
-  left:50px;
+  left:-50px;
 }
 
 .slider .next{
-  right:50px;
+  right:-50px;
 }
 
 .footer{
