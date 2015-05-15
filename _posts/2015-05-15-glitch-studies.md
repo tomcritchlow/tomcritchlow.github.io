@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: Glitch Cookies
+title: Glitch Studies
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
 coverimage: /images/glitchcookiecover.jpg 
 ---
 
-One of the things I've been taking the time to do while self-employed is tinker more. And here is the first outcome - a digital art project titled *Glitch Cookies*.
+One of the things I've been taking the time to do while self-employed is tinker more. And here is the first outcome - a digital art project titled *Glitch Studies*.
 
 ![](/images/glitch cookies.png)
 
@@ -21,7 +21,7 @@ Glitch Cookies is a body of work produced by taking screenshots of the New York 
 
 The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight. To quote the matrix - they're in the walls.
 
-![](/images/nytheadlines.gif)
+![](/images/nytheadline.gif)
 
 ## The New York Times Homepage
 
