@@ -69,10 +69,9 @@ $(".close").click(function(){
     
 $(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
-      var images = $(this).parent().find("img");
-      images[count].hide();
+      $(this).parent().find("img").eq(count).hide();
       count++;
-      images[count].show();
+      $(this).parent().find("img").eq(count).show();
       $(this).parent().attr("data-count",count);
     });
 
