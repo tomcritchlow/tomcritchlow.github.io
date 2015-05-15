@@ -71,7 +71,8 @@ $(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
       var images = $(this).parent().find("img");
       alert(count);
-      $(this).parent().attr("data-count","2");
+      count++;
+      $(this).parent().attr("data-count",count);
     });
 
 $(".slider .prev").click(function(){
