@@ -148,7 +148,7 @@ p iframe{
   display:none;
 }
 
-.slider img::first-child{
+.slider img:first-child{
   display:block;
 }
 
