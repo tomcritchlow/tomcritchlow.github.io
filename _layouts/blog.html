@@ -70,7 +70,8 @@ $(".close").click(function(){
 $(".slider next").click(function(){
       var count = $(this).parent().attr("data-count");
       var images = $(this).parent().find("img");
-      images[count].show();
+      alert(count);
+      count++
     });
 
 $(".slider prev").click(function(){
