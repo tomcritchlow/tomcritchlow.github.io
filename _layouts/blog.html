@@ -64,7 +64,10 @@ $(".header").click(function(){
 $(".close").click(function(){
       $(".navigation").slideToggle();
     });
-    
+
+
+$(".slider).prepend("<i class='fa fa-angle-left fa-3x prev'></i>");
+$(".slider).append("<i class='fa fa-angle-right fa-3x next'></i>");    
 // add some setup here to add the prev/next to each slider and initial count val
     
 $(".slider .next").click(function(){
