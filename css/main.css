@@ -148,8 +148,8 @@ p iframe{
   display:none;
 }
 
-.slider img:first-child{
-  display:block !important;
+.slider img:first-of-type{
+  display:visible;
 }
 
 .footer{
