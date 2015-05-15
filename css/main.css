@@ -144,6 +144,14 @@ p iframe{
   margin: auto;
 }
 
+.slider img{
+  display:none;
+}
+
+.slider img::first-child{
+  display:initial;
+}
+
 .footer{
   width:100%;
   text-align:center;
