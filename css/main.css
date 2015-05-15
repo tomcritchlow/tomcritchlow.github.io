@@ -166,6 +166,14 @@ p iframe{
   top:50%;
 }
 
+.slider .prev{
+  left:50px;
+}
+
+.slider .next{
+  right:50px;
+}
+
 .footer{
   width:100%;
   text-align:center;
