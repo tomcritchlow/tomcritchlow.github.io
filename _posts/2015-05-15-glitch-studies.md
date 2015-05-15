@@ -23,6 +23,8 @@ The thinking here is to use glitch art techniques to expose the contrast between
 
 ![](/images/glitchstudies/nytheadline.gif)
 
+The following are my studies of various NYT screenshots - I've picked the best snapshots and crops from the images that were generated. To view the full album of images head over to this imgur gallery.
+
 ## The New York Times Homepage
 
 ## The Art Decade
@@ -34,7 +36,7 @@ The thinking here is to use glitch art techniques to expose the contrast between
 
 
 
-See the full album of *Glitch Cookies* images over on imgur.
+
 
 ## Order a copy of Glitch Cookies
 
