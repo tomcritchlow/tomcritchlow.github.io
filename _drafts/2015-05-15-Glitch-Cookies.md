@@ -15,7 +15,11 @@ What are we looking at here?
 
 https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
 
+## Why Glitch Cookies?
+
 The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight. To quote the matrix - they're in the walls.
+
+
 
 ## The New York Times Homepage
 
