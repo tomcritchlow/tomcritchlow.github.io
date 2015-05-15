@@ -2,7 +2,7 @@
 layout: blog
 title: Glitch Cookies
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
-coverimage: /images/glitchcookiescover.png 
+coverimage: /images/glitchcookiecover.jpg 
 ---
 
 
