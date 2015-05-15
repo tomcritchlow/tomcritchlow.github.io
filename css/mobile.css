@@ -61,6 +61,16 @@ html{
     padding-top:40px;
   }
 
+.coverimage{
+  width:100%;
+  height:200px;
+  overflow:hidden;
+}
+
+.coverimage img{
+  height:200px;
+}
+
   h1{
     font-size:45px;
     line-height:50px;
