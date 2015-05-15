@@ -145,7 +145,7 @@ p iframe{
 }
 
 .slider:before{
-  content: "<i class='fa fa-angle-left'></i>"
+  content: <i class='fa fa-angle-left'></i>
 }
 
 .footer{
