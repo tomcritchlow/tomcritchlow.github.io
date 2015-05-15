@@ -149,7 +149,7 @@ p iframe{
 }
 
 .slider img:first-of-type{
-  display:normal;
+  display:block;
 }
 
 .footer{
