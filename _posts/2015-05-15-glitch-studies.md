@@ -29,15 +29,11 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 ## The New York Times Homepage
 
-<div class="slider" data-count="0">
-
-
+<div class="slider">
 
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
+<img src="/images/glitchstudies/glitch cookies.png" />
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
-<img src="/images/glitchstudies/glitchcookiecover.jpg" />
-
-
 
 </div>
 
