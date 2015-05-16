@@ -41,8 +41,8 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 <div class="slider">
 
-<img src="/images/glitchstudies/art1.jpg" />
-<img src="/images/glitchstudies/art2.jpg" />
+<img src="/images/glitchstudies/art1.png" />
+<img src="/images/glitchstudies/art2.png" />
 </div>
 
 
