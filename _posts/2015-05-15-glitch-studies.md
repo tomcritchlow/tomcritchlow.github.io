@@ -39,10 +39,14 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 ## The Art Decade
 
+I took this article on the biggest art sales of the decade and ran it through the glitch cookie machine. Here's some highlights:
+
 <div class="slider">
 
 <img src="/images/glitchstudies/art1.png" />
 <img src="/images/glitchstudies/art2.png" />
+<img src="/images/glitchstudies/art3.png" />
+
 </div>
 
 
