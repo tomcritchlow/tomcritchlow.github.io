@@ -39,6 +39,13 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 ## The Art Decade
 
+<div class="slider">
+
+<img src="/images/glitchstudies/art1.jpg" />
+<img src="/images/glitchstudies/art2.jpg" />
+</div>
+
+
 ## A Story on Facebook
 
 ## Privcay Policy Page
