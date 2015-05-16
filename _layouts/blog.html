@@ -88,7 +88,7 @@ $(".slider .prev").click(function(){
       var length = $(this).parent().find("img").length;
       $(this).parent().find("img").eq(count).hide();
       if (count == 0){
-        count = length;
+        count = length-1;
       } else{
         count--
       };
