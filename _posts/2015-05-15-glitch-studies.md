@@ -47,6 +47,7 @@ I took this article on the biggest art sales of the decade and ran it through th
 <img src="/images/glitchstudies/art1.png" />
 <img src="/images/glitchstudies/art2.png" />
 <img src="/images/glitchstudies/art3.png" />
+<img src="/images/glitchstudies/art4.png" />
 
 </div>
 
