@@ -73,7 +73,7 @@ $(".slider").append("<i class='fa fa-angle-right fa-3x next'></i>");
 $(".slider .next").click(function(){
       var count = $(this).parent().attr("data-count");
       var length = $(this).find("img").length;
-      alert(length-1);
+      alert(length);
       $(this).parent().find("img").eq(count).hide();
       if (count == length-1){
         count = 0;
