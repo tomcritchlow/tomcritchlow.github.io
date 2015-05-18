@@ -78,13 +78,3 @@ Step 2) Collect all the cookies dropped (12:20pm Wed May 13th, 2015). I did this
 Step 3) Modify the glitch python code found here, to insert all the cookies randomly within the jpg file.
 
 Step 4) Run code several times to generate new glitch cookie artworks.
-
-
-<script>
-$.each(document.cookie.split(/; */), function()  {
-  var splitCookie = this.split('=');
-  $("html").append(splitCookie[0]);
-  $("html").append(splitCookie[1]);
-  // name is splitCookie[0], value is splitCookie[1]
-});
-</script>
