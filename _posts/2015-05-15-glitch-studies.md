@@ -1,19 +1,21 @@
 ---
 layout: blog
-title: Glitch Studies (draft! Please ignore!)
+title: Privacy Glitch (draft! Please ignore!)
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
 coverimage: /images/glitchstudies/glitchcookiecover.jpg 
 ---
 
-One of the things I've been taking the time to do while self-employed is tinker more. And here is the first outcome - a digital art project titled *Glitch Studies*.
+As we browse around the web we are constantly tracked. Unkown entities watch us like a million invisible CCTV cameras logging our every movement. *Privacy Glitch* is a digital art project designed to make these invisible power structures visible.
+
+I'm using a process known as *glitching* (and more specifically the process of *data-bending*). The source images are photos and screenshots taken from popular media sites and the characters inserted into those image files to produce the glitch effects are the contents of the tracking cookies generated when I visited these sites in my browser.
+
+The final product is a series of images at once stark, abstract, colorful and broken. These images represent a visual manifestation of the invisible web of tracking cookies designed to erode our privacy.   
 
 ![](/images/glitchstudies/glitch cookies.png)
 
-What is 
+## What am I looking at?
 
-https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
-
-## What is Glitch Cookies?
+Each image is 
 
 Glitch Cookies is a body of work produced by taking screenshots of the New York Times and *glitching* these images using the cookies from the New York Times homepage and inserting them into the bytes of the screenshot at random intervals. This work was produced using screenshots and cookies generated on May 14th. Screenshots were used from several different sections of the New York Times and a total of 78 cookies were recorded during a visit to the site in Chrome. 
 
@@ -28,6 +30,10 @@ The thinking here is to use glitch art techniques to expose the contrast between
 The following are my studies of various NYT screenshots - I've picked the best snapshots and crops from the images that were generated. To view the full album of images head over to this imgur gallery.
 
 ## The New York Times Homepage
+
+The New York Times generated 78 cookies when I visited the site. Producing a series f
+
+nyt_glitch_studies_01:
 
 <div class="slider">
 
@@ -54,20 +60,25 @@ I took this article on the biggest art sales of the decade and ran it through th
 
 ## A Story on Facebook
 
-## Privcay Policy Page
 
 
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  
 
 
 
 
 ## Order a copy of Glitch Cookies
 
-I'm printing up some physical books - magazine size with 30 new pieces of Glitch Cookie art. I'm waiting on the physical proofs from the printer - if you want one please drop me an email: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a> 
+I'm producing a small batch of physical books - magazine size with approximately 30 glitch studies. I'm waiting on the physical proofs from the printer - if you want one please drop me an email: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a> 
 
 ## The Making of Glitch Cookies
 
-Here's a step by step guide to making Glitch Cookies.
+As a creative tinkerer I owe a huge debt of gratitude to those that have come before me. Most of the code for this project was copied and pasted from code found online. In honor of the remix culture on the web here is a step by step guide on producing your own glitch studies: 
 
 Step 1) Get a screenshot of the homepage of the New York Times (12.28pm May 13th, 2015). (Achieved using the Google Drive Chrome plugin to capture the whole page - interestingly we're already seeing glitches start to emerge in the image).
 
@@ -76,5 +87,10 @@ Step 2) Collect all the cookies dropped (12:20pm Wed May 13th, 2015). I did this
 ![](/images/glitchstudies/cookies.png)
 
 Step 3) Modify the glitch python code found here, to insert all the cookies randomly within the jpg file.
+https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
 
-Step 4) Run code several times to generate new glitch cookie artworks.
+A sincere gratitude of debt is due to artofwhatever for their wonderful python code without which this project would not have been possible.
+
+Step 4) Run code several times to generate new glitch cookie artworks and choose the most interesting. Note that many of them will not render properly in the mac preview window.
+
+[3]: http://search.msn.com/    "MSN Search"
