@@ -110,7 +110,7 @@ p, ul, li, ol{
   line-height:35px;
 }
 
-.footnotes{
+.footnotes p, .footnotes ul, .footnotes ol{
   font-size:20px;
   font-style:italic;
 }

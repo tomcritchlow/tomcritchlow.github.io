@@ -91,4 +91,6 @@ A sincere gratitude of debt is due to artofwhatever for their wonderful python c
 
 Step 4) Run code several times to generate new glitch cookie artworks and choose the most interesting. Note that many of them will not render properly in the mac preview window.
 
+--
+
 [^n]: Footnote the first

@@ -103,7 +103,7 @@ html{
     line-height:28px;
   }
 
-.footnotes{
+.footnotes p, .footnotes ul, .footnotes ol{
   font-size:15px;
   font-style:italic;
 }
