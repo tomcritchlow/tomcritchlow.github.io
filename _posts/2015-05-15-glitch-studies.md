@@ -2,7 +2,7 @@
 layout: blog
 title: Privacy Glitch (draft! Please ignore!)
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
-coverimage: /images/glitchstudies/glitchcookiecover.jpg 
+coverimage: /images/glitchstudies/driver.jpg 
 ---
 
 As we browse around the web we are constantly tracked. Unkown entities watch us like a million invisible CCTV cameras logging our every movement. *Privacy Glitch* is a digital art project designed to make these invisible power structures visible.
