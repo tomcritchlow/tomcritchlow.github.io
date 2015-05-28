@@ -103,6 +103,11 @@ html{
     line-height:28px;
   }
 
+.footnotes{
+  font-size:15px;
+  font-style:italic;
+}
+
   p img{
     display:block;
     margin:auto;
