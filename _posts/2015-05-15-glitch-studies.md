@@ -60,13 +60,11 @@ I took this article on the biggest art sales of the decade and ran it through th
 
 ## A Story on Facebook
 
+This is a paragraph[^n] about something. Right?
 
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
 
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
+
   
 
 
@@ -93,4 +91,4 @@ A sincere gratitude of debt is due to artofwhatever for their wonderful python c
 
 Step 4) Run code several times to generate new glitch cookie artworks and choose the most interesting. Note that many of them will not render properly in the mac preview window.
 
-[3]: http://search.msn.com/    "MSN Search"
+[^n]: Footnote the first
