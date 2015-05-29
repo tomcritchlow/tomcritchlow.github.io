@@ -79,6 +79,30 @@ This is a paragraph[^n] about something. Right?
 
 ## The Wall Street Journal
 
+The WSJ dropped XX cookies on me. Here's what I did with them.
+
+The first study is Mick Jagger. In all his glitch glory.
+
+wsj_glitch_studies_01:
+
+<div class="slider">
+
+<img src="/images/glitchstudies/wsj-jagger-192-glitched.jpg" />
+
+</div>
+
+My second study is of a drawing of Ross Ulbricht, founder of the anonymous marketplace Silk Road. The double face that emerges reminds us of the many facets to this story and the idea of multiple personalities - Ross himself created a persona (the dread pirate roberts) to hide behind and claimed that it wasn't a single identity but rather one run by many people:
+
+wsj_glitch_studies_02:
+
+<div class="slider">
+
+<img src="/images/glitchstudies/wsj-silkroad-182-glitched.jpg" />
+<img src="/images/glitchstudies/wsj-silkroad-205-glitched.jpg" />
+<img src="/images/glitchstudies/wsj-silkroad-316-glitched.jpg" />
+<img src="/images/glitchstudies/wsj-silkroad-466-glitched.jpg" />
+
+</div>
 
   
 
