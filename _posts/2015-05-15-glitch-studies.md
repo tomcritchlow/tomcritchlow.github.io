@@ -11,8 +11,6 @@ I'm using a process known as *glitching* (and more specifically the process of *
 
 The final product is a series of images at once stark, abstract, colorful and broken. These images represent a visual manifestation of the invisible web of tracking cookies designed to erode our privacy.   
 
-![](/images/glitchstudies/glitch cookies.png)
-
 ## What am I looking at?
 
 Each image is 
@@ -68,6 +66,7 @@ nyt_glitch_studies_03:
 <img src="/images/glitchstudies/art2.png" />
 <img src="/images/glitchstudies/art3.png" />
 <img src="/images/glitchstudies/art4.png" />
+<img src="/images/glitchstudies/art5.png" />
 
 </div>
 
