@@ -33,6 +33,8 @@ The following are my studies of various NYT screenshots - I've picked the best s
 
 The New York Times generated 78 cookies when I visited the site. Producing a series f
 
+The first series of glitch studies are taken from screenshots of the New York Times. These images are more digital in nature and often wildly more colorful than other types of image:
+
 nyt_glitch_studies_01:
 
 <div class="slider">
@@ -42,6 +44,8 @@ nyt_glitch_studies_01:
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 
 </div>
+
+The second series is taken from individual images, in high resolution, taken from current affiars photo journalism on the New York Times.
 
 nyt_glitch_studies_02:
 
@@ -54,9 +58,9 @@ nyt_glitch_studies_02:
 
 </div>
 
-## The Art Decade
+The third series is taken from a specific article on the biggest art sales of the decade. The juxtopisition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
 
-I took this article on the biggest art sales of the decade and ran it through the glitch cookie machine. Here's some highlights:
+nyt_glitch_studies_03:
 
 <div class="slider">
 
@@ -69,11 +73,13 @@ I took this article on the biggest art sales of the decade and ran it through th
 </div>
 
 
-## A Story on Facebook
+## The Huffington Post
 
 This is a paragraph[^n] about something. Right?
 
 
+
+## The Wall Street Journal
 
 
   
