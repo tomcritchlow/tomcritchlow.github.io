@@ -145,6 +145,7 @@ html{
   width: 100%;
   text-align: center;
   position:relative;
+  margin-bottom:60px;
 }
 
 .slider img{
@@ -159,15 +160,15 @@ html{
 
 .slider .prev, .next{
   position:absolute;
-  top:-5%;
+  bottom:-50px;
 }
 
 .slider .prev{
-  
+  left:20%;
 }
 
 .slider .next{
-  
+  left:60%;
 }
 
 
