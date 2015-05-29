@@ -43,6 +43,17 @@ nyt_glitch_studies_01:
 
 </div>
 
+nyt_glitch_studies_02:
+
+<div class="slider">
+
+<img src="/images/glitchstudies/driver-985-glitched.jpg" />
+<img src="/images/glitchstudies/clinton-414-glitched.jpg" />
+<img src="/images/glitchstudies/nyt-harris-926-glitched.jpg" />
+<img src="/images/glitchstudies/wallst-404-glitched.jpg" />
+
+</div>
+
 ## The Art Decade
 
 I took this article on the biggest art sales of the decade and ran it through the glitch cookie machine. Here's some highlights:
