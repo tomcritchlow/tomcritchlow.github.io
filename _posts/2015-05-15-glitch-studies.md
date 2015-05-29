@@ -41,7 +41,7 @@ nyt_glitch_studies_01:
 
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 <img src="/images/glitchstudies/glitch cookies.png" />
-<img src="/images/glitchstudies/glitchcookiecover.jpg" />
+<img src="/images/glitchstudies/glitch cookies.png" />
 
 </div>
 
@@ -58,13 +58,12 @@ nyt_glitch_studies_02:
 
 </div>
 
-The third series is taken from a specific article on the biggest art sales of the decade. The juxtopisition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
+The third series is taken from a specific article on the [biggest art sales of the decade](http://www.nytimes.com/interactive/2015/05/12/arts/design/top-art-auction-sales.html). The juxtopisition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
 
 nyt_glitch_studies_03:
 
 <div class="slider">
 
-<img src="/images/glitchstudies/art0.png" />
 <img src="/images/glitchstudies/art1.png" />
 <img src="/images/glitchstudies/art2.png" />
 <img src="/images/glitchstudies/art3.png" />
