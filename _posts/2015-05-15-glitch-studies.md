@@ -69,7 +69,11 @@ nyt_glitch_studies_03:
 
 This is a paragraph[^n] about something. Right?
 
+<div class="slider">
 
+<img src="/images/glitchstudies/huffpo1-645-glitched.jpg" />
+
+</div>
 
 ## The Wall Street Journal
 
