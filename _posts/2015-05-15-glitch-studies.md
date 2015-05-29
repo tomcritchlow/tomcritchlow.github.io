@@ -106,6 +106,16 @@ wsj_glitch_studies_02:
 
 </div>
 
+wsj_glitch_studies_03:
+
+<div class="slider">
+
+<img src="/images/glitchstudies/wsj-cuba-514-glitched.jpg" />
+<img src="/images/glitchstudies/wsj-cuba-578-glitched.jpg" />
+<img src="/images/glitchstudies/wsj-cuba-974-glitched.jpg" />
+
+</div>
+
   
 
 
