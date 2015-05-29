@@ -141,6 +141,36 @@ html{
     width:100%;
   }
 
+.slider{
+  width: 100%;
+  text-align: center;
+  position:relative;
+}
+
+.slider img{
+  max-width: 100%;
+  margin: auto;
+  display:none;
+}
+
+.slider img:first-of-type{
+  display:inline;
+}
+
+.slider .prev, .next{
+  position:absolute;
+  top:-5%;
+}
+
+.slider .prev{
+  
+}
+
+.slider .next{
+  
+}
+
+
   .footer{
     width:100%;
     text-align:center;

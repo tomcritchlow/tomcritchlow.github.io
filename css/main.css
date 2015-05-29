@@ -168,8 +168,9 @@ p iframe{
 
 .slider .prev, .next{
   position:absolute;
-  top:50%;
-  height:200px;
+  top:0%;
+  height:400px;
+  padding-top:30%;
 }
 
 .slider .prev{
