@@ -13,12 +13,6 @@ The final product is a series of images at once stark, abstract, colorful and br
 
 *Please note - because of the image handling capabilities of various browsers I recommend using the Chrome browser to view this page, other browsers may distort the images in interesting ways but I have curated these works to be best displayed in Chrome. Thank you.*
 
-## What am I looking at?
-
-Each image is 
-
-Glitch Cookies is a body of work produced by taking screenshots of the New York Times and *glitching* these images using the cookies from the New York Times homepage and inserting them into the bytes of the screenshot at random intervals. This work was produced using screenshots and cookies generated on May 14th. Screenshots were used from several different sections of the New York Times and a total of 78 cookies were recorded during a visit to the site in Chrome. 
-
 ![](/images/glitchstudies/nytheadline2.gif)
 
 ## The Thinking Behind Glitch Cookies
@@ -53,6 +47,7 @@ nyt_glitch_studies_02:
 
 <img src="/images/glitchstudies/driver-985-glitched.jpg" />
 <img src="/images/glitchstudies/clinton-414-glitched.jpg" />
+<img src="/images/glitchstudies/clinton-347-glitched.jpg" />
 <img src="/images/glitchstudies/nyt-harris-926-glitched.jpg" />
 <img src="/images/glitchstudies/wallst-404-glitched.jpg" />
 
