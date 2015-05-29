@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Privacy Glitch (draft! Please ignore!)
+title: Privacy Glitch
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
 coverimage: /images/glitchstudies/driver.jpg 
 ---
