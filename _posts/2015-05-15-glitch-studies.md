@@ -11,6 +11,8 @@ I'm using a process known as *glitching* (and more specifically the process of *
 
 The final product is a series of images at once stark, abstract, colorful and broken. These images represent a visual manifestation of the invisible web of tracking cookies designed to erode our privacy.   
 
+*Please note - because of the image handling capabilities of various browsers I recommend using the Chrome browser to view this page, other browsers may distort the images in interesting ways but I have curated these works to be best displayed in Chrome. Thank you.*
+
 ## What am I looking at?
 
 Each image is 
@@ -79,7 +81,7 @@ This is a paragraph[^n] about something. Right?
 
 ## The Wall Street Journal
 
-The WSJ dropped XX cookies on me. Here's what I did with them.
+The WSJ dropped 39 cookies on me. Here's what I did with them.
 
 The first study is Mick Jagger. In all his glitch glory.
 
