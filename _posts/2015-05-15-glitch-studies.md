@@ -20,9 +20,6 @@ The final product is a series of images at once stark, abstract, colorful and br
 The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight. To quote the matrix - they're in the walls.
 
 
-
-The following are my studies of various NYT screenshots - I've picked the best snapshots and crops from the images that were generated. To view the full album of images head over to this imgur gallery.
-
 ## The New York Times Homepage
 
 The New York Times generated 78 cookies when I visited the site. Producing a series f
@@ -35,7 +32,7 @@ nyt_glitch_studies_01:
 
 <img src="/images/glitchstudies/glitchcookiecover.jpg" />
 <img src="/images/glitchstudies/glitch cookies.png" />
-<img src="/images/glitchstudies/glitch cookies.png" />
+<img src="/images/glitchstudies/nyt1.png" />
 
 </div>
 
