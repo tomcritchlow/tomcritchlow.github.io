@@ -28,4 +28,10 @@ A few things to note:
 
 ## What world does this usher in?
 
-I forget the exact quote but I think it was Larry who said a few years ago that machine learning was one of the few technologies that he was worried about giving away. The implications worried him. What about now? Has the world changed sufficiently? Might we be ok with a business signing up for Google Photos for Work and getting perhaps millions of images categorized and tagged by facial recognition?  
+I forget the exact quote but I think it was Larry who said a few years ago that machine learning was one of the few technologies that he was worried about giving away. The implications worried him. What about now? Has the world changed sufficiently? Might we be ok with a business signing up for Google Photos for Work and getting perhaps millions of images categorized and tagged by facial recognition?
+
+--
+
+Anyway, food for thought.
+
+*Disclaimer: I worked at Google between 2012-2014. I did not work on Google Photos nor know of it's existence before it launched so I am safely in the dark about the existence or not of a real Google Photos for Work. I'm just spitballing here.*   
