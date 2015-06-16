@@ -16,7 +16,7 @@ This got me thinking? What would Google Photos for Work look like?
 
 Imagine the following use-case:
 
-> Tommy owns a construction company and his company is renovating a new hotel in downtown Manhattan. The project is complex and sprawling - what tools can he use to better keep an eye on and manage the project? Google Photos for Work. He signs up with his Google Apps account and all of his construction workers on their phones can download a special Google Camera for Work app. As workers take photos across the project using this app all of the photos appear in a central storage stream automatically. Not only do they appear automatically but all of the photos are searchable by location, date and so on. The real magic however is when machine learning does it's thing - then Tommy, sat in HQ can ask Google for "photos of the rear windows when it's raining" to automatically see what it looks like and see how the sealant is holding up. Or - "photos of the first floor only" to get a handle on progress in a particular area.
+> Tommy owns a construction company and his company is renovating a new hotel in downtown Manhattan. The project is complex and sprawling - what tools can he use to better keep an eye on and manage the project? Google Photos for Work. He signs up with his Google Apps account and all of his construction workers on their phones can download a special Google Camera for Work app. As workers take photos across the project using this app all of the photos appear in a central storage stream automatically. Not only do they appear automatically but all of the photos are searchable by location, date and so on. The real magic however is when machine learning does its thing - then Tommy, sat in HQ can ask Google for "photos of the rear windows when it's raining" to automatically see what it looks like and see how the sealant is holding up. Or - "photos of the first floor only" to get a handle on progress in a particular area.
 
 Wouldn't that be neat?
 
@@ -34,4 +34,4 @@ I forget the exact quote but I think it was Larry who said a few years ago that 
 
 Anyway, food for thought.
 
-*Disclaimer: I worked at Google between 2012-2014. I did not work on Google Photos nor know of it's existence before it launched so I am safely in the dark about the existence or not of a real Google Photos for Work. I'm just spitballing here.*   
+*Disclaimer: I worked at Google between 2012-2014. I did not work on Google Photos nor know of its existence before it launched so I am safely in the dark about the existence or not of a real Google Photos for Work. I'm just spitballing here.*   
