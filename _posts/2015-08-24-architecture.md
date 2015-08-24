@@ -39,19 +39,64 @@ Found via the above Archizines...
 
 A constant source of joy in my timeline - Darran Anderson curates and tweets fascinating links about imaginary, real and forgotten architectural spaces. Be sure to buy [Imaginary Cities](http://www.influxpress.com/imaginary-cities/) a book of creative non-fiction around the myths and realities of cities.
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Martian architecture by ZA Architects <a href="http://t.co/7aNtREd9o6">http://t.co/7aNtREd9o6</a> <a href="http://t.co/WpjCZ7uWHa">pic.twitter.com/WpjCZ7uWHa</a></p>&mdash; Imaginary Cities (@Oniropolis) <a href="https://twitter.com/Oniropolis/status/633011040754737152">August 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--
+
+[/r/ImaginaryCityscapes](https://www.reddit.com/r/ImaginaryCityscapes)
+
+This Sub-Reddit devoted to renderings and imagined cities is incredible.
+
+--
+
+[Do you want to be an Architect?](http://www.lifeofanarchitect.com/do-you-want-to-be-an-architect/)
+
+A walkthrough for prospective students interested in studying architecture from a working architect. Plenty of other jems on this blog too aorund what it actually feels like to be a working architect.
+
+--
+
+[Captive Atria & Public Spaces](http://anildash.com/2012/03/captive-atria-and-living-in-public.html)
+
+The ever-thoughtful Anil Dash shines a light on captive atria - semi-public spaces...
+
+>In 1961, New York City adopted a new zoning program that allowed commercial buildings to exceed the constraints which zoning regulations required of them if they made accommodations for use as Privately-Owned Public Spaces.
+
+--
+
+[Artificial Intelligence in the Architecture of Games](http://www.interactivearchitecture.org/artificial-intelligence-in-the-architecture-of-games.html)
+
+>Games form a major part of our present. Currently dominated by computer games, their audiovisual language along with the interaction processes associated with them have crept their way into our everyday lives in ways we are not even aware of. Yet, these games would be rendered irrelevant without space, or a context in which, on which or at which they are based.
+
+--
+
+[An Interview with Ken Wong - Designer of Monument Valley](http://formfiftyfive.com/2013/12/interview-with-ken-wong-artist-designer-of-monument-valley/)
+
+Of course any discussion of architecture and video games has to mention Monument Valley. Those early architectural sketches tho...
+
+--
+
+[The Museum of Unnatural History](http://www.newyorker.com/tech/elements/the-museum-of-unnatural-history)
+
+Follow along with this one at home - there's a new museum coming and no one is quite sure how to build it. Not only that but these early concept sketches are to die for:
+
+![http://www.newyorker.com/wp-content/uploads/2015/05/Kormann-Museum-of-Unnatural-History_1-690.jpg]
+
 --
 
 
 
+ 
+
+
 
 http://rhizome.org/editorial/2015/jul/2/how-see-infrastructure-guide-seven-billion-primate/
-http://www.interactivearchitecture.org/artificial-intelligence-in-the-architecture-of-games.html
+
 
 http://www.newyorker.com/tech/elements/the-museum-of-unnatural-history
-http://formfiftyfive.com/2013/12/interview-with-ken-wong-artist-designer-of-monument-valley/
+
 http://ny.curbed.com/archives/2015/07/16/inside_the_miniature_world_of_architectural_model_makers.php
-https://en.wikipedia.org/wiki/In_Praise_of_Shadows
-http://www.lifeofanarchitect.com/do-you-want-to-be-an-architect/
+
 http://gizmodo.com/the-secret-lives-of-the-tiny-people-in-architectural-re-1660746735
 http://opinionator.blogs.nytimes.com/2013/08/03/writers-as-architects/
 
