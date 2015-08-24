@@ -3,7 +3,7 @@ layout: blog
 title: A Meander Into Architecture
 ---
 
-After visiting the Canadian Centre for Architecture last month and getting swept away for hours in the process, history and mechanics of architecture. How fascinating the topic of constructing, designing, engineering and thinking about building the environments we live in?
+After visiting the Canadian Centre for Architecture in Monteral last month I've been swept away for hours in the process, history and mechanics of architecture. How fascinating the topic of constructing, designing, engineering and thinking about building the environments we live in?
 
 Prior to my trip to the CCA I had never read much about architecture, and so I knew (and still know!) very little about it. So it's been a fun opportunity to think more closely about the architecture of the world that surrounds me and to dive into some interesting nooks and crannies of the internet...
 
