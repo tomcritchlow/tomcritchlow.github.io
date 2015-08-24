@@ -16,7 +16,7 @@ What follow is a collection of interesting links & articles I've found in my wan
 The Canadian Centre for Architecture exhibit on SAAL was the thing that kicked off the last month of exploration into architecture so I suppose this has to be the first thing I link to. The notion of architecture as a symbol for revolution is fascinating.
 
  >Political upheaval leaves cracks in the foundations of a society. But alongside the loss of stability, sometimes radical change (at the end of a fascist regime, for example) also creates a space for radical experimentation – which can require dropping social or professional boundaries and just “doing it together”.
-
+>
 >One such unique project in 1970s Portugal was called SAAL. It may have been short-lived, but it marked a fundamental shift in the evolution of architecture as social practice.
 
 --
