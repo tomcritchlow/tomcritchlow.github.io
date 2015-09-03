@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: You're Not Blogging, My Friend. And That's a Problem.
-subtitle: Week 1 of #NYCblogclub
+title: You're Not Blogging, My Friend.
+subtitle: And That's a Problem.
 ---
 
 I'm home after a long day's work and the last thing I want to do is open up my laptop and write a blog post[^n]. But this is week 1 of #NYCblogclub and so here we are.
