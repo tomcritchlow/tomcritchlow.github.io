@@ -4,7 +4,7 @@ title: You're Not Blogging, My Friend.
 subtitle: And That's a Problem.
 ---
 
-I'm home after a long day's work and the last thing I want to do is open up my laptop and write a blog post[^n]. But this is week 1 of #NYCblogclub and so here we are.
+I'm home after a long day's work and the last thing I want to do is open up my laptop and write a blog post[^1]. But this is week 1 of #NYCblogclub and so here we are.
 
 I've been writing blog posts for 8 years. That's not to say I'm any good at it, but here's a few of the things that blogging has done for me:
 
@@ -63,10 +63,10 @@ I'm going to be learning as I go about feedback loops and goal setting but one t
 
 --
 
-A debt of gratidue is owed to Gary Chou for building wonderful feedback loops through his Orbital program. Read more about what he's up to in his post [Scaling Caring Through Networks](http://blog.garychou.com/post/126917792257/scaling-caring-through-networks). The whole reason I'm running this group via Trello is because of Gary[^n].
+A debt of gratidue is owed to Gary Chou for building wonderful feedback loops through his Orbital program. Read more about what he's up to in his post [Scaling Caring Through Networks](http://blog.garychou.com/post/126917792257/scaling-caring-through-networks). The whole reason I'm running this group via Trello is because of Gary[^2].
 
 --
 
-[^n]: Before you worry about me, I firmly believe in work/life balance and I'm disconnecting for the upcoming long weekend :)
+[^1]: Before you worry about me, I firmly believe in work/life balance and I'm disconnecting for the upcoming long weekend :)
 
-[^n]: Guess who one of the people I'm emailing this post to is? Hi Gary! This footnote's for you.
+[^2]: Guess who one of the people I'm emailing this post to is? Hi Gary! This footnote's for you.
