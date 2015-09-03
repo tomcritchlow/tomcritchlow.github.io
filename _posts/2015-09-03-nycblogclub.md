@@ -68,4 +68,5 @@ A debt of gratidue is owed to Gary Chou for building wonderful feedback loops th
 --
 
 [^n]: Before you worry about me, I firmly believe in work/life balance and I'm disconnecting for the upcoming long weekend :)
+
 [^n]: Guess who one of the people I'm emailing this post to is? Hi Gary! This footnote's for you.
