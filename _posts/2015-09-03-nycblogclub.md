@@ -34,7 +34,7 @@ So what's the lesson here? Blog on topics you're thinking about - but remember y
 
 Of course, none of that helps if no one reads your post...
 
-##How to get your blog post read by the people that matter by leveraging strong connections
+##How to get your blog post read by the people that matter
 
 Here's my best trick for writing blog posts. It's simple: write a blog post, think about who cares about that topic, email it to them asking for their thoughts.
 
@@ -43,6 +43,8 @@ That's it.
 Sounds *too simple* right? When was the last time you tried it? Hmm? You see the trick to networks is that they're made of nodes and connections - both weak connections and strong connections. You might look at a popular blogger or twitter account and marvel at their weak connections - but the thing that matters is strong connections. And everyone has those.
 
 Could be an old boss, a friend, someone you met at a conference - it doesn't matter. Write something they'd find interesting and email them a thoughtful email. Don't send more than 5 of these per blog post otherwise I guarantee you're doing it wrong and spamming people.
+
+This is something I use every time I write a blog post - it's a great routine to get into because it forces you to write a blog post so that *at least one person cares about it*.
 
 ##Helping my friends blog - 12 weeks at a time
 
