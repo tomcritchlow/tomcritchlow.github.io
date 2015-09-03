@@ -63,8 +63,9 @@ I'm going to be learning as I go about feedback loops and goal setting but one t
 
 --
 
-A debt of gratidue is owed to Gary Chou for building wonderful feedback loops through his Orbital program. Read more about what he's up to in his post [Scaling Caring Through Networks](http://blog.garychou.com/post/126917792257/scaling-caring-through-networks)
+A debt of gratidue is owed to Gary Chou for building wonderful feedback loops through his Orbital program. Read more about what he's up to in his post [Scaling Caring Through Networks](http://blog.garychou.com/post/126917792257/scaling-caring-through-networks). The whole reason I'm running this group via Trello is because of Gary[^n].
 
 --
 
 [^n]: Before you worry about me, I firmly believe in work/life balance and I'm disconnecting for the upcoming long weekend :)
+[^n]: Guess who one of the people I'm emailing this post to is? Hi Gary! This footnote's for you.
