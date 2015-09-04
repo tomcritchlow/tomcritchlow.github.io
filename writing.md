@@ -12,3 +12,5 @@ title: Latest Writing
 [My old Svbtle blog](http://tomcritchlow.svbtle.com/)
 
 <script async src="https://static.medium.com/embed.js"></script><a class="m-profile" data-width="100%" href="https://medium.com/@tomcritchlow">Tom Critchlow</a>
+
+{{ 'now' | date: "%Y" }}

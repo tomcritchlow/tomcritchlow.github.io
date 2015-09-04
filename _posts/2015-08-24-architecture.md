@@ -120,6 +120,12 @@ Verging into infrastructure not architecture but frankly where do you draw the l
 
 --
 
+[Slow, flexible & cheap](https://medium.com/dome-kit/slow-flexible-cheap-5598ca91fb38)
+
+A fascinating exploration into building a dome kit - how the protoypes evolved and valuable insights into building flexible structures as opposed to permanent rigid structures. Architecture and process together.
+
+--
+
 What did I miss? I'm going to keep updating this list as I find new and interesting things to read about architecture, infrastructure and the hidden forces building the world around us.
 
 
