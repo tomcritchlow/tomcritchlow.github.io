@@ -5,7 +5,8 @@ title: Latest Writing
 
 {% for post in site.posts %}
 
-{% if post.date > now %}yes{% endif %}
+{% if post.date > now %}greater than{% endif %}
+{% if post.date < now %}less than{% endif %}
 
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
