@@ -2,13 +2,16 @@
 layout: blog
 title: Latest Writing
 ---
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
 {% for post in site.posts %}
 
-{% if post.date > 'now' %}greater than{% endif %}
-{% if post.date < 'now' %}less than{% endif %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% if posttime < nowunix %}
 
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+
+{% endif %}
 {% endfor %}
 
 ## Writing Elsewhere
