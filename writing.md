@@ -7,7 +7,7 @@ title: Latest Writing
 {% for post in site.posts %}
 
 {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-{% if posttime < nowunix %}
+{% if posttime > nowunix %}
 
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 
