@@ -95,6 +95,12 @@ html{
   line-height:50px;
 }
 
+.clients{
+  width:900px;
+  display:block;
+  margin:auto;
+}
+
 .coverimage{
   width:100%;
   max-width:2000px;
