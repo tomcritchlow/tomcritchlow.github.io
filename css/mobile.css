@@ -13,12 +13,12 @@ html{
     font-family:'Pacifico';
     font-size:30px;
     line-height:30px;
-    text-align:right;
     color:#4CAF50;
   }
 
 .header{
     font-size:30px;
+    text-align:center;
   }
 
 .navigation{
