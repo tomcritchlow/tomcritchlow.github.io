@@ -67,7 +67,7 @@ html{
 }
 
 .topnav{
-  width:1140px;
+  width:1000px;
   height:75px;
   margin:auto;
   margin-top:25px;
@@ -77,10 +77,15 @@ html{
   color:#4CAF50;
   font-size:20px;
   font-weight:600;
+  padding:40px;
 }
 
 .topnav span a{
   color:#4CAF50;
+}
+
+.navigation{
+  float:right;
 }
 
 .coverimage{
