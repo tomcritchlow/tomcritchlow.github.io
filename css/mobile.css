@@ -83,6 +83,11 @@ html{
   line-height:28px;
 }
 
+.clients{
+  display:block;
+  margin:auto;
+  width:90%;
+}
 
 .coverimage{
   width:100%;
