@@ -19,11 +19,12 @@ html{
 }
 
 .introtext{
-  font-size:70px;
-  line-height:80px;
+  font-size:60px;
+  line-height:70px;
   font-family:'raleway';
   width:100%;
   margin:auto;
+  font-weight:200;
 }
 
 .threebox{
