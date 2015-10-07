@@ -6,7 +6,7 @@ html{
   }
 
 .mobilehidden{
-  display:none;
+  display:none !important;
 }
 
   .pacifico{

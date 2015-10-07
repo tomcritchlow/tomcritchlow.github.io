@@ -6,7 +6,7 @@ html{
 }
 
 .desktophidden{
-  display:none;
+  display:none !important;
 }
 
 .container{
