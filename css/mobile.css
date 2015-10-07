@@ -5,21 +5,11 @@ html{
     width:100%;
   }
 
-.welcomebox{
-  padding:20px;
-  margin:auto;
-  line-height:25px;
-  font-size:20px;
-  font-family:'Neuton';
-  font-weight:300;
-  }
-
 
   .pacifico{
     font-family:'Pacifico';
     font-size:30px;
     line-height:30px;
-    margin-top:20px;
     text-align:right;
     color:#4CAF50;
     display:block;
@@ -60,6 +50,35 @@ html{
   .navigation .close{
     padding-top:40px;
   }
+
+.introtext{
+  font-size:55px;
+  line-height:70px;
+  font-family:'raleway';
+  font-weight:200;
+}
+
+.threebox{
+  width:90%;
+  padding:20px;
+}
+
+.threebox img{
+}
+
+.threebox h2{
+  font-family:'raleway';
+  font-size:40px;
+  margin:0px;
+  padding:0px;
+  text-transform:uppercase;
+}
+
+.threebox p{
+  font-size:20px;
+  line-height:28px;
+}
+
 
 .coverimage{
   width:100%;
