@@ -33,6 +33,11 @@ html{
   padding:0px;
 }
 
+.threebox p{
+  font-size:20px;
+  line-height:28px;
+}
+
 .pacifico{
   font-family:'Pacifico';
   font-size:50px;
