@@ -28,6 +28,7 @@ html{
   height:100%;
   padding-top:40%;
   background-color:#4CAF50;
+  z-index:2;
 }
 
   .topnav{
