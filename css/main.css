@@ -20,8 +20,9 @@ html{
 
 .introtext{
   font-size:30px;
+  line-height:40px;
   font-family:'raleway';
-  width:800px;
+  width:900px;
   margin:auto;
 }
 
