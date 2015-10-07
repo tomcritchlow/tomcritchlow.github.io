@@ -53,11 +53,12 @@ html{
   }
 
 .introtext{
-  font-size:35px;
-  line-height:45px;
+  font-size:30px;
+  line-height:40px;
   font-family:'raleway';
   font-weight:200;
-  width:95%;
+  width:90%;
+  margin:auto;
   padding-top:20px;
 }
 
@@ -67,7 +68,9 @@ html{
 }
 
 .threebox img{
-  width:100%;
+  width:80%;
+  margin:auto;
+  display:block;
 }
 
 .threebox h2{
