@@ -39,9 +39,10 @@ html{
 
 .threebox h2{
   font-family:'raleway';
-  font-size:45px;
+  font-size:40px;
   margin:0px;
   padding:0px;
+  text-transform:uppercase;
 }
 
 .threebox p{
