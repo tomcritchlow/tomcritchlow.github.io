@@ -55,10 +55,12 @@ html{
   }
 
 .introtext{
-  font-size:55px;
-  line-height:70px;
+  font-size:35px;
+  line-height:45px;
   font-family:'raleway';
   font-weight:200;
+  width:95%;
+  padding-top:20px;
 }
 
 .threebox{
