@@ -55,8 +55,6 @@ html{
   font-family:'Pacifico';
   font-size:50px;
   line-height:50px;
-  margin-top:20px;
-  text-align:right;
   color:#4CAF50;
   display:block;
 }
@@ -69,22 +67,16 @@ html{
 }
 
 .topnav{
-  width:1000px;
+  width:1140px;
   height:75px;
-  text-align:center;
   margin:auto;
-  margin-top:75px;
+  margin-top:25px;
 }
 
 .topnav span{
   color:#4CAF50;
   font-size:20px;
   font-weight:600;
-}
-
-.topnav span:nth-child(2) {
-  margin-left:80px;
-  margin-right:80px;
 }
 
 .topnav span a{
