@@ -5,6 +5,9 @@ html{
     width:100%;
   }
 
+.mobilehidden{
+  display:none;
+}
 
   .pacifico{
     font-family:'Pacifico';
