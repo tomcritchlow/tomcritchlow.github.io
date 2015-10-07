@@ -16,8 +16,12 @@
 {% else %}
 
 <div class="topnav">
-  <div class="header pacifico">TomCritchlow</div>
-  <div class="navigation">
+  
+  <div class="header pacifico mobilehidden">TomCritchlow</div>
+  <div class="header pacifico desktophidden mobileheader">TomCritchlow</div>
+  
+  <div class="navigation mobilehidden">
+
     <span><a href="/">hello</a></span>
     <span><a href="/about">about me</a></span>
     <span><a href="/writing">writing</a></span>
@@ -58,7 +62,7 @@ $('p img').each(function(){
   $(this).parent().addClass("imgonly");
 });
 
-$(".header").click(function(){
+$(".mobileheader").click(function(){
     $(".navigation").slideToggle();
   });
 
