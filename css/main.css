@@ -10,13 +10,13 @@ html{
 }
 
 .container{
-  width:1200px;
+  width:1000px;
   margin:auto;
 }
 
 .threebox{
   float:left;
-  width:350px;
+  width:300px;
   padding:20px;
 }
 
