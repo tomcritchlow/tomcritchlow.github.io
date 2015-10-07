@@ -26,6 +26,13 @@ html{
   width:200px;
 }
 
+.threebox h2{
+  font-family:'raleway';
+  font-size:45px;
+  margin:0px;
+  padding:0px;
+}
+
 .pacifico{
   font-family:'Pacifico';
   font-size:50px;
