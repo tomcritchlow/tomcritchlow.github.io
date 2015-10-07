@@ -15,11 +15,9 @@ html{
     line-height:30px;
     text-align:right;
     color:#4CAF50;
-    display:block;
   }
 
 .header{
-    display:inline-block;
     font-size:30px;
   }
 
