@@ -8,7 +8,10 @@
 <div class="container">
 
 <div class="topnav">
-  <div class="header pacifico">TomCritchlow</div>
+  
+  <div class="header pacifico mobilehidden">TomCritchlow</div>
+  <div class="header pacifico desktophidden mobileheader">TomCritchlow</div>
+  
   <div class="navigation mobilehidden">
 
     <span><a href="/about">about me</a></span>
@@ -59,7 +62,7 @@
 
 <script>
 
-$(".header").click(function(){
+$(".mobileheader").click(function(){
     $(".navigation").slideToggle();
   });
 
