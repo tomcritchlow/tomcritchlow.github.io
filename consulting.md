@@ -38,6 +38,6 @@ I'm based in New York City, but available to travel for work.
 
 ## Clients Large & Small
 
-![I <3 clients](/images/clients.png)
+![I <3 clients](/images/clientsgrey.png)
 
 Please get in touch: <tjcritchlow@gmail.com> / 917 414 9121
