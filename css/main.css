@@ -16,12 +16,14 @@ html{
 
 .threebox{
   float:left;
-  width:300px;
-  padding:50px;
+  width:350px;
+  padding:20px;
 }
 
 .threebox img{
-  width:100%;
+  display:block;
+  margin:auto;
+  width:200px;
 }
 
 .pacifico{
