@@ -21,6 +21,8 @@ html{
 .introtext{
   font-size:30px;
   font-family:'raleway';
+  width:800px;
+  margin:auto;
 }
 
 .threebox{
