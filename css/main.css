@@ -86,6 +86,9 @@ html{
 
 .navigation{
   float:right;
+  font-family:'raleway';
+  text-transform:uppercase;
+  line-height:50px;
 }
 
 .coverimage{
