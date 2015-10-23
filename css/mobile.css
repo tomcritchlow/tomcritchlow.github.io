@@ -61,6 +61,11 @@ html{
   width:90%;
   margin:auto;
   padding-top:20px;
+  padding-bottom:20px;
+}
+
+.hr{
+  width:80%;
 }
 
 .threebox{
@@ -69,7 +74,7 @@ html{
 }
 
 .threebox img{
-  width:80%;
+  width:50%;
   margin:auto;
   display:block;
 }
