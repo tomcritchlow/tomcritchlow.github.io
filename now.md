@@ -13,7 +13,7 @@ Here's what I'm working on right now:
  
 I'm pretty busy through the end of the year but at the start of 2016 I'm going to have some availability.
  
-In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so *get in touch if you have an event you'd like me to speak at*.
+In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
 
 --   
 
