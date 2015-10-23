@@ -9,6 +9,11 @@ html{
   display:none;
 }
 
+.container{
+  width:90%;
+  margin:auto;
+}
+
   .pacifico{
     font-family:'Pacifico';
     font-size:30px;
