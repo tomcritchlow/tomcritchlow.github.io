@@ -4,6 +4,8 @@ title: /now
 subtitle: What I'm working on now, inspired by Derek Sivers
 ---
 
+Hi there, I'm originally from Yorkshire in the UK and currently living in Brooklyn, NY. I can usually be found either drinking coffee or riding my bike. Occasionally both.
+
 Here's what I'm working on right now:
 
  - Freelance marketing strategy for startups and media companies.
