@@ -124,10 +124,14 @@ h1{
 }
 
 h2{
-  font-size:35px;
+  font-size:37px;
   text-align:center;
   font-weight:400;
   font-family:'raleway';
+}
+
+.blogcontent h2{
+  margin-top:20px;
 }
 
 .homepageh2{
@@ -188,7 +192,7 @@ blockquote{
   border-left:2px solid #4CAF50;
   padding-left:10px;
   font-size:25px;
-  line-height:35px;
+  line-height:37px;
 }
 
 p iframe{
