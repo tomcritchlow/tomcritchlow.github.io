@@ -20,36 +20,16 @@ This engagement helped me realize a few key things:
 - Hiring itself is a skill and a lot of young companies are not good at it
 - There is a lot of value in a network and reputation built up in the industry  
 
+Which leads me to my current new mission:
+
+**I help mid-size startups build marketing frameworks and build marketing teams by providing marketing strategy and connecting them to talented marketing individuals.**
+
 ## How I Got Here
 
 I started my career in SEO - the nuts and bolts of keywords, analytics, link building and content. I came to New York in 2011 with Distilled, to open a new office and build a new outpost for the company. Looking for something new I jumped to the Creative Lab at Google. Worked there for a while and then in late 2014 I went out on my own.
 
 The past year and a bit I've spent consulting. Mostly marketing consulting, sometimes SEO consulting. I had high hopes for the kind of work I'd be able to get out of the gate and the lesson learned in 2015 is that spreading your wings is like growing a flower - consistent, slow, deliberate work. But sped up over a timelapse it's incredble the range of motion and the amount accomplished.
  
-## Some Guiding Principles
-
-Hiring is serious work. The concepts of work, money, employment and health insurance are not to be joked about. I've been involved in hiring people of both genders, many races and diverse backgrounds. But there's more to be done. I'm just starting out but here's a few things I think are important:
-
-- **Equality** - spend more time working with and supporting women, minorities and those without a priviliged background.
-- **Longterm thinking** work with candidates and companies beyond the inital hiring.
-- **Education** educate companies in positions of power on unconcious bias.
-- **Human recruiting** be kind and considerate to all involved, no spam.
-
-
-
-TL;DR - full service marketing plans. Including hiring people.
-
-What have I been up to?
-
-Insights:
-- companies oftne don't know how to hire people
-- hiring is hard and time consuming
-- making a mistake hiring people 
- 
-## How I got here
-
-Client out in Seattle helped to find and source candidates.
-
 ## Consultant vs Recruiter?
 
 It's important not to choose too soon. Explore the options. Just because you're struggling with growth doesn't mean that hiring a "VP of growth" will solve your problems.
@@ -66,11 +46,20 @@ What about hiring the wrong VP of Marketing? What does that do for you?
 How do you care more closely about the people involved?
 I'm going to start exploring options for being involved post-hire too. Long term relationships with my clients where I can shepherd and guide their strategy as well as find and build the team.
 
-The first 90 days are critical 
+The first 90 days are critical  
+ 
+## Some Guiding Principles
 
-## Get in touch then!
+Hiring is serious work. The concepts of work, money, employment and health insurance are not to be joked about. I've been involved in hiring people of both genders, many races and diverse backgrounds. But there's more to be done. I'm just starting out but here's a few things I think are important:
 
-People is the engine.
+- **Equality** - spend more time working with and supporting women, minorities and those without a priviliged background.
+- **Longterm thinking** work with candidates and companies beyond the inital hiring.
+- **Education** educate companies on best practices for hiring and treating candidates fairly and kindly.
+- **Human recruiting** be kind and considerate to all involved, no spam.
+
+## So get in touch!
+
+It's all about coffee, connections and people, people, people. If you're a mid-size company looking to hire some senior leadership folks or if you're working in marketing and thinking about a new job just drop me a line: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>.
 
 
 
