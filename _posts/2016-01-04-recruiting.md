@@ -22,31 +22,40 @@ This engagement helped me realize a few key things:
 
 Which leads me to my current new mission:
 
-**I help mid-size startups build marketing frameworks and build marketing teams by providing marketing strategy and connecting them to talented marketing individuals.**
+**I help mid-size startups solve marketing problems and build marketing teams by providing strategy and connecting them to marketing talent.**
 
 ## How I Got Here
 
-I started my career in SEO - the nuts and bolts of keywords, analytics, link building and content. I came to New York in 2011 with Distilled, to open a new office and build a new outpost for the company. Looking for something new I jumped to the Creative Lab at Google. Worked there for a while and then in late 2014 I went out on my own.
+I started my career in SEO - the nuts and bolts of keywords, analytics, link building and content. I came to New York in 2011 with Distilled, to open a new office and build a new outpost for the company. Looking for something new I jumped to Google for a couple of years where I worked with the Creative Lab. In late 2014 I went out on my own to build an art business with Erin and start my path as an independent.
 
-The past year and a bit I've spent consulting. Mostly marketing consulting, sometimes SEO consulting. I had high hopes for the kind of work I'd be able to get out of the gate and the lesson learned in 2015 is that spreading your wings is like growing a flower - consistent, slow, deliberate work. But sped up over a timelapse it's incredble the range of motion and the amount accomplished.
+The past year and a bit I've spent consulting. Mostly marketing consulting, sometimes SEO consulting. I had high hopes for the kind of work I'd be able to get out of the gate and the lesson learned in 2015 is that spreading your wings is like growing a flower - consistent, slow, deliberate work. But sped up over a timelapse it's incredble to see the range of motion and the amount accomplished.
  
 ## Consultant vs Recruiter?
-
-It's important not to choose too soon. Explore the options. Just because you're struggling with growth doesn't mean that hiring a "VP of growth" will solve your problems.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Every mid-stage startup in NY is looking for a head of marketing these days... and almost none of them know what they&#39;re looking for.</p>&mdash; chris muscarella (@cm) <a href="https://twitter.com/cm/status/682215063017623552">December 30, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+This tweet is true - though overly critical in my opinon. There are lots of things that mid-stage startups don't know what they're doing! That's the fun of it. But it's true - marketing and growth are still abstract concepts for a lot of mid-size startups. They've not yet defined all of the inputs and outputs and haven't figured out what works yet. So they look for someone to lead them through the answers to these questions and to build a team.
+
+But these are two different concepts.
+
+It's important not to choose too soon. I'm obviously biased but a good consultant can still get deep in the weeds and hep you think about problems in different ways. A lot of my work this past year has been on-site with clients, embedded with teams and helping to add advice but more importantly help show my client how I think, how I approach problems and provide some experience about what works and what doesn't while recognizing that each problem needs a fresh pair of eyes and an open mind.
+
+In short, just because you're struggling with growth doesn't mean that hiring a "VP of growth" will solve your problems. Often, founders feel like they don't have the marketing experience or knowledge to manage and lead a marketing team. But for the most part that's not true - yes as the company grows hiring a manager to lead the team makes sense but to think they'll solve all of your growth issues is naive.
+
+Here are some things to consider before hiring a full VP marketing:
+
+- A workshop with the leadership to figure out marketing goals, objectives and activities. Often there are plenty of things that are known to be worth doing but just haven't been done yet. That doesn't need an expensive VP marketing, that needs doers. People who can execute with a bit of experience.
+
+- Working with an agency to execute some specific deliverables - the nice thing about a lot of agencies is that you get access to a wide range of talent, ideas and experience. Work with the agency on the specific deliverables but don't forget that they've seen a ton of different clients and know what works and what doesn't.
+
+- Working with a consultant to come in-house and sit with your team, especially if you have a junior team that can learn from having someone physically present.
+
+(Spoiler alert: I can help you do all of the above! Who said this was an unbiased blog post eh?)
+
 ## The 18-month mistake
 
-What about hiring the wrong VP of Marketing? What does that do for you?
-
-## Giving a shit about the people
-
-How do you care more closely about the people involved?
-I'm going to start exploring options for being involved post-hire too. Long term relationships with my clients where I can shepherd and guide their strategy as well as find and build the team.
-
-The first 90 days are critical  
+What about hiring the wrong VP of Marketing? What does that do for you?  
  
 ## Some Guiding Principles
 
@@ -56,6 +65,8 @@ Hiring is serious work. The concepts of work, money, employment and health insur
 - **Longterm thinking** work with candidates and companies beyond the inital hiring.
 - **Education** educate companies on best practices for hiring and treating candidates fairly and kindly.
 - **Human recruiting** be kind and considerate to all involved, no spam.
+
+Basically - give a shit about the people and treat everyone with respect. This means getting involved well before and beyond just the moment of hiring. I've been involved in building positive cultures when I work in-house, what does this look like in 
 
 ## So get in touch!
 
