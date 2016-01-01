@@ -30,11 +30,10 @@ The past year and a bit I've spent consulting. Mostly marketing consulting, some
 
 Hiring is serious work. The concepts of work, money, employment and health insurance are not to be joked about. I've been involved in hiring people of both genders, many races and diverse backgrounds. But there's more to be done. I'm just starting out but here's a few things I think are important:
 
-- _Equality_ - spend more time working with and supporting women, minorities and those without a priviliged background
-- _Longterm thinking_ work with candidates and companies beyond the inital hiring
-- _Education_ educate companies in positions of power on unconcious bias
-- _Human recruiting_ be kind and considerate to all involved
-- _No spam_ no spamming anyone on LinkedIn
+- **Equality** - spend more time working with and supporting women, minorities and those without a priviliged background.
+- **Longterm thinking** work with candidates and companies beyond the inital hiring.
+- **Education** educate companies in positions of power on unconcious bias.
+- **Human recruiting** be kind and considerate to all involved, no spam.
 
 
 
