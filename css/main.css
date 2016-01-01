@@ -131,7 +131,7 @@ h2{
 }
 
 .blogcontent h2{
-  margin-top:20px;
+  margin-top:50px;
 }
 
 .homepageh2{
@@ -139,8 +139,10 @@ h2{
 }
 
 .subtitle{
-  font-weight:200;
-  font-family:'neuton'
+  font-family:'neutonextralight';
+  font-size:37px;
+  text-align:center;
+  
 }
 
 .date{
