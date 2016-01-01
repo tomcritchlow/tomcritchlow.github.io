@@ -147,7 +147,7 @@ h2{
 
 p, ul, li, ol{
   font-size:25px;
-  line-height:35px;
+  line-height:37px;
 }
 
 .footnotes p, .footnotes ul, .footnotes ol{
@@ -165,6 +165,14 @@ p img{
   width:650px;
   margin:auto;
   padding-bottom:150px;
+}
+
+.blogcontent ul{
+   list-style: none; /* Remove list bullets */
+}
+
+.blogcontent ul li:before{
+  content:"-";
 }
 
 blockquote{
