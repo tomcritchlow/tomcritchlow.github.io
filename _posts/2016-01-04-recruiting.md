@@ -56,9 +56,7 @@ In short, just because you're struggling with growth doesn't mean that hiring a 
 Here are some things to consider before hiring a full VP marketing:
 
 - A workshop with the leadership to figure out marketing goals, objectives and activities. Often there are plenty of things that are known to be worth doing but just haven't been done yet. That doesn't need an expensive VP marketing, that needs doers. People who can execute with a bit of experience.
-
 - Working with an agency to execute some specific deliverables - the nice thing about a lot of agencies is that you get access to a wide range of talent, ideas and experience. Work with the agency on the specific deliverables but don't forget that they've seen a ton of different clients and know what works and what doesn't.
-
 - Working with a consultant to come in-house and sit with your team, especially if you have a junior team that can learn from having someone physically present.
 
 (Spoiler alert: I can help you do all of the above! Who said this was an unbiased blog post eh?)
