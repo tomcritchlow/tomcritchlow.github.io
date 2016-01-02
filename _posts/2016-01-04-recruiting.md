@@ -4,6 +4,8 @@ title: Why I'm Getting Into Recruitment
 subtitle: And how it pairs with my consulting work
 ---
 
+*This post is a draft*
+
 It was a lonely Tuesday, the 24th of Feburary 2015. I left the office late, without fanfare. It was my last day at the company and no one seemed to notice. This was a client of mine, I'd been working out of their office 3 or 4 days a week for two months as their interim VP of marketing. Sooner than expected they found someone to come on board full time and that was the end of my engagement.
 
 I'm dramatizing slighlty but the insight is true - there's a gap between consulting and in-house work. It's often postioned as an either/or choice when in fact the truth is more nuanced. Most of my consulting engagements should naturally end in me hiring someone to continue the work and processes that I've helped to set up.
