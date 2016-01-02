@@ -32,7 +32,13 @@ The past year and a bit I've spent consulting. Mostly marketing consulting, some
  
 ## Why Recruitment?
 
- 
+Why am I going to be good at this?
+
+- I have a strong network of diverse people across startups, marketing and tech.
+- A deep expertise in marketing allows me to truly understand both the problems a client is facing and the kinds of people who will be good at working on those problems. 
+- I've done a lot of hiring over the years
+
+NBED more here.
 
 ## Consultant vs Recruiter?
 
