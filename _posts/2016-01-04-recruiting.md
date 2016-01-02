@@ -30,16 +30,20 @@ I started my career in SEO - the nuts and bolts of keywords, analytics, link bui
 
 The past year and a bit I've spent consulting. Mostly marketing consulting, sometimes SEO consulting. I had high hopes for the kind of work I'd be able to get out of the gate and the lesson learned in 2015 is that spreading your wings is like growing a flower - consistent, slow, deliberate work. But sped up over a timelapse it's incredble to see the range of motion and the amount accomplished.
  
+## Why Recruitment?
+
+ 
+
 ## Consultant vs Recruiter?
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Every mid-stage startup in NY is looking for a head of marketing these days... and almost none of them know what they&#39;re looking for.</p>&mdash; chris muscarella (@cm) <a href="https://twitter.com/cm/status/682215063017623552">December 30, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This tweet is true - though overly critical in my opinon. There are lots of things that mid-stage startups don't know what they're doing! That's the fun of it. But it's true - marketing and growth are still abstract concepts for a lot of mid-size startups. They've not yet defined all of the inputs and outputs and haven't figured out what works yet. So they look for someone to lead them through the answers to these questions and to build a team.
+This tweet is true - though a little stronlgy worded in my opinon. There are lots of things that mid-stage startups don't know what they're doing! That's the fun of it. But it's true - marketing and growth are abstract concepts for a lot of mid-size startups. They've not yet defined all of the inputs and outputs and haven't figured out processes. So they look for someone to lead them through the answers to these questions and to build a team.
 
-But these are two different concepts.
+But these are two different things.
 
-It's important not to choose too soon. I'm obviously biased but a good consultant can still get deep in the weeds and hep you think about problems in different ways. A lot of my work this past year has been on-site with clients, embedded with teams and helping to add advice but more importantly help show my client how I think, how I approach problems and provide some experience about what works and what doesn't while recognizing that each problem needs a fresh pair of eyes and an open mind.
+It's important not to choose too soon. I'm obviously biased but a good consultant can still get deep in the weeds and hep you think about problems in different ways while providing incredibly fast execution and a flexible approach. A lot of my work this past year has been on-site with clients, embedded with teams and helping to add advice but more importantly help show my client how I think, how I approach problems and provide some experience about what works and what doesn't while recognizing that each problem needs a fresh pair of eyes and an open mind.
 
 In short, just because you're struggling with growth doesn't mean that hiring a "VP of growth" will solve your problems. Often, founders feel like they don't have the marketing experience or knowledge to manage and lead a marketing team. But for the most part that's not true - yes as the company grows hiring a manager to lead the team makes sense but to think they'll solve all of your growth issues is naive.
 
@@ -53,9 +57,17 @@ Here are some things to consider before hiring a full VP marketing:
 
 (Spoiler alert: I can help you do all of the above! Who said this was an unbiased blog post eh?)
 
-## The 18-month mistake
+## The 18 Month Mistake
 
-What about hiring the wrong VP of Marketing? What does that do for you?  
+Just quite how bad is it to make a mistake with your head of marketing? Back of the envelope math says something like:
+
+- 3 months bedding in
+- 3 months of work in the wrong direction or on the wrong things
+- 3 months of extrication, pain and eventually termination of contract
+
+That puts you 9 months in the hole. But then there's the opportunity cost - you're now 9 months behind where you would be if you'd hired the right person! Who would about now be 6 months into working on the right things and building the right way. Oh, and it's going to take you 3 months to find the right person and bring them in after this mess.
+
+All of which is to say that hiring is important, delicate and sometimes the benefit of hiring a consultant is that you can stay agile while still getting some forward progress.
  
 ## Some Guiding Principles
 
@@ -70,7 +82,7 @@ Basically - give a shit about the people and treat everyone with respect. This m
 
 ## So get in touch!
 
-It's all about coffee, connections and people, people, people. If you're a mid-size company looking to hire some senior leadership folks or if you're working in marketing and thinking about a new job just drop me a line: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>.
+The magic always happens over coffee doesn't it? Let's chat. If you're a mid-size company looking to hire some senior leadership folks or if you're working in marketing and thinking about a new job just drop me a line: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>.
 
 
 
@@ -84,4 +96,5 @@ Jonathan libov
 Taylor Greene
 Pond5/Wistia VC
 Gary Chou
+August folks
 
