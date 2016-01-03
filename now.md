@@ -4,16 +4,15 @@ title: /now
 subtitle: What I'm working on now, inspired by Derek Sivers
 ---
 
-Hi there, I'm originally from Yorkshire in the UK and currently living in Brooklyn, NY. I can usually be found either drinking coffee or riding my bike. Occasionally both.
+Hi there. I'm living in Brooklyn, NY and can usually be found either drinking coffee or riding my bike. Occasionally both.
 
-Here's what I'm working on right now:
+Here's what I'm up to right now:
 
- - Freelance marketing strategy for startups and media companies.
- - Playing the role of interim CMO & helping to hire senior marketing leadership for companies east coast and west coast. If you are looking for a senior marketing role please get in touch! tjcritchlow@gmail.com 
+ - Freelance marketing consulting for mid-size startups
+ - Sketching out what a marketing/growth bootcamp would look like as a "productized" version of my growth consulting for emerging startups (interested in being my test subject?)
+ - Building a specialized recruitment business specifically for senior marketing candidates - need to hire or looking for a new job? Ping me! 
  - Running an <a href="http://www.fiercelycurious.com">art business</a>.
  - At the early stages of sketching out a new venture - a science fiction publishing company. Codename <a href="http://www.sentientscifi.com">Sentient</a>. Interested? Shoot me a note.
- 
-I'm pretty busy through the end of the year but at the start of 2016 I'm going to have some availability.
  
 In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
 
