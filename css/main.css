@@ -77,14 +77,14 @@ html{
   margin-top:25px;
 }
 
-.topnav span{
+.navigation span{
   color:#4CAF50;
   font-size:20px;
   font-weight:600;
   padding:40px;
 }
 
-.topnav span a{
+.navigation span a{
   color:#4CAF50;
 }
 
