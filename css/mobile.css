@@ -130,7 +130,9 @@ hr{
 
 
 .subtitle{
-  font-weight:200;
+  font-family:"neutonextralight";
+  font-size:20px;
+  text-align:center;
 }
 
 .date{
