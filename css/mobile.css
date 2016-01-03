@@ -42,7 +42,7 @@ html{
     margin-top:40px;
   }
 
-  .topnav span{
+  .navigation span{
     width:100%;
     color:white;
     font-size:40px;
@@ -50,7 +50,7 @@ html{
     display:block;
   }
 
-  .topnav span a{
+  .navigation span a{
     color:white;
   }
 
