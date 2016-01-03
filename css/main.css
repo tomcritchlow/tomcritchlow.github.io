@@ -183,6 +183,7 @@ p img{
 
 .blogcontent li { 
     padding-left: 16px; 
+    padding-top:5px;
 }
 
 .blogcontent li:before {

@@ -16,6 +16,8 @@ Here's what I'm up to right now:
  
 In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
 
+I'm always looking to grab coffee with interesting people so get in touch: <a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>
+
 --   
 
 Inspired by Derek Sivers and <a href="https://sivers.org/nowff">The /Now Movement</a>
