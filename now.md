@@ -12,7 +12,7 @@ Here's what I'm up to right now:
  - Sketching out what a marketing/growth bootcamp would look like as a "productized" version of my growth consulting for emerging startups (interested in being my test subject?)
  - Building a specialized recruitment business specifically for senior marketing candidates - need to hire or looking for a new job? Ping me! 
  - Running an <a href="http://www.fiercelycurious.com">art business</a>.
- - At the early stages of sketching out a new venture - a science fiction publishing company. Codename <a href="http://www.sentientscifi.com">Sentient</a>. Interested? Shoot me a note.
+ - At the early stages of sketching out a new venture - a science fiction publishing company. Codename <a href="http://www.sentientscifi.com">Sentient</a>.
  
 In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
 
