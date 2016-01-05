@@ -177,7 +177,7 @@ hr{
     padding-top:5px;
 }
 
-.blogcontent li:before {
+.blogcontent ul>li:before {
     content: "-"; /* Insert content that looks like bullets */
     padding-right: 8px;
 }
