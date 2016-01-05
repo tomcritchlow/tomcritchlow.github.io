@@ -52,7 +52,7 @@ Or, if you're working in marketing and want a job as VP marketing for an early o
 
 [^4]: Recruiters have a poor reputation, just like marketers. But there are of course excellent recruiters out there already.
 
-[^5]: Capturing this value is still a fuzzy concept for me right now. I'm planning on getting paid to do consulting and getting paid to recruit the right peolpe. Easy wins include staying on as an advisor, helping with strategy, running marketing workshops and training.
+[^5]: Capturing this value is still a fuzzy concept for me right now. I'm planning on getting paid to do consulting and getting paid to recruit the right people. Easy wins include staying on as an advisor, helping with strategy, running marketing workshops and training.
 
 [^6]: In case this comes across as overly aspirational and seems like a new years resolution, the work I did in the second half of 2015 closely matched up to this model which makes me excited to add a little structure and start talking about it in 2016.
 
