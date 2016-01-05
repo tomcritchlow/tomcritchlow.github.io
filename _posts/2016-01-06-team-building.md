@@ -48,12 +48,7 @@ Or, if you're working in marketing and want a job as VP marketing for an early o
 
 [^2]: Actually, marketing is changing and the rate at which it's changing is accelerating. But what I mean is there are tons of generic methods, tools and tactics that apply to a lot of companies.
 
-[^3]: This tweet sums up the common wisdom well:
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Every mid-stage startup in NY is looking for a head of marketing these days... and almost none of them know what they&#39;re looking for.</p>&mdash; chris muscarella (@cm) <a href="https://twitter.com/cm/status/682215063017623552">December 30, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-I think it's mostly true - though we should remember that startups have no idea what they're doing most of the time by definition and that's not a bad thing!
+[^3]: <a href="https://twitter.com/cm/status/682215063017623552">This tweet</a> sums up the common wisdom well. I think it's mostly true - though we should remember that startups have no idea what they're doing most of the time by definition and that's not a bad thing!
 
 [^4]: Recruiters have a poor reputation, just like marketers. But there are of course excellent recruiters out there already.
 
