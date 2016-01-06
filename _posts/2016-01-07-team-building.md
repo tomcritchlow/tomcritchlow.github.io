@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: What does it mean to build a marketing team for your startup?
-subtitle: Consulting + recruiting = team building
 ---
 
 As an early or mid-stage startup figuring out marketing (or growth[^1]) is hard.
