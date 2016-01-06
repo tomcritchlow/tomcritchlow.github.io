@@ -58,7 +58,7 @@ Or, if you're working in marketing and want a job as VP marketing for an early o
 
 [^5]: Hiring is often a weak point for startups. It's a skill that takes practice and emotional intelligence, something startups often lack. 
 
-[^6]: Capturing this value is still a fuzzy concept for me right now. I'm planning on getting paid to do consulting and getting paid to recruit the right people. Easy wins include staying on as an advisor, helping with strategy, running marketing workshops and training.
+[^6]: Capturing this value is still a fuzzy concept for me right now. I'm planning on getting paid to do consulting and getting paid to recruit the right people. Easy wins include staying on as an advisor, helping with strategy, running marketing workshops and training. Over time I want to evolve this into an integrated package.
 
 [^7]: In case this comes across as overly aspirational and seems like a new years resolution, the work I did in the second half of 2015 closely matched up to this model - advising on marketing strategy and hiring marketing teams to help execute against the plan. That's why this is so exciting - I'm building a little structure and starting to talk about it in 2016.
 
