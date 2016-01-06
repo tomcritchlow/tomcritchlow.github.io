@@ -24,13 +24,13 @@ And so a recruiter can be useful.
 
 I've spent the last 10 years working in marketing and have done a lot of consulting over the years.
 
-I've built a number of marketing teams from scratch, including hiring and training junior marketing folks.
+I've built a number of marketing teams from scratch, including hiring and training.
 
 The most effective work I've done has been a combination of consulting and team building - figuring out the plan and then building a team to execute it.
 
 Most recruiters[^4] focus speicifically on sourcing candidates, but they are not skilled in the role they're hiring for and so are poor at evaluating those candidates.
 
-For startups who are looking to hire a senior role like VP of marketing, this is a problem because they are often also unable to adequately evaluate potential hires[^5].
+For startups who are looking to hire a senior role (e.g. VP of marketing), this is a problem because they are often also unable to adequately evaluate potential hires[^5].
 
 My background and expertise in marketing, coupled with experience hiring and a strong network means I can be very effective at both sourcing and qualifying the right candidates.
 
