@@ -1,22 +1,17 @@
 ---
 layout: blog
-title: Getting Into Specialized Marketing Recruitment
-subtitle: The new art of team building blending consulting & recruitment
+title: Why it's called growth hacking
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Every mid-stage startup in NY is looking for a head of marketing these days... and almost none of them know what they&#39;re looking for.</p>&mdash; chris muscarella (@cm) <a href="https://twitter.com/cm/status/682215063017623552">December 30, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Because marketing has a reputation as snake oil.
 
-As an early or mid-stage startup figuring out marketing (or growth) is hard.
+Because startups like disruption.
 
-And so a consultant can be useful.
+Because people that work in marketing want to work at startups.
 
-And so a recruiter can be useful.
+Because marketing people are good at naming things.
 
+Because the label for a thing is valuable (see! marketing!)
 
-Strategy consulting is valuable only if there is a team to execute against it.
+Because 
 
-Action requires planning and resources which rely on each other. You can't plan properly without knowin the resource and you can't get the right resources without planning.
-
-Building a team is 
- 
