@@ -27,7 +27,7 @@ I've built a number of marketing teams from scratch, including hiring and traini
 
 The most effective work I've done has been a combination of consulting and team building - figuring out the plan and then building a team to execute it.
 
-Most recruiters[^4] focus speicifically on sourcing candidates, but they are not skilled in the role they're hiring for and so are poor at evaluating those candidates.
+Most recruiters[^4] focus specifically on sourcing candidates, but they are not skilled in the role they're hiring for and so are poor at evaluating those candidates.
 
 For startups who are looking to hire a senior role (e.g. VP of marketing), this is a problem because they are often also unable to adequately evaluate potential hires[^5].
 
