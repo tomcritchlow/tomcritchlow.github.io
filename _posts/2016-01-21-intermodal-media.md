@@ -27,6 +27,8 @@ In an [interview with Jonah Peretti of Buzzfeed](http://www.businessinsider.com/
 
 A cursory scan of [Tasty's most recent videos](https://www.facebook.com/buzzfeedtasty/videos) reveals a staggering domination of the platform. The most recent 10 videos have an average view count of of 24mm views.
 
+This video posted three hours ago has over 5mm views:
+
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/buzzfeedtasty/videos/vb.1614251518827491/1708525039400138/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/buzzfeedtasty/videos/1708525039400138/"><a href="https://www.facebook.com/buzzfeedtasty/videos/1708525039400138/"></a><p>Matcha Green Tea Swiss Roll</p>Posted by <a href="https://www.facebook.com/buzzfeedtasty/">Tasty</a> on Thursday, January 21, 2016</blockquote></div></div>
 
 Of course Buzzfeed is designing these videos for maximum exposure - and cross platform exposure too. They're designing intermodal media and you can see that here; these videos are **square** and **silent**.
@@ -35,7 +37,7 @@ Square - because people watch these videos on a range of devices, landscape, por
 
 Silent - because these videos auto-play in your feed, and so they are annotated to be engaging and consumable without the hassle of pulling out headphones or turning on audio.
 
-Media designed to be embedded, cross-posted, facebooked, twittered, snapchatted, consumed on the go, shared, re-shared, blogged, re-blogged and watched at work and in bed.
+Intermodal Media - designed to be embedded, cross-posted, facebooked, twittered, snapchatted, consumed on the go, shared, re-shared, blogged, re-blogged and watched at work and in bed.
 
 --
 
