@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Intermodal Media
+subtitle: or why Buzzfeed is dominating Facebook with silent square videos
 ---
 
 The shipping container revolutionized global trade and modern capitalism. Why? Because it standardized infrastructure. This is called intermodalism:
