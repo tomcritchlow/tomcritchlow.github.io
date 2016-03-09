@@ -24,7 +24,7 @@ What does that mean? It means that attention and value have never been easier to
 
 So. Here we are. 
 
-##The Intellectual Rigor
+## The Intellectual Rigor
 
 One of the most interesting aspects to blogging is *discourse* - the idea that in order to write something you must think about it with a critical eye and that this process actually helps you clarify your thinking around it.
 
@@ -34,7 +34,7 @@ So what's the lesson here? Blog on topics you're thinking about - but remember y
 
 Of course, none of that helps if no one reads your post...
 
-##How to get your blog post read by the people that matter
+## How to get your blog post read by the people that matter
 
 Here's my best trick for writing blog posts. It's simple: write a blog post, think about who cares about that topic, email it to them asking for their thoughts.
 
@@ -46,7 +46,7 @@ Could be an old boss, a friend, someone you met at a conference - it doesn't mat
 
 This is something I use every time I write a blog post - it's a great routine to get into because it forces you to write a blog post so that *at least one person cares about it*.
 
-##Helping my friends blog - 12 weeks at a time
+## Helping my friends blog - 12 weeks at a time
 
 So when I looked around and realized that I'm not blogging frequently, and neither are many of my close friends I decided to do something about it. 5 minutes later I had a Trello board live and sent out a call on Twitter and an email.
 
