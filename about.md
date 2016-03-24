@@ -10,12 +10,14 @@ Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritc
 ## How I Got Here
 
 I got my start on the internet tinkering with SEO and content. In 2005 I joined my brother's small agency [Distilled](http://www.distilled.net) and helped grow the business from 3 people into a sustainable internationally recognized agency across three offices. (I moved to NYC in 2011 to open the NYC office which is still going strong!). During my time at Distilled I had some formative years and learned:
+
  - How the business of consulting works and how to effectively affect change
  - What good hiring and team management looks like and how to train up junior individual into high performance teams
 
 As the SEO industry evolved I transformed what I do from pure SEO into content marketing and eventually closely to digital strategy and advising clients on building online businesses. I also learned how to code Python. Badly.
 
 In 2012 I was looking for a new challenge and joined Google in NY working with the Creative Lab. While there I worked on:
+
  - Product vision: I led a project to produce a 7 minute live action video sketching the future of search (internal only unfortunately but seen by Larry!)
  - Marketing at scale: I was the Google owner for Maker Camp 2013 - reaching over 2million engagements on Google+ and working with NASA, The White House and more. Made some gifs, had a good time.
  - Internet business: a small internal team led by BizOps to present new business models for Google. My work was presented to Larry directly though clearly none of the business models have (yet!) displaced advertising... :)
