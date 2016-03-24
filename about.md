@@ -13,9 +13,9 @@ In 2007 I joined my brother’s small digital agency, [Distilled](http://www.dis
 
 I learned a couple things along the way. 
 
-Business consulting is about taking ownership and getting close to the problem and close to the people.
-Effecting change is hard and momentum is the key to success.
-Managing and hiring people is rooted in unlocking potential, not judging performance
+- Business consulting is about taking ownership and getting close to the problem and close to the people.
+- Effecting change is hard and momentum is the key to success.
+- Managing and hiring people is rooted in unlocking potential, not judging performance
 
 As the internet evolved so did I and I found myself joining Google’s Creative Lab in 2012 where I worked on a wide range of strategic projects from producing a live acton video about the future of search to presenting a new business model for Google to Larry Page. I also ran my first TV ad, worked with NASA, The White House and made a bunch of gifs.
   
