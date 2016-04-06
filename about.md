@@ -17,7 +17,7 @@ I learned a couple things along the way.
 - Effecting change is hard and momentum is the key to success.
 - Managing and hiring people is rooted in unlocking potential, not judging performance
 
-As the internet evolved so did I and I found myself joining Google’s Creative Lab in 2012 where I worked on a wide range of strategic projects from producing a live acton video about the future of search to presenting a new business model for Google to Larry Page. I also ran my first TV ad, worked with NASA, The White House and made a bunch of gifs.
+As the internet evolved so did I and I found myself joining Google’s Creative Lab in 2012 where I worked on a wide range of strategic projects from producing a live action video about the future of search to presenting a new business model for Google to Larry Page. I also ran my first TV ad, worked with NASA, The White House and made a bunch of gifs.
   
 After two years at Google I realized that innovation was more exciting and faster in incubators and loose creative communities so I left Google, launched [Fiercely Curious](http://www.fiercelycurious.com) and began an independent consulting practice working with media organizations and startups on growth, marketing, audience development and more.
 
