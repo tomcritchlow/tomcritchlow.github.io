@@ -8,7 +8,8 @@ Hi there. I'm living in Brooklyn, NY and can usually be found either drinking co
 
 Here's what I'm up to right now:
 
- - Freelance marketing consulting for mid-size startups
+ - Freelance marketing consulting
+ - Being a new dad :D
  - Sketching out what a marketing/growth bootcamp would look like as a "productized" version of my growth consulting for emerging startups (interested in being my test subject?)
  - Building a specialized recruitment business specifically for senior marketing candidates. <a href="http://tomcritchlow.com/2016/01/07/team-building/">More here</a>. 
  - Running an <a href="http://www.fiercelycurious.com">art business</a>.
