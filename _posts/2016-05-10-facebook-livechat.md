@@ -24,7 +24,7 @@ And the accompanying CSS:
 
 <script src="https://gist.github.com/tomcritchlow/ec36371f80ceaa1fab73f7d1db539f7e.js"></script>
 
-I'm excited to play in this space - clearly the experience is subpar for those users who don't have a Facebook account or even just aren't logged in but that's a sacrifice I'm willing to make for now. I think Facebook will build our more robust tools for businesses that want to use messenger as a tool for customer interaction.
+I'm excited to play in this space - clearly the experience is subpar for those users who don't have a Facebook account or even just aren't logged in but that's a sacrifice I'm willing to make for now. I think Facebook will build out more robust tools for businesses that want to use messenger as a tool for customer interaction.
 
 Try it out right now: [fiercelycurious.com](http://www.fiercelycurious.com)!
 
