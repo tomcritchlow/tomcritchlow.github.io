@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Using Facebook Messenger as a free Intercom Replacement
+title: Using Facebook Messenger as a Free Intercom Replacement
 subtitle: 
 ---
 
