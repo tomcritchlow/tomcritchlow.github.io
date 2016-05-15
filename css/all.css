@@ -45,8 +45,8 @@ pre{
 
 .hamburgermenu{
 position:fixed;
-bottom:15px;
-right:15px;
+bottom:30px;
+right:30px;
 background-color:#4CAF50;
   	border-radius: 50%;
 	width: 60px;
