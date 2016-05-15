@@ -74,8 +74,11 @@ background-color:#4CAF50;
 .newmenu{
   display:none;
   position:fixed;
-  bottom:60px;
+  bottom:90px;
   right:30px;
+  color:white;
+  font-size:18px;
+  line-height:25px;
 }
 
 .menuvisible{
