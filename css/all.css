@@ -57,6 +57,10 @@ background-color:#4CAF50;
   outline: none;
 }
 
+.hamburger:hover{
+  opacity:1 !important;
+}
+
 .hamburger-box{
   height:15px !important;
 }
