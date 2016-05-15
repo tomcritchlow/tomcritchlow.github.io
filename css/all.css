@@ -42,3 +42,8 @@ a {
 pre{
   word-wrap: break-word; 
 }
+
+.hamburger-inner{
+  width:30px !important;
+  height:3px !important;
+}
