@@ -55,4 +55,5 @@ background-color:#4CAF50;
 
 .hamburger .hamburger-inner, .hamburger .hamburger-inner:after, .hamburger .hamburger-inner:before {
     background-color: #fff;
+    width:30px;
 }
