@@ -89,8 +89,8 @@ $(".close").click(function(){
 
 $(".hamburger").click(function(){
   $(".hamburger").toggleClass("is-active");
-  $(".newmenu").toggleClass("menuvisible");
-  $(".shade").toggle();
+  $(".newmenu").toggleClass("menuvisible",250);
+  $(".shade").fadeToggle();
 });
 
 
