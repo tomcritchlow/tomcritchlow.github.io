@@ -59,12 +59,8 @@
   </span>
 </button>
 
-<script>
-$(".hamburger").click(function(){
-  $(".hamburger").toggleClass("is-active");
-  // Do something else, like open/close menu
-});
-</script>
+
+
 
 {% include googleanalytics.html %}
 
@@ -81,6 +77,10 @@ $(".mobileheader").click(function(){
 $(".close").click(function(){
       $(".navigation").slideToggle();
     });
+
+$(".hamburger").click(function(){
+  $(".hamburger").toggleClass("is-active");
+});
 
 
 $(".slider").attr("data-count","0");
