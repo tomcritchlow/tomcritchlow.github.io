@@ -69,3 +69,14 @@ background-color:#4CAF50;
     background-color: #fff;
     width:30px;
 }
+
+.newmenu{
+  display:none;
+  position:fixed;
+  bottom:60px;
+  right:30px;
+}
+
+.menuvisible{
+  display:visible;
+}
