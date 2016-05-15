@@ -58,7 +58,7 @@ background-color:#4CAF50;
 }
 
 .hamburger-box{
-  height:15px;
+  height:15px !important;
 }
 
 .hamburger .hamburger-inner, .hamburger .hamburger-inner:after, .hamburger .hamburger-inner:before {
