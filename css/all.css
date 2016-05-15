@@ -53,3 +53,6 @@ background-color:#4CAF50;
 	height: 60px; 
 }
 
+.hamburger-inner, .hamburger-inner:after, .hamburger-inner:before {
+  background-color:white !important;
+}
