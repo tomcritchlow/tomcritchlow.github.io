@@ -80,6 +80,8 @@ background-color:#4CAF50;
   font-size:30px;
   line-height:40px;
   z-index:5;
+  padding:80px;
+    transition:padding 0.8s linear;
 }
 
 .newmenu a{
