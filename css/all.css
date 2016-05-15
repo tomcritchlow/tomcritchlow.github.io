@@ -53,7 +53,7 @@ background-color:#4CAF50;
 	height: 60px; 
 }
 
-.hamburgermenu:focus{
+.hamburger:focus{
   outline: none;
 }
 
