@@ -19,6 +19,10 @@ Naming:
     Genetic
     Deep learning
     Recurrant neural networks
+    Bots
+    Chat bots
+    Persistent Innovation
+    
     
 
 Innovation or creative consulting?
