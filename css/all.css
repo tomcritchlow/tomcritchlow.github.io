@@ -49,12 +49,12 @@ pre{
 }
 
 .hamburgermenu{
-position:absolute;
+position:fixed;
 bottom:15px;
 right:15px;
 background-color:#4CAF50;
 color:white;
   	border-radius: 50%;
-	width: 200px;
-	height: 200px; 
+	width: 60px;
+	height: 60px; 
 }
