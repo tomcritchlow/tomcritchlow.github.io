@@ -82,6 +82,11 @@ background-color:#4CAF50;
   z-index:5;
 }
 
+.newmenu span{
+  display:block;
+  padding:10px;
+}
+
 .newmenu a{
   color:white;
 }
