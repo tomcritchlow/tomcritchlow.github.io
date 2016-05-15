@@ -53,6 +53,10 @@ background-color:#4CAF50;
 	height: 60px; 
 }
 
+.hamburgermenu:focus{
+  outline: none;
+}
+
 .hamburger .hamburger-inner, .hamburger .hamburger-inner:after, .hamburger .hamburger-inner:before {
     background-color: #fff;
     width:30px;
