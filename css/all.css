@@ -51,6 +51,7 @@ background-color:#4CAF50;
   	border-radius: 50%;
 	width: 60px;
 	height: 60px; 
+  z-index:5;
 }
 
 .hamburger:focus{
@@ -79,4 +80,12 @@ background-color:#4CAF50;
 
 .menuvisible{
   display:block;
+}
+
+.shade{
+  opacity:0.5;
+  width:100%;
+  height:100%;
+  display:none;
+  z-index:2
 }
