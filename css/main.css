@@ -249,6 +249,7 @@ p iframe{
   width:100%;
   text-align:center;
   padding-bottom:40px;
+  clear:both;
 }
 
 .footer a{
