@@ -10,3 +10,5 @@ subtitle: Some projects I've worked on over the years...
 
 
 {% endfor %}
+
+To see what I'm up to right now check out my [/now](/now) page
