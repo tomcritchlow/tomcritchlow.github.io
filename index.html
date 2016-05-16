@@ -74,7 +74,23 @@
 </div>
 
 
+<div class="hamburgermenu">
+  <button class="hamburger hamburger--3dx" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+  </button>
+</div>
 
+<div class="newmenu">
+ <span><a href="/about">about me</a></span>
+    <span><a href="/now">now</a></span>
+    <span><a href="/writing">writing</a></span>
+	<span><a href="http://twitter.com/tomcritchlow">@tomcritchlow</a></span>
+  </div>
+  
+  <div class="shade">
+  </div>
 
 {% include googleanalytics.html %}
 
@@ -87,6 +103,12 @@ $(".mobileheader").click(function(){
 $(".close").click(function(){
       $(".navigation").slideToggle();
     });
+	
+	$(".hamburger").click(function(){
+  $(".hamburger").toggleClass("is-active");
+  $(".newmenu").slideToggle();
+  $(".shade").fadeToggle();
+});
 	
 	</script>
 
