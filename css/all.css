@@ -82,13 +82,14 @@ background-color:#4CAF50;
   right:30px;
   color:white;
   font-size:30px;
-  line-height:40px;
+  line-height:30px;
   z-index:5;
   text-align:right;
 }
 
 .newmenu span{
   display:block;
+  padding-bottom:20px;
 }
 
 .newmenu a{
