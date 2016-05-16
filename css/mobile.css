@@ -25,6 +25,10 @@ html{
     font-size:30px;
     text-align:center;
   }
+  
+  .header a{
+  color:#4CAF50;
+}
 
 .navigation{
   position:absolute;
