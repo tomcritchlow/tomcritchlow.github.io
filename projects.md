@@ -3,6 +3,7 @@ layout: blog
 title: Projects
 ---
 
+Some projects I've worked on over the years...
 
 {% for project in site.projects %}
 
