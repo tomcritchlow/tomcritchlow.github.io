@@ -1,19 +1,6 @@
 {% include head.html %}
 
-{% if page.coverimage %}
-  
-  <style>
-    html{
-      border-left:none;
-      border-top:none;
-    }
-  </style>
-  
-  <div class='coverimage'>
-    <img src="{{page.coverimage}}" />
-  </div>
-  
-{% else %}
+
 
 <div class="topnav">
   
@@ -30,7 +17,7 @@
   </div>
 </div>
 
-{% endif %}
+
 
 <div class="blogcontent">
   <h1>{{page.title}}</h1>
@@ -38,9 +25,13 @@
 {% if page.subtitle %}
 <div class='subtitle'>{{page.subtitle}}</div>
   {% endif %}
-
-{% if page.date %}
-<p class="date">&mdash; {{ page.date | date: "%B %-d, %Y" }} &mdash;</p>
+  
+  {% if page.heroimage %}
+  
+  <p>
+    <img src="{{page.heroimage}}" />
+  </p>
+  
   {% endif %}
   
   {{content}}
