@@ -1,2 +1,6 @@
 # Permalinks
 permalink:        pretty
+
+collections:
+  projects:
+    output: true
