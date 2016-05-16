@@ -6,7 +6,10 @@ title: Projects
 
 {% for project in site.projects %}
 
-[ {{ project.title }} ]({{ project.url }})
+<a href="{{project.url}}"><div class="projectbox">
+    <div class="projecttitle">{{project.title}}</div>
+    <img src="{{project.heroimage}}" />
+</div></a>
 
 
 {% endfor %}
