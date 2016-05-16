@@ -43,6 +43,8 @@ pre{
   word-wrap: break-word; 
 }
 
+/* from here: https://jonsuh.com/hamburgers/ */
+
 .hamburgermenu{
 position:fixed;
 bottom:30px;
@@ -52,6 +54,8 @@ background-color:#4CAF50;
 	width: 60px;
 	height: 60px; 
   z-index:5;
+   filter: drop-shadow(2px 6px 4px rgba(0,0,0,.3));
+-webkit-filter: drop-shadow(2px 6px 4px rgba(0,0,0,.3));
 }
 
 .hamburger:focus{
