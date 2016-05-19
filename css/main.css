@@ -277,6 +277,7 @@ p iframe{
   width:300px;
   height:200px;
   background-color:rgba(0,0,0,0.5);
+  content: '';
 }
 
 .projecttitle{
