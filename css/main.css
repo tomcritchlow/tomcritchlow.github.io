@@ -275,7 +275,8 @@ p iframe{
 }
 
 .projectbox:hover{
-      box-shadow:0px 0px 0px 1px white;
+      box-shadow:0px 0px 0px 5px white inset;
+      border:1px solid white inset;
   
 }
 
