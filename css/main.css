@@ -271,6 +271,7 @@ p iframe{
   float:left;
   overflow:hidden;
   position:relative;
+  opacity:0.5;
 }
 
 .projecttitle{
@@ -278,6 +279,8 @@ p iframe{
   top:90px;
   line-height:20px;
   font-size:20px;
+  width:300px;
+  text-align:center;
 }
 
 
