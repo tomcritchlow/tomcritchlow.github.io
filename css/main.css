@@ -288,11 +288,12 @@ p iframe{
 
 .projecttitle{
   position:absolute;
-  top:90px;
-  line-height:20px;
-  font-size:20px;
+  top:80px;
+  line-height:40px;
+  font-size:40px;
   width:300px;
   text-align:center;
+  color:white
 }
 
 
