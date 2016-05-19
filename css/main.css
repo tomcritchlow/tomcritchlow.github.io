@@ -270,6 +270,14 @@ p iframe{
   padding:10px;
   float:left;
   overflow:hidden;
+  position:relative;
+}
+
+.projecttitle{
+  position:absolute;
+  top:90px;
+  line-height:20px;
+  font-size:20px;
 }
 
 
