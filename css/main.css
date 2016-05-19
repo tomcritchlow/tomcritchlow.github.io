@@ -267,15 +267,10 @@ p iframe{
 .projectbox{
   width:300px;
   height:200px;
-  padding:10px;
+  margin:10px;
   float:left;
   overflow:hidden;
   position:relative;
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    );
   background-size: cover;
 }
 
