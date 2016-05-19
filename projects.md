@@ -11,7 +11,7 @@ subtitle: Some projects I've worked on over the years...
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url({{project.heroimage}});"><a href="{{project.url}}"><div class="projecttitle">{{project.title}}</div></a></div>
+    url({{project.heroimage}});"><a href="{{project.url}}"><div class="projecttitle">{{project.title}}</div><div class="projectinner"></div></a></div>
 
 
 {% endfor %}

@@ -274,10 +274,16 @@ p iframe{
   background-size: cover;
 }
 
-.projectbox:hover{
-      box-shadow:0px 0px 0px 5px white inset;
-      border:1px solid white inset;
-  
+.projectinner{
+  border:1px solid white inset;
+  display:none;
+  width:290px;
+  height:190px;
+  padding:5px;
+}
+
+.projectbox:hover .projectinner{
+      display:block;
 }
 
 .projecttitle{
