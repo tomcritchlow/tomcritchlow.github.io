@@ -275,10 +275,16 @@ p iframe{
 }
 
 .projectbox:after{
-  width:300px;
-  height:200px;
-  background-color:rgba(0,0,0,0.5);
-  content: '';
+  display:none;
+  content:'';
+  width:280px;
+  height:180px;
+  border:1px solid white;
+  padding:10px;
+}
+
+.projectbox:hover .projectbox:after{
+  display:block;
 }
 
 .projecttitle{
