@@ -274,17 +274,9 @@ p iframe{
   background-size: cover;
 }
 
-.projectbox:after{
-  display:none;
-  content:'';
-  width:280px;
-  height:180px;
-  border:1px solid white;
-  padding:10px;
-}
-
-.projectbox:hover .projectbox:after{
-  display:block;
+.projectbox:hover{
+      box-shadow:0px 0px 0px 10px white inset;
+  
 }
 
 .projecttitle{
