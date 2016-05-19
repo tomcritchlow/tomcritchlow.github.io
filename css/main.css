@@ -279,7 +279,7 @@ p iframe{
   display:none;
   width:290px;
   height:190px;
-  padding:5px;
+  margin:3px;
 }
 
 .projectbox:hover .projectinner{
