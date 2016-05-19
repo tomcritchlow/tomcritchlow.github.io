@@ -271,7 +271,12 @@ p iframe{
   float:left;
   overflow:hidden;
   position:relative;
-  opacity:0.5;
+}
+
+.projectbox:after{
+  width:300px;
+  height:200px;
+  background-color:rgba(0,0,0,0.5);
 }
 
 .projecttitle{
