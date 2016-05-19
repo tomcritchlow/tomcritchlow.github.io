@@ -275,7 +275,7 @@ p iframe{
 }
 
 .projectinner{
-  border:1px solid white inset;
+  border:1px solid white;
   display:none;
   width:290px;
   height:190px;
