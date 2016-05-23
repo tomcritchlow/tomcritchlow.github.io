@@ -299,9 +299,9 @@ p iframe{
 
 /* Link Page Styling */
 
-.linksblock span{
-  position:absolute;
-  left:-50px;
+.linksblock span, .linksblock i{
+  color:lightgrey;
+  font-size:14px;
 }
 
 
