@@ -7,7 +7,8 @@ title: Links I Find Interesting
 
   {% for link in file.info %}
 
-    {{link.date}} - {{link.link | markdownify}}
+    {{link.date}}
+    {{link.link | markdownify}}
     
   {% endfor %}
 
