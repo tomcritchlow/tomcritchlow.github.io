@@ -5,7 +5,7 @@ subtitle: A constantly updated stream of things I'm reading and find fascinating
 ---
 
 <div class="blogcontent linkscontainer">
-
+<br><br>
 {% for link in site.links %}
 <hr>
 <div class="linksblock">
