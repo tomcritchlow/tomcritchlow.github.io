@@ -4,15 +4,16 @@ title: Links I Find Interesting
 ---
 
 {% for file in site.links %}
+{% for link in file.info %}
 
-  {% for link in file.info %}
+<div class="linksblock">
 
-{{link.date}}
+<span>{{link.date}}</span>
     
 {{link.link | markdownify}}
-    
-  {% endfor %}
 
+</div>
+{% endfor %}
 {% endfor %}
 
 
