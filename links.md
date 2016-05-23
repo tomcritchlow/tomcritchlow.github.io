@@ -8,9 +8,7 @@ title: Links I Find Interesting
 
 <div class="linksblock">
 
-<span>{{link.date}}</span>
-    
-{{link.link | markdownify}}
+<span>{{link.date}}</span>{{link.link}}<i class="fa fa-link" aria-hidden="true"></i>   
 
 </div>
 {% endfor %}
