@@ -9,9 +9,9 @@ title: Links I Find Interesting
 {% for link in file.info %}
 
 <div class="linksblock">
-
+<p>
 <span>{{link.date}}</span>{{link.link}}<i class="fa fa-link" aria-hidden="true"></i>   
-
+</p>
 </div>
 {% endfor %}
 {% endfor %}
