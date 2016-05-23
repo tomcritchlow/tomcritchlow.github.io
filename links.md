@@ -22,6 +22,7 @@ title: Links I Find Interesting
 
 </div>
 {% endfor %}
+<hr>
 {% endfor %}
 
 </div>
