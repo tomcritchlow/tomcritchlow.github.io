@@ -299,8 +299,9 @@ p iframe{
 
 /* Link Page Styling */
 
-.linkcontainer{
-  
+.linkcontainer span{
+  position:absolute;
+  left:-50px;
 }
 
 
