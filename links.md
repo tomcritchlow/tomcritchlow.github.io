@@ -12,9 +12,9 @@ subtitle: A constantly updated stream of things I'm reading and find fascinating
 <p>
 {{link.link}} - <span>{{link.date | date_to_string}} <a href="{{link.url}}"><i class="fa fa-link" aria-hidden="true"></i></a></span>   
 {% if link.quote %}
-<blockquote>
+<p><blockquote>
 {{link.quote}}
-</blockquote>
+</blockquote></p>
 {% endif %}
 
 </p>
