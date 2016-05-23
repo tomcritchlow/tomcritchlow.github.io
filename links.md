@@ -9,7 +9,7 @@ title: Links I Find Interesting
 
 <div class="linksblock">
 <p>
-{{link.link}} - <span>{{link.date}} <i class="fa fa-link" aria-hidden="true"></i></span>   
+{{link.link}} - <span>{{link.date | date_to_string}} <i class="fa fa-link" aria-hidden="true"></i></span>   
 {% if link.quote %}
 <blockquote>
 {{link.quote}}
