@@ -3,7 +3,7 @@ layout: blog
 title: Links I Find Interesting
 ---
 
-{% for link in links %}
+{% for link in site.links %}
 hello
 {{link.date}} - {{link.link}}
 
