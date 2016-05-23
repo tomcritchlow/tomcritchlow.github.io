@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Links I Find Interesting
+subtitle: A constantly updated stream of things I'm reading and find fascinating. 
 ---
 
 <div class="blogcontent linkscontainer">
