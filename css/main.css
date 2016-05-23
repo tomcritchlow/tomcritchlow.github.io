@@ -297,5 +297,12 @@ p iframe{
 }
 
 
+/* Link Page Styling */
+
+.linkcontainer{
+  width:600px;
+  font-size:20px;
+}
+
 
 }
