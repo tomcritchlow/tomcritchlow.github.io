@@ -252,9 +252,13 @@ hr{
 
 /* Link Page Styling */
 
-.linksblock span, .linksblock i{
+.linksblock span{
   color:gray;
   font-size:16px;
+}
+
+.linksblock span a{
+  color:gray;
 }
 
 

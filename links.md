@@ -10,7 +10,7 @@ title: Links I Find Interesting
 
 <div class="linksblock">
 <p>
-{{link.link}} - <span>{{link.date}}</span> <i class="fa fa-link" aria-hidden="true"></i>   
+{{link.link}} - <span>{{link.date}} <i class="fa fa-link" aria-hidden="true"></i></span>   
 {% if link.quote %}
 <blockquote>
 {{link.quote}}
