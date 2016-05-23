@@ -5,8 +5,7 @@ title: Links I Find Interesting
 
 <div class="blogcontent linkscontainer">
 
-{% for file in site.links %}
-{% for link in file.info %}
+{% for link in site.links %}
 
 <div class="linksblock">
 <p>
@@ -22,7 +21,6 @@ title: Links I Find Interesting
 
 </div>
 <hr>
-{% endfor %}
 
 {% endfor %}
 
