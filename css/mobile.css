@@ -250,5 +250,12 @@ hr{
     font-weight:600;
   }
 
+/* Link Page Styling */
+
+.linksblock span, .linksblock i{
+  color:gray;
+  font-size:16px;
+}
+
 
 }
