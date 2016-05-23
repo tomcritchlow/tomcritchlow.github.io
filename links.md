@@ -3,7 +3,7 @@ layout: blog
 title: Links I Find Interesting
 ---
 
-<div class="linkcontainer">
+<div class="blogcontent linkscontainer">
 
 {% for file in site.links %}
 {% for link in file.info %}
