@@ -11,7 +11,15 @@ title: Links I Find Interesting
 <div class="linksblock">
 <p>
 <span>{{link.date}}</span>{{link.link}}<i class="fa fa-link" aria-hidden="true"></i>   
+{% if link.quote %}
+<blockquote>
+{{link.quote}}
+</blockquote>
+{% endif %}
+
 </p>
+
+
 </div>
 {% endfor %}
 {% endfor %}
