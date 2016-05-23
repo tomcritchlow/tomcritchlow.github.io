@@ -4,3 +4,5 @@ permalink:        pretty
 collections:
   projects:
     output: true
+  links:
+    output: true

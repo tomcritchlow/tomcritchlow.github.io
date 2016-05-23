@@ -1,0 +1,114 @@
+{% include head.html %}
+
+
+
+<div class="topnav">
+  
+  <div class="header pacifico mobilehidden"><a href="/">TomCritchlow</a></div>
+  <div class="header pacifico desktophidden mobileheader">TomCritchlow</div>
+  
+  <div class="navigation mobilehidden">
+
+    <span><a href="/about">about me</a></span>
+    <span><a href="/now">now</a></span>
+    <span><a href="/writing">writing</a></span>
+	<span><a href="http://twitter.com/tomcritchlow">@tomcritchlow</a></span>
+    <span class="desktophidden opensans close">X</span>
+  </div>
+</div>
+
+
+
+<div class="blogcontent">
+  <h1>{{page.title}}</h1>
+
+{% if page.subtitle %}
+<div class='subtitle'>{{page.subtitle}}</div>
+  {% endif %}
+  
+  {% if page.heroimage %}
+  
+  <p>
+    <img class="projectimage" src="{{page.heroimage}}" />
+  </p>
+  
+  {% endif %}
+  
+  {{content}}
+
+</div>
+
+
+
+<div class="footer">
+  <a href="https://twitter.com/@tomcritchlow">@tomcritchlow</a>
+</div>
+
+<div class="hamburgermenu">
+  <button class="hamburger hamburger--3dx" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+  </button>
+</div>
+
+<div class="newmenu">
+ <span><a href="/about">about me</a></span>
+    <span><a href="/now">/now</a></span>
+    <span><a href="/writing">writing</a></span>
+	<span><a href="http://twitter.com/tomcritchlow">@tomcritchlow</a></span>
+  </div>
+  
+  <div class="shade">
+  </div>
+
+
+
+{% include googleanalytics.html %}
+
+<script>
+
+$('p img').each(function(){
+  $(this).parent().addClass("imgonly");
+});
+
+
+$(".hamburger").click(function(){
+  $(".hamburger").toggleClass("is-active");
+  $(".newmenu").slideToggle();
+  $(".shade").fadeToggle();
+});
+
+
+$(".slider").attr("data-count","0");
+$(".slider").prepend("<i class='fa fa-angle-left fa-3x prev'></i>");
+$(".slider").append("<i class='fa fa-angle-right fa-3x next'></i>");    
+    
+$(".slider .next").click(function(){
+      var count = $(this).parent().attr("data-count");
+      var length = $(this).parent().find("img").length;
+      $(this).parent().find("img").eq(count).hide();
+      if (count == length-1){
+        count = 0;
+      } else{
+        count++
+      };
+      $(this).parent().find("img").eq(count).show();
+      $(this).parent().attr("data-count",count);
+    });
+
+$(".slider .prev").click(function(){
+      var count = $(this).parent().attr("data-count");
+      var length = $(this).parent().find("img").length;
+      $(this).parent().find("img").eq(count).hide();
+      if (count == 0){
+        count = length-1;
+      } else{
+        count--
+      };
+      $(this).parent().find("img").eq(count).show();
+      $(this).parent().attr("data-count",count);
+    });
+
+
+</script>
