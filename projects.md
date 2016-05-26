@@ -12,8 +12,7 @@ rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
 ),
 url({{project.heroimage}});">
-<a href="{{project.url}}"><div class="projectinner"></div>
-</a></div><div class="projecttitle">{{project.title}}</div>
+<a href="{{project.url}}"><div class="projectinner"></div></a></div><div class="projecttitle">{{project.title}}</div>
 
 
 {% endfor %}
