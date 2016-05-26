@@ -265,8 +265,6 @@ p iframe{
 /* Projects Page Styling */
 
 .projectdiv{
-  border: 3px solid #4CAF50;
-  padding:20px;
   position:relative;
 }
 
@@ -278,12 +276,13 @@ p iframe{
   min-width:300px;
   max-height:300px;
   position:absolute;
-  margin-left:-50px;
 }
 
-.projectdiv img:after{
+.projectdiv:after{
   content:'';
-  border:1px solid blue;
+  border: 3px solid #4CAF50;
+  width:100%;
+  height:100%;
 }
 
 
