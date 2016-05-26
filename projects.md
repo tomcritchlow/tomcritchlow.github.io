@@ -1,7 +1,4 @@
 ---
-layout: blog
-title: Projects
-subtitle: Some projects I've worked on over the years...
 ---
 
 {% for project in site.projects %}
