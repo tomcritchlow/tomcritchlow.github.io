@@ -276,6 +276,9 @@ p iframe{
   display:inline-block;
   background-color:#4caf50;
   border:3px solid white;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box; 
 }
 
 .projectdiveven{
