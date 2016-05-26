@@ -266,7 +266,8 @@ p iframe{
 
 .projectdiv{
   position:relative;
-  width:600px;
+  display:inline-block;
+  background-color:#4caf50;
 }
 
 .projectdiveven{
@@ -274,6 +275,8 @@ p iframe{
 }
 
 .projectdiv img{
+  max-width:600px;
+  filter:opacity(0.5)
 }
 
 .projectdiv:after{
@@ -284,6 +287,7 @@ p iframe{
   position:absolute;
   left:30px;
   top:30px;
+  z-index:-1;
 }
 
 
