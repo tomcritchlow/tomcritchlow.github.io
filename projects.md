@@ -15,7 +15,7 @@ url({{project.heroimage}});">
 <a href="{{project.url}}"><div class="projectinner"></div></a></div><div class="projecttitle">{{project.title}}</div>
 
 <div class="projectdiv">
-<img src="{{project.heroimage"}} />
+<img src="{{project.heroimage}}" />
 </div>
 
 
