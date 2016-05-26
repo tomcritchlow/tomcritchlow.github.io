@@ -275,9 +275,15 @@ p iframe{
 }
 
 .projectdiv img{
-  max-width:500px;
+  min-width:300px;
+  max-height:300px;
   position:absolute;
   margin-left:-50px;
+}
+
+.projectdiv img:after{
+  content:'';
+  border:1px solid blue;
 }
 
 
