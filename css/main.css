@@ -281,8 +281,8 @@ p iframe{
 box-sizing: border-box; 
 }
 
-.projectdiveven{
-  
+.projecteven:after{
+  left:-30px !important;
 }
 
 .projectdiv img{
