@@ -1,18 +1,19 @@
 ---
+layout: blog
+title: Projects
+subtitle: Some things I'm proud of...
 ---
 
 {% for project in site.projects %}
 
 <div class="projectbox" style="background: 
-  linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)
-  ),
-  url({{project.heroimage}});">
-  <a href="{{project.url}}"><div class="projectinner"></div>
-  </a>
-  </div>
-  <div class="projecttitle">{{project.title}}</div>
+linear-gradient(
+rgba(0, 0, 0, 0.5),
+rgba(0, 0, 0, 0.5)
+),
+url({{project.heroimage}});">
+<a href="{{project.url}}"><div class="projectinner"></div>
+</a></div><div class="projecttitle">{{project.title}}</div>
 
 
 {% endfor %}
