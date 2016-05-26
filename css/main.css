@@ -264,24 +264,20 @@ p iframe{
 
 /* Projects Page Styling */
 
-.projectbox{
-  
-  float:left;
+.projectdiv{
+  border: 3px solid #4CAF50;
+  padding:20px;
   position:relative;
-  background-size: cover;
-  border:3px solid #4CAF50;
 }
 
-.projectinner{
-  border:1px solid white;
-  display:none;
-  width:290px;
-  height:190px;
-  margin:3px;
-}
-
-.projecttitle{
+.projectdiveven{
   
+}
+
+.projectdiv img{
+  max-width:500px;
+  position:absolute;
+  margin-left:-50px;
 }
 
 
