@@ -10,7 +10,6 @@ subtitle: Some things I'm proud of...
 <img src="{{project.heroimage}}" />
 </div>
 
-
 {% endfor %}
 
 To see what I'm up to right now check out my [/now](/now) page

@@ -266,6 +266,7 @@ p iframe{
 
 .projectdiv{
   position:relative;
+  width:600px;
 }
 
 .projectdiveven{
@@ -273,8 +274,6 @@ p iframe{
 }
 
 .projectdiv img{
-  width:100%;
-  position:absolute;
 }
 
 .projectdiv:after{
