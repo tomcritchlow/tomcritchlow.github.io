@@ -6,7 +6,7 @@ subtitle: A constantly updated stream of things I'm reading and find fascinating
 
 <div class="blogcontent linkscontainer">
 <br><br>
-{% for link in site.links %}
+{% for link in site.links reversed%}
 <hr>
 <div class="linksblock">
 <p>
