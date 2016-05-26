@@ -275,6 +275,7 @@ p iframe{
   position:relative;
   display:inline-block;
   background-color:#4caf50;
+  border:3px solid white;
 }
 
 .projectdiveven{
