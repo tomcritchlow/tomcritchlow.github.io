@@ -11,7 +11,6 @@ subtitle: Some things I'm proud of...
 {% else %}
 {% assign evenodd = '' %}
 {% endif %}
-{{loopindex}}
 <div class="projectcontainer">
 <div class="projectdiv {{evenodd}}">
 <img src="{{project.heroimage}}" />
