@@ -8,6 +8,8 @@ subtitle: Some things I'm proud of...
 {% assign loopindex = forloop.index | modulo: 2 %}
 {% if loopindex == 1 %}
 {% assign evenodd = 'projecteven' %}
+{% else %}
+{% assign evenodd = '' %}
 {% endif %}
 {{loopindex}}
 <div class="projectcontainer">
