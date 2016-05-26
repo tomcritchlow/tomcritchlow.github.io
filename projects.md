@@ -7,9 +7,9 @@ subtitle: Some things I'm proud of...
 {% for project in site.projects %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 {% if loopindex == 1 %}
-{% assign evenodd = 'projecteven' %}
-{% else %}
 {% assign evenodd = '' %}
+{% else %}
+{% assign evenodd = 'projecteven' %}
 {% endif %}
 <div class="projectcontainer">
 <div class="projectdiv {{evenodd}}">
