@@ -283,7 +283,8 @@ p iframe{
 
 .projectdiv img{
   max-width:600px;
-  filter:opacity(0.5)
+  filter:opacity(0.5);
+  -webkit-filter:opacity(0.5);
 }
 
 .projectdiv:after{
