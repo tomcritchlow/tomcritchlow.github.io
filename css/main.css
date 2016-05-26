@@ -307,6 +307,11 @@ box-sizing: border-box;
   position:absolute;
   font-size:40px;
   top:45px;
+  left:645px;
+}
+
+.projecteven .projecttitle{
+  right:645px;
 }
 
 
