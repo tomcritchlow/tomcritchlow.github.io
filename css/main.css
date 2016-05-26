@@ -265,7 +265,6 @@ p iframe{
 /* Projects Page Styling */
 
 .projectcontainer{
-  width:1000px;
   clear:both;
   margin-bottom:100px;
   
@@ -278,7 +277,12 @@ p iframe{
   border:3px solid white;
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-box-sizing: border-box; 
+box-sizing: border-box;
+margin-left:-300px;
+}
+
+.projecteven{
+  margin-left:300px;
 }
 
 .projecteven:after{
