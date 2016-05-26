@@ -267,7 +267,7 @@ p iframe{
 .projectcontainer{
   width:1000px;
   clear:both;
-  margin-bottom:30px;
+  margin-bottom:100px;
   
 }
 
@@ -282,13 +282,14 @@ box-sizing: border-box;
 }
 
 .projectdiveven{
-  display:inline-block;
+  
 }
 
 .projectdiv img{
   max-width:600px;
   filter:opacity(0.5);
   -webkit-filter:opacity(0.5);
+  display:block;
 }
 
 .projectdiv:after{
