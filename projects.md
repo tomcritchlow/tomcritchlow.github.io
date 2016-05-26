@@ -6,8 +6,10 @@ subtitle: Some things I'm proud of...
 
 {% for project in site.projects %}
 
+<div class="projectcontainer">
 <div class="projectdiv">
 <img src="{{project.heroimage}}" />
+</div>
 </div>
 
 <hr>

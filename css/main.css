@@ -264,6 +264,13 @@ p iframe{
 
 /* Projects Page Styling */
 
+.projectcontainer{
+  width:1000px;
+  clear:both;
+  margin-bottom:30px;
+  
+}
+
 .projectdiv{
   position:relative;
   display:inline-block;
