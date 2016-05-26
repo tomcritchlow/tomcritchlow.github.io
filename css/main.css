@@ -265,13 +265,11 @@ p iframe{
 /* Projects Page Styling */
 
 .projectbox{
-  width:300px;
-  height:200px;
-  margin:10px;
+  
   float:left;
-  overflow:hidden;
   position:relative;
   background-size: cover;
+  border:3px solid #4CAF50;
 }
 
 .projectinner{
@@ -282,18 +280,8 @@ p iframe{
   margin:3px;
 }
 
-.projectbox:hover .projectinner{
-      display:block;
-}
-
 .projecttitle{
-  position:absolute;
-  top:80px;
-  line-height:40px;
-  font-size:40px;
-  width:300px;
-  text-align:center;
-  color:white
+  
 }
 
 
