@@ -12,7 +12,7 @@ subtitle: Some things I'm proud of...
 {% assign evenodd = 'projecteven' %}
 {% endif %}
 <div class="projectcontainer">
-<a href="{{project.link}}"><div class="projectdiv {{evenodd}}">
+<a href="{{project.url}}"><div class="projectdiv {{evenodd}}">
 <img src="{{project.heroimage}}" />
 <div class="projecttitle">{{project.title}}<br>
 <span>{{project.subtitle}}</span>
