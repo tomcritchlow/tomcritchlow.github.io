@@ -333,6 +333,10 @@ margin-left:-250px;
   font-size: 37px;
 }
 
+.projecttitle p{
+  color:#4CAF50;
+}
+
 .projecteven .projecttitle{
   left:-600px;
   text-align:right;

@@ -16,7 +16,7 @@ subtitle: Some things I'm proud of...
 <img src="{{project.heroimage}}" />
 <div class="projecttitle">{{project.title}}<br>
 <span>{{project.subtitle}}</span><br>
-<p><i class="fa fa-angle-double-right" aria-hidden="true"></i></p>
+<p>Learn more <i class="fa fa-angle-double-right" aria-hidden="true"></i></p>
 </div>
 </div></a>
 </div>
