@@ -281,11 +281,6 @@ box-sizing: border-box;
 margin-left:-250px;
 }
 
-.projectdiv:hover img{
-    filter:opacity(1);
-    -webkit-filter:opacity(1);
-}
-
 .projectdiv:hover:after{
   z-index:2
 }
