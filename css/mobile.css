@@ -283,21 +283,12 @@ box-sizing: border-box;
   color:#212121;
 }
 
-.projectdiv:hover img{
-    filter:opacity(0.8);
-  -webkit-filter:opacity(0.8);
-}
-
-.projectdiv:hover:after{
-  z-index:2
-}
-
 .projecteven{
   
 }
 
 .projecteven:after{
-  left:-45px !important;
+  left:-20px !important;
 }
 
 .projectdiv img{
@@ -313,8 +304,8 @@ box-sizing: border-box;
   width:100%;
   height:100%;
   position:absolute;
-  left:45px;
-  top:45px;
+  left:20px;
+  top:20px;
   z-index:-1;
 }
 
@@ -322,6 +313,7 @@ box-sizing: border-box;
   position:absolute;
   font-size:40px;
   top:45px;
+  color:white;
   
 }
 
