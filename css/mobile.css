@@ -314,7 +314,9 @@ box-sizing: border-box;
   font-size:40px;
   top:45px;
   color:white;
-  
+  font-weight:bold;
+  width:100%;
+  text-align:center;
 }
 
 .projecttitle span{
