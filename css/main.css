@@ -285,7 +285,7 @@ margin-left:-250px;
   color:#212121;
 }
 
-.projectdiv img:hover{
+.projectdiv:hover img{
     filter:opacity(0.8);
   -webkit-filter:opacity(0.8);
 }
