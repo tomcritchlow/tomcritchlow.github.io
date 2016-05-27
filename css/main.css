@@ -283,7 +283,10 @@ margin-left:-250px;
 
 .projectdiv:hover img{
     filter:opacity(1);
-  
+}
+
+.projectdiv:hover:after{
+  z-index:2
 }
 
 .projecteven{
