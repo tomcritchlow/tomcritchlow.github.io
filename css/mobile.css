@@ -322,8 +322,7 @@ box-sizing: border-box;
   position:absolute;
   font-size:40px;
   top:45px;
-  left:700px;
-  width:500px;
+  
 }
 
 .projecttitle span{
@@ -336,8 +335,8 @@ box-sizing: border-box;
 }
 
 .projecteven .projecttitle{
-  left:-600px;
-  text-align:right;
+  
+  
 }
 
 
