@@ -293,8 +293,8 @@ box-sizing: border-box;
 
 .projectdiv img{
   width:100%;
-  filter:opacity(0.5);
-  -webkit-filter:opacity(0.5);
+  filter:opacity(0.3);
+  -webkit-filter:opacity(0.3);
   display:block;
 }
 
