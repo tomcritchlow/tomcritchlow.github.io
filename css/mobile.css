@@ -277,7 +277,6 @@ hr{
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 -moz-box-sizing: border-box;    /* Firefox, other Gecko */
 box-sizing: border-box;
-margin-left:-250px;
 }
 
 .projectcontainer a{
@@ -294,7 +293,7 @@ margin-left:-250px;
 }
 
 .projecteven{
-  margin-left:250px;
+  
 }
 
 .projecteven:after{
@@ -302,7 +301,7 @@ margin-left:-250px;
 }
 
 .projectdiv img{
-  max-width:600px;
+  width:80%;
   filter:opacity(0.5);
   -webkit-filter:opacity(0.5);
   display:block;
