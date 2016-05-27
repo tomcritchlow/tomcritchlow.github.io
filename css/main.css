@@ -315,6 +315,11 @@ margin-left:-250px;
   width:300px;
 }
 
+.projecttitle span{
+  font-family: 'neutonextralight';
+  font-size: 37px;
+}
+
 .projecteven .projecttitle{
   left:-350px;
 }
