@@ -285,6 +285,11 @@ margin-left:-250px;
   color:#212121;
 }
 
+.projectdiv:hover img{
+    filter:opacity(0.8);
+  -webkit-filter:opacity(0.8);
+}
+
 .projectdiv:hover:after{
   z-index:2
 }
