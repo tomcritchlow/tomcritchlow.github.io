@@ -281,6 +281,11 @@ box-sizing: border-box;
 margin-left:-250px;
 }
 
+.projectdiv:hover img{
+    filter:opacity(0);
+  -webkit-filter:opacity(0);
+}
+
 .projecteven{
   margin-left:250px;
 }
