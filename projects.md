@@ -14,7 +14,9 @@ subtitle: Some things I'm proud of...
 <div class="projectcontainer">
 <div class="projectdiv {{evenodd}}">
 <img src="{{project.heroimage}}" />
-<div class="projecttitle">{{project.title}}</div>
+<div class="projecttitle">{{project.title}}<br>
+<span>{{project.subtitle}}</span>
+</div>
 </div>
 </div>
 
