@@ -288,11 +288,11 @@ box-sizing: border-box;
 }
 
 .projecteven:after{
-  left:-20px !important;
+  left:-10px !important;
 }
 
 .projectdiv img{
-  width:80%;
+  width:100%;
   filter:opacity(0.5);
   -webkit-filter:opacity(0.5);
   display:block;
@@ -304,8 +304,8 @@ box-sizing: border-box;
   width:100%;
   height:100%;
   position:absolute;
-  left:20px;
-  top:20px;
+  left:10px;
+  top:10px;
   z-index:-1;
 }
 
