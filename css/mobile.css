@@ -261,5 +261,86 @@ hr{
   color:gray;
 }
 
+/* Projects Page Styling */
+
+.projectcontainer{
+  clear:both;
+  margin-bottom:100px;
+  margin-top:50px;
+}
+
+.projectdiv{
+  position:relative;
+  display:inline-block;
+  background-color:#4caf50;
+  border:3px solid white;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;
+margin-left:-250px;
+}
+
+.projectcontainer a{
+  color:#212121;
+}
+
+.projectdiv:hover img{
+    filter:opacity(0.8);
+  -webkit-filter:opacity(0.8);
+}
+
+.projectdiv:hover:after{
+  z-index:2
+}
+
+.projecteven{
+  margin-left:250px;
+}
+
+.projecteven:after{
+  left:-45px !important;
+}
+
+.projectdiv img{
+  max-width:600px;
+  filter:opacity(0.5);
+  -webkit-filter:opacity(0.5);
+  display:block;
+}
+
+.projectdiv:after{
+  content:'';
+  border: 3px solid #4CAF50;
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:45px;
+  top:45px;
+  z-index:-1;
+}
+
+.projecttitle{
+  position:absolute;
+  font-size:40px;
+  top:45px;
+  left:700px;
+  width:500px;
+}
+
+.projecttitle span{
+  font-family: 'neutonextralight';
+  font-size: 37px;
+}
+
+.projecttitle p{
+  color:#4CAF50;
+}
+
+.projecteven .projecttitle{
+  left:-600px;
+  text-align:right;
+}
+
+
 
 }
