@@ -283,6 +283,7 @@ margin-left:-250px;
 
 .projectdiv:hover img{
     filter:opacity(1);
+    -webkit-filter:opacity(1);
 }
 
 .projectdiv:hover:after{
