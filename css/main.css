@@ -281,6 +281,10 @@ box-sizing: border-box;
 margin-left:-250px;
 }
 
+.projectdiv a{
+  color:#212121;
+}
+
 .projectdiv:hover:after{
   z-index:2
 }
