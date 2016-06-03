@@ -23,6 +23,23 @@ Naming:
     Chat bots
     Persistent Innovation
     
+Themes:
+
+Language, words & media
+    poetry
+    writing
+    literature
+    text
+
+Mathematics
+    number theory
+    godel
+
+Hacking, creativity
+    move, think, create
+
+
+    
     
 
 Innovation or creative consulting?
