@@ -14,6 +14,22 @@ Where is your next phase of growth coming from? There's often no *right* answer 
 
 I can help you answer this question whether it's sketching out a content strategy for a small startup or helping a large organization engage in new ways of thinking (usually by making).
 
+    <div class="threebox">
+        <p><strong>/now</strong></p>
+        <p>Inspired by Derek Sivers, I have a <a href="/now">/now</a> page where I list what I'm currently up to.</p>
+    </div>
+
+    <div class="threebox">
+        <p><strong>Twitter!</strong></p>
+        <p>I'm most active on twitter, my DMs are open - tweet at me if you want to connect: <a href="http://twitter.com/tomcritchlow">@tomcritchlow</a></p>
+    </div>
+
+    <div class="threebox">
+        <p><strong>Get in touch!</strong></p>
+        <p>917 414 9121</p>
+        <p><a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a></p>
+    </div>
+
 ## The Modern Marketing Team
 
 We live in changing times and the modern marketing team needs to be agile to adapt. I help clients build modern marketing teams that are digital, nimble and design focused. This requires building out a team with a broad set of capabilities across design, product, engineering and growth.
