@@ -13,7 +13,7 @@ You see people mean well - there’s a lot of ambient goodwill floating around t
 
 Similar to “Ask HN” or “Show HN” I’d love to see a similar goodwill meme such as “HMO” - “help me out”. To that end - I’m posting my current top of mind list below and I encourage you to post your own and ping me. I’ll see if I can help out at all!
 
-##Help Me Out - April 2014 edition
+## Help Me Out - April 2014 edition
 
 Here’s the top of mind list of things I’m looking for help with right now with Fiercely Curious.
 
