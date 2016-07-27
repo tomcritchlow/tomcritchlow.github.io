@@ -1,6 +1,7 @@
 ---
 layout: page
-title: My Work
+title: Working With Me
+subtitle: I run a boutique consulting practice helping companies define and build digital marketing capabilities.
 ---
 
 What is the best way to build and sustain growth for your company? This is a problem that requires careful thinking, iterative design and strong leadership.
