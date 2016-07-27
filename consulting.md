@@ -29,16 +29,6 @@ I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providin
 
 Occasionally I've worked with marketing agencies such as **Distilled** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
 
-## Other Services:
-
-As an indepdnent consultant over the years I've worked on a very wide range of projects, to give you an idea I've worked on:
-
-- Product Innovation-&-Iteration Design Sprints
-- Marketing Strategy & Consulting
-- SEO & Content Marketing Training
-- Interim CMO / VP Marketing
-- Integration and acquisition support
-
 ## Clients Large & Small
 
 ![I <3 clients](/images/clientsgrey.png)
