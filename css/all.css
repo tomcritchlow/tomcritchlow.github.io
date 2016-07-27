@@ -87,17 +87,17 @@ brand{
 font-size:50px;
 font-weight:600;
 border-bottom:12px solid #00ff00;
-line-height:17px;
 display:inline-block;
 width:55px;
 margin-top:35px;
+position:relative;
 }
 
 brand:after{
     display: block;
     content: '';
     width: 44px;
-    border-bottom: 4px solid #00ff00;
+    border-bottom: 8px solid #00ff00;
     position: absolute;
     right: 0;
     top:22px;
