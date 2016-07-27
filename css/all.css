@@ -28,8 +28,6 @@ body{
 ul, li, p{
   font-size:20px;
   line-height:35px;
-  -webkit-font-smoothing: initial;
-    font-smoothing: initial;
   }
 
 ul a, ol a, p a {
