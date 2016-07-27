@@ -1,2 +1,68 @@
 @media (max-width: 1024px) {
+
+.homepagebox{
+  width:100%;
+}
+
+.homepagesplash{
+   font-size:15vw;
+ }
+
+header{
+    font-size:20px;
+    margin-top:10px;
+}
+
+.navigation a{
+    margin-left:30px;
+}
+
+.threebox{
+    padding:0;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:95%;
+    margin:auto;
+    float:none;
+}
+
+.quotebox:before, .quotebox:after{
+    display:block;
+}
+
+.quotebox:after{
+    padding-top:30px;
+}
+
+.clients{
+    width:80%;
+    height:initial;
+}
+
+.tombox{
+    margin-bottom:0;
+}
+
+.tombox img{
+    width:200px;
+}
+
+.tombox h2{
+    font-size:30px;
+    padding-top:0px;
+}
+
+.tombox h2, .tombox p{
+    padding-left:100px;
+}
+
+.postcontainer{
+    margin-left:0;
+}
+
+.posttitle{
+    font-size:40px;
+}
+
+
 }
