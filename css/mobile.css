@@ -66,6 +66,13 @@ brand{
     margin-left:0;
 }
 
+.postcontainer img{
+  margin-left:0px;
+  max-width:100%;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
 .posttitle{
     font-size:40px;
 }
