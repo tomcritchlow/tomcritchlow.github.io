@@ -17,6 +17,13 @@ brand{
   font-size:15px;
 }
 
+brand:after{
+    width: 29px;
+    border-bottom: 2px solid #00ff00;
+    left: 2px;
+    top: 17px;
+}
+
 .navigation a{
     margin-left:30px;
 }
