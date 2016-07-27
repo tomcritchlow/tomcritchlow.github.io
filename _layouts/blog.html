@@ -6,15 +6,15 @@
 
 
 
-<div class="blogcontent">
-  <h1>{{page.title}}</h1>
+<div class="postcontainer">
+  <div class="posttitle">{{page.title}}</div>
 
 {% if page.subtitle %}
 <div class='subtitle'>{{page.subtitle}}</div>
   {% endif %}
 
 {% if page.date %}
-<p class="date">&mdash; {{ page.date | date: "%B %-d, %Y" }} &mdash;</p>
+<div class="dateline">{{ page.date | date: "%B %-d, %Y" }}</div>
   {% endif %}
   
   {{content}}
