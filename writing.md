@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Latest Writing
 ---
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}

@@ -1,0 +1,24 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
+
+
+
+<div class="postcontainer">
+  <div class="posttitle">{{page.title}}</div>
+
+{% if page.subtitle %}
+<div class='subtitle'>{{page.subtitle}}</div>
+  {% endif %}
+
+  
+  {{content}}
+                                    
+
+</div>
+
+
+
+{% include footer.html %}
