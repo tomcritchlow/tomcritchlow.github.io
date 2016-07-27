@@ -37,7 +37,7 @@ ul a, ol a, p a {
   transition:ease-in .05s border-bottom;
  }
 
-p a:hover{
+ul a:hover, ol p:hover, p a:hover{
   border-bottom:4px solid #00ff00;
 }
 
@@ -316,7 +316,8 @@ padding-bottom:20px;
 }
 
 blockquote{
-  border-left:4px solid #00ff00;
-  padding-left:5px;
-  font-style:italic;
+      border-left: 4px solid #00ff00;
+    padding-left: 10px;
+    font-style: italic;
+    margin-left: 10px;
 }
