@@ -12,11 +12,9 @@ title: Latest Writing
 
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 
+<a href="{{post.url}}#disqus_thread">Link</a>
+
 {% endif %}
 {% endfor %}
 
-## Writing Elsewhere
-
-[My old Svbtle blog](http://tomcritchlow.svbtle.com/)
-
-<script async src="https://static.medium.com/embed.js"></script><a class="m-profile" data-width="100%" href="https://medium.com/@tomcritchlow">Tom Critchlow</a>
+<script id="dsq-count-scr" src="//tomcritchlow.disqus.com/count.js" async></script>
