@@ -10,22 +10,22 @@ I started my career in SEO & content marketing - working with Distilled to help 
 
 ## Strategy Workshops
 
-Face to face workshops - where we bring research to the table and challenge assumptions. These sessions can be incredibly valuable, not only as a way of moving forward but also as a way of aligning and identifying future work projects.
+Face to face workshops - where I bring research to the table and challenge assumptions. These sessions can be incredibly valuable, not only as a way of moving forward but also as a way of aligning and identifying future work projects.
 
 ## Embedded Marketing Strategy
 
-The next step is usually getting as close to your team as possible - to understand the dynamics and to understand the business. Most work is done project-based where we define specific needs or problems and address them with speed. This ongoing work often revolves around the core principle of helping clients define and build new marketing capabilities - whether in content marketing, SEO, audience development or helping to lead brand positioning and market research.
+The next step is usually getting as close to your team as possible - to understand the dynamics and to understand the business. Most work is done project-based where I define specific needs or problems and address them with speed. This ongoing work often revolves around the core principle of helping clients define and build new marketing capabilities - whether in content marketing, SEO, audience development or helping to lead brand positioning and market research.
 
 ## Building Better Teams
 
-Finding marketing talent is hard and we have a lot of experience hiring, training and leading teams of marketing and editorial talent. Think of us as something like a consultative recruiter - helping to define the needs in the first place and then helping to source the right people for the role.
+Finding marketing talent is hard and I have a lot of experience hiring, training and leading teams of marketing and editorial talent. Think of me as something like a consultative recruiter - helping to define the needs in the first place and then helping to source the right people for the role.
 
 
 ## Example Projects
 
 I've worked with media companies such as **The New York Times** and **Complex Media** on audience development, SEO and content distribution.
 
-And I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providing marketing strategy, sometimes acting as interim CMO, leadership and acting as an advisor.
+I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providing marketing strategy, sometimes acting as interim CMO, leadership and acting as an advisor.
 
 Occasionally I've worked with marketing agencies such as **Distilled** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
 
