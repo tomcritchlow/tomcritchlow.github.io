@@ -1,41 +1,43 @@
 ---
 layout: page
-title: Working With Me
+title: Working with me
 subtitle: I run a boutique consulting practice helping companies define and build digital marketing capabilities.
 ---
 
-What is the best way to build and sustain growth for your company? This is a problem that requires careful thinking, iterative design and strong leadership.
+I've been working in digital marketing for over 10 years and an independent consultant for the last 2 years - working with media companies and startups - advising on content marketing, brand, audience development and growth.
 
-My work is focused on media companies and early/mid-stage startups. My expertise is in marketing and product strategy. For example - I've been hired by large media companies to focus on content strategy, mid-size startups to be an interim CMO and by product companies to help run design sprints to shape product roadmap.
+I started my career in SEO & content marketing - working with Distilled to help them grow from 3 people to 60+ and expand across three offices. This consistent focus on content has helped me understand how 
 
-## Growth
+## Strategy Workshops
 
-Where is your next phase of growth coming from? There's often no *right* answer to this question and often involves a process of experimentation and iteration.
+Face to face workshops - where we bring research to the table and challenge assumptions. These sessions can be incredibly valuable, not only as a way of moving forward but also as a way of aligning and identifying future work projects.
 
-I can help you answer this question whether it's sketching out a content strategy for a small startup or helping a large organization engage in new ways of thinking (usually by making).
+## Embedded Marketing Strategy
 
-## The Modern Marketing Team
+The next step is usually getting as close to your team as possible - to understand the dynamics and to understand the business. Most work is done project-based where we define specific needs or problems and address them with speed. This ongoing work often revolves around the core principle of helping clients define and build new marketing capabilities - whether in content marketing, SEO, audience development or helping to lead brand positioning and market research.
 
-We live in changing times and the modern marketing team needs to be agile to adapt. I help clients build modern marketing teams that are digital, nimble and design focused. This requires building out a team with a broad set of capabilities across design, product, engineering and growth.
+## Building Better Teams
 
-
-## Product Strategy Beyond Sticky Notes
-
-Steeped in the aesthetic of sticky notes and design sprints, too often innovation becomes an intangible thing when in fact product strategy and innovation should be the opposite; lightweight tangible things. I can help you take an actionable approach to innovation - one that requires *making* as a core skillset and rapid iteration as the focal point.
+Finding marketing talent is hard and we have a lot of experience hiring, training and leading teams of marketing and editorial talent. Think of us as something like a consultative recruiter - helping to define the needs in the first place and then helping to source the right people for the role.
 
 
-## My Best Work is On-Site
+## Example Projects
 
-I work best embedded within teams so I can bring you pastries and smell the fires. Embedded systems reduce friction, make communication quicker and ultimately make projects succeed. By sitting with you and your teams I can help do the work and embed knowledge and abilities to ensure that your team is set up to succeed without me in the long run.
+I've worked with media companies such as **The New York Times** and **Complex Media** on audience development, SEO and content distribution.
 
-I'm based in New York City, but available to travel for work.
+And I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providing marketing strategy, sometimes acting as interim CMO, leadership and acting as an advisor.
 
-## Services:
+Occasionally I've worked with marketing agencies such as **Distilled** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
+
+## Other Services:
+
+As an indepdnent consultant over the years I've worked on a very wide range of projects, to give you an idea I've worked on:
 
 - Product Innovation-&-Iteration Design Sprints
 - Marketing Strategy & Consulting
-- Training & Teaching
-- Interim CMO or VP Digital
+- SEO & Content Marketing Training
+- Interim CMO / VP Marketing
+- Integration and acquisition support
 
 ## Clients Large & Small
 
