@@ -110,40 +110,12 @@ hr{
   clear:both;
 }
 
-.homepagebox{
-  text-align:center;
-  margin:auto;
-  width:100%;
-  max-width:1200px;
-  margin-top:100px;
-}
 
-.homepagesplash{
-   font-weight:800;
-   font-size:90px;
-   margin-bottom:20px;
- }
 
 .greenunderline{
   box-shadow: inset 0 -25px 0 #00ff00;
 }
 
-.opensans{
-  font-family:"open sans";
-}
-
-.homepagesub{
-  font-size:30px;
-  line-height:40px;
-  font-weight:200;
-  width:100%;
-  max-width:800px;
-  margin:auto;
-}
-
-.homepagebox p{
-  text-align:center;
-}
 
 .threebox {
     float: left;
@@ -201,6 +173,7 @@ hr{
   border:4px solid #00ff00;
   position:relative;
   margin-bottom:200px;
+  text-align:center;
 }
 
 .tombox img{
