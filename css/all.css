@@ -256,18 +256,7 @@ footer brand{
 
 /* page styling */
 
-.pagetitle{
-  margin-top:100px;
-  font-size: 60px;
-  font-weight: 800;
- text-align:center;
-}
 
-.pagecontainer{
-  width:100%;
-  max-width:685px;
-  margin:auto;
-}
 
 /* blog page styling */
 
@@ -284,6 +273,10 @@ footer brand{
   max-width:685px;
   margin-left:100px;
   margin-top:100px;
+}
+
+.postcontainer img{
+  margin-left:-100px;
 }
 
 .posttitle{
