@@ -25,6 +25,10 @@ body{
     margin:auto;
 }
 
+.center{
+  text-align:Center;
+}
+
 ul, li, p{
   font-size:20px;
   line-height:35px;
