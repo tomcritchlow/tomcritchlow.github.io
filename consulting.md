@@ -29,8 +29,6 @@ I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providin
 
 Occasionally I've worked with marketing agencies such as **Distilled** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
 
-## Clients Large & Small
-
-![I <3 clients](/images/clientsgrey.png)
+<hr>
 
 Please get in touch: <tjcritchlow@gmail.com> / 917 414 9121
