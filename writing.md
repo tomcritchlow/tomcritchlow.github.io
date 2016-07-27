@@ -12,9 +12,5 @@ title: Latest Writing
 
 {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 
-<a href="{{post.url}}#disqus_thread">Link</a>
-
 {% endif %}
 {% endfor %}
-
-<script id="dsq-count-scr" src="//tomcritchlow.disqus.com/count.js" async></script>
