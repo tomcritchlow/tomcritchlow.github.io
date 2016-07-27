@@ -188,12 +188,12 @@ hr{
 .tombox h2{
   padding-left:300px;
   font-size:50px;
-  padding-top:50px;
+  padding-top:20px;
 }
 
 .tombox p{
-  padding-left:300px;
-  padding-bottom:50px;
+  margin-left:300px;
+  padding:5px;
 }
 
 .clients{
