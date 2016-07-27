@@ -49,8 +49,8 @@ brand{
 
 .tombox img{
     width:80%;
-    padding:10px;
     position:relative;
+    left:0;
 }
 
 .tombox h2{
