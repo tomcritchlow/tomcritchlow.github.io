@@ -48,7 +48,9 @@ brand{
 }
 
 .tombox img{
-    width:200px;
+    width:80%;
+    padding:10px;
+    position:relative;
 }
 
 .tombox h2{
@@ -57,7 +59,7 @@ brand{
 }
 
 .tombox h2, .tombox p{
-    margin-left:100px;
+    margin-left:0px;
 }
 
 .postcontainer{
