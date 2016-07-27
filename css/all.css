@@ -84,23 +84,21 @@ header a{
 }
 
 brand{
-font-size:50px;
+font-size:30px;
 font-weight:600;
-border-bottom:12px solid #00ff00;
 display:inline-block;
-width:55px;
 margin-top:35px;
 position:relative;
 }
 
 brand:after{
-    display: block;
+display: block;
     content: '';
-    width: 44px;
-    border-bottom: 8px solid #00ff00;
+    width: 54px;
+    border-bottom: 4px solid #00ff00;
     position: absolute;
-    right: 0;
-    top:22px;
+    left: 6px;
+    top: 33px;
     z-index: -1;
 }
 
