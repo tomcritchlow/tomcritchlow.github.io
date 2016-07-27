@@ -277,6 +277,9 @@ footer brand{
 
 .postcontainer img{
   margin-left:-100px;
+  max-width:1200px;
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
 .posttitle{
