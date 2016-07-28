@@ -25,7 +25,7 @@ Finding marketing talent is hard and I have a lot of experience hiring, training
 
 I've worked with media companies such as **The New York Times** and **Complex Media** on audience development, SEO and content distribution.
 
-I've worked with startups such as **Olapic**, **Fundera** and **Grovo** providing marketing strategy, sometimes acting as interim CMO, leadership and acting as an advisor.
+I've worked with startups such as **Olapic**, **Fundera** and **Grovo** as an advisor - whether as interim CMO, strategy consultant or helping to build the marketing team from scratch.
 
 Occasionally I've worked with marketing agencies such as **Distilled** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
 
