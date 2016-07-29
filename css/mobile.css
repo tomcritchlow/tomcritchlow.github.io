@@ -85,6 +85,10 @@ margin-top:24px;
   padding-bottom:20px;
 }
 
+.postcontainer .quotebox{
+  margin-left:0px;
+}
+
 .posttitle{
     font-size:40px;
 }

@@ -287,6 +287,10 @@ footer brand{
   padding-bottom:20px;
 }
 
+.postcontainer .quotebox{
+  margin-left:-100px;
+}
+
 .posttitle{
 font-size:60px;
 font-weight:800;
