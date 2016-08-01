@@ -6,6 +6,8 @@ subtitle: I run a boutique consulting practice helping companies define and buil
 
 I've been working in digital marketing for over 10 years and as an independent consultant for the last 2 years - working with media companies and startups - advising on content marketing, brand, audience development and growth.
 
+I think of clients like partnerships and typically don't get hired to make spreadsheets. I'll make the spreadsheets anyway, but you hire me to care about your business. 
+
 ## Some Past Projects
 
 As an independent consultant the work I do is varied and always tailored to the client's needs. Here's some past projects to help you get a feel for the kind of work I do:
