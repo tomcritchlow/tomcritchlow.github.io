@@ -32,7 +32,7 @@ float:none;
 }
 
 .navigation a{
-    margin-left:10px;
+    margin-left:0px;
     margin-right:10px;
     box-shadow: inset 0 -4px 0 #00ff00;
     float:none;
@@ -81,6 +81,7 @@ float:none;
 
 .postcontainer{
     margin-left:0;
+    margin-top:50px;
 }
 
 .postcontainer img{
