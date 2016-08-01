@@ -86,7 +86,7 @@ header a{
 }
 
 brand{
-font-size:30px;
+font-size:25px;
 font-weight:600;
 display:inline-block;
 margin-top:18px;
@@ -94,13 +94,13 @@ position:relative;
 }
 
 brand:after{
-display: block;
+    display: block;
     content: '';
-    width: 54px;
-    border-bottom: 4px solid #00ff00;
+    width: 50px;
+    border-bottom: 8px solid #00ff00;
     position: absolute;
-    left: 6px;
-    top: 33px;
+    left: 3px;
+    top: 22px;
     z-index: -1;
 }
 
