@@ -6,8 +6,6 @@ subtitle: I run a boutique consulting practice helping companies define and buil
 
 I've been working in digital marketing for over 10 years and an independent consultant for the last 2 years - working with media companies and startups - advising on content marketing, brand, audience development and growth.
 
-I started my career in SEO & content marketing - working with Distilled to help them grow from 3 people to 60+ and expand across three offices. This consistent focus on content has helped me understand how 
-
 ## Strategy Workshops
 
 Face to face workshops - where I bring research to the table and challenge assumptions. These sessions can be incredibly valuable, not only as a way of moving forward but also as a way of aligning and identifying future work projects.
