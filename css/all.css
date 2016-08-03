@@ -34,6 +34,8 @@ ul, li, p{
   line-height:35px;
   }
 
+a{color:#212121}
+
 ul a, ol a, p a {
   text-decoration: none;
   color:#212121;

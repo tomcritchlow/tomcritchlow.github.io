@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 title: Intentional community building
