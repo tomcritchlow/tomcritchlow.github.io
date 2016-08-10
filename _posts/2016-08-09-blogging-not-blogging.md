@@ -6,7 +6,7 @@ subtitle: 7 ways to get back into blogging
 
 It's late, I'm tired from a long day of consulting and I'm trying to blog. The baby is asleep, Erin's out getting some laps at the pool. Blogging is hard but has given me so much over the years that I'm trying to get back into it.
 
-At some stage I need to write the definitive "why you should blog" post. I wrote a piece [You're not blogging my friend, and that's a problem](http://tomcritchlow.com/2015/09/03/nycblogclub/) a while back and I like it but it's not *the* piece. But that's for another day. This post is about wanting to start but stumbling at the first hurdle. Let's try and get you over that hump - here's 10 things I've found useful to get blogging over the years:
+At some stage I need to write the definitive "why you should blog" post. I wrote a piece [You're not blogging my friend, and that's a problem](http://tomcritchlow.com/2015/09/03/nycblogclub/) a while back and I like it but it's not *the* piece. But that's for another day. This post is about wanting to start but stumbling at the first hurdle. Let's try and get you over that hump - here's 7 things I've found useful to get blogging over the years:
 
 ## Blog for one person only
 
