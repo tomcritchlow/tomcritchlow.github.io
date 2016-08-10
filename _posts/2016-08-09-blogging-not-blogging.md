@@ -20,7 +20,7 @@ Hi Brian. This post is for you.
 
 ## Release, Rework, Reference
 
-This is more of a mindset than a specific tip - but it's helped me think about writing. Especially about building a **body of writing** like you do with blogging. What is the value of a networked set of things I've written? Turns out - almost everyone I admire online, people that produce the kinds of things I wish I'd made all follow the same structure: release, rework, release.
+This is more of a mindset than a specific tip - but it's helped me think about writing. Especially about building a **body of writing** like you do with blogging. What is the value of a networked set of things I've written? Turns out - almost everyone I admire online, people that produce the kinds of things I wish I'd made all follow the same structure: release, rework, reference.
 
 What does that mean? It's a concept stolen from [The Calculus of Grit](http://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/):
 
