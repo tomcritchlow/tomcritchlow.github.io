@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blogging, Not Blogging
-subtitle: 10 ways to get back into blogging
+subtitle: 7 ways to get back into blogging
 ---
 
 It's late, I'm tired from a long day of consulting and I'm trying to blog. The baby is asleep, Erin's out getting some laps at the pool. Blogging is hard but has given me so much over the years that I'm trying to get back into it.
