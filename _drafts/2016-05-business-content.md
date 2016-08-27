@@ -1,8 +1,8 @@
 
 ---
 layout: blog
-title: Small Pieces Loosely Joined
-subtitle: Rivers and streams and the open web
+title: The Business of Content
+subtitle: Commercial content, publishers and brands in the current media landscape.
 ---
 
 There are content companies like The Wirecutter, Finder.com, Nerdwallet and more. Where do these companies fit?
