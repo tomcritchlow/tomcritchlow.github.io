@@ -20,6 +20,8 @@ title: Latest Writing
 <div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
   {% endif %}
 
+  <h2><a href="{{post.url}}">Read post</a></h2>
+
   <a href="{{post.url}}#disqus_thread">Comments</a>
 
 <hr>
