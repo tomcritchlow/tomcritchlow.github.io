@@ -13,11 +13,15 @@ title: Latest Writing
 <a href="{{post.url}}"><div class="posttitle">{{post.title}}</div></a>
 
 {% if post.subtitle %}
+
 <a href="{{post.url}}"><div class='subtitle'>{{post.subtitle}}</div></a>
+
   {% endif %}
 
 {% if post.date %}
+
 <div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
+
   {% endif %}
 
   <h2><a href="{{post.url}}">Read post</a></h2>
