@@ -17,7 +17,6 @@ title: Latest Writing
 
 {% for post in site.posts %}
 
-<div class="postcontainer">
   <div class="posttitle">{{post.title}}</div>
 
 {% if page.subtitle %}
