@@ -19,12 +19,14 @@ title: Latest Writing
 
   <div class="posttitle">{{post.title}}</div>
 
-{% if page.subtitle %}
+{% if post.subtitle %}
 <div class='subtitle'>{{post.subtitle}}</div>
   {% endif %}
 
-{% if page.date %}
+{% if post.date %}
 <div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
   {% endif %}
+
+<hr>
 
 {% endfor %}
