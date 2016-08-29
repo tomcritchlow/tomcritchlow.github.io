@@ -18,14 +18,14 @@ title: Latest Writing
 {% for post in site.posts %}
 
 <div class="postcontainer">
-  <div class="posttitle">{{page.title}}</div>
+  <div class="posttitle">{{post.title}}</div>
 
 {% if page.subtitle %}
-<div class='subtitle'>{{page.subtitle}}</div>
+<div class='subtitle'>{{post.subtitle}}</div>
   {% endif %}
 
 {% if page.date %}
-<div class="dateline">{{ page.date | date: "%B %-d, %Y" }}</div>
+<div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
   {% endif %}
 
 {% endfor %}
