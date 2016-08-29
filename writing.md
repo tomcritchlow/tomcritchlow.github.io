@@ -10,7 +10,7 @@ title: Latest Writing
 
 {% for post in site.posts %}
 
-  <div class="posttitle">{{post.title}}</div>
+  <a href="{{post.url}}"><div class="posttitle">{{post.title}}</div>
 
 {% if post.subtitle %}
 <div class='subtitle'>{{post.subtitle}}</div>
@@ -18,7 +18,7 @@ title: Latest Writing
 
 {% if post.date %}
 <div class="dateline">{{ post.date | date: "%B %-d, %Y" }}</div>
-  {% endif %}
+  {% endif %}</a>
 
   <a href="{{post.url}}#disqus_thread">Comments</a>
 
