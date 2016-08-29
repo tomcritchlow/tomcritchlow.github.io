@@ -10,7 +10,7 @@ title: Latest Writing
 
 {% for post in site.posts %}
 
-  <a href="{{post.url}}"><div class="posttitle">{{post.title}}</div>
+<a href="{{post.url}}"><div class="posttitle">{{post.title}}</div>
 
 {% if post.subtitle %}
 <div class='subtitle'>{{post.subtitle}}</div>
