@@ -20,4 +20,4 @@ This talk is fascinating, but to really *feel* the shift to digital media you ne
 
 >[media] buyers are going to get more sophisticated and everything is going to get repriced
 
-Seen anything else good recently around the future of digital media?
+I think it's been "the year of the death of traditional media" for a while, but it's actually happening right now at a terrifying pace. Seen anything else good recently around the future of digital media?
