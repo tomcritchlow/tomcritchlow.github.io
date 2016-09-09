@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 title: The Business of Content
@@ -11,3 +10,11 @@ They're so much more savvy than traditional media publications in making money. 
 
 
 But, they produce content at editorial scale, without many of the institutional biases that media companies face. glkjgh 
+
+Fragments of The Business of Content
+
+The bottom if falling out of the display ad business (link to youtube)
+
+Publishers are rushing to compete (link to wirecutter)
+
+Best Products at hearst ()
