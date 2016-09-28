@@ -1,3 +1,4 @@
 ---
 ---
-disallow: /data/
+User-Agent: *
+Disallow: /data/
