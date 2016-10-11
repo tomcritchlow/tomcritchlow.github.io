@@ -59,6 +59,10 @@ float:none;
     height:initial;
 }
 
+.clients img{
+    max-width:200px;
+}
+
 .tombox{
     margin-bottom:0;
 }
