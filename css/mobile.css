@@ -56,11 +56,8 @@ float:none;
 
 .clients{
     width:80%;
-    height:initial;
-}
-
-.clients img{
     max-width:200px;
+    height:initial;
 }
 
 .tombox{
