@@ -30,7 +30,7 @@
 <meta name="twitter:site" content="@tomcritchlow">
 <meta name="twitter:creator" content="@tomcritchlow">
 <meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
-<meta name="twitter:description" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.content | truncatewords:20}}{% endif %}">
+<meta name="twitter:description" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.content | truncatewords:20 | strip_html}}{% endif %}">
 <meta name="twitter:image" content="http://tomcritchlow.com/images/green.png">
 
 {% endif %}
