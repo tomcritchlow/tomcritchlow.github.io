@@ -99,5 +99,8 @@ float:none;
     font-size:40px;
 }
 
+iframe{
+    width:100%;
+}
 
 }
