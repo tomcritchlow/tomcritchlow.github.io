@@ -113,7 +113,7 @@
 		</div> <!-- cd-timeline-block -->
 	</section> <!-- cd-timeline -->
 
-	<section id="cd-timeline" class="cd-container">
+	<section name="20s" id="cd-timeline" class="cd-container">
 		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-picture">
 				<img src="/timeline/cd-icon-picture.svg" alt="Picture">
@@ -197,9 +197,16 @@
 
 <script>
   $('.switcher span').click(function(){
+    var sectionid = $(this).attr('name');
     $("section").each(function() {
 		$(this).hide();
     });
+    $("section").each(function() {
+		if($(this).attr('name') == sectionid){
+        $(this).show();
+        };
+    });
+
     alert($(this).attr('name'));
   });
 
