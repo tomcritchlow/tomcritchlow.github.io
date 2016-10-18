@@ -25,7 +25,7 @@
 		<h1>Financial Decisions Suck Here's Our Guide</h1>
 
         <div class="switcher">
-            <span>Early 20s</span>
+            <span name="20s">Early 20s</span>
             <span>Late 20s</span>
             <span>30s</span>
             <span>40s</span>
@@ -194,6 +194,15 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="/timeline/main.js"></script> <!-- Resource jQuery -->
+
+<script>
+  $('.switcher span').click(function(){
+    alert($(this).attr('name'));
+  });
+
+
+
+    </script>
 
 </body>
 </html>
