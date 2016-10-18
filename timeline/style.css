@@ -16,6 +16,7 @@ Tom's style
 
 .switcher span{
   padding:20px;
+  cursor: pointer;
 }
 
 .switcher span:first-child{
