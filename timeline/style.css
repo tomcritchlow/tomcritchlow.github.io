@@ -18,7 +18,7 @@ Tom's style
   padding:20px;
 }
 
-.switcher span::first-child{
+.switcher span:first-child{
   font-weight:bold;
 }
 
