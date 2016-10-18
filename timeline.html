@@ -197,6 +197,9 @@
 
 <script>
   $('.switcher span').click(function(){
+    $("section").each(function() {
+		$(this).hide();
+    });
     alert($(this).attr('name'));
   });
 
