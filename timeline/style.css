@@ -6,11 +6,15 @@ Tom's style
 
 .switcher{
   position:absolute;
-  top:100px;
+  top:75px;
   width:100%;
   text-align:center;
   font-family:"open sans";
   font-size:24px;
+}
+
+.switcher span{
+  padding:20px;
 }
 
 
