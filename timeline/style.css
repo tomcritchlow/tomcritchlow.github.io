@@ -350,7 +350,7 @@ header {
   height: 200px;
   line-height: 200px;
   text-align: center;
-  background: #303e49;
+  background: #22446a;
 }
 header h1 {
   color: white;
@@ -363,7 +363,7 @@ header h1 {
     line-height: 300px;
   }
   header h1 {
-    font-size: 24px;
+    font-size: 35px;
     font-size: 1.5rem;
   }
 }
