@@ -12,11 +12,14 @@ Tom's style
   font-family:"open sans";
   font-size:24px;
   color:white;
-  font-weight:bold;
 }
 
 .switcher span{
   padding:20px;
+}
+
+.switcher span::first-of-type{
+  font-weight:bold;
 }
 
 
