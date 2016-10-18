@@ -284,9 +284,17 @@
 <script>
   $('.switcher span').click(function(){
     var sectionid = $(this).attr('name');
+    
+    $(".switcher span").each(function(){
+        $(this).css("font-weight","normal");
+    });
+
+    $(this).css("font-weight","bold");
+    
     $("section").each(function() {
 		$(this).hide();
     });
+    
     $("section").each(function() {
 		if($(this).attr('name') == sectionid){
         $(this).show();
