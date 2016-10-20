@@ -113,3 +113,5 @@ Update: @vgr posted a tweetstorm in response. [Start here](https://twitter.com/v
 Update 2: @willcritchlow posted a tweetstorm. [Start here](https://twitter.com/willcritchlow/status/789207443163217921).
 
 Update 3: What if Bezos stepped in to build something here? His deep technical talents coupled with his ruthless focus on the user could make this a success I think - and it would be an ideal complement to his acquisition of the Washington Post. Hmm. More to think about here.
+
+Update 4: Of course I'm not the first or only one to think about Bezos & Twitter. See [Mark Suster's tweet convo here](https://twitter.com/msuster/status/787370397083635712).
