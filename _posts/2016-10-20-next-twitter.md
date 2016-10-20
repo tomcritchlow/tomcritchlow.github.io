@@ -111,3 +111,5 @@ What's your thoughts?
 Update: @vgr posted a tweetstorm in response. [Start here](https://twitter.com/vgr/status/789196082479673344).
 
 Update 2: @willcritchlow posted a tweetstorm. [Start here](https://twitter.com/willcritchlow/status/789207443163217921).
+
+Update 3: What if Bezos stepped in to build something here? His deep technical talents coupled with his ruthless focus on the user could make this a success I think - and it would be an ideal complement to his acquisition of the Washington Post. Hmm. More to think about here.
