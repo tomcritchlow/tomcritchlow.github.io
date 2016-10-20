@@ -107,3 +107,7 @@ So what will the next Twitter look like? Will it be more closed? More open? Will
 However it shakes out, we live in interesting times.
 
 What's your thoughts?
+
+Update: @vgr posted a tweetstorm in response. [Start here](https://twitter.com/vgr/status/789196082479673344).
+
+Update 2: @willcritchlow posted a tweetstorm. [Start here](https://twitter.com/willcritchlow/status/789207443163217921).
