@@ -32,7 +32,7 @@ I'm personally invested in Twitter - I've been a user for almost 10 years and it
 
 > 24/ Twitter and Craigslist have taught us some huge new things about how hundreds of millions of networked people behave
 
-The whole stream is worth reading.
+[The whole stream is worth reading](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=d6081dc3f9&e=1ef561aa73).
 
 Fred Wilson, who is heavily invested in Twitter sums up from [a more emotional perspective](https://avc.com/2015/10/twitters-moment/):
 
