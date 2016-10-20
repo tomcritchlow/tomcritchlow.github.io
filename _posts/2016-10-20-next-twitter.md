@@ -64,7 +64,7 @@ First there was app.net - an ambitious project that tried to tackle the problem 
 
 Unfortunately the app.net experiment was *too* developer-centric and never really gained the adoption necessary.
 
-Then there's alternatives that are coming at the whole Twitter space from a micropublishing perspective, for example [1999.io](http://1999.io) from Dave Weiner. Some core [principles behind the project from Dave](http://scripting.com/liveblog/users/davewiner/2015/11/23/0410.html):
+Then there's alternatives that are coming at the whole Twitter space from a micropublishing perspective, for example [1999.io](http://1999.io) from Dave Winer. Some core [principles behind the project from Dave](http://scripting.com/liveblog/users/davewiner/2015/11/23/0410.html):
 
 > A home page from which everything radiates. 
 
