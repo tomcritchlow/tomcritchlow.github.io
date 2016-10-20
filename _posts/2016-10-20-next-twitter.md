@@ -76,7 +76,7 @@ Then there's alternatives that are coming at the whole Twitter space from a micr
 
 > I think of this as the first post-Twitter post-Facebook blogging system.
 
-While 1999 is still very new (despite the name) and stil has plenty of time and room to grow I think the focus might be that it's too strongly holding on to what blogging was (on purpose!) and as he says, intentionally focusing on "a home page from which everything radiates".
+While 1999 is still very new (despite the name) and still has plenty of time and room to grow I think the focus might be that it's too strongly holding on to what blogging was (on purpose!) and as he says, intentionally focusing on "a home page from which everything radiates".
 
 The problem is that while the publishing piece is fluid, fast and frictionless - the reading and distribution still has a lot of friction in it - as evidenced by having to navigate to *homepages*.
 
@@ -100,7 +100,9 @@ And last, but not least - what about Facebook? I was struck by the deep insights
 
 So each of these networks might somehow gain prominence or maybe Twitter will just expire and we'll move on with a gap in our digital lives. But I do believe there's something new waiting to be adopted - and the troubles with Twitter the company (cash, management) and Twitter the platform (abuse, spam, focus) make *right now* the perfect time for something to emerge.
 
-So what will the next Twitter look like? Will it be more closed? More open? Will it look more like micropublishing or more like a central social platform? Will a software company like Google build the platform where media is distributed? Or will a media company build the software that distributes content?
+Crucially - while some aspects of Twitter might get carved up and taken more private within messaging apps and closed communities I think there's a role for open media conversation and distribution that would be a big vacuum left if Twitter disappeared. Certainly Facebook has avoided involvement in media distribution - disseminating false, fake, clickbait viral news faster and wider than ever and removing humans from the process to claim no responsibility. While I find this approach dishonest and irresponsible it seems likely that they will just ignore this problem for the foreseeable future. 
+
+So what will the next Twitter look like? Will it be more closed? More open? Will a messaging app pivot into something more open/closed? Will it look more like micropublishing or more like a central social platform? Will a software company like Google build the platform where media is distributed? Or will a media company build the software that distributes content?
 
 However it shakes out, we live in interesting times.
 
