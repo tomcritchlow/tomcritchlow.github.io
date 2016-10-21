@@ -34,8 +34,8 @@ Yes, you'll own a fraction of the audience. A fraction of the eyeballs. But you'
 
 So, here's something of a little manifesto or rallying cry:
 
-- If you only spend your time on Facebook/Twitter/Medium then stream in, stream out - you're going to get what you ask for. A fleeting set of stories loosly bound.
-- So, spend time in the corners of the web. Subscribe to some newsletters. Bookmark some forums and blogs in your browser and show up regularly. It's hard, there's no stream. But you'll start to find the mom&pop internet not the shopping mall internet.
+- If you only spend your time on Facebook/Twitter/Medium then stream in, stream out - you're going to get what you ask for. A fleeting set of stories loosely bound.
+- So, spend time in the corners of the web. Subscribe to some newsletters. Bookmark some forums and blogs in your browser and show up regularly. It's hard, there's no stream. But you'll start to find the mom & pop internet not the shopping mall internet.
 - Dabble with your own space. Dabble with your own voice. Own your own platform.
 - But don't stop there - own your own distribution too! Build a newsletter. Build a messenger bot to alert people to new posts. Build your own stream. Create a shared delusion of showing up regularly.
 
