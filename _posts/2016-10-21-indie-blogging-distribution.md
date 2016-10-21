@@ -30,6 +30,8 @@ The big platforms have certainly dominated that "shared agreement to keep showin
 
 And it struck me... You can't divorce content creation from content distribution. We can't rely on Twitter, Facebook or Medium to distribute our content - much as we need to own our platforms we need to also own our own distribution.
 
+Yes, you'll own a fraction of the audience. A fraction of the eyeballs. But you'll have a relationship with them much deeper and much stronger than anything built in someone else's stream.
+
 So, here's something of a little manifesto or rallying cry:
 
 - If you only spend your time on Facebook/Twitter/Medium then stream in, stream out - you're going to get what you ask for. A fleeting set of stories loosly bound.
