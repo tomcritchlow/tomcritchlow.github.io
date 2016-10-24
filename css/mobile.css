@@ -104,22 +104,11 @@ iframe{
 }
 
 .tinyletterinput{
-  border:none;
-  border-bottom:4px solid #00ff00;
+
   width:60%;
-  padding:4px;
-  padding-left:0px;
-  font-size:26px;
+
   
 }
 
-.tinyletterbutton{
-  border:none;
-  font-size:14px;
-  line-height:38px;
-  background-color:#f3f3f3;
-  color:grey;
-  margin-left:4px;
-}
 
 }
