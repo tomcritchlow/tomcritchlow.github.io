@@ -342,17 +342,21 @@ font-weight:300;
 }
 
 .tinyletterinput{
+  border:none;
   border-bottom:4px solid #00ff00;
   float:left;
-  width:250px;
+  width:400px;
+  padding:4px;
+  font-size:26px;
+  
 }
 
 .tinyletterbutton{
   border:none;
   font-size:14px;
-  line-height:20px;
+  line-height:32px;
   background-color:#f3f3f3;
   color:grey;
   float:left;
-
+  margin-left:4px;
 }
