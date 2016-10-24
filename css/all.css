@@ -366,7 +366,3 @@ padding-bottom:20px;
 .tinyletterinput:focus {
   outline:none;
 }
-.tinyletterinput:focus ~ input {
-  outline:visible;
-  
-}
