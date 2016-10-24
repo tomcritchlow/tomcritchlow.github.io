@@ -362,3 +362,12 @@ padding-bottom:20px;
   color:grey;
   margin-left:4px;
 }
+
+.tinyletterinput:focus {
+  outline:none;
+}
+.tinyletterinput:focus ~ input {
+  border:2px solid #00ff00;
+  line-height:34px;
+  color:white;
+}
