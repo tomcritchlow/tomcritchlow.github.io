@@ -334,6 +334,8 @@ blockquote{
 .tinyletterheader{
   font-size:20px;
 font-weight:300;
+text-align:center;
+padding:10px;
 }
 
 .tinyletter{
