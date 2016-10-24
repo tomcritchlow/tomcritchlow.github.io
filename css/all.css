@@ -339,14 +339,15 @@ font-weight:300;
 .tinyletter{
   font-size:20px;
   height:30px;
+  text-align:center;
 }
 
 .tinyletterinput{
   border:none;
   border-bottom:4px solid #00ff00;
-  float:left;
   width:400px;
   padding:4px;
+  padding-left:0px;
   font-size:26px;
   
 }
@@ -354,9 +355,8 @@ font-weight:300;
 .tinyletterbutton{
   border:none;
   font-size:14px;
-  line-height:34px;
+  line-height:38px;
   background-color:#f3f3f3;
   color:grey;
-  float:left;
   margin-left:4px;
 }
