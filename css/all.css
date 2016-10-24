@@ -337,6 +337,22 @@ font-weight:300;
 }
 
 .tinyletter{
-  border: 1px solid #00ff00;
+  font-size:20px;
+  height:30px;
+}
+
+.tinyletterinput{
+  border-bottom:4px solid #00ff00;
+  float:left;
+  width:250px;
+}
+
+.tinyletterbutton{
+  border:none;
+  font-size:14px;
+  line-height:20px;
+  background-color:#f3f3f3;
+  color:grey;
+  float:left;
 
 }
