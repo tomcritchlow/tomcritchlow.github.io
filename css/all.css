@@ -365,10 +365,4 @@ padding-bottom:20px;
 
 .tinyletterinput:focus {
   outline:none;
-  border:4px solid #00ff00;
-}
-.tinyletterinput:focus ~ input {
-  border:2px solid #00ff00;
-  line-height:34px;
-  background-color:white;
 }
