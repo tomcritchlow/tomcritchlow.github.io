@@ -43,7 +43,7 @@ Long live the indie web.
 
 --
 
-Update - Dave Winer just put [bloggers.scripting.com](http://bloggers.scripting.com/) which is a feed of a a bunch of "bloggers" (doesn't that term feel like they're a rare beast?). Perfect illustration of how you can't divorce content and distribution.
+Update - Dave Winer just put up [bloggers.scripting.com](http://bloggers.scripting.com/) which is a feed of a a bunch of "bloggers" (doesn't that term feel like they're a rare beast?). Perfect illustration of how you can't divorce content and distribution.
 
  
 
