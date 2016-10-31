@@ -9,3 +9,10 @@ For the content explorers and the media curious. Come sit down with us every wee
 
 Next breakfast:
 
+
+This breakfast group might be good for you if:
+- Content in new ways excites you
+- You're considering AMP of FB instant
+- You think SEO is dead
+- You think SEO is fresh
+- You have opinions around CMSs
