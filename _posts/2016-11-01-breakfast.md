@@ -14,3 +14,4 @@ It's nice and informal. Though I do have a logo:
 
 If you wanna hear about future breakfast events [sign up here](https://goo.gl/forms/8AxK2bhHeCG08a3p1). 
 
+(Note, it won't always be in Brooklyn. If you have suggestions for somewhere in Manhattan to get together please let me know!)
