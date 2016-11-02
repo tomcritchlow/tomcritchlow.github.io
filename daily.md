@@ -8,3 +8,6 @@ daringfireball
 daywreckers
 http://pressthink.org/board/
 http://bloggers.scripting.com/
+http://blog.brianfeeney.us/
+kottke
+waxy
