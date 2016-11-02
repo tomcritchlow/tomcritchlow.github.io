@@ -19,7 +19,7 @@ title: Latest Writing
 
 {% endif %}
 
-<span class="date">Posted on {{ post.date | date_to_string }} | &#128490; <span class="disqus-comment-count" data-disqus-url="{{post.url}}">Comments</span> </span>
+<span class="date">Posted on {{ post.date | date_to_string }} | &#128497; <span class="disqus-comment-count" data-disqus-url="{{post.url}}">Comments</span> </span>
 
 
 {{post.excerpt}}
