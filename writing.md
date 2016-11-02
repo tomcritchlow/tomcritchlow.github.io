@@ -19,12 +19,12 @@ title: Latest Writing
 
 {% endif %}
 
-<span class="date">{{ post.date | date_to_string }}</span>
+<span class="date">Posted on {{ post.date | date_to_string }}</span>
 
 
 {{post.excerpt}}
 
-
+[Read more &#10239;]({{post.url}})
 
 {% endif %}
 {% endfor %}
