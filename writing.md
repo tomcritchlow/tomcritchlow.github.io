@@ -11,7 +11,7 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
-## [ {{ post.title }} ]({{ post.url }})
+# [ {{ post.title }} ]({{ post.url }})
 
 {% if post.subtitle %}
 
