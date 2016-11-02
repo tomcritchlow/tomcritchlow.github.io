@@ -19,12 +19,16 @@ title: Latest Writing
 
 {% endif %}
 
-<span class="date">Posted on {{ post.date | date_to_string }} | &#128172; 4 comments </span>
+<span class="date">Posted on {{ post.date | date_to_string }} | &#128490; <span class="disqus-comment-count" data-disqus-url="{{post.url}}">Comments</span> </span>
 
 
 {{post.excerpt}}
 
 [Read more &#10239;]({{post.url}})
 
+<hr>
+
 {% endif %}
 {% endfor %}
+
+<script id="dsq-count-scr" src="//tomcritchlow.disqus.com/count.js" async></script>
