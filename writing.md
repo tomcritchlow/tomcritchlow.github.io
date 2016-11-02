@@ -19,7 +19,7 @@ title: Latest Writing
 
 {% endif %}
 
-<span class="date">Posted on {{ post.date | date_to_string }}</span>
+<span class="date">Posted on {{ post.date | date_to_string }} | &#128172; 4 comments </span>
 
 
 {{post.excerpt}}
