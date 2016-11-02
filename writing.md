@@ -13,11 +13,16 @@ title: Latest Writing
 
 ## [ {{ post.title }} ]({{ post.url }})
 
-{{ post.date | date_to_string }}
+{% if post.subtitle %}
 
-{{ post.content | strip_html | truncatewords:75}}
+### {{post.subtitle}}
 
-{{post.exerpt}}
+{% endif %}
+
+<span class="date">{{ post.date | date_to_string }}</span>
+
+
+{{post.excerpt}}
 
 
 
