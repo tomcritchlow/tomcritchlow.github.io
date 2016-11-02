@@ -34,6 +34,10 @@ ul, li, p{
   line-height:35px;
   }
 
+h1 a{
+  text-decoration: :none;
+  color:#212121;
+}
 
 ul a, ol a, p a, .tinyletterheader a{
   text-decoration: none;
