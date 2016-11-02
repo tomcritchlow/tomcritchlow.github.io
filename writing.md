@@ -19,7 +19,7 @@ title: Latest Writing
 
 {% endif %}
 
-<span class="date">Posted on {{ post.date | date_to_string }} | &#128497; <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> </span>
+<span class="date">Posted on {{ post.date | date_to_string }} | U+26A1 <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> </span>
 
 
 {{post.excerpt}}
