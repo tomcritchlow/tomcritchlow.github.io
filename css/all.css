@@ -362,7 +362,8 @@ padding-bottom:20px;
   width:400px;
   padding:4px;
   padding-left:0px;
-  font-size:26px;
+  font-size:20px;
+  padding:7px;
   
 }
 
@@ -372,6 +373,9 @@ padding-bottom:20px;
   line-height:50px;
   background-color:white;
   margin-left:-15px;
+  padding-top:7px;
+  box-shadow: grey 2px 2px 16px;
+  cursor: pointer;
 }
 
 .tinyletterinput:focus {
