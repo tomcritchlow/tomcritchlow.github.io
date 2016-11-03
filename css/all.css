@@ -359,7 +359,7 @@ padding-bottom:20px;
 .tinyletterinput{
   border:none;
   border-bottom:4px solid #00ff00;
-  width:400px;
+  width:300px;
   padding:4px;
   padding-left:0px;
   font-size:20px;
@@ -373,7 +373,7 @@ padding-bottom:20px;
   line-height:50px;
   background-color:white;
   margin-left:-15px;
-  padding-top:7px;
+  padding:5px;
   box-shadow: grey 2px 2px 16px;
   cursor: pointer;
 }
