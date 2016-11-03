@@ -339,6 +339,11 @@ blockquote{
     margin-left: 10px;
 }
 
+.tinyletterdiv{
+  background-color:#f3f3f3;
+  padding:35px;
+}
+
 .tinyletterheader{
   font-size:26px;
 font-weight:bold;
@@ -348,7 +353,6 @@ padding-bottom:20px;
 
 .tinyletter{
   font-size:20px;
-  height:30px;
   text-align:center;
 }
 
@@ -364,11 +368,10 @@ padding-bottom:20px;
 
 .tinyletterbutton{
   border:none;
-  font-size:14px;
-  line-height:38px;
-  background-color:#f3f3f3;
-  color:grey;
-  margin-left:4px;
+  font-size:20px;
+  line-height:50px;
+  background-color:white;
+  margin-left:-15px;
 }
 
 .tinyletterinput:focus {
