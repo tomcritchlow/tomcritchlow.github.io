@@ -4,7 +4,7 @@ title: On Conferences
 subtitle: Networked talking. Like blogging IRL.
 ---
 
-I recently started working with a new client, though we've known each other for a while. In fact - we me at a conference in 2011!
+I recently started working with a new client, though we've known each other for a while. In fact - we met at a conference in 2011!
 
 That's 5 years from meeting to doing business together - an incredible reminder that business is generated from personal relationships and that there is value in exposing your thinking.
 
@@ -18,7 +18,7 @@ But this is a good signal that the brand I'm building as an independent is, fran
 
 ## Speaking at SearchLove San Diego in Feb 2017
 
-So, I'm really excited to be one of the speakers at Distilled's SearchLove conferene in San Diego in Feb 2017.
+So, I'm really excited to be one of the speakers at Distilled's SearchLove conference in San Diego in Feb 2017.
 
 [![](/images/searchlove.png)](https://www.distilled.net/events/searchlove-sandiego/)
 
@@ -36,5 +36,5 @@ It's much the same as writing here - it's not about an audience that just reads 
 
 ## What should I talk on?
 
-I've got a little time before February. What should my talk be on? What would you be excited to hear me talk about? Throw me suggestions in the comments, on twitter or email. I'm all ears.
+I've got a little time before February and I haven't settled on a topic yet. What should my talk be on? What would you be excited to hear me talk about? Throw me suggestions in the comments, on twitter or email. I'm all ears.
 
