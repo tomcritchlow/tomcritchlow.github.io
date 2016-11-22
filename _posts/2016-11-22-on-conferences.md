@@ -24,9 +24,17 @@ So, I'm really excited to be one of the speakers at Distilled's SearchLove confe
 
 Whether you're on the east coast or the west coast you should really come along. It's going to be a fun event packed full of quality speakers (and me!).
 
+[Tickets are on sale now](https://www.distilled.net/events/searchlove-sandiego/).
+
 ## Networked talking. Like blogging IRL.
 
-What is the value of speaking at a conference?
+What is the value of speaking at a conference? Much like blogging has value in **networked writing** - there's value in **networked talking**. What do I mean by that?
+
+Looking back at the talks I've done that I am most proud of - it's not the size of the audience it's the number of conversations generated from the talk. I get a kick out of exploring ideas **with** the audience. Provoking a change in mindset, provoking a new approach.
+
+It's much the same as writing here - it's not about an audience that just reads what I have to say. It's about an audience that is moved by the ideas. Moved to engage. To email me. Or to comment. Networked writing. Networked talking.
 
 ## What should I talk on?
+
+I've got a little time before February. What should my talk be on? What would you be excited to hear me talk about? Throw me suggestions in the comments, on twitter or email. I'm all ears.
 
