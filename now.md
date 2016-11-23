@@ -9,11 +9,11 @@ Hi there. I'm living in Brooklyn, NY and in summertime I bike all over the place
 Here's what I'm up to right now:
 
  - Building an independent consulting practice ([I just passed two years at this](http://tomcritchlow.com/2016/10/24/2-years/))
- - Figuring out what it means to be a dad to my 7-month old daughter.
- - Sketching out what a platform for NYC marketing startup recruiting would look like.
+ - Figuring out what it means to be a dad to my 7-month old daughter
+ - Sketching out what a platform for NYC marketing startup recruiting would look like
  - Running an informal [breakfast meetup](http://tomcritchlow.com/breakfast/) for the content curious  
- - Running an <a href="http://www.fiercelycurious.com">art business</a>.
- - One day, maybe, launching a science fiction publishing company. Codename <a href="http://www.sentientscifi.com">Sentient</a>.
+ - Running an <a href="http://www.fiercelycurious.com">art business</a>
+ - One day, maybe, launching a science fiction publishing company
  
 In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
 
