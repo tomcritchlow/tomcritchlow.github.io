@@ -376,6 +376,8 @@ padding-bottom:20px;
   padding:5px;
   box-shadow: grey 2px 2px 16px;
   cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }
 
 .tinyletterinput:focus {
