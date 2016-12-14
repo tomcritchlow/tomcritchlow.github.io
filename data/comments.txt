@@ -1,1 +1,0 @@
-This data is not indexable (assuming the JS file is blocked by robots.txt)

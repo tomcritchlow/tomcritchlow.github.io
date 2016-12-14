@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Predicting A Global Economic Crash in 2020
+title: Predicting A Global Economic Crash in 2025
 ---
 
 Before we dive into my theory of a world wide global economic crash in 2025 let’s first do a little background and prep work.
