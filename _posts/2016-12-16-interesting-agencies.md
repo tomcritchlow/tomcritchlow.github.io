@@ -26,7 +26,7 @@ I love this quarterly focus and what's truly surprising for a tech-heavy startup
 
 ## Glenn Allsop's Portfolio of Agencies
 
-Glenn Allsop is a fascinating individual with an incredible track record of putting things on the internet in all kinds of shapes and sizes. His latest venture [gaps.com](gaps.com) outlines [his story](https://gaps.com/story/) where I got this quote from:
+Glenn Allsop is a fascinating individual with an incredible track record of putting things on the internet in all kinds of shapes and sizes. His latest venture [gaps.com](http://gaps.com) outlines [his story](https://gaps.com/story/) where I got this quote from:
 
 >Along with my business partner Diggy, we realised that creating SEO companies for specific regions (like Singapore) and industries (like Automotive) made the challenge of closing clients 100x easier.
 
