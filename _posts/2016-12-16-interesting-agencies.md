@@ -38,7 +38,7 @@ Isn't the idea of vertical agencies (with, I imagine, a robust and scaleable out
 
 ## August - Absolute Transparency
 
-![](/images/august)
+![](/images/august.png)
 
 Many organizations have pushed the envelope on "radical transparency" but none have gone as far as August that I'm aware of. Their maintain [public.aug.co](http://public.aug.co/) which feels like the real working Google Drive for the business (minus client work, for now). Poking around you can see legal contracts, proposals, presentations, discussions and documents being edited and created in real time. They even have a [weekly finance spreadsheet](https://docs.google.com/spreadsheets/d/1CLBytPFYAJwpSiugcuEETnr-He13nQE_Ou4meSPYXak/edit#gid=0) that anyone can look at.
 
