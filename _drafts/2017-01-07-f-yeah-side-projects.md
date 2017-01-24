@@ -4,13 +4,28 @@ title: The Importance of Launching
 subtitle: Fuck yeah side projects!
 ---
 
-This is the story of how a weekend project and 276 lines of Python got me a job at Google. But it's also a lesson I often tell - that side projects should be art, they should be interesting, don't obsess over business or growth - obsess over interesting, obsess over launched!
+This is the story of how a weekend project and 276 lines of Python got me a job at Google. But it's also a lesson I often tell - that side projects should be art, they should be interesting and to be useful for your life they don't need to be businesses.
 
 Let me tell you a story first.
 
 ## Act 1: Fuck Yeah Spotify
 
+One rainy day in Seattle in 2011 I was looking out the window at the grey rian and searching for interestingness. Spotify hadn't yet launched in the US but it was looking increasingly likely that it would launch any day.
 
+Having recently taught myself Python to build a books website, stitching APIs together was top of mind and I came up with the simple idea of aggregating the top tweeted Spotify albums every day.
+
+The premise was pretty simple: use the topsy api to find the top spotify album URLs for the last 24 hours, run each of those through the Spotify API to get artist name and album title. Then run those through the Last.fm API to get album art.
+
+It looked a little something like this:
+
+![Screenshot of Fuck Yeah Spotify according to wayback machine on July 7th 2012](/images/fyspotify.png)
+
+And I launched it like this:
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Boom! New coding project is now live: http://fyspotify.appspot.com showing the top tweeted spotify album from the last 24hrs. Auto-updating.</p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/50140995504971776">March 22, 2011</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I didn't then, and I don't now, know how to code Python very well and perhaps because of that, or because of the glitches in the topsy data it never actually returned the top tweeted albums. Instead it just collected some albums people had been tweeting about that day. Because of it's broken-ness I actually came to love it more. (I wrote about this a little in [random acts of algorithms](http://tomcritchlow.com/2014/12/03/random-acts-of-algorithms/))
 
 ## Act 2: The Music Entrepreneur Applies for a Job at Google
 
@@ -38,7 +53,6 @@ I'll say it again - a shockingly small number of people have built their own thi
 
 ## The Side Project Stress
 
-## Objects not Projects
 
 
 
@@ -49,9 +63,7 @@ I'll say it again - a shockingly small number of people have built their own thi
 
 It should be a thing, it needs no momentum.
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Boom! New coding project is now live: http://fyspotify.appspot.com showing the top tweeted spotify album from the last 24hrs. Auto-updating.</p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/50140995504971776">March 22, 2011</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
-![Screenshot of Fuck Yeah Spotify according to wayback machine on July 7th 2012](/images/fyspotify.png)
+
