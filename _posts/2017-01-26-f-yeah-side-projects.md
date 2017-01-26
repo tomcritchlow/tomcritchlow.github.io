@@ -47,7 +47,7 @@ I got the job, abandoned the site and let it fall into disrepair. End of story..
 
 ## The Thing Is, Even at Google, Most People Haven't Launched Something on the Web
 
-Over the years I've thought about this encounter a lot. Probably too much. Would I have gotten the job at Google without it? Maybe. We'll never know.
+Over the years I've thought about this encounter a lot. Probably too much. Would I have gotten the job at Google without it? Probably.
 
 But one thing I do know - from experience both inside Google and from running a consulting practice where I have been involved in interviewing and hiring a wide range of people. The thing I know is this:
 
