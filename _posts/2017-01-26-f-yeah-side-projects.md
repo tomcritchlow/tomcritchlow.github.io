@@ -12,7 +12,7 @@ Let me tell you a story first.
 
 ## Act 1: Fuck Yeah Spotify
 
-One rainy day in Seattle in 2011 I was looking out the window at the grey rian and searching for interestingness. Spotify hadn't yet launched in the US but it was looking increasingly likely that it would launch any day.
+One rainy day in Seattle in 2011 I was looking out the window at the grey rain and searching for interestingness. Spotify hadn't yet launched in the US but it was looking increasingly likely that it would launch any day.
 
 Having recently taught myself Python to build a books website, stitching APIs together was top of mind and I came up with the simple idea of aggregating the top tweeted Spotify albums every day.
 
@@ -73,9 +73,9 @@ Put something out into the world that is yours. That allows you to demonstrate w
 
 And if you don't, someone else will.
 
-## A Note on The Privelege of Side Projects
+## A Note on The Privilege of Side Projects
 
-I think it's worth noting that there's a certain luxury of time that affords side projects that comes wrapped up with privelege. Oh, sure, just take some weekends and learn Python and build something. Some people use their weekends to work second jobs not launch side projects.
+I think it's worth noting that there's a certain luxury of time that affords side projects that comes wrapped up with privilege. Oh, sure, just take some weekends and learn Python and build something. Some people use their weekends to work second jobs not launch side projects.
 
 That's why I'm always keen to stress how small these ideas can be. A tinyletter newsletter is enough! You don't need to be technical or devote a ton of time to it. Just find something you're interested in and carve out a simple, tiny flag on a little patch of sand that says "I made that".
 
