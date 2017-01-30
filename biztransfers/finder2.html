@@ -6,6 +6,24 @@
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+
+<script>
+$(function(){
+        // Check the initial Poistion of the Sticky Header
+        var stickyHeaderTop = $('#stickyheader').offset().top;
+
+        $(window).scroll(function(){
+                if( $(window).scrollTop() > stickyHeaderTop ) {
+                        $('#stickyheader').css({position: 'fixed', top: '0px'});
+                        $('#stickyalias').css('display', 'block');
+                } else {
+                        $('#stickyheader').css({position: 'static', top: '0px'});
+                        $('#stickyalias').css('display', 'none');
+                }
+        });
+  });
+  </script>
 
 <style>
 
@@ -111,7 +129,7 @@ article{
   display:block;
   width:960px;
   margin:auto;
-  margin-top:50px;
+  margin-top:100px;
   font-size:16px;
   line-height:17px;
   position:relative;
@@ -260,7 +278,7 @@ article{
 <p>An international money transfer allows you to send money to a recipient overseas. Generally, a transfer involves you providing funds to a bank or an independent transfer provider, which then sends the money to your recipient in another country — in this case, China. This can be done in person or oftentimes online. You can use cash or transfer funds from your bank account, which will then either be deposited into your recipient’s bank account are made available as cash for them to pick up at a location in their country.</p>
 
 <h3>Banks versus money transfer companies</h3>
-<p.As China’s economy has experienced a boom in recent decades, the Chinese yuan has become increasingly popular among traders on the global currency market. Many major American banks offer the option of sending funds to China, but banks typically charge high transfer fees and offer exchange rates that are significantly lower than the mid-market rate.</p>
+<p>As China’s economy has experienced a boom in recent decades, the Chinese yuan has become increasingly popular among traders on the global currency market. Many major American banks offer the option of sending funds to China, but banks typically charge high transfer fees and offer exchange rates that are significantly lower than the mid-market rate.</p>
 
 <p>Money transfer providers offer better exchange rates than many banks and also charge lower fees, leading to more affordable transactions. This means that you save money, and your recipient ends up with more Chinese yuans in their pocket.</p>
 
