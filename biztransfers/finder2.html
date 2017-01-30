@@ -89,8 +89,18 @@ color:#2c2c2c;
   z-index:2;
 }
 
+.submenulist li:first-of-type{
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+.submenulist li{
+  font-size:12px;
+}
+
+
 h1{font-weight:700;
-font-size:20px;}
+font-size:40px;}
 
 article{
   display:block;
@@ -115,7 +125,17 @@ article{
 <ul>
   <li class="topnav selected"><a href="#">Money</a>
     <ul class="sub-menu">
-      <li><h2>Credit Cards</h2></li>
+      <li>
+        <ul class="submenulist">
+          <li>Credit Cards</li>
+          <li>Best cards of 2017</li>
+          <li>Balance transfer credit cards</li>
+          <li>Rewards cards</li>
+          <li>0% Purchase</li>
+          <li>Low Rate</li>
+          <li>Prepaid cards</li>
+            </ul>
+          </li>
       <li>Personal Loans</li>
       <li>Mortgages</li>
       <li>Money Transfers</li>
