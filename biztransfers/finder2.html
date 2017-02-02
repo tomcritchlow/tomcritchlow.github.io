@@ -440,10 +440,11 @@ article{
 </body>
 
 <script>
- $('.topnav').hover(function(){
-    $(this).addClass("finderblue");       
-    
-  });
+
+$('.topnav').hover(
+       function(){ $(this).addClass('finderblue') },
+       function(){ $(this).removeClass('finderblue') }
+)  
 </script>
 
 
