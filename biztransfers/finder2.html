@@ -457,7 +457,13 @@ article{
 <script>
 
 $('.topnav').hover(
-       function(){ $(this).addClass('selected') },
+       function(){ 
+        $(".topnav").each(function() {
+            $(this).removeClass("selected");
+        });
+         $(this).addClass('selected');
+
+         },
        function(){ $(this).removeClass('selected') }
 )  
 </script>
