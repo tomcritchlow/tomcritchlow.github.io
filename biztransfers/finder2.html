@@ -472,7 +472,10 @@ $('.topnav').hover(
          $(this).addClass('selected');
 
          },
-       function(){ $(this).removeClass('selectedwhite') }
+       function(){
+         $(this).removeClass('selectedwhite');
+         $(this).removeClass('selected');
+         }
 )  
 </script>
 
