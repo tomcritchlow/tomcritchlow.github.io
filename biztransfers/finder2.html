@@ -75,8 +75,16 @@ text-decoration:none;
 color:#2c2c2c;
 }
 
-.selected{
+.defaultselected{
   border-bottom:2px solid #1591fe;
+}
+
+.selectedwhite{
+ border-bottom:2px solid white !important; 
+}
+
+.selected{
+  border-bottom:2px solid #1591fe !important;
 }
 
 .sub-menu{
@@ -231,7 +239,7 @@ article{
 
 <div class="navlinks">
 <ul>
-  <li class="topnav selected"><a href="#">Money</a>
+  <li class="topnav defaultselected"><a href="#">Money</a>
     <ul class="sub-menu">
       <li>
         <ul class="submenulist">
@@ -459,12 +467,12 @@ article{
 $('.topnav').hover(
        function(){ 
         $(".topnav").each(function() {
-            $(this).removeClass("selected");
+            $(this).addClass("selectedwhite");
         });
          $(this).addClass('selected');
 
          },
-       function(){ $(this).removeClass('selected') }
+       function(){ $(this).removeClass('selectedwhite') }
 )  
 </script>
 
