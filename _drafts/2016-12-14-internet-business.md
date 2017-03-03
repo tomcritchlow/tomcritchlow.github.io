@@ -12,3 +12,7 @@ Ben Thompson - making $400k / year
 growthlab 
 Gary Chou 1k orbital challenge
 
+Also - how brand plays on the web
+
+E.g. "the points guy" is not a guy. Nor student loan hero.
+
