@@ -16,3 +16,5 @@ Also - how brand plays on the web
 
 E.g. "the points guy" is not a guy. Nor student loan hero.
 
+Pinchofyum being hosting affiliate
+

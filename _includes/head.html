@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{page.title}}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}</title>
+    <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}</title>
     <meta name="description" content="Tom Critchlow. Move. Think. Create.">
 
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800' rel='stylesheet' type='text/css'>
