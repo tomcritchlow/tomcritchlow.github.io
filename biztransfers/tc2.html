@@ -17,6 +17,17 @@ html{
     text-rendering: optimizeLegibility;
 }
 
+brand:after{
+    display: block;
+    content: '';
+    width: 50px;
+    border-bottom: 8px solid #00ff00;
+    position: absolute;
+    left: 3px;
+    top: 22px;
+    z-index: -1;
+}
+
 .navigation a {
     text-decoration: none;
     color: #212121;
@@ -46,7 +57,7 @@ html{
 
 <body class="w-100-l w-90 center">
 
-<header class="pv4 center mw9 pr5-l pl5-l f3 fw8">
+<header class="pv4 center mw9 pr5-l pl5-l f3 fw6">
     <a href="/"><brand>Tom Critchlow</brand></a>
 
     <div class="fr navigation">
