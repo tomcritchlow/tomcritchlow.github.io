@@ -17,6 +17,17 @@ html{
     text-rendering: optimizeLegibility;
 }
 
+.navigation a {
+    text-decoration: none;
+    color: #212121;
+    box-shadow: inset 0 -8px 0 #00ff00;
+    -webkit-transition: padding 100ms;
+    -moz-transition: padding 100ms;
+    -ms-transition: padding 100ms;
+    -o-transition: padding 100ms;
+    transition: padding 100ms;
+}
+
 .posttitle:after {
     content: '';
     width: 50px;
@@ -34,7 +45,7 @@ html{
 <header class="pv4 center mw9 pr5-l pl5-l f3 fw8">
     <a href="/"><brand>Tom Critchlow</brand></a>
 
-    <div class="fr">
+    <div class="fr navigation">
     <a class="pa3" href="/about">about</a>
     <a class="pa3" href="/consulting">consulting</a>
     <a class="pa3" href="/writing">writing</a>
