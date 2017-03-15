@@ -4,22 +4,20 @@
 
 {% include header.html %}
 
+<div class="mw8 center lh-copy f4 postcontainer">
+    <div class="pv4 w-two-thirds-ns">
 
-
-<div class="postcontainer">
-  <div class="posttitle">{{page.title}}</div>
+  <h1 class="f2 f-subheadline-l fw8 lh-solid mv2 posttitle">{{page.title}}</h1>
 
 {% if page.subtitle %}
-<div class='subtitle'>{{page.subtitle}}</div>
+<h2 class="f3 f2-l fw3 lh-solid">{{page.subtitle}}</h2>
   {% endif %}
-
-  <br>
   
   {{content}}
                                     
 
 </div>
-
+</div>
 
 
 {% include footer.html %}
