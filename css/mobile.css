@@ -8,4 +8,10 @@
     display:none;
 }
 
+.postcontainer img{
+    margin-left: 0px;
+    max-width: 100%;
+
+}
+
 }
