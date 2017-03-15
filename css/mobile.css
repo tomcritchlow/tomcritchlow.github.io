@@ -1,5 +1,9 @@
 @media (max-width: 1024px) {
 
+.tombox{
+    height:initial;
+}
+
 .tombox img{
     display:none;
 }
