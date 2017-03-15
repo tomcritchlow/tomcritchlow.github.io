@@ -11,7 +11,10 @@
 .postcontainer img{
     margin-left: 0px;
     max-width: 100%;
+}
 
+.postcontainer iframe{
+    max-width:100%;
 }
 
 }
