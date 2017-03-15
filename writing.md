@@ -11,7 +11,7 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
-# [ {{ post.title }} ]({{ post.url }})
+<h1 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h1>
 
 {% if post.subtitle %}
 

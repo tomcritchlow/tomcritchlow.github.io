@@ -7,6 +7,8 @@ html{
     text-rendering: optimizeLegibility;
 }
 
+.tcblack{color: #212121;}
+
 brand{color: #212121;}
 
 brand:after{
