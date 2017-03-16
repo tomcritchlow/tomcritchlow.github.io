@@ -13,11 +13,11 @@ title: Latest Writing
 
 <div class="pv2">
 
-<h2 class="mv0 fw3"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
+<h2 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
 {% if post.subtitle %}
 
-<h3 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
+<h3 class="mv0 fw3"><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
 
 {% endif %}
 
@@ -25,7 +25,7 @@ title: Latest Writing
 
 {{post.excerpt}}
 
-[Read more &#10239;]({{post.url}})
+<a href="{{post.url}}">Read more &#10239;</a>
 
 </div>
 
