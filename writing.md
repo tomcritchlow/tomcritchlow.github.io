@@ -25,7 +25,7 @@ title: Latest Writing
 
 {{post.excerpt}}
 
-<a href="{{post.url}}">Read more &#10239;</a>
+<a class="no-underline tcblack" href="{{post.url}}">Read more &#10239;</a>
 
 </div>
 
