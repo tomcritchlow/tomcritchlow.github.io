@@ -11,11 +11,11 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
-<h1 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h1>
+<h2 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
 {% if post.subtitle %}
 
-### {{post.subtitle}}
+<h3 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h2>
 
 {% endif %}
 
@@ -25,8 +25,6 @@ title: Latest Writing
 {{post.excerpt}}
 
 [Read more &#10239;]({{post.url}})
-
-<hr>
 
 {% endif %}
 {% endfor %}
