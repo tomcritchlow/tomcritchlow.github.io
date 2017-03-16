@@ -13,11 +13,11 @@ title: Latest Writing
 
 <div class="pv2">
 
-<h2 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
+<h2 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
 {% if post.subtitle %}
 
-<h3 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
+<h3 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
 
 {% endif %}
 
