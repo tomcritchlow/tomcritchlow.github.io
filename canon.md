@@ -44,3 +44,32 @@ https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-h
 
 Games?
 The glass bead game
+
+Books:
+Cannery Row
+Victoria
+Iain M Banks
+China Meiville
+Flowers for algernon
+
+Movies:
+Jodbrodskys Dune
+Deep Water
+Man on wire
+Buffalo 66
+2046
+Chungking Express
+The Sation Agent
+The Apartment
+Tears of the black tiger
+
+Music:
+Bonobo
+Nightmares on wax
+Keith Jarrett
+Aaron Goldberg
+Frightened Rabbit
+Susumu Yokota
+Jimmy Luxury
+
+
