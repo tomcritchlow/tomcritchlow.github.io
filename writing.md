@@ -15,7 +15,7 @@ title: Latest Writing
 
 {% if post.subtitle %}
 
-<h3 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h2>
+<h3 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
 
 {% endif %}
 
