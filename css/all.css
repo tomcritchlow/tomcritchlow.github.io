@@ -92,7 +92,7 @@ ul a, ol a, p a, form a {
 }
 
 blockquote {
-    border-left: 4px solid #00ff00;
+    border-left: 2px solid #00ff00;
     padding-left: 10px;
     font-style: italic;
     margin-left: 10px;
