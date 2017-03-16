@@ -52,18 +52,21 @@ brand:after{
 
 .tcsectionheader{
     font-size:40px;
-    line-height:20px;
+    line-height:30px;
     margin:0;
     padding:0;
+    z-index:2;
 }
 
-.tcsectionheader:after{
+.tcsectionheader:before{
         content: '';
     width: 50px;
     display: block;
     border-bottom: 8px solid #00ff00;
-    margin-left: -10px;
-    margin-top: 5px;
+    margin-left: -25px;
+    margin-top: 4px;
+    position:absolute;
+
 }
 
 .contactbox a{
