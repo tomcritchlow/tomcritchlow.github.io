@@ -58,17 +58,6 @@ brand:after{
     z-index:2;
 }
 
-.tcsectionheader:before{
-        content: '';
-    width: 50px;
-    display: block;
-    border-bottom: 8px solid #00ff00;
-    margin-left: -25px;
-    margin-top: 4px;
-    position:absolute;
-
-}
-
 .contactbox a{
 text-decoration: none;
     border: 4px solid #00ff00;
