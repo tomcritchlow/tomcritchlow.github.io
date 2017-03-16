@@ -11,6 +11,8 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
+<div class="pv2">
+
 <h2 class=""><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
 {% if post.subtitle %}
@@ -25,6 +27,8 @@ title: Latest Writing
 {{post.excerpt}}
 
 [Read more &#10239;]({{post.url}})
+
+</div>
 
 {% endif %}
 {% endfor %}
