@@ -11,7 +11,7 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
-<div class="pv2">
+<div class="pv4">
 
 <h2 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
