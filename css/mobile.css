@@ -8,6 +8,9 @@
     display:block;
 }
 
+.uparrow{
+    display:none;
+}
 
 .tombox{
     height:initial;
