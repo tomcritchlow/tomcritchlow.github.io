@@ -1,7 +1,7 @@
 <header class="pv3 pv4-l center mw9 pr6-l pl6-l f3 fw6 ph3 ph0-ns lh-copy">
     <a class="no-underline" href="/"><brand class="relative">Tom Critchlow</brand></a>
 
-    <div class="fr f5 pv2 fw3 mobilemenu">
+    <div class="fr f5 pv2 fw3 mobilemenu" id="mobilemenu">
         <a href="#">menu</a>
     </div>
     <div class="fr-l navigation w-100-s pv4 pt0-l tc">
@@ -12,8 +12,11 @@
 
     </header>
 
-<script>
-$('.mobilemenu').click(function(){
-    $('.navigation').show();
-  });
+
+
+<script type="text/javascript">
+function showStuff(id, text, btn) {
+    document.getElementById("mobilemenu").style.display = 'block';
+    
+}
 </script>
