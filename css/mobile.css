@@ -1,5 +1,14 @@
 @media (max-width: 1024px) {
 
+.navigation{
+    display:none;
+}
+
+.mobilemeny{
+    display:block;
+}
+
+
 .tombox{
     height:initial;
 }
