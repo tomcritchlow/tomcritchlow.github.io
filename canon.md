@@ -36,11 +36,19 @@ https://medium.com/@stefenchow/why-every-father-should-bring-his-toddler-out-for
 http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
 http://nymag.com/thecut/2016/04/portrait-motherhood-creativity-c-v-r.html?mid=fb-share-thecut
 
+The uses of the liberal arts
+http://www.ljhammond.com/essay.htm
+http://harpers.org/archive/1997/09/ii-as-a-weapon-in-the-hands-of-the-restless-poor/
+
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
 
 Near Futures
 https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961#.mpb0xhvt4
+
+Launching work on the internet (postindustrial industry)
+postindustrialdesign.school
+entrpeneurial design syllabus
 
 Games?
 The glass bead game
