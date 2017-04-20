@@ -39,7 +39,7 @@ And modern-day-dead-author Joshua Topolsky agrees:
 
 source: [your media business will not be saved](https://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c)
 
-And the internal stategy group of the New York Times found basically the same thing, that context is the key to success:
+And the internal strategy group of the New York Times found basically the same thing, that context is the key to success:
 
 >Our most successful forays into digital journalism [...] have depended on distinct visions established by their leaders — visions supported and shaped by the masthead, and enthusiastically shared by the members of the department. [...] These departments with clear, widely understood missions remain unusual. Most Times journalists cannot describe the vision or mission of their desks.
 
