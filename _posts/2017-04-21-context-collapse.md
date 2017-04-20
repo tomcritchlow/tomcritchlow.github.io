@@ -39,6 +39,8 @@ And modern-day-dead-author Joshua Topolsky agrees:
 
 source: [your media business will not be saved](https://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c)
 
+And the internal stategy group of the New York Times found basically the same thing, that context is the key to success:
+
 >Our most successful forays into digital journalism [...] have depended on distinct visions established by their leaders — visions supported and shaped by the masthead, and enthusiastically shared by the members of the department. [...] These departments with clear, widely understood missions remain unusual. Most Times journalists cannot describe the vision or mission of their desks.
 
 source: [NYT 2020 report](https://www.nytimes.com/projects/2020-report/)
@@ -51,20 +53,31 @@ Said a different way:
 
 [originally a tweetstorm from Kyle Monson](https://twitter.com/kmonson/status/710129384494071808)
 
+## A concise recipe for success
 
-So, how do you fix context collapse. I take all my new media innovation advice from dead authors so I'm gonna turn to John Steinbeck:
+Boiled down into simple terms my advice for content is this:
 
-
-Joshua Topolsky agrees with me:
-
-
-So here's my concise recipe:
  - Define a community of interest
  - Hire an editor in chief with a background in interestingness, preferably in that audience
  - Create content directly for, and with, them.
  - Ensure your brand and positioning allow those members of that community to know this is for them
 
-I've seen too much content marketing start and end with the medium (let's do video! let's do infographics! let's do interactive!) when the real question is not how many eyeballs see your content but rather how many of those eyeballs shed a tear.
+I've seen too much content marketing start and end with the medium (let's do video! let's do infographics! let's do interactive!). Instead, the only formats you should need is faces & franchises:
+
+>The businesses that stress a storytelling approach that prioritizes delivery through credible, authentic and proximate peer faces vs faceless brands will be more successful. [...]
+>Franchises are reignited over and over again through prequels, sequels and "requels." [...] it seems our attention-starved world favors narrative continuity over clutter.[...] As more businesses begin to invest in creating their own content assets, they will also need to embrace a similar long-term approach. Feed fragmentation is real and they will need to adapt by investing in consistent signature content assets.
+
+[source](http://adage.com/article/steve-rubel/brands-invest-faces-franchises-platform-age/307272/)
+
+## The key is the editor in chief
+
+The cornerstone of this strategy is bringing someone in to actively fight narrative deficiency, an editor in chief. Where this is done well you see incredible results - and almost any successful content platform on the web can be traced back to a strong point of view driven by a passionate editor in chief. Two key examples:
+
+- The Intercom blog, run by [John Collins](https://www.linkedin.com/in/johncollinsireland/), who has a background in journalism from the Irish Times.
+- First Round Capital's Review run by [Camille Ricketts](https://www.linkedin.com/in/camillericketts/), who has a background in journalism from The Wall Street Journal, VentureBeat and others.
+
+
+
 
 
 
