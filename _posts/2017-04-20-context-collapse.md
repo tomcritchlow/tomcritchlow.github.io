@@ -76,7 +76,7 @@ The cornerstone of this strategy is bringing someone in to actively fight narrat
 - The Intercom blog, run by [John Collins](https://www.linkedin.com/in/johncollinsireland/), who has a background in journalism from the Irish Times.
 - First Round Capital's Review run by [Camille Ricketts](https://www.linkedin.com/in/camillericketts/), who has a background in journalism from The Wall Street Journal, VentureBeat and others.
 
-
+Listen, journalism is not a catch-all recipe for success but perhaps we can learn a little more from the idea of interestingness and community when building content. What have you seen that works?
 
 
 
