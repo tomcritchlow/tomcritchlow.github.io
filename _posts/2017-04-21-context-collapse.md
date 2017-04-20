@@ -14,7 +14,9 @@ Context collapse. The idea that the publish box on the internet is terrifyingly 
 
 [source](http://mediatedcultures.net/youtube/context-collapse/)
 
-This theory of context collapse applies to individual creators but more-so for brands. Their multiplicity of audiences is terrifying for content creators.
+This theory of context collapse applies to individual creators but more-so for brands. Their multiplicity of audiences is terrifying for branded content creators, often lost within a dizzying org chart of agencies, internal agencies, clients and departments.
+
+## How to spot Context Collapse? Narrative Deficiency.
 
 The right lens to see context collapse is the concept of **narrative deficiency** from my good friend [Brian Dell](http://blog.briandell.info/):
 
@@ -22,7 +24,7 @@ The right lens to see context collapse is the concept of **narrative deficiency*
 
 When viewed through this lens almost all branded content is nothing more than transient cheap bad marketing.
 
-## How do you combat Context Collapse?
+## So how do you escape Context Collapse?
 
 I take all of my new media innovation advice from dead authors, so here's John Steinbeck:
 
@@ -35,7 +37,11 @@ And modern-day-dead-author Joshua Topolsky agrees:
 >Compelling voices and stories, real and raw talent, new ideas that actually serve or delight an audience, brands that have meaning and ballast; these are things that matter in the next age of media.[...]
 >We’ll have to learn a thousand hard lessons, most of them centered around the idea that if you want to make something really great, you can’t think about making it great for everyone. You have to make it great for someone. A lot of people, but not every person.
 
-[source](https://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c)
+source: [your media business will not be saved](https://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c)
+
+>Our most successful forays into digital journalism [...] have depended on distinct visions established by their leaders — visions supported and shaped by the masthead, and enthusiastically shared by the members of the department. [...] These departments with clear, widely understood missions remain unusual. Most Times journalists cannot describe the vision or mission of their desks.
+
+source: [NYT 2020 report](https://www.nytimes.com/projects/2020-report/)
 
 Said a different way:
 
