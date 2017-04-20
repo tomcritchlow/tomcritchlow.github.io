@@ -4,6 +4,23 @@ title: The Consultant's Grain
 subtitle: What does it take to be an effective strategy consultant in the digital world?
 ---
 
+Abstract: my experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users and a constant feedback loop of prototypes.
+
+I also propose some new forms - why workshops don't work. Why we should be understanding problems before chasing solutions but creating fast MVPs that are real enough to get behind.
+
+The consultant's grain.
+
+The typical heirarchy is decks - documents - data
+
+My favorite way to deliver consulting? Screenshots. Fiddling with pages in code, showing how it feels in the browser. There's something powerful there. All of my failed recommendations.
+
+A tale of failed google maps search recc inside Google.
+A tale of successful implemented page template for client
+
+A story of blogging inside Google. -> many good consultants are strong writers.
+
+Understand that you're working against a mindset. Entrenched opinions and ideas. Ways of thinking.
+
 What consulting looks like.
 
 On Documents
@@ -35,5 +52,22 @@ Quotes from the glass bead game
 
 http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
 
+New forms of consulting:
 
+Studio D Radiodurns
+
+http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf
+"from strategy as a static set of choices to an ever updating..."
+
+http://interconnected.org/home/2015/10/07/small_groups_and_consultancy
+
+http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73
+Venkatesh Q lab slack consulting
+
+We think consulting is:
+analysis -> recommendation -> review -> implementation
+
+But at best this is too simple, at worst it's flat out wrong.
+
+New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
 
