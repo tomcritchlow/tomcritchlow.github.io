@@ -24,7 +24,18 @@ When viewed through this lens almost all branded content is nothing more than tr
 
 ## How do you combat Context Collapse?
 
-I take all of my 
+I take all of my new media innovation advice from dead authors, so here's John Steinbeck:
+
+>Forget your generalized audience. In the first place, the nameless, faceless audience will scare you to death and in the second place, unlike the theater, it doesn’t exist. In writing, your audience is one single reader. I have found that sometimes it helps to pick out one person—a real person you know, or an imagined person and write to that one.
+
+[source](https://www.theparisreview.org/interviews/4156/john-steinbeck-the-art-of-fiction-no-45-continued-john-steinbeck)
+
+And modern-day-dead-author Joshua Topolsky agrees:
+
+>Compelling voices and stories, real and raw talent, new ideas that actually serve or delight an audience, brands that have meaning and ballast; these are things that matter in the next age of media.[...]
+>We’ll have to learn a thousand hard lessons, most of them centered around the idea that if you want to make something really great, you can’t think about making it great for everyone. You have to make it great for someone. A lot of people, but not every person.
+
+[source](https://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c)
 
 Said a different way:
 
