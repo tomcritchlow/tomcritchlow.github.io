@@ -42,7 +42,7 @@ Working with the client's grain
 - you can't put lipstick on a pig
 - the benign consultant
 
-
+Sniffing clients. Getting close enough to smell them.
 
 Basic thesis - you need a humanities interest and diverse background, fluent in people and data and comfortable using powerpoint, doc and excel, but let's add a new one - code and design. I.e. prototypes.
 
