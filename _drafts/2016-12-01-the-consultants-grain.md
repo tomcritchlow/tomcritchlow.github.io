@@ -64,6 +64,8 @@ http://interconnected.org/home/2015/10/07/small_groups_and_consultancy
 http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73
 Venkatesh Q lab slack consulting
 
+https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby
+
 We think consulting is:
 analysis -> recommendation -> review -> implementation
 
