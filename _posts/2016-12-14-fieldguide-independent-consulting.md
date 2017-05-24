@@ -42,7 +42,7 @@ Start a company and a brand. Or don't. Up to you - I know folks doing it both wa
 
 ## Pricing
 
-It's ok to meander through client calls (as I mentioned above) but one thing you should have a clear idea about is pricing. It looks somewhat amatuer to say "I'll get back to with my day rate". You should have that at your fingertips and state your price with confidence.
+It's ok to meander through client calls (as I mentioned above) but one thing you should have a clear idea about is pricing. It looks somewhat amateur to say "I'll get back to with my day rate". You should have that at your fingertips and state your price with confidence.
 
 Don't be ashamed of stating pricing. Invoice with confidence.
 
@@ -94,7 +94,7 @@ When client work gets quiet - make the most of it. Go bike riding, play with you
 
 ## Admin
 
-Start an LLC. Is't really not hard. Keep business spending and personal spending separate. When you start earning real money consider filing taxes as a C-corp (which you can still do as an LLC).
+Start an LLC. It's really not hard. Keep business spending and personal spending separate. When you start earning real money consider filing taxes as a C-corp (which you can still do as an LLC).
 
 Get an accountant.
 
