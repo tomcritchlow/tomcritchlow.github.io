@@ -50,6 +50,24 @@ And, if that's too entry level for you, the founder of CMXhub, David Spinks, sto
 
 [http://www.wright-house.com/psychology/sense-of-community.html](http://www.wright-house.com/psychology/sense-of-community.html)
 
+**147 PDF from Genuinely**
+
+Wow. If you're really looking to sink your teeth into something the completely comprehensive and detailed guide from Mack at Genuinely is 147 pages and appears to be super useful:
+
+>The Truly Monumental Guide to Building Online Communities is for companies who want
+to build an engaged audience around their brand. It’s for companies who are just starting
+out and want to build that community of lifelong customers, and it’s also for companies
+who already have communities but are looking to serve them better and improve their
+own business in the process.
+
+>As you work through this guide, know that there’s more than one way of doing this
+community building stuff. We’ve provided our suggestion for a process that has been
+incredibly powerful for us and our clients. Our hope is that you’ll add your wisdom and
+your experiences and make the process your own. In the end, our intention is to teach you
+how to effectively build community and also to move your company forward. 
+
+[http://genuinely.co/guide-to-building-online-communities/](http://genuinely.co/guide-to-building-online-communities/)
+
 **Edouard's sprawling notes on Learning Garden**
 
 Ed was kind enough to share three sprawling deep webs of links he's curated around online learning and communities. If you're looking to get nerdy and deep I think there's tons here (disclaimer I've not read half of this yet!)
