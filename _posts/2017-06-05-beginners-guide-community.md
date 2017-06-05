@@ -76,4 +76,11 @@ Ed was kind enough to share three sprawling deep webs of links he's curated arou
 [https://www.are.na/lukas-wp/learning-gardens-resources](https://www.are.na/lukas-wp/learning-gardens-resources)
 [https://www.are.na/edouard-u/learning-gardens-research](https://www.are.na/edouard-u/learning-gardens-research)
 
+**Joel!**
+
+How could we talk about online communities without referencing stackoverflow and Joel Spolsky? Here, a video linked to by [@firstconversion](http://twitter.com/firstconversion) which is perhaps more story driven than "how-to". And, I'm sure I could link to hundreds of more links from Joel....
+
+[Joel Spolsky - Cultural Anthropology of Stack Exchange](https://vimeo.com/37309773) (video)
+
+Hopefully this sparks some interesting discussions and thinking. Thanks to everyone on Twitter who stopped by to help share resources!
 
