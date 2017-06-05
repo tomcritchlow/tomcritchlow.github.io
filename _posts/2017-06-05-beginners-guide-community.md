@@ -11,7 +11,7 @@ This morning, fresh off a call with a client who's building a new online communi
 
 The responses were frankly amazing. I think I struck a vein somehow? Below is a roundup of all the amazing and fascinating links I received:
 
-**The community canvas**
+## The community canvas
 
 >What is the Community Canvas? It is a framework that will help you build a community, analyze a community or improve an existing community.
 
@@ -19,7 +19,7 @@ With guides, worksheets, a visual summary and a full 61-page guidebook this look
 
 [https://community-canvas.org/](https://community-canvas.org/)
 
-**Feverbee**
+## Feverbee
 
 Rich Millington of Feverbee has been writing and thinking about communities for a looong time and he's got some gems.
 
@@ -33,7 +33,7 @@ And, his strategic community management piece looks very exec friendly too:
 
 [https://www.feverbee.com/strategy/](https://www.feverbee.com/strategy/)
 
-**CMXhub Community Canvas**
+## CMXhub Community Canvas
 
 Another canvas (what's with all the community canvases? just alliteration?). This is pretty high level but again, another useful exec friendly one page format:
 
@@ -50,7 +50,7 @@ And, if that's too entry level for you, the founder of CMXhub, David Spinks, sto
 
 [http://www.wright-house.com/psychology/sense-of-community.html](http://www.wright-house.com/psychology/sense-of-community.html)
 
-**147 PDF from Genuinely**
+## 147 PDF from Genuinely
 
 Wow. If you're really looking to sink your teeth into something the completely comprehensive and detailed guide from Mack at Genuinely is 147 pages and appears to be super useful:
 
@@ -68,7 +68,7 @@ how to effectively build community and also to move your company forward.
 
 [http://genuinely.co/guide-to-building-online-communities/](http://genuinely.co/guide-to-building-online-communities/)
 
-**Edouard's sprawling notes on Learning Garden**
+## Edouard's sprawling notes on Learning Garden
 
 Ed was kind enough to share three sprawling deep webs of links he's curated around online learning and communities. If you're looking to get nerdy and deep I think there's tons here (disclaimer I've not read half of this yet!)
 
@@ -76,7 +76,7 @@ Ed was kind enough to share three sprawling deep webs of links he's curated arou
 [https://www.are.na/lukas-wp/learning-gardens-resources](https://www.are.na/lukas-wp/learning-gardens-resources)
 [https://www.are.na/edouard-u/learning-gardens-research](https://www.are.na/edouard-u/learning-gardens-research)
 
-**Joel!**
+## Joel!
 
 How could we talk about online communities without referencing stackoverflow and Joel Spolsky? Here, a video linked to by [@firstconversion](http://twitter.com/firstconversion) which is perhaps more story driven than "how-to". And, I'm sure I could link to hundreds of more links from Joel....
 
