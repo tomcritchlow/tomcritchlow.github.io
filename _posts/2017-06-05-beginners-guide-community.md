@@ -82,5 +82,5 @@ How could we talk about online communities without referencing stackoverflow and
 
 [Joel Spolsky - Cultural Anthropology of Stack Exchange](https://vimeo.com/37309773) (video)
 
-Hopefully this sparks some interesting discussions and thinking. Thanks to everyone on Twitter who stopped by to help share resources!
+Hopefully this sparks some interesting discussions and thinking. Thanks to everyone on Twitter who stopped by to help share resources! If you have more interesting links to share please leave them in the comments below:
 
