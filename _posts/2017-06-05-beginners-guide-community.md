@@ -44,4 +44,18 @@ Another canvas (what's with all the community canvases? just alliteration?). Thi
 
 [http://cmxhub.com/article/the-cmx-community-strategy-canvas/](http://cmxhub.com/article/the-cmx-community-strategy-canvas/)
 
+And, if that's too entry level for you, the founder of CMXhub, David Spinks, stopped by to share this on the psychological sense of community:
+
+>In 1974, psychologist Seymour Sarason's seminal book introduced the concept of "psychological sense of community," and proposed that it become the conceptual center for the psychology of community, asserting that psychological sense of community "is one of the major bases for self-definition"
+
+[http://www.wright-house.com/psychology/sense-of-community.html](http://www.wright-house.com/psychology/sense-of-community.html)
+
+**Edouard's sprawling notes on Learning Garden**
+
+Ed was kind enough to share three sprawling deep webs of links he's curated around online learning and communities. If you're looking to get nerdy and deep I think there's tons here (disclaimer I've not read half of this yet!)
+
+[https://www.are.na/edouard-u/organizational-design](https://www.are.na/edouard-u/organizational-design)
+[https://www.are.na/lukas-wp/learning-gardens-resources](https://www.are.na/lukas-wp/learning-gardens-resources)
+[https://www.are.na/edouard-u/learning-gardens-research](https://www.are.na/edouard-u/learning-gardens-research)
+
 
