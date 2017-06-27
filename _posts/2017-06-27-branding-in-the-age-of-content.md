@@ -32,3 +32,7 @@ So for a horizontal content business how would you think through a branding proj
 - The context around how people share your content and talk about it (either on-site in comments or off-site on social). So a key hire for horizontal content businesses is a community manager / social media manager. The experience of content is intrinsically linked to the discussion of it so brand plays a very strong part here.
 
 What is your experience with the brand of content? Any good examples to share? Would love to hear your thoughts below or on twitter. Holler at me!
+
+--
+
+*Update* - my friend [Elan](https://twitter.com/elan_miller) from design strategy firm [Midnight](https://gomidnight.com/) had a great quote "every page is the about page when users discover your content from search" which I think is a great way of putting it. Don't underestimate the number of people who land on your content and have either no knowledge of your brand or a very limited understanding of it.
