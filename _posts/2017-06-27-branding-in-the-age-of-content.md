@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Branding in the age of Content
-subtitle: How is branding different for a content-first businesses?
+subtitle: How is branding different for a content-first business?
 ---
 
 I'm in the middle of two projects right now to re-brand content businesses and I'm thinking through the nuances and differences vs branding a traditional business. Here's some things I'm thinking about right now. I'd love to hear your thoughts. [@tomcritchlow](http://twitter.com/tomcritchlow) or comment below.
