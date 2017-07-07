@@ -132,12 +132,9 @@ footer{
 .grainhero{
 }
 
-.tcbaseline{
-    line-height: calc(100vh);
-}
 
 .graingreen{
-    width:50px;
+    width:100px;
     height:8px;
     background-color:#00ff00;
     position:absolute;
