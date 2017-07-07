@@ -6,7 +6,7 @@ subtitle: What does it take to be an effective strategy consultant in the digita
 
 <div class="">
 <div class="w-100 vh-50 tc tcbaseline"><h1 class="fw8 f1">The Consultant's Grain</h1></div>
-<div class="w-100 tcgrey tc vh-50"><h2 class="f3 fw3"">Musings on strategy and culture and how to effect change within organizations</h2></div>
+<div class="w-100 tcgrey tc vh-50"><h2 class="f3 fw3">Musings on strategy and culture and how to effect change within organizations</h2></div>
 </div>
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
