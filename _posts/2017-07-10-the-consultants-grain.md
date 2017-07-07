@@ -77,6 +77,3 @@ analysis -> recommendation -> review -> implementation
 But at best this is too simple, at worst it's flat out wrong.
 
 New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
-
-</div>
-</div>
