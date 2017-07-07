@@ -1,16 +1,8 @@
 ---
-layout: postnomenu
+layout: grain
 title: The Consultant's Grain
-subtitle: What does it take to be an effective strategy consultant in the digital world?
+subtitle: Musings on strategy and culture and how to effect change within organizations
 ---
-
-<div class="">
-<div class="w-100 vh-50 tc tcbaseline"><h1 class="fw8 f1">The Consultant's Grain</h1></div>
-<div class="w-100 tcgrey tc vh-50"><h2 class="f3 fw3">Musings on strategy and culture and how to effect change within organizations</h2></div>
-</div>
-
-<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
-<div class="pv4 w-two-thirds-ns">
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
@@ -83,40 +75,3 @@ But at best this is too simple, at worst it's flat out wrong.
 
 New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
 
-<hr class="w3 mv5">
-
-<div class="">
-  <form class="tcgrey center pa4 br2-ns ba b--light-green" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tomcritchlow', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <fieldset class="cf bn ma0 pa0">
-      <legend class="pa0 f5 f4-ns mb3 black-80">Sign up for my <a href="http://tinyletter.com/tomcritchlow">TinyLetter</a>:</legend>
-      <div class="cf">
-        <label class="clip" for="tlemail">Email Address</label>
-        <input for="tlemail" id="tlemail" class="tinyletterinput f6 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email" value="">
-        <input type="hidden" value="1" name="embed"/>
-        <input class="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-light-green hover-bg-green white pointer w-100 w-25-m w-20-l br2-ns br--right-ns" type="submit" value="Subscribe">
-      </div>
-    </fieldset>
-  </form>
-</div>   
-
-  <hr class="w3 mv5">
-
-  <h2>Join the conversation in the comments! &#8595;</h2>
-
-  <div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-    this.page.url = "http://tomcritchlow.com"+"{{page.url}}"; 
-    this.page.identifier = "{{page.id}}"; 
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = '//tomcritchlow.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                    
