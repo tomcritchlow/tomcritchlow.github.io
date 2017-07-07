@@ -4,6 +4,8 @@ title: The Consultant's Grain
 subtitle: What does it take to be an effective strategy consultant in the digital world?
 ---
 
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
+    <div class="pv4 w-two-thirds-ns">
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
@@ -76,3 +78,5 @@ But at best this is too simple, at worst it's flat out wrong.
 
 New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
 
+</div>
+</div>
