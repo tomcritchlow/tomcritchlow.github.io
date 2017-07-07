@@ -14,6 +14,8 @@ Why is that? Well, I think th
 
 There is the pyramid of mediums - 
 
+![](/images/grain/grain_screenshots_traditional.png)
+
 ## The New Consultant's Toolkit
 
 
