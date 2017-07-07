@@ -4,6 +4,11 @@ title: The Consultant's Grain
 subtitle: What does it take to be an effective strategy consultant in the digital world?
 ---
 
+<div class="">
+<div class=""><h1>The Consultant's Grain</h1></div>
+<div class="">Musings on strategy and culture and how to effect change within organizations</div>
+</div>
+
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
 <div class="pv4 w-two-thirds-ns">
 
