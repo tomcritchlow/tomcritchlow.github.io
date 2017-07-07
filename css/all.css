@@ -135,9 +135,11 @@ footer{
 
 .graingreen{
     width:50px;
-    border-bottom: 8px solid #00ff00;
+    height:8px;
+    background-color:#00ff00;
     position:absolute;
     top:50%;
     left:50%;
     margin-left:-100px;
+    margin-top:-14px;
 }
