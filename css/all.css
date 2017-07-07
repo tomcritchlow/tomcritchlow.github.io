@@ -128,6 +128,10 @@ footer{
 }
 
 /* consultant's grain style */
+
+.grainhero{
+}
+
 .tcbaseline{
     line-height: calc(100vh);
     margin-bottom:-14px;
@@ -141,5 +145,11 @@ footer{
     top:50%;
     left:50%;
     margin-left:-100px;
-    margin-top:-14px;
+    margin-top:10px;
+    z-index:-1
+}
+
+.grainunder{
+    z-index:-2;
+    position:relative;
 }
