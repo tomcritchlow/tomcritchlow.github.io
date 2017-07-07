@@ -1,5 +1,5 @@
 ---
-layout: grain
+layout: blog
 title: The Consultant's Grain
 subtitle: Musings on strategy and culture and how to effect change within organizations
 ---
