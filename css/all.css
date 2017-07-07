@@ -132,3 +132,10 @@ footer{
     line-height: calc(100vh);
     margin-bottom:20px;
 }
+
+.graingreen{
+    width:50px;
+    border-bottom: 2px solid #00ff00;
+    position:absolute;
+    top:50%;
+}
