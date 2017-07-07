@@ -128,24 +128,3 @@ footer{
 }
 
 /* consultant's grain style */
-
-.grainhero{
-}
-
-
-.graingreen{
-    width:100px;
-    height:8px;
-    background-color:#00ff00;
-    position:absolute;
-    top:50%;
-    left:50%;
-    margin-left:-25px;
-    margin-top:10px;
-    z-index:-1
-}
-
-.grainunder{
-    z-index:-2;
-    position:relative;
-}
