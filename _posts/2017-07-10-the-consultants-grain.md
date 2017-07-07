@@ -12,13 +12,31 @@ Why is that? Well, I think th
 
 ## A primer on effecting change: the consultant's toolkit
 
-There is the pyramid of mediums - 
+There is the pyramid of mediums - https://www.distilled.net/resources/better-business-documents-guide/
 
 ![](/images/grain/grain_screenshots_traditional.png)
 
 ## The New Consultant's Toolkit
 
+Prototypes & Code
 
+Design and mockups
+
+Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+
+![](/images/grain/slack_post.png)
+
+## Of course, it's humans all the way down
+
+Get close enough to smell the clients
+
+## The Crux: Companies have biases
+
+
+
+## The Consultant Has Bias Too
+
+Which brings me to the title of this piece.
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
