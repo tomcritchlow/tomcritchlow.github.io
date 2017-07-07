@@ -20,7 +20,10 @@ There is the pyramid of mediums - https://www.distilled.net/resources/better-bus
 
 Prototypes & Code
 
+![](/images/grain/grain_screenshots_new.png)
+
 Design and mockups
+https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881
 
 Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
