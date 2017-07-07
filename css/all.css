@@ -126,3 +126,8 @@ padding-top: 30px;
 footer{
     min-height:300px;
 }
+
+/* consultant's grain style */
+.tcbaseline{
+    line-height: calc(100vh);
+}
