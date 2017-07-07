@@ -35,7 +35,7 @@ Get close enough to smell the clients
 
 ## The Crux: Companies have biases
 
-
+![](/images/grain/against_the_grain.png)
 
 ## The Consultant Has Bias Too
 
