@@ -6,7 +6,10 @@
 
 <div class="grainhero">
 <div class="w-100 tc h5 tcbaseline"><h1 class="fw8 f-subheadline-l f2 pv4">{{page.title}}</h1></div>
-<div class="w-100 tcgrey tc grainunder"><h2 class="f2-l f3 fw3 pv5">{{page.subtitle}}</h2></div>
+<div class="w-100 tcgrey tc grainunder">
+  <h2 class="f2-l f3 fw3 pv5">{{page.subtitle}}</h2>
+  <div class="f5 f6-s ttu black-20 pv3">{{ page.date | date: "%B %-d, %Y" }}</div>
+  </div>
 </div>
 
 <div class="mw7 center lh-copy f4 ph3 ph0-l">
