@@ -1,8 +1,11 @@
 ---
-layout: blog
+layout: postnomenu
 title: The Consultant's Grain
 subtitle: What does it take to be an effective strategy consultant in the digital world?
 ---
+
+
+Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
 Abstract: my experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users and a constant feedback loop of prototypes.
 
