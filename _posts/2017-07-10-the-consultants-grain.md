@@ -5,7 +5,7 @@ subtitle: What does it take to be an effective strategy consultant in the digita
 ---
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
-    <div class="pv4 w-two-thirds-ns">
+<div class="pv4 w-two-thirds-ns">
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
