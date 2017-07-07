@@ -1,7 +1,4 @@
 ---
-layout: postnomenu
-title: The Consultant's Grain
-subtitle: What does it take to be an effective strategy consultant in the digital world?
 ---
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
