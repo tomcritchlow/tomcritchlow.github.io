@@ -4,6 +4,20 @@ title: The Consultant's Grain
 subtitle: Musings on strategy and culture and how to effect change within organizations
 ---
 
+You would think that being a consultant is easy... Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
+
+The change rarely happens like you recommended.
+
+Why is that? Well, I think th
+
+## A primer on effecting change: the consultant's toolkit
+
+There is the pyramid of mediums - 
+
+## The New Consultant's Toolkit
+
+
+
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
 Abstract: my experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users and a constant feedback loop of prototypes.
