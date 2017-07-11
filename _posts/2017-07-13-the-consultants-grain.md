@@ -4,20 +4,21 @@ title: The Consultant's Grain
 subtitle: Musings on strategy, culture and how to effect change within organizations which are inherently biased. How do you change against the grain? How do you recognize your own grain?
 ---
 
-You would think that being a consultant is easy... Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
+You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
 
 The change rarely happens like you recommended.
 
 Why is that? Well, we think consulting is:
 
-*analysis -> recommendation -> review -> implementation*
+*analysis -> insight -> recommendation -> review -> implementation*
 
-At best this is too simple, at worst it's flat out wrong.
+At best this is too simple, at worst it's flat out wrong. Just like every other framework for thinking about strategy and change they only scratch the surface of what's really going on.
 
-
-
+My experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users, a constant feedback loop of prototypes and long term campaigning for the big change you want to see.
 
 ## A primer on effecting change: the consultant's toolkit
+
+Let's first take a look at the tools of the trade. Documents.
 
 There is the pyramid of mediums - https://www.distilled.net/resources/better-business-documents-guide/
 
@@ -32,19 +33,50 @@ Prototypes & Code
 Design and mockups
 https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881
 
-Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
-![](/images/grain/slack_post.png)
+
+
 
 ## Of course, it's humans all the way down
+
+So the most effective tools are those that deal with humans:
+
+- Workshops
+- User interviews
+- Working on site
+
 
 Get close enough to smell the clients
 
 Spend time with them. Workshop.
 
-## The Crux: Companies have biases
+## The Crux: Companies have a grain.
 
-![](/images/grain/against_the_grain.png)
+Cutting against the grain is hard and messy. There's too much friction.
+
+Instead you're more effective cutting with the grain.
+
+## Consulting Fast & Slow
+
+Campaign for change. Grassroots change.
+
+In my own work I enjoy having "hard" and "soft" skills and combining them in a way to enable me to add immediate short term value to projects (like content strategy or SEO audits) which buys me enough time to stick around long enough to campaign for change like new brands, new business models, acquisitions, teams and more.
+
+WHy blogging is effective. You're not looking for sign off, you're looking for followers. Belivers.
+
+When I was working at Google I recall there were projects I tried to get off the ground but ultimately failed to do. One in particular was a slack-like 
+
+The other was an idea to 
+
+Both ideas got shut down by executives and saw little distribution.
+
+Contrast that to the kind of change you can have with a well written memo that is designed to be easy to circulate.
+
+But what does **easy to circulate** mean for you? Mostly I encourage people to think of this as blogging. 
+
+![](/images/grain/slack_post.png)
+
+Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
 ## The Consultant Has Bias Too
 
@@ -52,7 +84,6 @@ Which brings me to the title of this piece.
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
-Abstract: my experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users and a constant feedback loop of prototypes.
 
 I also propose some new forms - why workshops don't work. Why we should be understanding problems before chasing solutions but creating fast MVPs that are real enough to get behind.
 
@@ -98,7 +129,7 @@ Quotes from the glass bead game
 
 
 
-## Further reading on effective consulting
+## Further reading on consulting
 
 http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
 
