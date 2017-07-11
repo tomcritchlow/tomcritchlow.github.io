@@ -1,14 +1,21 @@
 ---
 layout: grain
 title: The Consultant's Grain
-subtitle: Musings on strategy and culture and how to effect change within organizations
+subtitle: Musings on strategy, culture and how to effect change within organizations which are inherently biased. How do you change against the grain? How do you recognize your own grain?
 ---
 
 You would think that being a consultant is easy... Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
 
 The change rarely happens like you recommended.
 
-Why is that? Well, I think th
+Why is that? Well, we think consulting is:
+
+*analysis -> recommendation -> review -> implementation*
+
+At best this is too simple, at worst it's flat out wrong.
+
+
+
 
 ## A primer on effecting change: the consultant's toolkit
 
@@ -32,6 +39,8 @@ Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 ## Of course, it's humans all the way down
 
 Get close enough to smell the clients
+
+Spend time with them. Workshop.
 
 ## The Crux: Companies have biases
 
@@ -85,13 +94,13 @@ Sniffing clients. Getting close enough to smell them.
 
 Basic thesis - you need a humanities interest and diverse background, fluent in people and data and comfortable using powerpoint, doc and excel, but let's add a new one - code and design. I.e. prototypes.
 
-use new hero format for content
-
 Quotes from the glass bead game
 
-http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
 
-New forms of consulting:
+
+## Further reading on effective consulting
+
+http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
 
 Studio D Radiodurns
 
@@ -105,10 +114,6 @@ Venkatesh Q lab slack consulting
 
 https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby
 
-We think consulting is:
-analysis -> recommendation -> review -> implementation
-
-But at best this is too simple, at worst it's flat out wrong.
 
 New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
 
