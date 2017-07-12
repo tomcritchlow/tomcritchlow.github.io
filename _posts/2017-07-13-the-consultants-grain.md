@@ -24,6 +24,8 @@ There is the pyramid of mediums - https://www.distilled.net/resources/better-bus
 
 ![](/images/grain/grain_screenshots_traditional.png)
 
+This can be helpful - if you're thinking about the kind of change you're hoping to see you can choose the right document type. But it's only scratching the surface of what's really going on. It'll also artificially limit you.
+
 ## The New Consultant's Toolkit
 
 Prototypes & Code
@@ -34,7 +36,7 @@ Design and mockups
 https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881
 
 
-
+This will help you create work that's closer to the finished product that you're trying to change. That's a good thing. But still doesn't answer a central question - who are we trying to convince?
 
 
 ## Of course, it's humans all the way down
@@ -49,12 +51,6 @@ So the most effective tools are those that deal with humans:
 Get close enough to smell the clients
 
 Spend time with them. Workshop.
-
-## The Crux: Companies have a grain.
-
-Cutting against the grain is hard and messy. There's too much friction.
-
-Instead you're more effective cutting with the grain.
 
 ## Consulting Fast & Slow
 
@@ -77,6 +73,12 @@ But what does **easy to circulate** mean for you? Mostly I encourage people to t
 ![](/images/grain/slack_post.png)
 
 Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+
+## The Crux: Companies have a grain.
+
+Cutting against the grain is hard and messy. There's too much friction.
+
+Instead you're more effective cutting with the grain.
 
 ## The Consultant Has Bias Too
 
