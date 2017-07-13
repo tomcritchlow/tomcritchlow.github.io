@@ -1,7 +1,7 @@
 ---
 layout: grain
 title: The Consultant's Grain
-subtitle: Musings on strategy, culture and how to effect change within organizations which are inherently biased. How do you change against the grain? How do you recognize your own grain?
+subtitle: Culture eats strategy for breakfast. So what does effective strategy look like within an organizations culture? In short it starts with recognizing which recommendations go with or against the grain of the organization.
 ---
 
 You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
