@@ -20,26 +20,35 @@ We're just scratching the surface here though. Read on to get deeper down this r
 
 ## A primer on effecting change: the consultant's toolkit
 
-Let's first take a look at the tools of the trade. Documents.
+First things first let's take a look at some basics. When you're trying to make change it's important to understand what kind of change you're looking for and choosing the appropriate tool for the job. Pretty much everything I know about effective consulting I learned from my brother and he wrote a nice piece on [better business documents](https://www.distilled.net/resources/better-business-documents-guide/) where he outlines the pyramid of documents.
 
-There is the pyramid of mediums - https://www.distilled.net/resources/better-business-documents-guide/
+![](/images/grain/write_upwards.png)
+
+I always try and follow this model and will switch between formats and medium often during a consulting engagement depending on the work. For example - here's a taste of the range of work produced during a single client engagement (some work I did for the New York Times Cooking site a few years back).
 
 ![](/images/grain/grain_screenshots_traditional.png)
 
-This can be helpful - if you're thinking about the kind of change you're hoping to see you can choose the right document type. But it's only scratching the surface of what's really going on. It'll also artificially limit you.
+This can be helpful - especially if you explicitly take the time to really think through who your audience is for a given recommendation and think about what medium will suit it best (sometimes multiple mediums!).
 
-## The New Consultant's Toolkit
+But this is only scratching the surface.
 
-Prototypes & Code
+## The New Consultant's Toolkit - Mockups & Prototypes
 
-![](/images/grain/grain_screenshots_new.png)
+While the above framework is useful, recently I've found that I can be far more effective by getting closer to the output. What do I mean by that? Well - documents are almost never the actual output we're looking for. Usually we're looking for teams to be hired, or landing pages to be made or videos to be shot etc.
 
-Design and mockups
-https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881
+![](/images/etsy.png)
 
+The modern web is such a remixable medium that I urge you to think how you can build an MVP or prototype of the change you're recommending. The most simple way to do this is using inspect element in chrome to change up a site and then take a screenshot. Being able to see language, design and formats in play within the very medium we're discussing can be very effective. Here's a screenshot of a prototype I built for a client to demonstrate an idea:
 
-This will help you create work that's closer to the finished product that you're trying to change. That's a good thing. But still doesn't answer a central question - who are we trying to convince?
+![](/images/fmt.png)
 
+There are a million different tools to generate mockups and prototypes (which is the beauty!) but my goto tools are:
+
+- Chrome's inspect element for small changes and tweaks (protip you can take mobile mockups this way too using the device switcher, and even add a device frame to the screenshot too)
+- Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881.
+- [Glitch](https://glitch.com/) for functioning prototypes and 
+
+This approach will help you get closer to producing recommendations and ideas that resemble the finished product, that's a good thing. But it still doesn't answer the central question - who are we trying to convince?
 
 ## Of course, it's humans all the way down
 
@@ -53,6 +62,16 @@ So the most effective tools are those that deal with humans:
 Get close enough to smell the clients
 
 Spend time with them. Workshop.
+
+## 5 ways to better understand a client's culture
+
+Get into their slack
+Get on-site
+Listen to the language used
+Assume everything is deliberate
+ (e.g. failing to hire a CMO, designing the site)
+ Time
+
 
 ## Consulting Fast & Slow
 
@@ -149,6 +168,7 @@ Venkatesh Q lab slack consulting
 
 https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby
 
+http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/
 
 New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
 
