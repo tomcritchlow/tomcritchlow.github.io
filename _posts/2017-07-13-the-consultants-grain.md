@@ -36,11 +36,11 @@ But this is only scratching the surface.
 
 While the above framework is useful, recently I've found that I can be far more effective by getting closer to the output. What do I mean by that? Well - documents are almost never the actual output we're looking for. Usually we're looking for teams to be hired, or landing pages to be made or videos to be shot etc.
 
-![](/images/etsy.png)
+![](/images/grain/etsy.png)
 
 The modern web is such a remixable medium that I urge you to think how you can build an MVP or prototype of the change you're recommending. The most simple way to do this is using inspect element in chrome to change up a site and then take a screenshot. Being able to see language, design and formats in play within the very medium we're discussing can be very effective. Here's a screenshot of a prototype I built for a client to demonstrate an idea:
 
-![](/images/fmt.png)
+![](/images/grain/fmt.png)
 
 There are a million different tools to generate mockups and prototypes (which is the beauty!) but my goto tools are:
 
