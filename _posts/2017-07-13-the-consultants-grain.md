@@ -1,7 +1,8 @@
 ---
 layout: grain
 title: The Consultant's Grain
-subtitle: Culture eats strategy for breakfast. So what does effective strategy look like within an organizations culture? In short it starts with recognizing which recommendations go with or against the grain of the organization.
+subtitle: Culture eats strategy for breakfast. So what does effective strategy look like within an organizations culture? In short it starts with recognizing which recommendations go against the grain.
+draft: true
 ---
 
 You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
@@ -36,6 +37,8 @@ But this is only scratching the surface.
 
 While the above framework is useful, recently I've found that I can be far more effective by getting closer to the output. What do I mean by that? Well - documents are almost never the actual output we're looking for. Usually we're looking for teams to be hired, or landing pages to be made or videos to be shot etc.
 
+Imagine we were trying to convince Etsy to allow videos within product listings. One piece of the puzzle might involve a simple screenshot faked up using inspect element:
+
 ![](/images/grain/etsy.png)
 
 The modern web is such a remixable medium that I urge you to think how you can build an MVP or prototype of the change you're recommending. The most simple way to do this is using inspect element in chrome to change up a site and then take a screenshot. Being able to see language, design and formats in play within the very medium we're discussing can be very effective. Here's a screenshot of a prototype I built for a client to demonstrate an idea:
@@ -45,7 +48,7 @@ The modern web is such a remixable medium that I urge you to think how you can b
 There are a million different tools to generate mockups and prototypes (which is the beauty!) but my goto tools are:
 
 - Chrome's inspect element for small changes and tweaks (protip you can take mobile mockups this way too using the device switcher, and even add a device frame to the screenshot too)
-- Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881.
+- Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881).
 - [Glitch](https://glitch.com/) for functioning prototypes and 
 
 This approach will help you get closer to producing recommendations and ideas that resemble the finished product, that's a good thing. But it still doesn't answer the central question - who are we trying to convince?
@@ -104,6 +107,14 @@ Instead you're more effective cutting with the grain.
 ## The Consultant Has Bias Too
 
 Which brings me to the title of this piece.
+
+You're hired to change their company in a way they've so far been unable to change •and you approach with your own ideas of what should be changed•.
+
+Oh.
+
+Truly effective consulting aims to remove any bias from the consultant. Do I believe content can be an effective tool? Yes. Do I believe exposing more information about the company to the public is usually a good thing? Yes. Are these always what the client needs? No way.
+
+
 
 Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
 
