@@ -12,9 +12,11 @@ Why is that? Well, we think consulting is:
 
 *analysis -> insight -> recommendation -> review -> implementation*
 
-At best this is too simple, at worst it's flat out wrong. Just like every other framework for thinking about strategy and change they only scratch the surface of what's really going on.
+At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company *in a way they've so far been unable to change*. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
-My experience with successful consulting is that the best work is done close enough to smell the client, with an emotional understanding of the users, a constant feedback loop of prototypes and long term campaigning for the big change you want to see.
+In summary - the kwy to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize that you can certainly have small wins but change "against the grain" of the culture takes a long time and requires changing people's beliefs at scale.
+
+We're just scratching the surface here though. Read on to get deeper down this rabbithole.
 
 ## A primer on effecting change: the consultant's toolkit
 
