@@ -130,9 +130,10 @@ Hopefully this piece is relevant both for external consultants and for internal 
 [Strategy as an unfolding network of associations (PDF)](http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf) - kind of dense but fascinating case study of evaluating strategy within the context of culture:
 > "The evidence from the case suggests that the concept of strategy can be reappraised. From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade"
 
-
 [Small groups and consultancy](http://interconnected.org/home/2015/10/07/small_groups_and_consultancy) - by the ever brilliant Matt Webb:
 > I don't think strategy can be outsourced, I think it has to emerge from a company's nature. So when strategy evolves, there has to be organisational change. When an organisation looks outside itself (for answers that should be derived from strategy) that says to me that it's not thinking straight, that the organisation isn't put together quite right yet. An organisation has these informal components, and cross-team small group meetings feel like a good way to weave them in.
+
+[The art of sharing](https://www.epicpeople.org/the-art-of-sharing/) - Jan Chipchase is a master at this and I can't wait to read the full handbook but this excerpt is especially relevant for the sharing / campaign thinking I mention above.
 
 [Consultancy, Creativity and Cooking with Sunday Dinner](https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby) - from the great Lindsey Slaby thinking about new ways of getting creative projects staffed, funded, connected and thought about. I love the strong emphasis on people. They are the capital at work here!
 
