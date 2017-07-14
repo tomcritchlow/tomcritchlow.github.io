@@ -86,108 +86,56 @@ Here's how I think about it - you can (and should) go against the grain of the o
 
 I call this consulting fast and slow (inspired by the book *thinking fast and slow*). Fast consulting is the aforementioned projects, ideas and change that runs with the grain.
 
-Slow consulting is the work that runs against the grain, and I think about it a lot like running a campaign. You have to gather buy in from a lot of people 
+Slow consulting is the work that runs against the grain, and I think about it a lot like running a campaign. You have to gather buy in from a lot of people and essentially campaign for change. Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip of belief change for key execs to get them to change their mind.
 
-Going against hte grain is slow.
+Either way the key is to run a campaign.
 
-Campaign for change. Grassroots change.
+How might we do this? The key in my mind is to think about the change beyond the individual documents or business case and instead work to create a series of things that build an ever-increasing momentum for the direction you want to take.
 
-In my own work I enjoy having "hard" and "soft" skills and combining them in a way to enable me to add immediate short term value to projects (like content strategy or SEO audits) which buys me enough time to stick around long enough to campaign for change like new brands, new business models, acquisitions, teams and more.
+This could be collecting examples of what you are saying and sending them periodically across to your client or circulating in their slack. Remember how language shapes culture? Well you can inject a little of your own culture by repeatedly using language, referencing examples and showcasing the direction you want to go in.
 
-WHy blogging is effective. You're not looking for sign off, you're looking for followers. Belivers.
+The more focused appraoch is to blog. Yes, yes, yes I know I harp on a lot about this blogging thing but seriously, blogging (i.e. serialized, shareable content authored under you name) is highly effective at helping people to see things from your point of view and getting buy in and driving slow behviour change.
 
-When I was working at Google I recall there were projects I tried to get off the ground but ultimately failed to do. One in particular was a slack-like 
+The key to internal company blogging is serialzed, shareable content authored under your own name:
+ - **Serialized** - means you don't have to create the magnum opus or manifesto overnight. Publish your thinking, publish your half-thoughts, publish your experiments, publish your examples elsewhere on the web. The point here is to create that drip drip drip so keep publishing.
+ - **Shareable** - this is often the hardest piece to do well within an organization. Don't let your campaign for change get trapped within an email thread or lost in the slack stream, give it a permanent home, ideally a URL (shocking I know!). How you do this will depend a lot on what your tech stack looks like. When I was working at Google you could spin up a strictly internal appengine instance so I used it to build my own blog where I had my own URL and I could publish content. It helps when you do this to use a format that's not commonly used internally. Standing out helps any campaign gain mindshare.
+ - **Authored content** - in order to separate your writing and thoughts from other more formal "recommendations" or "documents" that might be interpreted differently the authored content should come from a more bloggy place where you can just write. A nice way to do that is just to carve out a space with your name on it (e.g. the tomcritchlow appengine instance I made at Google).
 
-The other was an idea to 
+If you only focus on one thing here though - focus on the idea that it has to be shareable and **easy to circulate** that could simply be with a google doc that has a big written "please distribute freely" label on it and access open to all within the company.
 
-Both ideas got shut down by executives and saw little distribution.
-
-Contrast that to the kind of change you can have with a well written memo that is designed to be easy to circulate.
-
-But what does **easy to circulate** mean for you? Mostly I encourage people to think of this as blogging. 
+I've tried this a few times with Slack Notes which are in my experience a rarely used feature within Slack but could evolve into the perfect "memo-writing" platform for slow consulting.
 
 ![](/images/grain/slack_post.png)
 
-Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+When I was at Google (pre-slack!) we used Google+ internally as an internal social network experience and that was effective at bubbling up disparate voices who were "blogging" internally. This was a great piece that made it outside the walls: [Steve Yegge's platform rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX).
 
+## The Consultant's Grain
 
+Ah. There's one more piece to this puzzle. I've talked a lot about the organization's grain. This was a concept I really fully realized and started to deliberately address about a year and a half ago. But only more recently have I stumbled across the uncomfortable though obvious follow up: the consultant has a grain too.
 
-## The Consultant Has Bias Too
+Let's reframe that positioning of why consulting is hard - **you're hired to change their company in a way they've so far been unable to change and you will attempt to do this in ways you're comfortable with**.
 
-Which brings me to the title of this piece.
+It's important to realize that businesses come in so many more shapes and sizes than you read about in the tech press. And you'll have some preconvieved notions of how a business should operate, some of which may or may not work or be appropriate for that client.
 
-You're hired to change their company in a way they've so far been unable to change •and you approach with your own ideas of what should be changed•.
+In short - while you can work against the grain within an organization up to a point, there is definitely a limit to the amount of friction you can generate. Too much friction and things will get set on fire. Projects, teams, people, ideas, budgets.
 
-Oh.
-
-Truly effective consulting aims to remove any bias from the consultant. Do I believe content can be an effective tool? Yes. Do I believe exposing more information about the company to the public is usually a good thing? Yes. Are these always what the client needs? No way.
-
-
-
-Being a consultant is, in essence, an exercise in effecting change. Clients hire me to make some kind of change within their business. And, b
-
-
-I also propose some new forms - why workshops don't work. Why we should be understanding problems before chasing solutions but creating fast MVPs that are real enough to get behind.
-
-The consultant's grain.
-
-The typical heirarchy is decks - documents - data
-
-My favorite way to deliver consulting? Screenshots. Fiddling with pages in code, showing how it feels in the browser. There's something powerful there. All of my failed recommendations.
-
-A tale of failed google maps search recc inside Google.
-A tale of successful implemented page template for client
-
-A story of blogging inside Google. -> many good consultants are strong writers.
-
-Understand that you're working against a mindset. Entrenched opinions and ideas. Ways of thinking.
-
-What consulting looks like.
-
-On Documents
-
-new Documents
-mockups & code
-
-Beyond documents - affecting change
-workshops
-smellling the clients problems
-slack / basecamp
-
-Plugging leaks
- - example SEO reporting spreadsheet
- - outreach to hiring folks
- - 
-
-Working with the client's grain
-- you can't put lipstick on a pig
-- the benign consultant
-
-Sniffing clients. Getting close enough to smell them.
-
-Basic thesis - you need a humanities interest and diverse background, fluent in people and data and comfortable using powerpoint, doc and excel, but let's add a new one - code and design. I.e. prototypes.
-
-Quotes from the glass bead game
-
-
+So when you're considering change within an organization you have to understand your own bias and take a long hard look at which of your usual ideas and often-repeated mantras **actually** apply to this client, and which are pushing too far against the grain. And, importantly, which of your go-to ideas are explicitly **with** the grain of the organization. Because without some kind of forward motion you're not going to be able to stick around long enough to get the bigger change done.
 
 ## Further reading on consulting
 
-http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
+Hopefully this piece is relevant both for external consultants and for internal change agents. If you found this interesting here's some further reads about the consulting world that made me think recently:
 
-Studio D Radiodurns
+[The management myth](http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/) - a great rallying cry for the need for humanities and human thinking and some great context on where management consulting comes from in the first place.
 
-http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf
-"from strategy as a static set of choices to an ever updating..."
+[Strategy as an unfolding network of associations (PDF)](http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf) - kind of dense but fascinating case study of evaluating strategy within the context of culture:
+> "The evidence from the case suggests that the concept of strategy can be reappraised. From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade"
 
-http://interconnected.org/home/2015/10/07/small_groups_and_consultancy
 
-http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73
-Venkatesh Q lab slack consulting
+[Small groups and consultancy](http://interconnected.org/home/2015/10/07/small_groups_and_consultancy) - by the ever brilliant Matt Webb:
+> I don't think strategy can be outsourced, I think it has to emerge from a company's nature. So when strategy evolves, there has to be organisational change. When an organisation looks outside itself (for answers that should be derived from strategy) that says to me that it's not thinking straight, that the organisation isn't put together quite right yet. An organisation has these informal components, and cross-team small group meetings feel like a good way to weave them in.
 
-https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby
+[Consultancy, Creativity and Cooking with Sunday Dinner](https://www.linkedin.com/pulse/consultancy-creativity-cooking-sunday-dinner-lindsey-slaby) - from the great Lindsey Slaby thinking about new ways of getting creative projects staffed, funded, connected and thought about. I love the strong emphasis on people. They are the capital at work here!
 
-http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/
+[Venkatesh Rao on Q lab](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73) - Venkatesh's new **slack only!** consulting project. Given my advocacy to getting into clients slack groups you can why this resonated with me.
 
-New ideas, directions and concepts bleed out across organizations. They don't come out of nowhere but equally no ideas ever really die. They become assimilated into the knowledge of the organization.
-
+[The Fieldguide to Independent Consulting](http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak on of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
