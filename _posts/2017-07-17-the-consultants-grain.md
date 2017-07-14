@@ -13,7 +13,7 @@ Why is that? Well, we think consulting is:
 
 *analysis -> insight -> recommendation -> review -> implementation*
 
-At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company *in a way they've so far been unable to change*. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
+At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
 In summary - the kwy to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize that you can certainly have small wins but change "against the grain" of the culture takes a long time and requires changing people's beliefs at scale.
 
@@ -51,32 +51,44 @@ There are a million different tools to generate mockups and prototypes (which is
 - Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881).
 - [Glitch](https://glitch.com/) for functioning prototypes and 
 
-This approach will help you get closer to producing recommendations and ideas that resemble the finished product, that's a good thing. But it still doesn't answer the central question - who are we trying to convince?
+This approach will help you get closer to producing recommendations and ideas that resemble the finished product, that's a good thing. But it still doesn't answer the central question - who are we trying to convince, and what objections do they have?
 
-## Of course, it's humans all the way down
+## The Crux: Companies have a grain.
 
-So the most effective tools are those that deal with humans:
+Here's the thing. When you're hired to do a job you have to understand that when you're hired to help with a change that they've been unable to make on their own you have to address the central question:
 
-- Workshops
-- User interviews
-- Working on site
+**Why have they been unable to make this change on their own?**
 
+And now we get to the crux - every company has a deep rooted culture. Some talk about it explicitly, some paint it on their walls, some just breathe it every day. But every company has a culture. And that culture comes from the people - the messy organic interactions between founders, executives, workers, passionate employees, internal writing, internal talks, external press coverage and so much more.
 
-Get close enough to smell the clients
+So before you even look at the toolkit above of different mediums for change you have to think clearly about whether what you're looking to do cuts with the grain or against the grain of the organization.
 
-Spend time with them. Workshop.
+Going with the grain is fast, easy, seamless and requires moving fast and mostly just making the way forward more clear.
 
-## 5 ways to better understand a client's culture
+Going against the grain is hard, messy, slow and can cause friction.
 
-Get into their slack
-Get on-site
-Listen to the language used
-Assume everything is deliberate
- (e.g. failing to hire a CMO, designing the site)
- Time
+So how do we understand which way the grain goes? How do you understand culture as a consultant?
 
+## 4 ways to better understand a client's culture
 
-## Consulting Fast & Slow
+Sometimes I wish I could be a organizational anthropologist for a living. The undocumented every day lives of workers within systems (and how technology plays a role) is fascinating and nuanced. There's no real blueprint to follow here. But here are some of the ways that I've found helpful to quickly get to the heart of what an organizations culture *is*:
+
+- **Get close enough to smell the client** - by this I mean you should be meeting with them face to face wherever possible. Sit in meetings, run workshops, sit next to them while they work, overhear them on phone calls, go for lunch with them. And the digital equivalent is just as important - don't settle for the sanitized presentations and polished documents they send to you - get invited to their slack, get access to their internal wiki, get inside their basecamp, get under the skin and into the spaces between the work. This helps you listen and understand what's really going on but it also allows you to observe the small things - what kinds of wins do they celebrate? Do they work cross-functionally? Are there obvious tensions between groups or people?
+- **Listen to the language** - language and culture and inextricably linked so one of the best ways to understand culture if you can listen to enough chatter you can pick up on repeated phrases, repeated company myths, often cited documents or projects. Listen for patterns and repetition to really get a feel for the markers by which people are judging and aligning their work.
+- **Take them seriously** - this is a tricky one and requires careful listening. When you're in a meeting (usually with execs) you'll hear them explain a project in often outrageous ways, e.g. "I want a website where there's just an auto playing video!! I mean, not quite like that obviously but you hear what I'm saying?". It's easy to dismiss this as aggressive or sensational language from someone passionate about the business. But listen carefully and don't dismiss their ideas immediately, there's a lot more truth in their request than you might assume and it'll tell you more about how they think about their business than almsot anything else.
+- **Assume everything is deliberate** - Don't assume malice, but assume that everything is as it is because someone wanted it that way. Because mostly that's how it happens. For example - a client might sound receptive to the idea of a new design for the website but remember that their current design was chosen and deliberate. They might tell you that "it's jut not been a priority but we do want to do it!" but what that really means is that they have intentionally deprioritized it until now. Why? What *have* they been prioritizing? That will shed light on their culture and how they think about their business. Actions speak louder than words.
+
+## Consulting Fast & Slow 
+
+Ok - so now we're starting to understand the culture of the environment around us do we only go with the grain? Do we abandon projects that run against the grain?
+
+Here's how I think about it - you can (and should) go against the grain of the organization. That's where the big important work is done. You just have to think about it differently.
+
+I call this consulting fast and slow (inspired by the book *thinking fast and slow*). Fast consulting is the aforementioned projects, ideas and change that runs with the grain.
+
+Slow consulting is the work that runs against the grain, and I think about it a lot like running a campaign. You have to gather buy in from a lot of people 
+
+Going against hte grain is slow.
 
 Campaign for change. Grassroots change.
 
@@ -98,11 +110,7 @@ But what does **easy to circulate** mean for you? Mostly I encourage people to t
 
 Blogging (https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
-## The Crux: Companies have a grain.
 
-Cutting against the grain is hard and messy. There's too much friction.
-
-Instead you're more effective cutting with the grain.
 
 ## The Consultant Has Bias Too
 
