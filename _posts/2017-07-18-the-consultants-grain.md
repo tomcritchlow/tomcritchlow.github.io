@@ -22,13 +22,13 @@ So as you think about putting together a strategy and a set of recommendations f
 
 **Going with the grain is fast, easy, seamless and requires moving fast and mostly just making the way forward more clear.**
 
-*Example: I recall when I was working with [Fundera](https://www.fundera.com) a few years back and was helping them think through some content strategy. I pitched them on several concepts and themes to help elevate their content above just SEO-driven headlines. As an organization they were already primed to increase content quality and the founder Jared understood the value of content deeply so we almost instantly went from concept to details. This is a clear sign that you're going with the grain - when you instantly get into logistics and execution. Fun fact, their series the "[economics of...](https://www.fundera.com/blog/being-an-airbnb-host)" is still running today!*
+*Example: I recall when I was working with [Fundera](https://www.fundera.com) a few years back and was helping them think through some content strategy. I pitched them on several concepts and themes to help elevate their content above just SEO-driven headlines. As an organization they were already primed to increase content quality and the founder Jared understood the value of content deeply so we almost instantly went from concept to details. This is a clear sign that you're going with the grain - when you instantly get into logistics and execution. Fun fact, their series "[the economics of...](https://www.fundera.com/blog/being-an-airbnb-host)" that I recommended is still running today!*
 
 **Going against the grain is hard, messy, slow and can cause friction.**
 
 *Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
 
-*Example: last year I was working with an enterprise B2B organization that was the leader in their space but losing market share. Their biggest competitor had a better UX and design than they did. While they could agree about this simple fact, investing in change because of it was a different matter. We disagreed on the importance of the issue and convincing them to take action took a long time and repeated highlighting of the issue and surfacing specific instances of side by side comparison. Ultimately it was a user survey that quantified the gap in UX and allowed us to present to the senior leadership on the urgency of the issue to drive change.*
+*Example: last year I was working with an enterprise B2B organization that was the leader in their space but losing market share. Their biggest competitor had a better UX and design than they did. While they could agree about this simple fact, investing in change because of it was a different matter. We disagreed on the importance of the issue and convincing them to take action took a long time and repeated highlighting of the issue and surfacing specific instances of side by side comparison. Ultimately it was a user survey that quantified the gap in UX and allowed us to present to the senior leadership on the urgency of the issue that drove change.*
 
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
@@ -47,7 +47,7 @@ You can (and should) go against the grain of the organization. That's where the 
 
 Fast consulting is the aforementioned projects, ideas and change that runs with the grain where your goal is to clarify, articulate and execute.
 
-Slow consulting is the work that runs against the grain. I think about it a lot like running a campaign; you have to change mental models and belief systems at scale.
+**Slow consulting is the work that runs against the grain. I think about it a lot like running a campaign; you have to change mental models and belief systems at scale.**
 
 Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip of belief change for key execs to get them to change their mind. Either way, the key in my mind is to think about the change beyond the individual documents or plans and instead work to create a series of things that build an ever-increasing momentum for the direction you want to take.
 
