@@ -4,9 +4,15 @@ title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 ---
 
-As a consultant you're not in the business of recommendations. You're in the business of change. And while producing recommendations might feel like a straight forward process, getting to actual change requires a complex path through many layers of the business and ultimately must come up against the strongest force of all within an organization: culture.
+You might think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
 
-Clients hire you to help change their company so you might think they're primed for change but the problem is just under the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
+The change rarely happens like you recommended.
+
+Why is that? Well, we think consulting is:
+
+analysis -> insight -> recommendation -> review -> implementation
+
+At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
 In summary - the key to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize which recommendations go "with the grain" of the organization and which go "against the grain". Going against the grain is a long slow process and requires changing people's beliefs at scale.
 
@@ -28,8 +34,6 @@ So as you think about putting together a strategy and a set of recommendations f
 
 *Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
 
-*Example: last year I was working with an enterprise B2B organization that was the leader in their space but losing market share. Their biggest competitor had a better UX and design than they did. While they could agree about this simple fact, investing in change because of it was a different matter. We disagreed on the importance of the issue and convincing them to take action took a long time and repeated highlighting of the issue and surfacing specific instances of side by side comparison. Ultimately it was a user survey that quantified the gap in UX and allowed us to present to the senior leadership on the urgency of the issue that drove change.*
-
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
 ## 4 ways to better understand a client's culture
@@ -38,12 +42,12 @@ Sometimes I wish I could be an organizational anthropologist for a living. The u
 
 - **Get close enough to smell the client** - by this I mean you should be meeting with them face to face wherever possible. Sit in meetings, run workshops, sit next to them while they work, overhear them on phone calls, go for lunch with them. And the digital equivalent is just as important - don't settle for the sanitized presentations and polished documents they send to you - get invited to their slack, get access to their internal wiki, get inside their basecamp, get under the skin and into the spaces between the work. This helps you listen and understand what's really going on but it also allows you to observe the small things - what kinds of wins do they celebrate? Do they work cross-functionally? Are there obvious tensions between groups or people?
 - **Listen to the language** - language and culture are inextricably linked so one of the best ways to understand culture if you can listen to enough chatter you can pick up on repeated phrases, repeated company myths, often cited documents or projects. Listen for patterns and repetition to really get a feel for the markers by which people are judging and aligning their work.
-- **Note the extreme** - this is a tricky one and requires careful listening. I've found that when dealing with execs and founders of companies they will often use extreme examples as a way to illustrate or emphasize their point. I used to think that these extremes were deliberately used to get the change they want faster. Increasingly, however, I'm beginning to realize that these extremes are often much closer to their mental models than they might like to admit. Pay attention and work hard to synthesize why they're using this extreme example (that sounds crazy!) and how you might actually bring it to life or implement it, there's more truth here than they'll admit.
+- **Note the extreme** - this is a tricky one and requires careful listening. I've found that when dealing with execs and founders of companies, they will often use extreme examples as a way to illustrate or emphasize their point. I used to think that these extremes were deliberately used to get the change they want faster. Increasingly, however, I'm beginning to realize that these extremes are often much closer to their mental models than they might like to admit. Pay attention and work hard to synthesize why they're using this extreme example (that sounds crazy!) and how you might actually bring it to life or implement it, there's more truth here than they'll admit.
 - **Assume everything is deliberate** - Don't assume malice, but assume that everything is as it is because someone wanted it that way. Because mostly that's how it happens. For example - a client wanting to hire their first VP marketing might be making a good decision but remember they got this far without a VP marketing! A series of deliberate actions led them here. If they've deprioritized something until now, ask why. What *have* they been prioritizing? That will shed light on their culture and how they think about their business. Actions speak louder than words.
 
 ## Consulting Fast & Slow 
 
-You can (and should) go against the grain of the organization. That's where the big important work is done. I think about is as consulting fast and slow (inspired by the book *[thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)*).
+You can (and should) go against the grain of the organization. That's where the big important work is done. I think about it as consulting fast and slow (inspired by the book *[thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)*).
 
 Fast consulting is the aforementioned projects, ideas and change that runs with the grain where your goal is to clarify, articulate and execute.
 
