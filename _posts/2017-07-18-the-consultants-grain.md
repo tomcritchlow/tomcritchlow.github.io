@@ -4,7 +4,7 @@ title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 ---
 
-You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
+You might think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
 
 The change rarely happens like you recommended.
 
@@ -32,7 +32,9 @@ So as you think about putting together a strategy and a set of recommendations f
 
 **Going against the grain is hard, messy, slow and can cause friction.**
 
-*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enabling marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
+*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
+
+*Example: last year I was working with an enterprise B2B organization that was the leader in their space but losing market share. Their biggest competitor had a better UX and design than they did. While they could agree about this simple fact, investing in change because of it was a different matter. We disagreed on the importance of the issue and convincing them to take action took a long time and repeated highlighting of the issue and surfacing specific instances of side by side comparison. Ultimately it was a user survey that quantified the gap in UX and allowed us to present to the senior leadership on the urgency of the issue to drive change.*
 
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
