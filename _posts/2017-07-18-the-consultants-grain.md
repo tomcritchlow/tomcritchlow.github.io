@@ -4,17 +4,11 @@ title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 ---
 
-You might think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
+As a consultant you're not in the business of recommendations. You're in the business of change. And while producing recommendations might feel like a straight forward process, getting to actual change requires a complex path through many layers of the business and ultimately must come up against the strongest force of all within an organization: culture.
 
-The change rarely happens like you recommended.
+Clients hire you to help change their company so you might think they're primed for change but the problem is just under the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
-Why is that? Well, we think consulting is:
-
-*analysis -> insight -> recommendation -> review -> implementation*
-
-At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
-
-In summary - the key to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize that you can certainly have small wins but change "against the grain" of the culture takes a long time and requires changing people's beliefs at scale.
+In summary - the key to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize which recommendations go "with the grain" of the organization and which go "against the grain". Going against the grain is a long slow process of and requires changing people's beliefs at scale.
 
 ## Every company has a grain
 
