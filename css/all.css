@@ -123,8 +123,11 @@ padding-top: 30px;
     background-color: #f3f3f3;
 }
 
+.footnotes{
+    color:grey;
+    font-size:12px;
+}
+
 footer{
     min-height:300px;
 }
-
-/* consultant's grain style */
