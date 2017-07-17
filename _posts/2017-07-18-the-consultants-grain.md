@@ -22,7 +22,7 @@ When you're hired to do a job you have to understand the central question:
 
 **Why have they been unable to make this change on their own?**
 
-Every company has a deep rooted culture. Some talk about it explicitly, some paint it on their walls, some just breathe it every day. But every company has a culture. And that culture comes from the people - the messy organic interactions between founders, executives, workers, passionate employees, internal writing, internal talks, external press coverage and so much more.
+Every company has a deep rooted culture. Some talk about it explicitly, some paint it on their walls, some just breathe it everyday. But every company has a culture. And that culture comes from the people - the messy organic interactions between founders, executives, workers, passionate employees, internal writing, internal talks, external press coverage and so much more.
 
 So as you think about putting together a strategy and a set of recommendations for a client you have to think clearly about whether what you're looking to do cuts with the grain or against the grain of the organization.
 
@@ -38,7 +38,7 @@ But how do we understand which way the grain goes? How do you understand culture
 
 ## 4 ways to better understand a client's culture
 
-Sometimes I wish I could be an organizational anthropologist for a living. The undocumented every day lives of workers within systems (and how technology plays a role) is fascinating and nuanced. There's no real blueprint to follow here. But here are some of the ways that I've found helpful to quickly get to the heart of what an organization's culture *is*:
+Sometimes I wish I could be an organizational anthropologist for a living. The undocumented everyday lives of workers within systems (and how technology plays a role) is fascinating and nuanced. There's no real blueprint to follow here. But here are some of the ways that I've found helpful to quickly get to the heart of what an organization's culture *is*:
 
 - **Get close enough to smell the client** - by this I mean you should be meeting with them face to face wherever possible. Sit in meetings, run workshops, sit next to them while they work, overhear them on phone calls, go for lunch with them. And the digital equivalent is just as important - don't settle for the sanitized presentations and polished documents they send to you - get invited to their slack, get access to their internal wiki, get inside their basecamp, get under the skin and into the spaces between the work. This helps you listen and understand what's really going on but it also allows you to observe the small things - what kinds of wins do they celebrate? Do they work cross-functionally? Are there obvious tensions between groups or people?
 - **Listen to the language** - language and culture are inextricably linked so one of the best ways to understand culture if you can listen to enough chatter you can pick up on repeated phrases, repeated company myths, often cited documents or projects. Listen for patterns and repetition to really get a feel for the markers by which people are judging and aligning their work.
@@ -75,13 +75,15 @@ When I was at Google (pre-slack!) we used Google+ internally as an internal soci
 
 Ah. There's one more piece to this puzzle. I've talked a lot about the organization's grain. This was a concept I really fully realized and started to deliberately address about a year and a half ago. But only more recently have I stumbled across the uncomfortable though obvious follow up: the consultant has a grain too.
 
-Let's reframe that positioning of why consulting is hard - **you're hired to change their company in a way they've so far been unable to change and you will attempt to do this in ways you're comfortable with**.
+Let's reframe that positioning of why consulting is hard - you're hired to change their company in a way they've so far been unable to change **and you will attempt to do this in ways you're comfortable with**.
 
-It's important to realize that businesses come in so many more shapes and sizes than you read about in the tech press. And you'll have some preconvieved notions of how a business should operate, some of which may or may not work or be appropriate for that client.
+It's important to realize that businesses come in so many more shapes and sizes than you read about in the tech press. And you'll have some preconceived notions of how a business should operate, some of which may or may not work or be appropriate for a given client.
 
 In short - while you can work against the grain within an organization up to a point, there is definitely a limit to the amount of friction you can generate. Too much friction and things will get set on fire. Projects, teams, people, ideas, budgets.
 
-So when you're considering change within an organization you have to understand your own bias and take a long hard look at which of your usual ideas and often-repeated mantras **actually** apply to this client, and which are pushing too far against the grain. And, importantly, which of your go-to ideas are explicitly **with** the grain of the organization. Because without some kind of forward motion you're not going to be able to stick around long enough to get the bigger change done.
+So when you're considering change within an organization you have to understand your own bias and take a long hard look at which of your usual ideas and often-repeated mantras **actually** apply to this client, and which are pushing too far against the grain. And, importantly, which of your go-to ideas are explicitly **with** the grain of the organization.
+
+Because without some kind of forward motion you're not going to be able to stick around long enough to get the bigger change done.
 
 ## Further reading on consulting
 
