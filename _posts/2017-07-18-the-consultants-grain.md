@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The Consultant's Grain
-subtitle: (Their) Culture eats (your) strategy for breakfast. Some thoughts on adapting to an organization's culture
+subtitle: Why (their) culture eats (your) strategy for breakfast
 ---
 
 You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
@@ -28,11 +28,11 @@ So as you think about putting together a strategy and a set of recommendations f
 
 **Going with the grain is fast, easy, seamless and requires moving fast and mostly just making the way forward more clear.**
 
-*Example: I was working*
+*Example: I recall when I was working with [Fundera](https://www.fundera.com) a few years back and was helping them think through some content strategy. I pitched them on several concepts and themes to help elevate their content above just SEO-driven headlines. As an organization they were already primed to increase content quality and the founder Jared understood the value of content deeply so we almost instantly went from concept to details. This is a clear sign that you're going with the grain - when you instantly get into logistics and execution. Fun fact, their series the "[economics of...](https://www.fundera.com/blog/being-an-airbnb-host)" is still running today!*
 
 **Going against the grain is hard, messy, slow and can cause friction.**
 
-*Example: convincing a company to invest in design and front-end support for their site.*
+*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enabling marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
 
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
@@ -47,29 +47,28 @@ Sometimes I wish I could be an organizational anthropologist for a living. The u
 
 ## Consulting Fast & Slow 
 
-Ok - so now we're starting to understand the culture of the environment around us do we only go with the grain? Do we abandon projects that run against the grain?
+You can (and should) go against the grain of the organization. That's where the big important work is done. I think about is as consulting fast and slow (inspired by the book *[thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)*).
 
-Here's how I think about it - you can (and should) go against the grain of the organization. That's where the big important work is done. You just have to think about it differently.
+Fast consulting is the aforementioned projects, ideas and change that runs with the grain where your goal is to clarify, articulate and execute.
 
-I call this consulting fast and slow (inspired by the book *[thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)*). Fast consulting is the aforementioned projects, ideas and change that runs with the grain.
+Slow consulting is the work that runs against the grain. I think about it a lot like running a campaign; you have to change mental models and belief systems at scale.
 
-Slow consulting is the work that runs against the grain, and I think about it a lot like running a campaign. You have to gather buy in from a lot of people and essentially campaign for change. Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip of belief change for key execs to get them to change their mind.
+Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip of belief change for key execs to get them to change their mind. Either way, the key in my mind is to think about the change beyond the individual documents or plans and instead work to create a series of things that build an ever-increasing momentum for the direction you want to take.
 
-Either way the key is to run a campaign.
+Some ways you might campaign for change within an organization:
+- **Send out a weekly message**. A weekly email/slack/basecamp message highlighting evidence, anecdotes, case studies and more that supports your case can help change minds over long periods of time. Everyone appreciates being informed of industry trends and people love reading this kind of information (surprisingly there's often a lack of good industry trend reading within companies).
+- **Bring the outside in**. Changing mental models and beliefs requires more than just telling someone. It requires showing them. Bringing the voice of the user/customer into the organization is powerful to reinforce a particular message. This can be done with focus groups or surveys but also just by surfacing and highlighting conversations on the web (i.e. twitter, quora, reddit etc).
+- **Speak for the employees** In the case where the culture you're trying to change starts at the top of the organization you are in a unique position as a consultant to identify key frustrations within the company and bring them to the attention of the execs in a way that they might actually listen.
+- **Create language** Remember how language shapes culture? Well you can inject a little of your own culture by repeatedly using language, referencing examples and showcasing the direction you want to go in. This is especially true if you're embedded within the organization and in their slack channels or working out of their office.
 
-How might we do this? The key in my mind is to think about the change beyond the individual documents or business case and instead work to create a series of things that build an ever-increasing momentum for the direction you want to take.
 
-This could be collecting examples of what you are saying and sending them periodically across to your client or circulating in their slack. Remember how language shapes culture? Well you can inject a little of your own culture by repeatedly using language, referencing examples and showcasing the direction you want to go in.
+In addition to the above though, one way I want to highlight that is powerful for slow change against the grain is to **blog internally**. Yes, yes, yes I know I harp on a lot about this blogging thing but seriously, blogging (i.e. serialized, shareable content) is highly effective at helping people to see things from your point of view and getting buy in.
 
-The more focused approach is to blog. Yes, yes, yes I know I harp on a lot about this blogging thing but seriously, blogging (i.e. serialized, shareable content) is highly effective at helping people to see things from your point of view and getting buy in and driving slow behavior change.
-
-The key to internal company blogging is serialized, shareable content authored under your own name:
+The key to internal company blogging is serialized, shareable content:
  - **Serialized** - means you don't have to create the magnum opus or manifesto overnight. Publish your thinking, publish your half-thoughts, publish your experiments, publish your examples elsewhere on the web. The point here is to create that drip drip drip so keep publishing.
  - **Shareable** - this is often the hardest piece to do well within an organization. Don't let your campaign for change get trapped within an email thread or lost in the slack stream, give it a permanent home, ideally a URL (shocking I know!). How you do this will depend a lot on what your tech stack looks like. When I was working at Google you could spin up a strictly internal appengine instance so I used it to build my own blog where I had my own URL and I could publish content. It helps when you do this to use a format that's not commonly used internally. Standing out helps any campaign gain mindshare.
 
 If you only focus on one thing here though - focus on the idea that it has to be shareable and **easy to circulate** that could simply be with a google doc that has a big written "please distribute freely" label on it and access open to all within the company.
-
-I've tried this a few times with Slack Notes which are in my experience a rarely used feature within Slack but could evolve into the perfect "memo-writing" platform for slow consulting.
 
 When I was at Google (pre-slack!) we used Google+ internally as an internal social network experience and that was effective at bubbling up disparate voices who were "blogging" internally. This was a great piece that made it outside the walls: [Steve Yegge's platform rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX).
 
@@ -103,4 +102,4 @@ Hopefully this piece is relevant both for external consultants and for internal 
 
 [Venkatesh Rao on Q lab](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73) - Venkatesh's new **slack only!** consulting project. Given my advocacy to getting into clients slack groups you can why this resonated with me.
 
-[The Fieldguide to Independent Consulting](http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak on of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
+[The Fieldguide to Independent Consulting](http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak one of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
