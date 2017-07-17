@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The Consultant's Grain
-subtitle: (Their) Culture eats (your) strategy for breakfast. Some thoughts on understanding the culture of your clients.
+subtitle: (Their) Culture eats (your) strategy for breakfast. Some thoughts on adapting to an organization's culture
 ---
 
 You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
