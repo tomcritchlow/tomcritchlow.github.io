@@ -8,7 +8,7 @@ As a consultant you're not in the business of recommendations. You're in the bus
 
 Clients hire you to help change their company so you might think they're primed for change but the problem is just under the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
-In summary - the key to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize which recommendations go "with the grain" of the organization and which go "against the grain". Going against the grain is a long slow process of and requires changing people's beliefs at scale.
+In summary - the key to effective consulting is to first understand the culture within the organization that resisted this change. And then recognize which recommendations go "with the grain" of the organization and which go "against the grain". Going against the grain is a long slow process and requires changing people's beliefs at scale.
 
 ## Every company has a grain
 
