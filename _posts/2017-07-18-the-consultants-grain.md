@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The Consultant's Grain
-subtitle: Culture eats strategy for breakfast. So what does effective strategy look like within an organizations culture? In short it starts with recognizing which recommendations go against the grain.
+subtitle: (Their) Culture eats (your) strategy for breakfast. Some thoughts on understanding the culture of your clients.
 ---
 
 You would think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...
