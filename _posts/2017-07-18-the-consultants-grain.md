@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: The Consultant's Grain
 subtitle: Culture eats strategy for breakfast. So what does effective strategy look like within an organizations culture? In short it starts with recognizing which recommendations go against the grain.
 ---
