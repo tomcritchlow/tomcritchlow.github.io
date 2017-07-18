@@ -23,6 +23,10 @@ subtitle: What I'm reading
 function showInfo(data, tabletop) {
     alert('Successfully processed!')
     console.log(data);
+    for (i=0, i < data.length, i++){
+      alert(data[i].link);
+      alert(data[i].comment);
+    };
   }
 </script>
 
