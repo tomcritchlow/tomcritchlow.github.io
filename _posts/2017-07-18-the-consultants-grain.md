@@ -10,7 +10,7 @@ The change rarely happens like you recommended.
 
 Why is that? Well, we think consulting is:
 
-analysis -> insight -> recommendation -> review -> implementation
+*analysis -> insight -> recommendation -> review -> implementation*
 
 At best this is too simple, at worst it's flat out wrong. The problem is just below the surface - you're hired to change their company **in a way they've so far been unable to change**. That simple addition starts to help us understand the complexity and challenges of "consulting" or "strategy".
 
@@ -32,7 +32,7 @@ So as you think about putting together a strategy and a set of recommendations f
 
 **Going against the grain is hard, messy, slow and can cause friction.**
 
-*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and increasingly it was obvious that what was needed was more than simply hiring a new VP of marketing.*
+*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and it was increasingly obvious that what was needed was more than simply hiring a new VP of marketing.*
 
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
@@ -53,7 +53,7 @@ Fast consulting is the aforementioned projects, ideas and change that runs with 
 
 **Slow consulting is the work that runs against the grain. I think about it a lot like running a campaign; you have to change mental models and belief systems at scale.**
 
-Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip of belief change for key execs to get them to change their mind. Either way, the key in my mind is to think about the change beyond the individual documents or plans and instead work to create a series of things that build an ever-increasing momentum for the direction you want to take.
+Sometimes you need to start grassroots and build momentum from an ever increasing number of people, sometimes it's a focused drip drip for key execs to get them to change their mind. Either way, the key in my mind is to build an ever-increasing momentum for the direction you want to take.
 
 Some ways you might campaign for change within an organization:
 - **Send out a weekly message** - A weekly email/slack/basecamp message highlighting evidence, anecdotes, case studies and more that supports your case can help change minds over long periods of time. Everyone appreciates being informed of industry trends and people love reading this kind of information (surprisingly there's often a lack of good industry trend reading within companies).
@@ -61,19 +61,17 @@ Some ways you might campaign for change within an organization:
 - **Speak for the employees** - In the case where the culture you're trying to change starts at the top of the organization you are in a unique position as a consultant to identify key frustrations within the company and bring them to the attention of the execs in a way that they might actually listen.
 - **Create language** - Remember how language shapes culture? Well you can inject a little of your own culture by repeatedly using language, referencing examples and showcasing the direction you want to go in. This is especially true if you're embedded within the organization and in their slack channels or working out of their office.
 
-In addition to the above though, one way I want to highlight that is powerful for slow change against the grain is to **blog internally**. Yes, yes, yes I know I harp on a lot about this blogging thing but seriously, blogging (i.e. serialized, shareable content) is a highly effective tool for campaigning for change and helping people to see things from your point of view.
-
-The key to internal company blogging is serialized, shareable content:
+In addition, there's a secret weapon I don't see talked about much: **internal blogging**. Yes, I harp on a lot about blogging but seriously, serialized, shareable content is a highly effective tool for campaigning for change and helping people to see things from your point of view:
  - **Serialized** - means you don't have to create the magnum opus or manifesto overnight. Publish your thinking, publish your half-thoughts, publish your experiments, publish your links to interesting reading. The point here is to create a drip drip drip of ideas. So publish.
- - **Shareable** - this is often the hardest piece to do well within an organization. Don't let your campaign for change get trapped within an email thread or lost in the slack stream, give it a permanent home, ideally a URL (shocking I know!). How you do this will depend a lot on what your tech stack looks like. When I was working at Google you could spin up a strictly internal appengine instance so I used it to build my own blog where I had my own URL and I could publish content. It helps when you do this to use a format that's not commonly used internally. Standing out helps any campaign gain mindshare.
+ - **Shareable** - this is often the hardest piece to do well within an organization. Don't let your campaign for change get trapped within an email thread or lost in the slack stream, give it a permanent home, ideally a URL (shocking I know!). How you do this will depend a lot on what your tech stack looks like. When I was working at Google you could spin up a strictly internal App Engine instance so I used it to build my own blog where I had my own URL and I could publish content. It helps when you do this to use a format that's not commonly used internally. Standing out helps any idea gain mindshare.
 
-If you only focus on one thing here though - focus on the idea that it has to be shareable and **easy to circulate** that could simply be with a google doc that has a big written "please distribute freely" label on it and access open to all within the company.
+If you only focus on one thing here though - hone in on the idea that it has to be shareable and **easy to circulate**. That could simply be with a google doc that has a big written "please distribute freely" label on it and access open to all within the company.
 
-When I was at Google (pre-slack!) we used Google+ internally as an internal social network experience and that was effective at bubbling up disparate voices who were "blogging" internally. This was a great piece that made it outside the walls: [Steve Yegge's platform rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX).
+When I was at Google (pre-slack!) we used Google+ as an internal social network experience and that was effective at bubbling up disparate voices who were "blogging" internally. As an example of what this looked like this was a great piece that made it outside the walls: [Steve Yegge's platform rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX).
 
 ## The Consultant's Grain
 
-Ah. There's one more piece to this puzzle. I've talked a lot about the organization's grain. This was a concept I really fully realized and started to deliberately address about a year and a half ago. But only more recently have I stumbled across the uncomfortable though obvious follow up: the consultant has a grain too.
+Ah. There's one more piece to this puzzle. I've talked a lot about the organization's grain. This was a concept I fully realized and started to deliberately address about a year and a half ago. But only more recently have I stumbled across the uncomfortable though obvious follow up: the consultant has a grain too.
 
 Let's reframe that positioning of why consulting is hard - you're hired to change their company in a way they've so far been unable to change **and you will attempt to do this in ways you're comfortable with**.
 
