@@ -9,7 +9,7 @@ subtitle: What I'm reading
 <script type="text/javascript">
   window.onload = function() { init() };
 
-  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3RhYdUwnFzRiIXxmVFG7cGX8b-QetzBwcN2kZCZAoA1WojmkTqXEJI4jyY5oUJf1Tw-zGaDkeJdCB/pubhtml';
+  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1GKK4XMQrI_rKOAITexedpzojpHNp8xkIwOAp0ygbZ7Q/edit?usp=sharing';
 
   function init() {
     Tabletop.init( { key: public_spreadsheet_url,
