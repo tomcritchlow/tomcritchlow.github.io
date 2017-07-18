@@ -21,13 +21,14 @@ subtitle: What I'm reading
   }
     
 function showInfo(data, tabletop) {
-    alert('Successfully processed!')
+    $(".links").append("loading complete");
     console.log(data);
     for(i=0; i < data.length; i++){
-      alert(data[i].link);
-      alert(data[i].comment);
+      $(".links").append(data[i].link + " - " + data[i].comment);
     };
   }
 </script>
 
-Hello world.
+Things I'm reading:
+
+<div id="links"></div>
