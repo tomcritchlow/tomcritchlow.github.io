@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Links
-subtitle: What I'm reading
+title: reading...
 ---
 
 <script type="text/javascript" src="/js/tabletop.js"></script>
