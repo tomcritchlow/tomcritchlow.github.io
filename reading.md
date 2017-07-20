@@ -10,6 +10,8 @@ title: reading...
 
   var public_spreadsheet_url = '1GKK4XMQrI_rKOAITexedpzojpHNp8xkIwOAp0ygbZ7Q';
 
+  var monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+
   function init() {
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
@@ -24,7 +26,9 @@ function showInfo(data, tabletop) {
     console.log(data);
     var datearray = [];
     for(i=0; i < data.length; i++){
-      $("#links").append("<h2>"+Date(data[i].date).getMonth()+"</h2>");
+      var date = new Date(data[i].date);
+      var month = date.getMonth() + 1;
+      $("#links").append("<h2>"monthNames[month]"</h2>");
       $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
   }
