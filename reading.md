@@ -26,12 +26,18 @@ function showInfo(data, tabletop) {
     console.log(data);
     var datearray = [];
     var month = 42;
+    var year = "2017";
     for(i=0; i < data.length; i++){
       var linkdate = new Date(data[i].date);
       var linkmonth = linkdate.getMonth();
+      var linkyear = linkdate.getYear();
+      if (linkyear != month){
+        $("#links").append("<h2>"+linkyear+"</h2>");
+        var year = linkyear;
+      };
       if (linkmonth != month){
-      $("#links").append("<h2>"+monthNames[linkmonth]+"</h2>");
-      var month = linkmonth;
+        $("#links").append("<h2>"+monthNames[linkmonth]+"</h2>");
+        var month = linkmonth;
       };
       $("#links").append("<p><a href='"+data[i].link + "'>" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
