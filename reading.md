@@ -30,7 +30,8 @@ function showInfo(data, tabletop) {
       var date = new Date(data[i].date);
       var linkmonth = date.getMonth();
       if (linkmonth = month){
-      $("#links").append("<h2>"+monthNames[month]+"</h2>");
+      $("#links").append("<h2>"+monthNames[linkmonth]+"</h2>");
+      var month = linkmonth;
       };
       $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
