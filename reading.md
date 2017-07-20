@@ -33,7 +33,7 @@ function showInfo(data, tabletop) {
       $("#links").append("<h2>"+monthNames[linkmonth]+"</h2>");
       var month = linkmonth;
       };
-      $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
+      $("#links").append("<p><a href='"+data[i].link + "'>" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
   }
 </script>
