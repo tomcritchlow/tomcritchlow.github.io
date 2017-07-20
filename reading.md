@@ -25,10 +25,13 @@ function showInfo(data, tabletop) {
     $("#loading").toggle();
     console.log(data);
     var datearray = [];
+    var month = 42;
     for(i=0; i < data.length; i++){
       var date = new Date(data[i].date);
-      var month = date.getMonth() + 1;
+      var linkmonth = date.getMonth();
+      if (linkmonth = month){
       $("#links").append("<h2>"+monthNames[month]+"</h2>");
+      };
       $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
   }
