@@ -28,7 +28,7 @@ function showInfo(data, tabletop) {
     for(i=0; i < data.length; i++){
       var date = new Date(data[i].date);
       var month = date.getMonth() + 1;
-      $("#links").append("<h2>"monthNames[month]"</h2>");
+      $("#links").append("<h2>"+monthNames[month]+"</h2>");
       $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
     };
   }
