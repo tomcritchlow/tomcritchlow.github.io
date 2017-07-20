@@ -26,7 +26,7 @@ function showInfo(data, tabletop) {
     console.log(data);
     var datearray = [];
     var month = 42;
-    var year = "2017";
+    var year = 2017;
     for(i=0; i < data.length; i++){
       var linkdate = new Date(data[i].date);
       var linkmonth = linkdate.getMonth();
