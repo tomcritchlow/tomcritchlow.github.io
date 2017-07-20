@@ -20,14 +20,16 @@ title: reading...
   }
     
 function showInfo(data, tabletop) {
-    $("#links").append("loading complete");
+    $("#loading").toggle();
     console.log(data);
     for(i=0; i < data.length; i++){
-      $("#links").append(data[i].link + " - " + data[i].comment);
+      $("#links").append("<span><a href='"+data[i].link + "' />" + data[i].link + " - " + data[i].comment + "</span>");
     };
   }
 </script>
 
 Things I'm reading:
+
+<span id="loading">Loading... (patience please, fetching from a Google Doc as CMS....)</span>
 
 <div id="links"></div>
