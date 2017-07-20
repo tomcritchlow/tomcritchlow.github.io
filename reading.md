@@ -23,7 +23,7 @@ function showInfo(data, tabletop) {
     $("#loading").toggle();
     console.log(data);
     for(i=0; i < data.length; i++){
-      $("#links").append("<span><a href='"+data[i].link + "' />" + data[i].link + " - " + data[i].comment + "</span>");
+      $("#links").append("<div><a href='"+data[i].link + "' />" + data[i].link + " - " + data[i].comment + "</div>");
     };
   }
 </script>
