@@ -30,7 +30,7 @@ function showInfo(data, tabletop) {
     for(i=0; i < data.length; i++){
       var linkdate = new Date(data[i].date);
       var linkmonth = linkdate.getMonth();
-      var linkyear = linkdate.getYear();
+      var linkyear = linkdate.getFullYear();
       if (linkyear != month){
         $("#links").append("<h2>"+linkyear+"</h2>");
         var year = linkyear;
