@@ -23,7 +23,6 @@ function showInfo(data, tabletop) {
     $("#loading").toggle();
     console.log(data);
     var datearray = [];
-    for
     for(i=0; i < data.length; i++){
       $("#links").append("<h2>"+Date(data[i].date).getMonth()+"</h2>");
       $("#links").append("<p><a href='"+data[i].link + "' />" + data[i].link + "</a> - " + data[i].comment + "</p>");
