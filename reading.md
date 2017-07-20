@@ -27,8 +27,8 @@ function showInfo(data, tabletop) {
     var datearray = [];
     var month = 42;
     for(i=0; i < data.length; i++){
-      var date = new Date(data[i].date);
-      var linkmonth = date.getMonth();
+      var linkdate = new Date(data[i].date);
+      var linkmonth = linkdate.getMonth();
       if (linkmonth != month){
       $("#links").append("<h2>"+monthNames[linkmonth]+"</h2>");
       var month = linkmonth;
