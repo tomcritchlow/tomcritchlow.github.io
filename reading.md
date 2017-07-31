@@ -44,8 +44,6 @@ function showInfo(data, tabletop) {
   }
 </script>
 
-Things I'm reading:
-
 <span id="loading">Loading... (patience please, fetching from a Google Doc as CMS....)</span>
 
 <div id="links"></div>

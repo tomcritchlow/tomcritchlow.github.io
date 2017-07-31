@@ -36,3 +36,5 @@ What is your experience with the brand of content? Any good examples to share? W
 --
 
 *Update* - my friend [Elan](https://twitter.com/elan_miller) from design strategy firm [Midnight](https://gomidnight.com/) had a great quote "every page is the about page when users discover your content from search" which I think is a great way of putting it. Don't underestimate the number of people who land on your content and have either no knowledge of your brand or a very limited understanding of it.
+
+*Update 2* - Sean Blanda just posted a great thread on content + brand. [Good food for thought](https://twitter.com/SeanBlanda/status/892062585461321728).
