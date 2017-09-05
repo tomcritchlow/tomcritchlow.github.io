@@ -10,4 +10,4 @@ Notable conferences:
 - Distilled SearchLove San Diego 2017 (link to slides)
 - 
 
-![](/images/tom_conference.jpg)
+![](/images/tom_conference.JPG)
