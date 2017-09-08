@@ -48,14 +48,14 @@ brand:after{
 
 .tomboxinner{
     position:absolute;
-    width:600px;
-    height:500px;
+    width:450px;
+    height:600px;
     left:-100%;
     top:-50px;
+    z-index:-1;
 }
 .tomboxinner img{
   height:100%;
-  z-index:-1;
 }
 
 .tcsectionheader{
