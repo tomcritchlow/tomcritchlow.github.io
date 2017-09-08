@@ -44,6 +44,7 @@ brand:after{
   position:relative;
   border:4px solid #00ff00;
   height:500px;
+  max-width:800px
 }
 
 .tomboxinner{
