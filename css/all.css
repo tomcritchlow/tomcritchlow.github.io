@@ -46,11 +46,15 @@ brand:after{
   height:500px;
 }
 
-.tombox img{
-  position:absolute;
-  left:-100%;
-  top:-50px;
-  height:600px;
+.tomboxinner{
+    position:absolute;
+    width:600px;
+    height:500px;
+    left:-100%;
+    top:-50px;
+}
+.tomboxinner img{
+  height:100%;
   z-index:-1;
 }
 
