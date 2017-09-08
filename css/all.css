@@ -48,7 +48,7 @@ brand:after{
 
 .tombox img{
   position:absolute;
-  left:-50px;
+  left:-100%;
   top:-50px;
   height:600px;
   z-index:-1;
