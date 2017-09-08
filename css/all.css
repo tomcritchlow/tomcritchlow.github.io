@@ -50,7 +50,7 @@ brand:after{
     position:absolute;
     width:450px;
     height:600px;
-    left:-100%;
+    left:-470px;
     top:-50px;
     z-index:-1;
 }
