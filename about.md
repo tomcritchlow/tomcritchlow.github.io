@@ -35,6 +35,6 @@ I'm always happy to meet interesting people for coffee. Email is here: [tjcritch
 
 Much love.
 
-![Me. Posing instead of rock climbing.](/images/aboutme.JPG)
+![Me. Posing instead of rock climbing.](/images/tomsmallnew.JPG)
 
 
