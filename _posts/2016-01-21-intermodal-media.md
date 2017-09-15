@@ -10,7 +10,7 @@ The shipping container revolutionized global trade and modern capitalism. Why? B
 
 With the advent of Facebook Instant Pages[^1] and Google Accelerated Mobile Pages[^2] we're entering an age of **intermodal media**.
 
-John Herrman writes the best new media cricism anywhere on the web in his series [the content wars](http://www.theawl.com/slug/the-content-wars). In [not an article](http://www.theawl.com/2015/10/not-an-article) he writes:
+John Herrman writes the best new media cricism anywhere on the web in his series [the content wars](https://www.theawl.com/tag/the-content-wars/). In [not an article](https://www.theawl.com/2015/10/the-genuine-article/) he writes:
 
 >"Now that Instant Articles are more fully rolled out, and everyone can see them for themselves, I wonder if their formal dimensions will start to seem odd to people. Or… strained? In the run-up, Facebook explained Instant Articles as a way to solve a particular problem: articles, which came from websites, were widely shared and read but loaded slowly. This was a tech issue, simply solved, with some additional obvious consequences: Facebook assuming control over layout; Facebook either influencing or participating with publishers’ advertising and revenue plans in a direct way"
 
