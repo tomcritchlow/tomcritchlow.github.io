@@ -27,7 +27,7 @@ Just like yours.
 
 This is the brain of a boring person. Weird. Complex. Beautiful. Fragile. Magical. **Just like yours**.
 
-![](/images/neuron.jpg)
+![](/images/neurons.jpg)
 
 [SOURCE](https://www.flickr.com/photos/thelunch_box/2798522576/)
 
