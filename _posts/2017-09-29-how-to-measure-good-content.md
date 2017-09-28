@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: How to measure good content
-subtitle: In search of a framework or process to judge editorial quality
+title: How do you measure good content
+subtitle: In search of a framework or process to judge editorial... quality?
 ---
 
 I'm involved in a few projects right now where the quality of the content is in question. It gets to a very simple question but with a complicated answer:
@@ -82,9 +82,9 @@ In my research, I have a hunch that Google based these questions on elements of 
 
 Both the Panda survey and the SUS survey are useful tools but they're much more useful and relevant for evaluating site design and UX, though they do certainly touch on content.
 
-# But what about how GOOD the content is?
+# Maybe there's a version of the Panda survey for evaluating content interestingness?
 
-What would a version of this look like specifically around judging editorial content? Could we construct an Editorial Value Survey (EVS for short) that looked like the following questions:
+What would a version of the panda survey look like specifically around judging editorial content? Could we construct an Editorial Value Survey (EVS for short) that looked like the following questions:
 
 - Is this site written by experts
 - Did you find value in reading this content?
@@ -95,9 +95,11 @@ What would a version of this look like specifically around judging editorial con
 - Would this piece of content make you want to learn more about who wrote it?
 - Did you 
 
-# Or, perhaps we need a framework internally?
+# Or, perhaps we need more of an internal process or framework?
 
-My solution here doesn't necessarily need to be a user survey. It could just be an internal process of getting a group of employees and/or writers together and creating a scoring methodology for content. You could have everyone rate a given piece of content from 1 to 5 on the following:
+My solution here doesn't necessarily need to be a user survey. It could just be an internal process of getting a group of employees and/or writers together and creating a scoring methodology for content. I had one client who could never define good content, so instead created a benchmark for **good enough** content. By defining the worse possible thing they could still publish it actually gave them a clearer focus for evaluating content.
+
+An internal framework could be a short list of questions to interrogate our content and we can have a small team internally rate content on the scale. This could be questions like:
 
 - Did this content meet the intent of the page?
 - Is this content meaningful to our audience?
