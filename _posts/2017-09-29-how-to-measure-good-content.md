@@ -36,6 +36,12 @@ When I put out a call on Twitter my friend Toby Shorin linked me to this Ribbonf
 
 Hmm. This sounds useful - can we extend this into a measure of interestingness? Perhaps by shining a light on and agreeing upon a definition or outline of the assumption ground?
 
+I think there's a thread to be explored here. My friend Sean Blanda said:
+
+![](/images/seanblandatweet.png)
+
+I like this but it's still a long way from being a real framework or process you can follow with any rigor...
+
 # Surveys & Feedback
 
 One tool in my arsenal that I'm relying on is a variation of the [Google Panda Questionnaire](https://www.distilled.net/blog/seo/replicate-googles-panda-questionnaire-processing/). In short, it's a 10-question survey that you can run on any web-page with real humans to get a measure of "quality".
