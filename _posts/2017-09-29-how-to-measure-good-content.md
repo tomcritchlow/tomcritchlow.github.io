@@ -66,5 +66,15 @@ In my research, I have a hunch that Google based these questions on elements of 
 
 Both the Panda survey and the SUS survey are useful tools but they're much more useful and relevant for evaluating site design and UX, though they do certainly touch on content.
 
-What would a version of this look like specifically around judging editorial content?
+What would a version of this look like specifically around judging editorial content? Could we construct an Editorial Value Survey (EVS for short) that looked like the following questions:
+
+- Is this site written by experts
+- Did you find value in reading this content?
+- Would you have finished reading this piece of content if you were reading by yourself?
+- Would you bookmark this content to come back to later?
+- Would you share this piece of content
+- Would you describe this content as [insert Q relating to our editorial mission see above]
+- Would this piece of content make you want to learn more about who wrote it?
+- Did you 
+
 
