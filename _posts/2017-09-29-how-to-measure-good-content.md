@@ -28,6 +28,17 @@ But... I'm left feeling slightly unsatisfied. And, in particular, as a consultan
 
 And... I don't have a good framework to turn to that helps a team to keep on track? Do you have one?
 
+# Defining an audience and understanding their needs is also good...
+
+I've seen several examples of teams that tried to define an editorial mission without properly defining an audience. And every time they came up short. Also from my state of content presentation, I love this [quote (actually a twitter thread) from Kyle Monson](https://twitter.com/kmonson/status/710129384494071808):
+
+> Whether your employer is a publisher, a brand, or an agency. If you’re making garbage, help them do better. The good ones will listen to you and incorporate your expertise. In my experience, most of them really do want to do it right.
+
+> And believe it or not, super engaged communities often want to hear from the brands who serve them. And super engaged brands want to provide communities with things other than just “content”.
+
+> So if you find yourself writing pablum, narrow the audience to a core group of smart people who care about what the brand has to say. And then convince the brand to say something meaningful to that small, smart audience. Godspeed.
+
+
 # Perhaps interestingness as a measure can guide us?
 
 When I put out a call on Twitter my friend Toby Shorin linked me to this Ribbonfarm piece [books are fake](https://www.ribbonfarm.com/2017/06/01/why-books-are-fake/) and this quote in particular:
@@ -62,9 +73,9 @@ In my research, I have a hunch that Google based these questions on elements of 
 
 [More details on the SUS here](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 
-# But what about how GOOD the content is?
-
 Both the Panda survey and the SUS survey are useful tools but they're much more useful and relevant for evaluating site design and UX, though they do certainly touch on content.
+
+# But what about how GOOD the content is?
 
 What would a version of this look like specifically around judging editorial content? Could we construct an Editorial Value Survey (EVS for short) that looked like the following questions:
 
@@ -77,4 +88,11 @@ What would a version of this look like specifically around judging editorial con
 - Would this piece of content make you want to learn more about who wrote it?
 - Did you 
 
+# Or, perhaps we need a framework internally?
 
+My solution here doesn't necessarily need to be a user survey. It could just be an internal process of getting a group of employees and/or writers together and creating a scoring methodology for content. You could have everyone rate a given piece of content from 1 to 5 on the following:
+
+- Did this content meet the intent of the page?
+- Is this content meaningful to our audience?
+- Does this content say something original to the audience?
+- 
