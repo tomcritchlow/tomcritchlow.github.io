@@ -8,7 +8,7 @@ I'm involved in a few projects right now where the quality of the content is in 
 
 How do you measure content quality?
 
-This is an important question for all kinds of companies. From Quartz to Intercom and everyone in-between it's important to have an understanding of whether the content you're producing is "good".
+This is an important question for all kinds of companies. Whether you're a media company producing content or a brand using content as marketing it's important to have an understanding of whether the content you're producing is "good".
 
 Yes, there are some specific benchmarks you need to hit - compelling headlines, spelling, formatting etc. But beyond that - how do you know if what you're writing is... interesting? If it's resonating with your audience?
 
