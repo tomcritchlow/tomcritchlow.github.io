@@ -38,6 +38,7 @@ I've seen several examples of teams that tried to define an editorial mission wi
 
 > So if you find yourself writing pablum, narrow the audience to a core group of smart people who care about what the brand has to say. And then convince the brand to say something meaningful to that small, smart audience. Godspeed.
 
+Of course, don't get me wrong... this is hard! Especially the part about narrowing your focus.
 
 # Perhaps interestingness as a measure can guide us?
 
@@ -47,11 +48,11 @@ When I put out a call on Twitter my friend Toby Shorin linked me to this Ribbonf
 
 Hmm. This sounds useful - can we extend this into a measure of interestingness? Perhaps by shining a light on and agreeing upon a definition or outline of the assumption ground?
 
-I think there's a thread to be explored here. My friend Sean Blanda said:
+I think there's a thread to be explored here. My friend [Sean Blanda](https://twitter.com/SeanBlanda) said:
 
 ![](/images/seanblandatweet.png)
 
-I like this but it's still a long way from being a real framework or process you can follow with any rigor...
+I like this but it's still a long way from being a real framework or process you can follow with any rigor... In a loooooong chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I don't think we came to any conclusions. Maybe it's not possible to create metrics here but we must be able to use some kind of process...
 
 # Surveys & Feedback
 
