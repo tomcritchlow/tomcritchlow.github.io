@@ -52,7 +52,13 @@ I think there's a thread to be explored here. My friend [Sean Blanda](https://tw
 
 ![](/images/seanblandatweet.png)
 
-I like this but it's still a long way from being a real framework or process you can follow with any rigor... In a loooooong chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I don't think we came to any conclusions. Maybe it's not possible to create metrics here but we must be able to use some kind of process...
+I like this but it's still a long way from being a real framework or process you can follow with any rigor... In a loooooong chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I like this from Brian:
+
+![](/images/briandelltweet.png)
+
+I love this! But, it's that soft space. How do you make it less soft? How do you poke it?
+
+I don't think we came to any conclusions. Maybe it's not possible to create metrics here but we must be able to use some kind of process...
 
 # Surveys & Feedback
 
