@@ -38,4 +38,27 @@ Hmm. This sounds useful - can we extend this into a measure of interestingness? 
 
 # Surveys & Feedback
 
-Panda
+One tool in my arsenal that I'm relying on is a variation of the [Google Panda Questionnaire](https://www.distilled.net/blog/seo/replicate-googles-panda-questionnaire-processing/). In short, it's a 10-question survey that you can run on any web-page with real humans to get a measure of "quality".
+
+It's useful for a few key reasons:
+
+1) The questions came originally from Google's quality rater guidelines doc so the framework has some relevance. Companies understand why you want to use it as a benchmark.
+
+2) It quantifies otherwise subjective measures like how much users trust the website.
+
+The results from this kind of survey can be very powerful for company execs. This is an example from a client:
+
+![](/images/panda.png)
+
+In my research, I have a hunch that Google based these questions on elements of the System Usability Scale (SUS) originally developed in 1986:
+
+![](/images/sus.png)
+
+[More details on the SUS here](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+
+# But what about how GOOD the content is?
+
+Both the Panda survey and the SUS survey are useful tools but they're much more useful and relevant for evaluating site design and UX, though they do certainly touch on content.
+
+What would a version of this look like specifically around judging editorial content?
+
