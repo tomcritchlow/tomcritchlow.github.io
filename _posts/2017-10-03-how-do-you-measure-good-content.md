@@ -110,3 +110,5 @@ An internal framework could be a short list of questions to interrogate our cont
 # What else?
 
 Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics do you use to measure content quality in your content organization?
+
+(Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale...)
