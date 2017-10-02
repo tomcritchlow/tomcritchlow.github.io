@@ -107,4 +107,8 @@ Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics
 
 (Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale...)
 
+--
+
+*Footnotes:*
+
 [^1]: In my research I've come to think Google based some of their methodology on the System Usability Scale originally developed in 1986. [More details on the SUS here](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
