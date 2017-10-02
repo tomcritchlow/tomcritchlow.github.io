@@ -90,22 +90,23 @@ Both the Panda survey and the SUS survey are useful tools but they're much more 
 
 What would a version of the panda survey look like specifically around judging editorial content? Could we construct an Editorial Value Survey (EVS for short) that looked like the following questions:
 
-- Is this site written by experts
 - Did you find value in reading this content?
+- Does the opening paragraph make you want to keep reading?
 - Would you have finished reading this piece of content if you were reading by yourself?
 - Would you bookmark this content to come back to later?
-- Would you share this piece of content
+- Would you share this piece of content with a friend or colleague?
+- Would you share this piece of content on social media?
 - Would you describe this content as [insert Q relating to our editorial mission see above]
 - Would this piece of content make you want to learn more about who wrote it?
-- Did you 
 
 # Or, perhaps we need more of an internal process or framework?
 
 My solution here doesn't necessarily need to be a user survey. It could just be an internal process of getting a group of employees and/or writers together and creating a scoring methodology for content. I had one client who could never define good content, so instead created a benchmark for **good enough** content. By defining the worse possible thing they could still publish it actually gave them a clearer focus for evaluating content.
 
-An internal framework could be a short list of questions to interrogate our content and we can have a small team internally rate content on the scale. This could be questions like:
+An internal framework could be a short list of questions to interrogate our content and we can have a small team internally rate content on the scale. My brother Will suggested that an exponential scale can sometimes be useful for these internal ratings to better catch outliers:
 
-- Did this content meet the intent of the page?
-- Is this content meaningful to our audience?
-- Does this content say something original to the audience?
-- 
+![](/images/willslack.png)
+
+# What else?
+
+Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics do you use to measure content quality in your content organization?
