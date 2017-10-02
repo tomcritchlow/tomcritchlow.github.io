@@ -78,12 +78,6 @@ The results from this kind of survey can be very powerful for company execs. Thi
 
 ![](/images/panda.png)
 
-In my research, I have a hunch that Google based these questions on elements of the System Usability Scale (SUS) originally developed in 1986:
-
-![](/images/sus.png)
-
-
-
 The Panda survey is a useful tool[^1] but it's geared towards evaluating site design and UX, though it does include aspects of content too.
 
 # Maybe there's a version of the Panda survey for evaluating content interestingness?
