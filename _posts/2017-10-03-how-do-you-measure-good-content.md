@@ -82,9 +82,9 @@ In my research, I have a hunch that Google based these questions on elements of 
 
 ![](/images/sus.png)
 
-[More details on the SUS here](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 
-Both the Panda survey and the SUS survey are useful tools but they're much more useful and relevant for evaluating site design and UX, though they do certainly touch on content.
+
+The Panda survey is a useful tool[^1] but it's geared towards evaluating site design and UX, though it does include aspects of content too.
 
 # Maybe there's a version of the Panda survey for evaluating content interestingness?
 
@@ -112,3 +112,5 @@ An internal framework could be a short list of questions to interrogate our cont
 Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics do you use to measure content quality in your content organization?
 
 (Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale...)
+
+[^1]: In my research I've come to think Google based some of their methodology on the System Usability Scale originally developed in 1986. [More details on the SUS here](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
