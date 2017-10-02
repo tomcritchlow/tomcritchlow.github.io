@@ -12,7 +12,7 @@ This is an important question for all kinds of companies. Whether you're a media
 
 The people I've talked to seem to have a pretty strong idea of what good content is. And pretty much everyone (myself included) thinks a strong "editor in chief" role can really help steer editorial quality.
 
-But there's very little I've found about how you actually manage content production and how you might evaluate content quality. So... this is a request? Please send me whatever you've got! Below are some ideas and conversation starters.
+But there's very little I've found about how you actually manage content production and how you might evaluate content quality. And believe me, businesses care about this. Execs care about this. I'm running into this question again and again with no satisfactory answer. So... this is a request? Please send me whatever you've got! Below are some ideas and conversation starters for what I think is an important idea for anyone in the "content business".
 
 I'm not looking to reduce everything to numbers here. I'm just looking for some useful frameworks or mental models to guide a team that is producing content to produce better content.
 
