@@ -58,7 +58,7 @@ I like this. And I don't know of many organizations or individuals that care abo
 
 ![](/images/briandelltweet.png)
 
-Ok now we're getting somewhere! But, it's that soft space. How do you make it less soft? How do you poke it? How do you make it less soft? I asked [Jim Babb(https://twitter.com/jimbabb) and he said:
+Ok now we're getting somewhere! But, it's that soft space. How do you make it less soft? How do you poke it? How do you make it less soft? I asked [Jim Babb](https://twitter.com/jimbabb) and he said:
 
 ![](/images/jimslack.png)
 
