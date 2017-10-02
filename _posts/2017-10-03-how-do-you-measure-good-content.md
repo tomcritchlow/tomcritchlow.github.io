@@ -1,24 +1,26 @@
 ---
 layout: blog
-title: How do you measure good content
+title: How do you measure good content?
 subtitle: In search of a framework or process to judge editorial... quality?
 ---
 
 I'm involved in a few projects right now where the quality of the content is in question. It gets to a very simple question but with a complicated answer:
 
-How do you measure content quality?
+**How do you measure content quality?**
 
 This is an important question for all kinds of companies. Whether you're a media company producing content or a brand using content as marketing it's important to have an understanding of whether the content you're producing is "good".
 
-Yes, there are some specific benchmarks you need to hit - compelling headlines, spelling, formatting etc. But beyond that - how do you know if what you're writing is... interesting? If it's resonating with your audience?
+The people I've talked to seem to have a pretty strong idea of what good content is. And pretty much everyone (myself included) thinks a strong "editor in chief" role can really help steer editorial quality.
 
-(And no, this isn't a conversation about happyclappy Medium.)
+But there's very little I've found about how you actually manage content production and how you might evaluate content quality. So... this is a request? Please send me whatever you've got! Below are some ideas and conversation starters.
 
 I'm not looking to reduce everything to numbers here. I'm just looking for some useful frameworks or mental models to guide a team that is producing content to produce better content.
 
+(And no, this isn't a conversation about happyclappy Medium.)
+
 # Defining an editorial mission is a good start...
 
-In my presentation from earlier this year [The State of Content](http://tomcritchlow.com/2017/02/24/the-state-of-media/) at the end I made the link between defining an editorial mission and hiring a strong editor in chief to champion and bring that to life. I included this quote from the [NYT 2020 report](https://www.nytimes.com/projects/2020-report/):
+In my presentation [The State of Content](http://tomcritchlow.com/2017/02/24/the-state-of-media/) from earlier this year, I made the link between defining an editorial mission and hiring a strong editor in chief to champion and bring that to life. I included this quote from the [NYT 2020 report](https://www.nytimes.com/projects/2020-report/):
 
 > Our most successful forays into digital journalism [...] have depended on distinct visions established by their leaders — visions supported and shaped by the masthead, and enthusiastically shared by the members of the department. [...] These departments with clear, widely understood missions remain unusual. Most Times journalists cannot describe the vision or mission of their desks.
 
@@ -30,7 +32,7 @@ And... I don't have a good framework to turn to that helps a team to keep on tra
 
 # Defining an audience and understanding their needs is also good...
 
-I've seen several examples of teams that tried to define an editorial mission without properly defining an audience. And every time they came up short. Also from my state of content presentation, I love this [quote (actually a twitter thread) from Kyle Monson](https://twitter.com/kmonson/status/710129384494071808):
+I've seen several examples of teams that tried to define an editorial mission without properly defining an audience (or audiences). And every time they came up short. Also from my state of content presentation, I love this [quote (actually a twitter thread) from Kyle Monson](https://twitter.com/kmonson/status/710129384494071808):
 
 > Whether your employer is a publisher, a brand, or an agency. If you’re making garbage, help them do better. The good ones will listen to you and incorporate your expertise. In my experience, most of them really do want to do it right.
 
@@ -38,27 +40,29 @@ I've seen several examples of teams that tried to define an editorial mission wi
 
 > So if you find yourself writing pablum, narrow the audience to a core group of smart people who care about what the brand has to say. And then convince the brand to say something meaningful to that small, smart audience. Godspeed.
 
-Of course, don't get me wrong... this is hard! Especially the part about narrowing your focus.
+Of course, don't get me wrong... this is hard! Especially the part about narrowing your focus. But defining an audience helps shape your overall editorial strategy but doesn't help you judge individual pieces.
 
 # Perhaps interestingness as a measure can guide us?
 
-When I put out a call on Twitter my friend Toby Shorin linked me to this Ribbonfarm piece [books are fake](https://www.ribbonfarm.com/2017/06/01/why-books-are-fake/) and this quote in particular:
+When I put out a call on Twitter my friend [Toby Shorin](http://twitter.com/tobyshorin) linked me to this Ribbonfarm piece [books are fake](https://www.ribbonfarm.com/2017/06/01/why-books-are-fake/) and this quote in particular:
 
 > Interestingness is not a fixed property, but a move in a conversation between what everyone in the audience already knows (the “assumption ground“) and the surprise reveal. Being interesting means that the audience shares, or can be made to share, the common knowledge that the author seeks to undermine. Interestingness is a function of whatever body of knowledge is already assumed to be true. Therefore, it can be difficult to see the interestingness – the point – of a fragment of an alien conversation.
 
-Hmm. This sounds useful - can we extend this into a measure of interestingness? Perhaps by shining a light on and agreeing upon a definition or outline of the assumption ground?
+Oh! This sounds useful - can we extend this into a measure of interestingness? Perhaps by shining a light on and agreeing upon a definition or outline of the assumption ground?
 
 I think there's a thread to be explored here. My friend [Sean Blanda](https://twitter.com/SeanBlanda) said:
 
 ![](/images/seanblandatweet.png)
 
-I like this but it's still a long way from being a real framework or process you can follow with any rigor... In a loooooong chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I like this from Brian:
+I like this. And I don't know of many organizations or individuals that care about "advancing the conversation" so I think there's definitely something useful here. But it's still a long way from being a real framework or process you can follow with any rigor... In a chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I love this from Brian:
 
 ![](/images/briandelltweet.png)
 
-I love this! But, it's that soft space. How do you make it less soft? How do you poke it?
+Ok now we're getting somewhere! But, it's that soft space. How do you make it less soft? How do you poke it? How do you make it less soft? I asked [Jim Babb(https://twitter.com/jimbabb) and he said:
 
-I don't think we came to any conclusions. Maybe it's not possible to create metrics here but we must be able to use some kind of process...
+![](/images/jimslack.png)
+
+I'm not sure there are clear answers here. Seems that a lot of people are defining, measuring and thinking about this in lots of different ways.
 
 # Surveys & Feedback
 
@@ -66,9 +70,9 @@ One tool in my arsenal that I'm relying on is a variation of the [Google Panda Q
 
 It's useful for a few key reasons:
 
-1) The questions came originally from Google's quality rater guidelines doc so the framework has some relevance. Companies understand why you want to use it as a benchmark.
-
-2) It quantifies otherwise subjective measures like how much users trust the website.
+1. The questions came originally from Google's quality rater guidelines doc so the framework has some relevance. Companies understand why you want to use it as a benchmark.
+2. It quantifies otherwise subjective measures like how much users trust the website.
+3. It's generic and you can use it for any site. 
 
 The results from this kind of survey can be very powerful for company execs. This is an example from a client:
 
