@@ -56,15 +56,15 @@ Oh! This sounds useful - can we extend this into a measure of interestingness? P
 
 I think there's a thread to be explored here. My friend [Sean Blanda](https://twitter.com/SeanBlanda) said:
 
-![](/images/seanblandatweet.png)
+![Tweet by Sean Blanda: My loose criteria can be best distilled as making sure content "advances the conversation" of the community being served](/images/seanblandatweet.png)
 
 I like this. And I don't know of many organizations or individuals that care about "advancing the conversation" so I think there's definitely something useful here. But it's still a long way from being a real framework or process you can follow with any rigor... In a chat conversation between myself, Sean and [Brian Dell](https://twitter.com/itsbdell) we discussed whether it's possible to add any rigor here. I love this from Brian:
 
-![](/images/briandelltweet.png)
+![Tweet by Brian Dell: I think the answer is that in the space between this strategy and the audience are a number of fluid and soft quality metrics that lead to meaningful and good content](/images/briandelltweet.png)
 
 Ok now we're getting somewhere! But, it's that soft space. How do you make it less soft? How do you poke it? How do you make it less soft? I asked [Jim Babb](https://twitter.com/jimbabb) and he said:
 
-![](/images/jimslack.png)
+![Slack message by Jim Babb: I love the idea of having an editorial mission or a north star. Or impact… is another. BuzzFeed’s publisher Dao once told me that they measure success by the impact they have on society. At the same time, content is only as “good” as it is defined by it’s end users. I know that’s crazy subjective, but it allows the marketplace to define the value of content rather than letting you do it. There are plenty things on Youtube that I wouldn’t say are good, but their fan audiences would highly disagree. That’s why I like this idea of content market-fit. The quality of content is how well it satisfies a user’s need whether it’s for utility, entertainment, or education. Today the ultimate score on that front is either an NPS-like measure, would you share it and recommend it to others? Or even crazier, in the age of distributed media, do you like it enough to come back for more? I like what you’re getting at with the EVS. I think you can boil it down to just a few questions. Good for you: Does it align with our editorial voice, brand and style guidelines? Good for your audience: Does it fit an audience need in a meaningful way? This takes me back to my art school days talking about what is art. I also think having an editor with good taste is the best way to do it. They just say yes or no. You try to scale their personal taste. That's how publications do it. Brands do the same thing with internal Creative Directors.](/images/jimslack.png)
 
 I'm not sure there are clear answers here. Seems that a lot of people are defining, measuring and thinking about this in lots of different ways.
 
@@ -80,7 +80,7 @@ It's useful for a few key reasons:
 
 The results from this kind of survey can be very powerful for company execs. This is an example from a client:
 
-![](/images/panda.png)
+![Data from a sample panda survey showing clients sites scores lower than competitor](/images/panda.png)
 
 The Panda survey is a useful tool[^1] but it's geared towards evaluating site design and UX, though it does include aspects of content too.
 
@@ -103,7 +103,7 @@ My solution here doesn't necessarily need to be a user survey. It could just be 
 
 An internal framework could be a short list of questions to interrogate our content and we can have a small team internally rate content on the scale. My brother Will suggested that an exponential scale can sometimes be useful for these internal ratings to better catch outliers:
 
-![](/images/willslack.png)
+![Slack message from Will Critchlow: also feels related to the stuff I talked about exponential scales instead of getting people to rate content on a uniform 1-5 scale ask them to rate it on a scale from: 1 = the kind of thing you could imagine someone writing if they knew only the most superficial / basic stuff about a topic 2 = solid, on-topic, essentially entirely correct, but relatively uninteresting 3 = interesting, would feel good about having read, might share if the exact topic came up in conversation 4 = one of the best things I've read on this topic - immediately sharing widely even to people who might not be directly interested in the specific topic 5 = one of the handful of best things I've ever read on any topic. that could be an internal rating scale - exponential gaps means relatively few disagreements on where a specific piece rates](/images/willslack.png)
 
 This exponential scale might be useful. But perhaps all that's needed is a simple checklist? Can we distill our editorial strategy into a set of checklist items to ensure that content aligns with our goals?
 
