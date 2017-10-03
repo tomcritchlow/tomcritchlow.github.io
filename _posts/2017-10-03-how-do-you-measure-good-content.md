@@ -4,21 +4,23 @@ title: How do you measure good content?
 subtitle: In search of a framework or process to judge editorial... quality?
 ---
 
-As a consultant working with content companies I often straddle editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises:
+As a consultant working with content companies, I often find myself bridging editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises:
 
 **How do you measure content quality?**
 
-I think we can all agree that page views aren't the way to measure content, nor social media shares. So what metrics do you use to evaluate content? Equally you can't just rely on the intuition of the editor in chief...
+I think we can all agree that page views aren't the way to measure content, nor social media shares. Equally you can't just rely on the intuition of the editor in chief... So what metrics do you use to evaluate content? 
 
 This question of content quality is an important one. Whether you're a media company producing content or a brand using content as marketing it's important to have an understanding of whether the content you're producing is "good".
 
-I'm not looking to reduce everything to numbers here. I'm just looking for some useful frameworks or mental models to guide a team that is producing content to produce better content.
+I'm not looking to reduce everything to numbers here. I'm just looking for some useful frameworks or mental models to guide a team that is producing content to produce better content. Especially as a consultant coming in to help evaluate an organization and push them forward.
 
 (And no, this isn't a conversation about happyclappy Medium.)
 
 The people I've talked to seem to have a pretty strong idea of what good content is. And pretty much everyone (myself included) thinks a strong "editor in chief" role can really help steer editorial quality.
 
-But there's very little I've found about how you actually manage content production and how you might evaluate content quality. So... this is a request? Please send me whatever you've got! Below are some ideas and conversation starters for what I think is an important idea for anyone in the "content business".
+But there's very little I've found about how you actually manage content production and how you might evaluate content quality. So... this is a request? Please send me whatever you've got!
+
+Below are some ideas and conversation starters for what I think is an important idea for anyone in the "content business".
 
 # Defining an editorial mission is a good start...
 
@@ -103,11 +105,13 @@ An internal framework could be a short list of questions to interrogate our cont
 
 ![](/images/willslack.png)
 
+This exponential scale might be useful. But perhaps all that's needed is a simple checklist? Can we distill our editorial strategy into a set of checklist items to ensure that content aligns with our goals?
+
 # What else?
 
 Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics do you use to measure content quality in your content organization?
 
-(Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale...)
+(Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale... Definitely more to unpack here.)
 
 --
 
