@@ -11,7 +11,7 @@ title: Latest Writing
 
 {% if posttime < nowunix %}
 
-<div class="pv4">
+<div class="pv3">
 
 <h3 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h3>
 
@@ -22,8 +22,6 @@ title: Latest Writing
 {% endif %}
 
 <span class="f5 f6-s ttu black-20 pv3">{{ post.date | date_to_string }} | <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> </span>
-
-<p><a class="no-underline tcblack" href="{{post.url}}">Read more &#10239;</a></p>
 
 </div>
 
