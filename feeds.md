@@ -1,5 +1,5 @@
 ---
-layout: Feeds
+layout: page
 title: My feeds...
 ---
 
