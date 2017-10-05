@@ -8,7 +8,7 @@ title: My feeds...
 <script type="text/javascript">
   window.onload = function() { init() };
 
-  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY/edit';
+  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
 
   function init() {
     Tabletop.init( { key: public_spreadsheet_url,
