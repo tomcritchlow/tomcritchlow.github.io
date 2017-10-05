@@ -24,7 +24,9 @@ function showInfo(sheets, tabletop) {
     $("#loading").toggle();
 
     console.log(data);    
+    for(i=0; i < data.length; i++){
       $("#links").append("<p><a href='"+data[i].url + "'>" + data[i].url + "</a> - " + data[i].title + "</p>");
+    }
     };
   
 </script>
