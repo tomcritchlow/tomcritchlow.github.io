@@ -11,6 +11,7 @@ title: My feeds...
   var public_spreadsheet_url = '1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
 
   function init() {
+    alert("running init");
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
                      simpleSheet: true,
@@ -19,7 +20,9 @@ title: My feeds...
   };
     
 function showInfo(data, tabletop) {
+    alert("running showinfo");
     $("#loading").toggle();
+
     console.log(data);    
       $("#links").append("<p><a href='"+data[i].url + "'>" + data[i].url + "</a> - " + data[i].title + "</p>");
     };
