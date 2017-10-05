@@ -25,7 +25,7 @@ function showInfo(sheets, tabletop) {
 
     
     for(i=0; i < data.length; i++){
-      $("#links").append("<p><a href='"+data[i].url + "'>" + data[i].url + "</a> - " + data[i].title + "</p>");
+      $("#links").append("<p><a href='"+arraydata[i][3] + "'>" + arraydata[i][3] + "</a> - " + arraydata[i][2] + "</p>");
     }
     };
   
