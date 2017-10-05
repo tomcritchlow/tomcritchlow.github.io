@@ -10,8 +10,6 @@ title: My feeds...
 
   var public_spreadsheet_url = '1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
 
-  var monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
-
   function init() {
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
@@ -26,7 +24,7 @@ function showInfo(data, tabletop) {
     console.log(data);    
       $("#links").append("<p><a href='"+data[i].url + "'>" + data[i].url + "</a> - " + data[i].title + "</p>");
     };
-  }
+  
 </script>
 
 Things I'm reading:
