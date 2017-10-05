@@ -15,7 +15,8 @@ title: My feeds...
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
                      simpleSheet: true,
-                     reverse:'true' } )
+                     reverse:'true',
+                     debug:true } )
                      
   };
     
