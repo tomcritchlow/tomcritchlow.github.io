@@ -11,7 +11,6 @@ title: My feeds...
   var public_spreadsheet_url = '1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
 
   function init() {
-    alert("running init");
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
                      debug:true } )
@@ -19,11 +18,12 @@ title: My feeds...
   };
     
 function showInfo(sheets, tabletop) {
-    alert("running showinfo");
     var data = sheets['Output'].elements;
+    var arraydata =sheets['Output'].all;
+    console.log(arraydata);
     $("#loading").toggle();
 
-    console.log(data);    
+    
     for(i=0; i < data.length; i++){
       $("#links").append("<p><a href='"+data[i].url + "'>" + data[i].url + "</a> - " + data[i].title + "</p>");
     }
