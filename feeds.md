@@ -20,7 +20,7 @@ title: My feeds...
     
 function showInfo(sheets, tabletop) {
     alert("running showinfo");
-    var data = sheets['Output'];
+    var data = sheets['Output'].elements;
     $("#loading").toggle();
 
     console.log(data);    
