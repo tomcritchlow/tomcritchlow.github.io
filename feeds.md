@@ -14,7 +14,6 @@ title: My feeds...
     Tabletop.init( { key: public_spreadsheet_url,
                      callback: showInfo,
                      simpleSheet: true,
-                     orderby: 'date',
                      reverse:'true' } )
                      
   };
