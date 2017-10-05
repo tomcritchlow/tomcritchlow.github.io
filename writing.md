@@ -13,17 +13,15 @@ title: Latest Writing
 
 <div class="pv4">
 
-<h2 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
+<h3 class="mv0"><a class="no-underline tcblack" href="{{post.url}}">{{post.title}}</a></h2>
 
 {% if post.subtitle %}
 
-<h3 class="mv0 fw3"><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
+<h4 class="mv0 fw3"><a class="no-underline tcblack" href="{{post.url}}">{{post.subtitle}}</a></h3>
 
 {% endif %}
 
 <span class="f5 f6-s ttu black-20 pv3">{{ post.date | date_to_string }} | <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> </span>
-
-{{post.excerpt}}
 
 <p><a class="no-underline tcblack" href="{{post.url}}">Read more &#10239;</a></p>
 
