@@ -18,8 +18,9 @@ title: My feeds...
                      
   };
     
-function showInfo(data, tabletop) {
+function showInfo(sheets, tabletop) {
     alert("running showinfo");
+    var data = sheets['Output'],
     $("#loading").toggle();
 
     console.log(data);    
