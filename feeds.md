@@ -8,7 +8,7 @@ title: My feeds...
 <script type="text/javascript">
   window.onload = function() { init() };
 
-  var public_spreadsheet_url = '1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
+  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY/edit';
 
   function init() {
     Tabletop.init( { key: public_spreadsheet_url,
@@ -17,7 +17,7 @@ title: My feeds...
                      orderby: 'date',
                      reverse:'true' } )
                      
-  }
+  };
     
 function showInfo(data, tabletop) {
     $("#loading").toggle();
