@@ -80,16 +80,6 @@ text-decoration: none;
     padding: 30px;
 }
 
-.posttitle:after {
-    content: '';
-    width: 50px;
-    display: block;
-    border-bottom: 8px solid #00ff00;
-    margin-left: -10px;
-    margin-top: 5px;
-    position:absolute;
-}
-
 ul a:hover, ol p:hover, p a:hover {
     border-bottom: 4px solid #00ff00;
 }
