@@ -19,7 +19,7 @@ title: My feeds...
     
 function showInfo(sheets, tabletop) {
     var data = sheets['Output'].elements;
-    var arraydata =sheets['Output'].all;
+    var arraydata =sheets['Output'].toArray();
     console.log(arraydata);
     $("#loading").toggle();
 
