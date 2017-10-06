@@ -28,11 +28,14 @@ function showInfo(sheets, tabletop) {
     for(i=0; i < data.length; i++){
       $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][4] + "<time class='timeago' datetime='2008-07-17T09:24:17Z'>July 17, 2008</time>");
     }
+
+  jQuery("time.timeago").timeago();
+
     };
 
-jQuery(document).ready(function() {
-  jQuery("time.timeago").timeago();
-});
+
+
+
 
 </script>
 
