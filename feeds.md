@@ -4,6 +4,7 @@ title: My feeds...
 ---
 
 <script type="text/javascript" src="/js/tabletop.js"></script>
+<script type="text/javascript" src="/js/jquery.timeago.js"></script>
 
 <script type="text/javascript">
   window.onload = function() { init() };
@@ -25,10 +26,14 @@ function showInfo(sheets, tabletop) {
 
     
     for(i=0; i < data.length; i++){
-      $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][4]);
+      $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][4] + "<time class='timeago' datetime='2008-07-17T09:24:17Z'>July 17, 2008</time>");
     }
     };
-  
+
+jQuery(document).ready(function() {
+  jQuery("time.timeago").timeago();
+});
+
 </script>
 
 Things I'm reading:
