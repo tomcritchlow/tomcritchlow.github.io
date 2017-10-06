@@ -26,7 +26,7 @@ function showInfo(sheets, tabletop) {
 
     
     for(i=0; i < data.length; i++){
-      $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][4] + "<time class='timeago' datetime='"+arraydata[i][4]+"'>"+arraydata[i][4]+"</time>");
+      $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][4] + "<time class='timeago' datetime='"+arraydata[i][3]+"'>"+arraydata[i][3]+"</time>");
     }
 
     jQuery("time.timeago").timeago();
