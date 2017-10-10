@@ -27,7 +27,7 @@ function showInfo(sheets, tabletop) {
 
     
     for(i=0; i < data.length; i++){
-      $("#links").append("<p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a> - " + arraydata[i][5] + " | <time class='timeago' datetime='"+arraydata[i][4]+"'>"+arraydata[i][4]+"</time>");
+      $("#links").append("<h3><p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a></h3><br>" + arraydata[i][5] + " | <time class='timeago' datetime='"+arraydata[i][4]+"'>"+arraydata[i][4]+"</time><p>"+arraydata[i][3]+"...</p>");
     }
 
     jQuery("time.timeago").timeago();
@@ -53,7 +53,7 @@ function showInfo(sheets, tabletop) {
 <body>
 
 <div id="links">
-  
+
   <h1>Tom Critchlow's feeds:</h1>
 
 <span id="loading">Loading...</span>
