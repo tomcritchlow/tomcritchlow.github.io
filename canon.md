@@ -36,6 +36,9 @@ https://medium.com/@stefenchow/why-every-father-should-bring-his-toddler-out-for
 http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
 http://nymag.com/thecut/2016/04/portrait-motherhood-creativity-c-v-r.html?mid=fb-share-thecut
 
+The value in living in meatspace and slowing down
+https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb
+
 The uses of the liberal arts
 http://www.ljhammond.com/essay.htm
 http://harpers.org/archive/1997/09/ii-as-a-weapon-in-the-hands-of-the-restless-poor/

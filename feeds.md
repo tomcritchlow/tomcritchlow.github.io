@@ -1,6 +1,4 @@
 ---
-layout: page
-title: My feeds...
 ---
 
 <script type="text/javascript" src="/js/tabletop.js"></script>
