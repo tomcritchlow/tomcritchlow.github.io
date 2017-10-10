@@ -17,6 +17,7 @@ A point of view. You're not news.
 What is your point of view on AI?
 Kara's POV is strong
 Quartzy?
+NYT 2020 report on mission/vision
 
 Promote the voices of the individuals.
 
