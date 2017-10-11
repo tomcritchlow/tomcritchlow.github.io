@@ -27,9 +27,18 @@ function showInfo(sheets, tabletop) {
     console.log(arraydata);
     $("#loading").toggle();
 
-    
+    var count = 0;
+
     for(i=0; i < data.length; i++){
-      $("#links").append("<div class='feeditem'><h3><p><a href='"+arraydata[i][2] + "'>" + arraydata[i][1] + "</a></h3>" + arraydata[i][5] + " | <time class='timeago' datetime='"+arraydata[i][4]+"'>"+arraydata[i][4]+"</time><p>"+arraydata[i][3]+"...</p></div><hr>");
+      var url = arraydata[i][2];
+      var title = arraydata[i][1];
+      var sitename = arraydata[i][5];
+      var pubdate = arraydata[i][4];
+      if(count<50){
+      var description = arraydata[i][3];
+      }
+      $("#links").append("<div class='feeditem'><h3><p><a href='"+url+ "'>" + title + "</a></h3>" + sitename + " | <time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
+      var count++;
     }
 
     jQuery("time.timeago").timeago();

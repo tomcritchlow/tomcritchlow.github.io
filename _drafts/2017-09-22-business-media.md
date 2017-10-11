@@ -11,6 +11,7 @@ Here's what it needs:
 Branding!
 You can't get to the about page. What even IS the about page?
 How do you instantly recognize a recode URL in your feed?
+Branding is friction and content is about removing friction.
 
 
 A point of view. You're not news.
