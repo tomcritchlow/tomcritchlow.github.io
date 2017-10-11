@@ -38,7 +38,7 @@ function showInfo(sheets, tabletop) {
       var description = arraydata[i][3];
       }
       $("#links").append("<div class='feeditem'><h3><p><a href='"+url+ "'>" + title + "</a></h3>" + sitename + " | <time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
-      var count++;
+      count++;
     }
 
     jQuery("time.timeago").timeago();
