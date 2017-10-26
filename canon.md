@@ -53,6 +53,10 @@ Launching work on the internet (postindustrial industry)
 postindustrialdesign.school
 entrpeneurial design syllabus
 
+Online learning courses
+http://rwet.decontextualize.com/
+http://printedweb.org/#Syllabi and workshops
+
 Games?
 The glass bead game
 
@@ -62,6 +66,8 @@ Victoria
 Iain M Banks
 China Meiville
 Flowers for algernon
+Handmaiden's tail
+
 
 Movies:
 Jodbrodskys Dune
