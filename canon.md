@@ -67,6 +67,8 @@ Iain M Banks
 China Meiville
 Flowers for algernon
 Handmaiden's tail
+Nicholson Baker
+Micahel Chabon
 
 
 Movies:
