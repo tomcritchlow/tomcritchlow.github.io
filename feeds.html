@@ -66,6 +66,12 @@ body{
   width:100%;
   margin:auto;
 }
+
+#infobox{
+  width:100%;
+  border:1px solid #00ff00;
+  padding:10px;
+}
   </style>
 
 </head>
@@ -75,6 +81,10 @@ body{
 <div id="links">
 
   <h1>Tom Critchlow's feeds:</h1>
+<div class="info" onclick="$('#infobox').toggle()">What is this?</div>
+
+<div id="infobox">This is a list of the feeds I'm reading. The page auto-updates. Why? Because what if we all exposed what feeds we're listening to?</div>
+
 
 <span id="loading">Loading...</span>
 
