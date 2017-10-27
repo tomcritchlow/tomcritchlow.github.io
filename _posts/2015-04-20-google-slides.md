@@ -7,6 +7,7 @@ I made this image using Google Slides (Google’s free presentation tool within
 the Google Docs suite):
 
 ![](https://cdn-images-1.medium.com/max/800/1*r85aMii0e8jyAO4N-eyH6A.png)
+
 *Quote from T.S. Eliot’s poem: [The Waste
 Land](http://www.poetryfoundation.org/poem/176735)*
 
@@ -19,11 +20,13 @@ Listen, I’m a little bit of a rebel. I like to use tools in ways that they wer
 For example — we recently ran a pop-up gallery show which required making our own floorplans of the space and figuring out the layout and curation of the artworks in the show. Oh — and being able to collaborate on this in real time and access it from our phones is just a nice extra. Here’s the Google Doc we created to curate the show:
 
 ![](https://cdn-images-1.medium.com/max/2000/1*MlQgRTLMVIjt1Z4nuqORAw.png)
+
 *Our collaborative Google Doc for planning an art gallery curation.*
 
 Turns out this curated layout was crucial to figuring out how many artworks we could hang, how it would look and more. Here’s the final result — the pop-up gallery in real life:
 
 ![](https://cdn-images-1.medium.com/max/2000/1*MovPDDe5MQozSW-pnmTDRQ.jpeg)
+
 *How the gallery curation looked in real life.*
 
 Ok — how does this work? I’ll teach you my secrets:
@@ -40,6 +43,7 @@ re-sized. Under the file menu choose and page setup and then in the dialog —
 choose to size the canvas by pixels:
 
 ![](https://cdn-images-1.medium.com/max/800/1*zwc-D0tG000zh9ZnW6L_Mg.png)
+
 *How do you think I made this little image? I’ll give you one guess…*
 
 #### 2) Save as PNG
@@ -57,6 +61,7 @@ Using the above tricks — resizing our canvas to a new pixel dimension — I
 created a 2000 x 4000 pixel canvas to design and prototype new site designs:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*yu5IBGI7cS21BKbCdwi1Rg.png)
+
 *An initial layout for Fiercely Curious — check out how close this is to the final site: [http://www.fiercelycurious.com/](http://www.fiercelycurious.com/)*
 
 ### And Easy Image Collages
