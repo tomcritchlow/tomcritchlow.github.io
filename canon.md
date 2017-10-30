@@ -3,7 +3,13 @@ layout: page
 title: Canon
 ---
 
-Inspired by http://brendanschlagel.com/canon/
+Categories:
+
+<ul>
+<li><a href="#parenting">Becoming a parent</a></li>
+<li><a href="#books">Books</a></li>
+<li><a href="#films">Films</a></li>
+</ul>
 
 BERG
 https://vimeo.com/121072011
@@ -70,8 +76,7 @@ Handmaiden's tail
 Nicholson Baker
 Micahel Chabon
 
-
-Movies:
+<h3 id="films">Films</h3>
 Jodbrodskys Dune
 Deep Water
 Man on wire
@@ -92,3 +97,4 @@ Susumu Yokota
 Jimmy Luxury
 
 
+Inspired by http://brendanschlagel.com/canon/
