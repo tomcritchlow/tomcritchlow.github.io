@@ -9,6 +9,13 @@ Categories:
 <li><a href="#parenting">Becoming a parent</a></li>
 <li><a href="#books">Books</a></li>
 <li><a href="#films">Films</a></li>
+<li>
+People
+<ul>
+<li>Craig Mod</li>
+<li>Robin Sloan</li>
+<li>Matt Webb</li>
+</li>
 </ul>
 
 BERG
