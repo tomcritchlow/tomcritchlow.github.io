@@ -34,11 +34,12 @@ function showInfo(sheets, tabletop) {
       var title = arraydata[i][1];
       var sitename = arraydata[i][5];
       var pubdate = arraydata[i][4];
+      var siteurl = arraydata[i][6]
       var description = [];
       if(count<50){
       var description = arraydata[i][3];
       }
-      $("#links").append("<div class='feeditem'><h3><p><a href='"+url+ "'>" + title + "</a></h3>" + sitename + " | <time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
+      $("#links").append("<div class='feeditem'><img src='http://s2.googleusercontent.com/s2/favicons?domain_url="+siteurl+"'/><h3><p><a href='"+url+ "'>" + title + "</a></h3>" + sitename + " | <time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
       count++;
     }
 

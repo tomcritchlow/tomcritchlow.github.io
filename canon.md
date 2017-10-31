@@ -12,10 +12,15 @@ Categories:
 <li>
 People
 <ul>
-<li>Craig Mod</li>
-<li>Robin Sloan</li>
-<li>Matt Webb</li>
-</li>
+<li><a href="#craigmod">Craig Mod</a></li>
+<li><a href="#robinsloan">Robin Sloan</a></li>
+<li><a href="#mattwebb">Matt Webb</a></li>
+<li><a href="#frankchimero">Frank Chimero</a></li>
+<li><a href="#venkateshrao">Venkatesh Rao</a></li>
+<li><a href="#sebastianmarshall">Sebastian Marshall</a></li>
+<li><a href="#dereksivers">Derek Sivers</a></li>
+<li><a href="#paulford">Paul Ford</a></li>
+</ul>
 </ul>
 
 BERG
@@ -66,15 +71,35 @@ Launching work on the internet (postindustrial industry)
 postindustrialdesign.school
 entrpeneurial design syllabus
 
+Mathematics:
+Godel Escher Bach
+Logicomix
+Galilleos Letters
+Flatland
+Fermats last theorem
+Uncle Petros goldbach conjecture
+A mathematicians apology
+
+
 Online learning courses
 http://rwet.decontextualize.com/
 http://printedweb.org/#Syllabi and workshops
 
+Making making easier
+Google Docs
+Glitch
+Appengine
+
+
 Games?
 The glass bead game
 
-Books:
+<h3 id="books">Books</h3>
 Cannery Row
+Tortilla flat
+Home is the sailor
+All the pretty horses
+Italo Calvino
 Victoria
 Iain M Banks
 China Meiville
@@ -82,6 +107,9 @@ Flowers for algernon
 Handmaiden's tail
 Nicholson Baker
 Micahel Chabon
+Raymond Chandler
+Desolation Angels
+Mother night
 
 <h3 id="films">Films</h3>
 Jodbrodskys Dune
@@ -90,18 +118,23 @@ Man on wire
 Buffalo 66
 2046
 Chungking Express
-The Sation Agent
+The Station Agent
+Short term 12
 The Apartment
 Tears of the black tiger
 
 Music:
 Bonobo
 Nightmares on wax
+Fragile State
 Keith Jarrett
 Aaron Goldberg
 Frightened Rabbit
 Susumu Yokota
 Jimmy Luxury
+Kind of blue
+My mixes
+
 
 
 Inspired by http://brendanschlagel.com/canon/
