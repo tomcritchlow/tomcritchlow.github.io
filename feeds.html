@@ -9,6 +9,8 @@
 <script type="text/javascript" src="/js/tabletop.js"></script>
 <script type="text/javascript" src="/js/jquery.timeago.js"></script>
 
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800' rel='stylesheet' type='text/css'>
+
 <script type="text/javascript">
   window.onload = function() { init() };
 
@@ -57,21 +59,32 @@ function showInfo(sheets, tabletop) {
 body{
   background-color:#f3f3f3;
   margin:0px;
+  font-family:raleway;
 }
 
 #links{
-  box-shadow: 0 0 50px #888888;
   padding:20px;
   background-color:white;
   max-width:600px;
   width:100%;
   margin:auto;
+  margin-top:50px;
+  border:2px solid #00ff00;
 }
 
 #infobox{
   border:1px solid #00ff00;
   padding:10px;
   display:none;
+}
+
+h3{
+  margin-top:10px;
+  margin-bottom:0px;
+}
+
+h3 img{
+  display:inline-block;
 }
   </style>
 
