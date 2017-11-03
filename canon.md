@@ -61,6 +61,9 @@ The uses of the liberal arts
 http://www.ljhammond.com/essay.htm
 http://harpers.org/archive/1997/09/ii-as-a-weapon-in-the-hands-of-the-restless-poor/
 
+Digital art & Creativity
+https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e
+
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
 
