@@ -16,6 +16,11 @@
 
 <script type="text/javascript">
 document.getElementById('mobilemenu').onclick = function() {
-    document.getElementById("navigation").toggle();
+    var x = document.getElementById("navigation");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
 }
 </script>
