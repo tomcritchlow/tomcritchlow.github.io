@@ -127,13 +127,6 @@ body {
   transition: all .25s;
 }
 
-.item:hover {
-  /*background-color: #dadada;*/
-  -webkit-transition: all -webkit-transform .25s;
-  transition: all .25s;
-  transform: scale(1.05) rotate3d(1, 2, 0, 40deg);
-}
-
 .item img {
   width: 60px;
   height: 60px;
