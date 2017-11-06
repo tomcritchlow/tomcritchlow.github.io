@@ -35,7 +35,6 @@ body {
 
 #header h1 {
   font-size: 36px;
-  font-family: 'Alegreya',serif;
   letter-spacing: 0.05em;
   color: #000000;
   line-height: 42px;
@@ -93,7 +92,6 @@ body {
 }
 
 .category h2 {
-  font-family: 'Alegreya', serif;
   color: #000000;
   font-size: 24px;
   text-align: center;
@@ -133,7 +131,6 @@ body {
 }
 
 .item-title {
-  font-family: 'Alegreya', serif;
   color: #000000;
   font-size: 16px;
   text-align: center;
