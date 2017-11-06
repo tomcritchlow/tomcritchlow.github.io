@@ -1,0 +1,268 @@
+body {
+  font-family: "Alegreya", serif;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+  text-rendering:optimizeLegibility;
+  background-color: #FFF8E7;
+}
+
+#container {
+  width: 900px;
+  margin: 0 auto;
+  padding: 4em 10px 8em;
+  box-sizing: border-box;
+}
+
+
+/* HEADER */
+
+#header {
+  max-width: 480px;
+  position: relative;
+  margin: 0 auto 30px;
+  text-align: center;
+  border: 2px #000000 solid;
+  padding: 5px;
+  /*background-color: #F7F1F0;*/
+  border-radius: 3px;
+}
+
+#inner-header-box {
+  border: 1px #000000 solid;
+  padding: 25px;
+  border-radius: 3px;
+}
+
+#header h1 {
+  font-size: 36px;
+  font-family: 'Alegreya',serif;
+  letter-spacing: 0.05em;
+  color: #000000;
+  line-height: 42px;
+  font-weight: bold;
+  padding-bottom: 12px;
+}
+
+#header p {
+  font-size: 20px;
+}
+
+
+/* TABLE OF CONTENTS */
+
+#toc {
+  font-size: 20px;
+  line-height: 1.5em;
+  padding: 20px 0;
+}
+
+.toc-item {
+  float: left;
+  border-right: 1px #000000 solid;
+  padding: 0px 8px;
+  margin: 8px 0px;
+}
+
+.toc-item:last-child {
+  clear: all;
+  border-right: none;
+}
+
+
+/* CATEGORY */
+
+.category {
+  position: relative;
+  margin: 0px auto;
+  text-align: center;
+  padding: 50px 0 0 0;
+  overflow: auto;
+  clear: both;
+}
+
+.category h2 {
+  font-family: 'Alegreya', serif;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  margin: 0 auto;
+  clear: both;
+  font-weight: bold;
+  padding-bottom: 8px;
+}
+
+.category-description {
+  font-size: 20px;
+  padding-bottom: 18px;
+}
+
+
+/* ITEM */
+
+.item {
+  display: block;
+  float: left;
+  text-align: left;
+  box-sizing: border-box;
+  /*width: 32%;*/
+  /*padding: 12px 20px;*/
+  margin: 0 1% 15px 0;
+  overflow: hidden;
+  position: relative;
+  /*background-color: #F7F1F0;*/
+  border: 1px solid #3E3333;
+  /*border-radius: 3px;*/
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
+}
+
+.item:hover {
+  /*background-color: #dadada;*/
+  background-color: #ece1c6;
+  opacity: 0.75;
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
+}
+
+.item img {
+  width: 60px;
+  height: 60px;
+}
+
+.item-title {
+  font-family: 'Alegreya', serif;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  margin: 0px 20px;
+  /*text-transform: uppercase;
+  font-weight: 900;*/
+  clear: both;
+  font-weight: normal;
+  padding: 15px;
+  opacity: 1;
+
+}
+
+.item p {
+  padding: 15px 20px;
+}
+
+.see-also {
+  border-top: 1px #000000 solid;
+  margin: 5px 10px;
+}
+
+.see-also-link {
+  text-decoration: underline;
+}
+
+.icon {
+  text-align: center;
+}
+
+.book-highlight {
+  background-color: #74F3AA;
+}
+
+.article-highlight {
+  background-color: #A2DEF9;
+}
+
+.site-highlight {
+  background-color: #F8BCFD;
+}
+
+.media-highlight {
+  background-color: #FFBAB0;
+}
+
+.idea-highlight {
+  background-color: #F7ED8F;
+}
+
+
+p {
+  font-size: 16px;
+  line-height:1.5em;
+}
+
+a {
+  text-decoration:none;
+  color:#000000;
+}
+
+a:hover {
+  /*color: #777777;*/
+  /*opacity: .8;*/
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
+}
+
+#toc a:hover {
+  color: #777777;
+}
+
+a:hover .item-title {
+  opacity: .8;
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
+}
+
+strong {
+  font-weight: 700;
+  color: #222222;
+}
+
+/*#about {
+  width: 450px;
+  padding: 40px 20px 0;
+  margin-left: 300px;
+  position: relative;
+}*/
+
+@media screen and (max-width:900px) {
+  #container {
+    width: 600px;
+  }
+  #about {
+    margin-left: 170px;
+    width: 390px;
+  }
+}
+
+@media screen and (max-width:640px) {
+  #container {
+    width: auto;
+    max-width: 480px;
+    padding: 2em 10px 4em;
+  }
+  #about {
+    width: auto;
+    margin-left: 0;
+  }
+  .item {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width:640px) and (max-width:900px) {
+  .item:nth-child(2n+1) {
+    clear: both;
+  }
+  .item {
+    width: 49%;
+  }
+}
+
+
+
+@media screen and (min-width:900px){
+  .item:nth-child(3n+3) {
+    clear: both;
+  }
+  .item {
+    width: 32%;
+  }
+}
