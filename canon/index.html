@@ -8,12 +8,9 @@
 
     <!-- USE THESE GOOGLE FONTS - OR PICK DIFFERENT ONES! -->
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400italic,900italic,900,700italic,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800' rel='stylesheet' type='text/css'>
 
-    <!-- SELECT ONE OF THESE STYLESHEETS AS STARTING POINT - OR CREATE YOUR OWN! -->
-    <!-- <link rel="stylesheet" href="style-light.css"/> -->
     <link rel="stylesheet" href="style-light.css"/>
-    <!-- <link rel="stylesheet" href="style-dark.css"/> -->
 </head>
 
 
@@ -21,9 +18,32 @@
 
     <div id="container">
 
-        <!-- OPTIONAL: INSERT TOP NAV HERE -->
-        <div id="nav">
-        </div>
+<header class="pv3 pv4-l center mw9 pr6-l pl6-l f3 fw6 ph3 ph0-ns lh-copy">
+    <a class="no-underline" href="/"><brand class="relative">Tom Critchlow</brand></a>
+
+    <div class="fr f5 pv2 fw3 mobilemenu">
+        <a href="#" id="mobilemenu">menu</a>
+    </div>
+    <div class="fr-l navigation w-100-s pv4 pt0-l tc" id="navigation">
+    <a class="ma3-l mh2 no-underline" href="/writing">writing</a>
+    <a class="ma3-l mh2 no-underline" href="/consulting">consulting</a>
+    <a class="ma3-l mh2 no-underline" href="/about">about</a>
+    </div>
+
+    </header>
+
+
+
+<script type="text/javascript">
+document.getElementById('mobilemenu').onclick = function() {
+    var x = document.getElementById("navigation");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+}
+</script>
 
         <!-- TOP BOX - TITLE + INTRO -->
         <div id="header">
