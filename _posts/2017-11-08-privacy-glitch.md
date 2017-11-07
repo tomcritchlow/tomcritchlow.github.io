@@ -20,7 +20,7 @@ The thinking here is to use glitch art techniques to expose the contrast between
 
 ## nyt_glitch_studies
 
-The New York Times generated 78 cookies when I visited the site. Producing a series f
+The New York Times generated 78 cookies when I visited the site. Inserting them into images and screenshots of the New York Times website I got the below series.
 
 The first series of glitch studies are taken from screenshots of the New York Times. These images are more digital in nature and often wildly more colorful than other types of image:
 
@@ -49,7 +49,7 @@ nyt_glitch_studies_02:
 
 </div>
 
-The third series is taken from a specific article on the [biggest art sales of the decade](http://www.nytimes.com/interactive/2015/05/12/arts/design/top-art-auction-sales.html). The juxtopisition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
+The third series is taken from a specific article on the [biggest art sales of the decade](http://www.nytimes.com/interactive/2015/05/12/arts/design/top-art-auction-sales.html). The juxtaposition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
 
 nyt_glitch_studies_03:
 
@@ -66,7 +66,7 @@ nyt_glitch_studies_03:
 
 ## The Wall Street Journal
 
-The WSJ dropped 39 cookies on me. Here's what I did with them.
+The WSJ dropped 39 cookies on me.
 
 This study is of a drawing of Ross Ulbricht, founder of the anonymous marketplace Silk Road. The double face that emerges reminds us of the many facets to this story and the idea of multiple personalities - Ross himself created a persona (the dread pirate roberts) to hide behind and claimed that it wasn't a single identity but rather one run by many people:
 
@@ -84,11 +84,11 @@ wsj_glitch_studies_01:
 
 ## The Making of Glitch Cookies
 
-As a creative tinkerer I owe a huge debt of gratitude to those that have come before me. Most of the code for this project was copied and pasted from code found online. In honor of the remix culture on the web here is a step by step guide on producing your own glitch studies: 
+As a creative tinkerer I owe a huge debt of gratitude to those that have come before me. Most of the code for this project was copied and pasted from code found online. In honor of the remix culture on the web here is a step by step guide on producing your own privacy glitch: 
 
-Step 1) Get a screenshot of the homepage of the New York Times (12.28pm May 13th, 2015). (Achieved using the Google Drive Chrome plugin to capture the whole page - interestingly we're already seeing glitches start to emerge in the image).
+Step 1) Get a screenshot of the homepage of the New York Times (12.28pm May 13th, 2015). (Achieved using the Google Drive Chrome plugin to capture the whole page - interestingly we're already seeing digital artefacts start to emerge in the image).
 
-Step 2) Collect all the cookies dropped (12:20pm Wed May 13th, 2015). I did this by copy and pasting from the Chrome resources window: (this may also have introduced some glitches...) 
+Step 2) Collect all the cookies dropped (12:20pm Wed May 13th, 2015). I did this by copy and pasting from the Chrome resources window: 
 
 ![](/images/glitchstudies/cookies.png)
 
@@ -97,12 +97,8 @@ https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
 
 A sincere gratitude of debt is due to artofwhatever for their wonderful python code without which this project would not have been possible.
 
-Step 4) Run code several times to generate new glitch cookie artworks and choose the most interesting. Note that many of them will not render properly in the mac preview window.
+Step 4) Run code several times to generate new glitch artworks and choose the most interesting. Note that many of them will not render properly in the mac preview window.
 
-## Signed Prints?
+## Signed Prints & Commissions?
 
-If anyone wants a signed print of one of these media glitch prints drop me an email! tjcritchlow@gmail.com
-
---
-
-[^n]: Footnote the first
+If anyone wants a signed print of one of these privacy glitch prints drop me an email! tjcritchlow@gmail.com I'd also consider a commission too if you want to email me your own screenshots and the contents of the cookies I'll whip up some images for you.
