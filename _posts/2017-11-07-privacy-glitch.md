@@ -93,7 +93,7 @@ Step 2) Collect all the cookies dropped (12:20pm Wed May 13th, 2015). I did this
 ![](/images/glitchstudies/cookies.png)
 
 Step 3) Modify the glitch python code found here, to insert all the cookies randomly within the jpg file.
-https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py
+[https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py](https://github.com/artofwhatever/glitch-art-maker/blob/master/glitch.py)
 
 A sincere gratitude of debt is due to artofwhatever for their wonderful python code without which this project would not have been possible.
 
