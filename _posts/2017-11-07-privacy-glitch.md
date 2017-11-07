@@ -24,7 +24,7 @@ The New York Times generated 78 cookies when I visited the site. Inserting them 
 
 The first series of glitch studies are taken from screenshots of the New York Times. These images are more digital in nature and often wildly more colorful than other types of image:
 
-nyt_glitch_studies_01:
+**nyt_glitch_studies_01:**
 
 <div class="slider">
 
@@ -36,7 +36,7 @@ nyt_glitch_studies_01:
 
 The second series is taken from individual images, in high resolution, taken from current affiars photo journalism on the New York Times.
 
-nyt_glitch_studies_02:
+**nyt_glitch_studies_02:**
 
 <div class="slider">
 
@@ -51,7 +51,7 @@ nyt_glitch_studies_02:
 
 The third series is taken from a specific article on the [biggest art sales of the decade](http://www.nytimes.com/interactive/2015/05/12/arts/design/top-art-auction-sales.html). The juxtaposition of art imagery and glitch effects produces something that draws the eye from the physical to the digital, blurring boundaries and notions of offline and online.
 
-nyt_glitch_studies_03:
+**nyt_glitch_studies_03:**
 
 <div class="slider">
 
@@ -70,7 +70,7 @@ The WSJ dropped 39 cookies on me.
 
 This study is of a drawing of Ross Ulbricht, founder of the anonymous marketplace Silk Road. The double face that emerges reminds us of the many facets to this story and the idea of multiple personalities - Ross himself created a persona (the dread pirate roberts) to hide behind and claimed that it wasn't a single identity but rather one run by many people:
 
-wsj_glitch_studies_01:
+**wsj_glitch_studies_01:**
 
 <div class="slider">
 
