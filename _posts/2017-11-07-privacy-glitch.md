@@ -82,7 +82,7 @@ This study is of a drawing of Ross Ulbricht, founder of the anonymous marketplac
 </div>
 
 
-## The Making of Glitch Cookies
+## The Making of Privacy Glitch
 
 As a creative tinkerer I owe a huge debt of gratitude to those that have come before me. Most of the code for this project was copied and pasted from code found online. In honor of the remix culture on the web here is a step by step guide on producing your own privacy glitch: 
 
