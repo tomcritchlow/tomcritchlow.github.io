@@ -1,10 +1,12 @@
 ---
 layout: blog
-title: Media Glitch
+title: Privacy Glitch
 subtitle: A digital art project exploring the relationship between the visible and invisible in media.
 ---
 
 As we browse around the web we are constantly tracked. Unknown entities watch us like a million invisible CCTV cameras logging our every movement. *Privacy Glitch* is a digital art project designed to make these invisible power structures visible.
+
+*Note: I originally did this work in 2015 but never got around to publishing. Digging back through my archives I found the glitched images of Trump and Clinton arresting and decided to get it up on my blog. Enjoy.*
 
 I'm using a process known as *glitching* (and more specifically the process of *data-bending*). The source images are photos and screenshots taken from popular media sites and the characters inserted into those image files to produce the glitch effects are the contents of the tracking cookies generated when I visited these sites in my browser.
 
@@ -12,13 +14,11 @@ The final product is a series of images at once stark, abstract, colorful and br
 
 *Please note - because of the image handling capabilities of various browsers I recommend using the Chrome browser to view this page, other browsers may distort the images in interesting ways but I have curated these works to be best displayed in Chrome. Thank you.*
 
-![](/images/glitchstudies/nytheadline2.gif)
+## The Thinking Behind Privacy Glitch
 
-## The Thinking Behind Glitch Cookies
+The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight? This is a small project to try and begin to answer the question of how we talk about and think about these hidden network effects.
 
-The thinking here is to use glitch art techniques to expose the contrast between the visible and invisible - through the lens of mainstream news culture. What is said and not said? What is visible and not visible? How do these structures play out and in particular how much do we suffer from hidden power structures that exist beyond our line of sight. To quote the matrix - they're in the walls.
-
-## The New York Times Homepage
+## nyt_glitch_studies
 
 The New York Times generated 78 cookies when I visited the site. Producing a series f
 
