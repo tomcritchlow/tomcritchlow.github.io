@@ -8,7 +8,7 @@ My friend [Sean Blanda](http://seanblanda.com/) and I were chatting about the co
 
 Sean came up with the name **The Malcontents** and a podcast was born...
 
-We recorded a pilot episode with zero prep or technical setup - we recorded it on Anchor.fm and you can listen to episode 0 here:
+We recorded a pilot episode with zero prep or technical setup - we recorded it on Anchor.fm and you can listen to it here:
 
 <iframe src="https://anchor.fm/malcontents/episodes/fb3a74/embed?at=1130046" height="270px" width="400px" frameborder="0" scrolling="no"></iframe>
 
