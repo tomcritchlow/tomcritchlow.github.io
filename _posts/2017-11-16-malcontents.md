@@ -23,3 +23,7 @@ We talk about:
     - Sean's: [Substack](https://www.substack.com/)
 
 We hope you enjoy it! Overall I'm pretty happy with how it came out (interruptions and general flailing aside) and I think we might record a few more...
+
+[Subscribe on Google Play here](https://play.google.com/music/m/Iaq57ztemy3movzia3m2sy44wyy?t=The_Malcontents)
+
+More services coming soon..
