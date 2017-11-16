@@ -19,7 +19,7 @@ We talk about:
 - Machine-created content
 - Race to the bottom of sameness
 - Bonus: Site of the week
-- Tom's: [Dark Matter](https://tinyletter.com/ianfitzpatrick)
-- Sean's: [Substack](https://www.substack.com/)
+    - Tom's: [Dark Matter](https://tinyletter.com/ianfitzpatrick)
+    - Sean's: [Substack](https://www.substack.com/)
 
 We hope you enjoy it! Overall I'm pretty happy with how it came out (interruptions and general flailing aside) and I think we might record a few more...
