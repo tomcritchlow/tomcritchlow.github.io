@@ -29,7 +29,7 @@
   {{content}}
 
   <div class="light-green underline">
-    <span href="" id="copytext" data-clipboard-text="http://tomcritchlow.com{{page.url}}">Click to copy URL for sharing</span>
+    <span id="copytext" data-clipboard-text="http://tomcritchlow.com{{page.url}}">Click to copy URL for sharing</span>
   </div>
 
   <script>
@@ -43,7 +43,7 @@
 
   function trackCopy() {
   ga(‘send’, ‘event’, ‘copyURL’, ‘copy’, ‘{{page.url}}’);
-}
+};
 
 </script>
 
