@@ -113,10 +113,8 @@ padding-top: 30px;
     padding-bottom: 30px;
 }
 
-#copyurl{
-    border: 1px solid #00ff00;
-    outline: 0;
-    -webkit-appearance: none;
+.copytext{
+        cursor: pointer;
 }
 
 .tcgrey{
