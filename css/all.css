@@ -113,6 +113,18 @@ padding-top: 30px;
     padding-bottom: 30px;
 }
 
+#copyurl{
+    height: 44px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color:#f3f3f3;
+    border: 1px solid #00ff00;
+    border-radius: 3px;
+    outline: 0;
+    -webkit-appearance: none;
+}
+
 .tcgrey{
     background-color: #f3f3f3;
 }

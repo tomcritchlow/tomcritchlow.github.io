@@ -28,7 +28,11 @@
   
   {{content}}
 
-<input class="copyurl" type="text" value="http://tomcritchlow.com{{page.url}}">
+<input id="copyurl" type="text" value="http://tomcritchlow.com{{page.url}}"><button class="btn" data-clipboard-target="#copyurl">
+
+  <script>
+    new Clipboard('.btn');
+    </script>
 
   <hr class="w3 mv5">
 
