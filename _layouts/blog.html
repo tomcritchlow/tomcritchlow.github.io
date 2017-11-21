@@ -38,7 +38,8 @@
 		var clipboard = new Clipboard('#copytext');
 
     clipboard.on('success', function(e) {
-       document.getElementById('copytext').innerHTML = 'URL Copied to clipboard!';
+      document.getElementById('copyurl').outerHTML = ""; 
+      document.getElementById('copytext').innerHTML = 'URL Copied to clipboard!';
        document.getElementById('copytext').style.color = "#00ff00";
         document.getElementById("copytext").focus();
     });
