@@ -38,6 +38,7 @@
     clipboard.on('success', function(e) {
       document.getElementById('copytext').innerHTML = 'URL Copied to clipboard ready for sharing!';
        document.getElementById('copytext').style.color = "#00ff00";
+       ga(‘send’, ‘event’, ‘copyURL’, ‘copy’, ‘{{page.url}}’);
     });
 
 </script>
