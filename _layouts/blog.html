@@ -29,13 +29,13 @@
   {{content}}
 
 <input id="copyurl" value="http://tomcritchlow.com{{page.url}}" />
-  <span class="copytext" data-clipboard-target="#copyurl">Click to copy URL</span>
+  <span id="copytext" data-clipboard-target="#copyurl">Click to copy URL</span>
 
   <script>
-		var clipboard = new Clipboard('.copytext');
+		var clipboard = new Clipboard('#copytext');
 
     clipboard.on('success', function(e) {
-       document.getElementByClass('copytext').innerHTML = 'URL Copied to clipboard, now go share it!';
+       document.getElementById('copytext').innerHTML = 'URL Copied to clipboard, now go share it!';
     });
 
 </script>
