@@ -40,6 +40,7 @@
     clipboard.on('success', function(e) {
        document.getElementById('copytext').innerHTML = 'URL Copied to clipboard, now go share it!';
        document.getElementById('copytext').style.color = "#00ff00";
+        document.getElementById("copytext").focus();
     });
 
 </script>
