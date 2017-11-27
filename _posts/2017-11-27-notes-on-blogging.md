@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: A few notes on blogging & independent feeds
-subtitle: A resistance to hyperfeeds
+subtitle: On resisting hyperfeeds
 ---
 
 I've been struggling recently with the hyperfeeds. Twitter and Facebook specifically. These slick, algorithmically designed experiences designed for the motives of BigSocial are increasingly leaving me dissatisfied.
