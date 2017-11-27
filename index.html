@@ -30,7 +30,7 @@
                 <div class="cf w-100 lh-copy">
                     <div class="fl w-third-l w-100 pa3 lh-copy">
                         <h2>My Blog</h2>
-                        <p>I have a [blog](http://tomcritchlow.com/writing/). Nothing fancy but it's not hosted on Medium so that's a relief. Here's the latest:</p>
+                        <p>I have a <a href="http://tomcritchlow.com/writing/">blog</a>. Nothing fancy but it's not hosted on Medium so that's a relief. Here's the latest:</p>
                         <ul>
                             {% for post in site.posts limit:5 %}
                             <li><a href="{{post.url}}">{{post.title}}</a> - {{ post.date | date_to_string }}</li>
@@ -51,8 +51,8 @@
                         <ul>
                             <li><a href="http://tomcritchlow.com/consulting/">My consulting page</a></li>
                             <li><a href="http://tomcritchlow.com/2017/07/18/the-consultants-grain/">The consultant's grain</a> - a blog post about culture change and the nature of consulting</li>
+                            <li><a href="http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/">A fieldguide for independent consulting</a> - some tips for those wanting to be an independent consultant</li>
                         </ul> 
-                        Or [view the archives here](https://tinyletter.com/tomcritchlow/archive).
                     </div>
                 </div>
                  <div class="cf w-100">
