@@ -70,6 +70,9 @@ https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e
 https://medium.com/@lynn_72328/cocos-memory-palace-a-strange-fantasia-28b48264612f
 http://barrow.matthewsheret.com/
 
+Independents
+http://counterpractice.tumblr.com/
+
 
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
