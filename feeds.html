@@ -11,6 +11,9 @@
 
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800' rel='stylesheet' type='text/css'>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
+
 <script type="text/javascript">
   window.onload = function() { init() };
 
@@ -123,7 +126,23 @@ time{
 <div id="infobox">This is a list of the feeds I'm reading. The page auto-updates every 10 minutes or so. Why? Because we need to resist the hyperfeeds and build our own small feeds in the open</div>
 
 
-<span id="loading">Loading...</span>
+<span id="loading">
+
+
+  <div class="preloader-wrapper small active">
+    <div class="spinner-layer spinner-green-only">
+      <div class="circle-clipper left">
+        <div class="circle"></div>
+      </div><div class="gap-patch">
+        <div class="circle"></div>
+      </div><div class="circle-clipper right">
+        <div class="circle"></div>
+      </div>
+    </div>
+  </div>
+
+
+</span>
 
 
   </div>
