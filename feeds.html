@@ -44,7 +44,7 @@ function showInfo(sheets, tabletop) {
       if(count<50){
       var description = arraydata[i][3];
       }
-      $("#links").append("<div class='feeditem'><h3><img src='http://s2.googleusercontent.com/s2/favicons?domain_url="+siteurl+"'/><a href='"+url+ "'>" + title + "</a><span> | "+ sitename +"</span></h3><time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
+      $("#links").append("<div class='feeditem'><h5><img src='http://s2.googleusercontent.com/s2/favicons?domain_url="+siteurl+"'/><a href='"+url+ "'>" + title + "</a><span> | "+ sitename +"</span></h5><time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
       count++;
     }
 
@@ -80,12 +80,7 @@ body{
   display:none;
 }
 
-h3{
-  margin-top:10px;
-  margin-bottom:0px;
-}
-
-h3 img{
+h5 img{
   display:inline-block;
   padding-right:10px;
   margin-left:-25px;
@@ -96,17 +91,19 @@ h3 span{
   font-size:14px;
 }
 
-h3 a{
+h5 a{
   text-decoration:none;
   color:black;
 }
 
-h3 a:hover{
+h5 a:hover{
   text-decoration:underline;
 }
 
 hr{
   width:70%;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 time{
