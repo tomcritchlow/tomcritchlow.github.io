@@ -4,9 +4,9 @@ title: The Malcontents Episode 3
 subtitle: How Content Works
 ---
 
-Episode 3 is here!
-
 [The Malcontents](http://themalcontents.fm/) is a podcast all about the world of content (whatever that means, maybe we'll get to that in a future episode). For now we're having fun discussing recent news and stories in the media/content landscape.
+
+This episode Sean and I spend our time talking about how the sausage is made in the business of content by looking at some of the infrastructural effects of Facebook and the underbelly of modern media. Fun times!
 
 Get the show here:
 
