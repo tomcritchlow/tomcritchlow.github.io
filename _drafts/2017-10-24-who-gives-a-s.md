@@ -17,3 +17,5 @@ Who gives a shit about your content? Make something that moves your audience.
 Not every company needs content that moves their audience. But if you need connection, intimacy, connection and loyalty from your audience make something they give a shit about.
 
 Make something you give a shit about.
+
+The ugly truth about much of the content produced online is that it's being measured on superficial metrics by unmotivated parties. If you're in the business of making your audience take action then you're gonna need to make something they give a shit about.

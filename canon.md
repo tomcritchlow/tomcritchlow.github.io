@@ -23,6 +23,10 @@ People
 </ul>
 </ul>
 
+Ze Frank!
+
+
+
 BERG
 https://vimeo.com/121072011
 
@@ -60,10 +64,15 @@ https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb
 The uses of the liberal arts
 http://www.ljhammond.com/essay.htm
 http://harpers.org/archive/1997/09/ii-as-a-weapon-in-the-hands-of-the-restless-poor/
-https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
 
 Digital art & Creativity
 https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e
+https://medium.com/@lynn_72328/cocos-memory-palace-a-strange-fantasia-28b48264612f
+http://barrow.matthewsheret.com/
+
+Independents
+http://counterpractice.tumblr.com/
+
 
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
@@ -139,6 +148,6 @@ Jimmy Luxury
 Kind of blue
 My mixes
 
-
+Put my poetry here.
 
 Inspired by http://brendanschlagel.com/canon/
