@@ -9,6 +9,7 @@ Categories:
 <li><a href="#parenting">Becoming a parent</a></li>
 <li><a href="#books">Books</a></li>
 <li><a href="#films">Films</a></li>
+<li><a href="#maths">Mathematics</a></li>
 People
 <ul>
 <li><a href="#craigmod">Craig Mod</a></li>
@@ -19,11 +20,14 @@ People
 <li><a href="#sebastianmarshall">Sebastian Marshall</a></li>
 <li><a href="#dereksivers">Derek Sivers</a></li>
 <li><a href="#paulford">Paul Ford</a></li>
+<li><a href="#zefrank">Ze Frank</a></li>
+<li><a href="#paulsoulellis">Paul Soulellis</a></li>
+<li><a href="#debchachra">Deb Chachra</a></li>
 </ul>
 </ul>
 
 
-Ze Frank!
+
 
 
 
@@ -73,6 +77,10 @@ http://barrow.matthewsheret.com/
 Independents
 http://counterpractice.tumblr.com/
 
+Digital art
+Lifewinning
+Phil Stearns
+
 
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
@@ -84,7 +92,7 @@ Launching work on the internet (postindustrial industry)
 postindustrialdesign.school
 entrpeneurial design syllabus
 
-Mathematics:
+<h3 id="maths">Mathematics</h3>
 Godel Escher Bach
 Logicomix
 Galilleos Letters
@@ -92,6 +100,7 @@ Flatland
 Fermats last theorem
 Uncle Petros goldbach conjecture
 A mathematicians apology
+(Also I have a symmetrical group named after me!)
 
 
 Online learning courses
