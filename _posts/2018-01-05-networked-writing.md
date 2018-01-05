@@ -4,7 +4,7 @@ title: Experiments in Networked Writing
 subtitle: What's next?
 ---
 
-I often talk about bloggging as "networked writing". For me, it's the key difference between other forms of writing and blogging. The idea that blogs exist within the network is crucial to understanding the medium (the medium is the message - could one say the blogosphere is the blog?).
+I often talk about blogging as "networked writing". For me, it's the key difference between other forms of writing and blogging. The idea that blogs exist within the network is crucial to understanding the medium (the medium is the message - could one say the blogosphere is the blog?).
 
 Why networked writing? For me, blogging and networked writing is interesting because:
 
