@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The Theatre of Work
-subtitle: The employee performance
+subtitle: Briefcases 2.0
 ---
 
 90% of the time we're performing our role. We come to work not to actually achieve anything but rather to look like the role we've set out.
