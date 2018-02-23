@@ -20,7 +20,7 @@ What's going on here? I call it small b blogging. It's a virtuous cycle of makin
 
 Small b blogging is learning to write and think *with* the network. Small b blogging is writing content designed for small deliberate audiences and showing it to them. Small b blogging is deliberately chasing interesting ideas over pageviews and scale. An attempt at genuine connection vs the gloss and polish and mass market of most "content marketing".
 
-And remember that you are your own audience. Small b blogging is writing things that you link back to and reference time and time again. Ideas that can evolve and grow as your thinking and audience grows.
+And remember that you are your own audience! Small b blogging is writing things that you link back to and reference time and time again. Ideas that can evolve and grow as your thinking and audience grows.
 
 As Venkatesh says in [the calculus of grit](https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/) - **release** work often, **reference** your own thinking & **rework** the same ideas again and again. That's the small b blogging model.
 
@@ -50,15 +50,15 @@ So, getting a post read by "everyone" is harder than ever but reaching hundreds 
 
 ## The promise of audience is big B blogging
 
-So what is big B blogging? I'd contend that too much of what you read is written for large audiences. Too much content on the web is designed for scale, for sharing, for gloss and finish. It's professionally produced media, or designed to look and feel like it. So when people think of blogging their first thought is audience and pageviews.
+So what is **big B blogging**? I'd contend that too much of what you read on the web is written for large audiences. Too much content on the web is designed for scale, for sharing, for gloss and finish. It's mass media, whether it's made by a media company or an individual acitng like one. So when people think of blogging their natural reference point is create something that looks like the mass media they're consuming. Content designed for pageviews and scale.
 
-The first thought of writing for the web is to get it in a prestigious publication, or place it somewhere with an in-built audience. i.e. Medium, Inc, Entrepreneur, Fast Company etc.
+This is why it's appealing to people writing on the web to get it in a prestigious publication, or place it somewhere with an in-built audience. i.e. Medium, Inc, Entrepreneur, Fast Company etc.
 
-It's so alluring to want to write something there because you'll get more page views than if you put it on your own site and you'll get the prestige of saying you were published in Fast Company (or, or etc).
+It's so alluring to want to write something there because you'll get more page views than if you put it on your own site and you'll get the prestige of saying you were published in Fast Company (or, or, etc).
 
 But what is lost by following big B blogging? By chasing audience we lose the ability to be ourselves. By writing for everyone we write for no one. Too often I read things otherwise smart people have written for places like Fast Company and my eyes glaze over. Personal identity is necessarily watered down. Yes those places have large audiences but they're shallow audiences. They don't care about **you** at all. Your writing washes through their feeds like water.
 
-Instead - I think most people would be better served by subscribing to small b blogging. What you want is something with YOUR personality. Writing and ideas that are addressable (i.e. you can find and link to them easily in the future) and archived (i.e. you have a list of things you've written all in one place rather than spread across publications and URLs) and memorable (i.e. has your own design, logo or style). Writing that can live and breathe in small networks. Scale be damned.
+Instead - I think most people would be better served by subscribing to small b blogging. What you want is something with YOUR personality. Writing and ideas that are **addressable** (i.e. you can find and link to them easily in the future) and **archived** (i.e. you have a list of things you've written all in one place rather than spread across publications and URLs) and **memorable** (i.e. has your own design, logo or style). Writing that can live and breathe in small networks. Scale be damned.
 
 When you write for someone else's publication your writing becomes disparate and UN-networked. By chasing scale and pageviews you lose identity and the ability to create meaningful, memorable connections within the network.
 
