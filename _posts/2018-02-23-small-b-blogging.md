@@ -50,7 +50,7 @@ So, getting a post read by "everyone" is harder than ever but reaching hundreds 
 
 ## The promise of audience is big B blogging
 
-So what is **big B blogging**? I'd contend that too much of what you read on the web is written for large audiences. Too much content on the web is designed for scale, for sharing, for gloss and finish. It's mass media, whether it's made by a media company or an individual acitng like one. So when people think of blogging their natural reference point is create something that looks like the mass media they're consuming. Content designed for pageviews and scale.
+So what is **big B blogging**? I'd contend that too much of what you read on the web is written for large audiences. Too much content on the web is designed for scale, for sharing, for gloss and finish. It's mass media, whether it's made by a media company or an individual acting like one. So when people think of blogging their natural reference point is create something that looks like the mass media they're consuming. Content designed for pageviews and scale.
 
 This is why it's appealing to people writing on the web to get it in a prestigious publication, or place it somewhere with an in-built audience. i.e. Medium, Inc, Entrepreneur, Fast Company etc.
 
