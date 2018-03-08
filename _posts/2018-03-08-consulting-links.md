@@ -45,4 +45,12 @@ This paper from 1985 feels very relevant today and really gets to the heart of t
 
 [http://my2.ewb.ca/site_media/static/library/files/1177/of-strategies-deliberate-and-emergent.pdf](http://my2.ewb.ca/site_media/static/library/files/1177/of-strategies-deliberate-and-emergent.pdf)
 
+## Surfing the edge of chaos
+
+My friend [Paul Millerd](https://think-boundless.com/) shared this one that fits the theme perfectly:
+
+> Is complexity just interesting science, or does it represent something of great importance in thinking about strategic work? As these illustrations suggest, treating organizations as complex adaptive systems provides useful insight into the nature of strategic work. In the following pages, I will (1) briefly describe how the four bedrock principles of complexity occur in nature, and (2) demonstrate how they can be applied in a managerial context. In particular, I use the efforts underway at Royal Dutch/Shell to describe an extensive and pragmatic test of these ideas.
+
+[https://sloanreview.mit.edu/article/surfing-the-edge-of-chaos/](https://sloanreview.mit.edu/article/surfing-the-edge-of-chaos/)
+
 What else do you have?
