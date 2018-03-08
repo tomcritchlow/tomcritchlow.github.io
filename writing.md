@@ -12,7 +12,7 @@ title: Latest Writing
 <ul>
 {% endif %}
 
-<li><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li>
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li>
 
 {% if forloop.last %}
 </ul>
