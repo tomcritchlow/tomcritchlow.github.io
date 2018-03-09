@@ -1,5 +1,5 @@
 ---
-layout: music
+layout: page
 title: Music I like
 ---
 
