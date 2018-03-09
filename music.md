@@ -3,6 +3,11 @@ layout: blog
 title: Music I like
 ---
 
+<style>
+svg{
+    fill:green;
+}
+    </style>
 
 {% for link in site.music %}
 
