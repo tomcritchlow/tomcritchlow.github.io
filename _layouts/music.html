@@ -1,0 +1,21 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
+    <div class="pv4 w-two-thirds-ns">
+
+  <h1 class="f2 f-subheadline-l fw8 lh-solid mv2 posttitle">{{page.title}}</h1>
+
+
+  
+  <div class="musiclinks">{{link.music}} <a href="{{page.url}}">#</a> - <a title="Open with Spotify" href="https://open.spotify.com/search/albums/{{page.music}}"><img style="padding:0;height:1em" src="/images/spotify.svg" /></a> | <a title="Open with Google Play Music" href="https://play.google.com/music/listen#/sr/{{page.music}}"><img style="padding:0;height:1em" src="/images/playmusic.svg" /></a> | <a title="Open with Apple Music" href="{{page.music}}"><img style="padding:0;height:1em" src="/images/applemusic.svg" /></a></div>
+                                    
+
+</div>
+</div>
+
+
+{% include footer.html %}

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: music
 title: Music I like
 ---
 
