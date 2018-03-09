@@ -6,3 +6,5 @@ collections:
     output: true
   links:
     output: true
+  music:
+    output: true    
