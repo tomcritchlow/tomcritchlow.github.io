@@ -3,6 +3,15 @@ layout: blog
 title: Music I like
 ---
 
+<style>
+#musiclinks img{
+    padding:0;
+    height:1em;
+    margin-bottom:-0.125em;
+}
+    </style>
+
+<div class="musiclinks">
 
 {% for link in site.music %}
 
@@ -11,7 +20,7 @@ title: Music I like
 
 {% endfor %}
 
-
+</div>
 
 ToDO:
 - Link to services
