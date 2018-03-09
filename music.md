@@ -6,7 +6,7 @@ title: Music I like
 
 {% for link in site.music %}
 
-{{link.music}} <a href="{{link.url}}">#</a> - <a href="https://open.spotify.com/search/albums/{{link.music}}">Spotify</a>
+{{link.music}} <a href="{{link.url}}">#</a> - <a href="https://open.spotify.com/search/albums/{{link.music}}">Spotify</a> | <a href="https://play.google.com/music/listen#/sr/{{link.music}}">Google</a>
 
 
 {% endfor %}
