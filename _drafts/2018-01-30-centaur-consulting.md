@@ -5,6 +5,7 @@ subtitle: Consulting with the machine
 ---
 
 Technology is a texture.
+Augmented consulting.
 
 I understand how people use technology and how technology uses people.
 

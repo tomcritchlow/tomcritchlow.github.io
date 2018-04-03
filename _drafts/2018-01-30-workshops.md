@@ -4,6 +4,14 @@ title: Why I start client engagements with workshops
 subtitle: A crash course in culture
 ---
 
+Workshops work. 
+
+They're efficient. In the sense that they're expensive but short and you get to the heart of issues quickly.
+
+Sparring.
+
+
+
 It's good for them and good for me.
 
 Provocation - can you get them to think differently about their business?

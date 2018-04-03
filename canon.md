@@ -23,6 +23,7 @@ People
 <li><a href="#zefrank">Ze Frank</a></li>
 <li><a href="#paulsoulellis">Paul Soulellis</a></li>
 <li><a href="#debchachra">Deb Chachra</a></li>
+<li><a href="#bretvictor">Bret Victor</a></li>
 </ul>
 </ul>
 
@@ -55,6 +56,9 @@ http://sebastianmarshall.com/the-million-dollar-question
 
 Derek Sivers
 https://sivers.org/io
+
+Bret Victor
+http://worrydream.com/#!/MediaForThinkingTheUnthinkable
 
 The role and identity of being a parent
 http://justy.me/justy/2013/8/18/journey-to-justinnia-or-how-i-got-my-5-yo-son-to-sit-still-and-concentrate-for-almost-5-hours
