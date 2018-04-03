@@ -1,8 +1,10 @@
 ---
 layout: blog
-title: Centaur Consulting
-subtitle: Consulting with the machine
+title: Augmented Consulting
+subtitle: Centaur thinking for the modern web
 ---
+
+Documents pyramid - but old and outdated.
 
 Technology is a texture.
 Augmented consulting.
