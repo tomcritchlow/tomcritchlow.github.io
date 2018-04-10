@@ -135,7 +135,7 @@ footer{
     border-top:2px dashed #00ff00;
 }
 
-.dottedgreenarrow:before{
+.dottedgreenarrow::before{
     position: absolute;
     content: '';
     bottom: -10px;
@@ -147,7 +147,7 @@ footer{
     border-left: 10px solid black;
 }
 
-.dottedgreenarrow:after{
+.dottedgreenarrow::after{
     position: absolute;
     content: '';
     bottom: -10px;
