@@ -130,7 +130,7 @@ footer{
     min-height:300px;
 }
 
-.dottedgreenline:after{
+.dottedgreenarrow:after{
     width:100%;
     border-top:2px dashed #00ff00;
 }
