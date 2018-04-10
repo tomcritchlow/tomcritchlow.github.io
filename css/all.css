@@ -134,3 +134,27 @@ footer{
     width:100px;
     border-top:2px dashed #00ff00;
 }
+
+.dottedgreenarrow:before{
+    position: absolute;
+    content: '';
+    bottom: -10px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid black;
+}
+
+.dottedgreenarrow:after{
+    position: absolute;
+    content: '';
+    bottom: -10px;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid black;
+}
