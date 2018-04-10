@@ -138,6 +138,6 @@ footer{
 .dottedgreenarrow:after{
     width:100%;
     display:block;
-    content:"";
+    content: '';
     border-top:2px dashed #00ff00;
 }
