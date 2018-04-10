@@ -98,6 +98,10 @@ blockquote {
     margin-left: 10px;
 }
 
+.postcontainer{
+    word-wrap:break-word;
+}
+
 .postcontainer h2, .postcontainer h3{
     padding-top: 1rem;
 }
