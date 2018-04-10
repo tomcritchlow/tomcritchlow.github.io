@@ -133,6 +133,8 @@ footer{
 .dottedgreenarrow{
     width:100px;
     border-top:2px dashed #00ff00;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
 .dottedgreenarrow::before{
