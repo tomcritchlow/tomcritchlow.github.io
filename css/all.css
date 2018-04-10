@@ -135,28 +135,29 @@ footer{
     border-top:2px dashed #00ff00;
     margin-top:10px;
     margin-bottom:10px;
+    position:relative;
 }
 
 .dottedgreenarrow::before{
     position: absolute;
     content: '';
-    bottom: -10px;
+    bottom: -5px;
     left: 0;
     width: 0;
     height: 0;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-left: 10px solid black;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #00ff00;
 }
 
 .dottedgreenarrow::after{
     position: absolute;
     content: '';
-    bottom: -10px;
+    bottom: -5px;
     right: 0;
     width: 0;
     height: 0;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-left: 10px solid black;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #00ff00;
 }
