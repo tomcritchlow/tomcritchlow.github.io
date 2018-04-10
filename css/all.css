@@ -131,7 +131,6 @@ footer{
 }
 
 .dottedgreenarrow{
-    width:100px;
     border-top:2px dashed #00ff00;
     margin-top:10px;
     margin-bottom:10px;
@@ -147,13 +146,13 @@ footer{
     height: 0;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-left: 5px solid #00ff00;
+    border-right: 5px solid #00ff00;
 }
 
 .dottedgreenarrow::after{
     position: absolute;
     content: '';
-    bottom: -5px;
+    bottom: -4px;
     right: 0;
     width: 0;
     height: 0;
