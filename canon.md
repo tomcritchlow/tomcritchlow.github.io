@@ -88,6 +88,14 @@ Digital art
 Lifewinning
 Phil Stearns
 
+Glitch art
+http://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf
+
+Architecture
+http://etc.ofthiswearesure.com/2012/05/brute-force-architecture/
+Archigram
+Superstudio
+
 
 Science Fiction
 http://www.newyorker.com/magazine/2014/10/27/alan-bean-plus-four
