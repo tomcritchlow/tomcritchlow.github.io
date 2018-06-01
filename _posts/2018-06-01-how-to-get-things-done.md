@@ -22,6 +22,6 @@ Love it.
 
 From Tom Peters comes this presentation on [the excellence dividend](http://tompeters.com/2018/04/excellence-dividendin-powerpoint-annotated/). It's nice having a framework, but what if ultimately the whole thing is just a relentless focus on execution?
 
-![](excellence-dividend.png)
+![](/images/excellence-dividend.png)
 
 Tons of thought provoking ideas in here.
