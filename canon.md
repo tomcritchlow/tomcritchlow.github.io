@@ -63,6 +63,9 @@ http://worrydream.com/#!/MediaForThinkingTheUnthinkable
 Ze Frank
 A show with ze frank
 
+Allison Parrish
+http://static.decontextualize.com/bots-performative-critique.pdf
+
 The role and identity of being a parent
 http://justy.me/justy/2013/8/18/journey-to-justinnia-or-how-i-got-my-5-yo-son-to-sit-still-and-concentrate-for-almost-5-hours
 https://medium.com/@stefenchow/why-every-father-should-bring-his-toddler-out-for-a-mini-adventure-be147d9490e7#.wrxcrixod
