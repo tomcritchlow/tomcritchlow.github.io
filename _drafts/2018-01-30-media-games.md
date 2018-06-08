@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The future of games is content and the future of content is games
-subtitle: Tap tap content
+subtitle: Products of media
 ---
 
 I don't know why it was so surprising when I read it. But when I saw the headline I suddenly realized all at once that we're in a new era.
@@ -23,3 +23,5 @@ NYT crosswords
 NYT new products
 
 https://ejb.github.io/2018/06/03/interactives.html
+
+http://www.niemanlab.org/2018/06/all-the-news-thats-fit-for-you-the-new-york-times-your-weekly-edition-is-a-brand-new-newsletter-personalized-for-each-recipient/
