@@ -4,7 +4,7 @@ title: PDF Aesthetics
 subtitle: A publishing manifesto
 ---
 
-Publishing a PDF is an act of rebellion. They work on every device. But they work perfectly on none. It's there on mobile but you have to pinch to read it. There's no rules or grids or frameworks for publishing them. They can look any way, polished or xeroxed. Big or small. PDFs will outlive Facebook. They are the cockroaches of media that will be here long after we're gone. They're ugly.
+Publishing a PDF is an act of rebellion. They work on every device. But they work perfectly on none. It's there on mobile but you have to pinch pinch pinch. There's no rules or grids or frameworks for publishing a PDF. They can look any way, polished or xeroxed. Big or small. PDFs will outlive Facebook. They are the cockroaches of media that will be here long after we're gone. They're ugly and dirty.
 
 But their aesthetics are beautiful. Brutalist publishing that exposes the raw materials.
 
@@ -17,3 +17,5 @@ Some inspiration....
 [YOUTH MODE (4).pdf](http://khole.net/dl?v=4) - a research report from K-hole that sparked the entire Normcore culture. Masterfully presented.
 
 [PW5.pdf](https://www.dropbox.com/s/8wkjjw6hxiktq6t/PW5.pdf?dl=0) - Library of the Printed Web volume 5 from Paul Soulellis. The wonderful project that explores and considers the digital/print divide.
+
+Drop me your all time favorite PDFs in the comments.
