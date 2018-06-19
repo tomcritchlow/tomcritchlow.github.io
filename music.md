@@ -3,6 +3,27 @@ layout: page
 title: Music I like
 ---
 
+{% for post in site.music  %}
+{% capture this_month %}{{ post.date | date: "%M" }}{% endcapture %}
+{% capture next_month %}{{ post.previous.date | date: "%M" }}{% endcapture %}
+
+{% if forloop.first %}
+<h2 id="{{ this_month }}-ref">{{this_month}}</h2>
+<ul>
+{% endif %}
+
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> </li>
+
+{% if forloop.last %}
+</ul>
+{% else %}
+{% if this_month != next_month %}
+</ul>
+<h2 id="{{ next_month }}-ref">{{next_month}}</h2>
+<ul>
+{% endif %}
+{% endif %}
+{% endfor %}
 
 
 <ul>
@@ -14,4 +35,4 @@ title: Music I like
 {% endfor %}
 </ul>
 
-<iframe src="https://open.spotify.com/embed/user/jarrettfuller/playlist/3kLWSTNaXyElvlOTyNiGEm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>s
+https://tachyons.io/components/collections/albums/index.html
