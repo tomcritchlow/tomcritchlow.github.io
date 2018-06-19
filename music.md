@@ -1,7 +1,11 @@
 ---
-layout: page
-title: Music I like
 ---
+
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
 
 
 {% assign postsByYearMonth = site.music | group_by_exp:"music", "music.date | date: '%Y %b'"  %}
@@ -14,7 +18,7 @@ title: Music I like
   <div class="cf pa2">
     <div class="fl w-50 w-25-m w-20-l pa2">
       <a href="{{post.href}}" class="db link dim tc">
-        <img src="{{post.art}}" alt="Frank Ocean Blonde Album Cover" class="w-100 db outline black-10"/>
+        <img src="{{post.art}}" class="w-100 db outline black-10"/>
         <dl class="mt2 f6 lh-copy">
           <dt class="clip">Title</dt>
           <dd class="ml0 black truncate w-100">{{post.title}}</dd>
@@ -52,3 +56,4 @@ https://tachyons.io/components/collections/albums/index.html
   </div>
 </article>
 
+{% include footer.html %}
