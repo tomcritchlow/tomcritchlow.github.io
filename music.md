@@ -5,9 +5,6 @@ title: Music I like
 
 
 
-
-
-
 <ul>
 {% for link in site.music %}
 
@@ -17,4 +14,4 @@ title: Music I like
 {% endfor %}
 </ul>
 
-<!-- todo JS to auto-append the favicon of songlink or spotify etc depending on URL -->
+<iframe src="https://open.spotify.com/embed/user/jarrettfuller/playlist/3kLWSTNaXyElvlOTyNiGEm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>s
