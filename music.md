@@ -11,7 +11,7 @@ title: Music I like
 <ul>
 {% for link in site.music %}
 
-<li><a href="{{link.href}}">{{link.title}} by {{link.artist}}</a> - {% for tag in link.tags %}{{tag}},{% endfor %}</li>
+<li><a href="{{link.href}}">{{link.title}}</a> by {{link.artist}} - <span class="tr">{% for tag in link.tags %}{{tag}},{% endfor %}</span></li>
 
 
 {% endfor %}
