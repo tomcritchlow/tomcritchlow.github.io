@@ -12,7 +12,7 @@ title: Music I like
 <ul>
 {% endif %}
 
-<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> </li>
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> - {{post.date}} </li>
 
 {% if forloop.last %}
 </ul>
