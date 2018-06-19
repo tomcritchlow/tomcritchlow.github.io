@@ -3,6 +3,27 @@ layout: page
 title: Music I like
 ---
 
+
+{% assign postsByYearMonth = site.music | group_by_exp:"music", "music.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth %}
+<h3>{{ yearMonth.name }}</h3>
+<ul>
+{% for post in yearMonth.items %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth %}
+<h3>{{ yearMonth.name }}</h3>
+<ul>
+{% for post in yearMonth.items %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}
+
 {% for post in site.music  %}
 {% capture this_month %}{{ post.date | date: "%M" }}{% endcapture %}
 {% capture next_month %}{{ post.previous.date | date: "%M" }}{% endcapture %}
@@ -153,13 +174,3 @@ https://tachyons.io/components/collections/albums/index.html
   </div>
 </article>
 
-<h2>Archive</h2>
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
-{% for yearMonth in postsByYearMonth %}
-<h3>{{ yearMonth.name }}</h3>
-<ul>
-{% for post in yearMonth.items %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-{% endfor %}
