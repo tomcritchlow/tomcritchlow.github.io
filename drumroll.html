@@ -1,0 +1,19 @@
+---
+---
+
+<em>5/4 to the floor</em>
+
+{% assign postsByYearMonth = site.music | group_by_exp:"music", "music.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth reversed %}
+
+{{ yearMonth.name }}
+  <ul>
+{% for post in yearMonth.items %}
+<li><a href="{{post.href}}">{{post.title}}</a> by {{post.artist}}</li>
+{% endfor %}
+</ul>
+
+  
+
+
+{% endfor %}
