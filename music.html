@@ -9,7 +9,7 @@
 
 
 {% assign postsByYearMonth = site.music | group_by_exp:"music", "music.date | date: '%Y %b'"  %}
-{% for yearMonth in postsByYearMonth %}
+{% for yearMonth in postsByYearMonth reversed %}
 
 <article>
   <h2 class="f3 fw4 pa3 mv0">{{ yearMonth.name }}</h2>
