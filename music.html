@@ -23,6 +23,8 @@
           <dd class="ml0 black truncate w-100">{{post.title}}</dd>
           <dt class="clip">Artist</dt>
           <dd class="ml0 gray truncate w-100">{{post.artist}}</dd>
+          <dt class="clip">Tags</dt>
+          <dd class="ml0 gray truncate w-100">{% for tag in post.tags %}{{post.tag}} | {% endfor %}</dd>
         </dl>
       </a>
     </div>
