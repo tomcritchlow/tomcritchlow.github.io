@@ -24,7 +24,7 @@
           <dt class="clip">Artist</dt>
           <dd class="ml0 gray truncate w-100">{{post.artist}}</dd>
           <dt class="clip">Tags</dt>
-          <dd class="ml0 gray truncate w-100">{% for tag in post.tags %}{% if forloop.last %}{{tag}}{% else %}{{tag}} | {% endfor %}</dd>
+          <dd class="ml0 gray truncate w-100">{% for tag in post.tags %}{% if forloop.last %}{{tag}}{% else %}{{tag}} | {%endif%}{% endfor %}</dd>
         </dl>
       </a>
     </div>
