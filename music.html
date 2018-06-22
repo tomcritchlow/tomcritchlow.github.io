@@ -13,8 +13,9 @@
 
 <article>
   <h2 class="f3 fw4 pa3 mv0">{{ yearMonth.name }}</h2>
+  <div class="cf pa2"></div>
 {% for post in yearMonth.items %}
-  <div class="cf pa2">
+  
     <div class="fl w-50 w-25-m w-20-l pa2">
       <a href="{{post.href}}" class="db link dim tc">
         <img src="{{post.art}}" class="w-100 db outline black-10"/>
