@@ -11,6 +11,8 @@ html{
 
 brand{color: #212121;}
 
+.tomgreen{color: #00ff00}
+
 brand:after{
     display: block;
     content: '';

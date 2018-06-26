@@ -31,24 +31,26 @@
 
   <hr class="w3 mv5">
 
+  <div class="Previous-next f6">
+    {% if page.previous.url %}
+    <div class="fl">
+    <span class="ttu tracked fw6 tomgreen">⇜ PREVIOUS</span><br>
+      <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="fr">
+    <span class="ttu tracked fw6 tomgreen">⇝ NEXT</span><br>
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    </div>
+    {% endif %}
+  </div>
+
 <div class="f5 i">
   This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
 </div>
 
-<div class="Previous-next">
-  {% if page.previous.url %}
-  <div class="fl">
-  <span class="f5 ttu tracked fw6">⇜ PREVIOUS</span>
-    <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  </div>
-  {% endif %}
-  {% if page.next.url %}
-  <div class="fr">
-  <span class="f5 ttu tracked fw6">⇝ NEXT</span>
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  </div>
-  {% endif %}
-</div>
+
 
 
 
