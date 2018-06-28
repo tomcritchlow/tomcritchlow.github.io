@@ -28,7 +28,9 @@ Strategy and stewardship. Yes. On the money.
 
 For a long time I resisted the execution and project management of my strategy work with clients. I felt like if I got caught up in the weeds I was going to be doing work that wasn't as interesting and wasn't as well paid as the strategy work.
 
-But the truth is that strategy that lives in docs and presentations is worthless. And businesses live and die by momentum of projects. So helping clients at critical points to move the chains forward, often in incredibly tactical ways, but always within the wider strategic framework is deeply valuable.
+But the truth is this - strategy that lives in docs and presentations is worthless. And businesses live and die by the momentum of projects. So helping clients at critical points to move the chains forward - often in incredibly tactical ways, but always within the wider strategic framework - is deeply valuable.
+
+In month 1 I'm always doing strategy. In month 6 I'm often overseeing specific pieces of content production. Then back again into strategy in month 9 as we review and check in.
 
 My advice for other independents looking to set up a consulting practice is think carefully about which kinds of projects you can be involved in for both strategy and stewardship. What can you be useful in executing in the weeds at month 6? That way you can keep clients for longer and actually get to see the strategy work see the light of day.
 
