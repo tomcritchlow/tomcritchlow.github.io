@@ -109,6 +109,16 @@ blockquote {
     vertical-align: -0.4em;
     font-family:"georgia"
   }
+
+  blockquote:after {
+    visibility: hidden;
+    color: #111;
+    content: close-quote;
+    font-size: 4em;
+    line-height: 0;
+    vertical-align: -0.4em;
+  }
+
   blockquote p {
     display: inline;
   }
