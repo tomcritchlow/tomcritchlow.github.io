@@ -39,7 +39,7 @@ Why does this work?
 
 
 
-
+Is this post centaur consulting?
 
 
 The fidelity of recommendations matters. Sometimes it's important to outline an idea at a high level. Conceptually we want something like this...
