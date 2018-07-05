@@ -95,9 +95,8 @@ ul a, ol a, p a, form a, .mobilemenu a, .next, .previous {
 
 blockquote {
     background: #f3f3f3;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
+    margin: 0px;
+    padding: 20px;
     quotes: "\201C""\201D""\2018""\2019";
   }
   blockquote:before {
