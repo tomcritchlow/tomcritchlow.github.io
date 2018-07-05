@@ -12,7 +12,7 @@ So here's a few interesting tidbits and ideas of fresh thinking on agency struct
 
 ![](/images/loyal.png)
 
-[Loyal](loyal.is) is a community strategy agency run by Sarah Judd Welch and is comprised of a distributed team of collaborators, freelancers and other agencies. While this structure is actually quite common, Loyal is clear and up front about the way they work. This approach feels refreshing and inspiring - after all behind the scenes *all* agencies are trying to figure out flexible staffing, part time work, consultants, partners and more... By embracing this structure I think Loyal is ahead of the curve.
+[Loyal](https://loyal.is) is a community strategy agency run by Sarah Judd Welch and is comprised of a distributed team of collaborators, freelancers and other agencies. While this structure is actually quite common, Loyal is clear and up front about the way they work. This approach feels refreshing and inspiring - after all behind the scenes *all* agencies are trying to figure out flexible staffing, part time work, consultants, partners and more... By embracing this structure I think Loyal is ahead of the curve.
 
 ## Fastforward Labs
 
