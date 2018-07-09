@@ -99,6 +99,7 @@ blockquote {
     padding: 20px;
     quotes: "\201C""\201D""\2018""\2019";
   }
+  
   blockquote:before {
     color: #ccc;
     content: open-quote;

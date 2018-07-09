@@ -74,3 +74,14 @@ What should have I done? High fidelity. Mock-up the campaign. How long would it 
 
 I hate wireframes. I'd much rather make a fully featured bad design than an accurate but lifeless wireframe
 
+
+
+A theory of media design.
+
+Micro-brands
+Coherent communities
+Intent solutions
+Modern
+Different
+Interactive
+
