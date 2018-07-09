@@ -57,4 +57,4 @@ The only reason I'm able to build prototypes and high fidelity consulting is bec
 
 So, next time you're thinking of recommending action, don't just say "We could..." that's low-fidelity consulting. Show the thing. Packed into a prototype or visual mock-up is a strong point of view. Experience of what works. Something to adequately critique.
 
-Ideas AND details.
+Ideas AND details. Details AND ideas.
