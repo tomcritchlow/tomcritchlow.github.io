@@ -52,7 +52,9 @@ My buddy [Brian](https://www.briandell.info) pointed out to me once that this ha
 
 The only reason I'm able to build prototypes and high fidelity consulting is because I've been curious and interested in a variety of technologies and approaches.
 
-I do my designing in Google Docs
-I do my coding in Google Docs (or, increasingly, Glitch)
+- I do my designing in Google Docs
+- I do my coding in Google Docs (or, increasingly, Glitch)
 
-So, next time you're thinking of recommending action, don't just say "We could..." that's low-fidelity consulting. Show the thing. Packed into a prototype or visual mock-up is a strong point of view. Experience of what works. Something to adequately critique. Ideas and details.
+So, next time you're thinking of recommending action, don't just say "We could..." that's low-fidelity consulting. Show the thing. Packed into a prototype or visual mock-up is a strong point of view. Experience of what works. Something to adequately critique.
+
+Ideas AND details.
