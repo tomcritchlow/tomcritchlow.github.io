@@ -24,7 +24,7 @@ Of course, my friend Arnold has been thinking and publishing about this for a wh
 
 [http://arnoldwaldstein.com/2018/05/tokenizing-causes-for-social-good/](http://arnoldwaldstein.com/2018/05/tokenizing-causes-for-social-good/)
 
-Anyway. Roxy loves turtles and I left a bid for Honu.
+Anyway. Congrats Arnold on pushing for this to exist in the world. Roxy loves turtles and I left a bid for Honu.
 
 Asking for a real application of blockchain? Here it is, from tokens to turtles.
 
