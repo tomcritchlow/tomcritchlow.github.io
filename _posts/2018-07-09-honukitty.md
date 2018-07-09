@@ -12,11 +12,11 @@ Meet [Honu](https://www.honukitty.com/).
 
 Why is this interesting? Because it's an auction with all the proceeds going to support [Operation Jairo](https://seashepherd.org/campaigns/jairo/) and [Unite BVI](https://www.unitebvi.com/saving-turtles-0).
 
-I'm mostly just a sideline observer of crypto. I'm interested in the technology dating all the way back to my degree paper on cryptography and error-correcting codes.
+I'm mostly just a sideline observer of crypto. I'm interested in the technology dating all the way back to my degree paper on cryptography and error-correcting codes, but that's an intellectual interest.
 
-I worry sometimes about the talk in the crypto industry about free markets and how tokenizing things will solve them. There are plenty of things that have intangible value in the world and turning them into assets and creating markets around them will, by definition, mis-understand and mis-represent their intangible value.
+In reality, I worry about the talk in the crypto industry about free markets and how tokenizing things will solve them. There are plenty of things that have intangible value in the world and turning them into assets and creating markets around them will, by definition, mis-understand and mis-represent their intangible value.
 
-But the piece of the whole thing that interests me the most is community economics and social impact.
+But, with an optimistic lens, the piece of the whole thing that interests me the most is community economics and social impact.
 
 The blockchain as a technology to enable and make legible new forms of funding and governance feels like a natural fit for non-profits and social-good projects.
 
