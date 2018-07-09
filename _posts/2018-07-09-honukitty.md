@@ -4,7 +4,7 @@ title: Community Economics & A Kitty-Turtle Hybrid
 subtitle: From tokens to turtles
 ---
 
-My good friend Arnold has been involved in launching a new crypto-kitty that's actually a cat/turtle hybrid.
+My good friend [Arnold](http://arnoldwaldstein.com/) has been involved in launching a new crypto-kitty that's actually a cat/turtle hybrid.
 
 Meet [Honu](https://www.honukitty.com/).
 
