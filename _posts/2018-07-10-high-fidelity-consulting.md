@@ -2,6 +2,7 @@
 layout: blog
 title: High Fidelity Consulting
 subtitle: Ideas without details and details without ideas are both risky
+draft: true
 ---
 
 This little book [Legible Practices](http://helsinkidesignlab.org/legiblepractises/index.html) from Helsinki Design Lab continues to deliver gems of wisdom:

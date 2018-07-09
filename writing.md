@@ -12,7 +12,10 @@ title: Latest Writing
 <ul>
 {% endif %}
 
+{% if post.draft = true %}
+{% else %}
 <li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li>
+{% endif %}
 
 {% if forloop.last %}
 </ul>
