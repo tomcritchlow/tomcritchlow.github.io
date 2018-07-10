@@ -2,7 +2,6 @@
 layout: blog
 title: High Fidelity Consulting
 subtitle: Ideas without details and details without ideas are both risky
-draft: true
 ---
 
 This little book [Legible Practices](http://helsinkidesignlab.org/legiblepractises/index.html) from Helsinki Design Lab continues to deliver gems of wisdom:
@@ -23,7 +22,7 @@ Recommendations are worthless.
 
 *"Improve the UX..."*
 
-These are empty, weak, non-useful concepts that wither on the vine of dusty powerpoint slides. And, crucially, these half formed hypothetical suggestions or recommendations are often too vague or generic to properly critique.
+These are empty, weak, non-useful concepts that wither on the vine of dusty powerpoint slides. Crucially, these half formed hypothetical suggestions are often too vague or generic to properly critique.
 
 Instead, I've been trying to force myself to prototype every recommendation I make to clients. Some real examples from the past few months of my own consulting work:
 
@@ -33,7 +32,7 @@ Instead, I've been trying to force myself to prototype every recommendation I ma
 
 *Recommending they improve their content brief for writers?* Here's 3 new example briefs.
 
-*Recommending infinite scroll on a category page?* Here's some javascript that you can use to see it in action on your site
+*Recommending infinite scroll on a category page?* Here's a javascript bookmarklet that you can use to see it in action on your site
 
 "Ideas without details and details without ideas are equally risky" - I've been calling this high fidelity consulting. Give the final thing, or a prototype of it, rather than just a recommendation.
 
@@ -48,7 +47,7 @@ I've been intuitively doing this for quite a long time - partly because I love t
 
 ## The Centaur Consultant
 
-My buddy [Brian](https://www.briandell.info) pointed out to me once that this hairball of ideas, prototypes, consulting and technology is "centaur consulting". Borrowing heavily from Matt Jones' idea of centaurs as technology enabled (rather than technology-replaced) people: [centaurs not butlers](https://magicalnihilism.com/2016/03/31/centaurs-not-butlers/).
+My buddy [Brian](https://www.briandell.info) pointed out to me once that this hairball of ideas, prototypes, consulting and technology is "centaur consulting". Borrowing heavily from Matt Jones' idea of centaurs as technology-enabled (rather than technology-replaced) people: [centaurs not butlers](https://magicalnihilism.com/2016/03/31/centaurs-not-butlers/).
 
 The only reason I'm able to build prototypes and high fidelity consulting is because I've been curious and interested in a variety of technologies and approaches.
 
