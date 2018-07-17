@@ -15,6 +15,20 @@ A decade in SEO. A few years in brand marketing at Google. Enough CSS to be dang
 
 My career has spanned all of these things but I often end up struggling to define and describe the work I do.
 
+
+## The Media/Brand Spectrum
+
+A few months back I gave a presentation at [Quartz](https://qz.com/) about some things I do, and I included this slide:
+
+![](/images/mediabrand.png)
+
+Broadly speaking all the work I've done over the last 4 years can fall into this spectrum - helping media companies act more like brands and helping brands act more like media publishers. Everything from content strategy, SEO, commerce content, brand building.
+
+## Enter Media Design
+
+
+
+
 I've been toying with the concept of **Media Design** recently, with a sketch of how this practice might be defined:
 
 **Media Design: the practice of designing systems of media - understanding that content exists in an ecosystem of technology, interaction, distribution and production in a world where each of these domains is becoming increasingly fuzzy**
