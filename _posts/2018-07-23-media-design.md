@@ -41,10 +41,10 @@ While on the Amtrak  last week to spend the day on-site with a client I sketched
 
 The four axis of Media Design as I sketched them:
 
-- Technology is the medium & infrastructure for content. The context and frame for any content experience - across hosting and platform considerations to analytics, reporting, monetization & information architecture. Concerns here are often around product design, personalization, site speed, tracking and more.
-- Creation of content is the process and planning of production. There is always an economy of who, how and when content is produced. From understanding the tone of voice to how freelance resources fit into a marketing mix to understanding how research is distributed and communicated to writers to how briefs are written to how the CMS shapes production choices and more.
-- Distribution of content requires an understanding of algorithms and audiences, channels and communities. Concerns here often center around the tradeoffs of owning or renting distribution and how to chase short term vs long term traffic.
-- Interaction with content is everything from the emotional experience (i.e. brand) to the actual actions taken (i.e. conversion). The experience and interaction with content is the ultimate mixture of editorial and aesthetic considerations and tactile technological constraints.
+- **Technology** is the medium & infrastructure for content. The context and frame for any content experience - across hosting and platform considerations to analytics, reporting, monetization & information architecture. Concerns here are often around product design, personalization, site speed, tracking and more.
+- **Creation** of content is the process and planning of production. There is always an economy of who, how and when content is produced. From understanding the tone of voice to how freelance resources fit into a marketing mix to understanding how research is distributed and communicated to writers to how briefs are written to how the CMS shapes production choices and more.
+- **Distribution** of content requires an understanding of algorithms and audiences, channels and communities. Concerns here often center around the tradeoffs of owning or renting distribution and how to chase short term vs long term traffic.
+- **Interaction** with content is everything from the emotional experience (i.e. brand) to the actual actions taken (i.e. conversion). The experience and interaction with content is the ultimate mixture of editorial and aesthetic considerations and tactile technological constraints.
 
 If I look back at my work everything starts to, maybe, make some sense within this framework of media design. As a cross-disciplinary approach that ties together several disconnected fields it allows for an understanding of how technology and content play together in our networked age.
 
@@ -71,3 +71,5 @@ Perhaps it would be better to say Media Design is anti-disciplinary rather than 
 Planting a flag in the ground and attempting to break down the silos between the various distinct practices and disciplines that have emerged to support “content”, “media” and “marketing” to better understand the full ecosystem.
 
 Media Design is about designing for success by looking at the system and how the parts interplay to make each perform better by bringing them into a shared context.
+
+More to come as I think through this idea in more detail. Will you join me?
