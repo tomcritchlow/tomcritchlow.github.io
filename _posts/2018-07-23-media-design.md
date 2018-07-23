@@ -31,7 +31,9 @@ We live in an age where content is tied to, and sits upon, rapidly evolving and 
 
 My entire career has been spent here. Understanding the texture of content in the age of technology.
 
-To better articulate the work I do and describe the landscape I see - I have begun using the term “Media Design”. I’m not the first to use the phrase, though existing uses vary quite wildly. Here’s my stab at a definition:
+To better articulate the work I do and describe the landscape I see - I have begun using the term “Media Design”. I’m not the first to use the phrase, though existing uses vary quite wildly.
+
+Here’s my stab at a definition:
 
 **Media Design is the practice of designing effective systems of content within the overlapping ecosystems of technology, distribution, production and interaction.**
 
@@ -60,7 +62,13 @@ We’re still figuring that out of course but I believe part of the solution lie
 
 In the modern attention economy too much content is a race to the bottom. SEO-first content is garbage 99% of the time. Brands trying to “blog” because they think “content marketing” is a function of making the marketing team produce content.
 
-And the most successful companies understand that content is a product, and that products are content.
+So how do you prevent this race to the bottom? By considering the full ecosystem and the right context for your content.
+
+I have a personal fascination with understanding content within the right context - after working in SEO for over a decade and more recently overseeing branding projects and brand campaigns it's increasingly obvious to me that no success can happen without situating your thinking within the context of the full media design ecosystem.
+
+Every digital project, from SEO to branding will fail when it lacks the proper awareness of the ecosystem of content creation to support it.
+
+And the most successful clients I've worked with understand that content is a product, and that products are content.
 
 ## A rallying cry to break down silos
 
