@@ -23,7 +23,7 @@ Media companies often lack user insights, or a notion of branding.
 
 When I describe the work I do as helping brands act like media companies and media companies act like brands it seems to resonate with people. But there’s more depth here - this tension is a direct product of the changing nature of the networked world - namely distribution and technology.
 
-##Enter Media Design
+## Enter Media Design
 
 Content and technology have never been so interconnected and interdependent.
 
