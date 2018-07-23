@@ -22,3 +22,5 @@ I’d much rather make a book that’s a boat journey - businesses do go on ques
 There’s two trends I want to cover:
 
 Deep sea fishing (i.e. small teams with disproportionate income that leads to the rise of free agents and fuzzy business boundaries)
+
+Week notes
