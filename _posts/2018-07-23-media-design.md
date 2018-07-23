@@ -7,7 +7,7 @@ draft: true
 
 A few months back I gave a presentation to [Quartz](https://qz.com) about my work and I made this slide:
 
-![](/images/mediabrands.png)
+![](/images/mediabrand.png)
 
 It outlines a tension I’ve been playing with for some time - that brands are increasingly acting like media companies and that media companies are increasingly acting like brands.
 
