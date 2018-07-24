@@ -5,11 +5,11 @@ subtitle: An attempt to define and describe the landscape of my work
 draft: true
 ---
 
-A few months back I gave a presentation to [Quartz](https://qz.com) about my work and I made this slide:
+A few months back I gave a presentation to [Quartz](https://qz.com) about my work and I made this slide.
+
+It outlines a tension I’ve been playing with for some time - that brands are increasingly acting like media companies and that media companies are increasingly acting like brands:
 
 ![](/images/mediabrand.png)
-
-It outlines a tension I’ve been playing with for some time - that brands are increasingly acting like media companies and that media companies are increasingly acting like brands.
 
 ## The Media/Brand Tension
 
@@ -37,16 +37,16 @@ Here’s my stab at a definition:
 
 **Media Design is the practice of designing effective systems of content within the overlapping ecosystems of technology, distribution, production and interaction.**
 
-While on the Amtrak  last week to spend the day on-site with a client I sketched out a crude model for how this system might function::
+While on the Amtrak  last week to spend the day on-site with a client I sketched out a crude model for how this system might function:
 
 ![](/images/mediadesign.jpg)
 
 The four axis of Media Design as I sketched them:
 
 - **Technology** is the medium & infrastructure for content. The context and frame for any content experience - across hosting and platform considerations to analytics, reporting, monetization & information architecture. Concerns here are often around product design, personalization, site speed, tracking and more.
-- **Creation** of content is the process and planning of production. There is always an economy of who, how and when content is produced. From understanding the tone of voice to how freelance resources fit into a marketing mix to understanding how research is distributed and communicated to writers to how briefs are written to how the CMS shapes production choices and more.
+- **Creation** of content is the process and planning of production. There is always an economy of who, how and when content is produced. From understanding the tone of voice to how the CMS shapes production choices and more.
 - **Distribution** of content requires an understanding of algorithms and audiences, channels and communities. Concerns here often center around the tradeoffs of owning or renting distribution and how to chase short term vs long term traffic.
-- **Interaction** with content is everything from the emotional experience (i.e. brand) to the actual actions taken (i.e. conversion). The experience and interaction with content is the ultimate mixture of editorial and aesthetic considerations and tactile technological constraints.
+- **Interaction** with content covers everything from the emotional experience (i.e. brand) to the actual actions taken (i.e. conversion). The experience and interaction with content is the ultimate mixture of editorial and aesthetic considerations and tactile technological constraints.
 
 If I look back at my work everything starts to, maybe, make some sense within this framework of media design. As a cross-disciplinary approach that ties together several disconnected fields it allows for an understanding of how technology and content play together in our networked age.
 
@@ -58,21 +58,21 @@ And the interesting piece is always in the tensions between the axes.
 
 How does marketing work in the networked age?
 
-We’re still figuring that out of course but I believe part of the solution lies in Media Design. The cross-disciplinary function of looking at the tensions and dependencies between the axes - asking how we mix brand with content, how we combine distribution with experience, how we understand technology and production.
+We’re still figuring that out of course but I believe part of the solution lies in Media Design.
 
-In the modern attention economy too much content is a race to the bottom. SEO-first content is garbage 99% of the time. Brands trying to “blog” because they think “content marketing” is a function of making the marketing team produce content.
+In the modern attention economy, too much content is a race to the bottom. SEO-first content is garbage 99% of the time. Brands trying to “blog” because they think “content marketing” is a function of making the marketing team produce content.
 
-So how do you prevent this race to the bottom? By considering the full ecosystem and the right context for your content.
+Meanwhile - the branding projects and big dollar marketing campaigns are too far disconnected from both the performance marketing ad slots and the teams of content production that are tasked with executing the vision that's been lovingly crafted and beautifully shaped.
+
+So you're left with either a spreadsheet-driven race to the bottom or a beautiful-but-disconnected vision. How do you close the gap? By considering the full ecosystem and the right context for your content.
 
 I have a personal fascination with understanding content within the right context - after working in SEO for over a decade and more recently overseeing branding projects and brand campaigns it's increasingly obvious to me that no success can happen without situating your thinking within the context of the full media design ecosystem.
 
-Every digital project, from SEO to branding will fail when it lacks the proper awareness of the ecosystem of content creation to support it.
-
 And the most successful clients I've worked with understand that content is a product, and that products are content.
 
-## A rallying cry to break down silos
+## Media Design is anti-disciplinary
 
-As a definition, Media Design falls short. Of course it falls short. Any definition that tries to encompass such broad disciplines will fall short.
+As a definition, Media Design is incomplete by design.
 
 Perhaps it would be better to say Media Design is anti-disciplinary rather than cross-disciplinary.
 
