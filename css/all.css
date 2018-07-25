@@ -82,7 +82,7 @@ text-decoration: none;
     padding: 30px;
 }
 
-ul a:hover, ol p:hover, p a:hover {
+ul a:hover, ol a:hover, p a:hover {
     border-bottom: 4px solid #00ff00;
 }
 
