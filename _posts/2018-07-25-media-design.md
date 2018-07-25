@@ -69,7 +69,7 @@ And the most successful clients I've worked with understand that content is a pr
 
 ## Media Design is anti-disciplinary
 
-Perhaps it would be better to say Media Design is anti-disciplinary rather than cross-disciplinary.
+Perhaps it would be better to say Media Design is anti-disciplinary[^1] rather than cross-disciplinary.
 
 An attempt to break down the silos between the various distinct practices and disciplines that have emerged to support “content”, “media” and “marketing”. To strive for a better understanding of the full ecosystem.
 
@@ -80,3 +80,7 @@ Media Design is about designing for success by looking at the system and how the
 More to come as I think through this idea and explore the space in more detail.
 
 Will you join me?
+
+--
+
+[^1]: A great read from Joi Ito on what it means to be [antidisciplinary](https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html)
