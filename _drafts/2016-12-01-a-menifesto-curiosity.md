@@ -19,3 +19,5 @@ Note the gaps.
 Google for [concept + blog], [concept + community]
 
 Search for the concept on Pinterest.
+
+Interesting to revisit this in the age of youtube algos and fake news. Once you go down the algo-rabbit holes where do you believe?
