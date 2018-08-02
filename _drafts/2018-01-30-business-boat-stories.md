@@ -4,9 +4,13 @@ title: The Boat stories of Business
 subtitle: Moving beyond hero's journey
 ---
 
+
+
 Referencing ribbonfarm
 
 https://www.ribbonfarm.com/2018/01/09/boat-stories/
+
+https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0
 
 Ship's log?
 

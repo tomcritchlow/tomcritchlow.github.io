@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Principles of Media Design V0.1
-subtitle: Notes
+subtitle: Notes and sketches
 ---
 
 Infinite production
@@ -22,11 +22,8 @@ Content systems need to be designed with communities in process
 
 Infinite feeds
 
-Faces and franchises
-
 Everyone is everyone
 
-Systems of insight
 
 
 
