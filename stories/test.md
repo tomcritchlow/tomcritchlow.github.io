@@ -6,9 +6,12 @@ cover:
    publisher: tomcritchlow.com
    image: https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif
 pages: 
- - pagetype: 
- - title:
- - header:
- - text: 
- - image:
+ - page-number: 1
+   layout: 
+   title: one
+   header:
+   text: 
+   image:
+ - page-number: 2
+   title: two
 ---

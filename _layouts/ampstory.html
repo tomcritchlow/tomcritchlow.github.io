@@ -77,6 +77,11 @@
         </amp-story-grid-layer>
       </amp-story-page>
 
+{% for page in page.pages %}
+      {{page.number}}
+      {{page.title}}
+      {% endfor %}
+
       <!-- Page 1 (Cat): 1 layer (vertical) -->
       <amp-story-page id="page1">
         <amp-story-grid-layer template="vertical">
