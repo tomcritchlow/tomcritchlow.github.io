@@ -79,7 +79,7 @@
 
 {% for page in page.pages %}
 
-{% if page.layout == "vertical"}
+{% if page.layout == "vertical" %}
 
 <amp-story-page id="page{{forloop.index}}">
   <amp-story-grid-layer template="vertical">
@@ -92,7 +92,7 @@
   </amp-story-grid-layer>
 </amp-story-page>
 
-{% elsif page.layout =="thirds"}
+{% elsif page.layout =="thirds" %}
 
 <amp-story-page id="page{{forloop.index}}">
   <amp-story-grid-layer template="fill">
