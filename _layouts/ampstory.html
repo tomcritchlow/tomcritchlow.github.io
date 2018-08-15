@@ -79,17 +79,35 @@
 
 {% for page in page.pages %}
 
+{% if page.layout == "vertical"}
 
 <amp-story-page id="page{{forloop.index}}">
   <amp-story-grid-layer template="vertical">
-    <h1>{{page.title}}</h1>
-    <amp-img src="assets/cat.jpg"
+    <h1>{{page.h1}}</h1>
+    <amp-img src="{{page.image}}"
         width="720" height="1280"
         layout="responsive">
     </amp-img>
-    <q>Dogs come when they're called. Cats take a message and get back to you. --Mary Bly</q>
+    <q>{{page.text}}</q>
   </amp-story-grid-layer>
 </amp-story-page>
+
+{% elsif page.layout =="thirds"}
+
+<amp-story-page id="page{{forloop.index}}">
+  <amp-story-grid-layer template="fill">
+    <amp-img src="{{page.image}}" 
+        width="720" height="1280"
+        layout="responsive">
+    </amp-img>
+  </amp-story-grid-layer>
+    <amp-story-grid-layer template="thirds">
+      <h1 grid-area="upper-third">{{page.h1}}</h1>
+      <p grid-area="lower-third">{{page.text}}</p>
+  </amp-story-grid-layer>
+</amp-story-page>
+
+{% endif %}
 
 {% endfor %}
 
