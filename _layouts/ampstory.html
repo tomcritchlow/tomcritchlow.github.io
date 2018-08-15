@@ -78,9 +78,20 @@
       </amp-story-page>
 
 {% for page in page.pages %}
-      {{page.number}}
-      {{page.title}}
-      {% endfor %}
+
+
+<amp-story-page id="page{{forloop.index}}">
+  <amp-story-grid-layer template="vertical">
+    <h1>{{page.title}}</h1>
+    <amp-img src="assets/cat.jpg"
+        width="720" height="1280"
+        layout="responsive">
+    </amp-img>
+    <q>Dogs come when they're called. Cats take a message and get back to you. --Mary Bly</q>
+  </amp-story-grid-layer>
+</amp-story-page>
+
+{% endfor %}
 
       <!-- Page 1 (Cat): 1 layer (vertical) -->
       <amp-story-page id="page1">
