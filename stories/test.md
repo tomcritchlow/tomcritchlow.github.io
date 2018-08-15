@@ -16,6 +16,9 @@ pages:
    h1: two
    text: hello thirds
    image: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
+   cta:
+      link: https://tomcritchlow.com
+      text: this is a cta!
  - page-number: 3
    layout: thirds
    h1: 

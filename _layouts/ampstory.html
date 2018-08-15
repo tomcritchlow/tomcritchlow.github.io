@@ -78,9 +78,10 @@
 
 {% for page in page.pages %}
 
+<amp-story-page id="page{{forloop.index}}">
+
 {% if page.layout == "vertical" %}
 
-<amp-story-page id="page{{forloop.index}}">
   <amp-story-grid-layer template="vertical">
     <h1>{{page.h1}}</h1>
     <amp-img src="{{page.image}}"
@@ -89,11 +90,10 @@
     </amp-img>
     <q>{{page.text}}</q>
   </amp-story-grid-layer>
-</amp-story-page>
+
 
 {% elsif page.layout =="thirds" %}
 
-<amp-story-page id="page{{forloop.index}}">
   <amp-story-grid-layer template="fill">
     <amp-img src="{{page.image}}" 
         width="720" height="1280"
@@ -104,9 +104,17 @@
       <h1 grid-area="upper-third">{{page.h1}}</h1>
       <p grid-area="lower-third">{{page.text}}</p>
   </amp-story-grid-layer>
-</amp-story-page>
+
 
 {% endif %}
+
+{% if page.cta %}
+<amp-story-cta-layer>
+  <a href="{{page.cta.link}}" class="button">{{page.cta.text}}</a>
+</amp-story-cta-layer>
+{% endif %}
+
+</amp-story-page>
 
 {% endfor %}
 
