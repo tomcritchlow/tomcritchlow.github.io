@@ -16,4 +16,9 @@ pages:
    h1: two
    text: hello thirds
    image: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
+ - page-number: 3
+   layout: thirds
+   h1: 
+   text: 
+   image: /images/dogpoems.png
 ---
