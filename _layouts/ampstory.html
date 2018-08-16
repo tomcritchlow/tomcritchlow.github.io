@@ -81,12 +81,14 @@
         publisher-logo-src="assets/AMP-Brand-White-Icon.svg"
         poster-portrait-src="assets/cover.jpg">
       <amp-story-page id="cover">
+          {% if page.cover.background %}
         <amp-story-grid-layer template="fill">
-          <amp-img src="{{page.cover.image}}"
+          <amp-img src="{{page.cover.background}}"
               width="720" height="1280"
               layout="responsive">
           </amp-img>
         </amp-story-grid-layer>
+        {% endif %}
         <amp-story-grid-layer template="vertical">
             <div class="content"><h1>{{page.cover.title}}</h1></div>
           <p>{{page.cover.publisher}}</p>
