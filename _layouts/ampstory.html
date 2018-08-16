@@ -80,14 +80,14 @@
 
 <amp-story-page id="page{{forloop.index}}">
 
-  {% if page.background %}
+{% if page.background %}
   <amp-story-grid-layer template="fill">
-    <amp-img src="{{page.image}}" 
+    <amp-img src="{{page.background}}" 
         width="720" height="1280"
         layout="responsive">
     </amp-img>
   </amp-story-grid-layer>
-  {% endif %}
+{% endif %}
 
 {% if page.layout == "vertical" %}
 
