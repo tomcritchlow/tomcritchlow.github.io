@@ -21,6 +21,10 @@
       amp-story-page {
         background-color: #000;
       }
+
+      .headline{
+        display:block;
+      }
       h1 {
         font-weight: 700;
         font-size: 2.875em;
@@ -96,7 +100,7 @@
 {% if page.layout == "vertical" %}
 
   <amp-story-grid-layer template="vertical">
-    <h1>{{page.h1}}</h1>
+    <div class="content"><h1>{{page.h1}}</h1></div>
     <amp-img src="{{page.image}}"
         width="720" height="1280"
         layout="responsive">
