@@ -24,5 +24,6 @@ pages:
  - page-number: 4
    background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Interior_AC75-2621_1920.jpg
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Construction_AC75-1886_1920.jpg
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Model_AC76-0492.1_1920.jpg
    
 ---
