@@ -80,6 +80,15 @@
 
 <amp-story-page id="page{{forloop.index}}">
 
+  {% if page.background %}
+  <amp-story-grid-layer template="fill">
+    <amp-img src="{{page.image}}" 
+        width="720" height="1280"
+        layout="responsive">
+    </amp-img>
+  </amp-story-grid-layer>
+  {% endif %}
+
 {% if page.layout == "vertical" %}
 
   <amp-story-grid-layer template="vertical">
@@ -94,12 +103,6 @@
 
 {% elsif page.layout =="thirds" %}
 
-  <amp-story-grid-layer template="fill">
-    <amp-img src="{{page.image}}" 
-        width="720" height="1280"
-        layout="responsive">
-    </amp-img>
-  </amp-story-grid-layer>
     <amp-story-grid-layer template="thirds">
       <h1 grid-area="upper-third">{{page.h1}}</h1>
       <p grid-area="lower-third">{{page.text}}</p>

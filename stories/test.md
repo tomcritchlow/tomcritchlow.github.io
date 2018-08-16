@@ -15,7 +15,7 @@ pages:
    layout: thirds
    h1: two
    text: hello thirds
-   image: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
+   background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
       link: https://tomcritchlow.com
       text: this is a cta!
@@ -23,5 +23,5 @@ pages:
    layout: thirds
    h1: 
    text: 
-   image: /images/dogpoems.png
+   background: /images/dogpoems.png
 ---
