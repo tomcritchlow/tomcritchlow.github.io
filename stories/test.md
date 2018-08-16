@@ -21,7 +21,7 @@ pages:
       text: this is a cta!
  - page-number: 3
    layout: thirds
-   h1: 
+   h1: U+201
    text: 
    background: http://z2-ec2.images-amazon.com/images/P/0375700021._SX_SCRMZZZZZZZ_V196021930_.jpg
 ---
