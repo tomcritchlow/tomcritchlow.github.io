@@ -16,7 +16,6 @@ pages:
    thirds:
       top: Hello
       middle: <h1>What</h1>
-      bottom: bottom
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
       link: https://tomcritchlow.com
