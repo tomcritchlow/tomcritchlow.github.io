@@ -13,8 +13,10 @@ pages:
    image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
  - page-number: 2
    layout: thirds
-   h1: two
-   text: hello thirds
+   thirds:
+      top: Hello
+      middle: <h1>What</h1>
+      bottom: bottom
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
       link: https://tomcritchlow.com
