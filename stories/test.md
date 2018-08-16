@@ -30,4 +30,5 @@ pages:
    thirds:
       top: 🔥
       middle: “Ma says war is a bird with a broken wing flying over the countryside, trailing blood and burying crops in sorrow. If something grows in spite of this, it is both a curse and a miracle”
+      bottom: ⚡
 ---
