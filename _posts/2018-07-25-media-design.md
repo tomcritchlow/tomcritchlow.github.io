@@ -79,7 +79,7 @@ Media Design is about designing for success by looking at the system and how the
 
 More to come as I think through this idea and explore the space in more detail.
 
-Will you join me? ⚡ :fire:
+Will you join me?
 
 --
 
