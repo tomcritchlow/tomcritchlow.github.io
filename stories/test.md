@@ -25,4 +25,8 @@ pages:
    h1: 
    text: 
    background: http://z2-ec2.images-amazon.com/images/P/0375700021._SX_SCRMZZZZZZZ_V196021930_.jpg
+ - page-number: 4
+   layout: thirds
+   thirds:
+      middle: “Ma says war is a bird with a broken wing flying over the countryside, trailing blood and burying crops in sorrow. If something grows in spite of this, it is both a curse and a miracle”
 ---
