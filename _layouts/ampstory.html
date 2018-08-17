@@ -91,6 +91,7 @@
       amp-story-cta-layer a:after{
         content:" ↪️";
       }
+      .textcolor{color:black}
 
       
       .center{
@@ -122,7 +123,7 @@
 
 {% for page in page.pages %}
 
-<amp-story-page id="page{{forloop.index}}">
+<amp-story-page id="page{{forloop.index}}" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
 
 {% if page.background %}
   <amp-story-grid-layer template="fill">

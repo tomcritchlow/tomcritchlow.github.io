@@ -11,6 +11,7 @@ pages:
    background: /images/placesjournal.png
  - layout: thirds
    middle: I recently read an amazing article in Places Journal
+   textcolor: black
    background: /images/placesjournal.png   
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
