@@ -8,10 +8,10 @@ pages:
  - page-number: 1
    layout: thirds
    middle: I recently read an amazing article in Places Journal
-   backround: /images/placesjournal.png
+   background: /images/placesjournal.png
  - layout: thirds
    middle: I recently read an amazing article in Places Journal
-   backround: /images/placesjournal.png   
+   background: /images/placesjournal.png   
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
       text: Check it out!
