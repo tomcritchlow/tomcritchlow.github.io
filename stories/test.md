@@ -12,7 +12,7 @@ pages:
  - page-number: 2
    layout: thirds
    top: Hello
-   middle: <h1>What 🔥</h1>
+   middle: <h2>What 🔥</h2>
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
       link: https://tomcritchlow.com
@@ -24,7 +24,7 @@ pages:
    background: http://z2-ec2.images-amazon.com/images/P/0375700021._SX_SCRMZZZZZZZ_V196021930_.jpg
  - page-number: 4
    layout: thirds
-   top: 🔥
+   top: <h2>🔥</h2>
    middle: “Ma says war is a bird with a broken wing flying over the countryside, trailing blood and burying crops in sorrow. If something grows in spite of this, it is both a curse and a miracle”
    bottom: <p>⚡</p>
  - page-number: 5
