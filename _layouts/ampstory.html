@@ -29,8 +29,8 @@
         font-weight: 700;
         font-size: 2.875em;
         line-height: 1.5;
-        background-color: #39CCCC;
-        box-shadow: 8px 1px 0 3px #39CCCC, -8px 1px 0 3px #39CCCC;
+        background-color: #ffde37;
+        box-shadow: 8px 1px 0 3px #ffde37, -8px 1px 0 3px #ffde37;
         display:inline;
         color:black;
       }
@@ -88,7 +88,7 @@
         padding-top:10%;
         padding-bottom:10%;
         color:#665800;
-        background-color:#FFDC00;
+        background-color:#ffde37;
         display:block;
         width:100%;
         font-weight:700;
@@ -96,9 +96,9 @@
       amp-story-cta-layer a:after{
         content:" ↪️";
       }
-      .textblack{color:black}
-
-      
+      .date{
+        font-size:1em;
+      }
       .center{
         text-align:center;
       }
@@ -108,7 +108,7 @@
     <!-- Cover page -->
     <amp-story standalone
         title="{{page.cover.title}}"
-        publisher="{{page.cover.publisher}}"
+        publisher="{{ site.url }}"
         publisher-logo-src="assets/AMP-Brand-White-Icon.svg"
         poster-portrait-src="assets/cover.jpg">
       <amp-story-page id="cover">
@@ -122,7 +122,8 @@
         {% endif %}
         <amp-story-grid-layer template="vertical">
             <div class="content"><h1>{{page.cover.title}}</h1></div>
-          <p>{{page.cover.publisher}}</p>
+            <div class="content">{{page.cover.subtitle}}</div>
+            <div class="content date">{{ page.date | date: "%B %-d, %Y" }}</div>
         </amp-story-grid-layer>
       </amp-story-page>
 
