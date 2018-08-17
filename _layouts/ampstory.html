@@ -134,13 +134,13 @@
 {% elsif page.layout =="thirds" %}
 
 <amp-story-grid-layer template="thirds" class="center">
-  {% if page.thirds.top %}
+  {% if page.top %}
   <div grid-area="upper-third">{{page.top}}</div>
   {% endif %}
-  {% if page.thirds.middle %}
+  {% if page.middle %}
   <div grid-area="middle-third">{{page.middle}}</div>
   {% endif %}
-  {% if page.thirds.bottom %}
+  {% if page.bottom %}
   <div grid-area="lower-third">{{page.bottom}}</div>
   {% endif %}  
 </amp-story-grid-layer>
