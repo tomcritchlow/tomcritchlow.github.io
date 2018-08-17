@@ -5,16 +5,14 @@ cover:
    title: Testing an amp story
    publisher: tomcritchlow.com
 pages: 
- - page-number: 1
-   layout: vertical
+ - layout: vertical
    h1: one
    text: hello vertical
    image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
  - page-number: 2
    layout: thirds
-   thirds:
-      top: Hello
-      middle: <h1>What 🔥</h1>
+   top: Hello
+   middle: <h1>What 🔥</h1>
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
       link: https://tomcritchlow.com
@@ -26,10 +24,9 @@ pages:
    background: http://z2-ec2.images-amazon.com/images/P/0375700021._SX_SCRMZZZZZZZ_V196021930_.jpg
  - page-number: 4
    layout: thirds
-   thirds:
-      top: 🔥
-      middle: “Ma says war is a bird with a broken wing flying over the countryside, trailing blood and burying crops in sorrow. If something grows in spite of this, it is both a curse and a miracle”
-      bottom: <p>⚡</p>
+   top: 🔥
+   middle: “Ma says war is a bird with a broken wing flying over the countryside, trailing blood and burying crops in sorrow. If something grows in spite of this, it is both a curse and a miracle”
+   bottom: <p>⚡</p>
  - page-number: 5
    background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Cutaway_AC75-1086-1_1920.jpg
 ---
