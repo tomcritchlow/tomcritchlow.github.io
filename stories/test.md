@@ -4,7 +4,7 @@ title: Testing!
 date: March 15th 2018
 cover:
    title: Testing an amp story
-   publisher: tomcritchlow.com
+   subtitle: <h3>Some dicking around...</h3>
 pages: 
  - page-number: 1
    layout: vertical
