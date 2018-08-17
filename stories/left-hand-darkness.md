@@ -18,5 +18,6 @@ pages:
    layout: thirds
    middle: <h2>What a cover! 🔥</h2>
  - layout: thirds
-   middle: “To learn which questions are unanswerable, and not to answer them&#58; this skill is most needful in times of stress and darkness.”          
+   middle: “To learn which questions are unanswerable, and not to answer them&#58; this skill is most needful in times of stress and darkness.” 
+ - background: /images/lefthanddarkness.jpg           
 ---
