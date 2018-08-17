@@ -31,4 +31,6 @@ pages:
    textcolor: red
  - page-number: 5
    background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Cutaway_AC75-1086-1_1920.jpg
+ - layout: thirds
+   middle: <h3>Testing some sweet sweet h3 action</h3>
 ---
