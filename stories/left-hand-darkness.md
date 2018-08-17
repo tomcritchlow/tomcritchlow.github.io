@@ -1,8 +1,8 @@
 ---
 layout: ampstory
-title: A review of The Left Hand of Darkness by Ursula K Le Guin
+title: Why you should read - The Left Hand of Darkness by Ursula K Le Guin
 cover:
-   title: A review of The Left Hand of Darkness by Ursula K Le Guin
+   title: Why you should read - The Left Hand of Darkness by Ursula K Le Guin
    subtitle: A beautiful book, but best read in the depths of winter
    date: 08/20/2018
 pages: 
