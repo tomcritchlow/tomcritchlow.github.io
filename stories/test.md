@@ -1,6 +1,7 @@
 ---
 layout: ampstory
 title: Testing!
+date: March 15th 2018
 cover:
    title: Testing an amp story
    publisher: tomcritchlow.com
