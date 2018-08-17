@@ -8,9 +8,13 @@ pages:
  - page-number: 1
    layout: thirds
    middle: I recently read an amazing article in Places Journal
+   backround: /images/placesjournal.png
+ - layout: thirds
+   middle: I recently read an amazing article in Places Journal
+   backround: /images/placesjournal.png   
    cta:
-      link: https://tomcritchlow.com
-      text: read the article
+      link: https://placesjournal.org/article/the-shape-of-space/
+      text: Check it out!
  - page-number: 2
    layout: thirds
    top: <h1>Toroidal Colonies</h1>
