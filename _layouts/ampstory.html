@@ -136,7 +136,7 @@
 
 {% if page.layout == "vertical" %}
 
-  <amp-story-grid-layer template="vertical" {% if page.textcolor %}class="textblack"{%endif%}>
+  <amp-story-grid-layer template="vertical" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
     <div class="content"><h1>{{page.h1}}</h1></div>
     <amp-img src="{{page.image}}"
         width="720" height="1280"
@@ -148,7 +148,7 @@
 
 {% elsif page.layout =="thirds" %}
 
-<amp-story-grid-layer template="thirds" class="center {% if page.textcolor %}textblack{%endif%}" >
+<amp-story-grid-layer template="thirds" class="center" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
   {% if page.top %}
   <div grid-area="upper-third">{{page.top}}</div>
   {% endif %}
