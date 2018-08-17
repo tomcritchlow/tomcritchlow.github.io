@@ -16,5 +16,7 @@ pages:
  - background: https://www.lwcurrey.com/pictures/111270.jpg?v=1192371414
  - background: https://www.lwcurrey.com/pictures/111270.jpg?v=1192371414
    layout: thirds
-   middle: <h2>What a cover! 🔥</h2>      
+   middle: <h2>What a cover! 🔥</h2>
+ - layout: thirds
+   middle: “To learn which questions are unanswerable, and not to answer them&#58; this skill is most needful in times of stress and darkness.”          
 ---
