@@ -3,7 +3,7 @@ layout: ampstory
 title: Testing!
 date: March 15th 2018
 cover:
-   title: Testing an amp story
+   title: Testing, testing, 123
    subtitle: <h3>Some dicking around...</h3>
 pages: 
  - page-number: 1
