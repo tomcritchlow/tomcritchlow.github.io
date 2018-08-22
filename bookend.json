@@ -17,7 +17,15 @@
         "type": "small",
         "title": "{{story.title}}",
         "url": "{{story.url}}",
-        "image": "assets/bookend_cats.jpg"
+        {% assign image = 0 %}
+        {% for page in story.pages %}
+          {if image == 0 %}
+            {% if page.background %}
+            "image": "{{page.background}}"
+            {% assign image = 1 %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
       },
       {% endfor %}
       {
