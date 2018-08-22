@@ -13,6 +13,7 @@
         src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
     <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800" rel="stylesheet" type="text/css">
+        <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <style amp-custom>
       amp-story {
         font-family: 'Raleway',sans-serif;
@@ -190,6 +191,21 @@
 
 {% endfor %}
 
+<amp-analytics type="googleanalytics">
+  <script type="application/json">
+  {
+    "vars": {
+      "account": "UA-21100208-1"
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      }
+    }
+  }
+  </script>
+  </amp-analytics>
 
       <!-- Bookend -->
       <amp-story-bookend src="/bookend.json" layout="nodisplay"></amp-story-bookend>
