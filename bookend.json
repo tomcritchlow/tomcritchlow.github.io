@@ -19,7 +19,7 @@
         "url": "{{story.url}}",
         {% assign image = 0 %}
         {% for page in story.pages %}
-          {if image == 0 %}
+          {%if image == 0 %}
             {% if page.background %}
             "image": "{{page.background}}"
             {% assign image = 1 %}
