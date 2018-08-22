@@ -102,6 +102,17 @@
       .center{
         text-align:center;
       }
+
+      .verticalimg{
+        position: relative;
+   width: 200px;
+   height: 200px;
+      }
+
+      .verticalimg img{
+        object-fit:cover;
+      }
+
     </style>
   </head>
   <body>
@@ -144,8 +155,7 @@
 
   <amp-story-grid-layer template="vertical" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
     <div class="content"><h1>{{page.h1}}</h1></div>
-    <amp-img src="{{page.image}}"
-        width="720" height="1280"
+    <amp-img class="verticalimg" src="{{page.image}}"
         layout="responsive">
     </amp-img>
     <q>{{page.text}}</q>
