@@ -155,11 +155,11 @@
 {% if page.layout == "vertical" %}
 
   <amp-story-grid-layer template="vertical" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
-    <div class="content"><h1>{{page.h1}}</h1></div>
+    <div class="content">{{page.top}}</div>
     <amp-img class="verticalimg" src="{{page.image}}"
         layout="responsive">
     </amp-img>
-    <q>{{page.text}}</q>
+    <div class="content">{{page.bottom}}</div>
   </amp-story-grid-layer>
 
 

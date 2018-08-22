@@ -8,8 +8,8 @@ cover:
 pages: 
  - page-number: 1
    layout: vertical
-   h1: one
-   text: hello vertical
+   top: <h1>aitch 1</h1>
+   bottom: hello world
    image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
  - page-number: 2
    layout: thirds
