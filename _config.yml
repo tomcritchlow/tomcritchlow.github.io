@@ -7,4 +7,6 @@ collections:
   links:
     output: true
   music:
-    output: true    
+    output: true
+  stories:
+    output: true        
