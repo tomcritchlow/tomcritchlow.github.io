@@ -15,8 +15,8 @@
       {% for story in site.stories %}
       {
         "type": "small",
-        "title": "story.title",
-        "url": "story.url",
+        "title": "{{story.title}}",
+        "url": "{{story.url}}",
         "image": "assets/bookend_cats.jpg"
       },
       {% endfor %}
