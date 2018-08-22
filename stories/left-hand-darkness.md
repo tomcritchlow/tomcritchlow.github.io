@@ -1,10 +1,10 @@
 ---
 layout: ampstory
 title: Why you should read - The Left Hand of Darkness by Ursula K Le Guin
+date: 08/20/2018
 cover:
    title: Why you should read&#58; The Left Hand of Darkness by Ursula K Le Guin
    subtitle: A beautiful book, but best read in the depths of winter
-   date: 08/20/2018
 pages: 
  - layout: thirds
    middle: I recently finished this book...
