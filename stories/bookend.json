@@ -1,0 +1,33 @@
+---
+---
+{
+    "bookendVersion": "v1.0",
+    "shareProviders": [
+      "facebook",
+      "twitter",
+      "email"
+    ],
+    "components": [
+      {
+        "type": "heading",
+        "text": "Latest Stories from Tom Critchlow"
+      },
+      {% for story in site.stories %}
+      {
+        "type": "small",
+        "title": "Learn about cats",
+        "url": "https://wikipedia.org/wiki/Cat",
+        "image": "assets/bookend_cats.jpg"
+      },
+      {% endfor %}
+      {
+        "type": "cta-link",
+        "links": [
+          {
+            "text": "@tomcritchlow",
+            "url": "https://twitter.com/tomcritchlow"
+          }
+        ]
+      }
+    ]
+  }
