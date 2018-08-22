@@ -10,13 +10,13 @@
     "components": [
       {
         "type": "heading",
-        "text": "Latest Stories from Tom Critchlow"
+        "text": "More Stories by Tom Critchlow"
       },
       {% for story in site.stories %}
       {
         "type": "small",
-        "title": "Learn about cats",
-        "url": "https://wikipedia.org/wiki/Cat",
+        "title": "story.title",
+        "url": "story.url",
         "image": "assets/bookend_cats.jpg"
       },
       {% endfor %}
