@@ -16,7 +16,7 @@ pages:
    image: /images/places1.png 
  - layout: thirds
    middle: <h3>and...Wow! They're stunning works of art and imagination! Let's walk through them</h3>   
-   bottom: 👩‍🚀🛰️👨‍🚀
+   bottom: 👩‍🚀 🛰 ️👨‍🚀
  - layout: thirds
    top: <h1>Toroidal Colonies</h1>
    middle: "<p>Population: 10,000</p>"
