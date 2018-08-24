@@ -42,7 +42,7 @@ pages:
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Endcap_AC75-1883_1920.jpg
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Eclipse_AC75-1920_1920.jpg
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Multiple_AC75-1921_1920.jpg       
-- layout: thirds
+ - layout: thirds
    middle: Anyway - you should totally read it the original article The Shape of Space...
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
