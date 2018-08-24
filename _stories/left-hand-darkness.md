@@ -16,6 +16,7 @@ pages:
  - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
  - background: https://i.pinimg.com/564x/27/02/b3/2702b3034a6b5eabc461848a3e136cf7.jpg 
  - background: /images/lefthanddarknesscover.jpg 
+ - background: https://images-na.ssl-images-amazon.com/images/I/514d4W7XCmL.jpg 
  - layout: thirds
    middle: '<h2>"To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness."</h2>'
            
