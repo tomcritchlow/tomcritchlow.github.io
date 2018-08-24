@@ -10,17 +10,13 @@ pages:
    middle: <h2>I recently read an amazing article in Places Journal called The Shape of Space</h2>
    background: /images/placesjournal.png
  - layout: thirds
-   middle: You should totally read it...
-   cta:
-      link: https://placesjournal.org/article/the-shape-of-space/
-      text: https://placesjournal.org
- - layout: vertical
+   middle: <h3>In the article it talks about this collection of artworks commissioned by NASA in the 70s to imagine what habitable space colonies might look like...</h3>       
+- layout: vertical
    top: <h2>From the article...</h2>
    image: /images/places1.png 
  - layout: thirds
-   middle: <h3>In the article it links to this collection of artworks commissioned by NASA in the 70s to imagine what space colonies might look like...</h3>       
- - layout: thirds
-   middle: <h3>Wow! They're stunning works of art and imagination</h3>   
+   middle: <h3>and...Wow! They're stunning works of art and imagination! Let's walk through them</h3>   
+   bottom: 👩‍🚀🛰️👨‍🚀
  - layout: thirds
    top: <h1>Toroidal Colonies</h1>
    middle: "<p>Population: 10,000</p>"
