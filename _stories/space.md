@@ -35,6 +35,14 @@ pages:
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Bernal_Exterior_AC76-0965_1920.jpg
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Bernal_Interior_AC76-0628_1920.jpg       
  - layout: thirds
+   top: <h1>Cylindrical Colonies</h1>
+   middle: "<p>Population: Over a million.</p>" 
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Exterior_AC75-1085_1920.jpg
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Interior_AC75-1086_1920.jpg
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Endcap_AC75-1883_1920.jpg
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Eclipse_AC75-1920_1920.jpg
+ - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Cylinder_Multiple_AC75-1921_1920.jpg       
+- layout: thirds
    middle: Anyway - you should totally read it the original article The Shape of Space...
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
