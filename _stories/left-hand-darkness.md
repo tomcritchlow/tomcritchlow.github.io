@@ -16,6 +16,6 @@ pages:
  - background: https://www.lwcurrey.com/pictures/111270.jpg?v=1192371414
  - background: /images/lefthanddarknesscover.jpg 
  - layout: thirds
-   middle: "<h2>To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness.</h2>"
+   middle: '<h2>"To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness."</h2>'
            
 ---
