@@ -14,6 +14,9 @@ pages:
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
       text: https://placesjournal.org
+ - layout: vertical
+   top: <h2>From the article...</h2>
+   image: /images/places1.png 
  - layout: thirds
    middle: <h3>In the article it links to this collection of artworks commissioned by NASA in the 70s to imagine what space colonies might look like...</h3>       
  - layout: thirds
