@@ -14,6 +14,9 @@ pages:
  - background: https://images-na.ssl-images-amazon.com/images/I/51br41p6mPL.jpg 
  - background: https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/3/c2/3c22c40a-fcec-11e7-9cd0-afc065ba665a/5a61a158bec82.image.jpg 
  - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
+ - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
+   layout: thirds
+   middle: This cover, while subtle is a fave - the simplicity, the bleakness and the emphasis on the journey...
  - background: https://i.pinimg.com/564x/27/02/b3/2702b3034a6b5eabc461848a3e136cf7.jpg 
  - background: /images/lefthanddarknesscover.jpg 
  - background: https://images-na.ssl-images-amazon.com/images/I/514d4W7XCmL.jpg 

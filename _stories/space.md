@@ -5,8 +5,7 @@ cover:
    title: Amazing Space Colony Art from the 1970s
    subtitle: Found via placesjournal
 pages: 
- - page-number: 1
-   layout: thirds
+ - layout: thirds
    middle: <h2>I recently read an amazing article in Places Journal called The Shape of Space</h2>
    background: /images/placesjournal.png
  - layout: thirds
