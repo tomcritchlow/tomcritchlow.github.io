@@ -115,6 +115,11 @@
         object-fit:contain;
       }
 
+      .blurimage{
+        filter:blur(2px);
+        filter:brightness(60%);
+      }
+
     </style>
   </head>
   <body>
@@ -129,7 +134,8 @@
         <amp-story-grid-layer template="fill">
           <amp-img src="{{page.cover.background}}"
               width="720" height="1280"
-              layout="responsive">
+              layout="responsive"
+              {% if page.cover.backgroundblur %}class="blurimage"{% endif %}>
           </amp-img>
         </amp-story-grid-layer>
         {% endif %}
@@ -148,7 +154,7 @@
   <amp-story-grid-layer template="fill">
     <amp-img src="{{page.background}}" 
         width="720" height="1280"
-        layout="responsive">
+        layout="responsive" {% if page.backgroundblur %}class="blurimage"{% endif %}>
     </amp-img>
   </amp-story-grid-layer>
 {% endif %}

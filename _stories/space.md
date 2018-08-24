@@ -8,6 +8,7 @@ pages:
  - layout: thirds
    middle: <h2>I recently read an amazing article in Places Journal called The Shape of Space</h2>
    background: /images/placesjournal.png
+   backgroundblur: true
  - layout: thirds
    middle: <h3>In the article it talks about this collection of artworks commissioned by NASA in the 70s to imagine what habitable space colonies might look like...</h3>       
  - layout: vertical
