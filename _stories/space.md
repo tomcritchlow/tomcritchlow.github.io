@@ -11,7 +11,7 @@ pages:
    background: /images/placesjournal.png
  - layout: thirds
    middle: <h3>In the article it talks about this collection of artworks commissioned by NASA in the 70s to imagine what habitable space colonies might look like...</h3>       
-- layout: vertical
+ - layout: vertical
    top: <h2>From the article...</h2>
    image: /images/places1.png 
  - layout: thirds
