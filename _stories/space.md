@@ -10,12 +10,14 @@ pages:
    middle: <h2>I recently read an amazing article in Places Journal</h2>
    background: /images/placesjournal.png
  - layout: thirds
-   middle: I recently read an amazing article in Places Journal
-   textcolor: black
-   background: /images/placesjournal.png   
+   middle: You should totally read it...
    cta:
       link: https://placesjournal.org/article/the-shape-of-space/
-      text: Check it out!
+      text: https://placesjournal.org
+ - layout: thirds
+   middle: <h3>In the article it links to this collection of artworks commissioned by NASA in the 70s to imagine what space colonies might look like...</h3>       
+ - layout: thirds
+   middle: <h3>Wow! They're stunning works of art and imagination</h3>   
  - page-number: 2
    layout: thirds
    top: <h1>Toroidal Colonies</h1>
