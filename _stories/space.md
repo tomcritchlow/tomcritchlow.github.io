@@ -7,7 +7,7 @@ cover:
 pages: 
  - page-number: 1
    layout: thirds
-   middle: <h2>I recently read an amazing article in Places Journal</h2>
+   middle: <h2>I recently read an amazing article in Places Journal called The Shape of Space</h2>
    background: /images/placesjournal.png
  - layout: thirds
    middle: You should totally read it...
@@ -34,5 +34,14 @@ pages:
    middle: "<p>Population: 10,000. The Bernal Sphere is a point design with a spherical living area.</p>" 
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Bernal_Exterior_AC76-0965_1920.jpg
  - background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Bernal_Interior_AC76-0628_1920.jpg       
-   
+ - layout: thirds
+   middle: Anyway - you should totally read it the original article The Shape of Space...
+   cta:
+      link: https://placesjournal.org/article/the-shape-of-space/
+      text: https://placesjournal.org   
+ - layout: thirds
+   middle: And you can check out the full high res images from NASA here:
+   cta:
+      link: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/art.html
+      text: arc.nasa.gov         
 ---
