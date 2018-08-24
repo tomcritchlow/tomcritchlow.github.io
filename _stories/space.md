@@ -2,12 +2,12 @@
 layout: ampstory
 title: Space Colony Art from the 1970s
 cover:
-   title: Space Colony Art from the 1970s
-   publisher: Found via placesjournal
+   title: Amazing Space Colony Art from the 1970s
+   subtitle: Found via placesjournal
 pages: 
  - page-number: 1
    layout: thirds
-   middle: I recently read an amazing article in Places Journal
+   middle: <h2>I recently read an amazing article in Places Journal</h2>
    background: /images/placesjournal.png
  - layout: thirds
    middle: I recently read an amazing article in Places Journal
