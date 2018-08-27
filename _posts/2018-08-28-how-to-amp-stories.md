@@ -78,11 +78,16 @@ Then every page object works like this:
 - "Layout: vertical" allows for "stacking" of content but it's not very sophisticated. Right now I've set it up to have a top, image and bottom defined with the image taking up most of the page and full width. It's crude but allows for in-line images.
 - "background" takes an image URL and makes a full screen image background for the page
 - "cta" takes two children, link and text which go to the link URL and the anchor text
+- "textcolor:" which allows you to change the text color on the page to something other than default white
+- "backgroundblur:" when set to true it adds a filter:blur(2px) brightnesss(90%) to the background image
 
-
-Link to CNN for some of the potential styling and slick layouts.
+You'll see that this is pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
 
 ## Here's a few example stories I made:
+
+So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories:
+
+
 
 Ursula
 Space
