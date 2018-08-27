@@ -20,7 +20,7 @@ And, the origin of all this - Robin Sloan's fish essay - recently got re-mastere
 
 ## AMP Stories
 
-To date, none of the tappable story implementations have worked well on the web but the closest I think is AMP stories. Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them but AMP stories just reached V1.0 and is now available for everyone.
+To date, none of the tappable story implementations have worked well on the web but the closest I think is [AMP stories](https://www.ampproject.org/stories/). Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them but AMP stories just reached V1.0 and is now available for everyone.
 
 So I thought I'd play around!
 
