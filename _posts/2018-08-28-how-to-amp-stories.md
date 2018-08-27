@@ -81,6 +81,8 @@ Then every page object works like this:
 - "textcolor:" which allows you to change the text color on the page to something other than default white
 - "backgroundblur:" when set to true it adds a filter:blur(2px) brightnesss(90%) to the background image
 
+Two important notes: jekyll frontmatter supports emojis and amp stories support gifs. 🔥
+
 You'll see that this is pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
 
 ## Here's a few example stories I made:
