@@ -124,7 +124,9 @@
     <!-- Cover page -->
     <amp-story standalone
         title="{{page.cover.title}}"
-        publisher="{{ site.url }}">
+        publisher="{{ site.url }}"
+        publisher-logo-src="/images/ampfavicon.png"
+        poster-portrait-src="/images/amp-poster.png">
       <amp-story-page id="cover">
           {% if page.cover.background %}
         <amp-story-grid-layer template="fill">
