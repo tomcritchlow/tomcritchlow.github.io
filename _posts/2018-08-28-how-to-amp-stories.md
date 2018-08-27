@@ -100,8 +100,10 @@ And if you want to peek under the hood you can see all of the [raw files on gith
 
 ## Where next?
 
-In summary - I think AMP stories have a long way to go before they feel anywhere near as fluid and fun as Instagram stories. But I'm confident that Google (or someone!) will figure out tappable stories for the web and when they do.... let the fun commence!
+In summary - I think AMP stories have a long way to go before they feel anywhere near as fluid and fun as Instagram stories. The layout is more restrictive and there are lots of small interactions that just don't work as well (little things like tap delays, no swiping, animations etc).
 
 One feature that is especially clunky right now is adding links. But I'm excited that as of 5 days ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
+
+But it's still fun to be able to play around with this new kind of format on my own domain. And I'm excited for where things go next.
 
 If you make anything from this code @ me on twitter (@tomcritchlow) or leave a comment below!
