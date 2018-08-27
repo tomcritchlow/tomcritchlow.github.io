@@ -89,11 +89,13 @@ You'll see that this is pretty crude and easily extensible. For more of an idea 
 
 So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories I've been using to test out the functionality:
 
-[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md))
+[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/)
 
-[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/left-hand-darkness.md))
+[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/)
 
-[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/nba.md))
+[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/)
+
+And if you want to peek under the hood you can see all of the [raw files on github here](https://github.com/tomcritchlow/tomcritchlow.github.io/tree/master/_stories).
 
 
 ## Where next?
