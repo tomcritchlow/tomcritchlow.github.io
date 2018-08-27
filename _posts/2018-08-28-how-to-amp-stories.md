@@ -91,11 +91,9 @@ So! With all of that out of the way - what have I been playing around with? Here
 
 [Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md))
 
+[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/left-hand-darkness.md))
 
-
-Ursula
-Space
-NBA gifs
+[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/nba.md))
 
 
 
