@@ -20,7 +20,7 @@ And, the origin of all this - Robin Sloan's fish essay - recently got re-mastere
 
 ## AMP Stories
 
-To date, none of the tappable story implementations have worked well on the web but the closest I think is [AMP stories](https://www.ampproject.org/stories/). Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them but AMP stories just reached V1.0 and is now available for everyone.
+To date, none of the tappable story implementations have worked well on the web but the closest I think is [AMP stories](https://www.ampproject.org/stories/). Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them. But AMP stories just reached V1.0 and is now available for everyone.
 
 So I thought I'd play around!
 
@@ -30,7 +30,7 @@ I should say before I go further that I have some reservations about AMP stories
 - AMP stories are still kind of clunky. No swiping to advance. They're just not as performant or smooth as native Instagram stories.
 - Google's mishandling of cache problems and URL linking demonstrates a poor understanding of the web generally.
 
-But! I think they're going to get more focus and attention and I can't imagine someone won't build an open-web tappable story experience. So let's play around and have some fun!
+But! I think they're going to get more attention and they're the best there is right now for building web-stories. So let's play around and have some fun!
 
 ## How do you build a CMS for tappable stories?
 
@@ -44,13 +44,41 @@ And for a more code-focused approach the team at Mic developed an open format ca
 
 [Introducing a cross-platform format for tap-through stories](https://medium.com/readme-mic/introducing-a-cross-platform-format-for-tap-through-stories-59bdbd3ad863)
 
+Ultimately, I decided that I'd go for an MVP - a bare bones generator that I could extend and play with...
+
 ## Copy my code github!
 
-Warning - there be dragons. Badly coded dragons. 
+Warning - there be dragons ahead! Badly coded dragons... I'm not a developer or a designer so you'll see this whole thing is a little rough around the edges.
 
-Simple styling that let's me do things.
+This blog is hosted on Github pages using the Jekyll language. It's a markdown heavy format but allows for liquid templating and while I thought about generating AMP stories using content blocks I decided using the frontmatter was a simpler approach.
 
-I've tried to both make it simple but flexible. There are some obvious trade offs..
+So first I created an ampstory.html layout file:
+
+![](/images/ampcode2.png)
+
+[View the file on Github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_layouts/ampstory.html)
+
+And then everything is done in the front matter of a story file like this:
+
+![](/images/ampcode.png)
+
+[View a sample story file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md)
+
+Instructions are as follows:
+
+The cover takes the following fields:
+
+- "title:" which is the main story title
+- "subtitle:" which is the subtitle
+- "background:" which takes an image URL and makes a full screen background image
+
+Then every page object works like this:
+
+- "Layout: thirds" divides the page into three horizontal rows of equal height to place HTML inside.
+- "Layout: vertical" allows for "stacking" of content but it's not very sophisticated. Right now I've set it up to have a top, image and bottom defined with the image taking up most of the page and full width. It's crude but allows for in-line images.
+- "background" takes an image URL and makes a full screen image background for the page
+- "cta" takes two children, link and text which go to the link URL and the anchor text
+
 
 Link to CNN for some of the potential styling and slick layouts.
 
