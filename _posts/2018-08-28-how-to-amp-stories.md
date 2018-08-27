@@ -96,12 +96,10 @@ So! With all of that out of the way - what have I been playing around with? Here
 [Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/nba.md))
 
 
-
 ## Where next?
 
 In summary - I think AMP stories have a long way to go before they feel anywhere near as fluid and fun as Instagram stories. But I'm confident that Google (or someone!) will figure out tappable stories for the web and when they do.... let the fun commence!
 
-One feature that is especially lacking right now is links (oh the irony of struggling to add links to an open-web format!). But I'm excited that as of 5 days ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
+One feature that is especially clunky right now is adding links. But I'm excited that as of 5 days ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
 
-If you make anything 
-@ me on twitter (@tomcritchlow) or lea
+If you make anything from this code @ me on twitter (@tomcritchlow) or leave a comment below!
