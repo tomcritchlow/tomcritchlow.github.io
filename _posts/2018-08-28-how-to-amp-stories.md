@@ -14,9 +14,9 @@ There are a handful of other story formats floating around for example:
 - Twitter moments ([example](https://twitter.com/i/moments/1034070233189892096?lang=en))
 - Instagram stories ([example](https://www.instagram.com/stories/highlights/17907535984221261/))
 - Giphy stories ([example](https://giphy.com/stories/cat-puns-1579651e-a258))
-- Medium series ([example](https://medium.com/series/the-best-story-in-global-health-d5442f7aee12)) (ironically these are user-hostile on mobile forcing you to read them on desktop or in the native app....)
+- Medium series ([example](https://medium.com/series/the-best-story-in-global-health-d5442f7aee12)) (*ironically these are user-hostile on mobile, forcing you to read them on desktop or in the native app....*)
 
-And, of course, Robin Sloan's fish essay recently got re-mastered! I strongly encourage you to check it out: [https://www.robinsloan.com/fish/](https://www.robinsloan.com/fish/)
+And, the origin of all this - Robin Sloan's fish essay - recently got re-mastered! I strongly encourage you to check it out: [https://www.robinsloan.com/fish/](https://www.robinsloan.com/fish/)
 
 ## AMP Stories
 
@@ -26,30 +26,23 @@ So I thought I'd play around!
 
 I should say before I go further that I have some reservations about AMP stories. Namely:
 
-- I'm wary of AMP generally. I think the end result of AMP speeding up the web is a GOOD THING, but the centralization and lockin and move away from the open web is troubling for me.
+- I'm wary of AMP generally. I think the end result of AMP speeding up the web is a GOOD THING, but the centralization and move away from the open web is troubling for me.
 - AMP stories are still kind of clunky. No swiping to advance. They're just not as performant or smooth as native Instagram stories.
-- 
+- Google's mishandling of cache problems and URL linking demonstrates a poor understanding of the web generally.
 
-But! I think they're going to get more focus and attention from folks and I can't imagine someone won't build an open-web tappable story experience. So let's play around and have some fun!
+But! I think they're going to get more focus and attention and I can't imagine someone won't build an open-web tappable story experience. So let's play around and have some fun!
 
 ## How do you build a CMS for tappable stories?
 
-Mic open story format.
-https://medium.com/readme-mic/introducing-a-cross-platform-format-for-tap-through-stories-59bdbd3ad863
+As I began thinking about making AMP stories and building some kind of generator for them I began to study the "CMS" of Instagram stories and marvelled both at the depth and complexity of it and how much is hidden beneath the surface. It's an incredibly powerful platform that generates a huge array of types of stories without feeling burdensome.
 
-A brief overview
+For those that want a little more theory and noodling on web-based stories you should definitely check out Stephanie and Bryan Rieger's explorations building hopscotch with Mozilla:
 
+[Rethinking the creative web: Our journey to reimagine ‘web publishing’ for the social web](https://medium.com/twill/rethinking-the-creative-web-our-journey-to-reimagine-web-publishing-for-the-social-web-26c2f347fcd0)
 
+And for a more code-focused approach the team at Mic developed an open format called story-json that is designed to allow content to exist across multiple "story" platforms. I don't think it's actively maintained but it's an interesting attempt at abstraction:
 
-
-
-## Here's a few example stories I made:
-
-Ursula
-Space
-NBA gifs
-
-Note all of the "clunkiness" of the layout is due to my rudimentary design skills. You can actually do a ton of styling on AMP stories via regular CSS so hopefully folks can take this simple foundation and build on it.
+[Introducing a cross-platform format for tap-through stories](https://medium.com/readme-mic/introducing-a-cross-platform-format-for-tap-through-stories-59bdbd3ad863)
 
 ## Copy my code github!
 
@@ -60,6 +53,14 @@ Simple styling that let's me do things.
 I've tried to both make it simple but flexible. There are some obvious trade offs..
 
 Link to CNN for some of the potential styling and slick layouts.
+
+## Here's a few example stories I made:
+
+Ursula
+Space
+NBA gifs
+
+Note all of the "clunkiness" of the layout is due to my rudimentary design skills. You can actually do a ton of styling on AMP stories via regular CSS so hopefully folks can take this simple foundation and build on it.
 
 ## Where next?
 
