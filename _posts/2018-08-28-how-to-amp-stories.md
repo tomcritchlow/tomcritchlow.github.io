@@ -85,7 +85,9 @@ You'll see that this is pretty crude and easily extensible. For more of an idea 
 
 ## Here's a few example stories I made:
 
-So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories:
+So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories I've been using to test out the functionality:
+
+[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/) - ([see the file on github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md))
 
 
 
@@ -93,11 +95,13 @@ Ursula
 Space
 NBA gifs
 
-Note all of the "clunkiness" of the layout is due to my rudimentary design skills. You can actually do a ton of styling on AMP stories via regular CSS so hopefully folks can take this simple foundation and build on it.
+
 
 ## Where next?
 
 In summary - I think AMP stories have a long way to go before they feel anywhere near as fluid and fun as Instagram stories. But I'm confident that Google (or someone!) will figure out tappable stories for the web and when they do.... let the fun commence!
+
+One feature that is especially lacking right now is links (oh the irony of struggling to add links to an open-web format!). But I'm excited that as of 5 days ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
 
 If you make anything 
 @ me on twitter (@tomcritchlow) or lea
