@@ -1,0 +1,172 @@
+<!doctype html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-video"
+        src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+    <script async custom-element="amp-story"
+        src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800" rel="stylesheet" type="text/css">
+        <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <style amp-custom>
+      amp-story {
+        font-family: 'Raleway',sans-serif;
+        color: #fff;
+      }
+      amp-story-page {
+        background-color: #000;
+      }
+
+      .headline{
+        display:block;
+      }
+      h1 {
+        font-weight: 700;
+        font-size: 2.875em;
+        line-height: 1.5;
+        background-color: #ffde37;
+        box-shadow: 8px 1px 0 3px #ffde37, -8px 1px 0 3px #ffde37;
+        display:inline;
+        color:black;
+      }
+      h2 {
+        font-weight: 700;
+        line-height: 1.7;
+        background-color: black;
+        box-shadow: 8px 1px 0 3px black, -8px 1px 0 3px black;
+        display:inline;
+      }
+      h3 {
+        font-weight: 700;
+        font-size: 2em;
+        line-height: 1.7;
+      }      
+      p {
+        font-weight: normal;
+        font-size: 1.4em;
+        line-height: 1.5em;
+        color: #fff;
+        background-color:rgba(0,0,0,0.4)
+      }
+      q {
+        font-weight: 300;
+        font-size: 1.1em;
+      }
+      amp-story-grid-layer.bottom {
+        align-content:end;
+      }
+      amp-story-grid-layer.noedge {
+        padding: 0px;
+      }
+      amp-story-grid-layer.center-text {
+        align-content: center;
+      }
+      .wrapper {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 50% 50%;
+      }
+      .banner-text {
+        text-align: center;
+        background-color: #000;
+        line-height: 2em;
+      }
+      amp-story-cta-layer{
+        text-align:center;
+        width:100%;
+        font-size:1.3em;
+        
+      }
+      amp-story-cta-layer a{
+        text-decoration:none;
+        padding-top:10%;
+        padding-bottom:10%;
+        color:black;
+        background-color:rgba(255,255,255,0.8);
+        display:block;
+        width:100%;
+        font-weight:700;
+      }
+      amp-story-cta-layer a:after{
+        content:" ↪️";
+      }
+      .date{
+        font-size:1em;
+      }
+      .center{
+        text-align:center;
+      }
+
+      .verticalimg{
+        position: relative;
+      width: calc(100% + 64px);
+      height: 400px;
+      margin-left: -32px;
+      }
+
+      .verticalimg img{
+        object-fit:contain;
+      }
+
+      .blurimage{
+        filter:blur(2px) brightness(90%);
+      }
+
+    </style>
+  </head>
+  <body>
+    <!-- Cover page -->
+    <amp-story standalone
+        title="{{page.cover.title}}"
+        publisher="{{ site.url }}"
+        publisher-logo-src="/images/ampfavicon.png"
+        poster-portrait-src="/images/amp-poster.png">
+      <amp-story-page id="cover">
+        <amp-story-grid-layer template="vertical">
+            <div class="content"><h1>{{page.cover.title}}</h1></div>
+            <div class="content">{{page.cover.subtitle}}</div>
+            <div class="content date">{{ page.date | date: "%B %-d, %Y" }}</div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+
+    {% for image in site.static_files %}
+      {% if image.path contains page.folder %}
+      <amp-story-page id="page{{forloop.index}}">
+          <amp-story-grid-layer template="fill">
+            <amp-img src="{{image.path}}" 
+                width="720" height="1280"
+                layout="responsive">
+            </amp-img>
+          </amp-story-grid-layer>
+      </amp-story-page>
+      {% endfor %}
+
+
+<amp-analytics type="googleanalytics">
+  <script type="application/json">
+  {
+    "vars": {
+      "account": "UA-21100208-1"
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      }
+    }
+  }
+  </script>
+  </amp-analytics>
+
+      <!-- Bookend -->
+      <amp-story-bookend src="/bookend.json" layout="nodisplay"></amp-story-bookend>
+    </amp-story>
+  </body>
+</html>
