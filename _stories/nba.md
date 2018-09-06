@@ -10,12 +10,18 @@ pages:
  - background: https://media.giphy.com/media/UNoge3iTtZyPm/giphy.gif 
  - background: https://media.giphy.com/media/2tLA4eOvxHzqKbOoYu/giphy.gif
    layout: thirds
-   middle: <h1>The fashion!</h1>
+   bottom: <h1>The fashion!</h1>
+ - background: https://media.giphy.com/media/3oEduHham6HrHCmrRK/giphy.gif   
  - background: https://media.giphy.com/media/xT8qBhM0ESArBDdyq4/giphy.gif  
    layout: thirds
-   middle: <h1>The passion!</h1> 
+   bottom: <h1>The passion!</h1> 
  - background: https://media.giphy.com/media/mPP6E6FPgwvni/giphy.gif
  - background: https://media.giphy.com/media/26vUGuV1WxhbkEKZy/giphy.gif
+   layout: thirds
+   bottom: <h1>And of course... the dunks</h1>     
+ - background: https://media.giphy.com/media/xTiTnpcaFPfJAzaP8A/giphy.gif   
+ - background: https://media.giphy.com/media/4qify5sjr92ec/giphy.gif
  - layout: thirds
-   middle: <h1>And of course... the dunks</h1>     
+   middle: <h1>And of course....</h1>
+ - background: https://media.giphy.com/media/fs62ZydKjn6lbJ0pAU/giphy.gif      
 ---
