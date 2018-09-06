@@ -17,7 +17,7 @@ pages:
    middle: <h2>These covers show the major themes of ice ❄️, fire 🔥 and an epic journey 🚶‍♀️. </h2>
  - background: https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/3/c2/3c22c40a-fcec-11e7-9cd0-afc065ba665a/5a61a158bec82.image.jpg 
  - layout: thirds
-   middle: <h2>Then this cover! Ice again, sure but the core duality of the book is uncovered here (and this is actually my favorite cover). The duality of alien and stranger, man and woman, lover and friend, enemy and friend.</h2> 
+   top: <h2>Then this cover! Ice again, sure but the core duality of the book is uncovered here (and this is actually my favorite cover). The duality of alien and stranger, man and woman, lover and friend, enemy and friend.</h2> 
  - background: https://i.pinimg.com/564x/27/02/b3/2702b3034a6b5eabc461848a3e136cf7.jpg 
  - layout: thirds
    middle: <h2>And then... darkness emerges</h2>  
