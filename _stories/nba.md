@@ -23,5 +23,6 @@ pages:
  - background: https://media.giphy.com/media/4qify5sjr92ec/giphy.gif
  - layout: thirds
    middle: <h1>And of course....</h1>
- - background: https://media.giphy.com/media/fs62ZydKjn6lbJ0pAU/giphy.gif      
+ - layout: vertical
+   image: https://media.giphy.com/media/fs62ZydKjn6lbJ0pAU/giphy.gif      
 ---
