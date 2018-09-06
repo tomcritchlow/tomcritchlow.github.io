@@ -26,9 +26,9 @@ So I thought I'd play around!
 
 I should say before I go further that I have some reservations about AMP stories. Namely:
 
-- I'm wary of AMP generally. I think the end result of AMP speeding up the web is a GOOD THING, but the centralization and move away from the open web is troubling for me.
-- AMP stories are still kind of clunky. No swiping to advance. They're just not as performant or smooth as native Instagram stories.
-- Google's mishandling of cache problems and URL linking demonstrates a poor understanding of the web generally.
+- I'm wary of AMP generally. I think the end result of AMP speeding up the web is a GOOD THING, but the centralization and move away from the open web is troubling.
+- AMP stories are still kind of clunky. There's no swiping to advance. They're just not as performant or smooth as native Instagram stories.
+- Google's mishandling of cache problems and URL linking demonstrates a poor understanding of the web.
 
 But! I think they're going to get more attention and they're the best there is right now for building web-stories. So let's play around and have some fun!
 
@@ -44,13 +44,15 @@ And for a more code-focused approach the team at Mic developed an open format ca
 
 [Introducing a cross-platform format for tap-through stories](https://medium.com/readme-mic/introducing-a-cross-platform-format-for-tap-through-stories-59bdbd3ad863)
 
-Ultimately, I decided that I'd go for an MVP - a bare bones generator that I could extend and play with...
+In short - I have no idea how you'd go about building a web-based CMS to generate stories to the level of creativity you can get with Instagram stories but I'm sure someone will figure it out.
+
+For me, I decided to build a bare bones generator that I could extend and play with...
 
 ## Copy my code github!
 
 Warning - there be dragons ahead! Badly coded dragons... I'm not a developer or a designer so you'll see this whole thing is a little rough around the edges.
 
-This blog is hosted on Github pages using the Jekyll language. It's a markdown heavy format but allows for liquid templating and while I thought about generating AMP stories using content blocks I decided using the frontmatter was a simpler approach.
+This blog is hosted on Github pages using the Jekyll framework. It's a markdown heavy format but allows for liquid templating and while I thought about generating AMP stories using content blocks I decided using the frontmatter was a simpler approach.
 
 So first I created an ampstory.html layout file:
 
@@ -64,7 +66,9 @@ And then everything is done in the front matter of a story file like this:
 
 [View a sample story file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md)
 
-Instructions are as follows:
+## How to use this to make AMP stories
+
+The way I've set it up - if you copy my layouts they work as follows:
 
 The cover takes the following fields:
 
@@ -85,15 +89,17 @@ Two important notes: jekyll frontmatter supports emojis and amp stories support 
 
 You'll see that this is pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
 
+Alternatively - I also made a super simple format that just takes a single input - a folder path. Then it generates an AMP story from all the images in that folder. See an [example file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/gallery.md).
+
 ## Here's a few example stories I made:
 
 So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories I've been using to test out the functionality:
 
-[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/)
+[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/) - this story is based on an article I read about this amazing space colony art that NASA commissioned in the 70s. Perfect space-gaping images for AMP stories.
 
-[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/)
+[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/) - I recently finished this book and thought book covers make for interesting AMP story content.
 
-[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/)
+[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/) - you can use gifs in AMP stories!
 
 And if you want to peek under the hood you can see all of the [raw files on github here](https://github.com/tomcritchlow/tomcritchlow.github.io/tree/master/_stories).
 
