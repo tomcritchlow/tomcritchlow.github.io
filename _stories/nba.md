@@ -4,17 +4,18 @@ title: Loop hoops
 date: August 28th 2018
 cover:
    title: Loop Hoops
-   subtitle: <h3>Some of my fave basketball gifs...</h3>
+   subtitle: <h3>Some of my fave Lebron gifs...</h3>
    background: https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif
 pages: 
  - background: https://media.giphy.com/media/UNoge3iTtZyPm/giphy.gif 
- - layout: vertical
-   image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
-   top: <h2>Love that pick and roll...</h2>
- - background: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
- - background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
- - layout: vertical
-   image: https://media.giphy.com/media/12C1Kzjjn3XSXC/giphy.gif
- - background: https://media.giphy.com/media/6CLb8ojDzwiI/giphy.gif
- - background: https://media.giphy.com/media/UnUm4MxtAKIww/giphy.gif
+ - background: https://media.giphy.com/media/2tLA4eOvxHzqKbOoYu/giphy.gif
+   layout: thirds
+   middle: <h1>The fashion!</h1>
+ - background: https://media.giphy.com/media/xT8qBhM0ESArBDdyq4/giphy.gif  
+   layout: thirds
+   middle: <h1>The passion!</h1> 
+ - background: https://media.giphy.com/media/mPP6E6FPgwvni/giphy.gif
+ - background: https://media.giphy.com/media/26vUGuV1WxhbkEKZy/giphy.gif
+ - layout: thirds
+   middle: <h1>And of course... the dunks</h1>     
 ---
