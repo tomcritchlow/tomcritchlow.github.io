@@ -17,7 +17,6 @@
         "type": "small",
         "title": "{{story.title}}",
         "url": "{{story.url}}",
-        {{story.layout}}
         {% if story.layout contains "ampstory" %}
         {% assign image = 0 %}
         {% for page in story.pages %}
@@ -29,7 +28,13 @@
           {% endif %}
         {% endfor %}
         {% elsif story.layout contains "ampgallery" %}
-        ampgallery
+        {% assign image = 0 %}
+          {% for image in site.static_files %}
+            {% if image.path contains story.folder %}
+              "image": "{{image.path}}"
+              {% assign image = 1 %}
+            {% endif %}
+          {% endfor %}
         {% endif %}
 
       },
