@@ -17,6 +17,7 @@
         "type": "small",
         "title": "{{story.title}}",
         "url": "{{story.url}}",
+        {{page.layout}}
         {% if page.layout contains "ampstory" %}
         {% assign image = 0 %}
         {% for page in story.pages %}
