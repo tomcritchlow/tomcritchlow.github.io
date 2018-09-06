@@ -12,12 +12,15 @@ pages:
  - layout: thirds
    middle: "<h2>Let's take a look at the book through the lens of it's various covers:</h2>"   
  - background: https://images-na.ssl-images-amazon.com/images/I/51br41p6mPL.jpg 
+ - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
+ - layout: thirds
+   middle: <h2>These covers show the major themes of ice ❄️, fire 🔥 and an epic journey 🚶‍♀️. </h2>
  - background: https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/3/c2/3c22c40a-fcec-11e7-9cd0-afc065ba665a/5a61a158bec82.image.jpg 
- - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
- - background: https://images-na.ssl-images-amazon.com/images/I/41Hv-x%2BwYvL.jpg
-   layout: thirds
-   middle: This cover, while subtle is a fave - the simplicity, the bleakness and the emphasis on the journey...
+ - layout: thirds
+   middle: <h2>Then this cover! Ice again, sure but the core duality of the book is uncovered here (and this is actually my favorite cover). The duality of alien and stranger, man and woman, lover and friend, enemy and friend.</h2> 
  - background: https://i.pinimg.com/564x/27/02/b3/2702b3034a6b5eabc461848a3e136cf7.jpg 
+ - layout: thirds
+   middle: <h2>And then... darkness emerges</h2>  
  - background: /images/lefthanddarknesscover.jpg 
  - background: https://images-na.ssl-images-amazon.com/images/I/514d4W7XCmL.jpg 
  - layout: thirds
