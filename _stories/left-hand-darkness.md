@@ -22,8 +22,14 @@ pages:
  - layout: thirds
    middle: <h2>And then... darkness emerges</h2>  
  - background: /images/lefthanddarknesscover.jpg 
- - background: https://images-na.ssl-images-amazon.com/images/I/514d4W7XCmL.jpg 
  - layout: thirds
    middle: '<h2>"To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness."</h2>'
-           
+ - layout: vertical
+   top: <h2>If all of that isn't enough apparently it's coming to TV!</h2>  
+   image: /images/varietyursula.png
+ - layout: thirds
+   middle: <h2>Go read it!</h2>    
+   cta:
+    - link: https://www.amazon.com/dp/B00YBA7PGW/
+    - text: https://www.amazon.com/dp/B00YBA7PGW/   
 ---
