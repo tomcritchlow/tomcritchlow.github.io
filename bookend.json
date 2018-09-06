@@ -17,7 +17,7 @@
         "type": "small",
         "title": "{{story.title}}",
         "url": "{{story.url}}",
-        {% if page.layout == "ampstory" %}
+        {% if page.layout contains "ampstory" %}
         {% assign image = 0 %}
         {% for page in story.pages %}
           {%if image == 0 %}
@@ -27,7 +27,7 @@
             {% endif %}
           {% endif %}
         {% endfor %}
-        {% elsif page.layout == "ampgallery" %}
+        {% elsif page.layout contains "ampgallery" %}
         ampgallery
         {% endif %}
 
