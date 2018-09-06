@@ -2,35 +2,32 @@
 layout: blog
 title: How to make AMP stories using Jekyll and Github Pages
 subtitle: Tap tap tap
-draft: true
 ---
 
-The tappable web is an interesting place. Ever since Robin Sloan debuted Fish: a Tap Essay in 2012 I've been curious of the power and mystery of unfolding storytelling.
+The tappable web is an interesting place. These days discussion of tappable stories is dominated by Instagram. The Instagram stories format is, perhaps, the fastest growing media format of all time.
 
-Of course, these days discussion of tappable stories is dominated by Instagram. The Instagram stories format is, perhaps, the fastest growing media format of all time?
-
-There are a handful of other story formats floating around for example:
+There are a handful of other story formats floating around. For example:
 
 - Twitter moments ([example](https://twitter.com/i/moments/1034070233189892096?lang=en))
 - Instagram stories ([example](https://www.instagram.com/stories/highlights/17907535984221261/))
 - Giphy stories ([example](https://giphy.com/stories/cat-puns-1579651e-a258))
 - Medium series ([example](https://medium.com/series/the-best-story-in-global-health-d5442f7aee12)) (*ironically these are user-hostile on mobile, forcing you to read them on desktop or in the native app....*)
 
-And, the origin of all this - Robin Sloan's fish essay - recently got re-mastered! I strongly encourage you to check it out: [https://www.robinsloan.com/fish/](https://www.robinsloan.com/fish/)
+In my mind, this whole genre started with Fish: a Tap Essay from Robin Sloan. And it recently got re-mastered! I strongly encourage you to check it out: [https://www.robinsloan.com/fish/](https://www.robinsloan.com/fish/). 
 
 ## AMP Stories
 
-To date, none of the tappable story implementations have worked well on the web but the closest I think is [AMP stories](https://www.ampproject.org/stories/). Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them. But AMP stories just reached V1.0 and is now available for everyone.
+To date, none of the tappable story implementations have worked well on the web but the closest is [AMP stories](https://www.ampproject.org/stories/). Until recently they were highly experimental and you had to get your domain whitelisted by Google to try them. But AMP stories just reached V1.0 and is now available for everyone.
 
 So I thought I'd play around!
 
-I should say before I go further that I have some reservations about AMP stories. Namely:
+I should say before I go further that I do have some reservations about AMP. Namely:
 
 - I'm wary of AMP generally. I think the end result of AMP speeding up the web is a GOOD THING, but the centralization and move away from the open web is troubling.
 - AMP stories are still kind of clunky. There's no swiping to advance. They're just not as performant or smooth as native Instagram stories.
 - Google's mishandling of cache problems and URL linking demonstrates a poor understanding of the web.
 
-But! I think they're going to get more attention and they're the best there is right now for building web-stories. So let's play around and have some fun!
+But, I like the way I can host story-format content on my own domain. So let's play around and have some fun!
 
 ## How do you build a CMS for tappable stories?
 
@@ -85,9 +82,9 @@ Then every page object works like this:
 - "textcolor:" which allows you to change the text color on the page to something other than default white
 - "backgroundblur:" when set to true it adds a filter:blur(2px) brightnesss(90%) to the background image
 
-Two important notes: jekyll frontmatter supports emojis and amp stories support gifs. 🔥
+Two important notes for furthering creativity: the frontmatter supports emojis 🔥 and amp stories support gifs. 
 
-You'll see that this is pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
+You'll see that this is all pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
 
 Alternatively - I also made a super simple format that just takes a single input - a folder path. Then it generates an AMP story from all the images in that folder. See an [example file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/gallery.md).
 
@@ -108,8 +105,8 @@ And if you want to peek under the hood you can see all of the [raw files on gith
 
 In summary - I think AMP stories have a long way to go before they feel anywhere near as fluid and fun as Instagram stories. The layout is more restrictive and there are lots of small interactions that just don't work as well (little things like tap delays, no swiping, animations etc).
 
-One feature that is especially clunky right now is adding links. But I'm excited that as of 5 days ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
+One feature that is especially clunky right now is adding links. But I'm excited that as of two weeks ago this project is being worked on to function much more like Instagram stories with a double-tap UI: [https://github.com/ampproject/amphtml/issues/16521](https://github.com/ampproject/amphtml/issues/16521).
 
-But it's still fun to be able to play around with this new kind of format on my own domain. And I'm excited for where things go next.
+It's still fun to be able to play around with this new kind of format on my own domain. And I'm excited for where things go next.
 
 If you make anything from this code @ me on twitter (@tomcritchlow) or leave a comment below!
