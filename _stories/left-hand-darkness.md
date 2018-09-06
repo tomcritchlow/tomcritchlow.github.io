@@ -30,6 +30,6 @@ pages:
  - layout: thirds
    middle: <h2>Go read it!</h2>    
    cta:
-      ink: https://www.amazon.com/dp/B00YBA7PGW/
+      link: https://www.amazon.com/dp/B00YBA7PGW/
       text: https://www.amazon.com/dp/B00YBA7PGW/   
 ---
