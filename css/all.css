@@ -86,7 +86,7 @@ ul a:hover, ol a:hover, p a:hover {
     border-bottom: 4px solid #00ff00;
 }
 
-ul a, ol a, p a, form a, .mobilemenu a, .next, .previous {
+ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, footer h4 a {
     text-decoration: none;
     color: #212121;
     border-bottom: 2px solid #00ff00;
