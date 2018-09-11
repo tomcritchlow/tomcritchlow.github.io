@@ -13,7 +13,7 @@
       <article class="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pl2 pl0-ns">
         <h4 class="f5 f4-l fw6">Colophon</h4>
         <span class="f7 f6-l db black-70">
-            Built using Jekyll, hosted on Github and designed with Tachyons.io
+            Built using Jekyll, hosted on Github
           </span>
           <span class="f7 f6-l di black-70">
             All pixels designed and built by myself
@@ -22,7 +22,7 @@
       <article class="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pl2 pl0-ns">
         <h4 class="f5 f4-l fw6"><a href="/canon">Canon</a></h4>
         <span class="f7 f6-l db black-70">
-            A personal canon of the things that have inspired me
+            A personal canon of things that have inspired me
           </span>
           <span class="f7 f6-l di black-70">
             Inspired by Brendan Schlagel
@@ -37,10 +37,14 @@
         <p class="f4 fw6 mb2 f6 mt0">
           Sign up for my tinyletter:
         </p>
-        <input placeholder="Email Address" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box">
-        <input type="submit" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray">
+        <form action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tomcritchlow', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+            <input placeholder="Email Address" id="tlemail" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box">
+            <input type="hidden" value="1" name="embed"/>
+            <input type="submit" value="subscribe" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray">
+        </form>
       </div>
     </section>
+
     <div class="dt dt--fixed w-100" >
       <div class="dn dtc-ns v-mid">
         <p class="f7 black-70 dib pr3 mb3">
