@@ -5,7 +5,9 @@ subtitle: A sketch of how Mozilla could save us
 draft: true
 ---
 
-The social networks are failing us. But starting, hosting and maintaining your own blog is still too hard.
+The social networks are failing us. Or, at least, we’re realizing we need a “third way”. Not private and not social. Public but intimate. I’ve written a bit more about this philosophy before in my piece [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/).
+
+But starting, hosting and maintaining your own blog is still too hard.
 
 Medium is the default choice for writing on the web and it does a pretty good job. Except for the fact that it's a flailing VC funded rocketship that's already burning up on re-entry.
 
@@ -13,7 +15,7 @@ Dave Winer posted a few thoughts on the need for a ["for-the-record" blogging so
 
 > Yesterday I posted a poll on Twitter basically asking if there were a rational not-for-profit place-of-record essay site, would people use it. This is intended as an alternative to Medium, which has received $132 million in investment, and therefore must at some point find a business model, leaving the for-the-recordness of it in question.
 
-While, yes! there are alternatives they don't get to the core of the problem which is this:
+While, yes! there are alternatives, they don't get to the core of the problem which is this:
 
 > The great thing about Medium, the thing people like about it, is that they have crafted its design so that getting started isn't even three steps. That's hard to do. If one wants to replicate its functionality start there.
 
@@ -61,24 +63,37 @@ I think Mozilla would be a great steward for a project like this. I tried my han
 I believe this project would be in-line with the [Mozilla manifesto](https://www.mozilla.org/en-US/about/manifesto/):
 
 > Principle 1 - The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
+
 > Principle 3 - The internet must enrich the lives of individual human beings.
+
 > Principle 5 - Individuals must have the ability to shape the internet and their own experiences on it.
+
 > Principle 6 - The effectiveness of the internet as a public resource depends upon [...] decentralized participation worldwide.
 
 
 
+## Thinking through the details
+
+There's some things I think you could build into a project like this that would make it sing.
+
+In-line editing
+
+Pocket integration
+
+Talk integration - It's a little much to expect this project to single handedly solve all of the ills of the indie web but Mozilla already has [Talk from the Coral Project](https://coralproject.net/talk/) which aims to solve commenting for the web. Some form of integration here would make perfect sense!
+
+Siteleaf and CMS+markdown - the secret success here is that actually this would be *two* tools. A CMS for editing markdown files AND a hosting & distribution platform. For power users you'd still be able to use this tool to edit and maintain markdown files even if you were syncing the files and publishing them to a 3rd party service (e.g. S3 or Github etc). This model is inspired by Siteleaf.
+
+Every time you publish - saving a copy of the file locally. Publishing in triplicate by default.
+
+Jekyll & markdown on the backend for simple exporting to github or self-hosting later.
 
 
+## Why this makes sense for Mozilla
 
+Above and beyond the support and service of the core mission I believe this would be a smart bet for Mozilla - driving support of firefox login (on desktop and mobile!) and integrating perfectly with Pocket.
 
-Key things:
+What do you think? And if Mozilla isn't going to build this. Who will?
 
-Onboarding for new bloggers
-Offboarding to WP or Github pages
-
-Mobile-inputs. 
-
-Files saved locally - cloud second.
-
-Inspired by dat://
+(PS - if you think this idea is nuts, wait till you hear the expanded version of this pitch that includes Mozilla acquiring Tumblr....)
 
