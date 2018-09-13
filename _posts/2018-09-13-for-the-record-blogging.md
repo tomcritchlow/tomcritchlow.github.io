@@ -9,7 +9,7 @@ The social networks are failing us. Or, at least, weâ€™re realizing we need a â€
 
 But starting, hosting and maintaining your own blog is still too hard.
 
-Medium is the default choice for writing on the web and it does a pretty good job. Except for the fact that it's a flailing VC funded rocketship that's already burning up on re-entry.
+Medium is the default choice for writing on the web and it does a pretty good job. Except for the fact that it's a flailing VC funded rocketship that's already burning up on re-entry (and has been actively hostile to the indie web[^1]).
 
 Dave Winer posted a few thoughts on the need for a ["for-the-record" blogging solution](http://scripting.com/2018/09/10/161928.html):
 
@@ -56,7 +56,7 @@ Mozilla!
 
 ## A proposal for Mozilla Slab
 
-I think Mozilla would be a great steward for a project like this. I tried my hand at a very simple illustation. Imagine if Mozilla launched Slab - an entry level for-the-record blogging system with in-built hosting, polished UI and the ability to grow out of the platform.
+I think Mozilla would be a great steward for a project like this. I tried my hand at a very simple illustration. Imagine if Mozilla launched Slab[^2] - an entry level for-the-record blogging system with in-built hosting, polished UI and the ability to grow out of the platform.
 
 ![](/images/mozillaslab.png)
 
@@ -69,7 +69,6 @@ I believe this project would be in-line with the [Mozilla manifesto](https://www
 > Principle 5 - Individuals must have the ability to shape the internet and their own experiences on it.
 
 > Principle 6 - The effectiveness of the internet as a public resource depends upon [...] decentralized participation worldwide.
-
 
 
 ## Thinking through the details
@@ -96,3 +95,8 @@ What do you think? And if Mozilla isn't going to build this. Who will?
 
 (PS - if you think this idea is nuts, wait till you hear the expanded version of this pitch that includes Mozilla acquiring Tumblr....)
 
+--
+
+[^1]: While on the one hand you could say Medium has been a success I'm not yet convinced Medium has been net-positive to the open web or writing. Because of their flip flopping and poor product choices they have directly contributed to the death of a few indie sites like the awl. How many others have they contributed to killing indirectly? And as they burn through VC money and head towards a messy crash how long before everyone is left wondering why we ever published on Medium in the first place?
+
+[^2]: Why Slab? Inspired by the font name Mozilla Slab with a nod and a wink to carving things in tablets to preserve for the generations!
