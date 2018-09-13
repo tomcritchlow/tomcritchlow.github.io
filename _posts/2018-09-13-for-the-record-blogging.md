@@ -70,6 +70,8 @@ I believe this project would be in-line with the [Mozilla manifesto](https://www
 
 > Principle 6 - The effectiveness of the internet as a public resource depends upon [...] decentralized participation worldwide.
 
+(Btw part of this idea grew from reading about some recent initiatives Mozilla took into publishing on the web. Read the super interesting exploration by Stephanie and Bryan Rieger over here: [Rethinking the creative web: Our journey to reimagine ‘web publishing’ for the social web](https://medium.com/twill/rethinking-the-creative-web-our-journey-to-reimagine-web-publishing-for-the-social-web-26c2f347fcd0))
+
 
 ## Thinking through the details
 
