@@ -110,3 +110,7 @@ One feature that is especially clunky right now is adding links. But I'm excited
 It's still fun to be able to play around with this new kind of format on my own domain. And I'm excited for where things go next.
 
 If you make anything from this code @ me on twitter (@tomcritchlow) or leave a comment below!
+
+--
+
+Update (9/17) - the BBC Labs posted a quick article with some thoughts about using and building AMP stories here: [https://medium.com/bbc-news-labs/experiments-with-amps-new-stories-format-3a2a1103cee](https://medium.com/bbc-news-labs/experiments-with-amps-new-stories-format-3a2a1103cee). It includes [this wild image](https://cdn-images-1.medium.com/max/1000/1*NyXL2eo_9ByQs7oZXV7dpQ.png) showing their CMS. Love it.
