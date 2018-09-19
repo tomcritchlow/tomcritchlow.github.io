@@ -2,7 +2,10 @@
 layout: blog
 title: For the love of maps & places
 subtitle: Why I'm joining the maps as media course as a follow-along blogger
+tags: maps-as-media
 ---
+
+
 
 http://www.wordsinspace.net/mapsmedia/fall2018/ by Shannon
 
