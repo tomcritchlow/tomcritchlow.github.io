@@ -17,7 +17,7 @@ subtitle: Following along with the New School course in fall 2018
 
 {% if forloop.last %}
 </ul>
-{% else %}
+{% endif %}
 
 {% endfor %}
 
