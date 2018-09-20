@@ -3,7 +3,6 @@ layout: blog
 title: For the love of maps
 subtitle: Why I'm joining the maps as media course as a satellite blogger
 tags: maps-as-media
-draft: true
 ---
 
 I love maps. Three glimpses of geo-spatial data in my life:
