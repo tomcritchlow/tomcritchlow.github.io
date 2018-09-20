@@ -11,7 +11,7 @@ subtitle: Following along with the New School course in fall 2018
 {% endif %}
 
 {% if post.tags contains "maps-as-media" %}
-<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="f5 f6-s ttu black-20 pv3">{{ post.date | date: "%-d %B %Y" }}</span> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li>
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> 
 {% endif %}
 
 {% if forloop.last %}
