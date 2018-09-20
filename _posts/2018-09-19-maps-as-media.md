@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: For the love of maps & satellites
+title: For the love of maps
 subtitle: Why I'm joining the maps as media course as a satellite blogger
 tags: maps-as-media
 draft: true
@@ -50,7 +50,7 @@ The ability to do this basically all comes down to Erin's hustle and wrangling. 
 
 I'm reading [dark matter and trojan horses](https://www.amazon.com/Dark-Matter-Trojan-Horses-Vocabulary/dp/0992914639) by Dan Hill right now where he talks about Helsinki Street Eats as a small project that allows for experimentation in governance and law.
 
-Further reading: [Restaurant Day, edible urbanism and civic opportunism](http://www.cityofsound.com/blog/2012/05/ravintolap%C3%A4iv%C3%A4-opportunistic-edible-urbanism.html) & [helsinki street eats](http://www.low2no.org/downloads/Helsinki_Street_Eats_PDFv1.0_cover4_small.pdf) - PDF.
+Further reading: [Restaurant Day, edible urbanism and civic opportunism](http://www.cityofsound.com/blog/2012/05/ravintolap%C3%A4iv%C3%A4-opportunistic-edible-urbanism.html) & [helsinki street eats](http://www.low2no.org/downloads/Helsinki_Street_Eats_PDFv1.0_cover4_small.pdf) [PDF]
 
 ## Visualizations and data
 
@@ -61,6 +61,8 @@ I played around with this a while back - back when Instagram's API was more open
 So the technical nuts and bolts of geolocation, maps, technology and feeds is interesting to me.
 
 Further reading: [Mills Field – a weblog from SFO Museum](https://millsfield.sfomuseum.org/blog/) - a blog by Aaron Cope, one of the most interesting people I have ever met. His ability to cut across the real nuts and bolts of the technology while keeping an eye on wider cultural and societal implications is incredible. It's a little dense at times (because he really gets into it!) but so worth checking out. This piece for example all about [maps and map tiles at SFO museum](https://millsfield.sfomuseum.org/blog/2018/07/31/maps/).
+
+--
 
 So here we are - I'm going to do my best to follow along with the course as a satellite blogger. I've provisionally blocked off "Maps Mondays" for myself to read, explore and post. I'm a few weeks behind the course but hopefully I can catch up.
 
