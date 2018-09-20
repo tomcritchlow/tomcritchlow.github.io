@@ -4,6 +4,8 @@ title: Maps as Media
 subtitle: Following along with the New School course in fall 2018
 ---
 
+Sep - Dec 2018 I'm following along with Shannon Mattern's [Maps as Media](http://www.wordsinspace.net/mapsmedia/fall2018/) course at the New School as a satellite blogger. I'm going to try and write a post weekly to keep up. Here they are: 
+
 {% for post in site.posts  %}
 
 {% if forloop.first %}
