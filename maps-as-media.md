@@ -13,7 +13,7 @@ Sep - Dec 2018 I'm following along with Shannon Mattern's [Maps as Media](http:/
 {% endif %}
 
 {% if post.tags contains "maps-as-media" %}
-<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span></li> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> 
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> </li>
 {% endif %}
 
 {% if forloop.last %}
