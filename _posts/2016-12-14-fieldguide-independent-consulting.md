@@ -2,6 +2,7 @@
 layout: blog
 title: A fieldguide for independent strategy consultants
 subtitle: Some collected thoughts
+tags: strategy
 ---
 
 I've been enjoying writing posts recently that are more collections of half-formed thoughts than complete works and so I'm going to do it again with this post. What follows is an outline, or a collection of conversation starters, for digital strategy consulting.

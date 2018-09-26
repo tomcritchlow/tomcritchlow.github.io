@@ -2,6 +2,7 @@
 layout: blog
 title: How to get things done
 subtitle: Two interesting frameworks for trying to get things done within an organization
+tags: strategy
 ---
 
 How do you convince an organization to change? I'm a little obsessed with this question and spend probably an unhealthy amount of time self-reflecting on why clients do or do not execute on the things I'm recommending.

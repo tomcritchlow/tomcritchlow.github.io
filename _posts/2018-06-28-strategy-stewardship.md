@@ -2,6 +2,7 @@
 layout: blog
 title: Strategy and stewardship
 subtitle: A model for retained strategy consulting
+tags: strategy
 ---
 
 The problem with strategy work is that it's often a sprint. A short burst of work, done periodically to set the vision and the strategy. If you enjoy strategy work, are you doomed to chase short term strategy sprints?

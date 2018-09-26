@@ -2,6 +2,7 @@
 layout: blog
 title: Strategy is the organic flow of ideas and people
 subtitle: Some links to chew on...
+tags: strategy
 ---
 
 I'm currently reading the wonderful book *Seeking like a state* about how top-down ideas for change inspired by high modernism often fail because they don't accurately reflect the organic nature of networks and people.

@@ -2,6 +2,7 @@
 layout: blog
 title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
+tags: strategy
 ---
 
 You might think that being a consultant is easy. Clients hire you to help change their company in some way. You make some recommendations and provide some insights and then...

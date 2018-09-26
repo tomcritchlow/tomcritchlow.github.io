@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: In the land of hierarchy, the networked individual is king
+tags: strategy
 ---
 
 I recently came across this wonderful piece by Tyler Cowen of [marginal revolution](http://marginalrevolution.com/). Asked to talk about moonshots he instead chose to [talk about his personal moonshot](https://www.mercatus.org/commentary/my-personal-moonshot) of building an intellectual blitzkrieg by publishing his own content across his blog, podcast, twitter, online courses etc. 
