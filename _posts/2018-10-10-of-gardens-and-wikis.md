@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Of Digital Streams, Gardens and Wikis
-subtitle: Building personal learning environments
+title: Of Digital Streams, Campfires and Gardens
+subtitle: Building personal learning environments across the different time horizons of information consumption
 draft: true
 ---
 
