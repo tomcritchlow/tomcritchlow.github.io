@@ -28,8 +28,9 @@ brand:after{
     display:none;
 }
 
-.navigation a:hover {
-    padding-bottom: 5px;
+.navigation a{
+    text-decoration: none;
+    color: #212121;
 }
 
 .tombox{
