@@ -41,9 +41,11 @@ Both links take some work to finish but I can't encourage you to read them enoug
 
 So as I'm reading these pieces it strikes me that I consume & produce information as follows:
 
-- **Streams** - mostly Twitter for me, this is where fast twitch information discovery happens. The firehose of content. But with an undercurrent of creating new connections.
-- **Campfires** - mostly blogging for me, my blog functions as a digital campfire (or a series of campfires) that are slower burn but fade relatively quickly over the timeframe of years. Connection forming, thinking out loud, self referencing and connection forming.
-- **Gardens** - This is the wiki layer Michael references above and I don't think I have any real solution here. Where is the tool to curate, connect and explore information? Where is my personal learning curriculum? This decades-spanning project of information sensemaking is missing for me but seems appealing. Are.na, Pinboard and Pocket fill some portion of this gap for me but none of them are building a garden I can maintain...
+**Streams** - mostly Twitter for me, this is where fast twitch information discovery happens. The firehose of content. But with an undercurrent of creating new connections. While I'm slightly over-consuming here I can't kick the habit because of so many incredible connections that have come from it.
+
+**Campfires** - mostly blogging for me, though I know some folks gather around private slack groups too. My blog functions as a digital campfire (or a series of campfires) that are slower burn but fade relatively quickly over the timeframe of years. Connection forming, thinking out loud, self referencing and connection forming. This builds muscle, helps me articulate my thinking and is the connective tissue between ideas, people and more. While I'm not a daily blogger I've been blogging on and off for 10+ years.
+
+**Gardens** - This is the wiki layer Michael references above and I don't think I have any real solution here. Where is the tool to curate, connect and explore information? Where is my personal learning curriculum? This decades-spanning project of information sensemaking is missing for me but seems appealing. Are.na, Pinboard, Evernote and Pocket all fill some portion of this gap for me but none of them are building a garden I can maintain...
 
 Michael's piece was written in 2015 and references heavily the idea of federated wikis and I'm curious to hear where his thinking went with it.
 
