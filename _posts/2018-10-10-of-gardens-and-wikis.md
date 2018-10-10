@@ -46,4 +46,6 @@ So as I'm reading these pieces it strikes me that I consume & produce informatio
 - **Campfires** - mostly blogging for me, my blog functions as a digital campfire (or a series of campfires) that are slower burn but fade relatively quickly over the timeframe of years. Connection forming, thinking out loud, self referencing and connection forming.
 - **Gardens** - This is the wiki layer Michael references above and I don't think I have any real solution here. Where is the tool to curate, connect and explore information? Where is my personal learning curriculum? This decades-spanning project of information sensemaking is missing for me but seems appealing. Are.na, Pinboard and Pocket fill some portion of this gap for me but none of them are building a garden I can maintain...
 
-Michael's piece was written in 2015 and references heavily the idea of federated wikis and I'm curious to hear where his thinking went with it. How do you manage information flows? If anyone is using a personal wiki-style long term information tool I'd love to hear from you!
+Michael's piece was written in 2015 and references heavily the idea of federated wikis and I'm curious to hear where his thinking went with it.
+
+How do you manage information flows? If anyone is using a personal wiki-style long term information tool I'd love to hear from you!
