@@ -2,7 +2,6 @@
 layout: blog
 title: Of Digital Streams, Campfires and Gardens
 subtitle: Building personal learning environments across the different time horizons of information consumption
-draft: true
 ---
 
 A few things surfaced recently that I wanted to connect the dots on.
