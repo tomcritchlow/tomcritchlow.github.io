@@ -7,7 +7,7 @@ draft: true
 
 A few things surfaced recently that I wanted to connect the dots on.
 
-First - a thread from Venkatesh on information consumption, with lovely insights about how retreating from technology is not the answer. And of course living entirely in the stream also doesn't work for us. So what? This framework gives us some good insights into where and how we should be engaging:
+First - [a thread from Venkatesh](https://twitter.com/vgr/status/1047925106423603200) on information consumption, with lovely insights about how retreating from technology is not the answer. And of course living entirely in the stream also doesn't work for us. So what? This framework gives us some good insights into where and how we should be engaging:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/ Lemme do a 1-slide presentation since I&#39;m feeling job sick. Title: How to Actually Manage Attention Without Smashing Your Phone and Retreating to a Log Cabin <a href="https://t.co/kEPZUh7g50">pic.twitter.com/kEPZUh7g50</a></p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1047925106423603200?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -35,3 +35,15 @@ The Garden - vs the Stream:
 >It’s not that you are passive in the Stream. You can be active. But your actions in there — your blog posts, @ mentions, forum comments — exist in a context that is collapsed down to a simple timeline of events that together form a narrative.
 
 >In other words, the Stream replaces topology with serialization. Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center.
+
+Both links take some work to finish but I can't encourage you to read them enough.
+
+## Stream, Campfires and Gardens
+
+So as I'm reading these pieces it strikes me that I consume & produce information as follows:
+
+- **Streams** - mostly Twitter for me, this is where fast twitch information discovery happens. The firehose of content. But with an undercurrent of creating new connections.
+- **Campfires** - mostly blogging for me, my blog functions as a digital campfire (or a series of campfires) that are slower burn but fade relatively quickly over the timeframe of years. Connection forming, thinking out loud, self referencing and connection forming.
+- **Gardens** - This is the wiki layer Michael references above and I don't think I have any real solution here. Where is the tool to curate, connect and explore information? Where is my personal learning curriculum? This decades-spanning project of information sensemaking is missing for me but seems appealing. Are.na, Pinboard and Pocket fill some portion of this gap for me but none of them are building a garden I can maintain...
+
+Michael's piece was written in 2015 and references heavily the idea of federated wikis and I'm curious to hear where his thinking went with it. How do you manage information flows? If anyone is using a personal wiki-style long term information tool I'd love to hear from you!
