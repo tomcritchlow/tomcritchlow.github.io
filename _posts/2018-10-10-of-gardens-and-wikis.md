@@ -19,13 +19,13 @@ As I was reading this thread by Venkatesh I was struck by the similarity to the 
 This piece from Mike Caulfield takes a very similar look at the time horizons of information, but with an inward lens. How do we build and maintain our own personal information gardens? Not streams - but environments we can tend and grow over decades:
 
 >The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another.
->
+
 >Things in the Garden don’t collapse to a single set of relations or canonical sequence, and that’s part of what we mean when we say “the web as topology” or the “web as space”. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships
->
+
 >[...]
->
+
 >In the Garden, to ask what happened first is trivial at best. The question “Did the bridge come after these trees” in a well-designed garden is meaningless historical trivia. The bridge doesn’t reply to the trees or the trees to the bridge. They are related to one another in a relatively timeless way.
->
+
 >This is true of everything in the garden. Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden. We create the garden as a sort of experience generator, capable of infinite expression and meaning.
 
 The Garden - vs the Stream:
