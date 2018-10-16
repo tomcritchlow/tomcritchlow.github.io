@@ -1,11 +1,10 @@
 ---
 layout: blog
 title: Who do I know in the kids book publishing world?
-subtitle: Erin's first illustrated book - Journey to the end of the night
-draft: true
+subtitle: Erin's first illustrated book - Journey To The End Of The Night
 ---
 
-For the love of Erin and the love of books! My partner Erin has been working for the past year and half on painting, illustrating and writing a kids book called Journey To The End Of The Night.
+For the love of Erin and the love of books! My partner Erin has been working for the past year and half on painting, illustrating and writing a kids book called **Journey To The End Of The Night**.
 
 I'm biased obviously but.... It's wonderful! Everyone she shows it to instantly wants a copy. Early reviews talk about it's "swoosh energy".
 
