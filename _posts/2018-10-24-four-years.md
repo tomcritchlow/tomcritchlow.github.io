@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Four Years on the Road
-subtitle: Sustainability & Independence
+subtitle: Sustainability, Independence & The Unknown
 draft: true
 ---
 
