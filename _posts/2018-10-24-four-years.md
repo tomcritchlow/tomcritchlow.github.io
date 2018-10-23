@@ -73,9 +73,13 @@ This is from last year:
 
 *For content companies looking to invest in growth I’m the secret weapon embedded in your organization to build & lead strategic initiatives.*
 
+Earlier this year I uncovered (invented?) the concept of Media Design. I took a stab a definition as follows:
+
+*Media Design is the practice of designing effective systems of content within the overlapping ecosystems of technology, distribution, production and experience.*
+
 With the uncovering of media design earlier this year my positioning and narrative is basically I do strategic [media design](https://tomcritchlow.com/2018/07/25/media-design/) work through [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/).
 
-This is a less concise framing but I think adds some more nuance to the kind of work I do.
+This is a less concise framing but I think adds some more nuance to the kind of work I do and feels like it rings true.
 
 Some example client work from this past year:
 
