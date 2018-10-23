@@ -2,7 +2,6 @@
 layout: blog
 title: Four Years on the Road
 subtitle: Sustainability, Independence & The Unknown
-draft: true
 ---
 
 *October 24th is the anniversary of when I quit my last full time job to head out as an independent consultant. Catch up with [2 years on the road](https://tomcritchlow.com/2016/10/24/2-years/) and [3 years on the road](https://tomcritchlow.com/2017/10/24/3-years/)*
@@ -11,7 +10,7 @@ Four years on the road. The metaphor of the road-trip still rings true - a sense
 
 The benefits are strong - being in control of your own life in a really fundamental way continues to be deeply rewarding, even more so while my daughter Roxy is young. Of course there's tradeoffs - the hardest fights continue to be the quest for a stable identity, meaning and understanding which direction you're supposed to be driving in.
 
-But overall year 4 was a good one. Here's some highlights and thoughts
+But overall year 4 was a good one.
 
 ## Highlights
 
@@ -23,16 +22,6 @@ Some quick hits:
 - A steady evolution in the size of clients, seniority of the work and confidence in my model.
 - I started working with a professional coach at the start of the year and have had a very rewarding experience and it's nice to feel like I can justify an accountability partner, mentor and cheerleader!
 - Started and paused The Malcontents, a podcast with my buddy Sean Blanda. I found the process of recording a podcast super rewarding but as a side project for both of us it's been tough to prioritize and focus on. I'm convinced some form of podcasting will return for me but not sure exactly what format yet...
-
-## Tending to my Networks
-
-My network is the most valuable part of my business and I have continued to invest and cultivate new friends, new faces and new connections. There's a semi-regular dinner series that I host with an amazing group. There's regular coffee meetings. Writing and creating new connections.
-
-Building a network of peers - weirdos and misfits like myself who are trying to figure out their own path through the world has been not only rewarding but also deeply valuable. All of my leads come via my network so I see this as a deliberate activity to grow my consulting business but also a necessary task to ensure that I have a support network should I need it (and to provide a support network to others!).
-
-This network has provided some sense of stability to this independence. And some social interaction :)
-
-I've also been slowly and steadily growing my [tinyletter](https://tinyletter.com/tomcritchlow) audience. As this grows I anticipate that this will become an increasingly interesting part of my intimate network - sharing thoughts there feels very different from blogging so it's fun to flex a different type of writing there.
 
 ## Peaks and Valleys
 
@@ -50,11 +39,27 @@ Some thoughts looking at this graph:
 
 If you go all the way back to the beginning of the journey the first 9 months were pretty bumpy and sporadic until I hit two stable retained clients at the same time. One of those lasted two years and the other I'm still working with today(!).
 
-That retained revenue is the secret to so much. In my mind it's the key to doing interesting work and to creating a sustainable business. Treating my consulting work as a business it's the key to revenue growth.
+That retained revenue is the secret to so much. In my mind it's the key to doing interesting work and to creating a sustainable business. I've got more to write about how I focus on retained revenue and how I end up working with clients for years at a time but I teased it in my [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/) post:
+
+> For a long time I resisted the execution and project management of my strategy work with clients. I felt like if I got caught up in the weeds I was going to be doing work that wasn’t as interesting and wasn’t as well paid as the strategy work.
+
+> But the truth is this - strategy that lives in docs and presentations is worthless. And businesses live and die by the momentum of projects. So helping clients at critical points to move the chains forward - often in incredibly tactical ways, but always within the wider strategic framework - is deeply valuable.
+
+> In month 1 I’m always doing strategy. In month 6 I’m often overseeing specific pieces of content production. Then back again into strategy in month 9 as we review and check in.
 
 At the start of this year with a few projects wrapping up I had a quiet period and then two meaty projects over the summer nearly crushed me. Thankfully I'd shored up emotional and psychological strength in January to hunker down and lean into the busy period.
 
 And finally, note how slow I am right now. For the first time since June 2016 I'm at a lull. It feels nice to be cruising out of the city with the windows down and the music playing finally free again! We'll see how long before the deamons appear nibbling at my heels demanding revenue.
+
+## Tending to my Networks
+
+My network is the most valuable part of my business and I have continued to invest and cultivate new friends, new faces and new connections. There's a semi-regular dinner series that I host with an amazing group. There's regular coffee meetings. Writing and creating new connections.
+
+Building a network of peers - weirdos and misfits like myself who are trying to figure out their own path through the world has been not only rewarding but also deeply valuable. All of my leads come via my network so I see this as a deliberate activity to grow my consulting business but also a necessary task to ensure that I have a support network should I need it (and to provide a support network to others!).
+
+This network has provided some sense of stability to this independence. And some social interaction :)
+
+I've also been slowly and steadily growing my [tinyletter](https://tinyletter.com/tomcritchlow) audience. As this grows I anticipate that this will become an increasingly interesting part of my intimate network - sharing thoughts there feels very different from blogging so it's fun to flex a different type of writing there.
 
 ## Positioning
 
@@ -103,8 +108,6 @@ So what next?
 I'm floating in this funny space - I trust the process now more than I ever have and I feel confident more work will come along. But at the same time what that work will look like is a mystery right now!
 
 The road ahead is open. The windows are down. The mixtape is on. So far so good. Onwards where the road will take me.
-
-*“There was nowhere to go but everywhere, so just keep on rolling under the stars.” - Jack Kerouac*
 
 --
 
