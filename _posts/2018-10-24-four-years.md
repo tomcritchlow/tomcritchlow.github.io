@@ -42,7 +42,9 @@ If you go all the way back to the beginning of the journey the first 9 months we
 That retained revenue is the secret to so much. In my mind it's the key to doing interesting work and to creating a sustainable business. I've got more to write about how I focus on retained revenue and how I end up working with clients for years at a time but I teased it in my [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/) post:
 
 > For a long time I resisted the execution and project management of my strategy work with clients. I felt like if I got caught up in the weeds I was going to be doing work that wasn’t as interesting and wasn’t as well paid as the strategy work.
+>
 > But the truth is this - strategy that lives in docs and presentations is worthless. And businesses live and die by the momentum of projects. So helping clients at critical points to move the chains forward - often in incredibly tactical ways, but always within the wider strategic framework - is deeply valuable.
+>
 > In month 1 I’m always doing strategy. In month 6 I’m often overseeing specific pieces of content production. Then back again into strategy in month 9 as we review and check in.
 
 At the start of this year with a few projects wrapping up I had a quiet period and then two meaty projects over the summer nearly crushed me. Thankfully I'd shored up emotional and psychological strength in January to hunker down and lean into the busy period.
