@@ -9,11 +9,6 @@ subtitle: Playing around with a new layout and getting it all working with jekyl
             <p>The English language . . . becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts.</p>
             <footer>George Orwell, “Politics and the English Language”</footer>
           </blockquote>
-          <blockquote>
-            <p>For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.</p>
-            <footer>Richard P. Feynman, <cite>“What Do You Care What Other People Think?”</cite></footer>
-          </blockquote>
-          <blockquote>I do not paint things, I paint only the differences between things.<footer>Henri Matisse, <cite>Henri Matisse Dessins: thèmes et variations</cite> (Paris, 1943), 37</footer></blockquote>
         </div>
 
 This is a test post please ignore.
@@ -143,12 +138,16 @@ Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics
 
 (Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale... Definitely more to unpack here.)
 
-Ways of Seeing
---------------
+#Ways of Seeing
 
 How to recognize and understand culture inside a client's organization
 
-"One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in." - Marshall McLuhan
+<div class="epigraph">
+          <blockquote>
+            <p>"One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in."</p>
+            <footer>Marshall McLuhan</footer>
+          </blockquote>
+        </div>
 
 "First, The fish needs to say, 'Something ain't right about this Camel ride -- And I'm Feeling so damn Thirsty.'" - Hafiz
 
