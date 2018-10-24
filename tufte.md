@@ -4,6 +4,18 @@ title: Testing out Tufte CSS layout
 subtitle: Playing around with a new layout and getting it all working with jekyll & github pages
 ---
 
+<div class="epigraph">
+          <blockquote>
+            <p>The English language . . . becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts.</p>
+            <footer>George Orwell, “Politics and the English Language”</footer>
+          </blockquote>
+          <blockquote>
+            <p>For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.</p>
+            <footer>Richard P. Feynman, <cite>“What Do You Care What Other People Think?”</cite></footer>
+          </blockquote>
+          <blockquote>I do not paint things, I paint only the differences between things.<footer>Henri Matisse, <cite>Henri Matisse Dessins: thèmes et variations</cite> (Paris, 1943), 37</footer></blockquote>
+        </div>
+        
 This is a test post please ignore.
 
 Boiler-plate text and examples follow.
