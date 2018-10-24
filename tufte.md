@@ -12,6 +12,10 @@ Boiler-plate text and examples follow.
 
 As a consultant working with content companies, I often find myself bridging editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises. {% include tufte-mn.html id="one" content="This is a margin note perhaps?" %}
 
+## Testing Side Notes
+
+As a consultant working with content companies, I often find myself bridging editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises. {% include tufte-sn.html id="two" content="This is a side note perhaps?" %}
+
 ## Sample Post Copy-Pasted Below
 
 **How do you measure content quality?**
