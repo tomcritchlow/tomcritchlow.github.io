@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: tufte
 title: How do you measure good content?
 subtitle: In search of a framework or process to judge editorial... quality?
 ---

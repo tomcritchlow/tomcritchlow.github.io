@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="/images/favicon.png" />
+
+    <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.css"/>
+
+    
+    <style>
+    
+      navigation{
+        display:block;
+        margin-top:50px;
+        margin-bottom:50px;
+        width:87.5%;;
+      }
+      
+      .nav{
+        display:block;
+        text-align:right;
+        width:100%;
+        margin-bottom:20px;
+      }
+      
+      a{
+        color:rgb(173, 48, 2) !important;
+      }
+        
+      
+      article h1{
+        font-size:3em;
+      }
+      
+      article h2{
+        padding-top:2rem;
+      }
+    </style>
+
+  </head>  
+
+{% include googleanalytics.html %}
+
+<body>
+
+
+<article>
+
+    
+    <h1>{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <p class="subtitle">{{page.subtitle}}</p>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+
+  <section>
+
+    {{content}}
+
+
+  </section>
+</article>
+
+
+
+
+
+  <div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+    this.page.url = "http://tomcritchlow.com"+"{{page.url}}"; 
+    this.page.identifier = "{{page.id}}"; 
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//tomcritchlow.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                    
+
+</div>
+</div>
+
+
+</body>
+</html>
