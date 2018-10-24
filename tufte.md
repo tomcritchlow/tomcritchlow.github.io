@@ -17,7 +17,7 @@ As a consultant working with content companies, I often find myself bridging edi
 As a consultant working with content companies, I often find myself bridging editorial and business{% include tufte-sn.html id="two" content="This is a side note perhaps?" %}. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises. 
 
 <figure class="fullwidth">
-![Data from a sample panda survey showing clients sites scores lower than competitor](/images/panda.png)
+<img src="/images/panda.png" />
 </figure>
 
 ## Sample Post Copy-Pasted Below
