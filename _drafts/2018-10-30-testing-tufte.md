@@ -1,10 +1,19 @@
 ---
-layout: blog
-title: How do you measure good content?
-subtitle: In search of a framework or process to judge editorial... quality?
+layout: tufte
+title: Testing out Tufte CSS layout
+subtitle: Playing around with a new layout and getting it all working with jekyll & github pages
+draft: true
 ---
 
-As a consultant working with content companies, I often find myself bridging editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises:
+This is a test post please ignore.
+
+Boiler-plate text and examples follow.
+
+## Testing Margin Notes
+
+As a consultant working with content companies, I often find myself bridging editorial and business. That squishy area between editorial values and business metrics. There's a simple  question that quickly arises. {% include tufte-mn.html id="one" content="This is a margin note perhaps?" %}
+
+## Sample Post Copy-Pasted Below
 
 **How do you measure content quality?**
 
