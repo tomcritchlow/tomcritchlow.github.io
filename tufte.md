@@ -20,7 +20,7 @@ As a consultant working with content companies, I often find myself bridging edi
 <img src="/images/panda.png" />
 </figure>
 
-{% include tufte-mn.html id="two" content="Label for the image?" %}
+{% include tufte-mn.html id="three" content="Label for the image?" %}
 
 ## Sample Post Copy-Pasted Below
 
