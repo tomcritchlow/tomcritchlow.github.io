@@ -2,7 +2,6 @@
 layout: tufte
 title: Testing out Tufte CSS layout
 subtitle: Playing around with a new layout and getting it all working with jekyll & github pages
-draft: true
 ---
 
 This is a test post please ignore.
