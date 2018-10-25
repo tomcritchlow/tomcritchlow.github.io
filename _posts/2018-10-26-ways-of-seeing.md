@@ -1,7 +1,7 @@
 ---
 layout: tufte
 title: Ways of Seeing
-subtitle: How to recognize and understand with culture inside a client's organization
+subtitle: How to recognize and understand culture inside a client's organization
 tags: strategy
 draft: true
 ---
@@ -57,7 +57,7 @@ Without talking, John walks to a renaissance painting, framed on the wall of a g
 
 The whole thing happens in the first twenty seconds. [Watch it here](https://www.youtube.com/watch?v=0pDE4VX_9Kk):
 
-![](https://lh4.googleusercontent.com/4Mo3KUeFv2WGtjqFBHIU-70ruODXaMQHMXNRckeZOKgh8jV0-vNzsL_p5J3G9JMBQfd-6Xnl3bP9zd4Akt-GAOM1WN_ldYkRSZs-3s3xztLiX2DDTmWtwuI2-_lZ8eCc-rGpR8gV)]
+![](https://lh4.googleusercontent.com/4Mo3KUeFv2WGtjqFBHIU-70ruODXaMQHMXNRckeZOKgh8jV0-vNzsL_p5J3G9JMBQfd-6Xnl3bP9zd4Akt-GAOM1WN_ldYkRSZs-3s3xztLiX2DDTmWtwuI2-_lZ8eCc-rGpR8gV)
 
 It's an unsettling scene - even when you know it's coming! Recognizing why this scene is shocking helps us understand culture. No one tells you if the works on the wall are priceless. But the signals are all there - a gallery setting. A TV show about art. You're not expecting him to walk up with a knife... It's not what's *done*.
 
@@ -101,13 +101,13 @@ It's helpful to have some frameworks to help us think through the kinds of thing
 
 In this framework the actors, artifacts and activities interact directly with each other. And they all exist within a wider atmosphere.
 
-Actors - these are the people in the frame. I love the word "actors" since everyone is performing a role. The theatre of work is the epic play of our lives and the office (both physical and digital) is the stage. Notice how people behave, the language they use and their intrinsic motivations.
+**Actors** - these are the people in the frame. I love the word "actors" since everyone is performing a role. The theatre of work is the epic play of our lives and the office (both physical and digital) is the stage. Notice how people behave, the language they use and their intrinsic motivations.
 
-Artifacts - these are the visible extensions, the "tangible" assets created by the actors. This might be everything from the design of a report to the structure of a paid leave policy.
+**Artifacts** - these are the visible extensions, the "tangible" assets created by the actors. This might be everything from the design of a report to the structure of a paid leave policy.
 
-Activities - the things that the actors do and why they do it. These activities will tell you more about the underlying power structures. In particular, pay attention to the habits and routines that are in place. Nothing will tell you more about what people value than what they do repeatedly.
+**Activities** - the things that the actors do and why they do it. These activities will tell you more about the underlying power structures. In particular, pay attention to the habits and routines that are in place. Nothing will tell you more about what people value than what they do repeatedly.
 
-Atmosphere - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and why? Which design choices were put in place deliberately and who made them.
+**Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and why? Which design choices were put in place deliberately and who made them.
 
 There are many frameworks and mental models that can help you understand and grapple with culture.  ["Principles of Management"](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/), chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture.
 
