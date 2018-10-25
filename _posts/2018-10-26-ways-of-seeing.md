@@ -109,7 +109,7 @@ In this framework the actors, artifacts and activities interact directly with ea
 
 **Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and why? Which design choices were put in place deliberately and who made them.
 
-There are many frameworks and mental models that can help you understand and grapple with culture.  ["Principles of Management"](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/), chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture.
+There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture.
 
 You can imagine every organization as having each of these aspects to a greater or lesser extent. So you might think about "plotting" a company along each axis. This is an example I put together from a recent client engagement:
 
