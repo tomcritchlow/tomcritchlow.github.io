@@ -97,7 +97,7 @@ It's helpful to have some frameworks to help us think through the kinds of thing
 
 [This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf) is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
 
-![](https://lh5.googleusercontent.com/50JjfV_tEK7cGC_smRzYFfE6tBAN4awzSnn0pz-A-LNhpiQkCyjhAzO9XBh2LmeZqh74C6RYvsHthxB2H_vvN5TxkUT4D7QGvq6Xa9xxSL_kfsyz7_PQetNpepAt9ouhkyc2udqI)
+![](/images/4a.png)
 
 In this framework the actors, artifacts and activities interact directly with each other. And they all exist within a wider atmosphere.
 
