@@ -17,13 +17,13 @@ draft: true
           </blockquote>          
         </div>
 
-As a consultant it's important to recognize that one of the strongest forces inside an organization is their culture. It's why my personal mantra is a reframing of the classic culture eats strategy for breakfast:
+As a consultant it's important to recognize that one of the strongest forces inside an organization is their culture. It's why my personal mantra is a reframing of the classic:
 
 *(Their) culture eats (your) strategy for breakfast.*
 
-It's my theory that to be an effective consultant you need to learn how to understand culture - you need to learn ways of seeing your client's organization. In this post I'll walk through some frameworks and concepts for doing just that.
+It's my theory that to be an effective consultant you need to learn how to understand culture - you need to learn **ways of seeing** your client's organization. In this post I'll walk through some frameworks and concepts for doing just that.
 
-But I'll go one step further and suggest that understanding an organization's culture is the whole game and that teaching your clients to see is the ultimate pinnacle of a consultant's work.
+But I'll go one step further and suggest that understanding an organization's culture is **the whole game** and that teaching your clients to see is the ultimate pinnacle of a consultant's work.
 
 First though, a walk in London some time ago....
 
@@ -31,7 +31,7 @@ First though, a walk in London some time ago....
 
 A few years ago I was walking with a friend through the streets of London. I'd been working at Google for a while and I was frustrated at not being able to get my ideas turned into reality. My friend, a philosopher and anthropologist, just laughed at me and said: (I'm paraphrasing - sorry H)
 
-"You're an idiot. There are thirty thousand people working at Google. If everyone as far down the food chain as you could get their ideas made it would be chaos. The system is explicitly designed to prevent your individual ideas from mattering one bit"
+> "You're an idiot. There are thirty thousand people working at Google. If everyone as far down the food chain as you could get their ideas made it would be chaos. The system is explicitly designed to prevent your individual ideas from mattering one bit"
 
 This was a lightbulb moment for me. Of course. Every organization is a system and process designed for certain outcomes - while some change is accepted and embraced, the point of the organization - its structure, processes and hierarchy - are there to prevent individuals from derailing the whole machine.
 
