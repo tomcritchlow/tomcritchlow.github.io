@@ -138,7 +138,7 @@ Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics
 
 (Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale... Definitely more to unpack here.)
 
-#Ways of Seeing
+# Ways of Seeing
 
 How to recognize and understand culture inside a client's organization
 
