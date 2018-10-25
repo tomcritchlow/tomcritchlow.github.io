@@ -95,7 +95,7 @@ Once you're inside the flows it's your job to pay attention.
 
 It's helpful to have some frameworks to help us think through the kinds of things we're trying to see in the first place.
 
-[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf){% include tufte-mn.html id="ethnography" content="The full paper is worth checking out: <em>Laurel Anderson and Paul Rothstein (2004) ,"Creativity and Innovation: Consumer Research and Scenario Building"</em> although in this context doesn't give much else of use to understand organizational culture." %} is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
+[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf){% include tufte-mn.html id="ethnography" content="The full paper is worth checking out: <em>Laurel Anderson and Paul Rothstein (2004) ,'Creativity and Innovation: Consumer Research and Scenario Building'</em> although in this context doesn't give much else of use to understand organizational culture." %} is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
 
 ![](/images/4a.png)
 
