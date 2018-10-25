@@ -241,4 +241,4 @@ So take a good look at the client and when you're ready, take a knife to the pri
 
 *Much love to the folks who contributed and reviewed drafts of this piece including: Kit, Brian, Toby, Sean, Robin, Susie, Rachel, Thomas & Elan*
 
-*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. Also this page template is new - trying something out to improve readability - based off of tufte css*
+*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/). Also this page template is new - trying something out to improve readability - based off of tufte css*
