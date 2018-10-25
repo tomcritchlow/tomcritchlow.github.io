@@ -147,7 +147,7 @@ My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. 
 >But it is an old future  
 >a memory of what the future could be.  
 >Managers may strive for fundamental change,  
->but their language prevents them from achieving it.  
+>but their language prevents them from achieving it.
 
 This quote is from the excellent [little grey book](http://pangaro.com/littlegreybook.pdf) which is all about language use inside organizations and has tons of wisdom. Thanks to my friend Robin for sharing!
 
