@@ -256,7 +256,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 @media (max-width: 760px) { body { width: 84%;
                                    padding-left: 8%;
                                    padding-right: 8%; }
-                            h1, h2, h3, p.subtitle{width:100%;}
+                            h1, h2, h3, p.subtitle { width:100%; }
                             hr, section > p, section > footer, section > table { width: 100%; }
                             pre.code { width: 97%; }
                             section > ol { width: 90%; }
