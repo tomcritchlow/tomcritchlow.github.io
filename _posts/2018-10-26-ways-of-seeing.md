@@ -193,7 +193,7 @@ When I start a new client project I start sketching a simple org chart of boxes 
 
 > "A good deal of the process is about imposing anxiety-alleviating platonic structural beauty."
 
-<https://www.ribbonfarm.com/2015/05/28/the-amazing-shrinking-org-chart/>
+[Source](https://www.ribbonfarm.com/2015/05/28/the-amazing-shrinking-org-chart/)
 
 The org chart of boxes and lines maps reporting structures (kind of) but little else. The org chart only tells us about the topology of the organization, i.e. what are the connections? It tells us nothing of the topography, i.e. the lay of the land. The messy distortions.
 
@@ -201,7 +201,7 @@ The real org chart mental model of the organization is much more like this:
 
 ![](https://lh3.googleusercontent.com/angLQywIyheCbJIF441rU4OqaBDkEGjWTnUJ8VO8CFIS5mJU4dsFwZYRLwRchVffhnVVl9lyiMduaei8G-0QpzXsq_XMYeoNj-VnSKocUJ37tO7YUJJQABLtN_4VnoVVJvoJFbUY)
 
-This from a fascinating analysis by Carta into influence inside their organization: <https://medium.com/@henrysward/the-shadow-org-chart-cfcdd644575f>
+[This from a fascinating analysis by Carta into influence inside their organization](https://medium.com/@henrysward/the-shadow-org-chart-cfcdd644575f)
 
 This network-model showing a small number of highly connected nodes maps well to the lived experience of working inside a messy organization. Knowledge work environments are almost exclusively highly networked and stream-ified places now.
 
