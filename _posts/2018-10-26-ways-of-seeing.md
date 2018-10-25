@@ -121,15 +121,15 @@ I've found this framework helpful when trying to distinguish between things like
 
 Once you start plotting an organization on these dimensions of culture you can start to look at each one and think about *why* they are that way and *how* they reinforce that behaviour.
 
-## How to see the world through your client's eyes: Language, Delusions, Mythology & Power
+## How to see the world through your client's eyes
 
 When you're trying to understand a company's culture, you're essentially trying to understand how they see the world. The lens through which they process the world around them.
 
-This manifests in four specific things: language, delusions, mythology & power. As you get close to your client notice them, document them, see them.
+This manifests in four specific things you can learn to see: language, delusions, mythology & power.
 
 ### Language
 
-Language - the naming of things is incredibly powerful. First a group will create language as shortcuts for ideas and values - ways of thinking. But gradually this language starts to create the group. First the group creates the language and then the language creates the group. Language is the reinforcing feedback loop of culture.
+The naming of things is incredibly powerful. First a group will create language as shortcuts for ideas and values - ways of thinking. But gradually this language starts to create the group. First the group creates the language and then the language creates the group. Language is the reinforcing feedback loop of culture.
 
 There are two extensions from this - firstly that using the wrong language can alienate you from a group. As a consultant I try hard to use a variety of definitions, terminology and linguistic approaches. Using the wrong term once is no big deal, consistently referring to the concept that the group has learned to reject will get your ideas rejected.
 
