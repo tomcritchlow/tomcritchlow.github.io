@@ -137,7 +137,9 @@ Secondly - a skilled meme-artist can create new language for groups. Language th
 
 My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
 
-The following quote nails some of the power of language:
+For a wonderful poetic read on the power of language in organizations I'd encourage you to read Notes on the Role of Leadership and Language in Regenerating Organizations, a.k.a. [The Little Grey Book](http://pangaro.com/littlegreybook.pdf).
+
+Look at this quote!
 
 {% include tufte-blockquote.html content="
 Managers understand the organization's past behavior.
@@ -153,7 +155,7 @@ Managers understand the organization's past behavior.
 <br>but their language prevents them from achieving it.
 " footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
 
-In fact the whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
+The whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
 
 ### Shared Delusions
 
