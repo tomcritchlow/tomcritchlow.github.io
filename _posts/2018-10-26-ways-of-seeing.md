@@ -209,7 +209,7 @@ I'd go further and say that it is an impossible object. It's impossible to make 
 
 So seek out the internal culture decks, they're useful starting points. Consume them. But don't trust them.
 
-## Teach your clients to see
+## Three Breakthroughs
 
 <div class="epigraph">
           <blockquote>
@@ -218,14 +218,14 @@ So seek out the internal culture decks, they're useful starting points. Consume 
           </blockquote>          
         </div>
 
-The first breakthrough I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with. This quote has stuck with me:
+The first breakthrough I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me:
 
 {% include tufte-blockquote.html content="
 As I study and meet and analyze more and more businesses, I find myself drawn to the idea that each is a snowflake. Each startup is unique composition of its team, in the circumstances of its genesis, and the ecosystem in which it blossoms. Business concepts like the ones mentioned above can provide a common language about ideas. They can help us tell stories to motivate and inspire. Perhaps, they can provide some form of analytical framework.
 <br><br>
 But until the success of these theories can stand the test of reproducibility or time, that’s all they should be. After all, even some of the most successful CEOs in the world cannot reproduce their success the second time or third time. Building a business is really hard, and building an enduring company even more so, because each enduring business is built in a different way.
 
-" footer="Tomasz Tunguz - <a href='http://tomtunguz.com/overfitting-in-business/'>Overfitting in Business</a>"}
+" footer="Tomasz Tunguz - <a href='http://tomtunguz.com/overfitting-in-business/'>Overfitting in Business</a>" %}
 
 The second breakthrough I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom is.
 
@@ -233,32 +233,18 @@ Without ways of seeing the premise of consulting falls apart - you make generic 
 
 The third breakthrough I had was that once you have developed insights about an organization the most impactful thing you can do is share these ways of seeing, noticing and naming with your client to develop a shared perspective of the road ahead.
 
+## Teach your client to see
 
+And so, we're left with the final question - how do teach our clients to see? Let's return to the John Berger series. Re-watch the first twenty seconds. We can hear the gentle ripping of the canvas in a new perspective. Which contexts and assumptions is the knife challenging?
 
-To elevate yourself as a consultant it's critical to develop ways of seeing. To strive for sorting through what is there and what is not there. To describe things in new ways and to question false assumptions.
+To teach is to challenge. To learn is to unlearn. 
 
-However, to truly inspire change and to work on a plane above the day to day your mission is to help your clients see. Help them understand new ways of seeing and question the old. To provide new language and ideas for an organization is the ultimate success.
-
-
-John Berger says "To look is an act of choice" - and there's a choice every consultant has to make. Take the reality as fed to you from the client and the shallow received environment or to look, to truly attempt to see what's there. And then to take those observations and realities and help
-
-Without ways of seeing the premise of consulting falls apart. There is no objective reality to draw on or underlying truth to create strategy from. There is only the organic network of ideas and beliefs spread across the organization.
-
-And if you take the concept of strategy as the process of folding the future into the present then the absolute pinnacle of consulting is to help your client see & describe their own organization and their own reality.
-
-So take a good look at the client and when you're ready, take a knife to the priceless artifacts and help them see what's there.
-
-
-Every consulting engagement starts out with a sprint to uncover the culture and invisible lines of power that will help you navigate the client's organization and execute effective projects.
-
-But long after specific projects and deliverables are done what will your legacy be inside an organization? I'd contend that there's nothing more powerful or transformative than giving people new ways of seeing.
-
-Helping your client to see & describe their own organization and the world around them is powerful and I'd contend is the pinnacle of a consulting engagement.
-
-
+So take a good look at the client and when you're ready, take a knife to the walls and help them see what's there.
 
 --
 
 *Much love to the folks who contributed and reviewed drafts of this piece including: Kit, Brian, Toby, Sean, Robin, Susie, Rachel, Thomas & Elan*
 
 *If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/). Also this page template is new - trying something out to improve readability - based off of tufte css*
+
+--
