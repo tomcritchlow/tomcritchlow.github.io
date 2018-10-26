@@ -137,33 +137,23 @@ Secondly - a skilled meme-artist can create new language for groups. Language th
 
 My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
 
->Managers understand the organization's past behavior.  
->But this knowledge,  
->and the language that accompanies it,  
->limit their vision  
->of the organization's potential future state.  
->Using the language of the past,  
->managers may try to provide a vision for the future.  
->But it is an old future  
->a memory of what the future could be.  
->Managers may strive for fundamental change,  
->but their language prevents them from achieving it.
+The following quote nails some of the power of language:
 
 {% include tufte-blockquote.html content="
-Managers understand the organization's past behavior.  
-<br>But this knowledge,  
-<br>and the language that accompanies it,  
-<br>limit their vision  
-<br>of the organization's potential future state.  
-<br>Using the language of the past,  
-<br>managers may try to provide a vision for the future.  
-<br>But it is an old future  
-<br>a memory of what the future could be.  
-<br>Managers may strive for fundamental change,  
+Managers understand the organization's past behavior.
+<br>But this knowledge,
+<br>and the language that accompanies it,
+<br>limit their vision
+<br>of the organization's potential future state.
+<br>Using the language of the past,
+<br>managers may try to provide a vision for the future.
+<br>But it is an old future
+<br>a memory of what the future could be.
+<br>Managers may strive for fundamental change,
 <br>but their language prevents them from achieving it.
 " footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
 
-This quote is from the excellent [little grey book](http://pangaro.com/littlegreybook.pdf) which is all about language use inside organizations and has tons of wisdom. Thanks to my friend Robin for sharing!
+In fact the whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href="https://robinkwong.com/">Robin</a> for sharing this one with me!" %}.
 
 ### Shared Delusions
 
