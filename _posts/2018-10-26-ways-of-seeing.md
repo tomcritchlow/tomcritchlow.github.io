@@ -45,7 +45,7 @@ It's important to recognize that most organizational change happens very slowly 
 
 This frustration is an emotion you can channel into focus. Changing a stable organization requires first understanding its context. And when you walk into a client's office, you're  always missing context. Sometimes there's business context you're missing - funding, acquisitions, business models. Sure. But more often it's about missing cultural context. Your ideas are being rejected like a virus by the antibodies of the company.
 
-Ever since writing The Consultant's Grain it's become a mantra of mine that "their culture eats your strategy for breakfast". It's a reframing of the classic "culture eats strategy for breakfast" and it helps me stay focused - especially as a consultant coming into an unfamiliar environment and trying to get things done.
+Ever since writing [The Consultant's Grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) it's become a mantra of mine that "(their) culture eats (your) strategy for breakfast". It's a reframing of the classic "culture eats strategy for breakfast" and it helps me stay focused - especially as a consultant coming into an unfamiliar environment and trying to get things done{% include tufte-sn.html id="grain" content="In the consultant's grain I explore more deliberately the difference between working on projects that go <em>with the grain</em> or </em>against the grain of</em> an organization via the idea of <em>consulting fast and slow</em>. I'm not going to repeat all that here but if you enjoy this piece queue that one up next!" %}.
 
 However, the client usually isn't paying you to understand their culture so you have to do it fast. I think this is a skill, something you can learn. This skill of sensemaking takes experience of different cultures and a strong sense of observation.
 
@@ -119,13 +119,13 @@ You can see for example that I've mapped them as "unstable" and "process oriente
 
 I've found this framework helpful when trying to distinguish between things like intrinsic motivation (e.g. "we want to build the best X") vs extrinsic motivation (e.g. "we want to beat competitor Y").
 
-Once you start plotting an organization on these dimensions of culture you can start to look at each one and think about *why* they are that way and *how* they reinforce that behaviour.
+Once you start plotting an organization on these dimensions of culture you can start to look at each one and think about *why* they are that way and *how* they reinforce that behavior.
 
 ## How to see the world through your client's eyes
 
-When you're trying to understand a company's culture, you're essentially trying to understand how they see the world. The lens through which they process the world around them.
+When you're trying to understand a company's culture, you're essentially trying to understand how they see. The lens through which they process the world around them.
 
-This manifests in three specific things you can learn to see: language, delusions & mythology.
+This manifests in three specific things to pay attention to: language, delusions & mythology.
 
 ### Language
 
@@ -161,11 +161,11 @@ The whole book is worth reading and has tons of wisdom{% include tufte-sn.html i
 
 Shared Delusions - In order for teams to function effectively they need a shared mental model of how the world works for their industry/niche.
 
-This mental model helps the team act quickly by working from a shared cheatsheet of understanding. It saves having to make every decision from first principles. I like to call this mental model a "shared delusion".
+This mental model helps the team act quickly by working from a shared cheat-sheet of understanding. It saves having to make every decision from first principles. I like to call this mental model a "shared delusion".
 
-Why a shared delusion? Because it's useful to recognize that any mental model of how the world works is an incomplete model. The idea of a shared delusion is that we're understanding head first that we're lying to ourselves about certain things to make it easier for us to make decisions or rationalize our behaviour.
+Why a shared delusion? Because it's useful to recognize that any mental model of how the world works is an incomplete model. The idea of a shared delusion is that we're understanding head first that we're lying to ourselves about certain things to make it easier for us to make decisions or rationalize our behavior.
 
-The problem is that many mental models (i.e. shared delusions) about the world are built implicitly and not explicitly so that it becomes hard to tell which piece of the mental model is a useful simplification and which piece of the mental model is an oversimplification (or a flawed assumption).
+The problem is that many mental models (i.e. shared delusions) about the world are built implicitly and not explicitly so that **it becomes hard to tell which piece of the mental model is a useful simplification and which piece of the mental model is an oversimplification** (or a flawed assumption).
 
 So let's call the mental model what it is - a delusion - and try and understand how we look at the mental model directly to better understand it's limitations and flaws.
 
@@ -177,9 +177,9 @@ I'll give you an example from my own work - a B2B client had seriously under-inv
 <img src="/images/panda.png" >
 </figure>
 
-There's two lessons here - firstly if you want to understand shared assumptions sometimes you have to go to the source - surveying users, asking customers questions etc.
+There's two lessons here - firstly **if you want to understand shared assumptions sometimes you have to go to the source - surveying users, asking customers questions etc**.
 
-Secondly - always try and create an objective counter to their subjective reality. Be gentle when challenging mental models - no one enjoys their view of reality being broken.
+Secondly - **always try and create an objective counter to their subjective reality & be gentle when challenging mental models - no one enjoys their view of reality being broken**.
 
 ### Mythology
 
@@ -189,7 +189,7 @@ These stories become mythology within the organization. Very rarely are these do
 
 Pay attention and listen carefully to the mythology - actively look to uncover these stories of projects past. These stories, often-repeated, contain lessons about value systems within the organization. But the lessons they tell usually bear little to no resemblance of truth of what might succeed or fail in the future.
 
-The key insight here is that every single new project will get compared to the myths. So you can't understand the context of your ideas and recommendations without first understanding the mythology.
+**The key insight here is that every single new project will get compared to the myths. So you can't understand the context of your ideas and recommendations without first understanding the mythology.**
 
 Tread lightly when following the footsteps of glory or failure - both are dangerous paths to follow.
 
@@ -209,20 +209,18 @@ I'd go further and say that it is an impossible object. It's impossible to make 
 
 So seek out the internal culture decks, they're useful starting points. Consume them. But don't trust them.
 
-## Help your clients to see
+## Teach your clients to see
 
 <div class="epigraph">
-          <blockquote>
-            <p>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</p>
-            <footer>Leonardo da Vinci</footer>
-          </blockquote>
           <blockquote>
             <p>“The relation between what we see and what we know is never settled. Each evening we see the sun set. We know that the earth is turning away from it. Yet the knowledge, the explanation, never quite fits the sight.” </p>
             <footer>John Berger - ways of seeing</footer>
           </blockquote>          
         </div>
 
-To elevate yourself as a consultant it's critical to develop a the art of seeing. To strive for sorting through what is there and what is not there. To describe things in new ways and to question false assumptions.
+
+
+To elevate yourself as a consultant it's critical to develop ways of seeing. To strive for sorting through what is there and what is not there. To describe things in new ways and to question false assumptions.
 
 However, to truly inspire change and to work on a plane above the day to day your mission is to help your clients see. Help them understand new ways of seeing and question the old. To provide new language and ideas for an organization is the ultimate success.
 
