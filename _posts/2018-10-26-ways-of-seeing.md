@@ -107,7 +107,7 @@ In this framework the actors, artifacts and activities interact directly with ea
 
 **Activities** - the things that the actors do and why they do it. These activities will tell you more about the underlying power structures. In particular, pay attention to the habits and routines that are in place. Nothing will tell you more about what people value than what they do repeatedly.
 
-**Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and why? Which design choices were put in place deliberately and who made them.
+**Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and what is the tone of conversation there? Which design choices were put in place deliberately and who made them?
 
 There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture{% include tufte-sn.html id="principles" content="I've slightly adapted the dimensions of culture presented in the book below to create axis but the original chapter is still very much worth reading, and it's short." %}.
 
@@ -131,11 +131,11 @@ This manifests in three specific things to pay attention to: language, delusions
 
 The naming of things is incredibly powerful. First a group will create language as shortcuts for ideas and values - ways of thinking. But gradually this language starts to create the group. First the group creates the language and then the language creates the group. Language is the reinforcing feedback loop of culture.
 
-There are two extensions from this - firstly that using the wrong language can alienate you from a group. As a consultant I try hard to use a variety of definitions, terminology and linguistic approaches. Using the wrong term once is no big deal, consistently referring to the concept that the group has learned to reject will get your ideas rejected.
+There are two extensions from this - firstly that **using the wrong language can alienate you from a group**. As a consultant I try hard to use a variety of definitions, terminology and linguistic approaches. Using the wrong term once is no big deal, but **consistently referring to the concept that the group has learned to reject will get you rejected as well**.
 
-Secondly - a skilled meme-artist can create new language for groups. Language that has embedded values, ideas or bias from the consultant.
+Secondly - **a skilled meme-artist can create new language for groups. Language that has embedded values, ideas or bias from the consultant**.
 
-My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
+My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend Thomas makes a good point here however that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
 
 For a wonderful poetic read on the power of language in organizations I'd encourage you to read Notes on the Role of Leadership and Language in Regenerating Organizations, a.k.a. [The Little Grey Book](http://pangaro.com/littlegreybook.pdf).
 
@@ -155,7 +155,7 @@ Managers understand the organization's past behavior.
 <br>but their language prevents them from achieving it.
 " footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
 
-The whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
+The whole book is worth reading and has tons of wisdom, especially on the pragmatic nature of introducing new language and the efficiency of old language.{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
 
 ### Shared Delusions
 
@@ -195,7 +195,7 @@ Tread lightly when following the footsteps of glory or failure - both are danger
 
 ## Culture vs Propaganda
 
-Beware documented culture. For all of this talk about company culture I've found that it can be misleading to rely on mission decks and documented company values. These are top-down objects that are at best out of date and usually contain at least one statement that is the opposite of the truth. A mandate rather than an observation. (After all the only reason to document culture is to change it.)
+Beware documented culture. For all of this talk about company culture I've found that it can be misleading to rely on mission decks and documented company values. These are top-down objects that are at best out of date and usually contain at least one statement that is the opposite of the truth{% include tufte-sn.html id="culturedecks" content="My friend Kit was wise to point out this might be framed slighty negatively - there is a ton of value of documenting culture and creating culture decks. It's just my experience that you can't <strong>completely</strong> trust them. But definitely don't throw out the baby with the bathwater here." %}. A mandate rather than an observation. (After all the only reason to document culture is to change it.)
 
 My favorite illustration of this is Facebook's culture of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference:
 
