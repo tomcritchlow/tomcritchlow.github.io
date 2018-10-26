@@ -113,7 +113,7 @@ There are many frameworks and mental models that can help you understand and gra
 
 You can imagine every organization as having each of these aspects to a greater or lesser extent. So you might think about "plotting" a company along each axis. This is an example I put together from a recent client engagement:
 
-![](https://lh6.googleusercontent.com/2TM5gFPF28ys5HVyNNTc-8j_ZPV-4j3v7YRu2IQeAblXC9mQ7PLM6_ybmtC056FA0gx35F6A8Fq4gQh9jdwyn30OqQnIQT6zXyfpoJL1PMOYZlFk-WHliV8cfBU-bgYY1K2PrrE6)
+![](/images/org culture chart.png)
 
 You can see for example that I've mapped them as "unstable" and "process oriented" - which makes sense since my role with this client engagement was to create new processes.
 
