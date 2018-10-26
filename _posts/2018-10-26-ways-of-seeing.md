@@ -109,7 +109,7 @@ In this framework the actors, artifacts and activities interact directly with ea
 
 **Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and why? Which design choices were put in place deliberately and who made them.
 
-There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture.
+There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture{% include tufte-sn.html id="principles" content="I've slightly adapted the dimensions of culture presented in the book below to create axis but the original chapter is still very much worth reading, and it's short." %}.
 
 You can imagine every organization as having each of these aspects to a greater or lesser extent. So you might think about "plotting" a company along each axis. This is an example I put together from a recent client engagement:
 
@@ -125,7 +125,7 @@ Once you start plotting an organization on these dimensions of culture you can s
 
 When you're trying to understand a company's culture, you're essentially trying to understand how they see the world. The lens through which they process the world around them.
 
-This manifests in four specific things you can learn to see: language, delusions, mythology & power.
+This manifests in three specific things you can learn to see: language, delusions & mythology.
 
 ### Language
 
@@ -148,6 +148,20 @@ My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. 
 >a memory of what the future could be.  
 >Managers may strive for fundamental change,  
 >but their language prevents them from achieving it.
+
+{% include tufte-blockquote.html content='
+Managers understand the organization's past behavior.  
+But this knowledge,  
+and the language that accompanies it,  
+limit their vision  
+of the organization's potential future state.  
+Using the language of the past,  
+managers may try to provide a vision for the future.  
+But it is an old future  
+a memory of what the future could be.  
+Managers may strive for fundamental change,  
+but their language prevents them from achieving it.
+' footer='<a href="http://pangaro.com/littlegreybook.pdf">The Little Grey Book</a> from Dr. Michael Geoghegan'}
 
 This quote is from the excellent [little grey book](http://pangaro.com/littlegreybook.pdf) which is all about language use inside organizations and has tons of wisdom. Thanks to my friend Robin for sharing!
 
