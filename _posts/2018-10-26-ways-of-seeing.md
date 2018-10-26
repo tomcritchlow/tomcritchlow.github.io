@@ -149,7 +149,19 @@ My friend [Brian](https://twitter.com/itsbdell) calls this noticing and naming. 
 >Managers may strive for fundamental change,  
 >but their language prevents them from achieving it.
 
-{% include tufte-blockquote.html content="Test" footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
+{% include tufte-blockquote.html content="
+Managers understand the organization's past behavior.  
+But this knowledge,  
+and the language that accompanies it,  
+limit their vision  
+of the organization's potential future state.  
+Using the language of the past,  
+managers may try to provide a vision for the future.  
+But it is an old future  
+a memory of what the future could be.  
+Managers may strive for fundamental change,  
+but their language prevents them from achieving it.
+" footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
 
 This quote is from the excellent [little grey book](http://pangaro.com/littlegreybook.pdf) which is all about language use inside organizations and has tons of wisdom. Thanks to my friend Robin for sharing!
 
