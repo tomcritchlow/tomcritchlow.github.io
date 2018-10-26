@@ -231,15 +231,17 @@ The second breakthrough I had was to understand that there is a depth to observi
 
 Without ways of seeing the premise of consulting falls apart - you make generic recommendations that are easily rejected by the organizations belief systems and culture. Recommendations that fail to create new language or any meaningful change.
 
-The third breakthrough I had was that once you have developed insights about an organization the most impactful thing you can do is share these ways of seeing, noticing and naming with your client to develop a shared perspective of the road ahead.
+The third breakthrough I had - from reflecting on past client engagements, sometimes lasting years - was that the most important and most meaningful work I've done for clients is to help them see. Help them see their own culture in new ways, or help them see the world around them.
 
-## Teach your client to see
+By sharing these ways of seeing with your client you can develop a shared perspective of the road ahead.
+
+## Teaching your client to see
 
 And so, we're left with the final question - how do teach our clients to see? Let's return to the John Berger series. Re-watch the first twenty seconds. We can hear the gentle ripping of the canvas in a new perspective. Which contexts and assumptions is the knife challenging?
 
 To teach is to challenge. To learn is to unlearn. 
 
-So take a good look at the client and when you're ready, take a knife to the walls and help them see what's there.
+So take a good look at the client and when you are seeing clearly, take a knife to the walls and help them see what's there.
 
 --
 
