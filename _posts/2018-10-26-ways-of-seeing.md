@@ -57,13 +57,13 @@ Without talking, John walks to a renaissance painting, framed on the wall of a g
 
 The whole thing happens in the first twenty seconds. [Watch it here](https://www.youtube.com/watch?v=0pDE4VX_9Kk):
 
-![](https://lh4.googleusercontent.com/4Mo3KUeFv2WGtjqFBHIU-70ruODXaMQHMXNRckeZOKgh8jV0-vNzsL_p5J3G9JMBQfd-6Xnl3bP9zd4Akt-GAOM1WN_ldYkRSZs-3s3xztLiX2DDTmWtwuI2-_lZ8eCc-rGpR8gV)
+![](/images/thecut.png)
 
 It's an unsettling scene - even when you know it's coming! Recognizing why this scene is shocking helps us understand culture. No one tells you if the works on the wall are priceless. But the signals are all there - a gallery setting. A TV show about art. You're not expecting him to walk up with a knife... It's not what's *done*.
 
 John Berger goes on to talk about critical ways of understanding art, primarily through learning to critically examine something in front of you by keeping the context in frame. Who is showing this art to you? What sensory cues are there to shape your perception? How does reproduction of the image affect the image itself?
 
-![](https://lh4.googleusercontent.com/VmKvrn20_TxxpCOHZcQJOPI2ZTpn3td8oqsSUrTlaTEY3vct3hSOFZRqfNB6AXnQLsqB-pftivLDavU201Zb8O_JRjxige7dYJCjDf2_laCoeq8GWuMhTvljSTSQ4L5c98huaZem)
+![](/images/perspective.png)
 
 These questions and ways of seeing are the same exercises I employ as soon as I engage with a new client. Attempting to actually see what's there - not what everyone around you assumes is there, and certainly not what you're told about "how things work".
 
