@@ -216,6 +216,10 @@ So seek out the internal culture decks, they're useful starting points. Consume 
             <p>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</p>
             <footer>Leonardo da Vinci</footer>
           </blockquote>
+          <blockquote>
+            <p>“The relation between what we see and what we know is never settled. Each evening we see the sun set. We know that the earth is turning away from it. Yet the knowledge, the explanation, never quite fits the sight.” </p>
+            <footer>John Berger - ways of seeing</footer>
+          </blockquote>          
         </div>
 
 To elevate yourself as a consultant it's critical to develop a the art of seeing. To strive for sorting through what is there and what is not there. To describe things in new ways and to question false assumptions.
