@@ -211,13 +211,6 @@ So seek out the internal culture decks, they're useful starting points. Consume 
 
 ## Three Breakthroughs
 
-<div class="epigraph">
-          <blockquote>
-            <p>“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has bee able to situate itself in history.” </p>
-            <footer>John Berger - ways of seeing</footer>
-          </blockquote>          
-        </div>
-
 The first breakthrough I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me:
 
 {% include tufte-blockquote.html content="
@@ -236,6 +229,13 @@ The third breakthrough I had - from reflecting on past client engagements, somet
 By sharing these ways of seeing with your client you can develop a shared perspective of the road ahead.
 
 ## Teaching your client to see
+
+<div class="epigraph">
+          <blockquote>
+            <p>“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has bee able to situate itself in history.” </p>
+            <footer>John Berger - ways of seeing</footer>
+          </blockquote>          
+        </div>
 
 And so, finally we arrive back where we started. How do you teach ways of seeing? How do you challenge assumptions, create new contexts or add new naming?
 
