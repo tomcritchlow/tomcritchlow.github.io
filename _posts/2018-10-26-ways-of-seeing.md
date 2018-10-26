@@ -209,7 +209,28 @@ I'd go further and say that it is an impossible object. It's impossible to make 
 
 So seek out the internal culture decks, they're useful starting points. Consume them. But don't trust them.
 
-## Teach your clients to see
+## Help your clients to see
+
+<div class="epigraph">
+          <blockquote>
+            <p>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</p>
+            <footer>Leonardo da Vinci</footer>
+          </blockquote>
+        </div>
+
+To elevate yourself as a consultant it's critical to develop a the art of seeing. To strive for sorting through what is there and what is not there. To describe things in new ways and to question false assumptions.
+
+However, to truly inspire change and to work on a plane above the day to day your mission is to help your clients see. Help them understand new ways of seeing and question the old. To provide new language and ideas for an organization is the ultimate success.
+
+
+John Berger says "To look is an act of choice" - and there's a choice every consultant has to make. Take the reality as fed to you from the client and the shallow received environment or to look, to truly attempt to see what's there. And then to take those observations and realities and help
+
+Without ways of seeing the premise of consulting falls apart. There is no objective reality to draw on or underlying truth to create strategy from. There is only the organic network of ideas and beliefs spread across the organization.
+
+And if you take the concept of strategy as the process of folding the future into the present then the absolute pinnacle of consulting is to help your client see & describe their own organization and their own reality.
+
+So take a good look at the client and when you're ready, take a knife to the priceless artifacts and help them see what's there.
+
 
 Every consulting engagement starts out with a sprint to uncover the culture and invisible lines of power that will help you navigate the client's organization and execute effective projects.
 
@@ -217,7 +238,7 @@ But long after specific projects and deliverables are done what will your legacy
 
 Helping your client to see & describe their own organization and the world around them is powerful and I'd contend is the pinnacle of a consulting engagement.
 
-So take a good look at the client and when you're ready, take a knife to the priceless artifacts and help them see what's there.
+
 
 --
 
