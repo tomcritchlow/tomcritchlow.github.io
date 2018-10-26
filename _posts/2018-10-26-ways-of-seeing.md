@@ -191,7 +191,9 @@ Beware documented culture. For all of this talk about company culture I've found
 
 My favorite illustration of this is Facebook's culture of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference:
 
-![](https://lh3.googleusercontent.com/oU9-EA8-cgH9UvHd9vE9FKh9cvvBdJHppE8zYanYv4QWhE8WT2hAY5WcbFv2CL7pk60Rb7pfB6Glmh1XLUdUIMTigYUQMaWwG3RD-_uRz59fABzcRwatf3kbUp0B2Yje_Np0gP26)
+<figure class="fullwidth">
+<img src="/images/propoganda.png" >
+</figure>
 
 The interesting thing is that the only images you can find are the keynote mockups of the poster. There appear to be no *actual* posters of this manifesto.
 
