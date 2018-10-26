@@ -163,7 +163,7 @@ Managers may strive for fundamental change,
 but their language prevents them from achieving it.
 {% endcapture %}
 
-{% include tufte-blockquote.html content='{{orgquote}}' footer='<a href="http://pangaro.com/littlegreybook.pdf">The Little Grey Book</a> from Dr. Michael Geoghegan' %}
+{% include tufte-blockquote.html content='Test' footer='<a href="http://pangaro.com/littlegreybook.pdf">The Little Grey Book</a> from Dr. Michael Geoghegan' %}
 
 This quote is from the excellent [little grey book](http://pangaro.com/littlegreybook.pdf) which is all about language use inside organizations and has tons of wisdom. Thanks to my friend Robin for sharing!
 
