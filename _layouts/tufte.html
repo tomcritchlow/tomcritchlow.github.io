@@ -10,6 +10,21 @@
 
     <link rel="stylesheet" href="/css/tufte.css"/>
 
+    <meta property="og:type"   content="article" />
+    <meta property="og:url"    content="https://tomcritchlow.com{{page.url}}" />
+    <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}" />
+    <meta property="og:image"  content="http://tomcritchlow.com/images/green.png" />
+    <meta property="og:image:width"  content="600" />
+    <meta property="og:image:height"  content="315" />
+   
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:site" content="@tomcritchlow">
+   <meta name="twitter:creator" content="@tomcritchlow">
+   <meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
+   <meta name="twitter:description" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.content | truncatewords:20 | strip_html}}{% endif %}">
+   <meta name="twitter:image" content="http://tomcritchlow.com/images/green.png">
+    
+   <meta name="pocket-site-verification" content="d481265d27c9597cbdc003abbf1994" />    
     
     <style>
     
