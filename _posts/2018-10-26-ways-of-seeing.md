@@ -237,9 +237,11 @@ By sharing these ways of seeing with your client you can develop a shared perspe
 
 ## Teaching your client to see
 
-And so, we're left with the final question - how do teach our clients to see? Let's return to the John Berger series. Re-watch the first twenty seconds. We can hear the gentle ripping of the canvas in a new perspective. Which contexts and assumptions is the knife challenging?
+And so, finally we arrive back where we started. How do you teach ways of seeing? How do you challenge assumptions, create new contexts or add new naming?
 
-To teach is to challenge. To learn is to unlearn. 
+Watching Ways of Seeing the first time was useful to help me see. The second time was useful to help me teach others how to see.
+
+Re-watch the first twenty seconds. We can hear the gentle ripping of the canvas in a new perspective. Why is this scene so unsettling? Why is it effective?
 
 So take a good look at the client and when you are seeing clearly, take a knife to the walls and help them see what's there.
 
@@ -247,6 +249,6 @@ So take a good look at the client and when you are seeing clearly, take a knife 
 
 *Much love to the folks who contributed and reviewed drafts of this piece including: Kit, Brian, Toby, Sean, Robin, Susie, Rachel, Thomas & Elan*
 
-*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/). Also this page template is new - trying something out to improve readability - based off of tufte css*
+*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/).*
 
 --
