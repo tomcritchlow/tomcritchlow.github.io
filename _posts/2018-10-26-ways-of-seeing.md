@@ -153,7 +153,7 @@ Managers understand the organization's past behavior.
 <br>but their language prevents them from achieving it.
 " footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
 
-In fact the whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href="https://robinkwong.com/">Robin</a> for sharing this one with me!" %}.
+In fact the whole book is worth reading and has tons of wisdom{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
 
 ### Shared Delusions
 
