@@ -197,7 +197,7 @@ Tread lightly when following the footsteps of glory or failure - both are danger
 
 Beware documented culture. For all of this talk about company culture I've found that it can be misleading to rely on mission decks and documented company values. These are top-down objects that are at best out of date and usually contain at least one statement that is the opposite of the truth{% include tufte-sn.html id="culturedecks" content="My friend Kit was wise to point out this might be framed slighty negatively - there is a ton of value of documenting culture and creating culture decks. It's just my experience that you can't <strong>completely</strong> trust them. But definitely don't throw out the baby with the bathwater here." %}. A mandate rather than an observation. (After all the only reason to document culture is to change it.)
 
-My favorite illustration of this is Facebook's culture of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference:
+My favorite illustration of corporate propaganda is Facebook's "culture" of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference where the letters are on screen taller than he is, literally larger than life:
 
 <figure class="fullwidth">
 <img src="/images/propoganda.png" >
