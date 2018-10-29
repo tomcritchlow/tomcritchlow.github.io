@@ -134,7 +134,7 @@ There are two extensions from this - firstly that **using the wrong language can
 
 Secondly - **a skilled poet or linguist can create new language for groups. Language that has embedded values, ideas or bias from the consultant**.
 
-My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend <a href="https://thogenhaven.com/">Thomas</a> makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
+My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend <a href='https://thogenhaven.com/'>Thomas</a> makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
 
 For a wonderful poetic read on the power of language in organizations I'd encourage you to read Notes on the Role of Leadership and Language in Regenerating Organizations, a.k.a. [The Little Grey Book](http://pangaro.com/littlegreybook.pdf).
 
