@@ -6,6 +6,13 @@ subtitle: Collected writings on Theory & Practice for Independent Consultants [a
 
 The Strategic Independent will eventually become a book{% include tufte-sn.html id="date" content="Sometime in 2019 if all goes to plan!"%}. For now, I've collected my writing within the broad themes the book will cover. Plenty of gaps and more to write. If you see sections or ideas not currently addressed I'd love to hear from you: tjcritchlow@gmail.com
 
+{% for post in site.posts  %}
+{% if post.tags contains "strategy" %}
+The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> </li>
+{% break %}
+{% endif %}
+{% endfor %}
+
 Right now - the book will cover the following broad topics:
 
 ## Intro & Overview
