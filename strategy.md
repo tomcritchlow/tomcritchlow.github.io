@@ -8,7 +8,7 @@ The Strategic Independent will eventually become a book{% include tufte-sn.html 
 
 {% for post in site.posts  %}
 {% if post.tags contains "strategy" %}
-<p>The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date: "%-d %B %Y" }}</p>
+<p>The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date: "%-d %B %Y" }}.</p>
 {% break %}
 {% endif %}
 {% endfor %}
@@ -18,6 +18,8 @@ Right now - the book will cover the following broad topics:
 ## Intro & Overview
 
 **Why "strategic independent"?** - there's a core idea here that if you want to build a sustainable practice for yourself you need to think about becoming strategic. Even if you're not doing "strategy" work. There will be a section here exploring some of these terms and foundational ideas.
+
+**"Only let clients in the strategy door"** - this is a concept from David Barker's book [Expertise](https://www.expertise.is/). Essentially, there's nothing wrong with execution work but it doesn't work out in your favor to lead with it for new projects. I haven't written about this yet but if you ponder [this diagram](https://images-na.ssl-images-amazon.com/images/I/71ggHXpZf4L.jpg) for long enough you should get the picture! 
 
 [The Inferno of Independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) - this is a powerful piece of writing and I'll reference this to explain that this book is not just about doing the work but also the lived experience of *being* an independent.
 
