@@ -3,7 +3,6 @@ layout: tufte
 title: Ways of Seeing
 subtitle: How to recognize and understand culture inside a client's organization
 tags: strategy
-draft: true
 ---
 
 <div class="epigraph">
@@ -35,7 +34,7 @@ A few years ago I was walking with a friend through the streets of London. I'd b
 
 This was a lightbulb moment for me. Of course. Every organization is a system and process designed for certain outcomes - while some change is accepted and embraced, the point of the organization - its structure, processes and hierarchy - are there to prevent individuals from derailing the whole machine.
 
-The rhetoric of "ideas can come from anywhere" and "act like a startup" sound good but they're just not true reflections of the lived experience inside a large organization like Google (or any other). The truth is that large organizations are both explicitly and implicitly designed to prevent new ideas from emerging.
+The rhetoric of "ideas can come from anywhere" and "act like a startup" sound good but they're just not true reflections of the lived experience inside a large organization like Google (or any other). The truth is that large organizations are both explicitly and implicitly designed to prevent too many new ideas from emerging.
 
 ## The Frustration of Stability
 
@@ -71,7 +70,7 @@ I just came off a project where after a large acquisition there were two teams l
 
 I won't pretend to have solved all of these frustrations (and I wasn't being paid to solve these - at least not directly!) but the very first thing you can do in this situation is try and look critically and honestly at what is there.
 
-Especially when you're early in a project, before you're supposed to have gained any knowledge it's a great time to try and provoke some reactions (whether you go so far as slashing painting is is up to you!). By pushing against the system in new and interesting ways you can learn a lot about the system by how it responds.
+Especially when you're early in a project, before you're supposed to have gained any knowledge it's a great time to try and provoke some reactions (whether you go so far as slashing a painting is is up to you!). By pushing against the system in new and interesting ways you can learn a lot about the system by how it responds.
 
 ## You need to get in the client's flow
 
@@ -85,7 +84,7 @@ So as a consultant - as an outsider - it's crucial to find ways to get embedded 
 
 It's important to be present in both.
 
-Being physically present gives you a sense of the emotional interactions, in-between spaces and so on. It also gives you the platform to build emotional capital required to ask for favors
+Being physically present gives you a sense of the emotional interactions, in-between spaces and so on. It also gives you the platform necessary to build the emotional capital required to ask for favors.
 
 Being digitally present gives you the tactical understanding of how projects, documents and tasks flow around. It's also a great way to get a glimpse of the knowledge work happening around you that you aren't directly involved in.
 
@@ -95,7 +94,7 @@ Once you're inside the flows it's your job to pay attention.
 
 It's helpful to have some frameworks to help us think through the kinds of things we're trying to see in the first place.
 
-[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf){% include tufte-mn.html id="ethnography" content="The full paper is worth checking out: <em>Laurel Anderson and Paul Rothstein (2004) ,'Creativity and Innovation: Consumer Research and Scenario Building'</em> although in this context doesn't give much else of use to understand organizational culture." %} is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
+[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf){% include tufte-sn.html id="ethnography" content="The full paper is worth checking out: <em>Laurel Anderson and Paul Rothstein (2004) ,'Creativity and Innovation: Consumer Research and Scenario Building'</em> although in this context doesn't give much else of use to understand organizational culture." %} is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
 
 ![](/images/4a.png)
 
@@ -133,9 +132,9 @@ The naming of things is incredibly powerful. First a group will create language 
 
 There are two extensions from this - firstly that **using the wrong language can alienate you from a group**. As a consultant I try hard to use a variety of definitions, terminology and linguistic approaches. Using the wrong term once is no big deal, but **consistently referring to the concept that the group has learned to reject will get you rejected as well**.
 
-Secondly - **a skilled meme-artist can create new language for groups. Language that has embedded values, ideas or bias from the consultant**.
+Secondly - **a skilled poet or linguist can create new language for groups. Language that has embedded values, ideas or bias from the consultant**.
 
-My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend Thomas makes a good point here however that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
+My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend <a href="https://thogenhaven.com/">Thomas</a> makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
 
 For a wonderful poetic read on the power of language in organizations I'd encourage you to read Notes on the Role of Leadership and Language in Regenerating Organizations, a.k.a. [The Little Grey Book](http://pangaro.com/littlegreybook.pdf).
 
@@ -177,7 +176,7 @@ I'll give you an example from my own work - a B2B client had seriously under-inv
 <img src="/images/panda.png" >
 </figure>
 
-There's two lessons here - firstly **if you want to understand shared assumptions sometimes you have to go to the source - surveying users, asking customers questions etc**.
+There's two lessons here - firstly **if you want to understand shared assumptions sometimes you have to go to the source - surveying users, asking customers questions, etc**.
 
 Secondly - **always try and create an objective counter to their subjective reality & be gentle when challenging mental models - no one enjoys their view of reality being broken**.
 
@@ -220,7 +219,7 @@ But until the success of these theories can stand the test of reproducibility or
 
 " footer="Tomasz Tunguz - <a href='http://tomtunguz.com/overfitting-in-business/'>Overfitting in Business</a>" %}
 
-The second breakthrough I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom is.
+The second breakthrough I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom leads to strong insights.
 
 Without ways of seeing the premise of consulting falls apart - you make generic recommendations that are easily rejected by the organizations belief systems and culture. Recommendations that fail to create new language or any meaningful change.
 
@@ -249,6 +248,6 @@ So take a good look at the client and when you are seeing clearly, take a knife 
 
 *Much love to the folks who contributed and reviewed drafts of this piece including: Kit, Brian, Toby, Sean, Robin, Susie, Rachel, Thomas & Elan*
 
-*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm conciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/).*
+*If you made it this far (firstly thanks!) but you might be interested to know this was a bit of an experiment. I'm consciously trying to extend my writing to be a little longer as I gear up to write a book on consulting for independents. For now, I've [collected all my strategy writing here](https://tomcritchlow.com/strategy/).*
 
 --
