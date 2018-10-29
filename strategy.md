@@ -8,7 +8,7 @@ The Strategic Independent will eventually become a book{% include tufte-sn.html 
 
 {% for post in site.posts  %}
 {% if post.tags contains "strategy" %}
-The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> </li>
+<p>The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date: "%-d %B %Y" }}</p>
 {% break %}
 {% endif %}
 {% endfor %}
