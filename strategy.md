@@ -1,6 +1,6 @@
 ---
 layout: tufte
-title: The Strategic Independent
+title: The Strategic Independent [a book outline]
 subtitle: Collected writings on Theory & Practice for Independent Consultants
 ---
 
