@@ -7,3 +7,9 @@ Welcome to wikifolder:
 {% for item in folder1 %}
 {{item.title}}
 {% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'wikifolder' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
