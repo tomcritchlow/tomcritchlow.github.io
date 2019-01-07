@@ -9,4 +9,7 @@ collections:
   music:
     output: true
   stories:
-    output: true        
+    output: true
+  wikimusic:
+    output: true            
+    permalink: /wiki/:title
