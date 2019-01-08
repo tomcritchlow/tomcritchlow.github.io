@@ -9,7 +9,7 @@ Architecture wiki. Notes and musings on cities, space and the built environment.
 {% endfor %}
 
 {% for image in site.static_files %}
-    {% if image.path contains 'wikifolder' %}
+    {% if image.path contains 'wiki/architecture' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
