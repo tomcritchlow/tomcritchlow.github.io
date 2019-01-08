@@ -1,0 +1,15 @@
+---
+---
+
+Welcome to wikifolder:
+
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'"%}
+{% for item in folder1 %}
+{{item.title}}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'wikifolder' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}

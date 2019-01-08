@@ -10,6 +10,3 @@ collections:
     output: true
   stories:
     output: true
-  wikimusic:
-    output: true            
-    permalink: /wiki/:title
