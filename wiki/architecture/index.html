@@ -6,6 +6,11 @@ Architecture wiki. Notes and musings on cities, space and the built environment.
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki/architecture'"%}
 {% for item in folder1 %}
 {{item.title}}
+
+{% if item.path contains "index.html" %}
+Found index.html!
+{% endif %}
+
 {% endfor %}
 
 {% for image in site.static_files %}
