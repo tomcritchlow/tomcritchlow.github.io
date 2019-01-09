@@ -13,6 +13,6 @@ collections:
 
 defaults:
   - scope:
-      path: "/wiki/"
+      path: "/wiki/*"
     values:
       layout: "wiki"
