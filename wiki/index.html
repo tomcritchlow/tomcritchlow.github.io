@@ -7,6 +7,7 @@ Welcome to wikifolder:
 {% for item in folder1 %}
 {{ item.content | strip_html | truncatewords: 300 }}
 <a href="{{ item.url }}">read more</a>
+<br>
 {% endfor %}
 
 {% for image in site.static_files %}
