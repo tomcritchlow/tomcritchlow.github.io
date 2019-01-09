@@ -1,7 +1,7 @@
 ---
 ---
 
-##Examples of real work methods
+## Examples of real work methods
 
 http://www.themoderniststudio.com/2019/01/07/the-mechanics-of-strategic-storytelling/
 
