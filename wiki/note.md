@@ -1,5 +1,6 @@
 ---
 title: wikinote?
+pinned: true
 ---
 
 I think this is what I want:
@@ -25,3 +26,7 @@ Also - for each folder I think I want the index.html the same with a single refe
 My drafts should just be a folder in my wiki. That way they're open access.
 
 How to add comments? Hypothesis? Hmm.
+
+Pinned notes to stick them to the top.
+
+https://docs.google.com/presentation/d/1bxI9jkgeXhFa5X5Ge5OxsMgi49K6iCW7TiA060Pn7Ig/edit#slide=id.g4baff019e8_0_8

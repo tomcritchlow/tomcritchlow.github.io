@@ -10,3 +10,9 @@ collections:
     output: true
   stories:
     output: true
+
+defaults:
+  - scope:
+      path: "/wiki/"
+    values:
+      layout: "wiki"
