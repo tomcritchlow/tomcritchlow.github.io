@@ -6,7 +6,7 @@ Welcome to wikifolder:
 
 {% assign index_array = "" | split: ',' %}
 
-{% for file in site.static_files %}
+{% for file in site.pages %}
 {{file.path}}
   {% if file.path contains "index.html" %}
      {% assign index_array = index_array | push: file.path %}
