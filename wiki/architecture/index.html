@@ -1,6 +1,8 @@
 ---
 ---
 
+{% assign folderfilter = page.path | replace: "/index.html" , "" %}
+
 {% assign path = page.path | split:"/" %}
 
 {% for item in path %}
@@ -22,7 +24,7 @@ Found index.html! - at {{item.path}}
 {% endfor %}
 
 {% for image in site.static_files %}
-    {% if image.path contains 'wiki/architecture' %}
+    {% if image.path contains folderfilter %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
