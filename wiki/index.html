@@ -10,7 +10,7 @@
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
      <div class="fl w-third mb2 mt2 pa2">
-        <a href="{{file.path}}"><div class="bg-washed-green pv3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
+        <a href="{{file.path | replace:"wiki","" | replace:"index.html","" }}"><div class="bg-washed-green pv3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
     </div>
   {% endif %}
 {% endfor %}
