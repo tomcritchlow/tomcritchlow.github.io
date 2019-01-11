@@ -3,6 +3,8 @@
 
 {% assign folderfilter = page.path | replace: "/index.html" , "" %}
 
+{{folderfilter}}
+
 {% assign path = page.path | split:"/" %}
 
 {% for item in path %}
