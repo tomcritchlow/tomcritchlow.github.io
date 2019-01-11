@@ -1,6 +1,12 @@
 ---
 ---
 
+{% assign path = page.path | split:"/" %}
+
+{% for item in path %}
+> {{item}}
+{% endfor %}
+
 {{page.path}}
 
 Architecture wiki. Notes and musings on cities, space and the built environment.
