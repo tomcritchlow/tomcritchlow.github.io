@@ -16,18 +16,11 @@
 {% endfor %}
 
 
-
-
-Loop through all index.html
-Extract list of folders (sub-folders?)
-List alphabetically as blocks
-
-<br><br>
+<h3>All notes</h3>
 
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'"%}
 {% for item in folder1 %}
-{{ item.content | strip_html | truncatewords: 300 }}
-<a href="{{ item.url }}">read more</a>
+<a href="{{ item.url }}">{{item.path}}</a>
 <br>
 {% endfor %}
 

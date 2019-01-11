@@ -17,7 +17,7 @@ Architecture wiki. Notes and musings on cities, space and the built environment.
 
 {% for item in notes %}
     {% unless item.path contains "index.html" %}
-        <a href="{{item.path}}">{{item.path}}</a>"
+        <a href="{{item.url}}">{{item.path}}</a>
     {% endunless %}
 {% endfor %}
 
