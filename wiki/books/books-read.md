@@ -7,14 +7,14 @@ books:
    notes: Great unique book, wonderful analogy to finite and infinite writing....
  - title: The Power
    author: Naomi Alderman
-   link: https://www.amazon.com/dp/B01N0Z1EY0/
+   link: https://www.amazon.com/dp/B01N0Z1EY0
    date_finished: 12/30/2018
    notes: Provocative premise but I felt it squandered an opportunity at a deeper political and/or emotional exploration of what would happen if teenage girls gained a new incredible power. Somehow it resorted to.... fucking and fighting?
 pinned: true
 ---
 
 {% for book in page.books | sort:"date_finished" %}
-<div class="pa2 bb">
+<div class="pa2 bb dib">
 
 <div class="w-25 fl pa4">
   <img src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
