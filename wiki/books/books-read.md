@@ -29,8 +29,8 @@ pinned: true
 <div class="w-75 fl pa4-l">
   <h2 class="ma0">{{book.title}}</h2>
   <h3 class="ma0">by {{book.author}}</h3>
-  <div class="gray f5">Finished on {{book.date_finished}}</div>
-  <p class="mt2">{{book.notes}}</p>
+  <div class="gray f5 mt2 mb2">Finished on {{book.date_finished}}</div>
+  <p class="">{{book.notes}}</p>
 </div>
 
 
