@@ -1,4 +1,5 @@
 ---
+pinned:true
 ---
 
 In love with the HDL: http://helsinkidesignlab.org/
