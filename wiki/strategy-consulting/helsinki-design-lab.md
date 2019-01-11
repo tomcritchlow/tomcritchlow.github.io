@@ -1,5 +1,6 @@
 ---
 pinned: true
+title: Helsinki Design Lab
 ---
 
 In love with the HDL: http://helsinkidesignlab.org/
