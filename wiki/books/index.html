@@ -1,0 +1,23 @@
+---
+---
+
+{% assign folderfilter = page.path | replace: "/index.html" , "" %}
+
+{% assign path = page.path | split:"/" %}
+
+{% for item in path %}
+> {{item}}
+{% endfor %}
+
+Architecture wiki. Notes and musings on cities, space and the built environment.
+
+{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter"%}
+{% for item in notes %}
+{{item.title}}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains folderfilter %}
+        <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
