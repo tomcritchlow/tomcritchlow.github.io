@@ -22,7 +22,7 @@
 
 {{content}}
 
-{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" %}
+{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" reversed %}
 
 {% for item in notes %}
     {% unless item.path contains "index.html" %}
