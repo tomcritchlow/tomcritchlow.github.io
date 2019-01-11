@@ -15,7 +15,7 @@ Architecture wiki. Notes and musings on cities, space and the built environment.
 
 {% assign notes = site.pages | where_exp: "item" , "item.path contains 'wiki/architecture'"%}
 {% for item in notes %}
-{{item.title}}
+{{item.path}}
 {% endfor %}
 
 {% for image in site.static_files %}
