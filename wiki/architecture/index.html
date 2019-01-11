@@ -13,6 +13,12 @@
 
 Architecture wiki. Notes and musings on cities, space and the built environment.
 
+{% for page in site.pages %}
+    {% if page.path contains folderfilter %}
+    <a href="{{page.path}}">{{page.title}}</a>
+    {% endif %}
+{% endfor %}
+
 {% assign notes = site.pages | where_exp: "item" , "item.path contains 'wiki/architecture'"%}
 {% for item in notes %}
 {{item.path}}
