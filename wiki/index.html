@@ -6,7 +6,7 @@ Welcome to wikifolder:
 
 {% assign index_array = "" | split: ',' %}
 
-{% assign indexes = site.pages | where_exp:"item" , "item.path contains 'wiki'" %}
+{% assign indexes = site.pages | where_exp: "item" , "item.path contains 'wiki'" %}
 {% for item in indexes %}
 <div class="grey pa2 w-third bg-washed-red mb2 mt2">{{item.path | replace:"wiki","" | replace:"index.html","" }}</div>
 {% endfor %}
@@ -26,11 +26,6 @@ Extract list of folders (sub-folders?)
 List alphabetically as blocks
 
 <br><br>
-
-{% if item.path contains "index.html" %}
-Found index.html! - at {{item.path}}
-{% endif %}
-
 
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'"%}
 {% for item in folder1 %}
