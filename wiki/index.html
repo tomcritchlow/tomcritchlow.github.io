@@ -6,19 +6,21 @@
 
 {% assign index_array = "" | split: ',' %}
 
+<div class="">
 {% for file in site.pages %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
      <div class="fl w-third-l w-100 mb2 mt2 pa2">
-        <a href="/{{file.path | replace:"index.html","" }}"><div class="bg-washed-green pv3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
+        <a href="/{{file.path | replace:"index.html","" }}"><div class="bg-washed-green pa3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
     </div>
   {% endif %}
 {% endfor %}
+</div>
 
 
 <h3>All notes</h3>
 
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'"%}
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort_natural%}
 {% for item in folder1 %}
 <a href="{{ item.url }}">{{item.path}}</a>
 <br>

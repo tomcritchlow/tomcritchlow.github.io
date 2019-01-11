@@ -18,3 +18,5 @@ Turns out folders are the right way
 Hacking jekyll using folders and files. It lives on Github pages but could be simply uploaded to dropbox, google drive etc.
 
 Here's how it works:
+
+It's social in the same way URLs are social.
