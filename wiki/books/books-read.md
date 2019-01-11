@@ -14,7 +14,7 @@ pinned: true
 ---
 
 {% for book in page.books | sort:"date_finished" %}
-<div class="pa2 bb db">
+<div class="pa2 bb dib">
 
 <div class="w-25 fl pa4">
   <img src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
