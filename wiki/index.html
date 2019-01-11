@@ -9,7 +9,9 @@
 {% for file in site.pages %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
-     <div class="grey pa2 w-third bg-washed-green mb2 mt2 dib">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div>
+     <div class="fl w-third mb2 mt2">
+        <div class="pa2 bg-washed-green">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div>
+    </div>
   {% endif %}
 {% endfor %}
 
