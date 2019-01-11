@@ -1,20 +1,5 @@
 ---
+layout: wikiindex
 ---
 
 A love for notebooks, handwriting, doodling and text-collages.
-
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki/notebooks'"%}
-{% for item in folder1 %}
-{{item.title}}
-
-{% if item.path contains "index.html" %}
-Found index.html! - at {{item.path}}
-{% endif %}
-
-{% endfor %}
-
-{% for image in site.static_files %}
-    {% if image.path contains 'wiki/notebooks' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-    {% endif %}
-{% endfor %}
