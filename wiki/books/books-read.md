@@ -11,3 +11,4 @@ pinned: true
 {{book.title}}
 
 </div>
+{% endfor %}
