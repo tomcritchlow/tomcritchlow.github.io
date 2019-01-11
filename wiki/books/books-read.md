@@ -12,7 +12,7 @@ pinned: true
 <div class="pa2 bb">
 
 <div class="w-25 fl pa4">
-  <img class="src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
+  <img src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
 </div>
 
 <div class="w-75 fl pa4">
