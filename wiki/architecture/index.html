@@ -7,9 +7,11 @@
 
 {% assign path = page.path | split:"/" %}
 
+<div class="f5 grey pt1 pb1">
 {% for item in path %}
-> {{item}}
+> <a href="#">{{item}}</a>
 {% endfor %}
+</div>
 
 Architecture wiki. Notes and musings on cities, space and the built environment.
 
