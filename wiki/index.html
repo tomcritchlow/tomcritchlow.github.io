@@ -5,7 +5,7 @@
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
 <div class="w-100 cf">
-{% for file in site.pages | sort %}
+{% for file in site.pages | sort:"path" %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      <div class="fl w-third-l w-100 mb2 mt2 pa2">
         <a href="/{{file.path | replace:"index.html","" }}"><div class="bg-washed-green pa3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
