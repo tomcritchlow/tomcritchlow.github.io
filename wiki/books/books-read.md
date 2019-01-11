@@ -10,18 +10,23 @@ books:
    link: https://www.amazon.com/dp/B01N0Z1EY0
    date_finished: 12/30/2018
    notes: Provocative premise but I felt it squandered an opportunity at a deeper political and/or emotional exploration of what would happen if teenage girls gained a new incredible power. Somehow it resorted to.... fucking and fighting?
+ - title: Perdido Street Station
+   author: China Mieville
+   link: https://www.amazon.com/dp/B000FBFO8C/
+   date_finished: 12/01/2018
+   notes: A staggering, creative, filthy, engrossing tour through a world with such magical and rich depths. No one can build worlds like China.
 pinned: true
 ---
 
 {% for book in page.books | sort:"date_finished" %}
 <div class="pa2 bb dib">
 
-<div class="w-25 fl pa4">
+<div class="w-25 fl pa4-l">
 {% assign bookimage = book.link | split:"/" %}
   <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
 </div>
 
-<div class="w-75 fl pa4">
+<div class="w-75 fl pa4-l">
   <h2 class="ma0">{{book.title}}</h2>
   <h3 class="ma0">by {{book.author}}</h3>
   <div class="gray f5">Finished on {{book.date_finished}}</div>
