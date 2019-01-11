@@ -1,15 +1,15 @@
 ---
 ---
 
-Welcome to wikifolder:
-
+<h2>Welcome to wikifolder</h2>
+<p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
 {% assign index_array = "" | split: ',' %}
 
 {% for file in site.pages %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
-     <div class="grey pa2 w-third bg-washed-green mb2 mt2">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div>
+     <div class="grey pa2 w-third bg-washed-green mb2 mt2 dib">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div>
   {% endif %}
 {% endfor %}
 
@@ -29,8 +29,3 @@ List alphabetically as blocks
 <br>
 {% endfor %}
 
-{% for image in site.static_files %}
-    {% if image.path contains 'wiki' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-    {% endif %}
-{% endfor %}
