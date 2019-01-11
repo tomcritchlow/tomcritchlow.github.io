@@ -20,8 +20,8 @@
 
 <h3>All notes</h3>
 
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" %}
-{% for item in folder1 | sort:"url" %}
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
+{% for item in folder1 %}
 <a href="{{ item.url }}">{{item.path}}</a>
 <br>
 {% endfor %}
