@@ -15,6 +15,11 @@ books:
    link: https://www.amazon.com/dp/B000FBFO8C/
    date_finished: 12/01/2018
    notes: A staggering, creative, filthy, engrossing tour through a world with such magical and rich depths. No one can build worlds like China.
+ - title: Satin Island
+   author: Tom McCarthy
+   link: https://www.amazon.com/dp/B00MZWA678/
+   date_finished: 03/21/2018
+   notes: William Gibson meets Kafka. A corporate strategy consultant / ethnographer ponders the meaning of life and searches for the great project.
 pinned: true
 ---
 
