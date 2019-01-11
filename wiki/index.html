@@ -3,6 +3,28 @@
 
 Welcome to wikifolder:
 
+
+{% assign index_array = "" | split: ',' %}
+
+{% for file in site.static_files %}
+  {% if file.path contains "index.html" and file.path contains "wiki" %}
+     {% assign index_array = index_array | push: file.path %}
+     Pushed {{file.path}} to array!
+  {% endif %}
+{% endfor %}
+
+
+Loop through all index.html
+Extract list of folders (sub-folders?)
+List alphabetically as blocks
+
+<br><br>
+
+{% if item.path contains "index.html" %}
+Found index.html! - at {{item.path}}
+{% endif %}
+
+
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'"%}
 {% for item in folder1 %}
 {{ item.content | strip_html | truncatewords: 300 }}
