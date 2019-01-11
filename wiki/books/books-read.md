@@ -9,16 +9,16 @@ pinned: true
 ---
 
 {% for book in page.books | sort:"date_finished" %}
-<div class="pa2">
+<div class="pa2 bb">
 
-<div class="w-25 fl">
-  <img src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
+<div class="w-25 fl pa4">
+  <img class="src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
 </div>
 
-<div class="w-75 fl">
+<div class="w-75 fl pa4">
   <h2>{{book.title}}</h2>
   <h3>{{book.author}}</h3>
-  <div class="gray f5">Finished on {{date_finished}}</div>
+  <div class="gray f5">Finished on {{book.date_finished}}</div>
   {{book.notes}}
 </div>
 
