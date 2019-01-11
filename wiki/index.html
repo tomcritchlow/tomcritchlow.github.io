@@ -6,6 +6,11 @@ Welcome to wikifolder:
 
 {% assign index_array = "" | split: ',' %}
 
+{% assign indexes = site.pages | where_exp:"item", "item.path contains 'wiki' and item.path contains 'index.html'"}
+{% for index in indexes %}
+<div class="grey pa2 w-third bg-washed-green mb2 mt2">{{index.path | replace:"wiki","" | replace:"index.html","" }}</div>
+{% endfor %}
+
 {% for file in site.pages %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
