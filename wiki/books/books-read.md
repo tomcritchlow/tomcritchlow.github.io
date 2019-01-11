@@ -9,6 +9,7 @@ pinned: true
 {% for book in page.books | sort:"date_finished" %}
 <div class="">
 {{book.title}}
+<img src="http://images.amazon.com/images/P/B004W3FM4A.01.ZTZZZZZZ.jpg" />
 
 </div>
 {% endfor %}
