@@ -1,0 +1,38 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+<div class="fontinconsolata w-80-l w-95 center f4">
+
+<div class="pt2 pb2 wikigreen f3 mt4 mb4">
+<div class="w-25 dib h2">wiki</div>
+<div class="w-75 fr tr dib h2">experiments in hypertext thinking</div>
+</div>
+
+{% assign folderfilter = page.path | replace: "/index.html" , "" %}
+
+{% assign path = page.path | split:"/" %}
+
+<div class="f5 grey pt1 pb1">
+{% for item in path %}
+> <a href="#">{{item}}</a>
+{% endfor %}
+</div>
+
+Architecture wiki. Notes and musings on cities, space and the built environment.
+
+{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter"%}
+
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+        <a href="{{item.url}}">{{item.path}}</a>
+    {% endunless %}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains folderfilter %}
+        <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
+
+</div>
