@@ -18,6 +18,6 @@ Architecture wiki. Notes and musings on cities, space and the built environment.
 
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
