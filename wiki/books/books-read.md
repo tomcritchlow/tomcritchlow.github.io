@@ -17,7 +17,8 @@ pinned: true
 <div class="pa2 bb dib">
 
 <div class="w-25 fl pa4">
-  <img src="http://images.amazon.com/images/P/B004W3FM4A.01.LZZZZZZ.jpg" />
+{% assign bookimage = book.link | split:"/" %}
+  <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
 </div>
 
 <div class="w-75 fl pa4">
