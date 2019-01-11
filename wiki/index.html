@@ -9,9 +9,11 @@ Welcome to wikifolder:
 {% for file in site.pages %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
      {% assign index_array = index_array | push: file.path %}
-     Pushed {{file.path}} to array!
+     <div class="grey pa2 w-20 bg-light-green ma2">{{file.path}}</div>
   {% endif %}
 {% endfor %}
+
+
 
 
 Loop through all index.html
