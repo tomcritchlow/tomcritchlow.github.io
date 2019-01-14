@@ -19,7 +19,7 @@ books:
    author: Tom McCarthy
    link: https://www.amazon.com/dp/B00MZWA678/
    date_finished: 03/21/2018
-   notes: William Gibson meets Kafka. A corporate strategy consultant / ethnographer ponders the meaning of life and searches for the great project.
+   notes: William Gibson meets Kafka. A corporate strategy consultant / ethnographer ponders the meaning of life and searches for the Great Report.
 pinned: true
 ---
 
