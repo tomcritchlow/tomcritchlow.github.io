@@ -1,4 +1,6 @@
 ---
+layout: wikibook
+title: A running list of books I've finished
 books:
  - title: Finite & Infinite Games
    author: James Carse
@@ -22,22 +24,3 @@ books:
    notes: William Gibson meets Kafka. A corporate strategy consultant / ethnographer ponders the meaning of life and searches for the Great Report.
 pinned: true
 ---
-
-{% for book in page.books | sort:"date_finished" %}
-<div class="pa2 bb dib" id="{{forloop.index}}">
-
-<div class="w-25 fl pa4-l">
-{% assign bookimage = book.link | split:"/" %}
-  <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
-</div>
-
-<div class="w-75 fl pa4-l">
-  <h2 class="ma0">{{book.title}}</h2>
-  <h3 class="ma0">by {{book.author}}</h3>
-  <div class="gray f5 mt2 mb2">Finished on {{book.date_finished}}</div>
-  <p class="">{{book.notes}}</p>
-</div>
-
-
-</div>
-{% endfor %}
