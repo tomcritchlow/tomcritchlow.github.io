@@ -24,7 +24,7 @@ pinned: true
 ---
 
 {% for book in page.books | sort:"date_finished" %}
-<div class="pa2 bb dib">
+<div class="pa2 bb dib" id="{{forloop.index}}">
 
 <div class="w-25 fl pa4-l">
 {% assign bookimage = book.link | split:"/" %}
