@@ -9,7 +9,7 @@ The thing no one tells you when you set out on your own is that you take on the 
 
 This can feel like "soft" work, somehow less important than the "real" work of finding clients and setting up an LLC etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is a platform upon which everything hinges.
 
-What kind of clients do you work for? What kind of work do you find fulfilling? How do you legitimize charging good money? These questions hinge on the notion of identity.
+What kind of clients do you work for? What kind of work do you find fulfilling? How do you legitimize charging good money? These questions all hinge on the notion of identity.
 
 ## Act 1, language & labels
 
@@ -48,6 +48,10 @@ Ah. Now we're getting somewhere. Peel those layers.
 ## Act 4, capitalist 
 
 Develop a capitalist construct. For me - consultant == $$. For others studio name == $$. The worst thing to do is to hold too tightly to a sense of "authenticity" or "identity" that prevents you from playing the capitalist rodeo.
+
+Armor you use when you enter the arena of capitalism.
+
+
 
 
 

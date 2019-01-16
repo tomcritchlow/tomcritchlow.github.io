@@ -14,3 +14,9 @@ https://srconstantin.wordpress.com/2019/01/10/book-recommendations-an-everyone-c
 http://aworkinglibrary.com/reading/ka/
 
 http://aworkinglibrary.com/reading/mushroom-at-the-end-of-the-world/
+
+
+Words without music philip glass - https://www.amazon.com/exec/obidos/ASIN/1631491431/wwwaustinkleo-20/ref=nosim/ from:
+https://austinkleon.com/2018/10/05/take-your-kid-to-work/
+
+Delerious new york by Rem Koolhaus - recommended by Jarrett Fuller.
