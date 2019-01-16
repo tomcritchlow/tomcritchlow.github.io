@@ -39,6 +39,7 @@
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        {{image.path}}
     {% endif %}
 {% endfor %}
 </div>
