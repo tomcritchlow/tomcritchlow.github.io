@@ -22,7 +22,7 @@
 
 <p>{{content}}</p>
 
-<div class="fl w-50-l w-100">
+<div class="fl w-50-l w-100 min-h5">
 {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
 
 <h3>Notes:</h3>
@@ -35,7 +35,7 @@
 </ul>
 </div>
 
-<div class="fl w-50-l w-100">
+<div class="fl w-50-l w-100 min-h5">
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
