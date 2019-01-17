@@ -22,5 +22,10 @@ books:
    link: https://www.amazon.com/dp/B00MZWA678/
    date_finished: 03/21/2018
    notes: William Gibson meets Kafka. A corporate strategy consultant / ethnographer ponders the meaning of life and searches for the Great Report.
+ - title: The Dark Dark
+   author: Samantha Hunt
+   link: https://www.amazon.com/dp/B01N0TDSVM/
+   date_finished: 02/15/2018
+   notes: Tender, oozing, lyrical, dark, DARK stories of being human. Did I mention they are dark? What writing though! What imagination!
 pinned: true
 ---
