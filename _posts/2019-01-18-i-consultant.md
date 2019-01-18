@@ -97,7 +97,7 @@ Ah. Now we're getting somewhere. Peel those layers.
 
 Many times titles and labels are a show of power. Some display of strength over others. **I have this label** is the same as saying **I have this power**.
 
-From the book *Finite & Infinite Games* this quote:
+{% include tufte-sn.html id="infinite" content="A wonderful book that I need to write more about soon..." %}From the book *Finite & Infinite Games* this quote:
 
 > “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.” 
 
