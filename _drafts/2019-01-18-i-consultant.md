@@ -10,7 +10,7 @@ The thing no one tells you when you set out on your own is that you take on the 
 
 When we're fully employed, as well as a steady pay-check we get a stable (and often somewhat standardized) label. I'm a "product manager at brand corp". When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
 
-This can feel like "soft" work, somehow less important than the "real" work of finding clients and setting up an LLC etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is the platform upon which everything hinges.
+This can feel like "soft" work, somehow less important than the "real" work of finding clients, setting up an LLC, etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is the platform upon which everything hinges.
 
 What kind of clients do you work for?
 
@@ -18,7 +18,7 @@ What kind of work do you find fulfilling?
 
 How do you legitimize charging good money?
 
-These questions all hinge on the notion of identity.
+These questions all hinge on the notion of identity. Here I'm going to argue that the most important thing is to recognize the power of language and labels - but ultimately treat your personal identity as a texture and material to play with and around.
 
 ## Tend your Identity as it Evolves
 
@@ -66,6 +66,12 @@ So this idea of creating a personal identity via your independent work is import
 For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice.
 
 Develop a capitalist construct. For me - consultant == $$. For others studio name == $$. The worst thing to do is to hold too tightly to a sense of "authenticity" or "identity" that prevents you from playing the capitalist rodeo.
+
+## The Identity Crisis at the Heart of The Question
+
+"The Question". Inevitably in many consulting projects (especially those where you're embedding inside an organization either physically or digitally) there will come a time when they ask you to come full time.
+
+Creative Director - nevermind the fact that the salary they offered me was half what I earned that year. The label threw me through a rollercoaster emotional journey.
 
 ## A Studio of One's Own
 
