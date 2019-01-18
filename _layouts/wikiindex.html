@@ -16,6 +16,16 @@
 {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
 
 <h3>Notes:</h3>
+
+{% if page.expand %}
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+    {{item.content}}    
+    <a href="{{item.url}}">{{item.path}}</a></li>
+    <hr>
+    {% endunless %}
+{% endfor %}
+{% else %}
 <ul>
 {% for item in notes %}
     {% unless item.path contains "index.html" %}
@@ -23,6 +33,7 @@
     {% endunless %}
 {% endfor %}
 </ul>
+{% endif %}
 </div>
 
 <div class="fl w-50-l w-100 min-h5">
