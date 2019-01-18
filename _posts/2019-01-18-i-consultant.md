@@ -3,6 +3,7 @@ layout: tufte
 title: I, consultant
 subtitle: Managing identity as an independent
 draft: true
+tags: strategy
 ---
 
 The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
@@ -46,18 +47,43 @@ In my experience there's usually a bit of a trajectory. As you move from nervous
 
 The angst here comes in two ways:
 
-Firstly, you imagine that this language matters to 
+Firstly, you imagine that this label matters **externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But I'd argue that for many independents the actual label you use is less important for potential clients. They tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the difference between a consultant and a freelancer.
 
-Secondly, you imagine that 
+Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. This is BS and you should moondance past anyone who tries to be a gatekeeper in any way. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-In truth - this is less of a linear journey and more of a choice. A 2x2.
+## Psychic Armor for the Arena of Capitalism
 
-Freelance <--> Consultant
-Owner <--> Founder
+This identity formation is not just aspirational - it's functional in one key way.
 
-These terms matter! Not to clients - they rarely care - but to you! To your sense of identity and self-worth.
+The best advice you can get when you're starting out as an independent is to raise your rates. Charge more. Value your worth higher.
 
-But there's another dimension here - functional or creative.
+This is often-repeated advice, not because people get it wrong as much as.... it's hard! Having the self-confidence and authority to command premium rates is intrinsically linked to a sense of self-worth and identity.
+
+So this idea of creating a personal identity via your independent work is important as psychic armor as you step into the arena of capitalism. You need a construct to do the charging *for you*.
+
+For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice.
+
+Develop a capitalist construct. For me - consultant == $$. For others studio name == $$. The worst thing to do is to hold too tightly to a sense of "authenticity" or "identity" that prevents you from playing the capitalist rodeo.
+
+## A Studio of One's Own
+
+Once you've developed a label you like, it's time to expand your identity into the *space you work in*. I'm not talking about the physical space you work in (though that has some notions of identity formation also...), but rather the metaphorical space you work in. What environment are you crafting that houses your client work?
+
+Some words you might use:
+
+- Lab
+- Studio
+- Agency
+- Office
+- Nomad
+
+More  than a personal identity - these terms reflect your aspirations for the kind of work you want to do.
+
+I've wrestled with this for a long time. Many of those I look up to have created "studios" to house their work. 
+
+Venkatesh - Breaking Smart
+Studio D
+
 
 I've spent at least the last two years wrestling with the idea of a "studio". Artists have studios. Designers have studios. Creatives have studios.
 
@@ -66,65 +92,3 @@ A studio practice is something I desire.
 But all of this is a yearning for creativity. Or, more accurately a yearning for the **label** of creativity.
 
 Ah. Now we're getting somewhere. Peel those layers.
-
-
-https://twitter.com/tomcritchlow/status/1038104877900161025
-
-## Psychic Armor for the Arena of Capitalism
-
-Develop a capitalist construct. For me - consultant == $$. For others studio name == $$. The worst thing to do is to hold too tightly to a sense of "authenticity" or "identity" that prevents you from playing the capitalist rodeo.
-
-Armor you use when you enter the arena of capitalism.
-
-
-
-
-
-https://medium.com/swlh/the-freelancer-and-the-entrepreneur-c79d2bbb52b2
-
-When I set out on my own it felt important to create a positioning statement. An clear differentiation from others, a way to describe the work I do and who I do it for.
-
-This positioning statement feels like it's "for the market" - for others. External.
-
-As I wrestled with putting this together - and wrestled with when and where I exposed this positioning statement to the world it became increasingly clear that the positioning statement was far more important as an internal thing. For me.
-
-When you become self-employed you also take on the task of shaping your identity.
-
-The language we use is most useful to ourselves as an internal narrative. Something to keep us anchored during the choppy waters of untethered freelance work.
-
-Freelancer
-Web designer
-Consultant
-Free-agent
-Founder
-
-## A Studio of One's Own
-
-And where we do work
-
-Studio
-Lab
-Office
-Nomad
-
-## Act 3, communities
-
-And what we call "it"
-
-Yes and
-Tomcritchlow.com
-Part and sum
-Sunday Dinners
-
-## Act 4, the identity of work
-
-And the work we do
-
-Interim-CMO
-COO
-Creative Director job
-
-Responsible for your choices. Which comes with a cost! When a client ends an engagement do you take it as a personal attack on your identity? 
-
-
-For a trip off the deep end - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/
