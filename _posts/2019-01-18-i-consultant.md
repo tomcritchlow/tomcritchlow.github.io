@@ -92,3 +92,13 @@ A studio practice is something I desire.
 But all of this is a yearning for creativity. Or, more accurately a yearning for the **label** of creativity.
 
 Ah. Now we're getting somewhere. Peel those layers.
+
+## Poetry over Power
+
+Many times titles and labels are a show of power. Some display of strength over others. **I have this label** is the same as saying **I have this power**.
+
+From the book *Finite & Infinite Games* this quote:
+
+> “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.” 
+
+So play with labels, understand their power not over others but over ourselves. Understand their ability to provide shelter in the capitalist storm and then, eventually, discard them entirely and embrace the poetry of life.
