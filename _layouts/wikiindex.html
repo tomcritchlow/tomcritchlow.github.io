@@ -40,6 +40,9 @@
 <h3>Files:</h3>    
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
+        {% if image.path contains "pdf" or "txt" %}
+        Link to file:  <div class="f6 grey">{{image.path}}</div>
+        {% endif %}
         <a href="{{image.path}}" target="_blank"><img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
         <div class="f6 grey">{{image.path}}</div>
     {% endif %}
