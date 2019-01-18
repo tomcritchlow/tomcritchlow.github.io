@@ -7,23 +7,33 @@ draft: true
 
 The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
 
-This can feel like "soft" work, somehow less important than the "real" work of finding clients and setting up an LLC etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is a platform upon which everything hinges.
+This can feel like "soft" work, somehow less important than the "real" work of finding clients and setting up an LLC etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is the platform upon which everything hinges.
 
-What kind of clients do you work for? What kind of work do you find fulfilling? How do you legitimize charging good money? These questions all hinge on the notion of identity.
+What kind of clients do you work for?
 
-## Act 1, language & labels
+What kind of work do you find fulfilling?
 
-When you first leap into the unknown it's often easy to describe who you are - "I just quit Google to head out on my own". Defined by the recent past, this framing is easy, safe and totally fine. Much like the Cobra health insurance you're drafting off you're drafting off the coat-tails of your previous role.
+How do you legitimize charging good money?
+
+These questions all hinge on the notion of identity.
+
+## Language & Labels
+
+When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left. "I just quit Google to head out on my own". Defined by the recent past, this framing is easy, safe and totally fine. Much like the Cobra health insurance you're drafting off you're drafting off the coat-tails of your previous role.
 
 As the days turn into weeks and months though, new language will emerge.
 
 In the early days of heading out on my own I would use the word "consulting" to describe the client work (largely because that's how I'd described it while I was at Distilled pre-Google when I was doing client work). But it didn't feel right to call myself a "consultant" yet.
 
+Self-employed? Sure. (though that implies that I'm paying the bills?)
+
+Freelancer. Probably. (though that implies a short term version of full-time work?)
+
 In my experience there's usually a bit of a trajectory. As you move from nervous beginner to confident experience the language evolves. Something like:
 
 - Freelancer
-- Self-employed
 - "Specialist" - e.g. "Marketer" or "Web designer"
+- Self-employed
 - Consultant
 - Founder / Owner
 
@@ -45,7 +55,9 @@ But all of this is a yearning for creativity. Or, more accurately a yearning for
 Ah. Now we're getting somewhere. Peel those layers.
 
 
-## Act 4, capitalist 
+https://twitter.com/tomcritchlow/status/1038104877900161025
+
+## Psychic Armor for the Arena of Capitalism
 
 Develop a capitalist construct. For me - consultant == $$. For others studio name == $$. The worst thing to do is to hold too tightly to a sense of "authenticity" or "identity" that prevents you from playing the capitalist rodeo.
 
@@ -73,7 +85,7 @@ Consultant
 Free-agent
 Founder
 
-## Act 2, things
+## A Studio of One's Own
 
 And where we do work
 

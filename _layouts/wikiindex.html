@@ -36,10 +36,11 @@
 </div>
 
 <div class="fl w-50-l w-100 min-h5">
+<h3>Files:</h3>    
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         <img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-        {{image.path}}
+        <div class="f5">{{image.path}}</div>
     {% endif %}
 {% endfor %}
 </div>
