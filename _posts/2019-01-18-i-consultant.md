@@ -17,7 +17,7 @@ How do you legitimize charging good money?
 
 These questions all hinge on the notion of identity.
 
-## Language & Labels
+## Tend your Identity as it Evolves
 
 When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left. "I just quit Google to head out on my own". Defined by the recent past, this framing is easy, safe and totally fine. Much like the Cobra health insurance you're drafting off you're drafting off the coat-tails of your previous role.
 
@@ -29,13 +29,26 @@ Self-employed? Sure. (though that implies that I'm paying the bills?)
 
 Freelancer. Probably. (though that implies a short term version of full-time work?)
 
+In my experience there's a bit of a spectrum - people gravitate to different language based on what they want to be known as and how confident they feel.
+
+It's a process of growing into the person you want to be.
+
+Consider the following range of terms:
+
 In my experience there's usually a bit of a trajectory. As you move from nervous beginner to confident experience the language evolves. Something like:
 
 - Freelancer
-- "Specialist" - e.g. "Marketer" or "Web designer"
 - Self-employed
+- "Specialist" (e.g. "Marketer" or "Web designer")
 - Consultant
 - Founder / Owner
+- CEO
+
+The angst here comes in two ways:
+
+Firstly, you imagine that this language matters to 
+
+Secondly, you imagine that 
 
 In truth - this is less of a linear journey and more of a choice. A 2x2.
 
