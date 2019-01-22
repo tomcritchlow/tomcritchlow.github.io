@@ -2,7 +2,6 @@
 layout: blog
 title: Weird Work
 subtitle: Wisdom from Venkatesh
-draft: true
 ---
 
 Venkatesh from [Ribbonfarm](https://www.ribbonfarm.com/) recently put out an AMA call. I responded with this question:
