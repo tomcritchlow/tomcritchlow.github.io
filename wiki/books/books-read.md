@@ -6,7 +6,7 @@ books:
    author: Hannu Rajaniemi
    link: https://www.amazon.com/dp/B0756K1Q8D/
    date_finished: 1/21/2019
-   notes: Inventive!
+   notes: A wonderful original work - full of interesting characters. Ghosts! Spys! Old London! Really enjoyed this and tore through it super fast.
  - title: Finite & Infinite Games
    author: James Carse
    link: https://www.amazon.com/dp/B004W3FM4A/
