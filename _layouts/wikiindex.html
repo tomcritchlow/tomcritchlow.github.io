@@ -42,9 +42,10 @@
     {% if image.path contains folderfilter %}
         {% if image.path contains "pdf" or image.path contains "txt" %}
         Link to file:  <div class="f6 grey">{{image.path}}</div>
-        {% endif %}
+        {% else %}
         <a href="{{image.path}}" target="_blank"><img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
         <div class="f6 grey">{{image.path}}</div>
+        {% endif %}
     {% endif %}
 {% endfor %}
 </div>
