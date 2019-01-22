@@ -9,7 +9,9 @@ Venkatesh from [Ribbonfarm](https://www.ribbonfarm.com/) recently put out an AMA
 
 *What advice would you give to an independent consultant looking to do more "weird" or non-traditional work - for example the philosopher-in-residence work you did for A16Z and the original Breaking Smart? Thanks!*
 
-(for those not familiar with Breaking Smart, it is a meditation and modernization of the adage "software is eating the world" from Venkatesh but sprung out of a year long "philosopher in residence" program with Andreessen Horowitz: "In 2014, a few of us invited Venkatesh Rao to spend the year at Andreessen Horowitz as a consultant to explore the nature of such historic tech transformations. In particular, we set out to answer the question: Between both the breathless and despairing extremes of viewing the future, could an intellectually rigorous case be made for pragmatic optimism?")
+(for those not familiar with Breaking Smart, it is a meditation and modernization of the adage "software is eating the world" from Venkatesh but sprung out of a year long "philosopher in residence" program with Andreessen Horowitz. From Marc Andreessen: *In 2014, a few of us invited Venkatesh Rao to spend the year at Andreessen Horowitz as a consultant to explore the nature of such historic tech transformations. In particular, we set out to answer the question: Between both the breathless and despairing extremes of viewing the future, could an intellectually rigorous case be made for pragmatic optimism?"* It's remained one of my aspirational concepts - how to do less conventional work as a consultant.)
+
+Venkatesh responds (bolding mine):
 
 > I think you just have to do whatever most energizes you and produces a lot of output, and let the work/opportunities find you. I have never gotten an enjoyable weird gig out of going fishing myself. You choose boring, normal work, but interesting, weird work chooses you.
 
