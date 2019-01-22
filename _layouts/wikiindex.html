@@ -38,10 +38,12 @@
 
 <div class="fl w-50-l w-100 min-h5">
 
+{% assign i = 0 %}
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         {% if image.path contains "pdf" or image.path contains "txt" %}
-            {% if forloop.first == true %}
+            {% assign i = i | plus:1 %}
+            {% if i = 1 %}
             <h3>Files:</h3>    
             {% endif %}
             <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
