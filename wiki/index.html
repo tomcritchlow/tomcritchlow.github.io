@@ -7,8 +7,8 @@
 <div class="w-100 cf">
 {% for file in site.pages | sort:"path" %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
-     <div class="fl w-third-l w-100 mb2 mt2 pa2">
-        <a href="/{{file.path | replace:"index.html","" }}"><div class="bg-washed-green pa3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
+     <div class="fl w-third-l w-100 mb1 mt1 pa2">
+        <a class="link black" href="/{{file.path | replace:"index.html","" }}"><div class="bg-near-white pa3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
     </div>
   {% endif %}
 {% endfor %}
