@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Summerland
+   author: Hannu Rajaniemi
+   link: https://www.amazon.com/dp/B0756K1Q8D/
+   date_finished: 1/21/2019
+   notes: Inventive!
  - title: Finite & Infinite Games
    author: James Carse
    link: https://www.amazon.com/dp/B004W3FM4A/
