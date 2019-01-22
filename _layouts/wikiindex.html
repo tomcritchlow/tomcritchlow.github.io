@@ -41,10 +41,10 @@
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         {% if image.path contains "pdf" or image.path contains "txt" %}
-            {% if forloop.first %}
+            {% if forloop.first == true %}
             <h3>Files:</h3>    
             {% endif %}
-        Link to file:  <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
+            <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
         {% else %}
         <a href="{{image.path}}" target="_blank"><img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
         <div class="f6 grey">{{image.path}}</div>
