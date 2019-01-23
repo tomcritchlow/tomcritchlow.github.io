@@ -128,6 +128,11 @@ var disqus_config = function () {
 </div>
 </div>
 
+{% if page.draft == true %}
+<div class="absolute f2 red top-2 tc w-100">
+  DRAFT
+</div>
+{% endif %}
 
 </body>
 </html>
