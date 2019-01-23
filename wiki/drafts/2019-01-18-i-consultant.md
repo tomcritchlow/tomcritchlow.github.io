@@ -51,7 +51,7 @@ The angst here comes in two ways:
 
 Firstly, you imagine that this label matters **externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But I'd argue that for many independents the actual label you use is less important for potential clients. They tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the difference between a consultant and a freelancer.
 
-Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. This is BS and you should moondance past anyone who tries to be a gatekeeper in any way. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
+Secondly{% include tufte-sn.html id="flame" content="Interestingly, there's a third from of angst here as you align your personal identity with your work identity. Recently - I've received a few instances of twitter hate from folks taking issue with the label of 'consultant'. I think it's all centered in the idea of consultant vs X (where X could be designer, writer etc)" %}, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. This is BS and you should moondance past anyone who tries to be a gatekeeper in any way. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
 ## Psychic Armor for the Arena of Capitalism
 
