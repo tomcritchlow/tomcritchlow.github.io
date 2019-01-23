@@ -8,7 +8,7 @@ tags: strategy
 
 The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
 
-When we're fully employed, as well as a steady pay-check we get a stable (and often somewhat standardized) label. I'm a "product manager at brand corp". When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
+When we're fully employed, we get a steady pay-check but we also get a stable, recognized, label. I'm a "product manager at brand corp". When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
 
 This can feel like "soft" work, somehow less important than the "real" work of finding clients, setting up an LLC, etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is the platform upon which everything hinges.
 
@@ -91,6 +91,7 @@ I've wrestled with this for a long time. Many of those I look up to have created
 
 Venkatesh - Breaking Smart
 Studio D
+Studio Frank
 
 
 I've spent at least the last two years wrestling with the idea of a "studio". Artists have studios. Designers have studios. Creatives have studios.

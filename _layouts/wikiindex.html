@@ -54,7 +54,7 @@
             <h3>Images:</h3>    
             {% endif %}        
         <a href="{{image.path}}" target="_blank"><img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
-        <div class="f6 grey">{{image.path}}</div>
+        <div class="f6 grey">{{image.path | replace: folderfilter , ""}}</div>
         {% endif %}
     {% endif %}
 {% endfor %}
