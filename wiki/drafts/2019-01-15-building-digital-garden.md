@@ -20,3 +20,5 @@ Hacking jekyll using folders and files. It lives on Github pages but could be si
 Here's how it works:
 
 It's social in the same way URLs are social.
+
+![](/images/Digital-Garden.jpg)
