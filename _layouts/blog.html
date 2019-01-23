@@ -76,5 +76,10 @@ var disqus_config = function () {
 </div>
 </div>
 
+{% if post.draft == true %}
+<div class="absolute o-20 red">
+  DRAFT
+</div>
+
 
 {% include footer.html %}
