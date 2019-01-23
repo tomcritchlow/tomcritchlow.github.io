@@ -21,4 +21,6 @@ Here's how it works:
 
 It's social in the same way URLs are social.
 
+With this beautiful illustration from [Erin Przekop](http://erinprz.com)
+
 ![](/images/Digital-Garden.jpg)
