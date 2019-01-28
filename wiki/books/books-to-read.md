@@ -22,3 +22,5 @@ https://austinkleon.com/2018/10/05/take-your-kid-to-work/
 Delerious new york by Rem Koolhaus - recommended by Jarrett Fuller.
 
 Milkman - recc by All my stars: "I finished Milkman after the holiday. It is not just a great novel, it is a great 21st century novel—a book that could hold its own on a list including literature over the course of a hundred years. I miss reading it. I hope everyone checks it out, because even if it's not for you, it is good to see what a novel can do and can be in 2019 (well, 2018.)"
+
+[Asymmetry](https://www.amazon.com/dp/B074ZDRGBC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Lisa Halliday reccommended by Craig Mod on his podcast: https://craigmod.com/onmargins/007/

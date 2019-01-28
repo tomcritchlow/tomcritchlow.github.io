@@ -1,6 +1,6 @@
 ---
 layout: tufte
-title: I, consultant
+title: I, consultant [draft]
 subtitle: Managing identity as an independent
 draft: true
 tags: strategy
