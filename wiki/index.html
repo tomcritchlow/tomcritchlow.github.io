@@ -4,23 +4,10 @@
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
-{% assign folders = site.pages | map: 'path' %}
-{% assign wikifolders ="" | split:"" %}
-
-{% for item in folders %}
-  {% if item contains "index.html" and item contains "wiki" %}
-    {% assign tempvar = item | split:"/" %}
-    {% assign wikifolders = wikifolders | push: tempvar[1] %}
-  {% endif %}
-{% endfor %}
+{% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki' and item.path contains 'index.html'" %}
+{% assign wikifolders = "" | split:"" %}
 
 
-{{ folders }}
-
-{{ wikifolders | uniq}}
-
-
-{{ site.pages | where_exp:"item", "item.path contains 'wiki'" }}
 
 
 <div class="w-100 cf">
