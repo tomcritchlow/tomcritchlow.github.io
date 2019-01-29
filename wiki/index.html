@@ -10,7 +10,7 @@
 {% for item in folders %}
   {% if item contains "index.html" and item contains "wiki" %}
     {% assign tempvar = item | split:"/" %}
-    {% assign wikifolders = wikifolders | push: tempvar[0] %}
+    {% assign wikifolders = wikifolders | push: tempvar[1] %}
   {% endif %}
 {% endfor %}
 
