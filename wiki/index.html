@@ -17,7 +17,7 @@
 
 {{ folders }}
 
-{{ wikifolders}}
+{{ wikifolders | uniq}}
 
 <div class="w-100 cf">
 {% for file in site.pages | sort:"path" %}
