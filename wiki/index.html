@@ -4,7 +4,7 @@
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
-{% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki' and item.path contains 'index.html'" %}
+{% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
 {% assign wikifolders = "" | split:"" %}
 
 {% for folder in folders %}
