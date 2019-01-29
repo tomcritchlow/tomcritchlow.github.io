@@ -7,7 +7,9 @@
 {% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki' and item.path contains 'index.html'" %}
 {% assign wikifolders = "" | split:"" %}
 
-
+{% for folder in folders %}
+{{folder.path}}
+{% endfor %}
 
 
 <div class="w-100 cf">
