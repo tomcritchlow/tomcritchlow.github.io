@@ -10,6 +10,7 @@
 {% for item in folders %}
   {% if item contains "index.html" and item contains "wiki" %}
     {% assign wikifolders = wikifolders | push: item %}
+  {% endif %}
 {% endfor %}
 
 
