@@ -10,6 +10,8 @@
 {{ item }}
 {% endfor %}
 
+{{ folders }}
+
 <div class="w-100 cf">
 {% for file in site.pages | sort:"path" %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
