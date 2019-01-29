@@ -4,15 +4,23 @@
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
+{% assign folders = "" | split:"/" %}
+
+
 <div class="w-100 cf">
 {% for file in site.pages | sort:"path" %}
   {% if file.path contains "index.html" and file.path contains "wiki" %}
+    {% folders | push: file.path %}
      <div class="fl w-third-l w-100 mb1 mt1 pr4-l">
         <a class="link black" href="/{{file.path | replace:"index.html","" }}"><div class="bg-near-white pa3">{{file.path | replace:"wiki","" | replace:"index.html","" }}</div></a>
     </div>
   {% endif %}
 {% endfor %}
 </div>
+
+{% for folder in folders %}
+{{ folder }}
+{% endfor %}
 
 
 <h3>All notes</h3>
