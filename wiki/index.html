@@ -4,7 +4,7 @@
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
-{% assign folders = {{ site.pages | map: 'title' }} %}
+{% assign folders = site.pages | map: 'title' %}
 
 {% for item in folders %}
 {{ item }}
