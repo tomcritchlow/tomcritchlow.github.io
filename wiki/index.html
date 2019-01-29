@@ -8,7 +8,12 @@
 {% assign wikifolders = "" | split:"" %}
 
 {% for folder in folders %}
-{{folder.path}}
+  {% assign tempvar = folder | split:"/" %}
+  {% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% for folder in wikifolders %}
+{{folder}}
 {% endfor %}
 
 
