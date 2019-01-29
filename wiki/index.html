@@ -12,7 +12,9 @@
   {% assign wikifolders = wikifolders | push:tempvar[1] %}
 {% endfor %}
 
-{% for folder in wikifolders | uniq %}
+{% assign wikifolders = wikifolders | uniq %}
+
+{% for folder in wikifolders %}
 {{folder}}
 {% endfor %}
 
