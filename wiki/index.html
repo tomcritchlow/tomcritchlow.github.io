@@ -4,13 +4,18 @@
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
-{% assign folders = site.pages | map: 'title' %}
+{% assign folders = site.pages | map: 'path' %}
+{% assign wikifolders ="" | split:"" %}
 
 {% for item in folders %}
-{{ item }}
+  {% if item contains "index.html" and item contains "wiki" %}
+    {% assign wikifolders = wikifolders | push: item %}
 {% endfor %}
 
+
 {{ folders }}
+
+{{ wikifolders}}
 
 <div class="w-100 cf">
 {% for file in site.pages | sort:"path" %}
