@@ -12,7 +12,7 @@
   {% assign wikifolders = wikifolders | push:tempvar[1] %}
 {% endfor %}
 
-{% assign wikifolders = wikifolders | uniq %}
+{% assign wikifolders = wikifolders | uniq | sort %}
 
 {% for folder in wikifolders %}
   {% unless folder contains 'md' or folder contains 'html' %}
