@@ -16,7 +16,9 @@
 
 {% for folder in wikifolders %}
   {% unless folder contains 'md' or folder contains 'html' %}
-  {{folder}}
+    <div class="fl w-third-l w-100 mb1 mt1 pr4-l">
+      <a class="link black" href="/{{folder}}/"><div class="bg-near-white pa3">{{folder | capitalize}}</div></a>
+    </div>
   {% endunless %}
 {% endfor %}
 
