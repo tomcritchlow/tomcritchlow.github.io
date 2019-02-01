@@ -15,7 +15,9 @@
 {% assign wikifolders = wikifolders | uniq %}
 
 {% for folder in wikifolders %}
-{{folder}}
+  {% unless folder contains 'md' or folder contains 'html' %}
+  {{folder}}
+  {% endunless %}
 {% endfor %}
 
 
