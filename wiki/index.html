@@ -14,6 +14,7 @@
 
 {% assign wikifolders = wikifolders | uniq | sort %}
 
+<div class="w-100 cf">
 {% for folder in wikifolders %}
   {% unless folder contains 'md' or folder contains 'html' %}
     <div class="fl w-third-l w-100 mb1 mt1 pr4-l">
@@ -21,6 +22,7 @@
     </div>
   {% endunless %}
 {% endfor %}
+</div>
 
 <h3>All notes</h3>
 
