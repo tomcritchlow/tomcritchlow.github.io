@@ -52,9 +52,11 @@
             {% assign j = j | plus:1 %}
             {% if j == 1 %}
             <h3>Images:</h3>    
-            {% endif %}        
-        <a href="{{image.path}}" target="_blank"><img class="w-20" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
-        <div class="f6 grey">{{image.path | replace: folderfilter , ""}}</div>
+            {% endif %}
+            <div class="fl w-50">
+                <a href="{{image.path}}" target="_blank"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
+                <div class="f6 grey">{{image.path | replace: folderfilter , ""}}</div>
+            </div>        
         {% endif %}
     {% endif %}
 {% endfor %}
