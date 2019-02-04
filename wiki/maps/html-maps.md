@@ -17,3 +17,5 @@ Where are the exploratory, creative ways to build, play with and remix location-
 [Urbanimals](https://www.playablecity.com/projects/urbanimals/) from the Playable City project.
 
 [Localize.city](https://www.localize.city/) - not sure who is behind this but it's a delightful UI
+
+[A barrow by a beacon](http://barrow.matthewsheret.com/) - wonderful meditation on walking from Matthew Sheret
