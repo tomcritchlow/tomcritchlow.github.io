@@ -6,14 +6,14 @@ Why is it so hard to make maps on the web. We interact with maps all day long, b
 
 Where are the exploratory, creative ways to build, play with and remix location-based content? A few things I've seen:
 
-Hello lamppost
+[Hello lamppost](http://www.hellolamppost.co.uk/) - and the great talk where this idea is teased out [some of these things are not like the others](https://tomarmitage.com/2014/12/02/some-of-these-things-are-not-like-the-others/)
 
 [https://walkkumano.com/](https://walkkumano.com/) from Craig Mod
 
 [https://arroyo.jon-kyle.com/](https://arroyo.jon-kyle.com/) from Jon Kyle
 
-[https://bugsy.me/sunrise/january](Sunrise journal)
+[Sunrise journal](https://bugsy.me/sunrise/january)
 
-[https://www.playablecity.com/projects/urbanimals/](Urbanimals) from the Playable City project.
+[Urbanimals](https://www.playablecity.com/projects/urbanimals/) from the Playable City project.
 
-[https://www.localize.city/](Localize.city) - not sure who is behind this but it's a delightful UI
+[Localize.city](https://www.localize.city/) - not sure who is behind this but it's a delightful UI
