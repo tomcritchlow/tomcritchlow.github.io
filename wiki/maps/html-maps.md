@@ -1,5 +1,5 @@
 ---
-title: Notes on HTMl & digital maps
+title: Notes on HTML & digital maps
 ---
 
 Why is it so hard to make maps on the web. We interact with maps all day long, but only in very pre-determined ways.
