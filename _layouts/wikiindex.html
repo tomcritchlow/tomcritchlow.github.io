@@ -20,9 +20,11 @@
 {% if page.expand %}
 {% for item in notes %}
     {% unless item.path contains "index.html" %}
-    {{item.content | markdownify}}    
+    <div class="pb2">
+        <hr>
     <a class="link gray f5" href="{{item.url}}"># {{item.path}}</a></li>
-    <hr>
+    {{item.content | markdownify}}    
+    </div>
     {% endunless %}
 {% endfor %}
 {% else %}
