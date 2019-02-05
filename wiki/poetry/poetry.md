@@ -60,7 +60,7 @@ And forced the underbrush--and that was all.
 
 --
 
->We are, I am, you are
+We are, I am, you are
 by cowardice or courage
 the one who find our way
 back to this scene
@@ -71,8 +71,21 @@ our names do not appear.
 
 [Diving into the wreck by Adrienne Rich](http://www.poets.org/poetsorg/poem/diving-wreck)
 
+--
 
+I prove a theorem and the house expands:
+the windows jerk free to hover near the ceiling,
+the ceiling floats away with a sigh.
 
+As the walls clear themselves of everything
+but transparency, the scent of carnations
+leaves with them. I am out in the open
+
+And above the windows have hinged into butterflies,
+sunlight glinting where they've intersected.
+They are going to some point true and unproven.
+
+[Geometry by Rita Dove](https://twitter.com/tomcritchlow/status/1046068303318462464)
 
 <script>
 	
