@@ -7,6 +7,6 @@
 
 [Austin Kleon's parenting tag](http://tumblr.austinkleon.com/tagged/parenting)
 
-[Gil Scott Heron - Your Daddy Loves You](https://www.youtube.com/watch?v=sD9Ku5qEPjQ)
+[Gil Scott Heron - Your Daddy Loves You](https://www.youtube.com/watch?v=uhAGRzT4bio)
 
 [Cat's in the cradle](https://www.youtube.com/watch?v=KUwjNBjqR-c)

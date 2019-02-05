@@ -2,7 +2,7 @@
 title: Some of my favourite poems
 ---
 
->But the sea
+But the sea
 which no one tends
 is also a garden
 
@@ -10,13 +10,13 @@ is also a garden
 
 --
 
->First, The fish needs to say, “Something ain’t right about this Camel ride – And I’m Feeling so damn Thirsty.”
+First, The fish needs to say, “Something ain’t right about this Camel ride – And I’m Feeling so damn Thirsty.”
 
 Hafiz
 
 --
 
->And we all say: OH!
+And we all say: OH!
 Well I never!
 Was there ever
 A Cat so clever
@@ -26,14 +26,14 @@ As Magical Mr. Mistoffelees!
 
 --
 
->So the darkness shall be the light, and the stillness the dancing.
+So the darkness shall be the light, and the stillness the dancing.
 Whisper of running streams, and winter lightning.
 
-[The Four Quartets by TS Eliot](http://www.coldbacon.com/poems/fq.html)
+[From: The Four Quartets by TS Eliot](http://www.coldbacon.com/poems/fq.html)
 
 --
 
->In the summer
+In the summer
 I stretch out on the shore
 And think of you
 Had I told the sea
@@ -47,7 +47,7 @@ Nizar Qabbani
 
 --
 
->But after a time allowed for it to swim,
+But after a time allowed for it to swim,
 Instead of proving human when it neared
 And someone else additional to him,
 As a great buck it powerfully appeared,
