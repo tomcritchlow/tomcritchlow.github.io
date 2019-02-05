@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: Some of my favourite poems
 ---
 
