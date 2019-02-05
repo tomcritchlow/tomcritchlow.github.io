@@ -4,15 +4,15 @@ title: Novels about consultants
 books:
  - title: Pattern Recognition
    author: William Gibson
-   link: https://www.amazon.com/dp/B0756K1Q8D/
-   notes: A wonderful original work - full of interesting characters. Ghosts! Spys! Old London! Really enjoyed this and tore through it super fast.
+   link: https://www.amazon.com/dp/B000OCXGVY/
+   notes: The consultant allergic to brands.
  - title: Satin Island
    author: Tom McCarthy
-   link: https://www.amazon.com/dp/B004W3FM4A/
-   notes: Great unique book, wonderful analogy to finite and infinite writing....
+   link: https://www.amazon.com/dp/B00MZWA678/
+   notes: Writing the great report
  - title: The Sleep Consultant
    author: Robin Sloan
    link: https://www.amazon.com/dp/B01N0Z1EY0
    image: /images/sleepconsultant.jpg
-   notes: Provocative premise but I felt it squandered an opportunity at a deeper political and/or emotional exploration of what would happen if teenage girls gained a new incredible power. Somehow it resorted to.... fucking and fighting?
+   notes: A one-off print run zine fiction from Robin Sloan. The corporate sleep consultant asleep for 5 years.
 ---
