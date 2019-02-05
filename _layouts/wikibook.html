@@ -35,7 +35,7 @@
 <div class="w-75 fl pa4-l pl3">
   <h2 class="ma0">{{book.title}}</h2>
   <h3 class="ma0">by {{book.author}}</h3>
-  <div class="gray f5 mt2 mb2">Finished on {{book.date_finished}}</div>
+  {% if book.date_finished %}<div class="gray f5 mt2 mb2">Finished on {{book.date_finished}}</div>{% endif %}
   <p class="">{{book.notes}}</p>
 </div>
 
