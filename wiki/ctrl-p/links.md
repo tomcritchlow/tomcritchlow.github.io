@@ -3,6 +3,8 @@
 
 http://johncaserta.com/webtoprint.html
 
+http://htmloutput.risd.gd/
+
 >It was the practice when I worked at Stamen to create a stand-alone weblog for every project we did. This is where we would post ideas and updates for clients throughout the length of a contract. We posted a lot of screenshots and over time these websites became increasingly valuable to the studio itself. They allowed us to see the evolution of our thinking as well as otherwise good ideas that didn't fit the needs of a project.
 
 https://www.aaronland.info/weblog/2019/01/30/something/#millsfield
