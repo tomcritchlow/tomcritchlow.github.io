@@ -25,11 +25,36 @@ The solution I settled on I think covers most of these (though could also be imp
 
 https://www.inkandswitch.com/capstone-manuscript.html
 
-So I set out to build something that would solve the problems of [stock & flow](http://snarkmarket.com/2010/4890), [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and a digital garden.
+So I set out to build something that would solve the problems of [stock & flow](http://snarkmarket.com/2010/4890), [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and a digital garden. Let's unpack those one by one:
+
+## Longevity, text files and folders
+
+The realization that started this project was thinking about publishing in triplicate - an idea I've thought of a few times on the power of my blog. When I publish an article it's published to 
+
+## Creativity is about collecting the dots
+
+The phrase "connecting the dots" is much more commonly used but the truth is that creativity begins by collecting the dots before you can connect them. And no, just consuming media is not "collecting" anything.
+
+>But ideas aren’t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.
+
+https://www.inkandswitch.com/capstone-manuscript.html
+
+The slow hunch: https://www.youtube.com/watch?v=0af00UcTO-c
 
 
+## Some other interesting wikis
 
-Inspired by http://daywreckers.com/ & arena
+https://buster.wiki/ - too structured for my personal taste? Strong design though (and has a latest updated feed which, for now, I've intentionally not built in)
+
+are.na
+
+https://www.brendanschlagel.com/2017/11/05/canonize-creating-personal-canon-template/
+
+http://worrydream.com/#!/quotes
+
+Inspired by http://daywreckers.com/
+
+
 
 Creativity lies in research (the slow hunch). Collecting.
 
