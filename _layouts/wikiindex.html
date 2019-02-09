@@ -57,6 +57,7 @@
 {% assign j = 0 %}
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
+        {% if image.path contains "jpg" or image.path contains "jpeg" or image.path contains "png" %}    
             {% assign j = i | plus:1 %}
             {% if j == 1 %}
             <div class="w-100 cb"></div>
@@ -66,6 +67,7 @@
                 <a href="{{image.path}}" target="_blank"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
                 <div class="f6 grey">{{image.path | replace: folderfilter , ""}}</div>
             </div>        
+        {% endif %}
     {% endif %}
 {% endfor %}
     
