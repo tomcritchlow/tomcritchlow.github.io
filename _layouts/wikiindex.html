@@ -41,7 +41,6 @@
 <div class="fl w-40-l w-100 min-h5">
 
 {% assign i = 0 %}
-{% assign j = 0 %}
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         {% if image.path contains "pdf" or image.path contains "txt" %}
@@ -51,8 +50,15 @@
             <h3>Files:</h3>    
             {% endif %}
             <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
-        {% else %}
-            {% assign j = j | plus:1 %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+{% assign j = 0 %}
+{% for image in site.static_files %}
+    {% if image.path contains folderfilter %}
+        {% if image.path contains "pdf" or image.path contains "txt" %}
+            {% assign j = i | plus:1 %}
             {% if j == 1 %}
             <div class="w-100 cb"></div>
             <h3>Images:</h3>    
@@ -64,6 +70,7 @@
         {% endif %}
     {% endif %}
 {% endfor %}
+    
 </div>
 
 </div>
