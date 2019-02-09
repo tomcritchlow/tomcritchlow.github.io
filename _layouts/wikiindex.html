@@ -58,7 +58,7 @@
 {% for image in site.static_files %}
     {% if image.path contains folderfilter %}
         {% if image.path contains "jpg" or image.path contains "jpeg" or image.path contains "png" %}    
-            {% assign j = i | plus:1 %}
+            {% assign j = j | plus:1 %}
             {% if j == 1 %}
             <div class="w-100 cb"></div>
             <h3>Images:</h3>    
