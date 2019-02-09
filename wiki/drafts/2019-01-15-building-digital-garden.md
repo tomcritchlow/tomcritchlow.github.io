@@ -5,7 +5,7 @@ subtitle: How I built myself a simple wiki using folders and files and published
 draft: true
 ---
 
-![](/images/digital-garden-clean.jpg)
+![](/images/digital-garden-cleaned.jpg)
 
 For a while I've been left unsatisfied by the combination of twitter+blogging.
 
