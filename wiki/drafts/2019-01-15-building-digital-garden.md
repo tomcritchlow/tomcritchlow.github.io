@@ -45,9 +45,9 @@ Here's how it works:
 
 It's social in the same way URLs are social.
 
-With this beautiful illustration from [Erin Przekop](http://erinprz.com)
-
-
-
-
 https://sivers.org/dj
+
+
+By the way - the illustration at the top was done by my wonderful partner [Erin Przekop](http://erinprz.com). If you like what you see check out [her picture book](http://erinprz.com/journey/) that's hitting the shelves in 2019!
+
+
