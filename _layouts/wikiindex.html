@@ -47,6 +47,7 @@
         {% if image.path contains "pdf" or image.path contains "txt" %}
             {% assign i = i | plus:1 %}
             {% if i == 1 %}
+            <div class="w-100 cb"></div>
             <h3>Files:</h3>    
             {% endif %}
             <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
