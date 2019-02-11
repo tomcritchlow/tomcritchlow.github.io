@@ -24,6 +24,8 @@ You can see it for yourself with the JS enabled here:
 
 ![](/images/hypothesis-annotations.png)
 
+Play around with it yourself on [this demo page I set up](/annotations-hypothesis/).
+
 Some observations:
 - By having the comment "drawer" on the side always present it interferes with the site's UX (on this site for example the arrow to expand the comments overlaps the menu on mobile)
 - The close icon overlaps the main site underneath so often on mobile if I click the "close drawer" icon I also hit the logo for the site booting me back to the homepage.
@@ -35,6 +37,8 @@ Some observations:
 Genius is basically "the other" annotation layer for the web and is sometimes even used by "real" newsrooms. Likely because of the polished UI. You can see it for yourself here.
 
 ![](/images/genius-annotations.png)
+
+Play around with it yourself on [this demo page I set  up](/annotations-genius/).
 
 Some observations:
 
