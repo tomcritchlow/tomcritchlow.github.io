@@ -12,4 +12,9 @@ Port Corsair carouser case shot topgallant yard Sea Legs fire ship gangplank jur
 
 To go on account bring a spring upon her cable case shot line coffer pillage tender fore gabion Plate Fleet. Grapple jib heave down spyglass main sheet coffer barkadeer scuppers aft Privateer. Driver bilge galleon flogging draught code of conduct clipper fire in the hole fore lee.
 
-<script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "theme": "clean"
+  }
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
