@@ -38,3 +38,5 @@ Finding marketing talent is hard and I have a lot of experience hiring, training
 --
 
 Please get in touch: <tjcritchlow@gmail.com> / 917 414 9121
+
+<script async src="//genius.codes"></script>
