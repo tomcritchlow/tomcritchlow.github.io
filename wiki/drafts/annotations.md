@@ -30,6 +30,7 @@ Some observations:
 - By having the comment "drawer" on the side always present it interferes with the site's UX (on this site for example the arrow to expand the comments overlaps the menu on mobile)
 - The close icon overlaps the main site underneath so often on mobile if I click the "close drawer" icon I also hit the logo for the site booting me back to the homepage.
 - Features-wise it's likely the most robust with support for groups, threading etc etc.
+- Note their [new experimental UI](https://h.readthedocs.io/projects/client/en/latest/publishers/config/#config-settings) is a little cleaner but still doesn't feel like it's pleasureable to use
 
 
 ## Genius
