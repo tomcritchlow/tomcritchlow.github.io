@@ -1,5 +1,7 @@
 ---
 title: Annotations for the web
+layout: blog
+draft: true
 ---
 
 In my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in the writing. In particular - the idea that comments are actually the interesting unit of the blog, not the post.
