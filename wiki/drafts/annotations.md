@@ -65,22 +65,23 @@ Ultimately, I'm betting on Hypothesis as the winner - I'd love to see them becom
 
 There's one "what if..." though.
 
-Quartz has QZ has always wanted to do this:
+Quartz has been dabbling in annotations ever since they launched. This is a screenshot of in-line annotations from 2013:
 
 ![](https://gigaom.com/wp-content/uploads/sites/1/2013/08/05_loggedinfull-804x455.png)
 
-And now runs like this:
+They walked that back a while ago but after their acquisition recently they have a commenting flow for members that allows you to share any URL with an "annotation" that you can share via Twitter. It creates a commenting layer of sorts for the web. See it in action by clicking the link here:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow. What a move. And good writing, even! via <a href="https://twitter.com/qz?ref_src=twsrc%5Etfw">@qz</a> <a href="https://t.co/n8ZTj42ugc">https://t.co/n8ZTj42ugc</a></p>&mdash; Dan Frommer (@fromedome) <a href="https://twitter.com/fromedome/status/1093648237318336513?ref_src=twsrc%5Etfw">February 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-Medium also has a similar Tweet-based annotation flow that looks like this:
+Medium also has a similar Tweet-based annotation flow that looks like this. Highlighting text shows the in-line tweet CTA:
 
 ![](/images/medium-tweet-1.png)
 
+And a custom image is generated showing the highlighted text which makes the whole flow feel  very polished:
+
 ![](/images/medium-tweet-2.png)
 
-What if twitter built an annotation tool - something to allow you to grab a quote from any web-page and tweet it (with a link back to the in-line document).
+So, what if Twitter built an annotation / commenting platform that provided some of the same functionality to create in-line annotations and comments all anchored around Twitter with the conversation weaving back and forth between publisher site's content and Twitter stream.
 
-https://indieweb.org/marginalia
+Seems like a long shot but it's fun to dream. Still feels like Hypothesis is going to win here eventually. I'm rooting for them!
