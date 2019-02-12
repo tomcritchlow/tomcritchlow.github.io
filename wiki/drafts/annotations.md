@@ -67,11 +67,19 @@ There's one "what if..." though.
 
 Quartz has QZ has always wanted to do this:
 
-https://gigaom.com/wp-content/uploads/sites/1/2013/08/05_loggedinfull-804x455.png
+![](https://gigaom.com/wp-content/uploads/sites/1/2013/08/05_loggedinfull-804x455.png)
 
 And now runs like this:
 
-https://twitter.com/fromedome/status/1093648237318336513
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow. What a move. And good writing, even! via <a href="https://twitter.com/qz?ref_src=twsrc%5Etfw">@qz</a> <a href="https://t.co/n8ZTj42ugc">https://t.co/n8ZTj42ugc</a></p>&mdash; Dan Frommer (@fromedome) <a href="https://twitter.com/fromedome/status/1093648237318336513?ref_src=twsrc%5Etfw">February 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Medium also has a similar Tweet-based annotation flow that looks like this:
+
+![](/images/medium-tweet-1.png)
+
+![](/images/medium-tweet-2.png)
 
 What if twitter built an annotation tool - something to allow you to grab a quote from any web-page and tweet it (with a link back to the in-line document).
 
