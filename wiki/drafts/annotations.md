@@ -85,3 +85,5 @@ And a custom image is generated showing the highlighted text which makes the who
 So, what if Twitter built an annotation / commenting platform that provided some of the same functionality to create in-line annotations and comments all anchored around Twitter with the conversation weaving back and forth between publisher site's content and Twitter stream.
 
 Seems like a long shot but it's fun to dream. Still feels like Hypothesis is going to win here eventually. I'm rooting for them!
+
+What am I missing about annotations for the web? I'm sure there's a rich history here that I'm missing...
