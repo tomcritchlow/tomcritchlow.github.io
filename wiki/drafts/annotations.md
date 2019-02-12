@@ -4,9 +4,9 @@ layout: blog
 draft: true
 ---
 
-In my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in the writing. In particular - the idea that comments are actually the interesting unit of the blog, not the post.
+In my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in networked writing. In particular, I have a theory that the comments are actually the interesting unit of the blog, not the post.
 
-> . The idea that blogs exist within the network is crucial to understanding the medium (the medium is the message - could one say the blogosphere is the blog?).
+> The idea that blogs exist within the network is crucial to understanding the medium (the medium is the message - could one say the blogosphere is the blog?).
 
 This has been bubbling in my mind for a long time with no satisfactory way forward but it came up again because of the Augmenting Human Intellect project which is going on right now. It looks like a lot of fun and is very interesting - it's basically a crowd-swarm of in-line commenting on Douglas Engelbart's famous paper Augmenting Human Intellect.
 
@@ -14,73 +14,65 @@ You can read the [background on the project here](https://cogdogblog.com/2019/02
 
 And you can see [the paper and annotations live here](http://dougengelbart.org/content/view/138/000/).
 
-Great! Except... it all runs on top of Hypothesis. I know very little about them but it really seems like they're trying very hard to build a robust, long-term utility for the web which is awesome. Except their UI leaves a lot to be desired. Especially on mobile.
+Great! Except... it all runs on top of [Hypothesis](https://web.hypothes.is/). I know very little about them but it really seems like they're trying very hard to build a robust, long-term utility for the web which is awesome. Except their UI leaves a lot to be desired. Especially on mobile.
 
 So it felt like a good time to take a quick peek at a few common design patterns and think about some ways forward.
 
 ## Hypothesis
 
-You can see it for yourself with the JS enabled here:
+The Hypothesis annotation layer is typically displayed by default. You can see some common mobile screens here:
 
 ![](/images/hypothesis-annotations.png)
 
-Play around with it yourself on [this demo page I set up](/annotations-hypothesis/).
+And you can play around with it yourself on [this demo page I set up](/annotations-hypothesis/).
 
 Some observations:
-- By having the comment "drawer" on the side always present it interferes with the site's UX (on this site for example the arrow to expand the comments overlaps the menu on mobile)
-- The close icon overlaps the main site underneath so often on mobile if I click the "close drawer" icon I also hit the logo for the site booting me back to the homepage.
-- Features-wise it's likely the most robust with support for groups, threading etc etc.
-- Note their [new experimental UI](https://h.readthedocs.io/projects/client/en/latest/publishers/config/#config-settings) is a little cleaner but still doesn't feel like it's pleasureable to use
-
+- By having the comment "drawer" on the side always on it is a very prominent and visual part of the page. It's hard to implement without "getting in the way" of the page design. I'm sure there are options to install hidden by default but this default design pattern matters.
+- The open and close UX interferes with the site's UX (on my site for example opening and closing the drawer can interfere with the home, menu links causing a page transition)
+- Features-wise, it's the best tool out there - there's options for public/private/closed groups, threading annotations, annotating PDFs and more. There's also a robust ecosystem of tools to follow users, monitor site annotations etc.
+- Note their [new experimental UI](https://h.readthedocs.io/projects/client/en/latest/publishers/config/#cmdoption-arg-theme) is a little cleaner but still doesn't feel like it's a joy to use.
 
 ## Genius
 
-Genius is basically "the other" annotation layer for the web and is sometimes even used by "real" newsrooms. Likely because of the polished UI. You can see it for yourself here.
+Genius is basically "the other" annotation layer for the web and is sometimes even used by "real" newsrooms. Likely because of the polished UI. Some common mobile screens:
 
 ![](/images/genius-annotations.png)
 
-Play around with it yourself on [this demo page I set  up](/annotations-genius/).
+And you can play around with it yourself on [this demo page I set  up](/annotations-genius/).
 
 Some observations:
 
-- Overall the flow is much cleaner and clearer here.
-- On desktop the "annotate" call to action is in-line but on mobile is a button at the bottom of the screen which just side-steps a bunch of headaches and makes it much easier to use.
-- Signup flow is clean.
+- The annotation layer is hidden by default which feels like a more respectful design choice.
+- The "X" to close the annotation layer is in the "right" place and doesn't interfere with the page underneath.
+- Overall the flow is much cleaner and more polished - everything from leaving an annotation to signing up is more familiar and clear.
+- On desktop the "annotate" call to action is in-line but on mobile is a button at the bottom of the screen. This side-steps a bunch of UX headaches and makes it much easier to use.
+- Genius is VC-backed and doesn't have the cleanest track record so I have very little faith that you can rely on Genius for annotations in the long-term, or how they might be tracking you across the web when you interact with it.
 
 ## Google Docs
 
-While Google docs certainly doesn't feel very web-native and in some ways is pretty web-hostile they have a very robust workflow around commenting. I'd venture to say their commenting UX is best in class. I use it all day every day, on mobile and desktop.
+While Google docs certainly doesn't feel very web-native and in some ways is pretty web-hostile they have a very robust workflow around commenting. I'd venture to say their commenting UX is best in class. I use it all day every day, on mobile and desktop. Some screens:
 
 ![](/images/gdocs-annotations.png)
 
-Obviously - they have an advantage being a native app rather than a web-page but here's some observations:
+Obviously, they have a lot of advantage by being a native app but some observations:
+- The ability to +mention someone in a comment is likely *the* killer feature for gdocs comments.
+- By being a native app they get the ability to add "add comment" into the native highlight functionality which solves all of the traditional UX headaches
+- The comment layer on mobile appears at the bottom of the screen and you can swipe through them horizontally which allows for viewing comments and content at once which is a very useful feature.
 
-- 
-
-I love Hypothesis! It feels robust but their UI leaves a little to be desired. Especially on mobile.
-
-Compare:
-
-Google Docs
-Genius
-Hypothesis
-
-
-desktop/mobile UI flows.
-
-What is the future of annotations?
-
-What if twitter built an annotation tool - something to allow you to grab a quote from any web-page and tweet it (with a link back to the in-line document).
-
-https://medium.com/@liza/interactive-marginalia-f39424877d73
-https://indieweb.org/marginalia
+Ultimately, I'm betting on Hypothesis as the winner - I'd love to see them become more widely used. From what I can see their business is better structured to be a long-term stable and sustainable part of the open web. Hopefully they can adopt some of the UX patterns from Genius and Gdocs to make things smoother!
 
 ## Twitter as the annotation layer for the web
 
-QZ has always wanted to do this:
+There's one "what if..." though.
+
+Quartz has QZ has always wanted to do this:
 
 https://gigaom.com/wp-content/uploads/sites/1/2013/08/05_loggedinfull-804x455.png
 
 And now runs like this:
 
 https://twitter.com/fromedome/status/1093648237318336513
+
+What if twitter built an annotation tool - something to allow you to grab a quote from any web-page and tweet it (with a link back to the in-line document).
+
+https://indieweb.org/marginalia
