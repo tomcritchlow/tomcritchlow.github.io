@@ -141,21 +141,18 @@ I remember a few years ago when my consulting work slowed down slightly and I to
 
 Many times titles and labels are a show of power. Some display of strength over others. **I have this label** is the same as saying **I have this power**.
 
-Perhaps a better mental model would be poetry instead of power. No one has claims on anyone else and part of the freedom of being independent is breaking free from some of those traditional power structures.
+I’d encourage you to think of poetry instead of power. No one has claims on anyone else and part of the freedom of being independent is breaking free from some of those traditional power structures.
 
-<span class="contributor">TS: Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words. I wonder if we could include a few lines of poetry we like :)</span>
-
-So use this texture of labels and language in new and interesting ways. 
+Use language and labels as a texture to provide as much psychological safety and identity as you need. If you feel less secure - choose labels that are well-understood. If you need to feel like an outsider - choose labels that are unique and unusual. If you want to be weird, be weird. You can hold a poetry over your own identity this way. Bewitching yourself is completely allowed.
 
 From the book *Finite & Infinite Games*:
 
 > “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.” 
 
+<span class="contributor">TS: Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words.</span>
+
 So play with labels, understand their power not over others but over ourselves. Understand their ability to provide shelter in the capitalist storm and then, eventually, discard them entirely and embrace the poetry of life.
 
-Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words. I wonder if we could include a few lines of poetry we like :)
-
-https://news.ycombinator.com/item?id=19133026
 
 <style>
     .contributor{
