@@ -17,6 +17,18 @@ To go on account bring a spring upon her cable case shot line coffer pillage ten
     "openSidebar": false,
     "theme": "clean"
   }
+
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+    }
+  };
+};
+
 </script>
 
 <script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
