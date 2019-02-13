@@ -143,7 +143,9 @@ Enacting a revisionist history for your work together
 
 Many times titles and labels are a show of power. Some display of strength over others. **I have this label** is the same as saying **I have this power**.
 
-I’d encourage you to think of poetry instead of power. No one has claims on anyone else and part of the freedom of being independent is breaking free from some of those traditional power structures.
+Perhaps a better mental model would be poetry instead of power. No one has claims on anyone else and part of the freedom of being independent is breaking free from some of those traditional power structures.
+
+{% include contributor.html with content="Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words. I wonder if we could include a few lines of poetry we like :)" author="tobyshorin" image="tobyimage.png" %}
 
 So use this texture of labels and language in new and interesting ways. 
 
