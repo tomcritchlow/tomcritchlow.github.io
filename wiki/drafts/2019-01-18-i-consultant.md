@@ -22,7 +22,7 @@ This can feel like "soft" work - somehow less important than the "real" work of 
 
 These questions all hinge on the notion of identity.
 
-<span class="contributor">This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?] 
+<span class="contributor">Toby Shorin: This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?] 
 Additional confirmation for the role-label is also also provided by the corporation’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity.
 “Imposter syndrome” is simply the neurotic inability to accept the confirmation and recognition of one’s role-label from others.</span>
 
@@ -48,7 +48,7 @@ If you’ve done client work before, it might feel instinctive to use whatever w
 
 As you head into the unknown of independent work you should worry less about this label - **no one will care about is as much as you do** - and it’s less an absolute definition of who you are and more a process of growing into the person you want to be.
 
-When I read it these last 3 sentences for the first time, I felt some sense of relief! I think they are important because they acknowledge the unspoken angst everyone has about these particular labels. I would like to see that more specifically pointed out and perhaps expanded on.
+<span class="contributor">TS: When I read it these last 3 sentences for the first time, I felt some sense of relief! I think they are important because they acknowledge the unspoken angst everyone has about these particular labels. I would like to see that more specifically pointed out and perhaps expanded on.</span>
 
 It’s safe, normal and expected to play with a range of labels as you move through different experiences and gain confidence. As you move from nervous beginner to confident expert, the language evolves. Maybe something like{% include tufte-sn.html id="labels" content="This is just an example! Don’t feel confined by my (or anyone’s!) labels!" %}:
 
