@@ -6,6 +6,8 @@ draft: true
 tags: strategy
 ---
 
+*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="byline" content="This post is co-written with my good friend Toby Shorin of <a href="https://subpixel.space">Subpixel Space</a>. Toby has contributed edits throughout the piece but also specific sections marked in-line" %}
+
 The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
 
 When you’re fully employed, we get a steady paycheck but we also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example). When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
