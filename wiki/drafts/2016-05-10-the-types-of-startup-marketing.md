@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 title: The Types of Content Marketing for Startups
