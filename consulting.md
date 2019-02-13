@@ -13,7 +13,7 @@ I think of clients like partners and typically don't get hired to make spreadshe
 
 As an independent consultant the work I do is varied and always tailored to the client's needs. Here's some past projects to help you get a feel for the kind of work I do:
 
-I've worked with media companies such as **The New York Times**, **The Wirecutter**, **Ziff David**, **Finder**, **Essence Magazine**, **Dotdash** and **Complex Media** on audience development, SEO and content distribution.
+I've worked with media companies such as **The New York Times**, **The Wirecutter**, **Ziff Davis**, **Finder**, **Essence Magazine**, **Dotdash** and **Complex Media** on audience development, SEO and content distribution.
 
 I've worked with startups such as **Olapic**, **Fundera** and **Seatgeek** as an advisor - whether as interim CMO, strategy consultant or helping to build the marketing team from scratch.
 
