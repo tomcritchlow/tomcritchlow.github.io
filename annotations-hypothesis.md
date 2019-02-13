@@ -17,6 +17,11 @@ To go on account bring a spring upon her cable case shot line coffer pillage ten
     "openSidebar": false,
     "theme": "clean"
   }
+</script>
+
+<script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
+
+<script type="text/javascript">
 
 window.hypothesisConfig = function () {
   return {
@@ -30,5 +35,3 @@ window.hypothesisConfig = function () {
 };
 
 </script>
-
-<script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
