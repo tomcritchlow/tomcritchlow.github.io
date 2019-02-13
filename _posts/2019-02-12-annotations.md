@@ -87,3 +87,31 @@ So, what if Twitter built an annotation / commenting platform that provided some
 Seems like a long shot but it's fun to dream. Still feels like Hypothesis is going to win here eventually. I'm rooting for them!
 
 What am I missing about annotations for the web? I'm sure there's a rich history here that I'm missing...
+
+--
+
+*Update: I just installed hypothesis by default on this page too to test out some new UI and to expose by default some commentary that's happening there too.*
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": false,
+    "theme": "clean"
+  }
+</script>
+
+<script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
+
+<script type="text/javascript">
+
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+    }
+  };
+};
+
+</script>
