@@ -6,7 +6,7 @@ draft: true
 tags: strategy
 ---
 
-*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="byline" content="This post is co-written with my good friend Toby Shorin of <a href='https://subpixel.space'>Subpixel Space</a>. Toby has contributed edits throughout the piece but also specific sections marked in-line" %}
+*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="byline" content="This post is co-written with my good friend Toby Shorin of <a href='https://subpixel.space'>Subpixel Space</a>. Toby has contributed edits throughout the piece but also specific sections <span class='contributor'>marked in-line in purple</span>" %}
 
 The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
 
@@ -163,7 +163,7 @@ https://news.ycombinator.com/item?id=19133026
 
 <style>
     .contributor{
-        background-color:#222890;
+        background-color:rgba(34, 40, 144, .3);
         font-style:italic;
     }
     </style>
