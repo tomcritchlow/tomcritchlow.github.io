@@ -95,7 +95,7 @@ So this idea of creating a professional identity via your independent work is im
 
 For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice{% include tufte-sn.html id="yesand" content="I wrestled with a professional identity a while back in this post <a href=’https://tomcritchlow.com/2016/08/01/brand/’>Why I've decided not to launch a brand for my consulting work</a>. While I decided not to create a website and ‘branding’ for this agency called Yes, and… I did end up forming an LLC and use that construct on all my invoices." %}.
 
-How do you develop a capitalist construct? For me, it’s as simple as leaning on the word “consultant”. To me, it implies authority and an associated price tag. For others, creating a “studio” branding might be the construct needed to charge well.
+How do you develop a capitalist construct? For me, it’s as simple as leaning on the word “consultant”. To me, it implies authority and an associated price tag. For others, creating a “studio” branding might be the construct needed to charge well{% include tufte-sn.html id="naming" content="My friend <a href='https://thogenhaven.com/'>Thomas</a> makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced." %}.
 
 The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use).
 
