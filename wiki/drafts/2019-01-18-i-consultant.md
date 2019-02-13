@@ -101,7 +101,7 @@ How do you develop a capitalist construct? For me, it’s as simple as leaning o
 
 The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="hn" content="For more infor on the relationship between freelancing and trading time for money check out <a href='https://news.ycombinator.com/item?id=19133026'>this hacker news thread</a>. As with all HN threads there's a few gems in there surrounded by garbage." %}.
 
-A crucial distinction that needs to be made by the time we get to the “psychic armor” section is that there are indeed multiple identities—we have an identity, a certain way of being, at work, at home, with our kids, with our friends… etc. And within that we have different permutations, micro-identities if you will, for sales, for lengthy engagements, for clients we don’t like… Especially in this section we are talking about creating the “clients + sales” construct, and how to step into that one particular persona, so it needs to be clear by now that these different roles exist. We shouldn’t be encouraging people to merge their work and other identities more than is natural for them. Maybe the section below needs to come first and be expanded? Actually, it might come earlier than that, perhaps in the introduction even…..
+<span class="contributor">TS: A crucial distinction that needs to be made by the time we get to the “psychic armor” section is that there are indeed multiple identities—we have an identity, a certain way of being, at work, at home, with our kids, with our friends… etc. And within that we have different permutations, micro-identities if you will, for sales, for lengthy engagements, for clients we don’t like… Especially in this section we are talking about creating the “clients + sales” construct, and how to step into that one particular persona, so it needs to be clear by now that these different roles exist. We shouldn’t be encouraging people to merge their work and other identities more than is natural for them. Maybe the section below needs to come first and be expanded? Actually, it might come earlier than that, perhaps in the introduction even…..</span>
 
 ## The Angst of Reconciling Professional & Personal Identities
 
@@ -136,10 +136,6 @@ I’ve been faced with this question no fewer than 5 times over the course of my
 All of these questions and a million more come to mind when a client offers you a full time role. The reason this question is able to throw you for a loop is because it challenges your self-made identity (or identities). It directly confronts and questions your ability to stand behind the labels you’ve chosen - by placing them in contrast to the “authoritative” and “well-understood” and “recognizable” label that they’re offering you.
 
 I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director{% include tufte-sn.html id="cd" content="Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends…." %} at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
-
-When a company pierces through your armor
-Making a claim on your identity
-Enacting a revisionist history for your work together
 
 ## Poetry over Power
 
