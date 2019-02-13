@@ -22,9 +22,9 @@ This can feel like "soft" work - somehow less important than the "real" work of 
 
 These questions all hinge on the notion of identity.
 
-This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?] 
+<span class="contributor">This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?] 
 Additional confirmation for the role-label is also also provided by the corporation’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity.
-“Imposter syndrome” is simply the neurotic inability to accept the confirmation and recognition of one’s role-label from others.
+“Imposter syndrome” is simply the neurotic inability to accept the confirmation and recognition of one’s role-label from others.</span>
 
 In this piece I’m going to argue that it’s important to recognize the power of language and labels - and understand that we can use a range of labels in different situations that serve a range of purposes, many unrelated to external positioning.
 
