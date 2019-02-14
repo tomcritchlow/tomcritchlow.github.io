@@ -231,7 +231,7 @@ By sharing these ways of seeing with your client you can develop a shared perspe
 
 <div class="epigraph">
           <blockquote>
-            <p>“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has bee able to situate itself in history.” </p>
+            <p>“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has been able to situate itself in history.” </p>
             <footer>John Berger - ways of seeing</footer>
           </blockquote>          
         </div>
