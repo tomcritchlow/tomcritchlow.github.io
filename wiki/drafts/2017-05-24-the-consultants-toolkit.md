@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog-new
 title: The Consulting Toolkit
 subtitle: How to choose the right medium for change.
 ---
@@ -12,7 +12,7 @@ First things first let's take a look at some basics. When you're trying to make 
 
 ![](/images/grain/write_upwards.png)
 
-I always try and follow this model and will switch between formats and medium often during a consulting engagement depending on the work. For example - here's a taste of the range of work produced during a single client engagement (some work I did for the New York Times Cooking site a few years back).
+I always try and follow this model and will switch between formats and medium often during a consulting engagement depending on the work. For example - here's a taste of the range of work produced during a single client engagement (some work I did for the New York Times Cooking site a few years back){% include tufte-sn.html id="consultant" content="This is largely because I used the term ‘consulting’ when I was doing client work at the agency Distilled pre-Google." %}.
 
 ![](/images/grain/grain_screenshots_traditional.png)
 

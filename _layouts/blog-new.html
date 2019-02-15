@@ -1,0 +1,103 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
+
+
+
+<style>
+h1, h2, h3{
+  font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+h1{
+  margin-top:2em;
+}
+
+h2,h3 {
+  padding-top:2em;
+}
+
+.postcontainer p{
+  line-height:1.8em;
+}
+
+</style>
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
+  
+  <div class="pt4 w-two-thirds-ns">
+  
+      <h1 class="f2 f1-l fw8 lh-solid mv2 posttitle">{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <h2 class="f3 fw3 lh-copy mv2">{{page.subtitle}}</h2>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="f5 f6-s ttu black-20 pv3">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+  </div>
+  
+  
+  <div class="w-two-thirds-ns">
+  
+  {{content}}
+
+
+  <hr class="w3 mv5">
+
+  <div class="Previous-next f6 cf pb4">
+    {% if page.previous.url %}
+    <div class="fl w-40">
+    <span class="ttu tracked">⇜ PREVIOUS</span><br>
+      <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="fr w-40 tr">
+    <span class="ttu tracked">NEXT ⇝</span><br>
+      <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
+    </div>
+    {% endif %}
+  </div>
+
+<div class="f5 i">
+  This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
+</div>
+
+
+
+
+
+
+  <div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+    this.page.url = "http://tomcritchlow.com"+"{{page.url}}"; 
+    this.page.identifier = "{{page.id}}"; 
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//tomcritchlow.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                    
+
+</div>
+</div>
+
+{% if page.draft == true %}
+<div class="absolute f2 red top-2 tc w-100">
+  DRAFT
+</div>
+{% endif %}
+
+
+{% include footer.html %}
