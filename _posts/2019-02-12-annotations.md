@@ -98,6 +98,10 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 <script src="https://gist.github.com/tomcritchlow/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
 
+--
+
+*Update 3: Fascinating discussion around a new "link to specific word" web-spec here: <a href="https://news.ycombinator.com/item?id=19168442">https://news.ycombinator.com/item?id=19168442</a> (the usual disclaimers about HN being a garbage fire hold)*
+
 <script type="application/json" class="js-hypothesis-config">
   {
     "openSidebar": false,
