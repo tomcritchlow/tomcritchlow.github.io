@@ -4,7 +4,7 @@ title: The Consulting Toolkit
 subtitle: How to choose the right medium for change.
 ---
 
-Should I include something about scraping data and gsheets?
+First things first let's take a look at some basics. When you're trying to make change it's important to understand what kind of change you're looking for and choosing the appropriate tool for the job. Pretty much everything I know about effective consulting I learned from my brother and he wrote a nice piece on [better business documents](https://www.distilled.net/resources/better-business-documents-guide/) where he outlines the pyramid of documents.
 
 ## A primer on effecting change: the consultant's toolkit
 
