@@ -22,7 +22,7 @@ This can feel like "soft" work - somehow less important than the "real" work of 
 
 These questions all hinge on the notion of identity.
 
-<span class="contributor">Toby Shorin: This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?] 
+<span class="contributor">Toby Shorin: This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?]
 Additional confirmation for the role-label is also also provided by the corporation’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity.
 “Imposter syndrome” is simply the neurotic inability to accept the confirmation and recognition of one’s role-label from others.</span>
 
@@ -99,7 +99,7 @@ For me personally I think not in terms of Tom Critchlow sending you this invoice
 
 How do you develop a capitalist construct? For me, it’s as simple as leaning on the word “consultant”. To me, it implies authority and an associated price tag. For others, creating a “studio” branding might be the construct needed to charge well.
 
-The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="hn" content="For more infor on the relationship between freelancing and trading time for money check out <a href='https://news.ycombinator.com/item?id=19133026'>this hacker news thread</a>. As with all HN threads there's a few gems in there surrounded by garbage." %}.
+The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that those who bill hourly are more likely to see time and money as the same and take less pleasure in leisure activity. I think a professional identity and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
 
 <span class="contributor">TS: A crucial distinction that needs to be made by the time we get to the “psychic armor” section is that there are indeed multiple identities—we have an identity, a certain way of being, at work, at home, with our kids, with our friends… etc. And within that we have different permutations, micro-identities if you will, for sales, for lengthy engagements, for clients we don’t like… Especially in this section we are talking about creating the “clients + sales” construct, and how to step into that one particular persona, so it needs to be clear by now that these different roles exist. We shouldn’t be encouraging people to merge their work and other identities more than is natural for them. Maybe the section below needs to come first and be expanded? Actually, it might come earlier than that, perhaps in the introduction even…..</span>
 
@@ -147,7 +147,7 @@ Use language and labels as a texture to provide as much psychological safety and
 
 From the book *Finite & Infinite Games*:
 
-> “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.” 
+> “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.”
 
 <span class="contributor">TS: Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words.</span>
 
@@ -155,8 +155,8 @@ So play with labels, understand their power not over others but over ourselves. 
 
 
 <style>
-    .contributor{
-        background-color:rgba(34, 40, 144, .3);
-        font-style:italic;
-    }
-    </style>
+   .contributor{
+       background-color:rgba(34, 40, 144, .3);
+       font-style:italic;
+   }
+   </style>
