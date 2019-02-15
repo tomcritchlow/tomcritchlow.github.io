@@ -118,7 +118,15 @@ blockquote {
 }
 
 .postcontainer h2, .postcontainer h3{
-    padding-top: 1rem;
+    padding-top: 2rem;
+}
+
+.postcontainer p{
+    line-height:1.6em !important;
+}
+
+.postcontainer li{
+padding:5px;
 }
 
 .postcontainer img{
