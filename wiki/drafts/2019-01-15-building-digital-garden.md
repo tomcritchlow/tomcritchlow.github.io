@@ -15,7 +15,7 @@ I left that post with the following concept:
 
 **Campfires** - For me this is the blog here (and more broadly the blogosphere that I read and engage with). Room to grow here but generally I'm satisfied here.
 
-**Gardens** - This is where there's a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to [https://are.na](Are.na) but I just can't get it to work for me.
+**Gardens** - This is where there's a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to [Are.na](https://are.na) but I just can't get it to work for me.
 
 For my personal garden (note: your requirements and needs might be different!) I set out to build something that would focus on [stock over flow](http://snarkmarket.com/2010/4890), be [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and create a space for collecting the dots.
 
@@ -51,36 +51,33 @@ This one might be the most important. Creative research is all about collecting 
 
 >But ideas aren’t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.
 
-This quote from the wonderful piece by Ink and Switch: [capstone, a tablet for thinking](https://www.inkandswitch.com/capstone-manuscript.html).
-
-I've not read the book but I think the concept of the slow hunch is the same: [https://www.youtube.com/watch?v=0af00UcTO-c](https://www.youtube.com/watch?v=0af00UcTO-c).
+This quote from the wonderful piece by Ink and Switch: [capstone, a tablet for thinking](https://www.inkandswitch.com/capstone-manuscript.html){% include tufte-sn.html id="hunch" content="I've not read the book but I think the concept of <a href='https://www.youtube.com/watch?v=0af00UcTO-c'>the slow hunch</a> covers the same ground of collecting the dots and research leading to creative breakthroughs." %}.
 
 ## Longevity, text files and folders
+
+The lightbulb moment for me came by connecting two ideas together:
+
+Firstly - apparently, folders and files is the "best in class" tool (better than tags and search) for personal information management{% include tufte-sn.html id="folders" content="This gem came via the Ink and Switch article linked above." %}:
+
+>Bergman and Whittaker report that many of us use hierarchical folders for our personal digital organizing. Critics of this method point out that information is hidden from sight in folders that are often within other folders so that we have to remember the exact location of information to access it. Because of this, information scientists suggest other methods: search, more flexible than navigating folders; tags, which allow multiple categorizations; and group information management. Yet Bergman and Whittaker have found in their pioneering personal information management research that these other methods that work best for public information management don't work as well for personal information management.
+
+[Source](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
+
+Secondly - I write this blog on Github pages using Jekyll - aka using folders and files!
+
+So what if I could build the digital garden I want right here using Jekyll using nothing more than folders and text files?
+
+
+
+ from realizing that I could build something out of simple text files (in markdown) and folders. These files and folders ares
 
 The realization that started this project was thinking about publishing in triplicate - an idea I've thought of a few times on the power of my blog. When I publish an article it's published to 
 
 ![](/images/wiki-folders.png)
 
 
-What do I want from a digital garden?
-
-1) Stock not flow
-
-2) No publish button
-
-3) Long-term focused
-
-4) Simple!
-
-The solution I settled on I think covers most of these (though could also be improved on all of them).
-
-https://www.inkandswitch.com/capstone-manuscript.html
-
-So I set out to build something that would solve the problems of [stock & flow](http://snarkmarket.com/2010/4890), [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and a digital garden. Let's unpack those one by one:
 
 
-
-## Creativity is about collecting the dots
 
 
 
