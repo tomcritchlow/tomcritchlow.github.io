@@ -5,8 +5,6 @@ subtitle: How I built myself a simple wiki using folders and files and published
 draft: true
 ---
 
-{% include tufte-sn.html id="erin" content="Erin illustrated this" %}
-
 ![](/images/digital-garden-cleaned.jpg)
 
 For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
@@ -49,8 +47,19 @@ The distinction will come down to how you blog - some people blog in much the sa
 
 ## A space for collecting the dots
 
-This one might be the most important. 
+This one might be the most important. Creative research is all about collecting the dots. It's more common to think of "connecting the dots" but the truth is that you can't connect the dots you can't see. And we can only hold a tiny number of things in our brains at once. So a space for collecting (and organizing) the dots is a crucial foundation for thinking, creativity and more:
 
+>But ideas aren’t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.
+
+This quote from the wonderful piece by Ink and Switch: [capstone, a tablet for thinking](https://www.inkandswitch.com/capstone-manuscript.html).
+
+I've not read the book but I think the concept of the slow hunch is the same: [https://www.youtube.com/watch?v=0af00UcTO-c](https://www.youtube.com/watch?v=0af00UcTO-c).
+
+## Longevity, text files and folders
+
+The realization that started this project was thinking about publishing in triplicate - an idea I've thought of a few times on the power of my blog. When I publish an article it's published to 
+
+![](/images/wiki-folders.png)
 
 
 What do I want from a digital garden?
@@ -69,19 +78,11 @@ https://www.inkandswitch.com/capstone-manuscript.html
 
 So I set out to build something that would solve the problems of [stock & flow](http://snarkmarket.com/2010/4890), [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and a digital garden. Let's unpack those one by one:
 
-## Longevity, text files and folders
 
-The realization that started this project was thinking about publishing in triplicate - an idea I've thought of a few times on the power of my blog. When I publish an article it's published to 
 
 ## Creativity is about collecting the dots
 
-The phrase "connecting the dots" is much more commonly used but the truth is that creativity begins by collecting the dots before you can connect them. And no, just consuming media is not "collecting" anything.
 
->But ideas aren’t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.
-
-https://www.inkandswitch.com/capstone-manuscript.html
-
-The slow hunch: https://www.youtube.com/watch?v=0af00UcTO-c
 
 
 ## Some other interesting wikis
