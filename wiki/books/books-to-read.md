@@ -26,3 +26,7 @@ Milkman - recc by All my stars: "I finished Milkman after the holiday. It is not
 [Asymmetry](https://www.amazon.com/dp/B074ZDRGBC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Lisa Halliday reccommended by Craig Mod on his podcast: https://craigmod.com/onmargins/007/
 
 Same same Peter Mendulsend
+
+https://www.gyford.com/phil/writing/2019/02/15/light-years-james-salter/
+
+https://twitter.com/vgr/status/1096253719761510400?s=19
