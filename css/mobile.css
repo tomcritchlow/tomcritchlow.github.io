@@ -25,4 +25,18 @@
     max-width:100%;
 }
 
+/* Sidenote syltes from tufte CSS */
+label.margin-toggle:not(.sidenote-number) { display: inline; }
+.sidenote, .marginnote { display: none; }
+.margin-toggle:checked + .sidenote,
+.margin-toggle:checked + .marginnote { display: block;
+                                       float: left;
+                                       left: 1rem;
+                                       clear: both;
+                                       width: 95%;
+                                       margin: 1rem 2.5%;
+                                       vertical-align: baseline;
+                                       position: relative; }
+label { cursor: pointer; }
+
 }

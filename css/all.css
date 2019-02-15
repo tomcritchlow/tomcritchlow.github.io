@@ -7,6 +7,10 @@ html{
     text-rendering: optimizeLegibility;
 }
 
+body{
+    counter-reset: sidenote-counter;
+}
+
 .tcblack{color: #212121;}
 
 brand{color: #212121;}
@@ -139,6 +143,33 @@ padding:5px;
 padding-top: 30px;
     padding-bottom: 30px;
 }
+
+/* Sidenote syltes from tufte CSS */
+
+.sidenote, .marginnote { float: right;
+    clear: right;
+    margin-right: -60%;
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative; }
+
+.sidenote-number { counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before { position: relative;
+                      vertical-align: baseline; }
+
+.sidenote-number:after { content: counter(sidenote-counter);
+    font-size: 1rem;
+    top: -0.5rem;
+    left: 0.1rem; }
+
+.sidenote:before { content: counter(sidenote-counter) " ";
+font-size: 1rem;
+top: -0.5rem; }
 
 #copytext{
         cursor: pointer;
