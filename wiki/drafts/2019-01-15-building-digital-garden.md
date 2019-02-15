@@ -5,6 +5,8 @@ subtitle: How I built myself a simple wiki using folders and files and published
 draft: true
 ---
 
+{% include tufte-sn.html id="erin" content="Erin illustrated this" %}
+
 ![](/images/digital-garden-cleaned.jpg)
 
 For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
@@ -36,6 +38,20 @@ And is clear not to deride flow - it's the currency of the modern world - but ra
 > And the real magic trick is to put them both together. To keep the ball bouncing with your flow—to maintain that open channel of communication—while you work on some kick-ass stock in the background. Sacrifice neither. The hybrid strategy.
 
 Personally? I'm out of balance. I spend too much time in flow and not nearly enough in stock.
+
+## A blog without a publish button
+
+I'm stealing this quote from my modern friend{% include tufte-sn.html id="modern" content="Ryan also has a nice little idea for <a href='https://medium.com/@ryandawidjan/modern-friends-e9ca5b6f855a'>modern friends</a> as being something between internet stranger and 'actual friend'. That's me and Ryan" %} <a href="https://twitter.com/ryandawidjan">Ryan Dawidjan</a> who has been pioneering this concept of open-access writing and blogging without a publish button. For a long time he has maintained a quip file called [high cadence thoughts](https://quip.com/jgBUALiGBjwp) that is open access and serves as a long-running note of his thinking and ideas.
+
+It's a less-performative version of blogging - more of a captain's log than a broadcast blog.
+
+The distinction will come down to how you blog - some people blog in much the same way. For me however blogging is mostly *performative thinking* and less captain's log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
+
+## A space for collecting the dots
+
+This one might be the most important. 
+
+
 
 What do I want from a digital garden?
 
