@@ -7,9 +7,35 @@ draft: true
 
 ![](/images/digital-garden-cleaned.jpg)
 
-For a while I've been left unsatisfied by the combination of twitter+blogging.
+For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
-https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/
+I left that post with the following concept:
+
+**Streams** - For me this is twitter and is more than enough stream for now.
+
+**Campfires** - For me this is the blog here (and more broadly the blogosphere that I read and engage with). Room to grow here but generally I'm satisfied here.
+
+**Gardens** - This is where there's a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to [https://are.na](Are.na) but I just can't get it to work for me.
+
+For my personal garden (note: your requirements and needs might be different!) I set out to build something that would focus on [stock over flow](http://snarkmarket.com/2010/4890), be [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and create a space for collecting the dots.
+
+Let's break those down one by one:
+
+## Stock over flow
+
+If you're familiar with this blog then the chances are high that you've read this seminal piece from Robin Sloan: [stock and flow](http://snarkmarket.com/2010/4890). Robin lays out (in 2010!) the concept of stock and flow:
+
+> Flow is the feed. It’s the posts and the tweets. It’s the stream of daily and sub-daily updates that reminds people you exist.
+
+> Stock is the durable stuff. It’s the content you produce that’s as interesting in two months (or two years) as it is today. It’s what people discover via search. It’s what spreads slowly but surely, building fans over time.
+
+And is clear not to deride flow - it's the currency of the modern world - but rather to ensure you're well-balanced:
+
+> You can tell that I want you to stop and think about stock here. I feel like we all got really good at flow, really fast. But flow is ephemeral, while stock sticks around. Stock is capital. Stock is protein.
+
+> And the real magic trick is to put them both together. To keep the ball bouncing with your flow—to maintain that open channel of communication—while you work on some kick-ass stock in the background. Sacrifice neither. The hybrid strategy.
+
+Personally? I'm out of balance. I spend too much time in flow and not nearly enough in stock.
 
 What do I want from a digital garden?
 
