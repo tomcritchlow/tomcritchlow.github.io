@@ -174,7 +174,7 @@ top: -0.5rem; }
 input.margin-toggle { display: none; }
 
 label.sidenote-number { display: inline; 
-                        color:rgb(173, 48, 2);
+                        color:#03a9f4;
                         text-decoration:underline;
                         }
 
