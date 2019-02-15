@@ -171,6 +171,15 @@ padding-top: 30px;
 font-size: 1rem;
 top: -0.5rem; }
 
+input.margin-toggle { display: none; }
+
+label.sidenote-number { display: inline; 
+                        color:rgb(173, 48, 2);
+                        text-decoration:underline;
+                        }
+
+label.margin-toggle:not(.sidenote-number) { display: none; }
+
 #copytext{
         cursor: pointer;
 }
