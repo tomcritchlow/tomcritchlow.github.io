@@ -94,7 +94,7 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 --
 
-**Update 2: The current hypothesis installed on this page is the gist below. Strongly considering putting it across all my blog posts. Provides the hypothesis functionality with a cleaner UX and hidden by default:
+*Update 2: The current hypothesis installed on this page is the gist below. Strongly considering putting it across all my blog posts. Provides the hypothesis functionality with a cleaner UX and hidden by default:*
 
 <script src="https://gist.github.com/tomcritchlow/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
 
