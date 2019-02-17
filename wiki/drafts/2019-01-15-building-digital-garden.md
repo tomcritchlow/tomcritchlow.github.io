@@ -7,6 +7,8 @@ draft: true
 
 ![](/images/digital-garden-cleaned.jpg)
 
+*This post is slightly long and slightly technical. The TL;DR is that I built a personal wiki out of files and folders and a few templates in Jekyll hosted on Github Pages. If you want to head straight to the wiki head here: [tomcritchlow.com/wiki/](https://tomcritchlow.com/wiki/) and if you want to skip straight to the technical how-to [jump here](https://tomcritchlow.com/wiki/drafts/2019-01-15-building-digital-garden/#how-it-all-works)*
+
 For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
 I left that post with the following concept:
@@ -65,12 +67,19 @@ Firstly - apparently, folders and files is the "best in class" tool (better than
 
 Secondly - I write this blog on Github pages using Jekyll - aka using folders and files!
 
-So what if I could build the digital garden I want right here using Jekyll using nothing more than folders and text files?
+**So what if I could build the digital garden I want right here using Jekyll using nothing more than folders and text files?**
 
+There are a few benefits:
+
+- Files and folders feels like it has a long shelf-life. If I'm building this for the long-term (and I think I am) then I want a format I can back-up, archive and re-publish in the future independent of platform.
+- Using files and folders allows me to drag and drop files into my wiki with zero authoring - CSV, pdf, png and txt files all are hosted and contained gracefully
+- It's robust since I can back up this wiki folder to any service, dropbox, Google Drive, Github, etc.
 
 ## How it all works
 
-For those that aren't so interested in the technical details you can skip past this section.
+*For those that aren't so interested in the technical details you can skip past this section.*
+
+
 
 
 
