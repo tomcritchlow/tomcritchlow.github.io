@@ -103,40 +103,30 @@ The broad-strokes overview is as follows:
 - PDf, CSV, txt files and anything else are displayed with a link to the file.
 - The "magic" comes from each wiki folder having an index.html file which handles all of the display by using a custom layout [wikiindex](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_layouts/wikiindex.html)
 - The root wiki page loops through all the files to create a master index automatically. [Code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/wiki/index.html).
+- Of course, the meat of the wiki is contained in note files which are just markdown files so easily portable. I intentionally designed the wiki to not rely on a ton of front-matter for portability and simplicity. To do this I added a default layout to wiki files in the [config file](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_config.yml).
+- It's not all about layout though - it's about presentation too. I added a single flag to the wikiindex frontmatter for "expand" to be true or false that displays the notes either fully expanded or as simple links. My [parenting wiki](https://tomcritchlow.com/wiki/parenting/) is an example of the notes expanded, while my [drafts folder](https://tomcritchlow.com/wiki/drafts/) is just a list of links because it's long.
+- Finally, where I have a long list of links I added the ability for individual notes to be "pinned" to the top of the page to ensure more important or frequently-used links are easy to find.
 
-
+Phew. So this all sounds rather complicated - and especially for programming n00b like myself some of the bits felt like hard work to get right. But it's important that all of the complexity and "programming" lies in the layout and index files and none of the complexity lies in the files and folders which remain text files for longevity and easy portability. I doubt it would overly simple but I also doubt it would be hard to port this across to Hugo or Wordpress or something else in the future.
 
 ## Some other interesting wikis
 
-https://buster.wiki/ - too structured for my personal taste? Strong design though (and has a latest updated feed which, for now, I've intentionally not built in)
+Credit for inspiration for this whole project comes from a variety of wikis and wiki-like collections on the web:
 
-are.na
+[buster.wiki/](https://buster.wiki/) - Strong design and everything has a date by the looks of it which enables an RSS feed. Very polished and thought through.
 
-https://www.brendanschlagel.com/2017/11/05/canonize-creating-personal-canon-template/
+[are.na](https://are.na) - A platform that all the cool kids use for building personal knowledge libraries. Lightly social, perhaps the right answer but slightly questionable if they'll be around for a long time. Ymmv.
 
-http://worrydream.com/#!/quotes
+[Brendan's /canon](https://www.brendanschlagel.com/2017/11/05/canonize-creating-personal-canon-template/) - this was part of the original inspiration for me. A curated list of pure stock - things that Brendan returns to again and again. He has a template you can copy too.
 
-Inspired by http://daywreckers.com/
+[Worrydream's quotes page](http://worrydream.com/#!/quotes) - just a massive list of interesting quotes collected by Brett Victor. Notice how being one giant page makes it instantly searchable.
 
+[daywreckers.com](http://daywreckers.com/) - from Ben Pieratt, not quite a wiki but a very minimal site designed to collect the dots. A daily visit from me.
 
+[derek sivers' daily journal](https://sivers.org/dj) - a post from Derek Sivers on how to keep a text-file long-term store for your ideas and notes.
 
-Creativity lies in research (the slow hunch). Collecting.
+And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
 
-Trying to make a canon page.
-
-Digital garden.
-
-Turns out folders are the right way 
-
-Hacking jekyll using folders and files. It lives on Github pages but could be simply uploaded to dropbox, google drive etc.
-
-Here's how it works:
-
-It's social in the same way URLs are social.
-
-https://sivers.org/dj
-
-
-By the way - the illustration at the top was done by my wonderful partner [Erin Przekop](http://erinprz.com). If you like what you see check out [her picture book](http://erinprz.com/journey/) that's hitting the shelves in 2019!
+*By the way - the illustration at the top was done by my wonderful partner [Erin Przekop](http://erinprz.com). If you like what you see check out [her picture book](http://erinprz.com/journey/) that's hitting the shelves in 2019!*
 
 
