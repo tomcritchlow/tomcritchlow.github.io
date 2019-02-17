@@ -19,7 +19,7 @@ I left that post with the following concept:
 
 **Gardens** - This is where there's a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to [Are.na](https://are.na) but I just can't get it to work for me.
 
-For my personal garden (note: your requirements and needs might be different!) I set out to build something that would focus on [stock over flow](http://snarkmarket.com/2010/4890), be [a blogging product without a publish button](https://twitter.com/ryandawidjan/status/1077641141221249031) and create a space for collecting the dots.
+For my personal garden (note: your requirements and needs might be different!) I set out to build something that would focus on stock over flow, be a blogging product without a publish button and create a space for collecting the dots.
 
 Let's break those down one by one:
 
@@ -93,7 +93,16 @@ Is published looking something like this:
 
 ![](/images/maps-wiki.png)
 
+For those comfortable reading Jekyll code then you can dive right in on Github here: [https://github.com/tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io)
 
+The broad-strokes overview is as follows:
+
+- The wiki folder is made of a series of folders - each one containing any kind of files.
+- Markdown files are treated as pages
+- Image files are displayed as thumbnails with a link to the image, with the filename displayed to store any kind of title you want
+- PDf, CSV, txt files and anything else are displayed with a link to the file.
+- The "magic" comes from each wiki folder having an index.html file which handles all of the display by using a custom layout [wikiindex](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_layouts/wikiindex.html)
+- The root wiki page loops through all the files to create a master index automatically. [Code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/wiki/index.html).
 
 
 
