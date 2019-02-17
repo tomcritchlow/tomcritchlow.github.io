@@ -89,8 +89,9 @@ The realization that started this project was thinking about publishing in tripl
 
 ![](/images/wiki-folders.png)
 
+Is published looking something like this:
 
-
+![](/images/maps-wiki.png)
 
 
 
