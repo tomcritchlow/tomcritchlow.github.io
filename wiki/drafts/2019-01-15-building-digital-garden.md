@@ -68,6 +68,11 @@ Secondly - I write this blog on Github pages using Jekyll - aka using folders an
 So what if I could build the digital garden I want right here using Jekyll using nothing more than folders and text files?
 
 
+## How it all works
+
+For those that aren't so interested in the technical details you can skip past this section.
+
+
 
  from realizing that I could build something out of simple text files (in markdown) and folders. These files and folders ares
 

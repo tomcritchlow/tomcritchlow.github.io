@@ -235,4 +235,5 @@ footer{
 
 .fontinconsolata{
     font-family:'Inconsolata';
+    word-wrap:break-word;
 }
