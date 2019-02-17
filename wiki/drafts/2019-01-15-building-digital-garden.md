@@ -79,13 +79,7 @@ There are a few benefits:
 
 *For those that aren't so interested in the technical details you can skip past this section.*
 
-
-
-
-
- from realizing that I could build something out of simple text files (in markdown) and folders. These files and folders ares
-
-The realization that started this project was thinking about publishing in triplicate - an idea I've thought of a few times on the power of my blog. When I publish an article it's published to 
+So the core of this project is that something robust and simple like files and folders like this:
 
 ![](/images/wiki-folders.png)
 
@@ -93,9 +87,11 @@ Is published looking something like this:
 
 ![](/images/maps-wiki.png)
 
+Browse the HTML version here: [tomcritchlow.com/wiki](https://tomcritchlow.com/wiki/)
+
 For those comfortable reading Jekyll code then you can dive right in on Github here: [https://github.com/tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io)
 
-The broad-strokes overview is as follows:
+The broad-strokes overview is as follows{% include tufte-sn.html id="wip" content="All of this is subject to change - consider this V0.1. This project is not finished, and by it's nature may in fact never be finished!" %}:
 
 - The wiki folder is made of a series of folders - each one containing any kind of files.
 - Markdown files are treated as pages
