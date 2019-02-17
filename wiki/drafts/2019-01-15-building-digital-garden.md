@@ -123,6 +123,8 @@ Credit for inspiration for this whole project comes from a variety of wikis and 
 
 And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
 
+And, you can of course find this list of wikis [on my wiki](https://tomcritchlow.com/wiki/wikis) :)
+
 *By the way - the illustration at the top was done by my wonderful partner [Erin Przekop](http://erinprz.com). If you like what you see check out [her picture book](http://erinprz.com/journey/) that's hitting the shelves in 2019!*
 
 
