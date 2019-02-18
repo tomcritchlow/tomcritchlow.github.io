@@ -6,7 +6,7 @@ subtitle: How I built myself a simple wiki using folders and files and published
 
 ![](/images/digital-garden-cleaned.jpg)
 
-*This post is slightly long and slightly technical. The TL;DR is that I built a personal wiki out of files and folders and a few templates in Jekyll hosted on Github Pages. If you want to head straight to the wiki head here: [tomcritchlow.com/wiki/](https://tomcritchlow.com/wiki/) and if you want to skip straight to the technical how-to [jump here](/#how-it-all-works)*
+*This post is slightly long and slightly technical. The TL;DR is that I built a personal wiki out of files and folders and a few templates in Jekyll hosted on Github Pages. If you want to head straight to the wiki head here: [tomcritchlow.com/wiki/](https://tomcritchlow.com/wiki/) and if you want to skip straight to the technical how-to [jump here](#how-it-all-works)*
 
 For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
