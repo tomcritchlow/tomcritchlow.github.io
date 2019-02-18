@@ -22,7 +22,7 @@
     {% unless item.path contains "index.html" %}
     <div class="pb4 pr2-l">
         <hr>
-    <a class="link gray f5" href="{{item.url}}"># {{item.path}}</a></li>
+    <a class="link gray f5" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
     {{item.content | markdownify}}    
     </div>
     {% endunless %}
