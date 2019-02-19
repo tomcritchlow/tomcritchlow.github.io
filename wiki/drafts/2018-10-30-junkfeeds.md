@@ -5,6 +5,8 @@ subtitle: Lost in the algorithms
 draft: true
 ---
 
+Publish at junkfeeds.world
+
 Rem Koolhaas laid out the foundations of modern space in his essay Junkspace. But as we tipple over into the eve of 2020 it's time to acknowledge that Junkspace has been colonized by Junkfeeds. As our experience of space increasingly overlaps with digital space our physical environments are prone to viruses and hacking. And junkfeeds have fully and successfully hacked our physical environment.
 
 The human neck has been slumped by junkfeeds. In every space. At every point in time.
@@ -22,6 +24,7 @@ Junkfeeds are slot machines. Gambling with our attention and emotional response.
 The subtle soothing reassuring voice of Instagram saying "you're all caught up" sits in stark contrast to the reality of a 4-dimensional infinity of infinite feeds within the app. The "feed", stories, activity feed, "search". Search function is the unregulated feed of our basest emotions sidestepping any notion of people you know and mmoving straight to third base with sex, abs, comedy, guns, politics, travel. It's a funhouse mirror of our own desires reflected back to us in an infinite feed.
 
 
+I'm optimistic for the future though - teens, raised as junkfeed-native, not web-native but algorithm-native are increasingly creating protection for themselves. They do not see identity:user as 1:1 rather many:many. They create throw-away accounts and trash existing accounts with abandon. They have learned to turn themselves into **junkusers** to shield themselves from the junkfeeds.
 
 
 

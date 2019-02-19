@@ -3,6 +3,10 @@
 
 I'm very interested in new ways of networking writing. You can see some thoughts on that in my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/).
 
+Most of my thinking on annotations is contained in this post: [exploring the UX of web-annotations](https://tomcritchlow.com/2019/02/12/annotations/)
+
+--
+
 [Hypothesis](https://web.hypothes.is/) is the best in class at the moment but still has a long way to go. It feels robust but without a strong UX (especially so on mobile where it almost entirely fails).
 
 [https://crowdlaaers.org/](https://crowdlaaers.org/) is an interesting looking tool that provides a dashboard for a URL (with they had the ability to do a whole site) to show how many annotations there are, from who, over time.
