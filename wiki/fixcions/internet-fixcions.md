@@ -8,3 +8,5 @@ A running list of internet-fiction that I have loved:
 
 [A proposal for a book - Robin Sloan](https://www.robinsloan.com/proposal-for-a-book/)
 
+[The Ursa Major Moving Group](http://upsideclown.com/2018-03-06) - Matt Webb
+
