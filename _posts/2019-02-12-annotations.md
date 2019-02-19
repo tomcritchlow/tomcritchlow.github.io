@@ -102,6 +102,10 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 *Update 3: Fascinating discussion around a new "link to specific word" web-spec here: <a href="https://news.ycombinator.com/item?id=19168442">https://news.ycombinator.com/item?id=19168442</a> (the usual disclaimers about HN being a garbage fire hold)*
 
+--
+
+*Update 4: Interesting usage of annotations as a way to feel certain audiences feel included: [https://twitter.com/frankshyong/status/1097986781503516672](https://twitter.com/frankshyong/status/1097986781503516672)*
+
 <script type="application/json" class="js-hypothesis-config">
   {
     "openSidebar": false,
