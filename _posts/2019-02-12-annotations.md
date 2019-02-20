@@ -104,7 +104,7 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 --
 
-*Update 4: Interesting usage of annotations as a way to feel certain audiences feel included: [https://twitter.com/frankshyong/status/1097986781503516672](https://twitter.com/frankshyong/status/1097986781503516672)*
+*Update 4: Interesting usage of annotations as a way to make certain audiences feel included: [https://twitter.com/frankshyong/status/1097986781503516672](https://twitter.com/frankshyong/status/1097986781503516672)*
 
 <script type="application/json" class="js-hypothesis-config">
   {
