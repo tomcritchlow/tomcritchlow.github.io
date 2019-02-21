@@ -81,6 +81,10 @@ But the truth is that once we stop thinking of identity as something someone els
 
 ## Psychic Armor for the Arena of Capitalism
 
+See: https://thecreativeindependent.com/people/on-what-it-takes-to-sustain-a-creative-life-financially/
+
+> At that point, I was charging $25-30 an hour and loved what I was doing, but soon realized that in my work, I’d often create systems that erased the job I was initially hired to do. **That’s when I realized I could start calling myself a consultant. Owning the title “consultant” enabled a psychological shift in the way I thought about the work I was doing. This shift led me to increase my rate again**, and eventually to articulate the skills I could offer new clients in the form of a program, complete with a business name, website, and set of rates. Before I articulated this “business offering” in a clear program, my annual revenue was around $40k. After making it clear exactly what I could offer potential clients, and by shifting my offerings based on what I saw clients finding most useful, my revenue jumped to $60k, then $85k, and last year (2018) it was $110k. (Remember, these numbers are revenue, not net profit.)
+
 Identity formation and label creation is not just aspirational and emotional - it can be functional too.
 
 Probably the most important role that identity plays for an independent is in crafting not a personal identity but a deliberately professional identity. Again, not as positioning for the market - but as emotional protection from the traumas of capitalism.
