@@ -87,6 +87,25 @@ They are going to some point true and unproven.
 
 [Geometry by Rita Dove](https://twitter.com/tomcritchlow/status/1046068303318462464)
 
+--
+
+An airborne instrument I sit,
+Predestined nightly to fulfill
+Columbia-Giesen-Management’s
+Unfathomable will,
+
+By whose election justified,
+I bring my gospel of the Muse
+To fundamentalists, to nuns,
+to Gentiles and to Jews,
+
+And daily, seven days a week,
+Before a local sense has jelled,
+From talking-site to talking-site
+Am jet-or-prop-propelled.
+
+[On the circuit by W.H. Auden](https://www.poets.org/poetsorg/poem/circuit)
+
 <script>
 	
 $('p').each(function(){
