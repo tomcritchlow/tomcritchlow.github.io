@@ -106,6 +106,10 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 *Update 4: Interesting usage of annotations as a way to make certain audiences feel included: [https://twitter.com/frankshyong/status/1097986781503516672](https://twitter.com/frankshyong/status/1097986781503516672)*
 
+--
+
+*Update 5: I realize now that I forgot to explain in this essay why annotations are important and interesting. To fall in love with marginalia and notes-on-texts check out Austin Kleon's [reading with a pencil](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) post*
+
 <script type="application/json" class="js-hypothesis-config">
   {
     "openSidebar": false,
