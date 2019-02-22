@@ -22,7 +22,7 @@ And, counter-intuitively, the label you need is not one that works for others (c
 
 *What do I want to be?*
 
-These days I call myself a consultant - and the label is mostly comfortable - but it wasn't always that way and I've deliberately created this identity for myself. Let's dive in:
+These days I call myself a consultant. But I've been doing this 4.5 years and it's only recently that I feel comfortable really embracing that label. In this post I'm going to walk through how labels can help you charge more, where the angst comes from and how to deal with "the question" as an independent...
 
 ## Tend to your labels as you grow
 
@@ -30,11 +30,11 @@ When you’re fully employed, we get a steady paycheck but we also get a **stabl
 
 When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left.
 
-"I just quit Google to head out on my own."
+*"I just quit Google to head out on my own."*
 
-“Ex-McKinsey Partner.”
+*“Ex-McKinsey Partner.”*
 
-“Work & Co Alumni.”
+*“Work & Co Alumni.”*
 
 This framing is easy and safe - and it's totally ok to lean on this. While you will feel the urge to create new labels and framing for yourself it's ok for this process to take some time and in the interim you can just tell your story.
 
