@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: I, consultant [draft]
+title: I, consultant? [draft]
 subtitle: Managing identity as an independent
 draft: true
 tags: strategy
@@ -22,7 +22,7 @@ And, counter-intuitively, the label you need is not one that works for others (c
 
 *What do I want to be?*
 
-
+These days I call myself a consultant - and the label is mostly comfortable - but it wasn't always that way and I've deliberately created this identity for myself. Let's dive in:
 
 ## Tend to your labels as you grow
 
