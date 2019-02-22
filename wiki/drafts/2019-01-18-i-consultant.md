@@ -90,14 +90,6 @@ How do you develop a capitalist construct? For me, it’s as simple as leaning o
 
 The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that those who bill hourly are more likely to see time and money as the same and take less pleasure in leisure activity. I think a professional identity and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
 
-## The Angst of Reconciling Professional & Personal Identities
-
-There’s another kind of angst to watch out for. As we develop a multi-faceted set of identities and labels for using in different situations we have to understand that some people - often by design! - will only see some small slice of your identity.
-
-Especially when it comes to reconciling your personal and professional identities, this can cause some angst as people mis-interpret or under-estimate the broad spectrum of who you are and instead mistake the label for the identity, the map for the terrority.
-
-So I suppose I don’t have good advice here except to tread lightly, move with grace and watch out for any time the gap between your perceived professional identity strays too far from your actual personal identity (and identities).
-
 ## “The Question” & the identity crisis
 
 "The Question". Inevitably in many consulting projects (especially those where you're embedding inside an organization either physically or digitally) there will come a time when they ask you to give up the independent lifestyle and join full time.
@@ -129,7 +121,5 @@ Use language and labels as a texture to provide as much psychological safety and
 From the book *Finite & Infinite Games*:
 
 > “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.”
-
-<span class="contributor">TS: Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words.</span>
 
 So play with labels, understand their power not over others but over ourselves. Understand their ability to provide shelter in the capitalist storm and then, eventually, discard them entirely and embrace the poetry of life.
