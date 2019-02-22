@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: tufte
 title: I, consultant?
 subtitle: The struggle to define who you are as an independent and the promise of charging more for your work
 draft: true
