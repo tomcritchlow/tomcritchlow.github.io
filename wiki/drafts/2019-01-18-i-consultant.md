@@ -22,6 +22,8 @@ And, counter-intuitively, the label you need is not one that works for others (c
 
 *What do I want to be?*
 
+
+
 ## Tend to your labels as you grow
 
 When you’re fully employed, we get a steady paycheck but we also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example). When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
@@ -60,12 +62,6 @@ Secondly, you imagine that you have to **earn** your label. That somehow others 
 
 Thirdly, you have to reconcile your **personal and professional identities**.
 
-## Identity is a multi-faceted construct
-
-It took me about two years of independent work before I started to evolve multiple labels for myself. Living up to one label seemed hard enough for a long time.
-
-But the truth is that once we stop thinking of identity as something someone else grants to us - and we start thinking of it as a personal form of empowerment - then we can start to see that multiple identities, and hence labels, are useful and more genuine than a forced single label.
-
 ## Psychic Armor for the Arena of Capitalism
 
 See: https://thecreativeindependent.com/people/on-what-it-takes-to-sustain-a-creative-life-financially/
@@ -99,12 +95,6 @@ The worst thing to do is to let your personal identity be the thing that does th
 There’s another kind of angst to watch out for. As we develop a multi-faceted set of identities and labels for using in different situations we have to understand that some people - often by design! - will only see some small slice of your identity.
 
 Especially when it comes to reconciling your personal and professional identities, this can cause some angst as people mis-interpret or under-estimate the broad spectrum of who you are and instead mistake the label for the identity, the map for the terrority.
-
-This has happened to me recently{% include tufte-sn.html id="fouryears" content="For those following the timeline weaving through this piece this is 4+ years into my independent work at this point!" %} - twice in the past month I've received instances of twitter hate from folks taking issue with the label of 'consultant'.
-
-I… honestly I’m not sure exactly how to deal with this yet. On the one hand I can brush it off since they’re mistaking my personal identity for my professional identity{% include tufte-sn.html id="personalidentity" content="<em>’I’m more than a consultant - what about my love for writing, my poker career, my art business, etc, etc’</em> - these are the thoughts that run through my head as I get defensive when someone attacks my professional identity" %}. But on the other hand it’s unsettling to be on the receiving end of an insult.
-
-Both times the insults came from those in the graphic design community jumping on, and deriding, the terms strategy/consulting. Mostly this feels fine since it feels like a natural extension of the “graphic design as being authentic” vs “strategy/consulting being vaporware” debate that is bigger than me (and is also a stupid argument imho).
 
 So I suppose I don’t have good advice here except to tread lightly, move with grace and watch out for any time the gap between your perceived professional identity strays too far from your actual personal identity (and identities).
 
@@ -143,11 +133,3 @@ From the book *Finite & Infinite Games*:
 <span class="contributor">TS: Poets also play with language, they eviscerate it, they juxtapose and damage it and graft new branches of meaning onto it with their words.</span>
 
 So play with labels, understand their power not over others but over ourselves. Understand their ability to provide shelter in the capitalist storm and then, eventually, discard them entirely and embrace the poetry of life.
-
-
-<style>
-   .contributor{
-       background-color:rgba(34, 40, 144, .3);
-       font-style:italic;
-   }
-   </style>
