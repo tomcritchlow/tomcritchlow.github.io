@@ -10,7 +10,7 @@ The thing no one tells you when you set out on your own is that you take on the 
 
 This can feel like *"soft"* work - somehow less important than the *"real"* work of finding clients, setting up an LLC, etc. But the truth is that the labels you use to describe yourself are crucial to your self-identity in the world of independent work.
 
-And, counter-intuitively, the label you need is not one that works for others (clients, friends etc) - it's a label that works for you. The real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
+And, counter-intuitively, creating labels is hard not because they have to work for others (clients, friends etc) but because the label has to work for you. The real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
 
 *Do I justify this label?*
 
@@ -52,13 +52,13 @@ As you head into the unknown of independent work you should worry less about thi
 
 ## The angst of labels
 
-As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them{% include tufte-sn.html id="website" content="One of the most comment ways to wrestle with labels is on your website or about page. You have all the freedom in the world to create your own language... But what feels right?" %} and lose sleep over them (I know I did!). 
+As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them{% include tufte-sn.html id="website" content="One of the most common ways to wrestle with labels is on your website or about page. You have all the freedom in the world to create your own language... But what feels right?" %} and lose sleep over them (I know I did!). 
 
 The angst of labels comes in three ways:
 
-Firstly, you imagine that this label matters **externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But for many independents the label is less important externally than it is internally. Clients tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the specifics of the label you use (e.g. a consultant or a freelancer).
+Firstly, **you imagine that this label matters externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But for many independents the label is less important externally than it is internally. Clients tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the specifics of the label you use (e.g. a consultant or a freelancer).
 
-Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
+Secondly, **you imagine that you have to earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
 Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity{% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %}!
 
@@ -96,21 +96,17 @@ The worst thing to do is to let your personal identity be the thing that does th
 
 ## “The Question” & the identity crisis
 
-"The Question". Inevitably in many consulting projects (especially those where you're embedding inside an organization either physically or digitally) there will come a time when they ask you to give up the independent lifestyle and join full time.
+Sooner or later when you're independent a client will offer you a full time role.
 
-I’ve been faced with this question no fewer than 5 times over the course of my time as an independent, and **every single time** it throws me on an emotional rollercoaster.
+*Do you want to join the team full time?*
 
-*How is independent work really going?*
+I've been faced with this question no fewer than 5 times in my consulting life and every single time it throws me for an emotional rollercoaster.
 
-*They like me!*
+Talking to others I get the same sense - that even when it's a company, a role or a salary that is unattractive full-time your mind can't stop thinking about taking the role{% include tufte-sn.html id="fulltime" content="To be clear not all full-time roles are bad! And there are legitimate reasons you might want or need to take the role (security, salary, health insurance etc." %}.
 
-*Will I really be able to keep getting work if I turn this down? Where will my next client come from?*
+The reason this question is able to throw you for a loop is because it challenges your self-made identity. It directly confronts and questions your ability to stand behind the labels you’ve chosen - by placing them in contrast to the “authoritative” and “well-understood” and “recognizable” label that they’re offering you.
 
-*Wow - I’d be able to call myself [insert desirable full-time label here]*
-
-*What am I doing with my life anyway?*
-
-All of these questions and a million more come to mind when a client offers you a full time role. The reason this question is able to throw you for a loop is because it challenges your self-made identity (or identities). It directly confronts and questions your ability to stand behind the labels you’ve chosen - by placing them in contrast to the “authoritative” and “well-understood” and “recognizable” label that they’re offering you.
+There's two ways to protect yourself from this emotional rollercoaster.
 
 I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director{% include tufte-sn.html id="cd" content="Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends…." %} at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
 
