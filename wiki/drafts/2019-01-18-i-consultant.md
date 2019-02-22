@@ -1,40 +1,40 @@
 ---
-layout: tufte
+layout: blog
 title: I, consultant [draft]
 subtitle: Managing identity as an independent
 draft: true
 tags: strategy
 ---
 
-*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="byline" content="This post is co-written with my good friend Toby Shorin of <a href='https://subpixel.space'>Subpixel Space</a>. Toby has contributed edits throughout the piece but also specific sections <span class='contributor'>marked in-line in purple</span>" %}
+The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do. 
 
-The thing no one tells you when you set out on your own is that you take on the task of shaping your own identity. A slowly unfurling project of internalizing and externalizing your hopes and dreams.
+This can feel like *"soft"* work - somehow less important than the *"real"* work of finding clients, setting up an LLC, etc. But the truth is that the labels you use to describe yourself are crucial to your self-identity in the world of independent work.
+
+And, counter-intuitively, the label you need is not one that works for others (clients, friends etc) - it's a label that works for you. The real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
+
+*Do I justify this label?*
+
+*Am I really good enough to be X?*
+
+*Who am I to charge clients for Y?*
+
+*What am I doing?*
+
+*What do I want to be?*
+
+## Tend to your labels as you grow
 
 When you’re fully employed, we get a steady paycheck but we also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example). When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
 
-This can feel like "soft" work - somehow less important than the "real" work of finding clients, setting up an LLC, etc. But the truth is that this evolving and shaping of your personal identity - the labels and language you use to describe yourself and the work you do - is the platform upon which everything hinges.
+When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left.
 
-*What kind of clients do you work for?*
+"I just quit Google to head out on my own."
 
-*What kind of work do you find fulfilling?*
+“Ex-McKinsey Partner.”
 
-*How do you legitimize charging good money?*
+“Work & Co Alumni.”
 
-These questions all hinge on the notion of identity.
-
-<span class="contributor">Toby Shorin: This label is “recognized” in that it is affirmed in speech and action by our colleagues, who interact with us through and on the terms of this role. [Note — what’s the difference between “label” and “role” in the language of this piece?]
-Additional confirmation for the role-label is also also provided by the corporation’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity.
-“Imposter syndrome” is simply the neurotic inability to accept the confirmation and recognition of one’s role-label from others.</span>
-
-In this piece I’m going to argue that it’s important to recognize the power of language and labels - and understand that we can use a range of labels in different situations that serve a range of purposes, many unrelated to external positioning.
-
-Ultimately I’d encourage you to think of your personal and professional identity as both a “solid” platform… yet also a “malleable” material to “play with”.
-
-## Tend to your Identity as it Evolves
-
-When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left. "I just quit Google to head out on my own." “Ex-McKinsey Partner.” “Work & Co Alumni.” Defined by the recent past, this framing is easy, safe and totally fine. Much like your Cobra health insurance, you're riding on the coat-tails of your previous role.
-
-You should ride this for as long as you need to, and don’t feel bad about it.
+This framing is easy and safe - and it's totally ok to lean on this. While you will feel the urge to create new labels and framing for yourself it's ok for this process to take some time and in the interim you can just tell your story.
 
 As the days turn into weeks and months though, new language will emerge.
 
@@ -48,30 +48,17 @@ If you’ve done client work before, it might feel instinctive to use whatever w
 
 As you head into the unknown of independent work you should worry less about this label - **no one will care about is as much as you do** - and it’s less an absolute definition of who you are and more a process of growing into the person you want to be.
 
-<span class="contributor">TS: When I read it these last 3 sentences for the first time, I felt some sense of relief! I think they are important because they acknowledge the unspoken angst everyone has about these particular labels. I would like to see that more specifically pointed out and perhaps expanded on.</span>
-
-It’s safe, normal and expected to play with a range of labels as you move through different experiences and gain confidence. As you move from nervous beginner to confident expert, the language evolves. Maybe something like{% include tufte-sn.html id="labels" content="This is just an example! Don’t feel confined by my (or anyone’s!) labels!" %}:
-
-- Freelancer
-- Self-employed
-- "Specialist" (e.g. "Marketer" or "Web designer")
-- Consultant
-- Founder / Owner
-- CEO
-
 ## The angst of labels
 
 But still, labels cause angst. You will likely wrestle with them and lose sleep over them. I know I did (and still do on occasion!).
 
-The angst here comes in two ways:
+The angst here comes in three ways:
 
 Firstly, you imagine that this label matters **externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But for many independents the label is less important externally than it is internally. Clients tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the specifics of the label you use (e.g. a consultant or a freelancer).
 
 Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure. Toby says it better than me:
 
-<span class="contributor">TS: See imposter syndrome note!
-
-In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities. </span>
+Thirdly, you have to reconcile your **personal and professional identities**.
 
 ## Identity is a multi-faceted construct
 
