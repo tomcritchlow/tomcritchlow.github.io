@@ -52,15 +52,15 @@ As you head into the unknown of independent work you should worry less about thi
 
 ## The angst of labels
 
-But still, labels cause angst. You will likely wrestle with them and lose sleep over them. I know I did (and still do on occasion!).
+As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them{% include tufte-sn.html id="website" content="One of the most comment ways to wrestle with labels is on your website or about page. You have all the freedom in the world to create your own language... But what feels right?" %} and lose sleep over them (I know I did!). 
 
-The angst here comes in three ways:
+The angst of labels comes in three ways:
 
 Firstly, you imagine that this label matters **externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But for many independents the label is less important externally than it is internally. Clients tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the specifics of the label you use (e.g. a consultant or a freelancer).
 
-Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure. Toby says it better than me:
+Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-Thirdly, you have to reconcile your **personal and professional identities**.
+Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity{% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='Song of Myself'>https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version</a> 'I am large, I contain multitudes!'" %}!
 
 ## Psychic Armor for the Arena of Capitalism
 
