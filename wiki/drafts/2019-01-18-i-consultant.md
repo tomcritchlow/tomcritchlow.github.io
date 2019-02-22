@@ -72,23 +72,27 @@ If you Google around everyone will tell you to "raise your rates" or "charge mor
 
 Having the self-confidence and authority to command premium rates is intrinsically linked to a sense of self-worth and identity. And by extension - **any doubt or wavering of self-confidence causes psychic trauma / cognitive dissonance when you attempt to attach dollars to your personal identity**
 
-How can you solve this? Through a deliberately professional label. This quote illustrates it really well (bolding mine):
+How can you solve this? Through a deliberately professional label. 
 
-> At that point, I was charging $25-30 an hour and loved what I was doing, but soon realized that in my work, I’d often create systems that erased the job I was initially hired to do. **That’s when I realized I could start calling myself a consultant. Owning the title “consultant” enabled a psychological shift in the way I thought about the work I was doing. This shift led me to increase my rate again**, and eventually to articulate the skills I could offer new clients in the form of a program, complete with a business name, website, and set of rates. Before I articulated this “business offering” in a clear program, my annual revenue was around $40k. After making it clear exactly what I could offer potential clients, and by shifting my offerings based on what I saw clients finding most useful, my revenue jumped to $60k, then $85k, and last year (2018) it was $110k. (Remember, these numbers are revenue, not net profit.)
-
-This is from the excellent piece [On what it takes to sustain a creative life financially](https://thecreativeindependent.com/people/on-what-it-takes-to-sustain-a-creative-life-financially/) by Sarah Schulweis.
-
-Once you find a label that you are not terrified of and can live with and feel like you mostly have earned then you can use that label as **psychic armor to create emotional protection from the traumas of capitalism**.
+Once you find a label that you are not terrified of then you can use that label as **psychic armor to create emotional protection from the traumas of capitalism**.
 
 One has a vague sense of what rate feels too low, but almost anything above that seems too high.
 
 You need a construct to do the charging *for you*.
 
+This quote illustrates it really well (bolding mine):
+
+> At that point, I was charging $25-30 an hour and loved what I was doing, but soon realized that in my work, I’d often create systems that erased the job I was initially hired to do. **That’s when I realized I could start calling myself a consultant. Owning the title “consultant” enabled a psychological shift in the way I thought about the work I was doing. This shift led me to increase my rate again**, and eventually to articulate the skills I could offer new clients in the form of a program, complete with a business name, website, and set of rates. Before I articulated this “business offering” in a clear program, my annual revenue was around $40k. After making it clear exactly what I could offer potential clients, and by shifting my offerings based on what I saw clients finding most useful, my revenue jumped to $60k, then $85k, and last year (2018) it was $110k. (Remember, these numbers are revenue, not net profit.)
+
+This is from the excellent piece [On what it takes to sustain a creative life financially](https://thecreativeindependent.com/people/on-what-it-takes-to-sustain-a-creative-life-financially/) by Sarah Schulweis.
+
+This quote resonates with me because I went through the exact same journey - struggling to charge well for my time when I viewed myself as a freelancer or self-employed. Once I started using the word consultant (and started to actually believe it!) I felt more comfortable charging more for my work.
+
 For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice{% include tufte-sn.html id="yesand" content="I wrestled with a professional identity a while back in this post <a href='https://tomcritchlow.com/2016/08/01/brand/'>Why I've decided not to launch a brand for my consulting work</a>. While I decided not to create a website and ‘branding’ for this agency called Yes, and… I did end up forming an LLC and use that construct on all my invoices." %}.
 
-How do you develop a capitalist construct? For me, it’s as simple as leaning on the word “consultant”. To me, it implies authority and an associated price tag. For others, creating a “studio” branding might be the construct needed to charge well.
+How do you develop your own capitalist construct? It will vary from industry to industry. For me, it’s as simple as leaning on the word “consultant”. For others, creating a “studio” branding might be the construct needed to charge well.
 
-The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that those who bill hourly are more likely to see time and money as the same and take less pleasure in leisure activity. I think a professional identity and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
+The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that trading your time for money leads to taking less pleasure in leisure activity. I think a professional label and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
 
 ## “The Question” & the identity crisis
 
