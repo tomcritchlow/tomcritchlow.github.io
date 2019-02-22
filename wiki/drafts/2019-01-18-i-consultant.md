@@ -108,6 +108,9 @@ The reason this question is able to throw you for a loop is because it challenge
 
 There's two ways to protect yourself from this emotional rollercoaster.
 
+- Don't let their label over-rule your label.
+- Remember that you can retain your identity as a consultant *and* take a full-time role. Offer to take the role but still bill through your LLC. While this option isn't exactly viable for many situations it can help your perspective by thinking through this lens.
+
 I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director{% include tufte-sn.html id="cd" content="Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends…." %} at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
 
 ## Poetry over Power
