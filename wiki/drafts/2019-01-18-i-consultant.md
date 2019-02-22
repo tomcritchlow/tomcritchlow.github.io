@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: I, consultant? [draft]
-subtitle: Managing identity as an independent
+subtitle: Have you ever struggled to describe who you are as an independent?
 draft: true
 tags: strategy
 ---
@@ -60,9 +60,15 @@ Firstly, you imagine that this label matters **externally**. Positioning is ofte
 
 Secondly, you imagine that you have to **earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity{% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='Song of Myself'>https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version</a> 'I am large, I contain multitudes!'" %}!
+Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity{% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %}!
 
 ## Psychic Armor for the Arena of Capitalism
+
+Making labels is not just aspirational and emotional though.
+Is the struggle to create labels worth it? Beyond just self-confidence, yes. There's one key benefit to labels - helping you charge more.
+
+
+
 
 See: https://thecreativeindependent.com/people/on-what-it-takes-to-sustain-a-creative-life-financially/
 
