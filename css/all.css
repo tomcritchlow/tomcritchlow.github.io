@@ -125,6 +125,10 @@ blockquote {
     padding-top: 2rem;
 }
 
+.subtitle{
+    padding-top:0px;
+}
+
 .postcontainer p{
     line-height:1.6em !important;
 }
