@@ -7,6 +7,44 @@ draft: true
 
 Publish at junkfeeds.world
 
+Rem Koolhaas provided context for modern space - for modern living - in his 2002 essay Junkspace. In the essay Rem provides a glimpse of the flattening, commercializing and colonizing of space:
+
+>"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
+
+The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place they become everywhere and nowhere.
+
+But out experience of space has been transformed once again - because every space now is a dual-space. The space we inhabit physically and the corresponding digital space that we consume. Wherever we are. Everywhere and nowhere.
+
+Our physical space has been subsumed by the digital - waiting in airports the screens on the walls are bigger and louder than ever - but they fade away against the screens in our hands. Personal. Intimate. Glowing.
+
+In this way - junkspace has been digitized and replaced by the screens in our hands. From Junkspace to Junkfeeds.
+
+As we shift into the 22nd century we will pretend "things are getting better". The architecture and space of Junkspace will get better - fewer screens, tastefully designed. Because junkspace is no longer junkspace it's just space. Background space. The star of the show is Junkfeeds.
+
+Pop-up instagram-space is trying so hard but that too will fade away. Physical space is done. It's been colonized and replaced by Junkfeeds. An infinite colorful horror-scape that's always changing, new, personalized and in your hand, bag, pocket. Never more than 60cm from your eyes at any time of day or night.
+
+Feeds weren't always bad. In the early internet feeds were a good thing - RSS as artisinal or "free" feeds were hailed as "the answer".
+
+But digital space became colonized, commercialized and flattened. The FANGs are sunk deep in us now. Facebook is the posterchild of destruction.
+
+These RSS-feeds were radical and owned by no one. Until they were killed and replaced by centralized, commercialized feeds. Facebook gave the illusion of "human-powered-technology". See what your friends are up to.
+
+This digital space spread like a virus - every space became Facebook's. Every waking minute is spent doing something or doing Facebook. The toilet? Facebook's. The airport? Definitely Facebook's. The underneath, between the legs of the conference room? Facebook's.
+
+To begin with these feeds were populated by humans - humans sharing real content with other humans. But of course there is a better way. So human shared posts become 
+
+Unfolding content. Origami-spam. Unasked for. Irrelevant. Inpersonal.
+
+Of flesh and glass
+The darkness of brightly lit screens.
+
+
+
+The algorithm does not recommend - it reflects. It's a machine for turning our own biases against us. Literally programmed it is a recipe for turning depravation into clicks.
+
+
+
+
 Rem Koolhaas laid out the foundations of modern space in his essay Junkspace. But as we tipple over into the eve of 2020 it's time to acknowledge that Junkspace has been colonized by Junkfeeds. As our experience of space increasingly overlaps with digital space our physical environments are prone to viruses and hacking. And junkfeeds have fully and successfully hacked our physical environment.
 
 The human neck has been slumped by junkfeeds. In every space. At every point in time.
