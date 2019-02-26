@@ -126,7 +126,7 @@ blockquote {
 }
 
 .subtitle{
-    padding-top:0px;
+    padding-top:0px !important;
 }
 
 .postcontainer p{
