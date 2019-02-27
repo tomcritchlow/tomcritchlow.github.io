@@ -10,7 +10,9 @@ The thing no one tells you when you set out on your own is that you take on the 
 
 This can feel like *"soft"* work - somehow less important than the *"real"* work of finding clients, setting up an LLC, etc. But the truth is that the labels you use to describe yourself are crucial to your self-identity in the world of independent work.
 
-And, counter-intuitively, creating labels is hard not because they have to work for others (clients, friends etc) but because the label has to work for you. Of course labels are external by design - they play a role in how you position and market yourself. But the struggle for labels happens internally - the real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
+And, counter-intuitively, creating labels is hard not because they have to work for others (clients, friends etc) but because the label has to work for you.
+
+Of course labels are external by design - they play a role in how you position and market yourself. But the struggle for labels happens internally - the real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
 
 *Do I justify this label?*
 
@@ -65,11 +67,11 @@ Firstly, **you imagine that this label matters externally**. Positioning is ofte
 
 Secondly, **you imagine that you have to earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-<span class=”contributor”>TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
+<span class="contributor">TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
 
 Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. 
 
-<span class=”contributor”>TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the </span>
+<span class="contributor">TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the </span>
 Remember you can have multiple labels just like you have a multi-faceted identity. As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" 
 
 ## Psychic Armor for the Arena of Capitalism
@@ -140,5 +142,7 @@ So play with labels, understand their power not over others but over ourselves. 
 <style>
     .contributor{
         background-color:#673ab74f;
+        padding-top:0.25rem;
+        padding-bottom:0.25rem;
     }
     </style>
