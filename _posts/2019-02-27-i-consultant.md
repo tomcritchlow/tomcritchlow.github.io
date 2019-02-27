@@ -2,11 +2,10 @@
 layout: tufte
 title: I, consultant?
 subtitle: The struggle to define who you are as an independent and the promise of charging more for your work
-draft: true
 tags: strategy
 ---
 
-*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="toby" content="Thanks to Toby Shorin of Subpixel Space for helping put this piece together. Toby's comments are <span class='contributor'>marked in purple</span> throughout the piece." %}
+*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="toby" content="Thanks to Toby Shorin of <a href='https://subpixel.space/'>Subpixel Space</a> for helping put this piece together. Toby's comments are <span class='contributor'>marked in purple</span> throughout the piece." %}
 
 The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do. 
 
@@ -69,11 +68,11 @@ Firstly, **you imagine that this label matters externally**. Positioning is ofte
 
 Secondly, **you imagine that you have to earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-<span class="contributor">TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
+<span class=”contributor”>TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
 
 Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity. {% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %} 
 
-<span class="contributor">TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the </span>
+<span class="contributor">TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the distinction between your professional and personal self-perception. When are you acting as a “consultant” or “freelancer,” and when are you acting as “father” or “partner?” Lines between networking and making friends blur, and it becomes necessary to get comfortable with these overlapping labels.</span>
 
 ## Psychic Armor for the Arena of Capitalism
 
@@ -107,6 +106,8 @@ How do you develop your own capitalist construct? It will vary from industry to 
 
 The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that trading your time for money leads to taking less pleasure in leisure activity. I think a professional label and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
 
+<span class="contributor">TS: Note that even within our professional construct, different situations call for different behaviors. It can be helpful to think of each of these as a micro-label: the me who deals with difficult client stakeholders; the me who can ask to raise my rates; the me who is good at networking; the me who can give a great sales pitch.</span>
+
 ## “The Question” & the identity crisis
 
 Sooner or later when you're independent a client will offer you a full time role.
@@ -119,10 +120,15 @@ Talking to others I get the same sense - that even when it's a company, a role o
 
 The reason this question is able to throw you for a loop is because it challenges your self-made identity. It directly confronts and questions your ability to stand behind the labels you’ve chosen - by placing them in contrast to the “authoritative” and “well-understood” and “recognizable” label that they’re offering you.
 
+<span class="contributor">TS: The company has pierced directly through the psychic armour of your professional construct, and made a claim on your identity—they are offering a direct challenge to your label structure, your perception of who you are.</span>
+
 There's two ways to protect yourself from this emotional rollercoaster.
 
-- Don't let their label over-rule your label. You have a seat at the table - and they can't take that away from you.
-- Remember that you can retain your identity as a consultant *and* take a full-time role. Offer to take the role but still bill through your LLC. While this option isn't exactly viable for many situations it can help your perspective by thinking through this lens.
+Firstly, Don't let their label over-rule your label. You have a seat at the table - and they can't take that away from you.
+
+<span class="contributor">TS: The client is offering to change its relationship with you, but don’t forget they still perceive you as a consultant to them. What you have is valuable enough for them to pay the premium rate of an independent consultant. Except for in senior executive roles, joining full time can in fact devalue your work as it becomes more accessible.</span>
+
+Secondly, remember that you can retain your identity as a consultant *and* take a full-time role. Offer to take the role but still bill through your LLC. While this option isn't exactly viable for many situations it can help your perspective by thinking through this lens.
 
 I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director{% include tufte-sn.html id="cd" content="Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends…." %} at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
 
