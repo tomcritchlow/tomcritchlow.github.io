@@ -32,7 +32,7 @@ These days I call myself a consultant. But I've been doing this 4.5 years and it
 
 When you’re fully employed, you get a steady paycheck but you also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example).
 
-<span class="contributor">TS: This label is affirmed in speech and action by your colleagues, who interact with you through and on the terms of your role. You fit into your employer’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity. “Imposter syndrome,” then, is simply the neurotic inability to accept others’ recognition and confirmation of your given label.</span>
+<span class="contributor">Toby Shorin: This label is affirmed in speech and action by your colleagues, who interact with you through and on the terms of your role. You fit into your employer’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity. “Imposter syndrome,” then, is simply the neurotic inability to accept others’ recognition and confirmation of your given label.</span>
 
 But when you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own. When you first leap into this unknown it's often easy to describe who you are - you're defined by what you just left.
 
@@ -71,10 +71,9 @@ Secondly, **you imagine that you have to earn** your label. That somehow others 
 
 <span class="contributor">TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
 
-Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. 
+Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity. {% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %} 
 
 <span class="contributor">TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the </span>
-Remember you can have multiple labels just like you have a multi-faceted identity. As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" 
 
 ## Psychic Armor for the Arena of Capitalism
 
