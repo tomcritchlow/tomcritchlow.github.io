@@ -138,7 +138,7 @@ From the book *Finite & Infinite Games*:
 
 > “Therefore, poets do not 'fit' into society, not because a place is denied them but because they do not take their 'places' seriously. They openly see its roles as theatrical, its styles as poses, its clothing costumes, its rules conventional, its crises arranged, its conflicts performed and its metaphysics ideological.”
 
-So play with labels, understand their power not over others but over ourselves. Understand their ability to provide shelter in the capitalist storm and then, eventually, discard them entirely and embrace the poetry of life.
+So play with labels, understand their power not over others but over ourselves. Understand their ability to provide an inner confidence and provide shelter in the capitalist storm.
 
 <style>
     .contributor{
