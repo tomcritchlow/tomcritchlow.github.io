@@ -116,8 +116,14 @@ Junkfeeds - click a link and it spawns a fractal of new variations for you. For 
 
 Same for youtube.
 
-"Junkspace pretends to unite, but it actually splinters. It creates communities not of shared interest or free association, but of identical statistics and unavoidable demographics, an oportunistic weave of vested interests. Each man, woman and child is individually targeted, tracked, split off from the rest.. Fragments come together at 'security' only, where a grid of video screens disappointingly reassembles individual frames into a banalized, utilitarian cubism that reveals junkspace's overall coherence to the dispassionate glare of barely trained guards: videoethnography in its brute form. "
+"Junkspace pretends to unite, but it actually splinters. It creates communities not of shared interest or free association, but of identical statistics and unavoidable demographics, an oportunistic weave of vested interests. Each man, woman and child is individually targeted, tracked, split off from the rest.. Fragments come together at 'security' only, where a grid of video screens disappointingly reassembles individual frames into a banalized, utilitarian cubism that reveals junkspace's overall coherence to the dispassionate glare of barely trained guards: videoethnography in its brute form."
 
 "The 21st century will bring 'intelligent' Junkspace: on a big digital 'dashboard': sales, CNNNYSENASDAQC-SPAN, anything that goes up or down, from good to bad, presented in real time like the automotive theory course that complements driving lessons..."
 
 "Conceptually, each monitor, each TV screen is a substitute for a window; real life is inside, cyberspace has become the great outdoors..."
+
+Outbrain, Rankbrain, Meanwhile Facebook is working on a computer-brain interface. Of course they are. The brain - once the provenance of has been iced, analyzed and improved by the computer. Junkbrains.
+
+Log into the wifi? Junkfeed.
+Open your banking app. Junkfeed.
+Google homepage? Junkfeed.

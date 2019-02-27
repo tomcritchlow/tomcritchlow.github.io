@@ -10,7 +10,7 @@ The thing no one tells you when you set out on your own is that you take on the 
 
 This can feel like *"soft"* work - somehow less important than the *"real"* work of finding clients, setting up an LLC, etc. But the truth is that the labels you use to describe yourself are crucial to your self-identity in the world of independent work.
 
-And, counter-intuitively, creating labels is hard not because they have to work for others (clients, friends etc) but because the label has to work for you. The real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
+And, counter-intuitively, creating labels is hard not because they have to work for others (clients, friends etc) but because the label has to work for you. Of course labels are external by design - they play a role in how you position and market yourself. But the struggle for labels happens internally - the real audience is the person looking back at you in the mirror. A label you can feel comfortable and confident with.
 
 *Do I justify this label?*
 
@@ -26,9 +26,11 @@ These days I call myself a consultant. But I've been doing this 4.5 years and it
 
 ## Tend to your labels as you grow
 
-When you’re fully employed, we get a steady paycheck but we also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example). When you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own.
+When you’re fully employed, you get a steady paycheck but you also get a **stable, recognized label**. You say “I'm a product manager at IBM" (for example).
 
-When you first leap into the unknown it's often easy to describe who you are - you're defined by what you just left.
+<span class="contributor">TS: This label is affirmed in speech and action by your colleagues, who interact with you through and on the terms of your role. You fit into your employer’s org chart, a map of possible role-labels which exist as constituent pieces within the whole of the business entity. “Imposter syndrome,” then, is simply the neurotic inability to accept others’ recognition and confirmation of your given label.</span>
+
+But when you step out on your own you suddenly remove the construct that provides this plug-and-play identity and are left to make one up on your own. When you first leap into this unknown it's often easy to describe who you are - you're defined by what you just left.
 
 *"I just quit Google to head out on my own."*
 
@@ -40,7 +42,7 @@ This framing is easy and safe - and it's totally ok to lean on this. While you w
 
 As the days turn into weeks and months though, new language will emerge.
 
-When I headed out on my own into the world of independent work I used the word “consulting”{% include tufte-sn.html id="consultant" content="This is largely because I used the term ‘consulting’ when I was doing client work at the agency Distilled pre-Google." %} to describe the kind of client work I was doing. But it didn't feel right to call myself a "consultant" yet.
+When I headed out on my own into the world of independent work I used the word “consulting” to describe the kind of client work I was doing, largely because I used the term ‘consulting’ when I was doing client work at the agency Distilled pre-Google." But it didn't feel right to call myself a "consultant" yet.
 
 If you’ve done client work before, it might feel instinctive to use whatever word you used then.  But now that you’re out on your own, and you’ll likely wrestle with the kind of language you feel is “true” or “earned”:
 
@@ -50,17 +52,25 @@ If you’ve done client work before, it might feel instinctive to use whatever w
 
 As you head into the unknown of independent work you should worry less about this label - **no one will care about is as much as you do** - and it’s less an absolute definition of who you are and more a process of growing into the person you want to be.
 
-## The angst of labels
+## The internal angst of labels
 
-As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them{% include tufte-sn.html id="website" content="One of the most common ways to wrestle with labels is on your website or about page. You have all the freedom in the world to create your own language... But what feels right?" %} and lose sleep over them (I know I did!). 
+As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them and lose sleep over them (I know I did!).
 
-The angst of labels comes in three ways:
+Again - labels have the dual property of being external and internal. They’re external in the sense that you’ll use them on your website{% include tufte-sn.html id="website" content="As an independent - <em>putting your website together</em> is like a rite of passage. Everyone struggles with it and you will always have a vague unease with what your personal site says about yourself." %}, your twitter bio and in conversation. But from my own experience this external nature of labels takes a backseat to the inner hand-wringing and discomfort that comes with trying to describe who you are and what you do.
+
+This inner angst of labels comes in three ways:
 
 Firstly, **you imagine that this label matters externally**. Positioning is often discussed in the context of "market positioning" or "positioning statement" - something that helps potential clients find and engage with you. That's true, to a degree. But for many independents the label is less important externally than it is internally. Clients tend to look for evidence, content, associations and perspective that aligns with theirs. They tend to be indifferent to the specifics of the label you use (e.g. a consultant or a freelancer).
 
+
 Secondly, **you imagine that you have to earn** your label. That somehow others have the power to *grant* you use of a label. No one has that power, but a lot is riding on the shared belief that institutions can and do control this power. Part of being untethered and free-floating independent is existing outside of the gatekeeper infrastructure.
 
-Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity{% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %}!
+<span class=”contributor”>TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
+
+Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. 
+
+<span class=”contributor”>TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the </span>
+Remember you can have multiple labels just like you have a multi-faceted identity. As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" 
 
 ## Psychic Armor for the Arena of Capitalism
 
