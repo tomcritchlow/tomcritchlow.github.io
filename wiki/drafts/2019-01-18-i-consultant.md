@@ -6,6 +6,8 @@ draft: true
 tags: strategy
 ---
 
+*Co-authored by Tom Critchlow & Toby Shorin{% include tufte-sn.html id="toby" content="Thanks to Toby Shorin of Subpixel Space for helping put this piece together. Toby's comments are <span class="contributor">marked in purple</span> throughout the piece." %}*
+
 The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do. 
 
 This can feel like *"soft"* work - somehow less important than the *"real"* work of finding clients, setting up an LLC, etc. But the truth is that the labels you use to describe yourself are crucial to your self-identity in the world of independent work.
