@@ -142,7 +142,7 @@ So play with labels, understand their power not over others but over ourselves. 
 
 <style>
     .contributor{
-        background-color:#673ab74f;
+        background-color:#673ab726;
         padding-top:0.25rem;
         padding-bottom:0.25rem;
     }
