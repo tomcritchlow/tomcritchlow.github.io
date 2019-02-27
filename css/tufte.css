@@ -229,9 +229,9 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 #disqus_thread{width:55%;}                         
 
-@media (max-width: 760px) { body { width: 84%;
-                                   padding-left: 8%;
-                                   padding-right: 8%; }
+@media (max-width: 760px) { body { width: 90%;
+                                   padding-left: 5%;
+                                   padding-right: 5%; }
                             h1, h2, h3, p.subtitle { width:100%; }
                             h1{font-size: 3.2rem;}
                             hr, section > p, section > footer, section > table { width: 100%; }
