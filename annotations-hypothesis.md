@@ -35,3 +35,11 @@ window.hypothesisConfig = function () {
 };
 
 </script>
+
+<style>
+  .annotator-adder{
+    position:fixed !important;
+    bottom:20px !important;
+
+  }
+  </style>
