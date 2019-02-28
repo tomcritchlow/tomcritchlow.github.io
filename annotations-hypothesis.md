@@ -34,6 +34,13 @@ window.hypothesisConfig = function () {
   };
 };
 
-$('.annotator-adder').attr("style","position:fixed !important");
-
 </script>
+
+<style>
+hypothesis-adder{
+  position:fixed !important;
+  bottom:50px !important;
+  left:20px !important;
+}
+
+  </style>
