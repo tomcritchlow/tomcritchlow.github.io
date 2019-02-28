@@ -34,4 +34,6 @@ window.hypothesisConfig = function () {
   };
 };
 
+$('.annotator-adder').attr("style","position:fixed !important");
+
 </script>
