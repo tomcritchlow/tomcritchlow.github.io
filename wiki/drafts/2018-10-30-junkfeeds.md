@@ -7,31 +7,146 @@ draft: true
 
 Publish at junkfeeds.world
 
+Outline:
+- Space has become digital junkspace has become junkfeeds
+- Platform and device age welcomed feeds as the entry point.
+- Human feeds aren't fast enough and aren't radical enough. We tried with "what time is the superbowl"
+- Enter junkfeeds. Entirely algorithmic feeds. Google leading the way, FB following.
+- Junkfeeds are radical and they radicalize
+- Junkfeeds are infinite and fractal. Search- replace search with pre-crimes. Click a link and a million more are suggested and unfurl.
+- Junkfeeds are also silently political - filtering out small indie sites. This URL is not shareable on FB. Post it and a tiny fraction of your friends will even see it. An invisible censorship.
+- Every search term has an infinite junkfeed on top.
+- Work has become junkfeeds too. Slack is a collection of junkfeeds demanding your attention. True for gig economy too "quote pulsing quantum cell of labor"
+- Forcing everything into shorter and shorter windows of time and stuffing infinite feeds into every window
+- The next generation growing up in Junkfeeds has learned to be junkusers. Shapeshifting
+- So what next? Where next? Time being carved up into ever smaller chunks. The final frontier of 
+
+
 Rem Koolhaas provided context for modern space - for modern living - in his 2002 essay Junkspace. In the essay Rem provides a glimpse of the flattening, commercializing and colonizing of space:
 
 >"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
 
-The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place they become everywhere and nowhere.
-
-But out experience of space has been transformed once again - because every space now is a dual-space. The space we inhabit physically and the corresponding digital space that we consume. Wherever we are. Everywhere and nowhere.
-
-Our physical space has been subsumed by the digital - waiting in airports the screens on the walls are bigger and louder than ever - but they fade away against the screens in our hands. Personal. Intimate. Glowing.
+The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place they become everywhere and nowhere. But our experience of space has been transformed once again - because every space now is a dual-space. The space we inhabit physically and the corresponding digital space that we consume. Wherever we are, we are also in digital space. Our physical space - junkspace - is now just backdrop for an equivalent junk-digital-space. How do we understand where we are in digital space? It's feeds. Every commercialized, flattened, colonized part of digital space is now feeds - junk-feeds. Junkfeeds.
 
 In this way - junkspace has been digitized and replaced by the screens in our hands. From Junkspace to Junkfeeds.
 
 As we shift into the 22nd century we will pretend "things are getting better". The architecture and space of Junkspace will get better - fewer screens, tastefully designed. Because junkspace is no longer junkspace it's just space. Background space. The star of the show is Junkfeeds.
 
+## Feeds flattened time
+
+Digital space has no edges. Craigmod writes:
+
+>Edges are about feeling as much as seeing. With edges comes a sense of weight. And with that comes the ability to feel — physically and psychically. And with that, a better understanding of what we've built and where we've been.
+https://craigmod.com/journal/digital_physical/
+
+Meditate on the opposite - the lack of edges denotes a lack of feeling. A desensitized experience. The feed - an edgeless, infinite thing - desensitizes. Removes our feeling and replaces it with consuming.
+
+So how do you experience an infinite plain? There must be some logic, some structure. Time was the first logic - the first attempt at an edge-like structure. So the reverse-chronological-feed spread like a virus. First in blogs then to apps, then to platforms.
+
+At first feeds felt like a natural and pleasing structure. Hey look how easy it is to use! Everything just flows through the feed.
+
+
+
+## Humans are bad at making feeds
+
+If you look at a feed like a platform - humans are a poor way to make a feed. They're too slow, too careful. The average user checks their phone every 2 minutes and they bounce between apps before putting their device of horrors back in thier pocket. This constant always-on checking is too much consumption for humans to handle. The platforms run out of content.
+
+The answer? Curated feeds - things start appearing in your feed as tangential content. 
+
+But the commercialized platforms need to grow - and they need to increase the throughput of the stream. So time becomes political. Junktime - 
+
+We consume faster than we create - we go on vacation. We need breaks to heal. But 
+
+Facebook rolls out the algorithmic feed - then everything else follows.
+
+## Feeds drained of humans
+
+But even algorithmically curated feeds are not fast enough. Platforms need to remove humans entirely from the process to keep up with our insatiable appetite.
+
+Google was the first major platform to completely break this - the Google Feed (which shows up on the homescreen of Android phone, on the start page on Chrome) is now entirely divorced from humans. No longer is content presented to you because you asked for it, or because someone you know shared it, or because someone you know interacted with it, but just... because Google said so.
+
+>"Junkspace is often described as a space of flows, but that is a misnomer; flows depend on disciplined movement, bodies that cohere. Junkspace is a web without spider; although it is an architecture of the masses, each trajectory is strictly unique."
+
+Junkspace is now digital - a web without a spider. No disciplined movement, just feeds to blanket and enslave the masses.
+
+This suggested content feed is the true, purest Junkfeed. Not because it's the worst - but architecturally it's the most pure. No pretension of humans. There never were humans here. Based entirely on the premise that Google knows you.
+
+Algorithmicly curated feeds are not good enough though. They're not fast enough - not radical enough.
+
+
+
+The feeds became jUnkfeeds the moment humans were taken out. The algorithmic feed is - by it's nature - a junkfeed.
+
+## Junkfeeds are radical
+
+We consume junkfeeds in every moment. Shitting. Fucking even. 
+Twitter, Facebook, Google Assist, But YOutube too. Instagram.
+
+Junkfeeds are radical. Extreme. They are forcing functions to push us to the edges.
+
+We check our feeds when we're anxious. And junkfeeds make us anxious, radicalized, paranoid, scared, angry.
+
+The algorithm does not recommend - it reflects. It's a machine for turning our own biases against us. Literally programmed it is a recipe for turning depravation into clicks.
+
+> "Junkspace pretends to unite, but it actually splinters. It creates communities not of shared interest or free association, but of identical statistics and unavoidable demographics, an oportunistic weave of vested interests. Each man, woman and child is individually targeted, tracked, split off from the rest.. Fragments come together at 'security' only, where a grid of video screens disappointingly reassembles individual frames into a banalized, utilitarian cubism that reveals junkspace's overall coherence to the dispassionate glare of barely trained guards: videoethnography in its brute form."
+
+Facebook is a space for communication. For groups. For friends. Except it actually tears us apart. Junkfeeds feed us neither things we need or want. Things that are designed to divide us and agitate us.
+
+## Visible junkfeeds
+
+Search for brocolli online and you'll get not information, but entertainment. Infinite news.
+
+## Invisible jUnkfeeds
+
+Just becasue they are junkfeeds doesn't mean they don't care for them. Quite the opposite - vast machinery and infrastructure 
+
+Verge article on content moderators.
+
+Try posting this article to Facebook - nothing will happen. No warning notice, no one will see it. The algorithms won't like it. This site is filtered automatically in their algorithms. 
+
+## Workspace is now junkspace (sorry, junkfeeds)
+
+Most information-work is feed based now. Slack has ushered in a post-email feed-based environment. But Slack's collection of feeds are mostly pre-junked. They're not yet algorithmic (it's only a matter of time).
+
+But actually the real terror is in feeds of work scrolling through the gig economy. An upworker's dashboard of jobs is a junkfeed in a different way - controlled by algorithms in a differnet way. The algorithm dictates which upworker appears in which searches.
+
+
+
+## Quantified labor
+
+From Bifo:
+
+>From the standpoint of capitalist valorisation, this flow is uninterrupted and finds its unity in the object produced; however, from the standpoint of cognitive workers the supply of labor is fragmented: fractals of time and pulsating cells of labor are switched on and off in the large control room of global production. Therefore the supply of labor time can be disconnected from the physical and juridical person of the worker. Social labor time becomes an ocean of valorising cells that can be summoned and recombined in accordance with the needs of capital. 
+
+> The organization of labor has been fragmented by the new technology, and workers’ solidarity has been broken at its roots. The labor market has been globalized, but the political organization of the workers has not. The info-sphere has dramatically changed and accelerated, and this is jeopardizing the very possibility of communication, empathy and solidarity. 
+
+## Users to Junkusers?
+
+Users turn themselves into junkusers. Grown up drinking from the poisoned well they understand that 
+
+## After the future of junkfeeds
+
+Where to from here? Will time continue to get subdivided. Junkfeeds become hyper-junkfeeds? On our wrists - in our ears - inside our eyeballs?
+
+Production of content is still mostly human today - but there is a smell in the air. Change is coming. And junkfeeds, fed by junkcontent will accelerate the problem. Further pushing underground junkusers who seek to protect their identity and personal space in the seas of change.
+
+
+
+
+
+
+
 Pop-up instagram-space is trying so hard but that too will fade away. Physical space is done. It's been colonized and replaced by Junkfeeds. An infinite colorful horror-scape that's always changing, new, personalized and in your hand, bag, pocket. Never more than 60cm from your eyes at any time of day or night.
 
-Feeds weren't always bad. In the early internet feeds were a good thing - RSS as artisinal or "free" feeds were hailed as "the answer".
 
-But digital space became colonized, commercialized and flattened. The FANGs are sunk deep in us now. Facebook is the posterchild of destruction.
 
-These RSS-feeds were radical and owned by no one. Until they were killed and replaced by centralized, commercialized feeds. Facebook gave the illusion of "human-powered-technology". See what your friends are up to.
+The FANGs are sunk deep in us now. Facebook is the posterchild of destruction.
+
+
 
 This digital space spread like a virus - every space became Facebook's. Every waking minute is spent doing something or doing Facebook. The toilet? Facebook's. The airport? Definitely Facebook's. The underneath, between the legs of the conference room? Facebook's.
 
-To begin with these feeds were populated by humans - humans sharing real content with other humans. But of course there is a better way. So human shared posts become 
+
 
 Unfolding content. Origami-spam. Unasked for. Irrelevant. Inpersonal.
 
@@ -40,7 +155,6 @@ The darkness of brightly lit screens.
 
 
 
-The algorithm does not recommend - it reflects. It's a machine for turning our own biases against us. Literally programmed it is a recipe for turning depravation into clicks.
 
 
 
@@ -51,11 +165,11 @@ The human neck has been slumped by junkfeeds. In every space. At every point in 
 
 Junkfeeds started as an authentic human space of sharing - here are things to be interested in, excited about, important things, small things. This notion was quickly gutted. Facebook removed organic audiences from you unless you pay, Facebook and Twitter revealed the algorithmic timeline.
 
-But the feeds accelerated and became industrialized two things happened.
+
 
 Below the surface of junkfeeds algorithms shape the content to normalize and sanitize it. Like the underbelly of workers at the hotel you stay at. Invisible infrastructure to ensure minimum viable sanitation. Removing any content that is an outlier.
 
-And Google eventually, bigger than twitter, has removed humans entirely (and next perhaps is going to be the human-written content underneath)
+
 
 Junkfeeds are slot machines. Gambling with our attention and emotional response. We used to "play" the slots by dragging to refresh, but the feeds now infinite and real time no longer require refreshing. Now, we "play" by interacting with the feed. Hearting, thumbsing, commenting, (and not very often) clicking. But every click in the junkfeed spawns more feed. A fractal reward for playing the junkfeed.
 
@@ -67,22 +181,6 @@ I'm optimistic for the future though - teens, raised as junkfeed-native, not web
 
 
 
-Junkfeeds colonise junkspace
-
-Sections:
-
-User generated to computer generated
-
-Infinite feeds
-
-Spawning-fractal feeds (click on a link and generate more)
-
-Political feeds - dismembering politics
-
-Disenfranchising - youthfeeds, from junkfood to junkfeeds
-
-Everywhere is junkspace now. Everytime is junkfeeds. Junktime.
-
 
 Americans spend quiet time in their car. Staring at their phone. At their junkfeeds.
 
@@ -91,24 +189,17 @@ Americans spend quiet time in their car. Staring at their phone. At their junkfe
 An excellent version of the essay Junkspace appears here rendered in a beautiful digtial version by Caavia here: https://www.cavvia.net/junkspace/ and is a perfect digital companion to this essay.
 
 
-Junkfeeds. (posted on junkfeeds.com ?)
+
 
 Thesis: industrialized and algorithmic feeds have sucked the "feed" dry. But there is value in subscribing to flows if we can learn to put the junkfeeds in their place and build smaller personal flows. We'll do that via 
 
-
-The algorithmic feed is designed (for whom? by whom?) to deliver us "better" content.
-
-Practical tips:
-
-Remove algorithmic timelines
-Nurture small feeds
 
 
 Everywhere is junkspace now. Everytime is junkfeeds. Junktime.
 
 Junkfeeds - click a link and it spawns a fractal of new variations for you. For YOU.
 
-"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
+
 
 "Junkspace is often described as a space of flows, but that is a misnomer; flows depend on disciplined movement, bodies that cohere. Junkspace is a web without spider; although it is an architecture of the masses, each trajectory is strictly unique."
 
@@ -116,7 +207,7 @@ Junkfeeds - click a link and it spawns a fractal of new variations for you. For 
 
 Same for youtube.
 
-"Junkspace pretends to unite, but it actually splinters. It creates communities not of shared interest or free association, but of identical statistics and unavoidable demographics, an oportunistic weave of vested interests. Each man, woman and child is individually targeted, tracked, split off from the rest.. Fragments come together at 'security' only, where a grid of video screens disappointingly reassembles individual frames into a banalized, utilitarian cubism that reveals junkspace's overall coherence to the dispassionate glare of barely trained guards: videoethnography in its brute form."
+
 
 "The 21st century will bring 'intelligent' Junkspace: on a big digital 'dashboard': sales, CNNNYSENASDAQC-SPAN, anything that goes up or down, from good to bad, presented in real time like the automotive theory course that complements driving lessons..."
 
@@ -127,3 +218,4 @@ Outbrain, Rankbrain, Meanwhile Facebook is working on a computer-brain interface
 Log into the wifi? Junkfeed.
 Open your banking app. Junkfeed.
 Google homepage? Junkfeed.
+

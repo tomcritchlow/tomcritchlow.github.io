@@ -27,3 +27,9 @@ https://www.gyford.com/phil/writing/2019/02/15/light-years-james-salter/
 https://twitter.com/vgr/status/1096253719761510400?s=19
 
 Gnomon: https://desert.glass/newsletter/week-8/
+
+ABC of reading - recc by Brian
+
+[Infinite detail](https://boingboing.net/2019/03/04/gnu-slash-apocalypse.html)
+
+How to do nothing - jenny odel
