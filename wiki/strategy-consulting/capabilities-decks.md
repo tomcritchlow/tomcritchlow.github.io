@@ -13,4 +13,4 @@ Case studies, capabilities decks and more that I've enjoyed:
 
 [Teehan & Lax Medium case study](https://www.teehanlax.com/story/medium/)
 
-[The agency pitch - 10 slides(https://medium.com/@lasslaby/the-agency-pitch-10-slides-for-2016-d767c4b693b9) - from Lindsey Slaby
+[The agency pitch - 10 slides](https://medium.com/@lasslaby/the-agency-pitch-10-slides-for-2016-d767c4b693b9) - from Lindsey Slaby
