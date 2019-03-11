@@ -85,7 +85,7 @@ It’s obvious - but often overlooked - that to build a flow of warm referrals y
 
 ### Public Groups
 
-My friend [Carly Ayres](https://docs.google.com/document/d/1p4v190oEA6_vSGAgIGA2HYUlCRrr1PbLNla6Z2f993w/edit) (who just sunsetted her studio - RIP Hawraf) hosts a meetup series called [100s under 100](https://www.fastcompany.com/90161136/inside-the-invite-only-slack-channel-for-designers). It’s a friends of friends kind of thing but open to a large group (these meetups range from a small group to 100s).
+My friend [Carly Ayres](http://carlyayres.com) (who just sunsetted her studio - RIP Hawraf) hosts a meetup series called [100s under 100](https://www.fastcompany.com/90161136/inside-the-invite-only-slack-channel-for-designers). It’s a friends of friends kind of thing but open to a large group (these meetups range from a small group to 100s).
 
 My friend [Mark Pollard](https://www.markpollard.net/) runs [Sweathead](https://www.facebook.com/groups/sweathead/) a public FB group for strategists. He’s a community-building natural and he actively cultivates community, engagement and audience - for example he has a [Sweathead podcast](https://www.markpollard.net/sweathead-podcast/) that interviews many people from the community itself.
 
@@ -104,6 +104,43 @@ Across all three of these approaches - **the key is to be the anchor of the netw
 
 ## Strange Communication - aka talking to your network
 
+It’s not enough to just have a network though. You need to talk to them for two key reasons:
+
+Firstly - **the key to getting good leads is helping your network understand what opportunities you might be a good fit for**. You have to help your network understand what you do and how you think. This is so much more than just “marketing work” - you need to really get granular. If you look back at the human warm leads above they all had a specific point of entry - for example “SEO leader with a background in content and commerce”. You need to talk and share with your network so that they can find these specific reference points for a warm intro.
+
+Secondly - **being top of mind is, remarkably, an effective tactic**. Humans are wired for recency so if someone saw a post or email of yours recently they’ll be much more likely to put you forward for work. Especially the further out you go in the fringes of your network you need to be seen to be remembered.
+
+If you look at the above examples - 100 under 100, Sweathead, Sunday Dinners, my own dinner series - every single one is a great platform that is taken advantage of by the owners to educate and talk about the work they do beyond just sharing client names. This creates a great surface area to cultivate the right kinds of work from your network.
+
+So, listen, I’m gonna sound like a broken record, but the blog+newsletter combo is a great answer. For independents you have to carve out your own little space to write and distribute your ideas. And don’t worry about chasing scale. From my piece [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/):
+
+> small b blogging. It’s a virtuous cycle of making interesting connections while also being a way to clarify and strengthen my own ideas. I’m not reaching a big audience by any measure but the direct impact and benefit is material.
+
+> Small b blogging is learning to write and think with the network. Small b blogging is writing content designed for small deliberate audiences and showing it to them. Small b blogging is deliberately chasing interesting ideas over pageviews and scale. An attempt at genuine connection vs the gloss and polish and mass market of most “content marketing”.
+
+## On Butterflies and Sea-gulls
+
+Remember that chaos-theory-butterfly anecdote?
+
+*“Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?”*
+
+Well, it was originally a quote about sea-gulls:
+
+> “One meteorologist remarked that if the theory were correct, one flap of a sea gull's wings would be enough to alter the course of the weather forever. The controversy has not yet been settled, but the most recent evidence seems to favor the sea gulls.”
+
+![](/images/seagull.jpeg)
+
+The poor ugly un-poetic seagull{% include tufte-sn.html id="tokyo" content="More often these days Texas gets replaced by Tokyo which also tells you about globalization and the romantic brand of Tokyo vs Texas" %}.
+
+What’s the story here? The lesson is that language is a virus. Design your case studies to be pithy - talk about your work in small fragments that can be repeated in oral culture:
+
+- “Commerce and content”
+- “Hired a team of 10” 
+- “Interim CMO”
+
+These short phrases can sum up and signal so much to the right person at the right time - and you can use many of them at once. This is an ongoing project of listening to how people make intros for you - and noting the little phrases they use. How are people understanding and describing your work in the two-line email?
+
+## The Capabilities Deck - Signal to Noise In Warm-Intro-Ville
 
 --
 
@@ -112,3 +149,5 @@ Image credits:
 Larry Bradley - http://www.stsci.edu/~lbradley/seminar/attractors.html
 
 By Dan Quinn - https://commons.wikimedia.org/w/index.php?curid=29370723
+
+Seagull from Life archives - http://images.google.com/hosted/life/2c99c2ba176c74ef.html
