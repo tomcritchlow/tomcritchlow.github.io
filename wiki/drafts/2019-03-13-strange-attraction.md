@@ -122,7 +122,7 @@ So, listen, I’m gonna sound like a broken record, but the blog+newsletter comb
 
 Remember that chaos-theory-butterfly anecdote?
 
-*“Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?”*
+> “Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?”
 
 Well, it was originally a quote about sea-gulls:
 
@@ -164,9 +164,7 @@ When you first start out as a consultant - I’m not entirely sure a capabilitie
 
 Looking for an example? Check out [Mark Pollard’s](https://docs.google.com/presentation/d/15dK-oRMr6KFy4YiWH51NPhPrld3v906AndndQgc5QVw/edit) for a good public example.
 
-There’s much more to be written about how to put one of these together but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
-
-See [this page on my wiki](https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/) for a little collection of inspiration and reference points on building a capabilities deck.
+There’s much more to be written about how to put one of these together{% include tufte-sn.html id="capdeck" content="I started collecting examples and advice for making a capabilities deck over on <a href='https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/'>my wiki page here</a>." %} but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
 
 ## The weird many-colored butterfly
 
@@ -203,12 +201,13 @@ Trying to build a CRM and lead-management tool for a solo independent business t
 Remember - all of this is my perspective, and there’s as many different ways of running a consulting business as there are varieties of butterflies. The key points are :
 
 - Warm leads power well-paid strategic work
-- Cultivating warm leads requires working with and understanding humans
-- Each individual human is chaos - but in aggregate we can control the system in two ways:
+- Cultivating warm leads requires working with, and understanding humans
+- It's hard to predict individual outcomes but in aggregate we can control the system in two ways:
   - Anchor our own networks
-  - Communicate regularly and explain the work you do
-- Make good stories that can be repeated
-- And embrace the oral platforms (conferences, podcasts) to create connections
+  - Communicate regularly and explain the work
+- Listen to how people make intros for key ways to describe the work
+- If you find yourself overwhelmed with ambiguous lukewarm leads consider a capabilities deck
+- Embrace the oral platforms (conferences, podcasts) to create connections
 - Finally, don’t belabor any kind of CRM unless you enjoy butterfly-collecting as a hobby
 
 What works for you?
