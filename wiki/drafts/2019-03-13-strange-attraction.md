@@ -53,19 +53,56 @@ I imagine every relationship as some kind of Lorenz strange loop - with us at ti
 
 But people - humans - contacts - friends - is where I get all of my business from. All of the leads for my consulting business come from a small number of people. In fact, running the numbers 60% of my all-time consulting revenue can be traced to just four people:
 
-|  Person | % of all-time revenue  |
-|---|---|
-| A  | 9.71%  |
-| B  | 24.23%  |
-| C  | 21.96%  |
-| D  | 4.48%  |
+![](/images/revtable.png)
 
 What does this feel like in practice?
 
+## A butterfly flutters
 
+Somewhere in London in 2010(?) I met two gentlemen at a networking dinner. If I’m honest I don’t recall this in any way shape or form. But someone I worked with in London around the same time who is now a close friend popped into my inbox in 2016 to make a strange attraction intro… 
 
+![](/images/lexi-intro.png)
 
+This lead turned into one of the biggest single sources of consulting revenue since I’ve been out on my own.
 
+Another one:
+
+![](/images/ajay-intro.png)
+
+This turned into a super-useful project for me that snowballed into the last year working in media. Funny how those things go.
+
+Sometimes though it’s people you don’t know very well. This is someone who I interviewed for a senior role at a previous job - who then turned the tables and put me forward for a consulting gig:
+
+![](/images/li-intro.png)
+
+Ok - so... Humans power this whole warm-leads business.
+
+But of all the humans I know - why these ones? Is it random? How can we motivate people to send us work? There’s two things you can do - build a network and talk to them.
+
+## Ways to build a network of strange attractors
+
+It’s obvious - but often overlooked - that to build a flow of warm referrals you need to have a network of folks who know you, and know what projects you’re a good fit for. So how do you build a larger network? Some approaches:
+
+### Public Groups
+
+My friend [Carly Ayres](https://docs.google.com/document/d/1p4v190oEA6_vSGAgIGA2HYUlCRrr1PbLNla6Z2f993w/edit) (who just sunsetted her studio - RIP Hawraf) hosts a meetup series called [100s under 100](https://www.fastcompany.com/90161136/inside-the-invite-only-slack-channel-for-designers). It’s a friends of friends kind of thing but open to a large group (these meetups range from a small group to 100s).
+
+My friend [Mark Pollard](https://www.markpollard.net/) runs [Sweathead](https://www.facebook.com/groups/sweathead/) a public FB group for strategists. He’s a community-building natural and he actively cultivates community, engagement and audience - for example he has a [Sweathead podcast](https://www.markpollard.net/sweathead-podcast/) that interviews many people from the community itself.
+
+These events are a great platform to build awareness and large groups of loose networks as well as gain authority by being the public figure-head of a large group.
+
+### Private Groups
+
+I know a variety of private invite-only groups - most of these happen on Slack these days. One in particular that is especially high signal-to-noise is the [Sunday Dinners slack group](http://www.sundaydinner.com/slack/). This group is small, has less virtue signaling - since it's private - but can be a wonderful way to build a more intimate group of close ties. These private groups are typically <150 members. Anything above that and I think you start to lose the intimate nature and it turns into something more akin to a public group.
+
+One advantage of these private groups is the ability to discuss work-in-progress and the more raw side of client / project challenges and success. This can help bridge a true picture of what work looks like for you which sets you up for success when cultivating warm intros.
+
+### Small gatherings
+Over the past two years I’ve been hosting invite-only dinner events. They usually run 10-15 people and, honestly, are a weird mix of my actual friends, people I know doing interesting things and people who I know will get value from the weird mix I put together. There’s no structure to these events but they form bonds and connections between many different people in my networks.
+
+Across all three of these approaches - **the key is to be the anchor of the network**. By being the anchor you gain an order of magnitude more recognition and exposure than merely attending someone else’s event or being a member in someone else’s slack. Being the anchor of a group of 10 is better than being a member of a group of 100 (though of course they’re not mutually exclusive!).
+
+## Strange Communication - aka talking to your network
 
 
 --
