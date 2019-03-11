@@ -194,7 +194,7 @@ Nothing allows you to forge human connections at scale quite like the spoken wor
 
 ![](/images/nabakov-butterfly.jpg)
 
-{% include tufte-sn.html id="nabakov" content="Did you know Vladamir Nabakov, author of Lolita, was an avid <a href='https://www.smithsonianmag.com/smart-news/vladimir-nabokovs-butterfly-drawings-take-flight-new-book-180959264/'>butterfly collector</a> and created some beautiful sketches?" %}Catching butterflies is a fine hobby. A relaxing past-time. But the idea of dissecting, analyzing and cataloging butterflies tells you nothing of the storms in Tokyo that these little wings once caused.
+Catching butterflies is a fine hobby{% include tufte-sn.html id="nabakov" content="Did you know Vladamir Nabakov, author of Lolita, was an avid <a href='https://www.smithsonianmag.com/smart-news/vladimir-nabokovs-butterfly-drawings-take-flight-new-book-180959264/'>butterfly collector</a> and created some beautiful sketches?" %}. A relaxing past-time. But the idea of dissecting, analyzing and cataloging butterflies tells you nothing of the storms in Tokyo that these little wings once caused.
 
 Trying to build a CRM and lead-management tool for a solo independent business that lives on 5-10 leads a year feels a lot like catching butterflies. If you’re looking for a hobby and like spending hours alone with dead insects then... fine? But otherwise - I’d encourage you to focus your time and energies on building networks over tracking each lead minutely.
 
@@ -213,13 +213,6 @@ Remember - all of this is my perspective, and there’s as many different ways o
 
 What works for you?
 
-
 --
 
-Image credits:
-
-Larry Bradley - http://www.stsci.edu/~lbradley/seminar/attractors.html
-
-By Dan Quinn - https://commons.wikimedia.org/w/index.php?curid=29370723
-
-Seagull from Life archives - http://images.google.com/hosted/life/2c99c2ba176c74ef.html
+*Image credits: [Larry Bradley](http://www.stsci.edu/~lbradley/seminar/attractors.html), [Dan Quinn](https://commons.wikimedia.org/w/index.php?curid=29370723), [Life archives](http://images.google.com/hosted/life/2c99c2ba176c74ef.html)*
