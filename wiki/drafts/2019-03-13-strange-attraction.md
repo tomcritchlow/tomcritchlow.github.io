@@ -140,7 +140,7 @@ What’s the story here? The lesson is that language is a virus. Design your cas
 
 These short phrases can sum up and signal so much to the right person at the right time - and you can use many of them at once. This is an ongoing project of listening to how people make intros for you - and noting the little phrases they use. How are people understanding and describing your work in the two-line email?
 
-## Reducing ambiguity using a capabilities deck when dealing in warm leads
+## Reducing ambiguity using a capabilities deck
 
 There's a problem with warm leads though - you get caught up in email FW: FW: intros and nebulous-sounding intros and requests. This is a two-sided problem - it's hard for you to know which ones are worth your time, and it's hard for the other party to know if you're a good fit for their needs.
 
