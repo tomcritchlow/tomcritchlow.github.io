@@ -29,15 +29,15 @@ I’ll explain, but first:
 
 ## A quick primer on my work
 
-It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time (for example - think two days a week in the office for 18 months working across a variety of projects{% include tufte-sn.html id="four" content="<img src='https://tomcritchlow.com/images/4yearsrevenue.png' /> For a visual representation of my work see my post <a href='https://tomcritchlow.com/2018/10/24/four-years/'>four years on the road</a>." %}).
+It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time{% include tufte-sn.html id="four" content="For a visual representation of my work see my post <a href='https://tomcritchlow.com/2018/10/24/four-years/'>four years on the road</a> <img src='https://tomcritchlow.com/images/4yearsrevenue.png' />" %} (for example - think two days a week in the office for 18 months working across a variety of projects).
 
 This means that - for me - I’m primarily concerned with **warm leads** for long term **strategic work**.
 
 It’s important for **leads to be warm** - because it’s hard to convince someone to spend $20k / month on a consulting contract without them already thinking they might spend money on consulting (and having some kind of budget earmarked!)
 
-It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you. It’s hard (though not impossible) to “escalate” a conversation from a more junior employee up to their boss.
+It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts{% include tufte-sn.html id="stewardship" content="For more on how focus on retained strategy work see my post <a href='https://tomcritchlow.com/2018/06/28/strategy-stewardship/'>strategy and stewardship</a>" %} (this helps you smooth revenue gaps and gain some predictability).
 
-This means that for me - I’m definitely optimizing for quality over quantity. 8 leads a year can keep me full up. And I think for many independents this should be the case - optimizing for quantity will create a very different environment.
+This means that for me - I’m definitely optimizing for quality over quantity. 5-10 leads a year can keep me full up. And I think for many independents this will be and should be the case - optimizing for quantity will create a very different environment.
 
 The varieties of styles and approaches to independent work will surprise you so I won’t claim to say this is the only way to do things but it works for me so maybe you’ll learn something to add to your own approach.
 
@@ -97,12 +97,12 @@ I know a variety of private invite-only groups - most of these happen on Slack t
 
 One advantage of these private groups is the ability to discuss work-in-progress and the more raw side of client / project challenges and success. This can help bridge a true picture of what work looks like for you which sets you up for success when cultivating warm intros.
 
-### Small gatherings
+### Small Gatherings
 Over the past two years I’ve been hosting invite-only dinner events. They usually run 10-15 people and, honestly, are a weird mix of my actual friends, people I know doing interesting things and people who I know will get value from the weird mix I put together. There’s no structure to these events but they form bonds and connections between many different people in my networks.
 
 Across all three of these approaches - **the key is to be the anchor of the network**. By being the anchor you gain an order of magnitude more recognition and exposure than merely attending someone else’s event or being a member in someone else’s slack. Being the anchor of a group of 10 is better than being a member of a group of 100 (though of course they’re not mutually exclusive!).
 
-## Strange Communication - aka talking to your network
+## Strange communication - aka talking to your network
 
 It’s not enough to just have a network though. You need to talk to them for two key reasons:
 
@@ -118,7 +118,7 @@ So, listen, I’m gonna sound like a broken record, but the blog+newsletter comb
 
 > Small b blogging is learning to write and think with the network. Small b blogging is writing content designed for small deliberate audiences and showing it to them. Small b blogging is deliberately chasing interesting ideas over pageviews and scale. An attempt at genuine connection vs the gloss and polish and mass market of most “content marketing”.
 
-## On Butterflies and Sea-gulls
+## On butterflies and sea-gulls
 
 Remember that chaos-theory-butterfly anecdote?
 
@@ -168,7 +168,7 @@ There’s much more to be written about how to put one of these together but for
 
 See [this page on my wiki](https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/) for a little collection of inspiration and reference points on building a capabilities deck.
 
-## The Weird Many-colored Butterfly
+## The weird many-colored butterfly
 
 I want to take a moment to talk about “weird work”. Many independents feel trapped in a box - unable to “break out” into work that they either want to do or feel interested in. I [asked Venkatesh Rao](https://tomcritchlow.com/2019/01/22/weird-work/) how to find more alternative work out of your comfort zone and he said this (bolding mine):
 
@@ -180,7 +180,7 @@ This quote is very true for weird work - but applies to any kind of new directio
 
 So if you want more work in a specific vein - write about it! Talk about it! Consistent output will get you there - though of course the flip side of this is that you have to recognize that it can take time to build up this output so likely won't happen quickly.
 
-## Podcasts & Conferences - oral traditions of storytelling
+## Podcasts & conferences - oral traditions of storytelling
 
 Because we’re focusing on generating warm leads from real humans - it's not just about what you say but also how you say it. The oral tradition is important. Conferences and podcasts are two accessible platforms for telling human - oral - stories.
 
@@ -190,7 +190,7 @@ There’s a whole blog post brewing in me about the specific challenges of getti
 
 Nothing allows you to forge human connections at scale quite like the spoken word. So you should leap at these opportunities - tell you story and talk about the work (at least a little).
 
-## On Catching Butterflies
+## On catching butterflies
 
 ![](/images/nabakov-butterfly.jpg)
 
@@ -198,7 +198,7 @@ Catching butterflies is a fine hobby{% include tufte-sn.html id="nabakov" conten
 
 Trying to build a CRM and lead-management tool for a solo independent business that lives on 5-10 leads a year feels a lot like catching butterflies. If you’re looking for a hobby and like spending hours alone with dead insects then... fine? But otherwise - I’d encourage you to focus your time and energies on building networks over tracking each lead minutely.
 
-## In Closing
+## In closing
 
 Remember - all of this is my perspective, and there’s as many different ways of running a consulting business as there are varieties of butterflies. The key points are :
 
