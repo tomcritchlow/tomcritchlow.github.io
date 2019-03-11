@@ -2,6 +2,7 @@
 layout: tufte
 title: Strange Attraction
 subtitle: How to generate leads for an independent consulting practice
+tags: strategy
 draft: true
 ---
 
