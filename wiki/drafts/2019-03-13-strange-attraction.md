@@ -205,8 +205,8 @@ Remember - all of this is my perspective, and there’s as many different ways o
 - Warm leads power well-paid strategic work
 - Cultivating warm leads requires working with and understanding humans
 - Each individual human is chaos - but in aggregate we can control the system in two ways:
-  1) Anchor our own networks
-  2) Communicate regularly and explain the work you do
+    1) Anchor our own networks
+    2) Communicate regularly and explain the work you do
 - Make good stories that can be repeated
 - And embrace the oral platforms (conferences, podcasts) to create connections
 - Finally, don’t belabor any kind of CRM unless you enjoy butterfly-collecting as a hobby
