@@ -140,7 +140,79 @@ What’s the story here? The lesson is that language is a virus. Design your cas
 
 These short phrases can sum up and signal so much to the right person at the right time - and you can use many of them at once. This is an ongoing project of listening to how people make intros for you - and noting the little phrases they use. How are people understanding and describing your work in the two-line email?
 
-## The Capabilities Deck - Signal to Noise In Warm-Intro-Ville
+## Reducing ambiguity using a capabilities deck when dealing in warm leads
+
+There's a problem with warm leads though - you get caught up in email FW: FW: intros and nebulous-sounding intros and requests. This is a two-sided problem - it's hard for you to know which ones are worth your time, and it's hard for the other party to know if you're a good fit for their needs.
+
+I’ve found that having a “capabilities deck” - i.e. a PDF that summarizes the work you do and who do it for - is useful and helpful in closing the right kinds of work.
+
+For example - see this email exchange:
+
+![](/images/capabilities-deck.png)
+
+In this example - a warm intro has become a luke-warm intro. I’ve never met or talked to person A who’s intro-ing me to person B. This is often the kind of thing that goes no-where. So I throw out a *“pleasure to meet you, here’s a PDF, let me know if there's a fit?”*.
+
+That email turned into a big project, and it was the second time I’d ever used a PDF attachment to explain my work.
+
+The very first time I used a capabilities deck attachment? This one:
+
+![](/images/capabilities-deck-2.png)
+
+This email - in March - closed 6 months later. I attached my capabilities deck as a “hey, also” but it worked.
+
+When you first start out as a consultant - I’m not entirely sure a capabilities deck is the right thing to spend time and energy on. You’ll likely not have enough stuff to put in it and you’ll spin your wheels with the language you use. But once you have completed a few projects and are starting to generate enough of these warm leads I think it can be a useful tool to have.
+
+Looking for an example? Check out [Mark Pollard’s](https://docs.google.com/presentation/d/15dK-oRMr6KFy4YiWH51NPhPrld3v906AndndQgc5QVw/edit) for a good public example.
+
+There’s much more to be written about how to put one of these together but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
+
+See [this page on my wiki](https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/) for a little collection of inspiration and reference points on building a capabilities deck.
+
+## The Weird Many-colored Butterfly
+
+I want to take a moment to talk about “weird work”. Many independents feel trapped in a box - unable to “break out” into work that they either want to do or feel interested in. I [asked Venkatesh Rao](https://tomcritchlow.com/2019/01/22/weird-work/) how to find more alternative work out of your comfort zone and he said this (bolding mine):
+
+> I think you just have to do whatever most energizes you and produces a lot of output, and let the work/opportunities find you. I have never gotten an enjoyable weird gig out of going fishing myself. You choose boring, normal work, but interesting, weird work chooses you. 
+
+> Quantity has a quality all its own as Lenin said. The sheer volume of your work is what works as a signal of weirdness, because anyone can be do a one-off weird thing, but **only volume can signal a consistently weird production sensibility that will inspire people betting on you. The energy evident in a body of work is the most honest signal about it that makes people trust you to do things for them**. 
+
+This quote is very true for weird work - but applies to any kind of new direction you want to take. Only volume can signal a specific sensibility that makes people trust you to do things for them.
+
+So if you want more work in a specific vein - write about it! Talk about it! Consistent output will get you there - though of course the flip side of this is that you have to recognize that it can take time to build up this output so likely won't happen quickly.
+
+## Podcasts & Conferences - oral traditions of storytelling
+
+Because we’re focusing on generating warm leads from real humans - it's not just about what you say but also how you say it. The oral tradition is important. Conferences and podcasts are two accessible platforms for telling human - oral - stories.
+
+As an independent it can be hard to break into the conference and podcast circuit. Typically you are lacking the recognized labels and power that comes with a full time job to be considered by organizers and hosts.
+
+There’s a whole blog post brewing in me about the specific challenges of getting invited to speak as an independent - the crux of it I think boils down to making “things with labels”. Books, art projects, websites, communities, etc are all great ways to build some semblance of “trust totems” that an organizer or host can recognize and use to invite you into the spotlight. 
+
+Nothing allows you to forge human connections at scale quite like the spoken word. So you should leap at these opportunities - tell you story and talk about the work (at least a little).
+
+## On Catching Butterflies
+
+![](/images/nabakov-butterfly.jpg)
+
+{% include tufte-sn.html id="nabakov" content="Did you know Vladamir Nabakov, author of Lolita, was an avid <a href='https://www.smithsonianmag.com/smart-news/vladimir-nabokovs-butterfly-drawings-take-flight-new-book-180959264/'>butterfly collector</a> and created some beautiful sketches?" %}Catching butterflies is a fine hobby. A relaxing past-time. But the idea of dissecting, analyzing and cataloging butterflies tells you nothing of the storms in Tokyo that these little wings once caused.
+
+Trying to build a CRM and lead-management tool for a solo independent business that lives on 5-10 leads a year feels a lot like catching butterflies. If you’re looking for a hobby and like spending hours alone with dead insects then... fine? But otherwise - I’d encourage you to focus your time and energies on building networks over tracking each lead minutely.
+
+## In Closing
+
+Remember - all of this is my perspective, and there’s as many different ways of running a consulting business as there are varieties of butterflies. The key points are :
+
+- Warm leads power well-paid strategic work
+- Cultivating warm leads requires working with and understanding humans
+- Each individual human is chaos - but in aggregate we can control the system in two ways:
+  1) Anchor our own networks
+  2) Communicate regularly and explain the work you do
+- Make good stories that can be repeated
+- And embrace the oral platforms (conferences, podcasts) to create connections
+- Finally, don’t belabor any kind of CRM unless you enjoy butterfly-collecting as a hobby
+
+What works for you?
+
 
 --
 

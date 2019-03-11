@@ -35,3 +35,5 @@ ABC of reading - recc by Brian
 How to do nothing - jenny odel
 
 [roadside picnic](https://robinrendle.com/notes/roadside-picnic/)
+
+[the content trap](https://www.amazon.com/Content-Trap-Strategists-Digital-Change/dp/0812995384)
