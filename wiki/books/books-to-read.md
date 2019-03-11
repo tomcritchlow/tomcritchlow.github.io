@@ -33,3 +33,5 @@ ABC of reading - recc by Brian
 [Infinite detail](https://boingboing.net/2019/03/04/gnu-slash-apocalypse.html)
 
 How to do nothing - jenny odel
+
+[roadside picnic](https://robinrendle.com/notes/roadside-picnic/)
