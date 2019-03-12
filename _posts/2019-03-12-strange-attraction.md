@@ -210,7 +210,7 @@ Remember - all of this is my perspective, and there’s as many different ways o
 - Embrace the oral platforms (conferences, podcasts) to create connections
 - Finally, don’t belabor any kind of CRM unless you enjoy butterfly-collecting as a hobby
 
-What works for you?
+What's your experience building networks and leads for your consulting business?
 
 --
 
