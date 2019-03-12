@@ -3,7 +3,6 @@ layout: tufte
 title: Strange Attraction
 subtitle: How to generate leads for an independent consulting practice
 tags: strategy
-draft: true
 ---
 
 The Lorenz Attractor is a chaotic system - a strange attractor. It’s an elegant and beautiful mathematical object that looks a bit like this:
