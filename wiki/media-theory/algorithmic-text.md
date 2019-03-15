@@ -11,3 +11,6 @@ We're going to need a name for AI-written text:
 - Algorithmic content
 - Cybernetic content
 - Spam
+
+
+[heres-how-publishers-around-the-world-are-using-automated-news/](http://www.niemanlab.org/2019/03/heres-how-publishers-around-the-world-are-using-automated-news/)

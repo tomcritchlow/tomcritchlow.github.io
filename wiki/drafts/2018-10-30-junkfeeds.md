@@ -21,6 +21,8 @@ How do we understand where we are in digital space? It's feeds. Every commercial
 
 In this way - junkspace has been digitized and replaced by the screens in our hands. From Junkspace to Junkfeeds.
 
+Quote from here? https://medium.com/dark-matter-and-trojan-horses/the-city-is-my-homescreen-317673e0f57a
+
 Junkfeeds are post-human, radical, tech-utopias that pollute our knowledge and police our information.
 
 Once recognized as the great frontier of architecture and modernism, junkspace is now just space. It has been fed into the machine and overrun by junkfeeds.
@@ -86,6 +88,8 @@ The algorithm does not recommend - it reflects. It's a machine for turning our o
 > "Junkspace pretends to unite, but it actually splinters. It creates communities not of shared interest or free association, but of identical statistics and unavoidable demographics, an oportunistic weave of vested interests. Each man, woman and child is individually targeted, tracked, split off from the rest.. Fragments come together at 'security' only, where a grid of video screens disappointingly reassembles individual frames into a banalized, utilitarian cubism that reveals junkspace's overall coherence to the dispassionate glare of barely trained guards: videoethnography in its brute form."
 
 Two-clicks away from paranoia. 
+
+https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
 
 Facebook is a space for communication. For groups. For friends. Except it actually tears us apart. Junkfeeds feed us neither things we need or want. Things that are designed to divide us and agitate us.
 
