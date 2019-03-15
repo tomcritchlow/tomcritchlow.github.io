@@ -31,7 +31,7 @@ This chapter will cover building your own network and generating leads.
 
 Based off my theory of [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/) I'll explore some of the same themes - that you don't need to be famous to generate leads. A small network that you consistently communicate with and educate on the work you do is all you need.
 
-**Strange attraction** - once you have a network it's impossible to tell where the next lead will come from but there are still things you can do to drum up leads - most notably is to create the network and be the central node. Founding and starting is so much more powerful than just contributing or joining. This is a post not yet written.
+[Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/) - landing referrals from your network can feel random, and while it's unpredictable you can still play system-level games to help generate the right kinds of work.
 
 ## 2. Designing Client Engagements
 
