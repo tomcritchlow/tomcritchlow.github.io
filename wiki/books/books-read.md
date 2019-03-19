@@ -6,7 +6,7 @@ books:
    author: Rem Koolaas
    link: https://www.amazon.com/dp/B00JYVYUUW/
    date_finished: 3/18/2019
-   notes: It's architecture writing but lyrical, magical and opinionated. A tour de force through New York's history with tons of interesting characters, ideas, explorations and more. Ideas include congestion as an organizing principle of the city, and every block being an archipelago. Wonderful, highly recommended.
+   notes: It's architecture writing but lyrical, magical and opinionated. A tour de force through New York's history with tons of interesting characters, ideas, explorations and more. Ideas include congestion as an organizing principle of the city, and every block being an archipelago. Wonderful and highly recommended.
 - title: Tomorrow In The Battle Think On Me
    author: Javier Marias
    link: https://www.amazon.com/dp/0307950751 
