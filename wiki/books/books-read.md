@@ -2,7 +2,7 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
-- title: Tomorrow In The Battle Think On Me
+ - title: Tomorrow In The Battle Think On Me
    author: Javier Marias
    link: https://www.amazon.com/dp/0307950751 
    date_finished: 2/17/2019
