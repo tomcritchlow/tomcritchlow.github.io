@@ -19,4 +19,8 @@ Subscribing to RSS feeds sucks in the year of our lord 2019. Why? How can we re-
 
 Run a kickstarter to raise funds for a design exploration around RSS to reenvision the RSS icon, workflow, and to create RSS-branded merch (Ben Pieratt would be the DREAM person to work on this)
 
-5) 
+5) Create the "bloggers way" course
+
+A 12-week course and set of cohorts that sign up for learning how to blog.
+
+If you give me seed money I'll get 1,000 new blogs online.
