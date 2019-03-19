@@ -137,6 +137,8 @@ From Bifo:
 
 Users turn themselves into junkusers. Grown up drinking from the poisoned well they understand that 
 
+http://mylesudland.tumblr.com/post/182195239090/aaron-sorkin-is-bored
+
 ## After the future of junkfeeds
 
 Where to from here? Will time continue to get subdivided. Junkfeeds become hyper-junkfeeds? On our wrists - in our ears - inside our eyeballs?
@@ -195,7 +197,7 @@ Junkfeeds started as an authentic human space of sharing - here are things to be
 
 
 
-
+Junkfeeds are slot machines without prizes.
 
 Junkfeeds are slot machines. Gambling with our attention and emotional response. We used to "play" the slots by dragging to refresh, but the feeds now infinite and real time no longer require refreshing. Now, we "play" by interacting with the feed. Hearting, thumbsing, commenting, (and not very often) clicking. But every click in the junkfeed spawns more feed. A fractal reward for playing the junkfeed.
 
