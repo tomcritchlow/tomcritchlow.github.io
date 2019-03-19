@@ -11,7 +11,7 @@ books:
    author: Javier Marias
    link: https://www.amazon.com/dp/0307950751 
    date_finished: 2/17/2019
-   notes: Abandoned. I think somewhere in this book is buried a wonderful treasure. The looping self-aware story is fundamentally interesting and new but the language that wraps around it chokes it to death. Abandoned about half way through :(
+   notes: Abandoned. I think somewhere in this book is buried a wonderful treasure. The looping self-aware story is fundamentally interesting and new but the language that wraps around it chokes it to death. Abandoned about half way through.
  - title: Summerland
    author: Hannu Rajaniemi
    link: https://www.amazon.com/dp/B0756K1Q8D/
