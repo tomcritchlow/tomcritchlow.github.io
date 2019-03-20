@@ -24,3 +24,9 @@ Run a kickstarter to raise funds for a design exploration around RSS to reenvisi
 A 12-week course and set of cohorts that sign up for learning how to blog.
 
 If you give me seed money I'll get 1,000 new blogs online.
+
+Other ideas:
+
+- Some kind of small-b analytics. How can you tell the right people are reading?
+- New kind of comments? Does commento.io solve this? Discourse?
+- 
