@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Magical Mysery Mix
+title: Magical Mystery Mix
 subtitle: Love of the groove
 ---
 

@@ -16,3 +16,7 @@ Some personal wikis and sites that I've been inspired by:
 [derek sivers' daily journal](https://sivers.org/dj) - a post from Derek Sivers on how to keep a text-file long-term store for your ideas and notes.
 
 And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
+
+--
+
+Here's an interesting project from the NYT that uses gdocs as a backend to generate a wiki! [Library](https://open.nytimes.com/we-built-a-collaborative-documentation-site-deploy-your-own-with-the-push-of-a-button-134de99c42fc)
