@@ -160,7 +160,7 @@ Don't do this! Work-in-context is typically more expensive than regular work so 
 
 So we've established that you can get paid more money for strategic work - and now I want to show you that the new higher rates you're charging can also last longer. A compounding effect on your pricing power.
 
-I learned about the model of Strategy & Stewardship from the Helsinki Design Lab:
+I learned about the model of Strategy & Stewardship from the [Helsinki Design Lab](http://helsinkidesignlab.org/):
 
 > It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop.
 
@@ -267,39 +267,30 @@ When I first started consulting in 2014, yes I worked mostly on SEO projects. Bu
 
 Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do.
 
-How to learn to be more strategic
----------------------------------
+## How to learn to be more strategic
 
 Taking my personal SEO example above it's hard to overstate the importance and value of being curious. Being curious about the industry you're in and how it works, being curious about the clients you're working for and being curious about the context of your own work is where this whole strategic independent path starts.
 
 Then, from there the path to strategic work looks something like this:
 
-1.  Ask questions and be curious (about the business, the industry, the people)
-
-2.  Explicitly ask to see surrounding context (e.g. as a writer, ask for the content strategy, as a marketer ask for the strategic roadmap)
-
-3.  Then, next time explicitly ask to be included in the creation of the surrounding context
-
-4.  Then, start offering and leading the projects to add the surrounding context
-
-5.  Repeat as you expand your context
+1. Ask questions and be curious (about the business, the industry, the people)
+2. Explicitly ask to see surrounding context (e.g. as a writer, ask for the content strategy, as a marketer ask for the strategic roadmap)
+3. Then, next time explicitly ask to be included in the creation of the surrounding context
+4. Then, start offering and leading the projects to add the surrounding context
+5. Repeat as you expand your context
 
 Here's a worked example from my own experience on "how to be more strategic" as I learned about brand positioning work for clients:
 
-1.  The first step was being curious about brand positioning - how does it work? What does it look like? I got exposed to a handful of these kinds of projects at Google and always asked questions
-
-2.  The second step is to keep your ear close to the ground and ask to be involved in a brand positioning workshop or project as it's happening - just as an observer / participant.
-
-3.  The third step is to spot opportunities for where a brand positioning project would make sense and add value and source a partner to help with the work for a client - where I'm leading and owning the work output but working with a partner.
-
-4.  The fourth step is creating and running a brand positioning project on my own for a client (probably smaller to begin with while I gain confidence).
+1. The first step was being curious about brand positioning - how does it work? What does it look like? I got exposed to a handful of these kinds of projects at Google and always asked questions
+2. The second step is to keep your ear close to the ground and ask to be involved in a brand positioning workshop or project as it's happening - just as an observer / participant.
+3. The third step is to spot opportunities for where a brand positioning project would make sense and add value and source a partner to help with the work for a client - where I'm leading and owning the work output but working with a partner.
+4. The fourth step is creating and running a brand positioning project on my own for a client (probably smaller to begin with while I gain confidence).
 
 This explicit evolution and experience in my own work probably took 3-4 years with the help of some friends but is exactly that ladder of context-awareness that enables you to get involved in strategic work.
 
 As you can see, this path to strategic work relies on gaining context from client work - but there's another way to gain context - your network.
 
-The adjacent-context benefit of independence
---------------------------------------------
+## The adjacent-context benefit of independence
 
 Most of this post focuses on the idea of context as gathered from your client and their business - but there's another great source of context: peers.
 
@@ -307,7 +298,7 @@ Co-dependence is really the right word for independence. I've talked a lot about
 
 Frank Chimero wrote a wonderful essay I think about often titled [the inferno of independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) which is hard to boil down but looks at the nature of independent work - and articulates this shift from independence to co-dependence:
 
-Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
+> Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
 
 Co-dependence and network building has plenty of other benefits but one key benefit of a diverse network is the adjacent-context. Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook.
 
@@ -315,8 +306,7 @@ Adjacent context is thinking laterally about an industry, organization or proble
 
 So then, the strategic independent is someone who not only helps bridge context inside an organization but outside as well. This distance from a client's organization is extremely valuable - and yet another reason not to undersell the value of context before and during an engagement. Someone able to connect the dots and do work-in-context but also expand the context into new directions.
 
-Time & Money
-------------
+## Time & Money
 
 Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/). And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
 
@@ -328,33 +318,24 @@ Put simply - as you ladder up into wider contexts for your work you don't yet ha
 
 So I say - if you're reading the commonly accepted wisdom about pricing and feeling like you're doing it wrong by pricing based on time let me tell you that you're totally fine and that strategic work by definition can be fuzzy and so scoping on project work can be dangerous.
 
-Will you join me on the path to being a strategic independent?
---------------------------------------------------------------
+## Will you join me on the path to being a strategic independent?
 
 Hopefully this long post was helpful - let's recap the main points:
 
--   Work-in-context is more rewarding & more effective for you and the client
+-  Work-in-context is more rewarding & more effective for you and the client
+-  It also allows you to charge for additional types of work! Hence making you better paid
+-  But it also allows you to work with clients over a long time-horizon, extending the length of your client contracts (a compounding effect on revenue when combined with charging more)
+-  As you begin to shift to strategic work - start to only let clients "in the strategy door" - you'll get better clients this way
+-  Learning how to be strategic is relatively straight forward (even if it takes a while) by constantly looking for additional context
+-  And, as you work in fluid context-shifting client work don't be afraid to charge based on time - despite what the received wisdom advises.
+-  Finally as an independent remember that co-dependence with your network is actually the ideal state and you can gain context from peers just as much as you can from clients
 
--   It also allows you to charge for additional types of work! Hence making you better paid
+I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing strategic work, independently - the strategic independent.
 
--   But it also allows you to work with clients over a long time-horizon, extending the length of your client contracts (a compounding effect on revenue when combined with charging more)
-
--   As you begin to shift to strategic work - start to only let clients "in the strategy door" - you'll get better clients this way
-
--   Learning how to be strategic is relatively straight forward (even if it takes a while) by constantly looking for additional context
-
--   And, as you work in fluid context-shifting client work don't be afraid to charge based on time - despite what the received wisdom advises.
-
--   Finally as an independent remember that co-dependence with your network is actually the ideal state and you can gain context from peers just as much as you can from clients
-
-Will you join me on the path of the strategic independent?
-
-NBED - I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I want this book to be useful and applicable to a broader set of folks - those not just doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing strategic work, independently - the strategic independent.
-
-The book I'm writing is starting to take shape over here: <https://tomcritchlow.com/strategy/> and you can subscribe to my newsletter here: <https://tinyletter.com/tomcritchlow>
+To peek the outline for the book head over here: <https://tomcritchlow.com/strategy/> and you can subscribe to my newsletter here: <https://tinyletter.com/tomcritchlow> to keep updated with the latest.
 
 I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
 
 --
 
-Thank you to the amazing people who reviewed early drafts of this piece, commented and generally made this piece better including: Adam Wiggins, Chris Butler, Rachel Joy Victor, John Doherty, Josh Braaten & Brian Dell.
+*Thank you to the amazing people who reviewed early drafts of this piece, commented and generally made this piece better including: Adam Wiggins, Chris Butler, Rachel Joy Victor, John Doherty, Josh Braaten & Brian Dell.*
