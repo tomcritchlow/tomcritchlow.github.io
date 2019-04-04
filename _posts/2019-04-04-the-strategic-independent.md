@@ -286,7 +286,7 @@ Here's a worked example from my own experience on "how to be more strategic" as 
 
 This explicit evolution and experience in my own work probably took 3-4 years with the help of some friends but is exactly that ladder of context-awareness that enables you to get involved in strategic work.
 
-As you can see, this path to strategic work relies on gaining context from client work - but there's another way to gain context - your network.
+As you can see, this path to strategic work relies on gaining context from client work - but there's another way to gain context - from your network.
 
 ## The adjacent-context benefit of independence
 
@@ -298,7 +298,7 @@ Frank Chimero wrote a wonderful essay I think about often titled [the inferno of
 
 > Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
 
-Co-dependence and network building has plenty of other benefits but one key benefit of a diverse network is the adjacent-context. Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook.
+Co-dependence and network building has plenty of other benefits{% include tufte-sn.html id="strange" content="I wrote about using a network to build a steady stream of high value leads in my post <a href='https://tomcritchlow.com/2019/03/12/strange-attraction/'>strange attraction</a>." %} but one key benefit of a diverse network is the adjacent-context. Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook.
 
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
