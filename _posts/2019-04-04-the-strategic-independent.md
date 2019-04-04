@@ -170,7 +170,7 @@ Imagine a 12-month client retainer with the strategic work in green and the impl
 
 You can see that (roughly) the total amount of work is constant but there is a phase shift from strategy at the beginning to mostly execution & implementation (stewardship) and then a hard shift back into strategic work.
 
-If you look at strategy on it's own:
+If you look at strategy on its own:
 
 ![](/images/strategy-only.png)
 
