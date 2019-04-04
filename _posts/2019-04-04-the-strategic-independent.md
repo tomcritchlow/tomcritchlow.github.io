@@ -162,7 +162,7 @@ So we've established that you can get paid more money for strategic work - and n
 
 I learned about the model of Strategy & Stewardship from the Helsinki Design Lab:
 
-> "It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop. "
+> It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop.
 
 [Page 40 of recipes for systemic change](http://www.helsinkidesignlab.org/peoplepods/themes/hdl/downloads/In_Studio-Recipes_for_Systemic_Change.pdf) by the Helsinki Design Lab
 
@@ -213,7 +213,7 @@ Using this approach the average retainer length for clients I work with is 20 mo
 
 I recall an important breakthrough for my own thinking - a client had hired another consultant to work on a project and afterwards I asked my client how the experience was and he said:
 
-"It was fine - but he just gave advice. I like working with you because you're not afraid to roll up your sleeves and do the work when it needs doing"
+> "It was fine - but he just gave advice. I like working with you because you're not afraid to roll up your sleeves and do the work when it needs doing"
 
 This was a real lightbulb moment for me - up until that time I'd always worried about doing "menial" or "low-paid" work as a consultant but charging a strategy-based day-rate.
 
@@ -223,8 +223,7 @@ So, don't undervalue either part of your work - either the strategy or the stewa
 
 The freedom of a consultant is that you can ignore job title / role / responsibility and be laser focused on moving the business towards key objectives and mixing your outputs from small to big as needed.
 
-Only let clients in the strategy door
--------------------------------------
+## Only let clients in the strategy door
 
 So we've established that the combination of strategy & stewardship is important - but there's a crucial note to make:
 
@@ -240,20 +239,15 @@ The whole chapter is a delight and the punchline is: "only let clients in the st
 
 The argument really boils down to:
 
--   Implementation work is hard work to sell - you get poor quality clients expecting a more easily commoditized output that drives your business towards lower margins
+- Implementation work is hard work to sell - you get poor quality clients expecting a more easily commoditized output that drives your business towards lower margins
+- Not only that but implementation work is often more stressful and deadline-driven
+- So of course do both for clients but only them in through the strategy door to ensure that you do better, higher value and higher margin work.
 
--   Not only that but implementation work is often more stressful and deadline-driven
-
--   So of course do both for clients but only them in through the strategy door to ensure that you do better, higher value and higher margin work.
-
-You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom. There is however a shorter (older) version of this argument from David online here:
-
-<https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf>
+You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom{% include tufte-sn.html id="david" content="There is however a shorter (older) version of this argument from David <a href='https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf'>online here</a>" %}.
 
 Importantly - if you accept that you can do a lot of implementation work for clients but they should all start with strategy then your external positioning should be entirely focused around the strategy work to attract the right kinds of clients.
 
-My own journey out of SEO
--------------------------
+## My own journey out of SEO
 
 Looking back at my career - this idea of doing work-in-context has determined the path I've taken from SEO manager to digital strategy to consulting work.
 
