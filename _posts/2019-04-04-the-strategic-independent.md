@@ -300,7 +300,7 @@ As you can see, this path to strategic work relies on gaining context from clien
 
 Most of this post focuses on the idea of context as gathered from your client and their business - but there's another great source of context: peers.
 
-Co-dependence is really the right word for independence. I've talked a lot about the power of the network - both as a tool for gathering leads for your business but also as an emotional support network.
+Co-dependence is really the right word for independence{% include tufte-sn.html id="frank" content="Frank was <a href='https://twitter.com/frank_chimero/status/1113873146057318403'>kind enough to point out</a> that in-fact co-dependence is not the right word at all! The actual definition of the word is around enabling addiction. I didn't know that! The correct word is <em>interdependence</em> and Frank Chimero has a more recent post all about this topic: <a href='https://frankchimero.com/writing/back-to-the-cave/'>back to the cave</a>. Thanks Frank!" %}. I've talked a lot about the power of the network - both as a tool for gathering leads for your business but also as an emotional support network.
 
 Frank Chimero wrote a wonderful essay I think about often titled [the inferno of independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) which is hard to boil down but looks at the nature of independent work - and articulates this shift from independence to co-dependence:
 
