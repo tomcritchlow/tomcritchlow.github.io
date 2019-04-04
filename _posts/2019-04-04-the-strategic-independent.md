@@ -36,7 +36,7 @@ Context is the key.
 
 Even before I start working with a client in the very first meeting I always make sure I ask questions about business model, team structure, company priorities and more. These don't always feel relevant to the specific request but help me better map out both the work I need to do and the stakeholders that need to see it.
 
-The more you [understand an organization](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) the better you can understand context.
+The more you understand an organization the better you can understand context{% include tufte-sn.html id="waysseeing" content="I wrote a whole post called <a href='https://tomcritchlow.com/2018/10/29/ways-of-seeing/'>ways of seeing</a> that explores ideas around sensemaking inside an organization" %}.
 
 ## Overlapping contexts
 
