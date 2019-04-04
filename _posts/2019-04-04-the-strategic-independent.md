@@ -57,7 +57,7 @@ Here's some types of context to look for:
 - People (who are the stakeholders? what do they care about?)
 - Resources (what can they realistically *do* with your work?)
 - Brand (what is the position of the company?)
-- Marketing (audience, channels)
+- Marketing (audiences, channels, analytics)
 - Business model (revenue, profit)
 - Product (how does their product work, what is possible?)
 - The user (who is the user? What do they care about?)
@@ -88,9 +88,8 @@ These catastrophic events collapse the environment and cascade downwards. Every 
 
 But for those above the fire-line there are two things that are crucial:
 
-1.  Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
-
-2.  They likely knew about the catastrophic event ahead of time. They may even have been responsible for causing the catastrophic event.
+1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
+2. They likely knew about the catastrophic event ahead of time. They may even have been responsible for causing the catastrophic event.
 
 We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
 
@@ -98,8 +97,7 @@ Riding these crashes is a skill that I think in theory you can get good at - lea
 
 But I think it's way easier to instead always be searching upwards for more context awareness - i.e. working strategically. This helps you ride out those catastrophic events with more planning, awareness and foresight.
 
-Strategic work is better paid
------------------------------
+## Strategic work is better paid
 
 In addition to being better work (for clients and for you) - strategic work is also better paid.
 
@@ -117,74 +115,60 @@ Let's look at two examples:
 
 Let's imagine you're a writer - commissioned to write for a client's branded content site. Let's say you get paid $200 per article. The work: writing. How might we think of writing-in-context? Here's a list of context that you should ask for and where it's not available or it's done poorly offer to step in:
 
--   Creating a style guide for all the writers
-
--   User research for end users to uncover what they want to read (e.g. by creating personas)
-
--   Competitive analysis for other branded content sites, who writes for them and how they operate
-
--   A content marketing plan for the branded content site
-
--   A content marketing plan across the whole brand
-
--   Themed content franchises that
-
--   SEO research into keywords they care about targeting
+- Creating a style guide for all the writers
+- User research for end users to uncover what they want to read (e.g. by creating personas)
+- Competitive analysis for other branded content sites, who writes for them and how they operate
+- A content marketing plan for the branded content site
+- A content marketing plan across the whole brand
+- Themed content franchises that
+- SEO research into keywords they care about targeting
 
 ### Scenario #2 - Strategic Research
 
 Let's imagine you're a UX researcher - creating user research from real users for clients. The work: creating user research projects, finding relevant users and running them. This is likely reasonably well-paid work as-is but let's look at ways we might take this UX-research and place it in-context:
 
--   Creating a set of product principles based off user research
-
--   Reviewing a product roadmap
-
--   Running a design sprint internally to ideate new product ideas (grounded in user research experience of course)
-
--   Proposing a broader marketing focus group study
+- Creating a set of product principles based off user research
+- Reviewing a product roadmap
+- Running a design sprint internally to ideate new product ideas (grounded in user research experience of course)
+- Proposing a broader marketing focus group study
 
 Some more examples of how work and associated context work might fit together:
 
--   Work: email copywriter -> brand voice document
-
--   Work: paid marketing -> paid marketing dashboard creation
-
--   Work: marketing strategy -> hiring a marketing team
+- Work: email copywriter -> context: brand voice document
+- Work: paid marketing -> context: paid marketing dashboard creation
+- Work: marketing strategy -> context: hiring a marketing team
 
 I've got a very loose working theory that every time you expand your context-circles you get paid an order of magnitude more money.
 
 It's not unreasonable to imagine:
 
--   Writing: $200 / article
-
--   Style guide: $2,000
-
--   Content strategy: $20,000
+- Writing: $200 / article
+- Style guide: $2,000
+- Content strategy: $20,000
 
 These are necessarily imperfect analogies and will vary wildly from industry to industry. What are some of the ways you've found to go from work to work-in-context?
 
 Here's a specific callout as you start to bundle "the work" and "the context":
 
-Don't give the context work away for free. In fact, do the opposite - charge more for it than your regular work.
+**Don't give the context work away for free. In fact, do the opposite - charge more for it than your regular work.**
 
 I see this often with more junior or less confident independents - you're trying to close "the work" and so you throw in "the context" for free or as a sweetener.
 
 Don't do this! Work-in-context is typically more expensive than regular work so don't be afraid to price it separately and confidently. Don't worry if the client doesn't bite at first - strategic work is only valuable at certain inflection points (see below graphs) but they'll remember that you offered it and it'll come back around.
 
-Strategy and Stewardship - a framework for retaining clients for a long time
-----------------------------------------------------------------------------
+## Strategy and Stewardship - a framework for retaining clients for a long time
 
 So we've established that you can get paid more money for strategic work - and now I want to show you that the new higher rates you're charging can also last longer. A compounding effect on your pricing power.
 
 I learned about the model of Strategy & Stewardship from the Helsinki Design Lab:
 
-"It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop. "
+> "It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop. "
 
 [Page 40 of recipes for systemic change](http://www.helsinkidesignlab.org/peoplepods/themes/hdl/downloads/In_Studio-Recipes_for_Systemic_Change.pdf) by the Helsinki Design Lab
 
 Their solution? Strategy and stewardship:
 
-We invoke stewardship in place of words like "implement" and "execute" out of recognition that the latter imply a cleanliness or linear progression which is rarely found when working on a shared proposition in a complex environment. Inside a factory plans can be executed, orders implemented, and outcomes delivered, but innovations that engage with the messy reality of the social sphere do not happen so neatly. What we describe also goes well beyond "facilitation," which suggests that others do the important work. Stewardship shapes the course of innovation; it is not a neutral role. Think of stewardship as a form of leadership. One that acknowledges things will change along the way for better or for worse, therefore demanding agility over adherence to a predetermined plan. Many individuals who work in alliances or collaborative endeavors act as stewards almost naturally. If you are used to continually calibrating the goals of a project with the constraints of your context, you are practicing stewardship. If you maintain a constant state of opportunism and a willingness to pivot when progress on the current path is diminishing, you're a natural steward
+> We invoke stewardship in place of words like "implement" and "execute" out of recognition that the latter imply a cleanliness or linear progression which is rarely found when working on a shared proposition in a complex environment. Inside a factory plans can be executed, orders implemented, and outcomes delivered, but innovations that engage with the messy reality of the social sphere do not happen so neatly. What we describe also goes well beyond "facilitation," which suggests that others do the important work. Stewardship shapes the course of innovation; it is not a neutral role. Think of stewardship as a form of leadership. One that acknowledges things will change along the way for better or for worse, therefore demanding agility over adherence to a predetermined plan. Many individuals who work in alliances or collaborative endeavors act as stewards almost naturally. If you are used to continually calibrating the goals of a project with the constraints of your context, you are practicing stewardship. If you maintain a constant state of opportunism and a willingness to pivot when progress on the current path is diminishing, you're a natural steward
 
 [Page 15 of legible practices](http://helsinkidesignlab.org/peoplepods/themes/hdl/downloads/Legible_Practises.pdf) from the Helsinki Design Lab.
 
@@ -212,20 +196,16 @@ Firstly - notice how the blue line shoots up a few months into the project? When
 
 Secondly - notice how at some point in the future, when the client either pauses, reviews or changes their strategy, the project unexpectedly ends? This can seem like it "comes out of nowhere" if you're only doing the execution work and not aware of the wider context.
 
-So what does stewardship work look like?
-----------------------------------------
+## So what does stewardship work look like?
 
 So what is stewardship exactly? Sometimes it's literally just rolling up your sleeves to do the work outlined in the strategy. Never underestimate how powerful a single reference piece of work can be - e.g. you want the editorial team to produce 1000s of pieces of content over the next 12 months - but if you create the gold standard piece of content it can get referenced again and again and become the inspiration for a whole team.
 
 So is the execution just plugging away in the trenches? Yes sometimes, but I think the most powerful stewardship work is around momentum - helping the organization or project accelerate their output. Some examples from my own work for things that look like stewardship:
 
--   Hiring & building teams
-
--   Building workstreams, processes
-
--   Building dashboards and reporting templates
-
--   Adding partnerships and relationships
+- Hiring & building teams
+- Building workstreams, processes
+- Building dashboards and reporting templates
+- Adding partnerships and relationships
 
 If you take this strategy & stewardship approach - when the client comes to review the strategy at month 6 you're still there working with the client and able to offer tangible and concrete insights into the work. How is the strategy evolving? Where should we adjust? What have we achieved?
 
