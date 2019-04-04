@@ -44,13 +44,13 @@ So when I talk about strategic work - it's about trying to understand the
 
 concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts:
 
-![](https://docs.google.com/drawings/d/stnysv3oaFJXmQ1aEwZ3GGA/image?w=575&h=300&rev=153&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/context1.png)
 
 This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business before starting work.
 
 However, in addition to the above context - that app design project might *also* exist within a variety of people contexts:
 
-![](https://docs.google.com/drawings/d/sq6BzQ49vSM4oCb7lsDQi6Q/image?w=575&h=300&rev=27&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/context2.png)
 
 Here's some types of context to look for:
 
@@ -82,7 +82,7 @@ Last year I was working with a client to integrate an acquisition into the main 
 
 There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
 
-![](https://docs.google.com/drawings/d/spQT-qYgv0GZQNUqWSQ9RnQ/image?w=575&h=300&rev=52&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/catastrophic-context.png)
 
 These catastrophic events collapse the environment and cascade downwards. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles.
 
@@ -176,19 +176,19 @@ This idea of a feedback loop between strategy and implementation is one I've tak
 
 Imagine a 12-month client retainer with the strategic work in green and the implementation in blue:
 
-![](https://docs.google.com/drawings/d/s955Vv9NB4lc8rmK_E9l1ig/image?w=588&h=286&rev=57&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/strategy-execution.png)
 
 You can see that (roughly) the total amount of work is constant but there is a phase shift from strategy at the beginning to mostly execution & implementation (stewardship) and then a hard shift back into strategic work.
 
 If you look at strategy on it's own:
 
-![](https://docs.google.com/drawings/d/ssLJKw9hYR0quwF6XgO6BIw/image?w=588&h=285&rev=2&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/strategy-only.png)
 
 There are two key things to draw from this chart - firstly the long-term work begins with strategic work, so if you want to get involved in a project early (a common request) you have to be thinking and working strategically. But importantly, if you only do strategy work the client isn't going to keep you around in months 3-12.  No matter how lucrative that strategy work is, if you're not shifting your outputs to implementation/stewardship then there isn't enough work for either you or the client to justify sticking around.
 
 Now, if you look at execution on it's own:
 
-![](https://docs.google.com/drawings/d/sJiSJ8Vlsj-vEOgVKwOHL5A/image?w=588&h=286&rev=2&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/execution-only.png)
 
 There are two key drawbacks to only doing implementation/execution work:
 
@@ -227,7 +227,7 @@ The freedom of a consultant is that you can ignore job title / role / responsibi
 
 So we've established that the combination of strategy & stewardship is important - but there's a crucial note to make:
 
-Clients that come to you *only* for implementation are going to be your worst clients.
+**Clients that come to you *only* for implementation are going to be your worst clients.**
 
 Wait what? Haven't I been telling you to get your hands dirty? Yes, but...
 
@@ -235,7 +235,7 @@ In his book the [business of expertise](https://www.amazon.com/Business-Expertis
 
 The whole chapter is a delight and the punchline is: "only let clients in the strategy door":
 
-![](https://lh6.googleusercontent.com/UctQm55NZjvHzdVm5_4tHFuQoNPJthHVaWelsQUdROjWcKXGOCUTByBxqyxRVCrlQJboWA7h_Ed8fteWv7l197dO4GCXTAH_H_1RaxwVwkgqDFZOKBBe2zYcWi4fHouvZvMtys7C)
+![](/images/david-baker.png)
 
 The argument really boils down to:
 
@@ -255,11 +255,11 @@ The problem with SEO is that it's inherently non-strategic. As an activity it's 
 
 This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I worked at Distilled it wasn't uncommon to be working directly on digital strategy for brands, in a context model that looked something like this:
 
-![](https://docs.google.com/drawings/d/s_O_zvfDQ8nPE-Ano9oNjtQ/image?w=575&h=300&rev=65&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/seo-context-old.png)
 
 But I could see the writing on the wall and could feel the shift as everyone else in digital "caught up" to the competencies and experience that the SEO industry had built up over the previous decade to the point where a more traditional SEO engagement now looks like this:
 
-![](https://docs.google.com/drawings/d/sJxP1MQz99utIj-bDW60m_w/image?w=575&h=300&rev=42&ac=1&parent=1zr6CGZ2dd7pdq0p-LZ0GUeFME7CzpuN85bKVdWwKIdQ)
+![](/images/seo-context-new.png)
 
 As I felt this shift towards SEO being less strategic I needed to find ways to expand my context and work in different types of work more directly and explicitly.
 
