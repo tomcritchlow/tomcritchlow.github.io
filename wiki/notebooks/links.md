@@ -16,3 +16,5 @@
 [oliver sacks margin photos](https://twitter.com/BillHayesNYC/status/1032729651112763393)
 
 [nyt article oliver sacks notebook photos](https://www.nytimes.com/2018/08/29/opinion/oliver-sacks-the-man-who-loved-words.html)
+
+[the page is a place](https://austinkleon.com/2019/03/28/the-page-is-a-place/)

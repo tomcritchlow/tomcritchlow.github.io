@@ -19,3 +19,5 @@ Yes - I know, this workflow ignores mobile. There are ways of publishing to Jeky
 This resiliency means that while Github is a good host for me now there's zero lock-in and no proprietary formats. I have all the files locally ready to switch to a new platform / environment. But, if my laptop is stolen then I can easily recover a full copy on a new machine and carry on.
 
 Triple entry blogging.
+
+https://www.jon-kyle.com/entries/2019-03-21-simple-ish-sites?2

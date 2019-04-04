@@ -30,6 +30,8 @@ This feed
 
 There is no water cooler for Uber drivers. No place for Uber drivers to gather and discuss with others. No place for them to identify as Uber drivers. They are just humans stuck in black shells racing around the city according to the whims of a digtial algorithm
 
+Think this comes from a Bifo quote?
+
 ## Service Workers
 
 Service workers - this is a technology term!
