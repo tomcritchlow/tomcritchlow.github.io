@@ -54,39 +54,31 @@ However, in addition to the above context - that app design project might *also*
 
 Here's some types of context to look for:
 
--   People (who are the stakeholders? what do they care about?)
-
--   Resources (what can they realistically *do* with your work?)
-
--   Brand (what is the position of the company?)
-
--   Marketing (audience, channels)
-
--   Business model (revenue, profit)
-
--   Product (how does their product work, what is possible?)
-
--   The user (who is the user? What do they care about?)
+- People (who are the stakeholders? what do they care about?)
+- Resources (what can they realistically *do* with your work?)
+- Brand (what is the position of the company?)
+- Marketing (audience, channels)
+- Business model (revenue, profit)
+- Product (how does their product work, what is possible?)
+- The user (who is the user? What do they care about?)
 
 Your work likely overlaps at least partly with all of these ideas - but also depending on your specific work you might have different contexts and add more nuance.
 
-Strategic work is better work
------------------------------
+## Strategic work is better work
 
 Once you understand the concentric circles within which your work happens you'll be able do work that's more effective and useful for your clients.
 
 Two examples from my own work:
 
-Scenario #1
+### Scenario #1
 
 I was working as a marketing advisor for a client and early in the engagement (partly because we were discussing me becoming the full-time CMO) I was invited to sit in on their quarterly board meeting. This experience was formative in better understanding the drivers and motivations of the business - by understanding who literally owned the business better. This context was crucial for proposing work and for ensuring that pitching that work to the board was smooth. The CEO gave me some of the necessary context but by attending that board meeting I got a vantage point that I didn't realize existed previously.
 
-Scenario #2
+### Scenario #2
 
 Last year I was working with a client to integrate an acquisition into the main business - in particular to ensure that one business function was working correctly. My north star and most of the language in the team was about revenue projections for the function. Makes sense. But, I discovered that actually the SVP's OKR for the quarter was ensuring that the business unit was functioning smoothly. While revenue was obviously a thing that they cared about, the more important context was around process and communication around that process. Once I had this context everything became easier since I could be more closely aligned with the objectives of the business.
 
-Catastrophic Events & Context Collapse
---------------------------------------
+## Catastrophic Events & Context Collapse
 
 There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
 
