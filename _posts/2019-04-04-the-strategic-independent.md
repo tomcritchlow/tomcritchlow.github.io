@@ -7,7 +7,7 @@ tags: strategy
 
 In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.
 
-In this post we'll walk through:
+We'll walk through:
 
 - **What strategic work is** - by looking at a variety of contexts you might work within and how to spot them.
 - **Why strategic work is better** - both for you and the client, offering more value to them and being more interesting for you.
@@ -123,7 +123,7 @@ Let's imagine you're a writer - commissioned to write for a client's branded con
 - Themed content franchises that
 - SEO research into keywords they care about targeting
 
-### Scenario #2 - Strategic Research
+### Scenario #2 - From UX Research to Strategic Research
 
 Let's imagine you're a UX researcher - creating user research from real users for clients. The work: creating user research projects, finding relevant users and running them. This is likely reasonably well-paid work as-is but let's look at ways we might take this UX-research and place it in-context:
 
@@ -160,13 +160,13 @@ So we've established that you can get paid more money for strategic work - and n
 
 I learned about the model of Strategy & Stewardship from the [Helsinki Design Lab](http://helsinkidesignlab.org/):
 
-> It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop
+> It is common these days for one group to be involved in analysis of a problem and designing the solution (consultants) while a different group executes these ideas (contractors). But this disconnects an essential feedback loop{% include tufte-sn.html id="recipes" content="Page 40 of recipes for systemic change" %}
 
 [Page 40 of recipes for systemic change](http://www.helsinkidesignlab.org/peoplepods/themes/hdl/downloads/In_Studio-Recipes_for_Systemic_Change.pdf) from Helsinki Design Lab
 
 Their solution? Strategy and stewardship:
 
-> We invoke stewardship in place of words like "implement" and "execute" out of recognition that the latter imply a cleanliness or linear progression which is rarely found when working on a shared proposition in a complex environment. Inside a factory plans can be executed, orders implemented, and outcomes delivered, but innovations that engage with the messy reality of the social sphere do not happen so neatly. What we describe also goes well beyond "facilitation," which suggests that others do the important work. Stewardship shapes the course of innovation; it is not a neutral role. Think of stewardship as a form of leadership. One that acknowledges things will change along the way for better or for worse, therefore demanding agility over adherence to a predetermined plan. Many individuals who work in alliances or collaborative endeavors act as stewards almost naturally. If you are used to continually calibrating the goals of a project with the constraints of your context, you are practicing stewardship. If you maintain a constant state of opportunism and a willingness to pivot when progress on the current path is diminishing, you're a natural steward
+> We invoke stewardship in place of words like "implement" and "execute" out of recognition that the latter imply a cleanliness or linear progression which is rarely found when working on a shared proposition in a complex environment. Inside a factory plans can be executed, orders implemented, and outcomes delivered, but innovations that engage with the messy reality of the social sphere do not happen so neatly. What we describe also goes well beyond "facilitation," which suggests that others do the important work. Stewardship shapes the course of innovation; it is not a neutral role. Think of stewardship as a form of leadership. One that acknowledges things will change along the way for better or for worse, therefore demanding agility over adherence to a predetermined plan. Many individuals who work in alliances or collaborative endeavors act as stewards almost naturally. If you are used to continually calibrating the goals of a project with the constraints of your context, you are practicing stewardship. If you maintain a constant state of opportunism and a willingness to pivot when progress on the current path is diminishing, you're a natural steward{% include tufte-sn.html id="legileb" content="Page 15 of recipes for systemic change" %}
 
 [Page 15 of legible practices](http://helsinkidesignlab.org/peoplepods/themes/hdl/downloads/Legible_Practises.pdf) from Helsinki Design Lab
 
