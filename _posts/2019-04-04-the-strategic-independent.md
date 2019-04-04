@@ -48,7 +48,7 @@ However, in addition to the above context - that app design project might *also*
 
 ![](/images/context2.png)
 
-Here's some types of context to look for:
+Every project exists in multiple overlapping contexts - here's some of the types of context to look for:
 
 - People (who are the stakeholders? what do they care about?)
 - Resources (what can they realistically *do* with your work?)
