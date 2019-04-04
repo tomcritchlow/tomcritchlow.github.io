@@ -241,6 +241,18 @@ You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a
 
 Importantly - if you accept that you can do a lot of implementation work for clients but they should all start with strategy then your external positioning should be entirely focused around the strategy work to attract the right kinds of clients.
 
+## Time & Money
+
+Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/){% include tufte-sn.html id="timemoney" content="To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's ually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did." %}. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
+
+**I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.**
+
+Why? Well - as you go through this cycle of exposure to new contexts and working in new contexts you are by definition operating in new types of work and new types of environments and it's hard to control the inputs and outputs.
+
+Put simply - as you ladder up into wider contexts for your work you don't yet have enough experience to properly scope and price the work - not to mention you may be continually expanding your context not upwards but sideways into new types of workstreams.
+
+So I say - if you're reading the commonly accepted wisdom about pricing and feeling like *you're doing it wrong* by pricing based on time let me tell you that *you're totally fine* and that strategic work by definition can be fuzzy and so scoping on project work can be dangerous.
+
 ## My own journey out of SEO
 
 Looking back at my career - this idea of doing work-in-context has determined the path I've taken from SEO manager to digital strategy to consulting work.
@@ -299,18 +311,6 @@ Co-dependence and network building has plenty of other benefits{% include tufte-
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
 So then, the strategic independent is someone who not only helps bridge context inside an organization but outside as well. This distance from a client's organization is extremely valuable - and yet another reason not to undersell the value of context before and during an engagement. Someone able to connect the dots and do work-in-context but also expand the context into new directions.
-
-## Time & Money
-
-Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/){% include tufte-sn.html id="timemoney" content="To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's ually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did." %}. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
-
-**I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.**
-
-Why? Well - as you go through this cycle of exposure to new contexts and working in new contexts you are by definition operating in new types of work and new types of environments and it's hard to control the inputs and outputs.
-
-Put simply - as you ladder up into wider contexts for your work you don't yet have enough experience to properly scope and price the work - not to mention you may be continually expanding your context not upwards but sideways into new types of workstreams.
-
-So I say - if you're reading the commonly accepted wisdom about pricing and feeling like *you're doing it wrong* by pricing based on time let me tell you that *you're totally fine* and that strategic work by definition can be fuzzy and so scoping on project work can be dangerous.
 
 ## Will you join me on the path to being a strategic independent?
 
