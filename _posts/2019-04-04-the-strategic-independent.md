@@ -178,7 +178,11 @@ If you look at strategy on it's own:
 
 ![](/images/strategy-only.png)
 
-There are two key things to draw from this chart - firstly the long-term work begins with strategic work, so if you want to get involved in a project early (a common request) you have to be thinking and working strategically. But importantly, if you only do strategy work the client isn't going to keep you around in months 3-12.  No matter how lucrative that strategy work is, if you're not shifting your outputs to implementation/stewardship then there isn't enough work for either you or the client to justify sticking around.
+There are two key things to draw from this chart:
+
+The long-term work begins with strategic work, so if you want to get involved in a project early (a common request) you have to be thinking and working strategically.
+
+But importantly, if you only do strategy work the client isn't going to keep you around in months 3-12.  No matter how lucrative that strategy work is, if you're not shifting your outputs to implementation/stewardship then there isn't enough work for either you or the client to justify sticking around and so you end up with a short sprint of a project.
 
 Now, if you look at execution on it's own:
 
@@ -245,9 +249,9 @@ Importantly - if you accept that you can do a lot of implementation work for cli
 
 Looking back at my career - this idea of doing work-in-context has determined the path I've taken from SEO manager to digital strategy to consulting work.
 
-The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business goals are usually not owned by SEO practitioners or agencies.
+The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business-level goals are usually not owned by SEO practitioners or agencies{% include tufte-sn.html id="seo" content="Yes, there are exceptions to this of course but there's a reason there's no widely recognized c-suite SEO function." %}.
 
-This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I worked at Distilled it wasn't uncommon to be working directly on digital strategy for brands, in a context model that looked something like this:
+This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I worked at Distilled it wasn't uncommon to be working directly on digital strategy for fortune-500 brands, in a context model that looked something like this:
 
 ![](/images/seo-context-old.png)
 
@@ -259,7 +263,7 @@ As I felt this shift towards SEO being less strategic I needed to find ways to e
 
 When I first started consulting in 2014, yes I worked mostly on SEO projects. But I was keenly aware of the wider context and pushed myself to ask questions and be curious - whether about the business model or the teams executing the work.
 
-Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do.
+Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do{% include tufte-sn.html id="mediadesign" content="One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on <a href='https://tomcritchlow.com/2018/07/25/media-design/'>media design</a>." %}.
 
 ## How to learn to be more strategic
 
