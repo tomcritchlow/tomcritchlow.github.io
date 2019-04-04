@@ -84,12 +84,12 @@ There's a certain kind of experience that I want to describe where everything go
 
 ![](/images/catastrophic-context.png)
 
-These catastrophic events collapse the environment and cascade downwards. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles.
+**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles.
 
 But for those above the fire-line there are two things that are crucial:
 
 1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
-2. They likely knew about the catastrophic event ahead of time. They may even have been responsible for causing the catastrophic event.
+2. **They likely knew about the catastrophic event ahead of time**. They may even have been responsible for causing the catastrophic event.
 
 We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
 
@@ -180,9 +180,9 @@ If you look at strategy on it's own:
 
 There are two key things to draw from this chart:
 
-The long-term work begins with strategic work, so if you want to get involved in a project early (a common request) you have to be thinking and working strategically.
+**The long-term work begins with strategic work**, so if you want to get involved in a project early (a common request) you have to be thinking and working strategically.
 
-But importantly, if you only do strategy work the client isn't going to keep you around in months 3-12.  No matter how lucrative that strategy work is, if you're not shifting your outputs to implementation/stewardship then there isn't enough work for either you or the client to justify sticking around and so you end up with a short sprint of a project.
+But importantly, **if you only do strategy work the client isn't going to keep you around for months 3-12**.  No matter how lucrative that strategy work is, if you're not shifting your outputs to implementation/stewardship then there isn't enough work for either you or the client to justify sticking around and so you end up with a short sprint of a project.
 
 Now, if you look at execution on it's own:
 
@@ -190,9 +190,9 @@ Now, if you look at execution on it's own:
 
 There are two key drawbacks to only doing implementation/execution work:
 
-Firstly - notice how the blue line shoots up a few months into the project? When you're only working on the execution/implementation you get called into the project too late - the strategy is already set.
+Firstly - notice how the blue line shoots up a few months into the project? **When you're only working on the execution/implementation you get called into the project too late** - the strategy is already set.
 
-Secondly - notice how at some point in the future, when the client either pauses, reviews or changes their strategy, the project unexpectedly ends? This can seem like it "comes out of nowhere" if you're only doing the execution work and not aware of the wider context.
+Secondly - notice how **at some point in the future, the client either pauses, reviews or changes their strategy and the project unexpectedly ends**? This can seem like it "comes out of nowhere" if you're only doing the execution work and not aware of the wider context.
 
 ## So what does stewardship work look like?
 
@@ -207,7 +207,7 @@ So is the execution just plugging away in the trenches? Yes sometimes, but I thi
 
 If you take this strategy & stewardship approach - when the client comes to review the strategy at month 6 you're still there working with the client and able to offer tangible and concrete insights into the work. How is the strategy evolving? Where should we adjust? What have we achieved?
 
-Using this approach the average retainer length for clients I work with is 20 months.
+**Using this approach the average retainer length for clients I work with is 20 months.**
 
 I recall an important breakthrough for my own thinking - a client had hired another consultant to work on a project and afterwards I asked my client how the experience was and he said:
 
@@ -215,11 +215,11 @@ I recall an important breakthrough for my own thinking - a client had hired anot
 
 This was a real lightbulb moment for me - up until that time I'd always worried about doing "menial" or "low-paid" work as a consultant but charging a strategy-based day-rate.
 
-But the thing I realized was that if you can provide momentum to an organization it doesn't matter if you're writing title tags in an SEO environment or putting together a board pitch you should do the most valuable thing the business needs at that moment.
-
-So, don't undervalue either part of your work - either the strategy or the stewardship. Remember that graph up above with the blue/green strategy/execution mix? I bill it all at the same day rate. Stewardship is just as valuable as strategy and there's no reason to somehow charge less for the execution work.
+But the thing I realized was that if you can provide momentum to an organization it doesn't matter if you're writing title tags in an SEO environment or putting together a board pitch **you should do the most valuable thing the business needs at that moment**.
 
 The freedom of a consultant is that you can ignore job title / role / responsibility and be laser focused on moving the business towards key objectives and mixing your outputs from small to big as needed.
+
+So, don't undervalue either part of your work - either the strategy or the stewardship. Remember that graph up above with the blue/green strategy/execution mix? I bill it all at the same day rate. Stewardship is just as valuable as strategy and there's no reason to somehow charge less for the execution work.
 
 ## Only let clients in the strategy door
 
@@ -298,7 +298,7 @@ Frank Chimero wrote a wonderful essay I think about often titled [the inferno of
 
 > Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
 
-Co-dependence and network building has plenty of other benefits{% include tufte-sn.html id="strange" content="I wrote about using a network to build a steady stream of high value leads in my post <a href='https://tomcritchlow.com/2019/03/12/strange-attraction/'>strange attraction</a>." %} but one key benefit of a diverse network is the adjacent-context. Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook.
+Co-dependence and network building has plenty of other benefits{% include tufte-sn.html id="strange" content="I wrote about using a network to build a steady stream of high value leads in my post <a href='https://tomcritchlow.com/2019/03/12/strange-attraction/'>strange attraction</a>." %} but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
 
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
@@ -306,15 +306,15 @@ So then, the strategic independent is someone who not only helps bridge context 
 
 ## Time & Money
 
-Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/). And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
+Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/){% include tufte-sn.html id="timemoney" content="To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's ually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did." %}. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
 
-I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.
+**I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.**
 
 Why? Well - as you go through this cycle of exposure to new contexts and working in new contexts you are by definition operating in new types of work and new types of environments and it's hard to control the inputs and outputs.
 
 Put simply - as you ladder up into wider contexts for your work you don't yet have enough experience to properly scope and price the work - not to mention you may be continually expanding your context not upwards but sideways into new types of workstreams.
 
-So I say - if you're reading the commonly accepted wisdom about pricing and feeling like you're doing it wrong by pricing based on time let me tell you that you're totally fine and that strategic work by definition can be fuzzy and so scoping on project work can be dangerous.
+So I say - if you're reading the commonly accepted wisdom about pricing and feeling like *you're doing it wrong* by pricing based on time let me tell you that *you're totally fine* and that strategic work by definition can be fuzzy and so scoping on project work can be dangerous.
 
 ## Will you join me on the path to being a strategic independent?
 
@@ -328,9 +328,9 @@ Hopefully this long post was helpful - let's recap the main points:
 -  And, as you work in fluid context-shifting client work don't be afraid to charge based on time - despite what the received wisdom advises.
 -  Finally as an independent remember that co-dependence with your network is actually the ideal state and you can gain context from peers just as much as you can from clients
 
-I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing strategic work, independently - the strategic independent.
+I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing **strategic work, independently - the strategic independent**.
 
-To peek the outline for the book head over here: <https://tomcritchlow.com/strategy/> and you can subscribe to my newsletter here: <https://tinyletter.com/tomcritchlow> to keep updated with the latest.
+To peek [the outline for the book head over here](https://tomcritchlow.com/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/tomcritchlow) to keep updated with the latest.
 
 I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
 
