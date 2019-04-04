@@ -40,13 +40,9 @@ The more you understand an organization the better you can understand context{% 
 
 ## Overlapping contexts
 
-So when I talk about strategic work - it's about trying to understand the
-
-concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts:
+So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts{% include tufte-sn.html id="obvious" content="This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement." %}:
 
 ![](/images/context1.png)
-
-This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business before starting work.
 
 However, in addition to the above context - that app design project might *also* exist within a variety of people contexts:
 
