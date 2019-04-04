@@ -78,9 +78,9 @@ Last year I was working with a client to integrate an acquisition into the main 
 
 There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
 
-![](/images/catastrophic-context.png)
+**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles{% include tufte-sn.html id="graphicdesign" content="Not available for graphic design work." %}.
 
-**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles.
+![](/images/catastrophic-context.png)
 
 But for those above the fire-line there are two things that are crucial:
 
