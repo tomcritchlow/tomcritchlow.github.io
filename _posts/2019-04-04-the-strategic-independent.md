@@ -1,43 +1,34 @@
 ---
 layout: tufte
 title: The Strategic Independent
-subtitle: 
+subtitle: How to do better work for more money, whether you're a designer, writer or consultant.
 tags: strategy
 ---
 
-The Strategic Independent
-=========================
-
-How to do better work for more money, whether you're a designer, writer or consultant.
-
-In this post I want to break down what I mean by "strategic independent" and why, whatever path and expertise you bring, you can bring more value for yourself and your clients by thinking strategically.
+In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.
 
 In this post we'll walk through:
 
--   What strategic work is - by looking at work-in-context and
+- **What strategic work is** - by looking at a variety of contexts you might work within and how to spot them.
+- **Why strategic work is better** - both for you and the client, offering more value to them and being more interesting for you.
+- **How strategic work enables you to charge more** - and keep clients retained for longer, a compounding effect on your ability to charge more.
+- **How you can begin to think strategically** - offering some real examples from my own career.
 
--   Why strategic work is better for you and the client - by enabling
-
--   How strategic work enables you to charge clients more and keep them retained for longer
-
--   How you can begin to think strategically with some real examples from my own career
-
-And finally, how being independent but building a strong network enables you to gain context from peers and bring additional adjacent-context for clients
+Finally, how being independent offers more value for your clients by enabling you to gain adjacent context that your client might not be able to see and that we get this adjacent from our network - and therefore we should really think of being codependent with our network.
 
 Onwards...
 
-Strategic work is work-in-context
----------------------------------
+## Strategic work is work-in-context
 
 Client work can be frustrating:
 
-Ever had a project cancelled without notice?
+*Ever had a project cancelled without notice?*
 
-Ever had to go through endless revisions and feel like you're not getting it?
+*Ever had to go through endless revisions and feel like you're not getting it?*
 
-Ever had a project stall before it even started because you can't agree on the exact deliverables?
+*Ever had a project stall before it even started because you can't agree on the exact deliverables?*
 
-Ever had a piece of work never get implemented by a client?
+*Ever had a piece of work never get implemented by a client?*
 
 But frustration is a two player game - when you're frustrated that work doesn't make sense - the client is likely frustrated that your work doesn't meet their objectives well enough.
 
@@ -47,8 +38,7 @@ Even before I start working with a client in the very first meeting I always mak
 
 The more you [understand an organization](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) the better you can understand context.
 
-Overlapping contexts
---------------------
+## Overlapping contexts
 
 So when I talk about strategic work - it's about trying to understand the
 
