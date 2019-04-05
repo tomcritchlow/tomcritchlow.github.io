@@ -235,7 +235,7 @@ The argument really boils down to:
 
 - Implementation work is hard work to sell - you get poor quality clients expecting a more easily commoditized output that drives your business towards lower margins
 - Not only that but implementation work is often more stressful and deadline-driven
-- So of course do both for clients but only them in through the strategy door to ensure that you do better, higher value and higher margin work.
+- So of course do both for clients but only let them in through the strategy door to ensure that you do better, higher value and higher margin work.
 
 You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom{% include tufte-sn.html id="david" content="There is however a shorter (older) version of this argument from David <a href='https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf'>online here</a>" %}.
 
