@@ -20,6 +20,6 @@ books:
    notes: If there was ever a maths superhero, Bertrand Russell might be right up there. This comic is funny, moving, emotional and accessible. Everyone should read this, regardless of how much you like maths.
  - title: Uncle Petros and Goldbach's Conjecture
    author: Apostolos Doxiadis
-   link: https://www.amazon.com/dp/B0117S8JSS/
+   link: https://www.amazon.com/dp/B004INH2F6/
    notes: A novel by the same guy behind Logicomix. This is a bit more mathsy but also a cracking story. More about sense of purpose, redemption and the quest for knowledge than it is about maths.
 ---
