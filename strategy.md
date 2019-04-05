@@ -17,11 +17,7 @@ Right now - the book will cover the following broad topics:
 
 ## Intro & Overview
 
-**Why "strategic independent"?** - there's a core idea here that if you want to build a sustainable practice for yourself you need to think about becoming strategic. Even if you're not doing "strategy" work. There will be a section here exploring some of these terms and foundational ideas.
-
-**"Only let clients in the strategy door"** - this is a concept from David Barker's book [Expertise](https://www.expertise.is/). Essentially, there's nothing wrong with execution work but it doesn't work out in your favor to lead with it for new projects. I haven't written about this yet but if you ponder [this diagram](https://images-na.ssl-images-amazon.com/images/I/71ggHXpZf4L.jpg) for long enough you should get the picture! 
-
-[The Inferno of Independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) - this is a powerful piece of writing and I'll reference this to explain that this book is not just about doing the work but also the lived experience of *being* an independent.
+**What does it mean to be a strategic independent** - the core thesis and audience for the book is that it's not just for consultants, but rather a slightly broader set of "strategic independents". I explain what this and show how this model can lead to better paid, more interesting and more effective work in my post: [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/)
 
 Importantly - this will not be a "get rich quick" book. There's nothing in this book about escaping from the work or building passive referral incomes{% include tufte-sn.html id="passive" content="For the record - there's nothing wrong with passive income streams. But I find if you go looking for advice or support there's a ton of people that will discount the actual work and try and push directly to the passive income stream as 'the answer'. I disagree and think there is a stimulating, rewarding and engaging practice to be built about consulting and I am attempting to write a practical book on the topic." %}. Rather this is about building a **sustainable** independent practice. Yes, that requires understanding pricing and billing and attempting to charge enough to sustain yourself through feast and famine. But it is mostly about the practice of doing the work and being the thing. Not escaping being the thing.
 
