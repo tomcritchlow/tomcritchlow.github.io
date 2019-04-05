@@ -5,7 +5,7 @@ books:
  - title: Pattern Recognition
    author: William Gibson
    link: https://www.amazon.com/dp/B000OCXGVY/
-   notes: The consultant allergic to brands.
+   notes: The consultant allergic to brands. Marketing agencies that wield global influence over culture.
  - title: Satin Island
    author: Tom McCarthy
    link: https://www.amazon.com/dp/B00MZWA678/
