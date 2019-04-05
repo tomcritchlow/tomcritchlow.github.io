@@ -10,11 +10,11 @@ books:
    author: Simon Singh
    link: https://www.amazon.com/Fermats-Last-Theorem-Simon-Singh-ebook/dp/B009UKUGXC
    notes: This is what rockstar maths looks like - being lonely and scared for 10 years followed by depression and then immortality. The story of how one of the most famous problems ever was solved by a single genius. Fascinating reading. Made me cry.
-- title: Gödel, Escher, Bach
+ - title: Gödel, Escher, Bach
    author: Douglas R. Hofstadter
    link: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567
    notes: This book is sort of about Godel's incompleteness theorem. It also changed my life. I'm not kidding! Technically challenging for most non-maths people I think but still accessible with work. Did I mention it changed my life?
-- title: Logicomix
+ - title: Logicomix
    author: Apostolos Doxiadis
    link: https://www.amazon.com/dp/B0117S8JSS/
    notes: If there was ever a maths superhero, Bertrand Russell might be right up there. This comic is funny, moving, emotional and accessible. Everyone should read this, regardless of how much you like maths.
