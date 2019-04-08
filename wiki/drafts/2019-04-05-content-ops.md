@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: The Bloggers Way
-subtitle: A 52 week course to learn how to blog
+title: The start of Content Ops
+subtitle: An emergent discipline
 draft: true
 ---
 
