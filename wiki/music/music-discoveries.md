@@ -7,6 +7,10 @@ books:
    author: Ahmad Jamal
    image: https://lastfm-img2.akamaized.net/i/u/174s/dfb0c183fd904dd9ada85c2d9404f641.png
    notes: Good jazz for spring time.
+ - title: 70s Japanese Jazz Mix
+   author: Magical Mystery Mix
+   image: https://img.youtube.com/vi/s-jtdKjzQaE/0.jpg
+   notes: Youtube shuffle jazz.   
  - title: Swiss Movement
    author: Eddie Harris
    image: https://lastfm-img2.akamaized.net/i/u/300x300/c864ea0121d446b7a4c1320f56ad3a98.jpg
@@ -31,8 +35,4 @@ books:
    author: Joni Mitchell
    image: https://lastfm-img2.akamaized.net/i/u/174s/2a5c0b845bb2f081227cca69f5ec22c3.png
    notes: She only means to please them. Tender.
- - title: 70s Japanese Jazz Mix
-   author: Magical Mystery Mix
-   image: https://img.youtube.com/vi/s-jtdKjzQaE/0.jpg
-   notes: Youtube shuffle jazz.
 ---

@@ -116,7 +116,7 @@ Let's imagine you're a writer - commissioned to write for a client's branded con
 - Competitive analysis for other branded content sites, who writes for them and how they operate
 - A content marketing plan for the branded content site
 - A content marketing plan across the whole brand
-- Themed content franchises that
+- Themed content franchises that can scale beyond individual posts
 - SEO research into keywords they care about targeting
 
 ### Scenario #2 - From UX Research to Strategic Research
