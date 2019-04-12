@@ -10,3 +10,7 @@ Options for writing a web-book that becomes a print book:
 (e.g. [https://worldaftercapital.gitbooks.io/worldaftercapital/content/](https://worldaftercapital.gitbooks.io/worldaftercapital/content/))
 
 <https://electricbookworks.com/>
+
+<https://electricbookworks.github.io/electric-book/>
+
+e.g. <https://platformland.github.io/playbook/book/text/index.html>

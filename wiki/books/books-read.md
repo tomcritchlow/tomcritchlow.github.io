@@ -2,7 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
- - title: Delirious New York
+ - title: Light Years
+   author: James Salter
+   link: https://www.amazon.com/dp/B004G8PIOA/
+   date_finished: 4/12/2019
+   notes: This book completely destroyed me. The writing is dense and poetic like almost no one I've ever read. Did you know glass is a liquid and slowly 'flows'? This book operates on a time horizon and 'flows' through lives in a deeply transformative way. Found via <a href='https://www.gyford.com/phil/writing/2019/02/15/light-years-james-salter/'>Phil Gyford</a>
+- title: Delirious New York
    author: Rem Koolaas
    link: https://www.amazon.com/dp/B00JYVYUUW/
    date_finished: 3/18/2019
