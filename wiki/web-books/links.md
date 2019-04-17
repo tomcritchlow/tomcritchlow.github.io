@@ -14,3 +14,5 @@ Options for writing a web-book that becomes a print book:
 <https://electricbookworks.github.io/electric-book/>
 
 e.g. <https://platformland.github.io/playbook/book/text/index.html>
+
+<https://editoria.pub/>

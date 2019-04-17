@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: tufte
 title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 tags: strategy
