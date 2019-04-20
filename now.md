@@ -4,7 +4,7 @@ title: /now
 subtitle: What I'm working on now, inspired by Derek Sivers
 ---
 
-Location: Brooklyn, NY
+Location: Brooklyn, NY.
 
 My personal mantra: move. think. create.
 
