@@ -15,3 +15,4 @@ A list of concepts and thinkers who use diagrams, visualizations and doodles in 
 
 <https://stratechery.com/>
 
+<https://twitter.com/markpollard>
