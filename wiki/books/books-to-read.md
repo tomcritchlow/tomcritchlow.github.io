@@ -37,3 +37,7 @@ How to do nothing - jenny odel
 [roadside picnic](https://robinrendle.com/notes/roadside-picnic/)
 
 [the content trap](https://www.amazon.com/Content-Trap-Strategists-Digital-Change/dp/0812995384)
+
+Basically everything by James Salter but maybe especially the autobiography:
+
+<https://www.goodreads.com/book/show/174628.Burning_the_Days>

@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: An Insatiable High
+   author: Masayoshi Takanaka 
+   image: http://i3.ytimg.com/vi/9cuxrkZeai8/maxresdefault.jpg
+   href: https://www.youtube.com/watch?v=9cuxrkZeai8
+   notes: Funky swing japanese times.
  - title: At The Pershing-But Not For Me
    author: Ahmad Jamal
    image: https://lastfm-img2.akamaized.net/i/u/174s/dfb0c183fd904dd9ada85c2d9404f641.png
