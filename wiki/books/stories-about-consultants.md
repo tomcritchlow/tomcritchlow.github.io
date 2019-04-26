@@ -1,6 +1,6 @@
 ---
 layout: wikibook
-title: Novels about consultants
+title: Stories about consultants
 books:
  - title: Pattern Recognition
    author: William Gibson
@@ -15,4 +15,8 @@ books:
    link: https://www.amazon.com/dp/B01N0Z1EY0
    image: /images/sleepconsultant.jpg
    notes: A one-off print run zine fiction from Robin Sloan. The corporate sleep consultant asleep for 5 years.
+ - title: The Art of Gig
+   author: Venkatesh Rao
+   image: /images/sleepconsultant.jpg
+   notes: A wonderful madcap dash through an engagement as an indie consultant deploying <em>Structured Conversation Operations</em> and encountering McKinsey (who come in like a SWAT team). Love it. Read it here https://www.ribbonfarm.com/2015/03/19/the-art-of-gig/
 ---
