@@ -17,6 +17,6 @@ books:
    notes: A one-off print run zine fiction from Robin Sloan. The corporate sleep consultant asleep for 5 years.
  - title: The Art of Gig
    author: Venkatesh Rao
-   image: /images/sleepconsultant.jpg
+   image: https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/16panel.png
    notes: A wonderful madcap dash through an engagement as an indie consultant deploying <em>Structured Conversation Operations</em> and encountering McKinsey (who come in like a SWAT team). Love it. Read it here https://www.ribbonfarm.com/2015/03/19/the-art-of-gig/
 ---
