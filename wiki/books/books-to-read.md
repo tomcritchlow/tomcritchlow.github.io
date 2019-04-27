@@ -41,3 +41,6 @@ How to do nothing - jenny odel
 Basically everything by James Salter but maybe especially the autobiography:
 
 <https://www.goodreads.com/book/show/174628.Burning_the_Days>
+
+Void Star! Is really good and central character is a contractor who can talk to AIs
+<https://twitter.com/speckledwords/status/1121814387478663173>
