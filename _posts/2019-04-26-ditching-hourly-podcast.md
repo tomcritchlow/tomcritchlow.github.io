@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ditching Hourly Podcat Appearance
+title: Ditching Hourly Podcast Appearance
 subtitle: Talking about The Strategic Independent
 ---
 
