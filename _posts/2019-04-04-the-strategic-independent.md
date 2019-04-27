@@ -333,3 +333,8 @@ I'd love to hear your experience with strategic work, independence and context. 
 --
 
 *Thank you to the amazing people who reviewed early drafts of this piece, commented and generally made this piece better including: Adam Wiggins, Chris Butler, Rachel Joy Victor, John Doherty, Mark Pollard, Josh Braaten & Brian Dell.*
+
+--
+
+
+*Update: April 26th 2019 I spent an hour discussing the ideas in this post with Jonathan Stark from the podcast Ditching Hourly and you can [listen to that episode here](https://www.ditchinghourly.com/f1eaf983).*
