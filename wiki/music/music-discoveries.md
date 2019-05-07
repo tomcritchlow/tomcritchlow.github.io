@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Dawn
+   author: Silent Poets
+   image: https://lastfm-img2.akamaized.net/i/u/174s/48bb5b067a7b8b0d8e925f7f17b1b4d3.png
+   href: https://song.link/album/i/1337983610
+   notes: Electronic style, sweeping beats. Recommended via Ben Pieratt.
  - title: An Insatiable High
    author: Masayoshi Takanaka 
    image: http://i3.ytimg.com/vi/9cuxrkZeai8/maxresdefault.jpg

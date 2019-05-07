@@ -23,3 +23,4 @@ Glitches or ghosts
 
 Ghosts in the machine and glitches in the streets. Our sense of the otherworldly has shifted.
 
+[Of Humans and Daemons: Channelling the Network](https://matildepark.ca/2019/04/Beyond-Wired)

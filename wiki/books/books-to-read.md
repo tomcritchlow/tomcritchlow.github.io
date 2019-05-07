@@ -44,3 +44,7 @@ Basically everything by James Salter but maybe especially the autobiography:
 
 Void Star! Is really good and central character is a contractor who can talk to AIs
 <https://twitter.com/speckledwords/status/1121814387478663173>
+
+[The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=nort0ff-20&linkId=73e082883c328d2dc46f57faaf7b9fb8&language=en_US) (via dave perell)
+
+https://twitter.com/Mikeachim/status/1125037595547844608
