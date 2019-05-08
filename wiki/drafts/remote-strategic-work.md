@@ -21,3 +21,6 @@ C-suite conversations
 Unprompted communication (send them mood boards or links)
 Get there often! Workshops excuses.
 Ask for docs and info.
+
+
+https://twitter.com/SeanBlanda/status/1090624748067917824

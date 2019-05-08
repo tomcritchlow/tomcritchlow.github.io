@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Gone Away World
+   author: Nick Harkaway
+   link: https://www.amazon.com/dp/B001EL6R9W/
+   date_finished: 5/07/2019
+   notes: A majestic feat of imagination - whirlwind story of a gong-fu epic in a world gone mad. Definitely feels like it needed better editing or structuring and was about 100 pages too long but the strength of imagination and grasp of poetry really captivated me. Picked this up off the street on the way home from kung-fu training (approriate!). I'll be reading more of his work.
  - title: Light Years
    author: James Salter
    link: https://www.amazon.com/dp/B004G8PIOA/
