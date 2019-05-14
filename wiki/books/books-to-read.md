@@ -48,3 +48,9 @@ Void Star! Is really good and central character is a contractor who can talk to 
 [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=nort0ff-20&linkId=73e082883c328d2dc46f57faaf7b9fb8&language=en_US) (via dave perell)
 
 https://twitter.com/Mikeachim/status/1125037595547844608
+
+“Ideas about a person's place in society, his role, lifestyle, and ego qualities will lose their hold as the cohesive forces in society disintegrate. Subculture values will proliferate to such a bewildering extent that a whole new class of professionals will arise to control them. Such a Transmutation Technology will deal in fashions, in ways of being. Lifestyle consultants will become the new priests of our civilizations. They will be the new magicians.”
+
+<https://www.goodreads.com/quotes/168042-ideas-about-a-person-s-place-in-society-his-role-lifestyle>
+
+Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium dream, hovering somewhere between poetry and prose. Highly recommended if you’re fascinated by cities; its expansive, wandering style, crawling along the stones and streets of imagined cities like fingers stroking Braille, reminded me of *Sohrab Sepehri’s The Lover is Always Alone*, which is one of my favorite books of all time.

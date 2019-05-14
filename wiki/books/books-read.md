@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Bandwidth
+   author: Eliot Peper
+   link: https://www.amazon.com/dp/B075CLV95J/
+   date_finished: 5/13/2019
+   notes: I completely devoured this book. The characters and pace keeps it flowing but the ideas will stick with me - it's grounded in a very near future and the concepts are well thought through. Excited to keep diving into Borderless next.
  - title: The Gone Away World
    author: Nick Harkaway
    link: https://www.amazon.com/dp/B001EL6R9W/
