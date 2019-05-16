@@ -21,3 +21,5 @@ Intersections.
 Screens are terrible at viewing intersections. 
 
 Strategy as an unfolding network of associates. (stripe)
+
+"The post-its fell like ash, tumbling softly to the floor" - observation from Studio D workshop.
