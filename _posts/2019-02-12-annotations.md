@@ -109,27 +109,3 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 --
 
 *Update 5: I realize now that I forgot to explain in this essay why annotations are important and interesting. To fall in love with marginalia and notes-on-texts check out Austin Kleon's [reading with a pencil](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) post*
-
-<script type="application/json" class="js-hypothesis-config">
-  {
-    "openSidebar": false,
-    "theme": "clean"
-  }
-</script>
-
-<script type="text/javascript" src="https://cdn.hypothes.is/hypothesis"></script>
-
-<script type="text/javascript">
-
-window.hypothesisConfig = function () {
-  return {
-    branding: {
-      appBackgroundColor: 'white',
-      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
-      ctaTextColor: '#eee',
-      selectionFontFamily: 'helvetica, arial, sans serif'
-    }
-  };
-};
-
-</script>
