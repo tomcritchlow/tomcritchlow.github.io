@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Borderless
+   author: Eliot Peper
+   link: https://www.amazon.com/dp/B07BM7F9SF
+   date_finished: 5/20/2019
+   notes: Book two of the Analog series. Overall I connected less with the main character in this one but connected more with the overall premise which is very thought provoking. It feels today that we are actively living through the end (or at least a phase transition) of sovereignty. Compelling and a quick read.
  - title: Bandwidth
    author: Eliot Peper
    link: https://www.amazon.com/dp/B075CLV95J/
