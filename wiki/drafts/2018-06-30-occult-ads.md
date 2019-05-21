@@ -39,3 +39,6 @@ My point is - even as a sophisticated digital media professional who knows more 
 Somewhere over the last 15 years there is a shift from "why are they marketing to these kinds of people" to "why are they marketing to me, specifically".
 
 And how does that make us feel? What do they know on us? Am I pregnant? Am I an alcoholic? 
+
+
+Algorithms are predatory. They are hunt for conditions. One click on a pins website and you're hunted by the algorithms, not just for that one website but all pins websites. There's blood in the feed. The algorithms taste it and the hunt is on.

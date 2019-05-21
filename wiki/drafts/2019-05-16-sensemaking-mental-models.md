@@ -19,3 +19,8 @@ I fell in love with the idea of frameworks - created in an organic process, emer
 
 So if you're stuck on a project, try making your mental model visible. Sketch it. Diagram it. Or maybe it's wrong? Maybe you need a new mental model. Can you find one?
 
+https://www.are.na/nic-schumann/theorizing-metaphor
+
+https://www.youtube.com/watch?v=n8m7lFQ3njk
+
+Poetyry is a form of mental model too.
