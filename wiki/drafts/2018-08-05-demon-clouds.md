@@ -11,3 +11,7 @@ i.e. personal data cloud
 or processing cloud
 and then I realized there's actually a few different mental models for the future of augmented computing - centaurs, personal daemons, personal cloud, serviceworkers and probably more
 would be fun to unpack which of those models is most likely to catch on and why
+
+Alt title: scripting for static blogs.
+
+JS to generate a file based off a page/inputs. Glitch for generating a md file.
