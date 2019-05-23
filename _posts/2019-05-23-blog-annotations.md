@@ -22,7 +22,7 @@ Fortunately Hypothesis has a very easy to use API and I whipped up a quick annot
 
 <https://api.hypothes.is/api/search?wildcard_uri=https%3A%2F%2Ftomcritchlow.com%2F%2A&limit=50>
 
-This is wrapped up in a Google Apps Script function here:
+This is wrapped up in a Google Apps Script function here that fetches new annotations and emails me for new ones:
 
 <script src="https://gist.github.com/tomcritchlow/50fba1a5af3f1c8e6dfab0a5e2e31294.js"></script>
 
