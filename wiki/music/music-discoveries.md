@@ -3,6 +3,12 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+https://soundcloud.com/thescumfrog/the-scumfrog-ftelliott-larue-preview-from-sunrise-2017
+ - title: The Scumfrog ft.Elliott LaRue (excerpt from sunrise 2017)
+   author: The Scumfrog
+   image: https://i1.sndcdn.com/artworks-000261553136-awqdxg-t500x500.jpg
+   href: https://soundcloud.com/thescumfrog/the-scumfrog-ftelliott-larue-preview-from-sunrise-2017
+   notes: Uplifting upbeat sunshine rave
  - title: Dawn
    author: Silent Poets
    image: https://lastfm-img2.akamaized.net/i/u/174s/48bb5b067a7b8b0d8e925f7f17b1b4d3.png
