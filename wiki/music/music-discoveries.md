@@ -3,7 +3,6 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
-https://soundcloud.com/thescumfrog/the-scumfrog-ftelliott-larue-preview-from-sunrise-2017
  - title: The Scumfrog ft.Elliott LaRue (excerpt from sunrise 2017)
    author: The Scumfrog
    image: https://i1.sndcdn.com/artworks-000261553136-awqdxg-t500x500.jpg
