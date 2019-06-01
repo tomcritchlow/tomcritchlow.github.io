@@ -17,4 +17,4 @@ So the next 24 hours sent me a phone raft of watch ads:
 
 There's blood in the feed and the algorithms can smell it.
 
-<p><iframe src="https://tomcritchlow.com/stories/space/" width="343px" height="572px"></iframe></p>
+<p><iframe src="https://tomcritchlow.com/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
