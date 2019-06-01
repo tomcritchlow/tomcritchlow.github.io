@@ -54,3 +54,5 @@ https://twitter.com/Mikeachim/status/1125037595547844608
 <https://www.goodreads.com/quotes/168042-ideas-about-a-person-s-place-in-society-his-role-lifestyle>
 
 Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium dream, hovering somewhere between poetry and prose. Highly recommended if you’re fascinated by cities; its expansive, wandering style, crawling along the stones and streets of imagined cities like fingers stroking Braille, reminded me of *Sohrab Sepehri’s The Lover is Always Alone*, which is one of my favorite books of all time.
+
+[The things they carried](https://www.amazon.com/dp/B002TWIVNA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - see beautiful Wildsam email
