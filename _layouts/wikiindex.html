@@ -41,10 +41,23 @@
 
 <h3>Snippets:</h3>
 {% for item in snippets %}
-        <li class="pv1"><a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
+        <li class="pv1"><a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a><div class="box"><iframe src="{{item.path}}"></iframe></div></li>
 {% endfor %}
 
 </div>
+
+<style>
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+</style>
 
 <div class="fl w-40-l w-100 min-h5">
 
