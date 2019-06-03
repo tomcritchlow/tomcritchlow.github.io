@@ -41,7 +41,7 @@
 {% for item in notes %}
     {% if item.path contains ".html" %}
         <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
-    {% endunless %}
+    {% endif %}
 {% endfor %}
 
 </div>
