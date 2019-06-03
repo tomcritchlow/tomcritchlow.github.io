@@ -38,8 +38,8 @@
 {% endif %}
 
 <h3>Snippets:</h3>
-{% for item in notes %}
-    {% if item.path contains ".html" %}
+{% for item in site.static_files %}
+    {% if item.path contains folderfilter %}
         <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
     {% endif %}
 {% endfor %}
