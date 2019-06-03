@@ -41,7 +41,7 @@
 
 <h3>Snippets:</h3>
 {% for item in snippets %}
-        <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a></li>
+        <li class="pv1"><a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
 {% endfor %}
 
 </div>
