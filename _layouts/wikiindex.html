@@ -36,6 +36,14 @@
 {% endfor %}
 </ul>
 {% endif %}
+
+<h3>Snippets:</h3>
+{% for item in notes %}
+    {% if item.path contains ".html" %}
+        <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
+    {% endunless %}
+{% endfor %}
+
 </div>
 
 <div class="fl w-40-l w-100 min-h5">
