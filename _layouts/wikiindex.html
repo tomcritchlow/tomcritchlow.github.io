@@ -15,6 +15,8 @@
 <div class="fl w-60-l w-100 min-h5">
 {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
 
+{% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
+
 <h3>Notes:</h3>
 
 {% if page.expand %}
@@ -38,10 +40,8 @@
 {% endif %}
 
 <h3>Snippets:</h3>
-{% for item in site.static_files %}
-    {% if item.path contains folderfilter %}
-        <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
-    {% endif %}
+{% for item in snippets %}
+        <li class="pv1">{%if item.pinned %}📌{% endif %} <a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a></li>
 {% endfor %}
 
 </div>
