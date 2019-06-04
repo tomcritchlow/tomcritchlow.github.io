@@ -28,3 +28,8 @@ Ghosts in the machine and glitches in the streets. Our sense of the otherworldly
 <https://melanie-hoff.com/generativetarot/>
 
 [Tarot as collaborative storytelling](http://word-game-workshop.decontextualize.com/tarot/)
+
+<http://pointlinesurface.com/Claves-Angelicae-w-Gabriel-Dunne>
+
+>CLAVES ANGELICÆ is an installation and procedural system that enables a participant to inscribe a
+magical Word onto the Ethereum network.
