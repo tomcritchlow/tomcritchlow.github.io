@@ -56,52 +56,12 @@
 </div>
 
 <style>
-.box{
-    display: none;
-    width: 100%;
-}
-
-a:hover + .box,.box:hover{
-    display: block;
-    position: relative;
-    z-index: 100;
+.tciframe{
+    width:300px;
+    height:300px;
+    transform:scale(0.4);
 }
 </style>
-
-<div class="fl w-40-l w-100 min-h5">
-
-{% assign i = 0 %}
-{% for image in site.static_files %}
-    {% if image.path contains folderfilter %}
-        {% if image.path contains "pdf" or image.path contains "txt" %}
-            {% assign i = i | plus:1 %}
-            {% if i == 1 %}
-            <div class="w-100 cb"></div>
-            <h3>Files:</h3>    
-            {% endif %}
-            <a href="{{image.path}}" target="_blank"><div class="f6 grey">{{image.path}}</div></a>
-        {% endif %}
-    {% endif %}
-{% endfor %}
-
-{% assign j = 0 %}
-{% for image in site.static_files %}
-    {% if image.path contains folderfilter %}
-        {% if image.path contains "jpg" or image.path contains "jpeg" or image.path contains "png" %}    
-            {% assign j = j | plus:1 %}
-            {% if j == 1 %}
-            <div class="w-100 cb"></div>
-            <h3>Images:</h3>    
-            {% endif %}
-            <div class="fl w-50 pa2">
-                <a href="{{image.path}}" target="_blank"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
-                <div class="f6 grey">{{image.path | replace: folderfilter , ""}}</div>
-            </div>        
-        {% endif %}
-    {% endif %}
-{% endfor %}
-    
-</div>
 
 </div>
 
