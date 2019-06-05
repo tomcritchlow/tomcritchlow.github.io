@@ -41,7 +41,18 @@
 
 <h3>Snippets:</h3>
 {% for item in snippets %}
-        <li class="pv1"><a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a><div class="box"><iframe src="{{item.path}}"></iframe></div></li>
+        <!-- <li class="pv1"><a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a><div class="box"><iframe src="{{item.path}}"></iframe></div></li>-->
+        <div class="fl w-50 w-25-m w-20-l pa2">
+            <a href="{{item.path}}" class="db link dim tc">
+              <iframe src="{{item.path}}" class="w-100 db outline black-10"> </iframe>
+              <dl class="mt2 f6 lh-copy">
+                <dt class="clip">Title</dt>
+                <dd class="ml0 black truncate w-100">Blonde</dd>
+                <dt class="clip">Artist</dt>
+                <dd class="ml0 gray truncate w-100">Frank Ocean</dd>
+              </dl>
+            </a>
+          </div>
 {% endfor %}
 
 </div>
