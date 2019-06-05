@@ -42,9 +42,9 @@
 <h3>Snippets:</h3>
 {% for item in snippets %}
         <!-- <li class="pv1"><a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a><div class="box"><iframe src="{{item.path}}"></iframe></div></li>-->
-        <div class="fl w-50 w-25-m w-20-l pa2">
+        <div class="fl w-50 pa2">
             <a href="{{item.path}}" class="db link dim tc">
-              <iframe src="{{item.path}}" class="w-100 db outline black-10"> </iframe>
+              <iframe src="{{item.path}}" class="w-100 db outline black-10 tciframe"> </iframe>
               <dl class="mt2 f6 lh-copy">
                 <dt class="clip">{{item.path}}</dt>
                 <dd class="ml0 black truncate w-100">{{item.path}}</dd>
@@ -52,6 +52,14 @@
             </a>
           </div>
 {% endfor %}
+
+<style>
+    .tciframe{
+        width:300px;
+        height:300px;
+        transform:scale(0.5)
+    }
+</style>
 
 </div>
 
