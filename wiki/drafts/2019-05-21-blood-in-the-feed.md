@@ -20,3 +20,7 @@ There's blood in the feed and the algorithms can smell it.
 <p><iframe src="https://tomcritchlow.com/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
 
 Thanks to Tobias for the AMP-story embed tip https://twitter.com/WillmannTobias
+
+--
+
+The opposite of blood in the feed is algorithmic whiplash - a sense of dislocation that comes from the algorithm trying to guess whether you're interested in RBA rates or a UFC fight. This sense of unreal disbelief - how can you get things so wrong?

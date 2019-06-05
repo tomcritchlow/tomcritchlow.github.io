@@ -22,8 +22,6 @@ Milkman - recc by All my stars: "I finished Milkman after the holiday. It is not
 
 Same same Peter Mendulsend
 
-https://www.gyford.com/phil/writing/2019/02/15/light-years-james-salter/
-
 https://twitter.com/vgr/status/1096253719761510400?s=19
 
 Gnomon: https://desert.glass/newsletter/week-8/
@@ -35,8 +33,6 @@ ABC of reading - recc by Brian
 How to do nothing - jenny odel
 
 [roadside picnic](https://robinrendle.com/notes/roadside-picnic/)
-
-[the content trap](https://www.amazon.com/Content-Trap-Strategists-Digital-Change/dp/0812995384)
 
 Basically everything by James Salter but maybe especially the autobiography:
 
@@ -56,3 +52,5 @@ https://twitter.com/Mikeachim/status/1125037595547844608
 Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium dream, hovering somewhere between poetry and prose. Highly recommended if you’re fascinated by cities; its expansive, wandering style, crawling along the stones and streets of imagined cities like fingers stroking Braille, reminded me of *Sohrab Sepehri’s The Lover is Always Alone*, which is one of my favorite books of all time.
 
 [The things they carried](https://www.amazon.com/dp/B002TWIVNA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - see beautiful Wildsam email
+
+[The housekeeper and the professor](https://www.amazon.com/dp/0312427808/ref=cm_sw_r_cp_apa_i_PW50CbBR90GGQ)

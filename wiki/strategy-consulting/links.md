@@ -19,3 +19,12 @@
 [Venkatesh Rao on Q lab](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73) - Venkatesh's new slack only! consulting project. Given my advocacy to getting into clients slack groups you can see why this resonated with me.
 
 [The Fieldguide to Independent Consulting](http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak one of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
+
+--
+
+[Venkatesh proposes](https://artofgig.substack.com/p/knowing-which-nut-to-tighten) that consultants get bought in when "monitoring costs" (in the coeasean theory of organization) are too high. I.e. a new type of work or one that the org does infrequently so has no way to efficiently monitor the quality of work.
+
+This maps well to my idea of ways of seeing - i.e. teaching clients how to see the work is another way of saying teaching clients how to monitor the work. Dashboards rule everything around me.
+
+Clients have problems that they describe as "I don't know how to build this" when what they mean is "I don't know how to measure this".
+

@@ -18,3 +18,7 @@ Most of my thinking on annotations is contained in this post: [exploring the UX 
 Whoah - check out this service that live-transcribes C-SPAN into gdoc, allows for in-line commenting in the gdoc then spits that back out as JSON for web-display:
 
 [https://github.com/The-Politico/gspan.js](https://github.com/The-Politico/gspan.js)
+
+--
+
+[Annotation - The MIT Press Essential Knowledge Series](https://bookbook.pubpub.org/annotation)
