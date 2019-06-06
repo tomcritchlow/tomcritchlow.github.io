@@ -18,7 +18,13 @@ There's blood in the feed and the algorithms can smell it.
 
 I took screenshots of all the ones I rememberd to.
 
-<p><iframe src="https://tomcritchlow.com/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
+<p><iframe class="ampframe" src="https://tomcritchlow.com/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
+
+<style>
+.ampframe{
+    border:none
+}
+</style>
 
 We talk about machine learning algorithms as being evolutionary - i.e being derived from nature. But if there's one thing that nature's good at it's predators and prey. 
 
