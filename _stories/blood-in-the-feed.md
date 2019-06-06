@@ -1,6 +1,6 @@
 ---
 layout: ampgallery
-title: Blood in the feed
-subtitle: All the watch ads
+title: A gallery of watch ads on instagram (2019)
+subtitle: To accompany the post 'Blood in the feed'
 folder: bloodinthefeed
 ---
