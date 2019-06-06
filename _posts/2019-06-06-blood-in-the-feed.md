@@ -36,4 +36,4 @@ The opposite of blood in the feed is... algorithmic whiplash? A sense of disloca
 
 --
 
-*Thanks to Tobias for the AMP-story embed tip https://twitter.com/WillmannTobias*
+*Thanks to Tobias for the AMP-story embed tip <https://twitter.com/WillmannTobias>*
