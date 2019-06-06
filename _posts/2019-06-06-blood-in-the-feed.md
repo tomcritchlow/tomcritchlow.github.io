@@ -36,4 +36,8 @@ The opposite of blood in the feed is... algorithmic whiplash? A sense of disloca
 
 --
 
+Update # 1: "Chum links" - Chum is shark bait thrown into the water. A chum link is a link that triggers a high intent signal of a specific kind to the algorithms triggering blood in the feed. Example - click this link and watch the enamel pin ads roll into your feed: <https://studiocult.co/> - *disclaimer I found that link via an ad so have no idea if the pins are real*
+
+--
+
 *Thanks to Tobias for the AMP-story embed tip <https://twitter.com/WillmannTobias>*
