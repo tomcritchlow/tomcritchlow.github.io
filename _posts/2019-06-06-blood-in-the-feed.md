@@ -36,7 +36,11 @@ The opposite of blood in the feed is... algorithmic whiplash? A sense of disloca
 
 --
 
-Update # 1: "Chum links" - Chum is shark bait thrown into the water. A chum link is a link that triggers a high intent signal of a specific kind to the algorithms triggering blood in the feed. Example - click this link and watch the enamel pin ads roll into your feed: <https://studiocult.co/> - *disclaimer I found that link via an ad so have no idea if the pins are real*
+Update #1: "Chum links" - Chum is shark bait thrown into the water. A chum link is a link that triggers a high intent signal of a specific kind to the algorithms triggering blood in the feed. Example - click this link and watch the enamel pin ads roll into your feed: <https://studiocult.co/> - *disclaimer I found that link via an ad so have no idea if the pins are real*
+
+--
+
+Update #2: I just remembered this wonderful ethnographic study of Glossier's ads from my friends at Part and Sum: [Modern mystery shopping with Glossier](https://medium.com/part-and-sum/modern-mystery-shopping-glossier-580d6563ef22). Brands are increasingly going to have to research the lived experience of their own ads as their ad-tech systems become more and more advanced.
 
 --
 
