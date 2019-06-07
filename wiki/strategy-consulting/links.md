@@ -28,3 +28,6 @@ This maps well to my idea of ways of seeing - i.e. teaching clients how to see t
 
 Clients have problems that they describe as "I don't know how to build this" when what they mean is "I don't know how to measure this".
 
+--
+
+[Models of Enchantment and the Enchantment of Models](https://www.epicpeople.org/pblog19/)
