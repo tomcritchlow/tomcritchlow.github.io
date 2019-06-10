@@ -31,3 +31,9 @@ Clients have problems that they describe as "I don't know how to build this" whe
 --
 
 [Models of Enchantment and the Enchantment of Models](https://www.epicpeople.org/pblog19/)
+
+--
+
+>I’m about to design the connective tissue between research and vision, and I’m going to use the medium of words. My ability to successfully establish a believable framework rests on my level of craftsmanship with language.
+
+source: <a href='http://www.themoderniststudio.com/2019/06/10/strategy-is-a-game-of-language/' />www.themoderniststudio.com</a>
