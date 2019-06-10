@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: All That Is
+   author: James Salter
+   link: https://www.amazon.com/dp/B007WKFMGS
+   date_finished: 06/09/2019
+   notes: A wildly disappointing read. Not that it was so bad but that having recently read Light Years I was expecting so much more. There were moments of brilliance in the writing and some of the scenes will linger with me overall the book didn't really make me feel anything. Definitely read Light Years instead.
  - title: Borderless
    author: Eliot Peper
    link: https://www.amazon.com/dp/B07BM7F9SF
