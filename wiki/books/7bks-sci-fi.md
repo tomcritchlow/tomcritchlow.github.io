@@ -13,15 +13,15 @@ books:
  - title: Embassytown
    author: 
    link: 
-   notes: 
+   notes:   
  - title: Annihiliation
    author: 
    link: 
-   notes: 
+   notes:    
  - title: Light
    author: John Harrison
    link: 
-   notes: 
+   notes:    
  - title: Flowers for Algernon
    author: 
    link: 
