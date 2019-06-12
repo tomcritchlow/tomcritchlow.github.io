@@ -261,6 +261,11 @@ footer{
     opacity: 1;
 }
 
+.slides ul a{
+    box-shadow:none;
+    color:blue;
+}
+
 .tommenu{
     background-color:rgba(0,0,0,0.6);
   }
