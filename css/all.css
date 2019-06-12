@@ -241,3 +241,132 @@ footer{
     font-family:'Inconsolata';
     word-wrap:break-word;
 }
+
+/* Menu CSS */
+.hamburger-inner, .hamburger-inner:before, .hamburger-inner:after {
+    height: 2px;
+    width: 30px;
+}
+
+.hamburger.is-active .hamburger-inner, .hamburger.is-active .hamburger-inner::before, .hamburger.is-active .hamburger-inner::after {
+    background-color: white;
+}
+
+.hamburger.is-active:hover {
+    opacity: 1;
+}
+
+.tommenu{
+    background-color:rgba(0,0,0,0.6);
+  }
+  
+  
+  .slides {
+    display:flex;
+    overflow-x: auto;
+    margin-top:20%;
+    height:80%;
+    width:100%;
+    
+    scroll-behavior: smooth;
+    
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-points-x: repeat(300px);
+    scroll-snap-type: mandatory;
+  }
+  
+  .slides > div {
+    flex-shrink: 0;
+    width: 75%;
+    height: 100%;
+    background: white;
+    position: relative;
+    
+    justify-content: center;
+    align-items: center;
+    
+    margin-right:-5%;
+    margin-left:10%;
+  }
+  
+  .slides > div > a{
+    color:black;
+    text-decoration:none;
+  }
+  
+  .slides > div:nth-child(1){
+    border: 2px solid #00ff00;
+  }
+  
+  .slides > div:nth-child(2):before{
+  content: "Latest posts:";
+    margin-top:-15%;
+    display:block;
+    color:white;
+    font-size:20px;
+    margin-bottom:5%;
+    font-weight:bold;
+  }
+  
+  
+  
+  
+  .slides > div:not(:first-child){
+    height:90%;
+    margin-top:10%;
+  }
+  
+  .scrolltext{
+    position:absolute;
+    bottom:66px;
+    left:50px;
+  
+  }
+  
+  .rightarrow{
+      background: #f3f3f3;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    box-shadow: 2px 2px 5px #888888;
+    display:inline-block;
+    position:absolute;
+    bottom:50px;
+    right:-25px;
+    z-index:10;
+  }
+  
+  .rightarrow i{
+      color: #000;
+        display: table-cell;
+        vertical-align: middle; 
+        text-align: center; 
+        height: 50px;
+        width: 50px;  
+  }
+  
+  .fadeout {
+      position: absolute; 
+      bottom: 4em;
+      height: 4em;
+      background: -webkit-linear-gradient(
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 100%
+      ); 
+      background-image: -moz-linear-gradient(
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 100%
+      );
+      background-image: -o-linear-gradient(
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 100%
+      );
+      background-image: linear-gradient(
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 100%
+      );
+      background-image: -ms-linear-gradient(
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 100%
+      );
+  }
