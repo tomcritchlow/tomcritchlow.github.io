@@ -127,7 +127,8 @@
       });
     
     
-    $(".rightarrow").onclick = function () {
+      var $rightarrow = $(".rightarrow");
+      $rightarrow.on("click", function(e) {
         $(".slides").scrollLeft(200)
     };  
     
