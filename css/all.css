@@ -262,8 +262,7 @@ footer{
 }
 
 .slides ul li{
-    box-shadow:none;
-    color:blue;
+    list-style:none;
 }
 
 .tommenu{
