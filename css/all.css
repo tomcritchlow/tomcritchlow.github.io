@@ -245,7 +245,7 @@ footer{
 /* Menu CSS */
 
 .hamburger{
-    padding:6px 5px;
+    padding:0px 0px;
 }
 
 .hamburger-inner, .hamburger-inner:before, .hamburger-inner:after {
