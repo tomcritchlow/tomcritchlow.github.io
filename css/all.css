@@ -313,10 +313,10 @@ footer{
     font-weight:bold;
   }
   
-  .slides > div:last-child(){
+  .slides > div:last-child{
     background-color:initial;
     color:white;
-    
+
   }
   
   
