@@ -261,7 +261,7 @@ footer{
     opacity: 1;
 }
 
-.slides ul a{
+.slides ul li{
     box-shadow:none;
     color:blue;
 }
