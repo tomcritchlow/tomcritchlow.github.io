@@ -313,13 +313,6 @@ footer{
     font-weight:bold;
   }
   
-  .slides > div:last-child{
-    background-color:initial;
-    color:white;
-
-  }
-  
-  
   .slides > div:not(:first-child){
     height:90%;
     margin-top:10%;
