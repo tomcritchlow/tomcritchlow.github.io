@@ -48,7 +48,7 @@
                             
                             <div class="f6 f6-s black-50 pv1">{{ post.date | date_to_string }}</div>
                             
-                              {{post.content | truncatewords: 20}}
+                              {{post.content | strip_html| truncatewords: 20}}
                               
                               
                             </div>
