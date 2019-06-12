@@ -36,8 +36,40 @@
                      <i class="fa fa-arrow-right fa-2x"></i>
                     </div>
                   </div>
+                  {% for post in site.posts limit:5 %}
+
+                        <div class="pa3"><a href="{{post.url}}">
+                            <div class="pt4 pt5-l w-two-thirds-ns">
+        
+                            <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle">{{post.title}}</h1>
+        
+                            
+                            <h2 class="f3 fw3 lh-copy mv1 subtitle">{{post.subtitle}}</h2>
+                            
+                            <div class="f6 f6-s black-50 pv1">{{ post.date | date_to_string }}</div>
+                            
+                              {{post.contents}}
+                              
+                              
+                            </div>
+                          <div class="fadeout">
+        
+                              </div>
+                          <p>
+                            View post
+                            <i class="fa fa-arrow-down"></i>
+                            
+                          </p></a>
+                          <div class="rightarrow">
+                           <i class="fa fa-arrow-right fa-2x"></i>
+                          </div>
+                        </div>
+                        
+                        
+                        
+                        {% endfor %}
                   <div class="pa3">
-                  Blog post goes here
+                        
                   </div>
                   <div class="pa3"><a href="https://tomcritchlow.com/2019/06/06/blood-in-the-feed/">
                       <div class="pt4 pt5-l w-two-thirds-ns">
@@ -49,13 +81,7 @@
                       
                       <div class="f6 f6-s black-50 pv1">June 10th, 2019</div>
                       
-                        <p>
-                          Have you had the feeling of being prey inside an algorithmic system?
-  
-  That system shock that comes from realizing that you’re no longer the user but the prey.
-  
-  Maybe this is common behaviour - but I recently clicked an Instagram ad (yes, I have a new watch - it’s very on brand for my blog).
-                        </p>
+                        
                         
                         
                       </div>
