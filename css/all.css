@@ -276,8 +276,7 @@ footer{
     scroll-behavior: smooth;
     
     -webkit-overflow-scrolling: touch;
-    scroll-snap-points-x: repeat(300px);
-    scroll-snap-type: mandatory;
+    scroll-snap-type: x mandatory;
   }
   
   .slides > div {
@@ -292,6 +291,7 @@ footer{
     
     margin-right:-5%;
     margin-left:10%;
+    scroll-snap-align: center;
   }
   
   .slides > div > a{
