@@ -37,3 +37,9 @@ Clients have problems that they describe as "I don't know how to build this" whe
 >I’m about to design the connective tissue between research and vision, and I’m going to use the medium of words. My ability to successfully establish a believable framework rests on my level of craftsmanship with language.
 
 source: [http://www.themoderniststudio.com/2019/06/10/strategy-is-a-game-of-language/](www.themoderniststudio.com)
+
+--
+
+>WAR-type statistics track well with the increased emphasis on personal rather than organizational productivity that Melissa Gregg describes in Counterproductive, her study of time-management self-help trends. In that discourse, “productivity isolates and sanctifies the actions of individuals. It elevates an elite class of worker beyond the concerns of mundane others.” Productivity fetishism suits a society of free agents who must continually renegotiate the terms of their value, their viability, their irreplaceable contributions; it not only provides a rationale for employers to sort contract workers, but it provides those workers a way to frame their achievement in the absence of a stable association to a particular job or a particular set of co-workers. More and more of us are perpetually in the position of a baseball player facing an arbitration hearing. We cast everyone else as the replacement-level people that we are besting with our superior performances. To garner proof of that, we’re more likely to tolerate increasingly invasive forms of surveillance that can document our accomplishments and chart our personal growth on whatever metric is necessary, whichever seems to give us leverage over the competition, if not the employers.
+
+source: [https://reallifemag.com/dispatches/not-relevant-for-fantasy-purposes](reallifemag.com)
