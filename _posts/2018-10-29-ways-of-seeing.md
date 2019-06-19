@@ -210,7 +210,7 @@ So seek out the internal culture decks, they're useful starting points. Consume 
 
 ## Three Breakthroughs
 
-The first breakthrough I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me:
+The **first breakthrough** I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me:
 
 {% include tufte-blockquote.html content="
 As I study and meet and analyze more and more businesses, I find myself drawn to the idea that each is a snowflake. Each startup is unique composition of its team, in the circumstances of its genesis, and the ecosystem in which it blossoms. Business concepts like the ones mentioned above can provide a common language about ideas. They can help us tell stories to motivate and inspire. Perhaps, they can provide some form of analytical framework.
@@ -219,11 +219,11 @@ But until the success of these theories can stand the test of reproducibility or
 
 " footer="Tomasz Tunguz - <a href='http://tomtunguz.com/overfitting-in-business/'>Overfitting in Business</a>" %}
 
-The second breakthrough I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom leads to strong insights.
+The **second breakthrough** I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom leads to strong insights.
 
 Without ways of seeing the premise of consulting falls apart - you make generic recommendations that are easily rejected by the organizations belief systems and culture. Recommendations that fail to create new language or any meaningful change.
 
-The third breakthrough I had - from reflecting on past client engagements, sometimes lasting years - was that the most important and most meaningful work I've done for clients is to help them see. Help them see their own culture in new ways, or help them see the world around them.
+The **third breakthrough** I had - from reflecting on past client engagements, sometimes lasting years - was that the most important and most meaningful work I've done for clients is to help them see. Help them see their own culture in new ways, or help them see the world around them.
 
 By sharing these ways of seeing with your client you can develop a shared perspective of the road ahead.
 
