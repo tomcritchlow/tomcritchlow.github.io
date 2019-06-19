@@ -6,7 +6,7 @@ layout: blog
 
 I've been tending to my digital garden / wiki recently. See my other post on [using Screenotate to power my screenshot->wiki workflow](https://tomcritchlow.com/2019/06/19/screenotate-wiki/).
 
-But I found that I was saving too many links to my wiki without any context. I was finding the links while in some other context and wanting a quick way to dump the link into my wiki. The challenge became - how to quickly add context to the link I'm dropping in?
+But I found that I've been saving too many links to my wiki without any context. I was finding the links while in some other context and wanting a quick way to dump the link into my wiki. The challenge became - how to quickly add context to the link I'm dropping in?
 
 The way I'm solving this is by experimenting with upgrading my workflow by using bookmarklets to make it easy to "script" workflows. I run this blog on Jekyll and Github Pages so it's entirely static, but that doesn't mean my workflow has to be.
 
