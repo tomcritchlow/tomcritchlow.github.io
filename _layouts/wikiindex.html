@@ -41,7 +41,6 @@
 
 <h3>Snippets:</h3>
 {% for item in snippets %}
-        <!-- <li class="pv1"><a href="{{item.path}}">{{item.path | replace: folderfilter , ""}}</a><div class="box"><iframe src="{{item.path}}"></iframe></div></li>-->
         <div class="fl w-50 pa2">
             <a href="{{item.path}}" class="link dim tc">
               <iframe src="{{item.path}}" class="db outline black-10 tciframe"> </iframe>
@@ -54,16 +53,6 @@
 {% endfor %}
 
 </div>
-
-<style>
-.tciframe{
-    width:600px;
-    height:600px;
-    transform:scale(0.4);
-    margin-top:-40%;
-    margin-left:-40%;
-}
-</style>
 
 </div>
 
