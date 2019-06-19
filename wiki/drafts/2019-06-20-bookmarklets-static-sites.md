@@ -19,9 +19,9 @@ And turned it into a bookmarklet here (drag this link to your bookmarks bar):
 
 When you're on a page you select the text you want to quote and hit the bookmarklet. It'll grab the text and spit out some markdown for you to copy like this:
 
-`>quoted text here
+~~~~>quoted text here
 
-[title of page](url of page)`
+[title of page](url of page)~~~~
 
 Which renders in markdown like this:
 
