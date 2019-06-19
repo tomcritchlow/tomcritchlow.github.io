@@ -26,3 +26,5 @@ And for the lazy, here's a [direct link to a screenshot HTML file saved by Scree
 It's become my default mode for capturing snippets and shoving them into my wiki. Nice.
 
 To extend the wiki-as-garden metaphor I feel like I've begun planting a new kind of varietal (page) into my garden (wiki). Thanks Omar!
+
+*Note: I'm embedding the Screenotate files as iframes at the moment which... is probably not the best idea. Large images also don't work very well in a small iframe window. I tried using the CSS scale property to show a thumbnail property but run into the limits of my CSS skills. Anyway - what I'm saying is it's a work in progress and likely not perfectly coded...*
