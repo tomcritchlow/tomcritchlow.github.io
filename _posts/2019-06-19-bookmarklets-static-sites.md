@@ -4,7 +4,7 @@ subtitle: Auto-generating text snippets using a little javascript and bookmarkle
 layout: blog
 ---
 
-I've been tending to my digital garden / wiki recently. See my post yesterday on [using Screenotate to power my screenshot->wiki workflow](https://tomcritchlow.com/2019/06/19/screenotate-wiki/).
+I've been tending to my digital garden / wiki recently. See my other post on [using Screenotate to power my screenshot->wiki workflow](https://tomcritchlow.com/2019/06/19/screenotate-wiki/).
 
 But I found that I was saving too many links to my wiki without any context. I was finding the links while in some other context and wanting a quick way to dump the link into my wiki. The challenge became - how to quickly add context to the link I'm dropping in?
 
