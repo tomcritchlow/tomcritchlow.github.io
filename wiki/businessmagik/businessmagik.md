@@ -33,3 +33,5 @@ Ghosts in the machine and glitches in the streets. Our sense of the otherworldly
 
 >CLAVES ANGELICÆ is an installation and procedural system that enables a participant to inscribe a
 magical Word onto the Ethereum network.
+
+A framework is a spell. An incantation. Invoked. 

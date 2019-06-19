@@ -16,6 +16,8 @@ This! is the indie web:
 
 <https://www.kickscondor.com/>
 
+<https://pushkinsprefers.biz/>
+
 --
 
 >And don’t concern yourself with whether or not you “write.” Don’t leave writing to writers. Don’t delegate your area of interest and knowledge to people with stronger rhetorical resources. You’ll find your voice as you make your way. There is, however, one thing to learn from writers that non-writers don’t always understand. Most writers don’t write to express what they think. They write to figure out what they think. Writing is a process of discovery. Blogging is an essential tool toward meditating over an extended period of time on a subject you consider to be important.
