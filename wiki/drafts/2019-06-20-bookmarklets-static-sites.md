@@ -22,12 +22,12 @@ When you're on a page you select the text you want to quote and hit the bookmark
 ```
 >quoted text here
 
-[title of page](url of page)
+Source: [title of page](url of page)
 ```
 
 Which renders in markdown like this:
 
 >quoted text here
 
-[title of page](url)
+Source: [title of page](url)
 
