@@ -23,4 +23,6 @@ For an example - take a look at this Pedagogy wiki I just started building:
 
 And for the lazy, here's a [direct link to a screenshot HTML file saved by Screenotate](https://tomcritchlow.com/wiki/pedagogy/Screenshot%202019-06-13%20at%202.08.13%20PM.html).
 
-It's become my default mode for capturing snippets and shoving them into my wiki. Nice. Thanks Omar!
+It's become my default mode for capturing snippets and shoving them into my wiki. Nice.
+
+To extend the wiki-as-garden metaphor I feel like I've begun planting a new kind of varietal (page) into my garden (wiki). Thanks Omar!
