@@ -37,3 +37,5 @@ Source: [title of page](url)
 Yes, for now you need to hit cmd+c to copy the text because I was too lazy to auto-copy the text to my clipboard... But for now this is already making it easier to drop links into my wiki while preserving some context via a quote and the title of the page.
 
 What would you like to script for your static site? Let me know and I'll try and help you build a bookmarklet for it!
+
+*By the way - this technique is great for more structured data too. I have a bookmarklet that is powering [this books list](https://tomcritchlow.com/wiki/books/books-read/) too. You run it on an Amazon page and it spits out the necessary Markdown frontmatter to add to my page in a structured way.*
