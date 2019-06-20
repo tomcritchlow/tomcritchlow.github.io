@@ -35,3 +35,27 @@ Ghosts in the machine and glitches in the streets. Our sense of the otherworldly
 magical Word onto the Ethereum network.
 
 A framework is a spell. An incantation. Invoked. 
+
+--
+
+>In Robert's account, as in Geoffrey's Historia, Merlin is created as a demon spawn to become the Antichrist and reverse the effect of the Harrowing of Hell. This plot is thwarted when a priest named Blaise immediately baptizes the boy at birth, thus freeing him from the power of Satan and his intended destiny.[14] The demonic legacy invests Merlin with a preternatural knowledge of the past and present, which is supplemented by God, who gives the boy a prophetic knowledge of the future. Robert lays great emphasis on Merlin's power to shapeshift,[note 1] on his joking personality, and on his connection to the Holy Grail, the quest for which he foretells.
+
+source: [Merlin - Wikipedia](https://en.wikipedia.org/wiki/Merlin)
+
+--
+
+A universal theory of BusinessMagik
+
+Merlin was the OG consultant
+Of kings and queens and consultants (and mages and jesters)
+Business functions like a monarchy
+There's a reason we talk about samurai and freelancers
+
+Skills of the mage (consultant):
+- Scrying
+- Soothsaying
+- Truth-telling
+- Divination
+- Spells
+- Wisdom
+
