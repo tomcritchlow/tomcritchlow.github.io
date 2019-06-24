@@ -34,6 +34,8 @@ Of course, I'm certain at least some of these watches I'm being advertised barel
 
 The opposite of blood in the feed is... algorithmic whiplash? A sense of dislocation that comes from the algorithms trying to guess whether you're interested in credit card learning or a UFC fight. This sense of unreal disbelief - how can you get things so wrong?
 
+*Thanks to Tobias for the AMP-story embed tip <https://twitter.com/WillmannTobias>*
+
 --
 
 Update #1: "Chum links" - Chum is shark bait thrown into the water. A chum link is a link that triggers a high intent signal of a specific kind to the algorithms triggering blood in the feed. Example - click this link and watch the enamel pin ads roll into your feed: <https://studiocult.co/> - *disclaimer I found that link via an ad so have no idea if the pins are real*
@@ -44,4 +46,5 @@ Update #2: I just remembered this wonderful ethnographic study of Glossier's ads
 
 --
 
-*Thanks to Tobias for the AMP-story embed tip <https://twitter.com/WillmannTobias>*
+Update #3: "Life has become a mundane cyberpunk novel: on the run from algorithms." - Yes! [Cyberdeck 2019](https://disquiet.com/2019/06/24/cyberdeck-2019/)
+
