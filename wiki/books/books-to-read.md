@@ -55,3 +55,6 @@ Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium 
 
 [The housekeeper and the professor](https://www.amazon.com/dp/0312427808/ref=cm_sw_r_cp_apa_i_PW50CbBR90GGQ)
 
+[Maps of the mind](https://twitter.com/pieratt/status/1143183857925152768)
+
+From here: <https://twitter.com/pieratt/status/1143183857925152768>
