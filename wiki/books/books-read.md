@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Oval
+   author: Elvia Wilk
+   link: https://www.amazon.com/Oval-Novel-Elvia-Wilk/dp/1593764057
+   date_finished: 6/24/19
+   notes: I really loved this. Distinctive, fresh writing that captures so much of the present weirdness in society while also somehow feeling timeless. The middle third dragged slightly for me but the descent into ecological weird towards the end is just wonderful and reminds me of the Annihiliation series by Jeff Vandermeer. Recommended.
  - title: All That Is
    author: James Salter
    link: https://www.amazon.com/dp/B007WKFMGS
