@@ -21,6 +21,8 @@ Venkatesh has tons. Drawings, doodles, diagrams, flows and more. Some faves:
 
 <https://www.ribbonfarm.com/2018/07/19/quiver-doodles/>
 
+<https://www.ribbonfarm.com/2017/06/06/thingness-and-thereness/>
+
 ### Ben Thompson of Aggregation theory fame
 
 <https://stratechery.com/aggregation-theory/>
@@ -48,6 +50,8 @@ Imagine a venn diagram of cyberfeminism, erotica, developer manuals, code and ar
 ### Think Clrly
 
 <http://www.thnkclrly.com/>
+
+![](https://i1.wp.com/www.thnkclrly.com/wordpress/wp-content/uploads/2018/09/newsletter_704.jpg?w=1296)
 
 ### Behaviour Gap
 
