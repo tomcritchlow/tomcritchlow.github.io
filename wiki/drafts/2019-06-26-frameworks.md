@@ -312,11 +312,11 @@ By the way these are all archived and will hopefully be maintained over on my wi
 
 A key factor for the success of frameworks is their ability to travel - the ability for a simple framework to be repeated, referenced and leaned on while you’re not in the room.
 
-Giving your framework a strong name is essential to the spread of the concept - and Eugene Wei has an excellent post on this with the appropriately catchy title compress to impress:
+Giving your framework a strong name is essential to the spread of the concept - and Eugene Wei has an excellent post on this with the appropriately catchy title [compress to impress](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas):
 
-“There will come a day when you'll come up with some brilliant theory or concept and want it to spread and stick. You want to lay claim to that idea. It's then that you'll want to set aside some time to state it distinctively, even if you're not a gifted rhetorician. A memorable turn of phrase need not incorporate sophisticated techniques like parataxis or polysyndeton. Most everyone in tech is familiar with Marc Andreessen's "software is eating the world" and Stewart Brand's "information wants to be free." Often mere novelty is enough to elevate the mundane. You've spent all that time cooking your idea, why not spend an extra few moments plating it? It all tastes the same in your mouth but one dish will live on forever in an Instagram humblebrag pic.”
+> “There will come a day when you'll come up with some brilliant theory or concept and want it to spread and stick. You want to lay claim to that idea. It's then that you'll want to set aside some time to state it distinctively, even if you're not a gifted rhetorician. A memorable turn of phrase need not incorporate sophisticated techniques like parataxis or polysyndeton. Most everyone in tech is familiar with Marc Andreessen's "software is eating the world" and Stewart Brand's "information wants to be free." Often mere novelty is enough to elevate the mundane. You've spent all that time cooking your idea, why not spend an extra few moments plating it? It all tastes the same in your mouth but one dish will live on forever in an Instagram humblebrag pic.”
 
-So… do as Eugene says - spend a few minutes plating the framework.
+So… do as Eugene says - spend a few minutes plating the framework{% include tufte-sn.html id="naming" content="In his post Eugene references the idea that every year at Amazon there's a named 'theme'. I wonder if naming client engagements is an untapped area of opportunity to frame the work..." %}.
 
 This is an area that I’m deliberately trying to get better at (note how all of my above examples lacked good naming… ). Naming is not a strong suit of mine but I think studying language, poetry and memes is a good start…
 
@@ -326,36 +326,35 @@ Two good resources for naming things (though both are slightly more focused on n
 
 [Onym](https://onym.co/) - collection of naming resources.
 
-(Aside: in this post Eugene also references the idea that every year at Amazon there is a theme. I wonder if naming consulting engagements with a catchy title would be effective…)
+## Models of Enchantment & Embedding Ideology
 
-Models of Enchantment & Embedding Ideology
-The wonderful article I quoted early in this post from Simon Roberts is going to crop up again here:
+The [wonderful article](https://www.epicpeople.org/pblog19/) I quoted early in this post from Simon Roberts is going to crop up again here (bolding mine):
 
-Models cause people to “perceive social reality in a way favourable to the social interests of the enchanter” (Gell 1988: 7). I’m sure we’d like to think that our interests are coterminous with those of the people we advise. More often than not I suspect they are. But isn’t it worth remembering the power our models have over those we provide them to and how they exert that power?
+> **Models cause people to “perceive social reality in a way favourable to the social interests of the enchanter”** (Gell 1988: 7). I’m sure we’d like to think that our interests are coterminous with those of the people we advise. More often than not I suspect they are. **But isn’t it worth remembering the power our models have over those we provide them to and how they exert that power**?
 
-Perhaps more importantly it’s worth reflecting on the sometimes restrictive and constraining power that our models might exert over their creators. In pursuit of certainty in the face of uncertainty, is it not sometime the case that the enchanter becomes the enchanted?
-Models of enchantment
+> Perhaps more importantly it’s worth reflecting on the sometimes restrictive and constraining power that our models might exert over their creators. In pursuit of certainty in the face of uncertainty, is it not sometime the case that the enchanter becomes the enchanted?
 
-As per the consultant’s grain every time we enter a project we need to understand that we bring our own biases, ideas and ideologies to the table. And models are an excellent way of embedding ideology inside an organization. So tread carefully.
+As per my older piece [the consultant’s grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) every time we enter a project we need to understand that we bring our own biases, ideas and ideologies to the table. And frameworks are an excellent way of embedding ideology inside an organization. So tread carefully.
 
-In summary…
-Thanks for sticking with me for this long-ish post. Like I mentioned early on - attempting to force pre-built frameworks into my consulting work has been a big error in the past few years and so I’m still relatively new to this. If I could explain this better I’d have written a shorter post…
+## In summary…
+
+Thanks for sticking with me for this long-ish post. Like I mentioned early on - attempting to force pre-built frameworks into my consulting work has been a major error in the past few years and so I’m still course-correcting and relatively new to building my own. If I could explain this better I’d have written a shorter post…
 
 To recap where we got to:
 
-Frameworks are simple tools for thinking that can create a shared world view and be easily referenced
-The first instinct of many consultants is to grab a framework that you’ve heard of but this causes problems in three ways:
-They’re too complex
-They’re not relevant enough
-You didn’t make it so there’s little attachment
-Instead I believe you should be making your own frameworks and they you should focus on:
-Simple frameworks (even a simple categorization is a framework)
-True frameworks that say something about the client’s business
-Co-creating them with clients so you get the IKEA effect
-I’m still figuring it out but I believe doodling, sketching, notebook diagrams and visual thinking can help you get better at making frameworks
-And, finally, for maximum effectiveness you need to focus on memorable names - compress to impress.
+- Frameworks are simple tools for thinking that can create a shared world view and be easily referenced
+- The first instinct of many consultants is to grab a framework that you’ve heard of but this causes problems in three ways:
+    - They’re too complex
+    - They’re not relevant enough
+    - You didn’t make it so there’s little attachment
+- Instead I believe you should be making your own frameworks and they you should focus on:
+    - Simple frameworks (even a simple categorization is a framework)
+    - True frameworks that say something about the client’s business
+- Co-creating them with clients so you get the IKEA effect
+- I’m still figuring it out but I believe doodling, sketching, notebook diagrams and visual thinking can help you get better at making frameworks
+- And, finally, for maximum effectiveness you need to focus on memorable names - compress to impress.
 
-How are you using frameworks in your work? Leave a comment below, drop me an email (tjcritchlow@gmail.com) or hit me up on Twitter (@tomcritchlow)! Thanks.
+How are you using frameworks in your work? Leave a comment below, drop me an email (<a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>) or hit me up on Twitter ([https://twitter.com/tomcritchlow](@tomcritchlow))! Thanks.
 
 --
 
