@@ -60,7 +60,7 @@ Good deck of visual slides from Julian Cole [here](https://docs.google.com/prese
 
 >But beyond their two-dimensional depictions of a physical world, maps also afford us the freedom to express the cosmos; to make all kinds of ideas about the spatial relationships of multiple components unexpectedly clear. To draw one is an effective way to establish order on an otherwise chaotic environment. To make it navigable. To make it rational.
 
-source: [The Importance of Visualisation – Mapping the Way Forward | Shut the door on your way out, Cicero…](http://www.richardingram.co.uk/2013/10/the-importance-of-visualisation/)
+source: [The Importance of Visualisation](http://www.richardingram.co.uk/2013/10/the-importance-of-visualisation/)
 
 --
 
