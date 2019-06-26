@@ -158,9 +158,11 @@ Scanning the kinds of frameworks that Jan Chipchase showed from his work it was 
 
 See how the simple categorization above of day labourers allows for the creation of new language (“Archetype 06 - Risk-averse Day Labourer”) and a lens through which future data sets, decisions and problems can be viewed.
 
-But it’s not obvious exactly why these dimensions were chosen on which to categorize day labourers. Why segment them by the length of their world view? The answer is that categorization is an expert skill.
+But it’s not obvious exactly why these dimensions were chosen on which to categorize day labourers. Why segment them by the length of their world view?
 
-You effectively need to be able to comprehend the entire system to be able to categorize things effectively. Sidenote here: https://link.springer.com/content/pdf/10.3758%2FBF03334732.pdf
+**The answer is that categorization is an expert skill**.
+
+You need to be able to comprehend an entire system to be able to categorize things effectively{% include tufte-sn.html id="experts" content="It seems there's a fair amount of academic research that backs this up and I found these great quotes: 'Experts notice features and meaningful patterns of information that are not noticed by novices.' and 'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.' Both of these from <a href='https://www.nap.edu/read/9853/chapter/5'>How People Learn - Chapter: 2 How Experts Differ from Novices</a>" %}.
 
 But, a categorization in turn can embed and scale your expertise across an organization.
 
