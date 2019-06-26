@@ -196,15 +196,16 @@ The categorization looked something like this:
 
 ![](/images/grade-framework.png)
 
-And this gets embedded and referenced in the master content schedule by assigning every article a grade (A,B,C,D) or categorization:
+And this gets embedded and referenced in the master content schedule by assigning every article a grade (A,B,C,D in the second column) or categorization:
 
 ![](/images/grading-framework.png)
 
 This framework helped them write stronger briefs, invest more strongly into areas of competition and also track and monitor performance on a more granular level.
 
-Importantly - note the difference here between a situation where as the consultant you say “you should make better content” and a day-long process of understanding the failure of their existing content process, co-creating a simple categorization, testing that categorization against historical data and then creating the changes in the process doc and working that through with the editor in chief.
+Importantly - note the difference here between a situation where as the consultant you say **“you should make better content”** and a day-long process of understanding the failure of their existing content process, co-creating a simple categorization, testing that categorization against historical data and then creating the changes in the process doc and working that through with the editor in chief.
 
-An example of an accidental framework that became socialized
+## An example of an accidental framework that became socialized
+
 Here’s another example of a more visual framework. Also from my own work last year. This one was an accidental success (and really was the genesis for all of my framework thinking since).
 
 A large media company needed to get better at commerce content fast. They needed a better understanding of how it worked and a better plan for executing.
