@@ -149,12 +149,12 @@ But here’s the thing - every time you’re on-site with a client’s organizat
 This is all a light-touch ethnographic study of the client’s organization.
 
 I’ve written before about the need to get close enough to a client to understand the “grain” of the organization. You can see how without this close-sensing of the client it’s impossible to pick up on the ethnographies needed to construct these frameworks.
-Categorization is for experts
-Scanning the kinds of frameworks that Jan Chipchase showed from his work it was clear that while some were novel diagrams or well designed maps, the majority of them seemed like very simple tables and charts. Like this:
 
+## Categorization is for experts
 
+Scanning the kinds of frameworks that Jan Chipchase showed from his work it was clear that while some were novel diagrams or well designed maps, the majority of them seemed like very simple tables and charts. Like this{% include tufte-sn.html id="paddy2" content="Page 133 from Paddy to Plate" %}:
 
-Page 97 paddy to plate
+![](/images/paddy-2.png)
 
 See how the simple categorization above of day labourers allows for the creation of new language (“Archetype 06 - Risk-averse Day Labourer”) and a lens through which future data sets, decisions and problems can be viewed.
 
