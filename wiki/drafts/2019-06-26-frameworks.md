@@ -1,5 +1,5 @@
 ---
-title: How to teach clients to see using the magic of frameworks
+title: How to teach clients to see with the magic of frameworks
 subtitle: And why you should focus on making simple, true frameworks with clients
 layout: tufte
 tags: strategy
@@ -47,7 +47,7 @@ Frameworks are usually scale invariant. I.e. they abstract a system to its core 
 
 ***A model is an analytical framework - i.e. one that embeds an algorithm or set of calculations such that inputs and outputs can be adjusted to interrogate the system.***
 
-I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href='https://twitter.com/vgr/status/1137025652928929792’>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
+I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href='https://twitter.com/vgr/status/1137025652928929792'>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
 
 Mostly for this post I’m just going to use the word “framework” everywhere - it’s loose but lets us talk about them all together. They’re all tools for thinking. They’re all in the consultant’s toolkit.
 
