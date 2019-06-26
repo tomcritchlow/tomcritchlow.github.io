@@ -132,16 +132,16 @@ The frameworks wall is nothing more than sheets of A4 paper with sharpie doodles
 
 Then the crucial step happens last - as the field research nears an end you take stock of the frameworks on the wall and for those that you want to include in the final report you stress-test those frameworks in-field with real users. This ensures that the frameworks are true - they contain real things that map to real users expectations, behaviours and ideas.
 
-Here’s an example framework from some Studio D work:
+Here’s an example framework from some Studio D work{% include tufte-sn.html id="paddy1" content="Studio D put together a report called <a href='https://proximitydesigns.org/wp-content/uploads/PaddyToPlate-BookonlineAA.pdf'>Paddy to Plate</a> and this is an image from page 107" %}:
 
-
-
-Page 72 Paddy to Plate 
+![](/images/paddy-1.png)
 
 If you look you can imagine the process here from interviews with farmers -> insights -> frameworks like the above.
 
 Why is this important for consultants? Because it shows the power, and the difficulty, of creating true frameworks. Things that have the power to change an organization in the right way and that are tested with real users.
-True Frameworks emerge from client-ethnographies
+
+## True Frameworks emerge from client-ethnographies
+
 I imagine most indie consultants and strategic independents are looking at this like I’m crazy - who has time for a multi-week ethnographic study in the middle of your consulting work?
 
 But here’s the thing - every time you’re on-site with a client’s organization you’re studying the people, the behaviours, the motivations. You’re asking questions of as many people as you can.
