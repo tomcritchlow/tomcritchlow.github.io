@@ -5,7 +5,7 @@ layout: tufte
 tags: strategy
 ---
 
-In this post I’m going to argue that bringing pre-existing models and frameworks to my client work is the **biggest mistake I’ve made in the past two years**.
+In this post I’m going to argue that bringing pre-existing off-the-shelf models and frameworks to my client work is the **biggest mistake I’ve made in the past two years**.
 
 A framework as I’m going to refer to it in this post is essentially a useful abstraction. A tool for thinking about a situation that allows teams to use a shared mental model and a shared vocabulary.
 
@@ -17,7 +17,9 @@ The answer is frameworks. Douglas Hofstadter claims *analogy is the core of cogn
 
 A good framework is a tool for thinking. A shared mental model of a situation is powerful and deeply transformative, especially at the management layer where they spend most of their time in abstractions.
 
-To be successful a good framework needs to be simple, true and co-created:
+Something like aggregation theory from Ben Thompson is a good example of a pre-existing framework that you might be tempted to reference in client work.
+
+But, to be successful a good framework needs to be simple, true and co-created:
 
 - Simple because it needs to be easy to reference and talk about without having to explain it
 - True because it needs to be the right way of thinking about a situation - not just sound nice
@@ -96,11 +98,11 @@ I’d propose that for most indie consultants and strategic independents the rig
 
 [Jan Chipchase](https://janchipchase.com/) outlines this tension nicely (bolding mine):
 
-> “A framework is a way of organising information that supports comprehension and recall. A well-designed framework can communicate both simple and complex ideas without overwhelming the reader. While there are many widely used frameworks that have stood the test of time, every project has unique raw materials that can lead to something new.
+> “**A framework is a way of organising information that supports comprehension and recall. A well-designed framework can communicate both simple and complex ideas without overwhelming the reader**. While there are many widely used frameworks that have stood the test of time, every project has unique raw materials that can lead to something new.
 
-> A framework, even one that appears at first glance to be mundane, has the potential to reveal the world in a new light.
+> **A framework, even one that appears at first glance to be mundane, has the potential to reveal the world in a new light**.
 
-> It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight.”{% include tufte-sn.html id="fieldguide" content="Page 383 of <a href='https://www.thefieldstudyhandbook.com/'>The Field Study Handbook</a> by Jan Chipchase" %}
+> It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. **Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight**.”{% include tufte-sn.html id="fieldguide" content="Page 383 of <a href='https://www.thefieldstudyhandbook.com/'>The Field Study Handbook</a> by Jan Chipchase" %}
 
 Simple frameworks are easier to communicate, travel faster inside an organization and have fewer barriers to adoption. A simple framework and a little operational efficiency is a knife through hot butter of an organization.
 
