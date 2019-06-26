@@ -62,6 +62,8 @@ Good deck of visual slides from Julian Cole [here](https://docs.google.com/prese
 
 source: [The Importance of Visualisation](http://www.richardingram.co.uk/2013/10/the-importance-of-visualisation/)
 
+[Emissaries guide to worlding](https://serpentine-galleries.myshopify.com/products/coming-soon-ian-cheng-emissaries-guide-to-worlding) - a lovingly designed book that has tons of interesting diagrams in it.
+
 --
 
 Who should I add? Tweet me: [https://twitter.com/tomcritchlow](@tomcritchlow).
