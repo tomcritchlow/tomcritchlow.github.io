@@ -120,7 +120,7 @@ This idea of a “true framework” is something that I picked up at a recent [s
 
 Jan walked through his process of turning raw ethnographic interviews into insights and frameworks in a way that generates a throughline from raw research to final deliverable.  It looks something like this:
 
-
+![](/images/jan-framework.png)
 
 He showed a wall covered in insights gathered from field research - these interviews had generated a ton of little snippets of ideas - these could be insights, quotes or other nuggets. Where every single insight is tagged to the original specific interview that generated it so there’s a throughline from raw interviews to final presentation / output.
 
