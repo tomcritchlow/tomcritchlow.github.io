@@ -94,15 +94,13 @@ So if jobs-to-be-done is too complex, what’s a good simple framework?
 
 I’d propose that for most indie consultants and strategic independents the right complexity is a single idea or concept. Create the most reduced, simple, brain-dead framework that you can find and stick to it.
 
-Jan Chipchase outlines this tension nicely (bolding mine):
+[Jan Chipchase](https://janchipchase.com/) outlines this tension nicely (bolding mine):
 
-“A framework is a way of organising information that supports comprehension and recall. A well-designed framework can communicate both simple and complex ideas without overwhelming the reader. While there are many widely used frameworks that have stood the test of time, every project has unique raw materials that can lead to something new.
+> “A framework is a way of organising information that supports comprehension and recall. A well-designed framework can communicate both simple and complex ideas without overwhelming the reader. While there are many widely used frameworks that have stood the test of time, every project has unique raw materials that can lead to something new.
 
-A framework, even one that appears at first glance to be mundane, has the potential to reveal the world in a new light.
+> A framework, even one that appears at first glance to be mundane, has the potential to reveal the world in a new light.
 
-It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight.”
-
-Page 383 The Field Study Handbook by Jan Chipchase
+> It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight.”{% include tufte-sn.html id="fieldguide" content="Page 383 of <a href='https://www.thefieldstudyhandbook.com/'>The Field Study Handbook</a> by Jan Chipchase" %}
 
 Simple frameworks are easier to communicate, travel faster inside an organization and have fewer barriers to adoption. A simple framework and a little operational efficiency is a knife through hot butter of an organization.
 
