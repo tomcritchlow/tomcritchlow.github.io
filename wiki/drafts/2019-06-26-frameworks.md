@@ -13,15 +13,15 @@ In my post [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/)
 
 *But how exactly do you teach clients how to see?*
 
-The answer is frameworks. Douglas Hofstadter claims analogy is the core of cognition{% include tufte-sn.html id="analogy" content="If you want to dive down this rabbit hole there's a lengthy but very approachable piece here: <a href='http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf'>analogy as the core of cognition</a> (PDF)." %} and I’d say that frameworks are the core of cognition for organizations.
+The answer is frameworks. Douglas Hofstadter claims *analogy is the core of cognition*{% include tufte-sn.html id="analogy" content="If you want to dive down this rabbit hole there's a lengthy but very approachable piece here: <a href='http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf'>analogy as the core of cognition</a> (PDF)." %} and I’d stretch that to say *frameworks are the core of cognition for organizations*.
 
 A good framework is a tool for thinking. A shared mental model of a situation is powerful and deeply transformative, especially at the management layer where they spend most of their time in abstractions.
 
 To be successful a good framework needs to be simple, true and co-created:
 
-Simple because it needs to be easy to reference and talk about without having to explain it
-True because it needs to be the right way of thinking about a situation - not just sound nice
-Co-created with the client to ensure they have ownership and buy-in
+- Simple because it needs to be easy to reference and talk about without having to explain it
+- True because it needs to be the right way of thinking about a situation - not just sound nice
+- Co-created with the client to ensure they have ownership and buy-in
 
 Off the shelf frameworks have a hard time meeting any of these three goals, and in particular can be dangerous when applied to the wrong problem. And it’s only recently that I really began to understand why existing generic frameworks like “jobs to be done” don’t meet my needs.
 
@@ -30,52 +30,53 @@ A strong framework is a powerful tool.
 And for extra impact get good at naming them and embedding them in processes to achieve the outcomes they want.
 
 I’m going to try and walk through what this all means, show four example frameworks from my real consulting clients and end on some ways you can practice making frameworks.
-Definitions of Models & Frameworks
+
+## Definitions of Models & Frameworks
+
 First, let’s lay the groundwork and set some definitions - in particular let’s try and differentiate between the concept of a “model” and a “framework”.
 
-The dictionary defines a framework as:
+The dictionary [defines a framework](https://dictionary.cambridge.org/us/dictionary/english/framework) as:
 
 a system of rules, ideas, or beliefs that is used to plan or decide something
 
 This is close to what we need - but doesn’t quite capture the notion of abstraction that I think is key for our uses. Let’s re-state as:
 
-A framework is a system of rules, ideas, beliefs or interactions that abstract a situation and can be used to make decisions.
+***A framework is a system of rules, ideas, beliefs or interactions that abstract a situation and can be used to make decisions.***
 
 Frameworks are usually scale invariant. I.e. they abstract a system to its core relations, categories and interactions. Then, we can think of a model as a framework that allows for calculation with inputs and outputs:
 
-A model is an analytical framework - i.e. one that embeds an algorithm or set of calculations such that inputs and outputs can be adjusted to interrogate the system.
+***A model is an analytical framework - i.e. one that embeds an algorithm or set of calculations such that inputs and outputs can be adjusted to interrogate the system.***
 
-simple
-
-I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework.
-
-{% include tufte-sn.html id="vgr" content="If you’re interested in a longer conversation around the distinction between a framework and a model there’s <a href=https://twitter.com/vgr/status/1137025652928929792’>a Twitter thread here</a> with myself, Brian and Venkatesh that has some nice replies." %}
+I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href=https://twitter.com/vgr/status/1137025652928929792’>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
 
 Mostly for this post I’m just going to use the word “framework” everywhere - it’s loose but lets us talk about them all together. They’re all tools for thinking. They’re all in the consultant’s toolkit.
-Intro: Why frameworks are so powerful
+
+## Intro: Why frameworks are so powerful
 
 Frameworks are powerful. They help us make sense of situations{% include tufte-sn.html id="models" content="I took the liberty of changing these quotes to swap the word ‘model’ for ‘framework’ to fit my definitions and make these quotes flow easier" %}:
 
-But frameworks are more than mere representations. As Dubberley suggested, we use frameworks to make sense of and think through the world. A framework can help us break down the constituent elements in a phenomenon – or group of phenomena - which then makes it easier to think about their inter-relationships.
+>But frameworks are more than mere representations. As Dubberley suggested, we use frameworks to make sense of and think through the world. A framework can help us break down the constituent elements in a phenomenon – or group of phenomena - which then makes it easier to think about their inter-relationships.
 
 And, they help us communicate more easily about those situations:
 
-Yet beyond being (cognitive) labour saving devices frameworks have another obvious virtue. They provide a shared intellectual scaffolding: a common ground upon which people can interact and engage. In that sense frameworks have communicative virtuosity - they are good to talk with. They allow ideas to be shared.
+>Yet beyond being (cognitive) labour saving devices frameworks have another obvious virtue. They provide a shared intellectual scaffolding: a common ground upon which people can interact and engage. In that sense frameworks have communicative virtuosity - they are good to talk with. They allow ideas to be shared.
 
-Both quotes from this excellent short read: Models of enchantment and the enchantment of models from Simon Roberts.
+Both quotes from this excellent short read: [Models of enchantment and the enchantment of models](https://www.epicpeople.org/pblog19/) from Simon Roberts.
 
 The essence of consulting is navigating unfamiliar organizations to both make sense of existing beliefs, systems and processes while simultaneously helping the organization develop new beliefs, systems and processes. This dual process of sensing and changing is a delicate one.
 
-Unless you’re operating with a team of 4 analytical consultants (like a Bain or McKinsey might) there’s basically no way you can perform a “from first principles” analysis of the client’s organization. So you’re going to need some shortcuts.
+Unless you’re operating with a team of 4 analytical consultants (like a Bain or McKinsey might) there’s basically no way you can perform a “from first principles” analysis of the client’s organization{% include tufte-sn.html id="big4" content="My brother Will pointed out that the big consulting firms are some of the biggest framework dealers around. He's right of course - shortcuts and 'first principles analysis' are not mutually exclusive" %}. So you’re going to need some shortcuts.
 
 Frameworks provide the shortcut to making sense of an organization **and** for proposing and socializing new ideas.
 
 But as is always the case with shortcuts, you need to choose your path wisely. Things that look like shortcuts can get you lost...
-The Failure of Pre-existing frameworks
+
+## The Failure of Pre-existing frameworks
+
 The biggest mistake I’ve made is bringing pre-existing frameworks with me to a client gig. Pre-existing frameworks are problematic for two reasons:
 
-They’re typically the wrong framework
-They’re usually overly complex
+- a) They’re typically the wrong framework
+- b) They’re usually overly complex
 
 Pre-existing frameworks are often complex tools. They’re designed to handle many different situations and organizations within a “master” framework so necessarily have to handle many edge cases and environments. They’re complex by design.
 
@@ -83,10 +84,12 @@ But this complexity often means they get used incorrectly.
 
 Let’s take one I see a lot - the “jobs to be done” framework. I hear this referenced on almost every client project I work on in some context. But typically it’s the wrong framework because we’re not analyzing a complete jobs to be done analysis but instead we’re analyzing a specific user need or a functional UX. Yes you *could* use the JTBD framework here but it’s heavy handed.
 
-Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory. There’s a free 209 page PDF here for those that are interested in learning more about it: http://www.whencoffeeandkalecompete.com/
+Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory{% include tufte-sn.html id="kale" content="There’s a free 209 page PDF here for those that are interested in learning more about the Jobs to be Done framework: <a hre='http://www.whencoffeeandkalecompete.com/'>whencoffeeandkalecompete.com</a>" %}. 
 
 And, by the way, if you’re using an off-the-shelf framework like JTBD then you’re missing the chance to name your own framework. This dramatically reduces the influence you can have within an organization.
-The Power of Simple Frameworks
+
+## The Power of Simple Frameworks
+
 So if jobs-to-be-done is too complex, what’s a good simple framework?
 
 I’d propose that for most indie consultants and strategic independents the right complexity is a single idea or concept. Create the most reduced, simple, brain-dead framework that you can find and stick to it.
