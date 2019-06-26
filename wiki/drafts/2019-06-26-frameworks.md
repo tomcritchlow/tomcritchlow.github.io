@@ -1,6 +1,6 @@
 ---
-title: How to teach clients to see with the magic of frameworks
-subtitle: And why you should focus on making simple, true frameworks with clients
+title: How (and why) to roll your own frameworks in consulting engagements
+subtitle: And the power of making simple, true frameworks with clients
 layout: tufte
 tags: strategy
 ---
@@ -104,19 +104,19 @@ I’d propose that for most indie consultants and strategic independents the rig
 
 > It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. **Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight**.”{% include tufte-sn.html id="fieldguide" content="Page 383 of <a href='https://www.thefieldstudyhandbook.com/'>The Field Study Handbook</a> by Jan Chipchase" %}
 
-Simple frameworks are easier to communicate, travel faster inside an organization and have fewer barriers to adoption. A simple framework and a little operational efficiency is a knife through hot butter of an organization.
-
-But what Jan highlights here is that novices become enamoured with high-concept/low-data frameworks - or frameworks that tease the wrong insight.
+Simple frameworks are easier to communicate, travel faster inside an organization and have fewer barriers to adoption. But what Jan highlights here is that novices become enamoured with high-concept/low-data frameworks - or frameworks that tease the wrong insight.
 
 High concept frameworks are almost by definition worthless - a framework is an abstraction designed for simplifying and socializing an idea and if it’s hard to grok then it doesn’t help people think or help it spread.
 
 Frameworks that tease the wrong insight are what I call “un-true” frameworks and they’re another story...
-How to create true frameworks
-Un-true frameworks are things that sound nice but simply aren’t saying the right thing{% include tufte-sn.html id="leaky" content="Remember that by definition every framework is leaky - for more on that read this great piece <a href=’https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/’>the law of leaky abstractions</a> by Joel." %}. This is partly why off-the-shelf frameworks are dangerous, because they likely don’t say the thing that the organization needs.
+
+## How to create true frameworks
+
+Un-true frameworks are things that sound nice but simply aren’t saying the right thing{% include tufte-sn.html id="leaky" content="Remember that by definition every framework is leaky. The trick is to tease apart the right part of the situation to abstract. For more on that read this great piece <a href='https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/'>the law of leaky abstractions</a> by Joel." %}. This is partly why off-the-shelf frameworks are dangerous, because they likely don’t say the thing that the organization needs.
 
 True frameworks are those that are grounded in a very real, practical and necessary insight about the organization, their users or the situation at hand.
 
-This idea of a “true framework” is something that I picked up at a recent sensemaking for impact masterclass from Jan Chipchase (from Studio D).
+This idea of a “true framework” is something that I picked up at a recent [sensemaking for impact masterclass](https://studiodradiodurans.com/pages/sensemaking-for-impact-masterclass) from Jan Chipchase of Studio D fame.
 
 Jan walked through his process of turning raw ethnographic interviews into insights and frameworks in a way that generates a throughline from raw research to final deliverable.  It looks something like this:
 
