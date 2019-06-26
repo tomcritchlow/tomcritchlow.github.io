@@ -208,31 +208,36 @@ Importantly - note the difference here between a situation where as the consulta
 
 Here’s another example of a more visual framework. Also from my own work last year. This one was an accidental success (and really was the genesis for all of my framework thinking since).
 
-A large media company needed to get better at commerce content fast. They needed a better understanding of how it worked and a better plan for executing.
+A large media company needed to get better at commerce content fast. They needed a better understanding of how it worked and a better plan for executing it.
 
 I put together a strategy deck (30-40 slides maybe) and, in reality the whole thing could be boiled down to “slide 6” which stopped the meeting dead and became the reference object for the whole project. Here it is:
 
-
+![](/images/vpn-framework.png)
 
 This is simple, but importantly it’s TRUE. Note the 70/30 revenue split? These numbers were based on another property they owned so they had reason to believe it and think it a true framework.
 
-It’s… deceptively simple. And actually pretty hard to do in practice (despite everyone buying into the strategy from top to bottom they ended up completely ignoring the box on the far right. Oh well.)
+It’s... deceptively simple. And actually pretty hard to do in practice (despite everyone buying into the strategy from top to bottom they ended up completely ignoring the box on the far right. Oh well.)
 
 One thing missing here was a good name - over time it was referenced as “slide 6” (it wasn’t slide 6) or “that diagram you showed”. This is clearly sub-optimal and I think a better name (especially one that emphasized the holistic nature of doing all of this at once) would have helped the framework get executed fully.
-An example of a simple framework that creates a model
+
+## An example of a simple framework that creates a model
+
 Here’s a lovely simple example I’ve referenced many times over the past few years.
 
 Problem: a client needed a way to maintain content quality as they scaled up dramatically. They published long-form product reviews.
 
 After locking ourselves in a room for a day (notice a common theme?) we flipped the concept of defining quality and instead created a minimum threshold for our content to meet:
 
+![](/images/benchmark-framework.png)
 
 Does this benchmark seem overly simple to you? Good! Five bullet points that allow you to grade a piece of content to say “this meets our standards or doesn’t” is exactly the simple useful thing we needed.
 
 Later, we translated this into a scoring system - get 4/5 people in a room and have them all rate the same article 1-10 on each of these bullets and you can say “this article is 7/10” and “this is 6.4 / 10”. This descriptive power is turning the abstract framework into a more quantitative model.
 
 And of course, note the co-creation.
-With great power… an example of a framework that made its own meaning
+
+## With great power… an example of a framework that made its own meaning
+
 With great power comes great responsibility… Who recognizes the following situation: you present a body of work to an executive team and one item - either a throw-away phrase or a single idea “sticks” with an executive and they grab hold of the language and suddenly every meeting they’re in they’re using this one phrase, most of which is entirely out of context or irrelevant.
 
 I’ve definitely been in this situation. It’s painful for two reasons - firstly because your framework had a real use and a real intended meaning and that’s now impossible with the executive bastardization. But also - it causes confusion and frustration with the employees who can often recognize that the framework the exec is forcing on them doesn’t make a lot of sense.
