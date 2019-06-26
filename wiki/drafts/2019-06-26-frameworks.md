@@ -350,7 +350,7 @@ To recap where we got to:
 - Instead I believe you should be making your own frameworks and they you should focus on:
     - Simple frameworks (even a simple categorization is a framework)
     - True frameworks that say something about the client’s business
-- Co-creating them with clients so you get the IKEA effect
+    - Co-creating them with clients so you get the IKEA effect
 - I’m still figuring it out but I believe doodling, sketching, notebook diagrams and visual thinking can help you get better at making frameworks
 - And, finally, for maximum effectiveness you need to focus on memorable names - compress to impress.
 
