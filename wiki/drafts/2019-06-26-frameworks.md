@@ -47,7 +47,7 @@ Frameworks are usually scale invariant. I.e. they abstract a system to its core 
 
 ***A model is an analytical framework - i.e. one that embeds an algorithm or set of calculations such that inputs and outputs can be adjusted to interrogate the system.***
 
-I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href=https://twitter.com/vgr/status/1137025652928929792’>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
+I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href='https://twitter.com/vgr/status/1137025652928929792’>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
 
 Mostly for this post I’m just going to use the word “framework” everywhere - it’s loose but lets us talk about them all together. They’re all tools for thinking. They’re all in the consultant’s toolkit.
 
@@ -84,7 +84,7 @@ But this complexity often means they get used incorrectly.
 
 Let’s take one I see a lot - the “jobs to be done” framework. I hear this referenced on almost every client project I work on in some context. But typically it’s the wrong framework because we’re not analyzing a complete jobs to be done analysis but instead we’re analyzing a specific user need or a functional UX. Yes you *could* use the JTBD framework here but it’s heavy handed.
 
-Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory{% include tufte-sn.html id="kale" content="There’s a free 209 page PDF here for those that are interested in learning more about the Jobs to be Done framework: <a hre='http://www.whencoffeeandkalecompete.com/'>whencoffeeandkalecompete.com</a>" %}. 
+Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory{% include tufte-sn.html id="kale" content="There’s a free 209 page PDF here for those that are interested in learning more about the Jobs to be Done framework: <a href='http://www.whencoffeeandkalecompete.com/'>whencoffeeandkalecompete.com</a>" %}. 
 
 And, by the way, if you’re using an off-the-shelf framework like JTBD then you’re missing the chance to name your own framework. This dramatically reduces the influence you can have within an organization.
 
