@@ -354,7 +354,7 @@ To recap where we got to:
 - I’m still figuring it out but I believe doodling, sketching, notebook diagrams and visual thinking can help you get better at making frameworks
 - And, finally, for maximum effectiveness you need to focus on memorable names - compress to impress.
 
-How are you using frameworks in your work? Leave a comment below, drop me an email (<a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>) or hit me up on Twitter ([https://twitter.com/tomcritchlow](@tomcritchlow))! Thanks.
+How are you using frameworks in your work? Leave a comment below, drop me an email (<a href="mailto:tjcritchlow@gmail.com">tjcritchlow@gmail.com</a>) or hit me up on Twitter ([@tomcritchlow](https://twitter.com/tomcritchlow))! Thanks.
 
 --
 

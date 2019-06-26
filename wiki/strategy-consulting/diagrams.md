@@ -10,15 +10,32 @@ Below are some interesting diagrams, doodlers and examples I've collected. Hopef
 
 ### Venkatesh Rao of Ribbonfarm fame
 
-Venkatesh has tons 
+Venkatesh has tons. Drawings, doodles, diagrams, flows and more. Some faves:
+
+![](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/pmclass.jpg)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/ Lemme do a 1-slide presentation since I&#39;m feeling job sick. Title: How to Actually Manage Attention Without Smashing Your Phone and Retreating to a Log Cabin <a href="https://t.co/kEPZUh7g50">pic.twitter.com/kEPZUh7g50</a></p>&mdash; Venkatesh “Tetris” Rao (@vgr) <a href="https://twitter.com/vgr/status/1047925106423603200?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<https://www.ribbonfarm.com/2014/09/03/how-to-fall-off-the-wagon/>
+
+<https://www.ribbonfarm.com/2018/07/19/quiver-doodles/>
 
 ### Ben Thompson of Aggregation theory fame
+
+<https://stratechery.com/aggregation-theory/>
+
+![](https://stratechery.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-20-at-10.11.14-AM.png)
 
 ### Toby Shorin of Subpixel Space fame
 
 <https://subpixel.space/entries/diminishing-marginal-aesthetic-value/>
 
+![](https://subpixel.space/uploads/networkmodel-pre-internet.png)
+
 ### Mark Pollard
+
+All the good stuff is on Instagram: [@markpollard](https://www.instagram.com/markpollard/?hl=en)
 
 ###  Nahee cyberdiagrams (nsfw)
 
@@ -33,6 +50,8 @@ Imagine a venn diagram of cyberfeminism, erotica, developer manuals, code and ar
 <http://www.thnkclrly.com/>
 
 ### Behaviour Gap
+
+<https://behaviorgap.com/>
 
 ### Hugh MacLeod
 
