@@ -162,7 +162,7 @@ But it’s not obvious exactly why these dimensions were chosen on which to cate
 
 **The answer is that categorization is an expert skill**.
 
-You need to be able to comprehend an entire system to be able to categorize things effectively{% include tufte-sn.html id="experts" content="It seems there's a fair amount of academic research that backs this up and I found these great quotes: 'Experts notice features and meaningful patterns of information that are not noticed by novices.' and 'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.' Both of these from <a href='https://www.nap.edu/read/9853/chapter/5'>How People Learn - Chapter: 2 How Experts Differ from Novices</a>" %}.
+You need to be able to comprehend an entire system to be able to categorize things effectively{% include tufte-sn.html id="experts" content="It seems there's a fair amount of academic research that backs this up and I found these great quotes: <em>'Experts notice features and meaningful patterns of information that are not noticed by novices.'</em> and <em>'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.'</em> Both of these from <a href='https://www.nap.edu/read/9853/chapter/5'>How People Learn - Chapter: 2 How Experts Differ from Novices</a>" %}.
 
 But, a categorization in turn can embed and scale your expertise across an organization.
 
