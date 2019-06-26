@@ -31,7 +31,7 @@ A strong framework is a powerful tool.
 
 And for extra impact get good at naming them and embedding them in processes to achieve the outcomes they want.
 
-I’m going to try and walk through what this all means, show four example frameworks from my real consulting clients and end on some ways you can practice making frameworks.
+I’m going to try and walk through what this all means, show four case studies from my consulting work and end on some ways you can practice making frameworks.
 
 ## Definitions of Models & Frameworks
 
@@ -164,20 +164,25 @@ But it’s not obvious exactly why these dimensions were chosen on which to cate
 
 You need to be able to comprehend an entire system to be able to categorize things effectively{% include tufte-sn.html id="experts" content="It seems there's a fair amount of academic research that backs this up and I found these great quotes: <br><br><em>'Experts notice features and meaningful patterns of information that are not noticed by novices.'</em> <br><br>and <br><br><em>'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.'</em><br><br> Both of these from <a href='https://www.nap.edu/read/9853/chapter/5'>How People Learn - Chapter: 2 How Experts Differ from Novices</a>" %}.
 
-But, a categorization in turn can embed and scale your expertise across an organization.
+**A categorization in turn can embed and scale your expertise across an organization**.
 
 In cases where the consultant has some domain expertise (not always true) and they’re coming in to help an organization adapt or build new processes the first go-to tool should be a simple categorization. Simple of course, refers to the simplicity of the framework, not of the knowledge and expertise that went into *choosing* the categorization.
-Co-creating frameworks makes them stick - aka the IKEA effect
+
+But as an expert you can't simply force your expertise on the client. Instead you need to build the framework together...
+
+## Co-creating frameworks makes them stick - aka the IKEA effect
+
 We’ve shown that we want to make our own frameworks, they should be true and they should often be simple categorizations. Now, I want to show you how co-creating them with clients is the ultimate key to allowing them to be socialized, adopted, referenced and ultimately drive change in an organization sometimes for years to come.
 
-This is the IKEA effect - the idea that you’re much more invested in cheap furniture that you built with your own hands than fancy furniture that comes pre-assembled.
+This is the IKEA effect - the idea that you’re much more invested in cheap furniture that you built with your own hands than fancy furniture that comes pre-assembled{% include tufte-sn.html id="ikea" content="This is a real thing by teh way - look it up: <a href='https://en.wikipedia.org/wiki/IKEA_effect'>the IKEA effect</a>" %}.
 
 The same is true for frameworks. It’s ok to do the work of sensemaking on your own but it’s better to do it with the client. If you co-create it with the client you get three pleasing effects:
 
-Firstly you avoid almost-true frameworks. The client almost certainly knows more than you do and has an awareness for the corporate memory so can help you avoid evolutionary dead ends that might not be immediately obvious.
-Secondly by co-creating with the client you get at least one senior member of the organization fully immersed in the theory, not just the summary of the framework. Remember frameworks are abstractions - by design - but you want at least someone who understands the whole system not just the abstraction
-Thirdly, because the client co-created it with you they are proud of their work and far more likely to use, reference and share the framework than if you hand it to them fully formed.
-An example of a simple, co-created categorization framework embedded in a process
+- Firstly **you avoid almost-true frameworks**. The client almost certainly knows more than you do and has an awareness for the corporate memory so can help you avoid evolutionary dead ends that might not be immediately obvious.
+- Secondly by co-creating with the client **you get at least one senior member of the organization fully immersed in the theory**, not just the summary of the framework. Remember frameworks are abstractions - by design - but you want at least someone who understands the whole system not just the abstraction
+- Thirdly, because the client co-created it with you **they are proud of their work** and far more likely to use, reference and share the framework than if you hand it to them fully formed.
+
+## An example of a simple, co-created categorization framework embedded in a process
 
 Here’s a real example from some client work last year.
 
@@ -189,8 +194,11 @@ After a day or so workshop with the client and the editor in chief we co-created
 
 The categorization looked something like this:
 
+![](/images/grade-framework.png)
 
 And this gets embedded and referenced in the master content schedule by assigning every article a grade (A,B,C,D) or categorization:
+
+![](/images/grading-framework.png)
 
 This framework helped them write stronger briefs, invest more strongly into areas of competition and also track and monitor performance on a more granular level.
 
