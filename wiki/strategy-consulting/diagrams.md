@@ -35,6 +35,8 @@ Venkatesh has tons. Drawings, doodles, diagrams, flows and more. Some faves:
 
 ![](https://subpixel.space/uploads/networkmodel-pre-internet.png)
 
+<https://subpixel.space/entries/each-binary-contains-a-universe/>
+
 ### Mark Pollard
 
 All the good stuff is on Instagram: [@markpollard](https://www.instagram.com/markpollard/?hl=en)
@@ -52,10 +54,6 @@ Imagine a venn diagram of cyberfeminism, erotica, developer manuals, code and ar
 <http://www.thnkclrly.com/>
 
 ![](https://i1.wp.com/www.thnkclrly.com/wordpress/wp-content/uploads/2018/09/newsletter_704.jpg?w=1296)
-
-### Behaviour Gap
-
-<https://behaviorgap.com/>
 
 ### Hugh MacLeod
 
