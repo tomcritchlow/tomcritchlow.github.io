@@ -21,3 +21,5 @@ Where are the exploratory, creative ways to build, play with and remix location-
 [A barrow by a beacon](http://barrow.matthewsheret.com/) - wonderful meditation on walking from Matthew Sheret
 
 [In the map room](https://medium.com/@blprnt/in-the-map-room-cd6b06bf2139) - an art project of annotating IRL digital maps projected on the floor. Wonderful.
+
+[Map with friends on glitch](https://mapwithme.glitch.me/)
