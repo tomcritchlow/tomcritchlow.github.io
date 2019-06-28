@@ -83,3 +83,5 @@ But as the arc of my own work bends back towards letting visuals creep back in (
 Where to next? 
 
 Maybe, just maybe, the mantra for 2020 is going to be posters not powerpoint.
+
+I'd encourage you to watch the video and I'd love to hear how this relates to your work.
