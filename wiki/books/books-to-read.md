@@ -61,6 +61,8 @@ From here: <https://twitter.com/pieratt/status/1143183857925152768>
 
 [Always coming home](https://www.amazon.com/gp/product/1598536036/ref=dbs_a_def_rwt_hsch_vapi_thcv_p1_i5?utm_source=ayjay&utm_medium=email)
 
+[Pencil Me In: The Business Drawing Book for People Who Can't Draw](https://www.amazon.com/Pencil-Me-Business-Drawing-People/dp/0996006036/ref=as_li_ss_tl?ie=UTF8&qid=1506525482&sr=8-1&keywords=Pencil+Me+In&linkCode=sl1&tag=eleganthack&linkId=91875759326d29c1e42fa49604657967)
+
 --
 
 Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
