@@ -58,3 +58,9 @@ Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium 
 [Maps of the mind](https://twitter.com/pieratt/status/1143183857925152768)
 
 From here: <https://twitter.com/pieratt/status/1143183857925152768>
+
+[Always coming home](https://www.amazon.com/gp/product/1598536036/ref=dbs_a_def_rwt_hsch_vapi_thcv_p1_i5?utm_source=ayjay&utm_medium=email)
+
+--
+
+Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
