@@ -130,7 +130,7 @@ But there was a third wall in the time-lapse video - one for frameworks.
 
 The frameworks wall is nothing more than sheets of A4 paper with sharpie doodles, diagrams and ideas on them. The rule is that you start making a simple line sketch or even just a name for a potential framework - one per page. And during the course of the user research process you refine the frameworks and get rid of the ones that are too complicated or non essential.
 
-Then the crucial step happens last - as the field research nears an end you take stock of the frameworks on the wall and for those that you want to include in the final report you stress-test those frameworks in-field with real users. This ensures that the frameworks are true - they contain real things that map to real users expectations, behaviours and ideas.
+Then the crucial step happens last - as the field research nears an end you take stock of the frameworks on the wall and for those that you want to include in the final report you stress-test those frameworks in-field with real users. This ensures that the frameworks are true - they contain real things that map to real users expectations, behaviours and ideas{% include tufte-sn.html id="jantweet" content="Jan weighed in on Twitter with some additional thoughts and notes in <a href='https://twitter.com/janchip/status/1144559021795479554'>this thread</a>." %}.
 
 Here’s an example framework from some Studio D work{% include tufte-sn.html id="paddy1" content="Studio D put together a report called <a href='https://proximitydesigns.org/wp-content/uploads/PaddyToPlate-BookonlineAA.pdf'>Paddy to Plate</a> and this is an image from page 107" %}:
 

@@ -87,6 +87,10 @@ source: [The Importance of Visualisation](http://www.richardingram.co.uk/2013/10
 
 --
 
+<https://twitter.com/geoffwilsonUX/status/912918557679288320>
+
+--
+
 Who should I add? Tweet me: [https://twitter.com/tomcritchlow](@tomcritchlow).
 
 
