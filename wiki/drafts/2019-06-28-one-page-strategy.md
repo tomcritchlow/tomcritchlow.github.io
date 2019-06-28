@@ -8,15 +8,17 @@ There's two threads I've been thinking about a lot recently that I want to conne
 
 Firstly - the idea of frameworks. I just wrote [5,000 words about frameworks yesterday](https://tomcritchlow.com/2019/06/27/frameworks/). Forget all the theory for a second though and imagine that there are these little condensed visual thinking machines. Useful for getting people to use the same mental model of a situation.
 
-Secondly - the idea of presenting system work, where complexity and multiple paths lead to a branching experience that is hard to capture in a linear presentation.
+Secondly - the idea of presenting systems work, where complexity and multiple paths lead to a branching experience that is hard to capture in a linear "powerpoint" presentation.
 
-## Let me paint you vignette
+## Let me paint you a vignette
 
 I just wrapped up a design sprint for a client in partnership with [Toby Shorin](https://subpixel.space/). We were designing and prototyping a set of designs, but more ambitously a **system of interactions**.
 
 Toby worked primarily in Figma - and this was a new experience for me - but I quickly adjusted to the idea of a canvas to outline, prototype and experiment with interactions, systems and multiple branching pathways through a system.
 
-But while putting together the final client presentation something about the little white boxes of a presentation failed to convey the interesting and playful *interactions* within the system. It all felt too static and final instead of a sketched set of ideas and interactions waiting to be evolved and iterated upon.
+But while putting together the final client presentation something about the little white boxes of a presentation failed to convey the interesting and playful *interactions* within the system.
+
+It all felt too static and final instead of a sketched set of ideas and interactions waiting to be evolved and iterated upon.
 
 Eventually - as I went on a little roadshow presenting this work inside the client's organization I dropped the deck entirely and switched to "presenting" the idea through figma. It was much more powerful.
 
