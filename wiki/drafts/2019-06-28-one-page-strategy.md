@@ -34,7 +34,7 @@ Then - I found the most delightful video...
 
 ## Enter One Page Designs
 
-I found this video all about "one page designs" and it's just *delightful*! It's about game design - but really I think all the concepts are about so much more. It's about how to communciate about *complex systems*
+I found this video from [Stone Librande](https://twitter.com/stonelibrande) all about "one page designs" and it's just *delightful*! It's about game design - but really I think all the concepts are about so much more. It's about how to communciate about *complex systems*
 
 [![Foo](/images/one-page-design-video.png)](https://www.gdcvault.com/play/1012356/One-Page)
 
@@ -56,9 +56,25 @@ The gist of it is this tension:
 
 ![](/images/wiki-vs-poster.png)
 
-If you maintain a system as a wiki-like object then you gain detail and exhaustive detail but it becomes a rarely referenced complete object (people might reference parts of it often but not the whole thing).
+If you maintain a system as a wiki-like object then you gain exhaustive detail but it becomes a rarely referenced complete object (people might reference parts of it often but not the whole thing).
 
 If you maintain a one-page-design poster object then you gain a visual overview of an entire system that is referenced daily by the whole team (by virtue of being on the wall).
+
+## Nothing new for design teams
+
+There's nothing new or revolutionary about printing out work and putting it on the wall. Design teams have been working this way for a long time. But in my work (which is lots of things but rarely design) printing things and putting things on the wall is a mostly forgotten discipline.
+
+I first encounted this during my time working at the Google Creative Lab which was kind of famous within Google for it's hallway of work where foam boards 10 feet high lined the walls with projects pinned up on the wall.
+
+In [a later presentation](http://stonetronix.com/gdc-2013/SimCity-OnePage.pdf) Stone Librande actually explores this by extending the idea of a one page design to a one wall design:
+
+![](/images/one-wall-design.png)
+
+And later a one hall design (this is a lot like what the Google Creative Lab used to look like): 
+
+![](/images/one-hall-design.png)
+
+But 
 
 
 
