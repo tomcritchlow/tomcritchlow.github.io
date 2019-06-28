@@ -6,7 +6,7 @@ layout: blog
 
 There's two threads I've been thinking about a lot recently that I want to connect here.
 
-Firstly - the idea of frameworks. I just wrote 5,000 words about them yesterday. Forget all the theory for a second though and imagine that there are these little condensed visual thinking machines. Useful for getting people to use the same mental model of a situation.
+Firstly - the idea of frameworks. I just wrote [5,000 words about frameworks yesterday](https://tomcritchlow.com/2019/06/27/frameworks/). Forget all the theory for a second though and imagine that there are these little condensed visual thinking machines. Useful for getting people to use the same mental model of a situation.
 
 Secondly - the idea of presenting system work, where complexity and multiple paths lead to a branching experience that is hard to capture in a linear presentation.
 
@@ -32,21 +32,34 @@ Then - I found the most delightful video...
 
 ## Enter One Page Designs
 
-https://www.gdcvault.com/play/1012356/One-Page
+I found this video all about "one page designs" and it's just *delightful*! It's about game design - but really I think all the concepts are about so much more. It's about how to communciate about *complex systems*
 
-<iframe src="https://cdnapisec.kaltura.com/p/1670711/sp/167071100/embedIframeJs/uiconf_id/43558772/partner_id/1670711?iframeembed=true&amp;playerId=kaltura_player_1547062087&amp;cache_st=1547072087&amp;width=1000&amp;height=570&amp;entry_id=0_6ui9elyd&amp;videoid=2f1c8f8b2509c9e7b9da1012356" width="1000" height="570" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowfullscreen=""></iframe>
+[![Foo](/images/one-page-design-video.png)](https://www.gdcvault.com/play/1012356/One-Page)
+
+I really encouarage you to watch the whole thing - take a few mins to gain momentum but it's excellent.
+
+It shows this kind of thing which are totally frameworks!
+
+![](/images/one-page-framework1.png)
+
+![](/images/one-page-framework2.png)
+
+![](/images/one-page-framework3.png)
+
+And then shows how to put the whole system on one page as a physical printed poster the whole team references:
+
+![](/images/one-page-framework-large.png)
+
+The gist of it is this tension:
+
+![](/images/wiki-vs-poster.png)
+
+If you maintain a system as a wiki-like object then you gain detail and exhaustive detail but it becomes a rarely referenced complete object (people might reference parts of it often but not the whole thing).
+
+If you maintain a one-page-design poster object then you gain a visual overview of an entire system that is referenced daily by the whole team (by virtue of being on the wall).
 
 
 
-I just wrote a post on frameworks. 
-
-So where do frameworks and systems interact?
-
-
-
-This video blew my mind and showed me the path.
-
-Aligns really well to the work done 
 
 But where is the availability of plotters or large format printers? Are digital projects necessarily too agile or too simple for this?
 
