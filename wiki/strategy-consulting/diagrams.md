@@ -87,7 +87,15 @@ source: [The Importance of Visualisation](http://www.richardingram.co.uk/2013/10
 
 --
 
+>In one of the classes I teach at CCA, students were confused by mental models, conceptual models, concept maps, etc. I ended up drawing a taxonomy for models on the whiteboard, and it may help others.
+
+source: [Five Models for Making Sense of Complex Systems – Christina Wodtke – Medium](https://medium.com/@cwodtke/five-models-for-making-sense-of-complex-systems-134be897b6b3)
+
+--
+
 <https://twitter.com/geoffwilsonUX/status/912918557679288320>
+
+<https://twitter.com/BorisAnthony/status/1144539930699423744>
 
 --
 
