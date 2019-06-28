@@ -36,9 +36,9 @@ Then - I found the most delightful video...
 
 I found this video from [Stone Librande](https://twitter.com/stonelibrande) all about "one page designs" and it's just *delightful*! It's about game design - but really I think all the concepts are about so much more. It's about how to communciate about *complex systems*
 
-[![Foo](/images/one-page-design-video.png)](https://www.gdcvault.com/play/1012356/One-Page)
+I really encouarage you to watch the whole thing - takes a few mins to gain momentum but it's truly excellent:
 
-I really encouarage you to watch the whole thing - take a few mins to gain momentum but it's excellent.
+[![Foo](/images/one-page-design-video.png)](https://www.gdcvault.com/play/1012356/One-Page)
 
 It shows this kind of thing which are totally frameworks!
 
