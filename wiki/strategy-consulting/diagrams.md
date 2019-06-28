@@ -101,6 +101,12 @@ And:
 
 <https://twitter.com/BorisAnthony/status/1144539930699423744>
 
+[Synthesis maps and gigamaps](https://slab.ocadu.ca/project/synthesis-maps-gigamaps) (browse the archives!)
+
+[Gigamaps](https://www.systemsorienteddesign.net/index.php/giga-mapping/giga-mapping-samples)
+
+WHOAH: [one page designs](https://www.gdcvault.com/play/1012356/One-Page) - hour video explaining how to make one page system designs. Incredible. (and [slides here](http://stonetronix.com/gdc-2010/))
+
 --
 
 Who should I add? Tweet me: [https://twitter.com/tomcritchlow](@tomcritchlow).
