@@ -74,24 +74,12 @@ And later a one hall design (this is a lot like what the Google Creative Lab use
 
 ![](/images/one-hall-design.png)
 
-But 
+## Where next?
 
+Leaving the Creative Lab (2013ish) I was disenchanted by the lack of rigor to the strategy work - almost everything pinned to a wall was a design. This made incredibly beautiful work and certainly walking through that hallway every day was inspiring - except so little of that work made it out into the rest of the organization. So many ideas fell flat because of a lack of business rigor or practical articulation.
 
+But as the arc of my own work bends back towards letting visuals creep back in (see my frameworks post from yesterday) and as I consider working spaces like Figma, but embedded not just with design but framework and models I start to get excited.
 
-
-But where is the availability of plotters or large format printers? Are digital projects necessarily too agile or too simple for this?
-
-Challenge of presenting via figma or via a document.
-
-I pride myself in working in an agile way. Laptop, phone. No wires, no second screen.
-
-But what's lost when we transition away from paper? How might we present systems thinking on large maps?
-
-The problem of course is chaos. If everyone starts doing this it's madness.
-
-But there's something to aspire to?
-
-Maps for business. Inspiration from dynamicland? Jer Thorp map projections?
-
+Where to next? 
 
 Maybe, just maybe, the mantra for 2020 is going to be posters not powerpoint.
