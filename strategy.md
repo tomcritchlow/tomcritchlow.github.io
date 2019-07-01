@@ -57,6 +57,8 @@ I'm obsessed with doing *effective* strategy work. Work beyond powerpoints and d
 
 [Ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) - this is perhaps my most polished piece of long form writing and pairs perfectly with *the consultant's grain* above. This covers how you actually understand and recognize an organization's culture and embraces the idea that perhaps the pinnacle of consulting work is to help your clients to see in new ways.
 
+[How (and why) to roll your own frameworks in consulting engagements](https://tomcritchlow.com/2019/06/27/frameworks/) - if teaching clients ways of seeing is important, this post shows you how to do it and walks through some pitfalls I've fallen into in my own work trying to rely on off the shelf frameworks.
+
 ## 4. The Inner Life of Independents
 
 This chapter covers the emotional roller-coaster that comes with being independent, attempting to jump in and out of different clients and deal with the ebbs and flows of client work.
