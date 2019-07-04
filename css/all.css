@@ -307,7 +307,7 @@ footer{
   .slides > div:nth-child(2):before{
   content: "Latest posts:";
     margin-top:-15%;
-    display:block;
+    display:absolute;
     color:white;
     font-size:20px;
     margin-bottom:5%;
