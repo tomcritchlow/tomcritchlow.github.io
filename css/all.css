@@ -314,10 +314,10 @@ footer{
     font-weight:bold;
   }
   
-  .slides > div:not(:first-child){
+  /* .slides > div:not(:first-child){
     height:90%;
     margin-top:10%;
-  }
+  } */
   
   .scrolltext{
     bottom:66px;
