@@ -282,7 +282,6 @@ footer{
   
   .slides > div {
     flex-shrink: 0;
-    width: 75%;
     background: white;
     position: relative;
     justify-content: center;
