@@ -273,9 +273,6 @@ footer{
   .slides {
     display:flex;
     overflow-x: auto;
-    margin-top:20%;
-    height:80%;
-    width:100%;
     
     scroll-behavior: smooth;
     

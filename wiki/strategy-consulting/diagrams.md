@@ -97,6 +97,10 @@ And:
 
 --
 
+[diagrams ↳ design process](https://www.are.na/justin-threlkeld/diagrams-design-process)
+
+[diagrams of thought](https://www.are.na/martin-murphy/diagrams-of-thought) - massive arena channel!
+
 <https://twitter.com/geoffwilsonUX/status/912918557679288320>
 
 <https://twitter.com/BorisAnthony/status/1144539930699423744>

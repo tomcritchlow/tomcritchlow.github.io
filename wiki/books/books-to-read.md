@@ -63,6 +63,9 @@ From here: <https://twitter.com/pieratt/status/1143183857925152768>
 
 [Pencil Me In: The Business Drawing Book for People Who Can't Draw](https://www.amazon.com/Pencil-Me-Business-Drawing-People/dp/0996006036/ref=as_li_ss_tl?ie=UTF8&qid=1506525482&sr=8-1&keywords=Pencil+Me+In&linkCode=sl1&tag=eleganthack&linkId=91875759326d29c1e42fa49604657967)
 
+<https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691166854>
+
 --
 
 Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
+
