@@ -306,11 +306,11 @@ footer{
   
   .slides > div:nth-child(2):before{
   content: "Latest posts:";
-    margin-top:-40px;
-    display:absolute;
+    margin-top:-50px;
+    display:block;
     color:white;
     font-size:20px;
-    margin-bottom:20px;
+    margin-bottom:30px;
     font-weight:bold;
   }
   
