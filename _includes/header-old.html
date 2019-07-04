@@ -1,0 +1,29 @@
+<header class="pv3 pv4-l center mw9 pr6-l pl6-l f3 ph3 ph0-ns lh-copy">
+    <a class="no-underline" href="/"><brand class="relative">Tom Critchlow</brand></a>
+
+    <div class="fr f5 pv2 fw3 mobilemenu">
+        <a href="#" id="mobilemenu">menu</a>
+    </div>
+    <div class="fr-l navigation w-100-s pv4 pt0-l tc f4 ttu" id="navigation">
+    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/writing">writing</a>
+    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/wiki/">wiki</a>
+    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/consulting">consulting</a>
+    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/about">about</a>
+    </div>
+
+    </header>
+
+
+
+<script type="text/javascript">
+document.getElementById('mobilemenu').onclick = function() {
+    var x = document.getElementById("navigation");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+        $('#mobilemenu').html("menu");    
+    } else {
+        x.style.display = "block";
+        $('#mobilemenu').html("close");    
+    }
+}
+</script>

@@ -1,29 +1,93 @@
+<div class="dn tommenu w-100 h-100 fixed absolute--fill pv5">
+        <div class="slides h-100 w-100">
+          
+        
+  
+                  <div class="pa2 pa6-l w-75">
+                  <h2 class="w-100 w-50-l dn db-ns">
+                    Hello there!
+                    </h2>
+                    <p>
+                       Thanks for stopping by. I'm Tom Critchlow a strategy consultant in Brooklyn, NY.
+                    </p>
+                    <p>
+                      Shoot me a note on twitter: <a href="https://twitter.com/tomcritchlow">@tomcritchlow</a>
+                    </p>
+                    <ul class="f4 ttu">
+                      <li class="pa2"><a class="no-underline" href="/writing">writing</a></li>
+                      <li class="pa2"><a class=" no-underline" href="/wiki">wiki</a></li>
+                      <li class="pa2"><a class=" no-underline" href="/about">about</a></li>
+                      <li class="pa2"><a class=" no-underline" href="/consulting">consulting</a></li>
+                      <li class="pa2"><a class=" no-underline" href="/now">now</a></li>
+                      <li class="pa2"><a class=" no-underline" href="https://tinyletter.com/tomcritchlow">newsletter</a></li>
+                    </ul>
+                    <div class="scrolltext w-100 absolute tc left-0 dn db-ns">
+                      Scroll right for latest posts:
+                    </div>
+                    <div class="rightarrow">
+                     <i class="fa fa-arrow-right fa-2x"></i>
+                    </div>
+                  </div>
+                  {% for post in site.posts limit:5 %}
+
+                        <div class="ph3 pt3 mt5 w-75"><a href="{{post.url}}">
+                            <div class="pt4 pt5-l w-two-thirds-ns">
+        
+                            <h1 class="f3 f1-l fw8 lh-solid mv1 posttitle">{{post.title}}</h1>
+        
+                            <h2 class="f4 fw3 lh-copy mv1 subtitle">{{post.subtitle}}</h2>
+                            
+                            <div class="f6 f6-s black-50 pv1">{{ post.date | date_to_string }}</div>
+                              
+                            </div>
+                            <div class="w-two-thirds-ns pt2">
+                              {{post.content | strip_html| truncatewords: 30}}
+                            </div>
+                            <div class="scrolltext w-100 absolute tc left-0">
+                            View post <br><i class="fa fa-arrow-down fa-2x tomgreen"></i>
+                            </div>
+                                  
+                        </a>
+
+                        </div>
+                        
+                        
+                        
+                        {% endfor %}
+                  
+                             
+  </div>
+     </div>
+
 <header class="pv3 pv4-l center mw9 pr6-l pl6-l f3 ph3 ph0-ns lh-copy">
-    <a class="no-underline" href="/"><brand class="relative">Tom Critchlow</brand></a>
+        <a class="no-underline" href="/"><brand class="relative">Tom Critchlow</brand></a>
 
-    <div class="fr f5 pv2 fw3 mobilemenu">
-        <a href="#" id="mobilemenu">menu</a>
-    </div>
-    <div class="fr-l navigation w-100-s pv4 pt0-l tc f4 ttu" id="navigation">
-    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/writing">writing</a>
-    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/wiki/">wiki</a>
-    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/consulting">consulting</a>
-    <a class="ma3-l di-ns db w-100 pa2 pa-l mh2 no-underline" href="/about">about</a>
-    </div>
+        <div class="fr f5 pv2 fw3">
+            
+                    <div class="hamburger hamburger--squeeze">
+                            <div class="hamburger-box">
+                              <div class="hamburger-inner"></div>
+                            </div>
+                          </div>
+            
+        </div>
+        
+        
+    
+        </header>
 
-    </header>
-
-
-
-<script type="text/javascript">
-document.getElementById('mobilemenu').onclick = function() {
-    var x = document.getElementById("navigation");
-    if (x.style.display === "block") {
-        x.style.display = "none";
-        $('#mobilemenu').html("menu");    
-    } else {
-        x.style.display = "block";
-        $('#mobilemenu').html("close");    
-    }
-}
-</script>
+        <script>
+            var $hamburger = $(".hamburger");
+            $hamburger.on("click", function(e) {
+              $hamburger.toggleClass("is-active");
+              $(".tommenu").toggle();
+              $("body").toggleClass('noscroll');
+            });
+          
+          
+            var $rightarrow = $(".rightarrow");
+            $rightarrow.on("click", function(e) {
+              $(".slides").scrollLeft($("body").width());
+              });  
+          
+          </script>

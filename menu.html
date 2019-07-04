@@ -81,7 +81,21 @@
     
         </header>
 
-
+        <script>
+            var $hamburger = $(".hamburger");
+            $hamburger.on("click", function(e) {
+              $hamburger.toggleClass("is-active");
+              $(".tommenu").toggle();
+              $("body").toggleClass('noscroll');
+            });
+          
+          
+            var $rightarrow = $(".rightarrow");
+            $rightarrow.on("click", function(e) {
+              $(".slides").scrollLeft($("body").width());
+              });  
+          
+          </script>
     
 
   
@@ -112,21 +126,7 @@
   
   </div>
   
-  <script>
-      var $hamburger = $(".hamburger");
-      $hamburger.on("click", function(e) {
-        $hamburger.toggleClass("is-active");
-        $(".tommenu").toggle();
-        $("body").toggleClass('noscroll');
-      });
-    
-    
-      var $rightarrow = $(".rightarrow");
-      $rightarrow.on("click", function(e) {
-        $(".slides").scrollLeft($("body").width());
-        });  
-    
-    </script>
+
   
   </div>
   
