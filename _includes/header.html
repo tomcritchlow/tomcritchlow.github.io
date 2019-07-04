@@ -89,5 +89,12 @@
             $rightarrow.on("click", function(e) {
               $(".slides").scrollLeft($("body").width());
               });  
+
+            if($('.tommenu').is(':visible')){
+                $('body').addClass("fixedPosition");
+            }
+            else{
+                $('body').removeClass("fixedPosition");
+            }  
           
           </script>

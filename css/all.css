@@ -32,6 +32,10 @@ brand:after{
     display:none;
 }
 
+.fixedPosition{
+    position: fixed;
+ }
+
 .navigation a{
     text-decoration: none;
     color: #212121;
