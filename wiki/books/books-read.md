@@ -2,6 +2,17 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Emissaries Guide to Worlding
+   author: Ian Cheng
+   link: https://serpentine-galleries.myshopify.com/products/coming-soon-ian-cheng-emissaries-guide-to-worlding
+   notes: The core idea of the masks - the cartoonist, the director, the hacker and the emissary - is wonderful and a new lens to look at the world through, so overall I'd recommend the book. But there was also an incredible over-indulgene from the author to live inside his own worlds (which feels very finite game like, not infinite game like). And the lack of people anywhere in his worlds is also problematic. That said - the book as an object is beautiful and wonderfully designed.
+   date_finished: 7/8/19
+   image: https://cdn.shopify.com/s/files/1/2113/7453/products/Cover_-_FINAL_002_1024x.jpg?v=1524225901
+ - title: The Prisoner
+   author: Thomas M. Disch
+   link: https://www.amazon.com/Prisoner-Novel-Thomas-M-Disch/dp/014311722X
+   notes: I really enjoyed this - a delightfully British story of being trapped, like a combination of Kafka and PG Wodehouse. The plot derailed itself in a few places and there was a whole Shakespere reference that kind of went over my head but the writing was wonderful. Recommended.
+   date_finished: 7/7/19
  - title: Oval
    author: Elvia Wilk
    link: https://www.amazon.com/Oval-Novel-Elvia-Wilk/dp/1593764057
