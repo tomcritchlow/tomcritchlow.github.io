@@ -5,7 +5,7 @@ books:
  - title: Emissaries Guide to Worlding
    author: Ian Cheng
    link: https://serpentine-galleries.myshopify.com/products/coming-soon-ian-cheng-emissaries-guide-to-worlding
-   notes: The core idea of the masks - the cartoonist, the director, the hacker and the emissary - is wonderful and a new lens to look at the world through, so overall I'd recommend the book. But there was also an incredible over-indulgene from the author to live inside his own worlds (which feels very finite game like, not infinite game like). And the lack of people anywhere in his worlds is also problematic. That said - the book as an object is beautiful and wonderfully designed.
+   notes: The core idea of the masks - the cartoonist, the director, the hacker and the emissary - is wonderful and a new lens to look at the world through, so overall I'd recommend the book. But there was also an incredible over-indulgence from the author to live inside his own worlds (which feels very finite game like, not infinite game like). And the lack of people anywhere in his worlds is also problematic. That said - the book as an object is beautiful and wonderfully designed.
    date_finished: 7/8/19
    image: https://cdn.shopify.com/s/files/1/2113/7453/products/Cover_-_FINAL_002_1024x.jpg?v=1524225901
  - title: The Prisoner

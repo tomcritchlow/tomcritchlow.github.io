@@ -6,3 +6,5 @@
 [Overview of the 200 word RPG challenge](https://mkremins.github.io/blog/highlights-200-word-rpg)
 
 [The greatest story in gaming - legend of the five rings](https://www.youtube.com/watch?v=T9jxVbg_RWQ)
+
+[AI-generated MTG Cards](https://minimaxir.com/apps/gpt2-mtg/)
