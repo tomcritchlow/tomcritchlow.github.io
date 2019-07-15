@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Last Night
+   author: James Salter
+   link: https://www.amazon.com/Last-Night-Stories-James-Salter/dp/1400078415
+   date_finished: 07/14/19
+   notes: After reading All That Is I had to wash my palette and get back to some of his delicious writing. This was much more in line with Light Years and contained some lovely moments. None of the short stories will linger with me too long but it's a short read and I'd recommend it.
  - title: Emissaries Guide to Worlding
    author: Ian Cheng
    link: https://serpentine-galleries.myshopify.com/products/coming-soon-ian-cheng-emissaries-guide-to-worlding

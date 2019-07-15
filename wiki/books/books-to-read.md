@@ -18,8 +18,6 @@ https://austinkleon.com/2018/10/05/take-your-kid-to-work/
 
 Milkman - recc by All my stars: "I finished Milkman after the holiday. It is not just a great novel, it is a great 21st century novel—a book that could hold its own on a list including literature over the course of a hundred years. I miss reading it. I hope everyone checks it out, because even if it's not for you, it is good to see what a novel can do and can be in 2019 (well, 2018.)"
 
-[Asymmetry](https://www.amazon.com/dp/B074ZDRGBC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Lisa Halliday reccommended by Craig Mod on his podcast: https://craigmod.com/onmargins/007/
-
 Same same Peter Mendulsend
 
 https://twitter.com/vgr/status/1096253719761510400?s=19
@@ -34,9 +32,6 @@ How to do nothing - jenny odel
 
 [roadside picnic](https://robinrendle.com/notes/roadside-picnic/)
 
-Basically everything by James Salter but maybe especially the autobiography:
-
-<https://www.goodreads.com/book/show/174628.Burning_the_Days>
 
 Void Star! Is really good and central character is a contractor who can talk to AIs
 <https://twitter.com/speckledwords/status/1121814387478663173>
@@ -55,10 +50,6 @@ Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium 
 
 [The housekeeper and the professor](https://www.amazon.com/dp/0312427808/ref=cm_sw_r_cp_apa_i_PW50CbBR90GGQ)
 
-[Maps of the mind](https://twitter.com/pieratt/status/1143183857925152768)
-
-From here: <https://twitter.com/pieratt/status/1143183857925152768>
-
 [Always coming home](https://www.amazon.com/gp/product/1598536036/ref=dbs_a_def_rwt_hsch_vapi_thcv_p1_i5?utm_source=ayjay&utm_medium=email)
 
 [Pencil Me In: The Business Drawing Book for People Who Can't Draw](https://www.amazon.com/Pencil-Me-Business-Drawing-People/dp/0996006036/ref=as_li_ss_tl?ie=UTF8&qid=1506525482&sr=8-1&keywords=Pencil+Me+In&linkCode=sl1&tag=eleganthack&linkId=91875759326d29c1e42fa49604657967)
@@ -69,3 +60,4 @@ From here: <https://twitter.com/pieratt/status/1143183857925152768>
 
 Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
 
+<https://rogerstrunk.com/library>

@@ -1,10 +1,12 @@
 ---
 layout: blog
-title: Reflecting on my failed Google ideas
+title: Reflecting on things I failed to get done at Google
 subtitle: And what I can learn going forward about pitching new things
 ---
 
-It's five years since I left Google and I want to talk about four big ideas I had while at Google that I wish had been created, but also more importantly reflecting on *why* the ideas didn't gain traction internally at Google and what we can learn about successful innovation inside organizations.
+I worked at Google sometime 2012-2014 and I got nostalgic for the projects I never managed to get off the ground.
+
+I wanted to preserve these ideas on my blog but while I was thinking through them I realized there's also some interesting lessons to be learned about how not to pitch innovative ideas.
 
 All of these were ideated and pitched sometime 2012-2014 while I was working at Google Creative Lab or as part of the Google Jamboard team.
 
