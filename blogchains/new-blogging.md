@@ -1,0 +1,5 @@
+---
+layout: blogchain
+---
+
+Hello world.

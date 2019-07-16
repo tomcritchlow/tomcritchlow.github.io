@@ -56,6 +56,8 @@ Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium 
 
 <https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691166854>
 
+[The club of queer trades](https://www.gutenberg.org/ebooks/1696)
+
 --
 
 Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
