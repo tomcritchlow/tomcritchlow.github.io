@@ -17,8 +17,6 @@
   
   {% assign blogchain = page.path | replace: "blogchains/", "" | remove: ".md" %}
 
-{{page.path | replace: "blogchains/", "" | remove: ".md"}}
-
 {% for post in site.posts  %}
 {% if post.blogchain contains blogchain %}
 
