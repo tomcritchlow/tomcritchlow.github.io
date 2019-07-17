@@ -58,3 +58,9 @@ The only reason I'm able to build prototypes and high fidelity consulting is bec
 So, next time you're thinking of recommending action, don't just say "We could..." that's low-fidelity consulting. Show the thing. Packed into a prototype or visual mock-up is a strong point of view. Experience of what works. Something to adequately critique.
 
 Ideas AND details. Details AND ideas.
+
+--
+
+*Update: Maxim has a great little tweet thread on this:*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Low fidelity design gets high-level feedback; high fidelity designs get low-level feedback.</p>&mdash; Maxim Leyzerovich (@round) <a href="https://twitter.com/round/status/1151500868593836038?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
