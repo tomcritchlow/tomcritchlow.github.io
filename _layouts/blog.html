@@ -30,14 +30,16 @@
     {% assign blogchainfilter = page.blogchain %}
     {% assign blogchainpages = site.posts | where_exp: "item" , "item.blogchain contains blogchainfilter" | reverse %}
 
-    <div class="bg-near-white">Part of the {{page.blogchain}} blogchain <span class="fr blogchainexpand">+ expand</span></div>
-    <div class="dn blogchainlist">
-      <ul>
-        {% for page in blogchainpages %}
-        <li>{{page.title}}</li>
-        {% endfor %}
-      </ul>
+    <div class="bg-near-white">Part of the <a href="/blogchains/{{page.blogchain}}">{{page.blogchain}}</a> blogchain <span class="fr blogchainexpand">+ expand</span>
+      <div class="dn blogchainlist">
+          <ul>
+            {% for page in blogchainpages %}
+            <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
     </div>
+    
 
 <script>
             
