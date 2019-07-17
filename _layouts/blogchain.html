@@ -21,7 +21,14 @@
 
 {% for post in site.posts  %}
 {% if post.blogchain contains blogchain %}
-<p>The latest post from this series is: <a href="{{ post.url }}">{{ post.title }}</a> written on {{ post.date | date: "%-d %B %Y" }}.</p>
+
+
+<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+<p>Written on {{ post.date | date: "%-d %B %Y" }}.</p>
+
+{{post.content | truncatewords: 30}
+
+<hr>
 
 {% endif %}
 {% endfor %}
