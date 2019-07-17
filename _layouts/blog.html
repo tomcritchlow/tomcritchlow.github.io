@@ -27,7 +27,8 @@
   <div class="w-two-thirds-ns">
   
 {% if page.blogchain %}
-    {% assign blogchainpages = site.pages | where_exp: "item" , "item.blogchain contains page.blogchain" %}
+    {assign blogchainfilter = page.blogchain %}
+    {% assign blogchainpages = site.pages | where_exp: "item" , "item.blogchain contains blogchainfilter" %}
       {% for page in blogchainpages %}
         {{page.title}}
       {% endfor %}
