@@ -41,3 +41,4 @@ I've also gone back and strung my wiki/digital garden posts into a [Digital Gard
 
 I thought about stringing my strategy writing together into a blogchain but that's more finite game than infinite game as I try and strain against mediocrity to publish that writing into a physical book. We'll see - maybe blogchains will be so popular I convert my writing into one big blogchain...
 
+I'm not sure how much more writing and exploration I've got in me around annotations but that's definitely been an open ended exploration for the past year so it qualifies as a blogchain: [annotations](/blogchains/annotations/)

@@ -2,6 +2,7 @@
 title: Help me write my book by annotating the outline
 subtitle: Experiments in cultivating annotations on this site
 layout: blog
+blogchain: annotations
 ---
 
 Hey, let's try something new today. Two things I want to do:
