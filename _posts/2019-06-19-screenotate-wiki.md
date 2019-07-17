@@ -2,6 +2,7 @@
 title: Planting new varietals in my digital garden
 subtitle: or, how I'm using Screenotate to grab snippets of the web for my personal wiki
 layout: blog
+blogchain: digital-gardens
 ---
 
 Back in February of this year I realized that this blog could be more than a blog - that by virtue of being a static site I can maintain a local files+folders structure and use that to publish my own personal wiki to the web.

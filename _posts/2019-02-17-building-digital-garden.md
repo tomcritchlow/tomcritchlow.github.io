@@ -2,6 +2,7 @@
 layout: blog
 title: Building a digital garden
 subtitle: How I built myself a simple wiki using folders and files and published via Jekyll
+blogchain: digital-gardens
 ---
 
 ![](/images/digital-garden-cleaned.jpg)
