@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+Blogchains in progress:
+
+{% assign blogchains = site.pages | where_exp: "item" , "item.path contains blogchains" | %}
+
+<ul>
+
+{% for page in blogchains %}
+<li><a href="{{page.url}}">{{page.title}}</a></li>
+{% endfor %}
+</ul>
