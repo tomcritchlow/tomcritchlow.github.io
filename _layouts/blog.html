@@ -26,6 +26,11 @@
   
   <div class="w-two-thirds-ns">
   
+{% if page.blogchain %}
+    {% assign blogchainpages = site.pages | where_exp: "item" , "item.blogchain contains page.blogchain" %}
+    <div class="">Part of the {{page.blogchain}}</div>
+{% endif %}
+
   {{content}}
 
 
