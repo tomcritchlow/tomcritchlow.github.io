@@ -8,7 +8,7 @@ Hello world.
 
 For post in posts...
 
-{{page.path}}
+{{page.path | replace: "/blogchains/", "" | replace: ".md", ""}}
 
 {% for post in site.posts  %}
 {% if post.blogchain contains "strategy" %}
