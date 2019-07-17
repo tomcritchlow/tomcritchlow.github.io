@@ -4,11 +4,11 @@
 
     <div class="bg-near-white pa2 ma2 f5">Part of the <a href="/blogchains/{{page.blogchain}}">{{page.blogchain}}</a> blogchain <span class="fr-ns blogchainexpand">+ expand</span>
       <div class="dn blogchainlist">
-          <ul>
+          <ol>
             {% for page in blogchainpages %}
             <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endfor %}
-          </ul>
+          </ol>
         </div>
     </div>
     
