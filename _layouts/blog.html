@@ -32,7 +32,21 @@
       {% for page in blogchainpages %}
         {{page.title}}
       {% endfor %}
-    <div class="bg-near-white">Part of the {{page.blogchain}} blogchain</div>
+    <div class="bg-near-white">Part of the {{page.blogchain}} blogchain <span class="fr blogchainexpand">+ expand</span></div>
+    <div class="dn blogchainlist">
+      <ul>
+        {% for page in blogchain pages %}
+        <li>{{page.title}}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+<script>
+            var $blogchainclick = $(".blogchainclick");
+            $blogchainclick.on("click", function(e) {
+              $(".blogchainlist").toggle;
+            });
+</script>
 
 {% endif %}
 
