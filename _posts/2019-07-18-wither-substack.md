@@ -7,6 +7,8 @@ blogchain: small-medium-large
 
 Housekeeping: this is a new blogchain I'm kicking off that's going to be written back and forth between myself and [Brian](http://www.briandell.info/). The premise? We'll explore ideas in media - old and new. Small, medium, large.
 
+Today's the first installment - all about Substack...
+
 ## Wither Substack
 
 [Substack](https://substack.com/) - the email service for building paid-subscription emails for individual writers - just announced that they raised $15m from A16Z. 
@@ -42,3 +44,5 @@ And - surprise surprise there's a huge piece by A16Z on investing in the podcast
 > But for creators who don’t have the technical or financial resources to develop their own apps or piece together various third-party solutions to accept payments or manage members, there could be a turnkey platform for creators. Down the line, there’s opportunity to create a network of these creators and listeners, along the lines of “come for the tool, stay for the network.”
 
 Substack already has the beginnings of a podcast feature - it feels like a small nice to have feature today but could power their whole business in the next few years.
+
+Over to you Brian...
