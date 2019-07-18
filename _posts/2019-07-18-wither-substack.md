@@ -1,5 +1,5 @@
 ---
-title: Media Formats 1 - Wither Substack
+title: S, M, L 1 - Wither Substack
 subtitle: A new dual author blogchain around new media formats
 layout: blog
 blogchain: small-medium-large
