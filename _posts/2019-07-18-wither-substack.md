@@ -2,10 +2,10 @@
 title: Media Formats 1 - Wither Substack
 subtitle: A new dual author blogchain around new media formats
 layout: blog
-blogchain: media-formats
+blogchain: small-medium-large
 ---
 
-Housekeeping: this is a new blogchain I'm kicking off that's going to be written back and forth between myself and [Brian](http://www.briandell.info/). The premise? We'll explore new and old media formats, the changing landscape of media and more.
+Housekeeping: this is a new blogchain I'm kicking off that's going to be written back and forth between myself and [Brian](http://www.briandell.info/). The premise? We'll explore ideas in media - old and new. Small, medium, large.
 
 ## Wither Substack
 

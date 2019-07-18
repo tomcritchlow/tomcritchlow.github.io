@@ -1,7 +1,7 @@
 ---
 layout: blogchain
-title: Media Formats
-subtitle: Exploring new media formats and trends
+title: Small Medium Large
+subtitle: Exploring new ideas in media
 ---
 
 Co-written with [Brian Dell](http://www.briandell.info/)
