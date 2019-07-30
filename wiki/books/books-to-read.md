@@ -63,3 +63,9 @@ Invisible cities (Italo Calvino): This book reads like a hazy solipsistic opium 
 Good source of books here: [my years of reading](https://austinkleon.com/category/my-reading-years/)
 
 <https://rogerstrunk.com/library>
+
+--
+
+[Train dreams](https://www.amazon.com/Train-Dreams-Novella-Denis-Johnson/dp/1250007658) recommended by Robin Sloan
+
+[Way station](https://www.amazon.com/Way-Station-Clifford-D-Simak/dp/1504013212) - recc by Christopher Butler

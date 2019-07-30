@@ -49,3 +49,8 @@ source: [Not Relevant for Fantasy Purposes — Real Life](https://reallifemag.co
 --
 
 [High performing teams](https://docs.google.com/presentation/d/1CwT4q7bSQSIn8BPm7Xcoiy1Q8funZD8PwH-E2ShmCzo/edit#slide=id.g5267a7edd3_2_12)
+
+--
+
+[What theorizing is not, theorizing is](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Doctoral_Resources/Weick_What_theory_is_not_theorizing_is.pdf) - (pdf)
+
