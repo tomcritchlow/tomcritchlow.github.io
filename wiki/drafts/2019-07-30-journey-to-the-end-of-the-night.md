@@ -16,6 +16,8 @@ This might sound mushy but... Erin and I have carved out space for projects we r
 
 <iframe width="800" height="450" src="https://www.kickstarter.com/projects/erinprz/journey-to-the-end-of-the-night-a-childrens-book/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
+*There's also a small family announcement towards the end of the video so stick around for that!*
+
 It would mean a lot to me if you can support or share the Kickstarter to help make it a success - we passed the initial funding goal on day 1 but there's still extra stretch goals and more to do!
 
 I'm glad that both Erin and I have a chance to work at home, to turn working into a creative act and to do it around Roxy so she can see. A great reminder that it's healthy to [take your kid to work](https://austinkleon.com/2018/10/05/take-your-kid-to-work/).
