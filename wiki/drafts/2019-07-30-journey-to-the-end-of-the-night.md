@@ -1,5 +1,5 @@
 ---
-layout: tufte
+layout: blog
 title: Space for Creativity
 subtitle: Erin's Kickstarter - Journey to the End of the Night
 ---
