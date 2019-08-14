@@ -5,11 +5,15 @@ subtitle: Lost in the algorithms
 draft: true
 ---
 
-Rem Koolhaas provided context for modern space - for modern living - in his 2002 essay Junkspace. In the essay Rem provides a glimpse of the flattening, commercializing and colonizing of space:
+Rem Koolhaas provided context for modern space - for modern living - in his 2002 essay [Junkspace](https://www.readingdesign.org/junkspace). In the essay Rem provides a glimpse of the flattening, commercializing and colonizing of space:
 
 >"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
 
+Airports, air conditioning and aesthetics crash into each other to create a nothing-everything space that sprawls, and subsumes our physical environment.
+
 The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place, the airport becomes everywhere and nowhere.
+
+## Junkspace to Airspace to Junkfeeds
 
 In his essay Welcome to Airspace Kyle Chayka sees the bridge between the digital and physical, noting that digital technologies are re-shaping the world around us:
 
@@ -115,6 +119,12 @@ Search for brocolli online and you'll get not information, but entertainment. In
 
 Because every information source that is evergreen or static eventually succumbs to a feed, and then to a junkfeed.
 
+## Junkfeeds are predatory
+
+Algorithms spot patterns and link together little glimpses of naked kids on YOutube into a distributed stochastic pedophile playlist. A nightmare pathwork canvas constructed by the invisible hand of the algorithm
+
+
+
 ## Junkfeeds police our information
 
 Just becasue they are junkfeeds doesn't mean they don't care for them. Quite the opposite - vast machinery and infrastructure 
@@ -128,6 +138,10 @@ Try posting this article to Facebook - nothing will happen. No warning notice, n
 https://www.theverge.com/2019/7/3/20681231/facebook-outage-image-tags-captions-ai-machine-learning-revealed
 
 https://cdn.vox-cdn.com/thumbor/n_E1qFmLT7lWFmMrKJUEigJur3c=/0x0:1830x1324/1820x1213/filters:focal(745x117:1037x409):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64669486/Screen_Shot_2019_07_03_at_6.40.35_PM.0.png
+
+## Junkbrands
+
+
 
 ## Workspace is now junkspace (sorry, junkfeeds)
 
@@ -151,6 +165,14 @@ Users turn themselves into junkusers. Grown up drinking from the poisoned well t
 
 http://mylesudland.tumblr.com/post/182195239090/aaron-sorkin-is-bored
 
+https://tomcritchlow.com/2019/06/06/blood-in-the-feed/
+
+https://disquiet.com/2019/06/24/cyberdeck-2019/
+
+On the run from algorithms. Desperately trying to turn ourselves into Junkusers so that we can retain some agency, autonomy.
+
+But autonomy and identity are done. They're dead. Luxury concepts reserved for the high-minded.
+
 ## After the future of junkfeeds
 
 Where to from here? Will time continue to get subdivided. Junkfeeds become hyper-junkfeeds? On our wrists - in our ears - inside our eyeballs?
@@ -159,6 +181,7 @@ I wonder if the solution is not slow-tech, and slow-feeds and RSS but in fact th
 
 Production of content is still mostly human today - but there is a smell in the air. Change is coming. And junkfeeds, fed by junkcontent will accelerate the problem. Further pushing underground junkusers who seek to protect their identity and personal space in the seas of change.
 
+Welcome to junkfeeds world
 
 --
 
@@ -229,6 +252,7 @@ Americans spend quiet time in their car. Staring at their phone. At their junkfe
 An excellent version of the essay Junkspace appears here rendered in a beautiful digtial version by Caavia here: https://www.cavvia.net/junkspace/ and is a perfect digital companion to this essay.
 
 
+https://www.theawl.com/2015/06/a-complete-taxonomy-of-internet-chum/
 
 
 Thesis: industrialized and algorithmic feeds have sucked the "feed" dry. But there is value in subscribing to flows if we can learn to put the junkfeeds in their place and build smaller personal flows. We'll do that via 
@@ -259,3 +283,14 @@ Log into the wifi? Junkfeed.
 Open your banking app. Junkfeed.
 Google homepage? Junkfeed.
 
+
+--
+
+
+Junkfeeds 
+
+Crawl the web. Spiders. Or Crabs on LSD.
+
+Junkfeeds are the endless scroll of the website that slips out of our mouse. The chumlinks that spawn at the end of articles. The feeds that multiply when clicked. Every link, every action spawns pre-crimes of suggested searches.
+
+And the brands we buy are not even brands but shell containers owned by Amazon. Junkbrands.
