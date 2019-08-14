@@ -59,3 +59,8 @@ Skills of the mage (consultant):
 - Spells
 - Wisdom
 
+--
+
+“Ideas about a person's place in society, his role, lifestyle, and ego qualities will lose their hold as the cohesive forces in society disintegrate. Subculture values will proliferate to such a bewildering extent that a whole new class of professionals will arise to control them. Such a Transmutation Technology will deal in fashions, in ways of being. Lifestyle consultants will become the new priests of our civilizations. They will be the new magicians.”
+
+<https://www.goodreads.com/quotes/168042-ideas-about-a-person-s-place-in-society-his-role-lifestyle>

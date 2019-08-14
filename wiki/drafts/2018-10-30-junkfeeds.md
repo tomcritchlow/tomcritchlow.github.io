@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: undesign
 title: Junkfeeds
 subtitle: Lost in the algorithms
 draft: true
@@ -9,7 +9,15 @@ Rem Koolhaas provided context for modern space - for modern living - in his 2002
 
 >"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
 
-The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place, the airport becomes everywhere and nowhere. But our experience of space has been transformed once again - because every space now is a dual-space. Wherever we are, we are also in digital space. Our physical space - junkspace - is now just a backdrop for an equivalent junk-digital-space. The airport, once bastion of large bright shared screens is now just a row of seats with faces slumped into our personal screens.
+The essay uses the airport as the first spaces to become Junkspace. Out of time and out of place, the airport becomes everywhere and nowhere.
+
+In his essay Welcome to Airspace Kyle Chayka sees the bridge between the digital and physical, noting that digital technologies are re-shaping the world around us:
+
+> We could call this strange geography created by technology "AirSpace." It’s the realm of coffee shops, bars, startup offices, and co-live / work spaces that share the same hallmarks everywhere you go: a profusion of symbols of comfort and quality, at least to a certain connoisseurial mindset.
+
+In other words, the Junkspace of airports has become the Airspace of everywhre. Commoditized comfort. CBD-cozy.
+
+But our experience of space is transforming once again - because every space now is a dual-space. Wherever we are, we are also in digital space. Our physical space - junkspace - airspace - is now just a backdrop for an equivalent junk-digital-space. The airport, once bastion of large bright shared screens is now just a row of seats with faces slumped into our personal screens.
 
 Every physical space is now secondary - there is no physical space left that is the primary place we are. We are always primarily in digital space and secondarily in physical space.
 
@@ -116,6 +124,10 @@ Verge article on content moderators.
 Invisible infrastructure to ensure minimum viable sanitation.
 
 Try posting this article to Facebook - nothing will happen. No warning notice, no one will see it. The algorithms won't like it. This site is filtered automatically in their algorithms. 
+
+https://www.theverge.com/2019/7/3/20681231/facebook-outage-image-tags-captions-ai-machine-learning-revealed
+
+https://cdn.vox-cdn.com/thumbor/n_E1qFmLT7lWFmMrKJUEigJur3c=/0x0:1830x1324/1820x1213/filters:focal(745x117:1037x409):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64669486/Screen_Shot_2019_07_03_at_6.40.35_PM.0.png
 
 ## Workspace is now junkspace (sorry, junkfeeds)
 

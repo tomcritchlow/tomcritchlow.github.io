@@ -1,0 +1,29 @@
+<head>
+  <title>Tom Critchlow's Canon</title>
+  <meta name="viewport" content="width=device-width">
+
+  <style>
+    body{
+      max-width:600px;
+      margin:auto;
+      padding-top:50px;
+      line-height:1.3em;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>{{page.title}}</h1>
+
+{% if page.subtitle %}
+<h2>{{page.subtitle}}</h2>
+{% endif %}
+
+  {{content}}
+                                    
+
+
+{% include googleanalytics.html %}
+
+</body>
