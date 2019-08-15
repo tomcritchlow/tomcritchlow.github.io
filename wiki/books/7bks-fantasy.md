@@ -15,4 +15,6 @@ Terry Pratchett
 Redwall
 Perdido Street Station
 Lord of the rings
+Dragonlance
+Anne Mckafrey
 

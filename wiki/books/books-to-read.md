@@ -57,3 +57,12 @@ Good source of books here: [my years of reading](https://austinkleon.com/categor
 [Way station](https://www.amazon.com/Way-Station-Clifford-D-Simak/dp/1504013212) - recc by Christopher Butler
 
 [Less](https://www.amazon.com/dp/B01MSICPW3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+--
+
+[Tons of good sci-fi reccs in this thread](https://twitter.com/tomcritchlow/status/1161806203074306051)
+
+Including:
+
+The Dazzle of Day, by Molly Gloss
+A Memory Called Empire - Arkady Martine
