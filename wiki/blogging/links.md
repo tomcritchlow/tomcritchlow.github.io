@@ -16,3 +16,9 @@ source: [you-should-write-blogs - steveyegge2](https://sites.google.com/site/ste
 --
 
 [Google slides as blog](https://docs.google.com/presentation/d/1GWSFltGp0Qr9YKzu4cc_4eGhFcWCrzGN0zn5G0vp3mE/edit#slide=id.p)
+
+--
+
+>Summary: in this post I explain why you should start a blog (to help others and to help yourself), what to write about, and how to start it. I hope to persuade you that you should start a blog even if you feel that you have nothing to say and even if almost nobody will read it.
+
+source: [Why You Should Start a Blog Right Now - Alexey Guzey](https://guzey.com/personal/why-have-a-blog/)

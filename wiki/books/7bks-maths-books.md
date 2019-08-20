@@ -22,4 +22,8 @@ books:
    author: Apostolos Doxiadis
    link: https://www.amazon.com/dp/B004INH2F6/
    notes: A novel by the same guy behind Logicomix. This is a bit more mathsy but also a cracking story. More about sense of purpose, redemption and the quest for knowledge than it is about maths.
+ - title: Flatland
+   author: Edwin A Abbott
+   link: https://www.amazon.com/Flatland-Romance-Dimensions-Thrift-Editions/dp/048627263X   
+   notes: A delightful little story about a two dimensional object wrestling with the concept of three dimensions. Poetic.
 ---

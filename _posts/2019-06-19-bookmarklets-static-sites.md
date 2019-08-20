@@ -39,3 +39,7 @@ Yes, for now you need to hit cmd+c to copy the text because I was too lazy to au
 What would you like to script for your static site? Let me know and I'll try and help you build a bookmarklet for it!
 
 *By the way - this technique is great for more structured data too. I have a bookmarklet that is powering [this books list](https://tomcritchlow.com/wiki/books/books-read/) too. You run it on an Amazon page and it spits out the necessary Markdown frontmatter to add to my page in a structured way.*
+
+--
+
+*Update 8/20/19 - A few posts that came across my stream that extend this idea. Firstly this that walks through a full end to end publish experience: [indieweb link sharing](https://mxb.dev/blog/indieweb-link-sharing/) and this that seems to predate mine [Saving Links to My Site With a Bookmarklet(https://timkadlec.com/remembers/2018-02-06-saving-links-to-my-site-with-a-bookmarklet/).*
