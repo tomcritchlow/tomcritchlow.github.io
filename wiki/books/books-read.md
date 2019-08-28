@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Way Station
+   author: Clifford D. Simak
+   link: https://www.amazon.com/Way-Station-Clifford-D-Simak-ebook/dp/B00YO78RRS
+   date_finished: 8/25/19
+   notes: Lovely vintage sci-fi recommended by Chris Butler. There's aliens, teleporting and... magic? But nothing flashy happens - it's an incredibly human story. This is a really thoughtful and fresh story. Highly recommended.
  - title: Idiots First
    author: Bernard Malamud
    link: https://www.amazon.com/Idiots-First-Bernard-Malamud/dp/0374174202

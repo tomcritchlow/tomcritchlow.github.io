@@ -22,3 +22,9 @@ source: [you-should-write-blogs - steveyegge2](https://sites.google.com/site/ste
 >Summary: in this post I explain why you should start a blog (to help others and to help yourself), what to write about, and how to start it. I hope to persuade you that you should start a blog even if you feel that you have nothing to say and even if almost nobody will read it.
 
 source: [Why You Should Start a Blog Right Now - Alexey Guzey](https://guzey.com/personal/why-have-a-blog/)
+
+--
+
+>After Tatiana Mac proposed to bring webrings back, I hacked something new together over the weekend: A starter kit for hosting your own webring!
+
+source: [A Webring Kit | Max Böck - Frontend Web Developer](https://mxb.dev/blog/webring-kit/)
