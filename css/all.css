@@ -271,8 +271,9 @@ footer{
 }
 
 .tommenu{
-    background-color:rgba(0,0,0,0.6);
-    z-index:5
+    background-color:white;
+    z-index:5;
+    border-left:2px solid #00ff00;
   }
   
   
