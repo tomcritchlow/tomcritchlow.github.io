@@ -21,3 +21,5 @@ This resiliency means that while Github is a good host for me now there's zero l
 Triple entry blogging.
 
 https://www.jon-kyle.com/entries/2019-03-21-simple-ish-sites?2
+
+Workflowy does this to a degree - when you "export" all you do is open the same text in plain text for you to copy and paste elsewhere. This is the kind of portability we dream of.

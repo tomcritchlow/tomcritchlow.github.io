@@ -1,8 +1,10 @@
 ---
 ---
 
-https://gallery.manypixels.co/
+<https://gallery.manypixels.co/>
 
-https://absurd.design/
+<https://absurd.design/>
 
-https://www.humaaans.com/
+<https://www.humaaans.com/>
+
+<https://openmoji.org/>
