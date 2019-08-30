@@ -17,7 +17,12 @@ brand{color: #212121;}
 
 .tomgreen{color: #00ff00}
 
-brand:after{
+header{
+    border-left:8px solid #00ff00;
+    border-bottom:1px dotted grey;
+}
+
+/*brand:after{
     display: block;
     content: '';
     width: 50px;
@@ -26,7 +31,7 @@ brand:after{
     left: 3px;
     top: 22px;
     z-index: -1;
-}
+}*/
 
 .mobilemenu{
     display:none;
