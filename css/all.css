@@ -273,7 +273,7 @@ footer{
 .tommenu{
     background-color:white;
     z-index:5;
-    border-left:2px solid #00ff00;
+    border-left:1px dotted grey;
   }
   
   
