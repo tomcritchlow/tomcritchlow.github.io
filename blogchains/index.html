@@ -2,14 +2,13 @@
 layout: page
 ---
 
+<p><a href="/writing/">blog</a> / <a href="/blogchains/">blogchains</a></p>
+
 Blogchains in progress:
 
 {% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
 
 <ul>
-
-<p><a href="/writing/">blog</a> / <a href="/blogchains/">blogchains</a></p>
-
 {% for page in blogchains %}
 <li><a href="{{page.url}}">{{page.title}}</a></li>
 {% endfor %}
