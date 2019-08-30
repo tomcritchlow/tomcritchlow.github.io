@@ -4,9 +4,11 @@
 
 {% include header.html %}
 
+{% assign blogchain = page.path | replace: "blogchains/", "" | remove: ".md" %}
+
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l" role="article">
   
-<p>blog / blogchains / annotations</p>
+<p><a href="/writing/">blog</a> / <a href="/blogchains/">blogchains</a> / {{blogchain}}</p>
 
     <div class="pt4 pt5-l w-two-thirds-ns">
     
@@ -22,8 +24,6 @@
 
   {{content}}
   
-  {% assign blogchain = page.path | replace: "blogchains/", "" | remove: ".md" %}
-
 {% for post in site.posts  %}
 {% if post.blogchain contains blogchain %}
 
