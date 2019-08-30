@@ -2,6 +2,7 @@
 layout: blog
 title: Four Years on the Road
 subtitle: Sustainability, Independence & The Unknown
+blogchain: on-the-road
 ---
 
 *October 24th is the anniversary of when I quit my last full time job to head out as an independent consultant. Catch up with [2 years on the road](https://tomcritchlow.com/2016/10/24/2-years/) and [3 years on the road](https://tomcritchlow.com/2017/10/24/3-years/)*
