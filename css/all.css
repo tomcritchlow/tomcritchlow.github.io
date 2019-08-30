@@ -262,10 +262,6 @@ footer{
     width: 30px;
 }
 
-.hamburger.is-active .hamburger-inner, .hamburger.is-active .hamburger-inner::before, .hamburger.is-active .hamburger-inner::after {
-    background-color: white;
-}
-
 .hamburger.is-active:hover {
     opacity: 1;
 }
