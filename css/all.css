@@ -274,6 +274,7 @@ footer{
     background-color:white;
     z-index:5;
     border-left:1px dotted grey;
+    border-bottom:1px dotted grey;
   }
   
   
