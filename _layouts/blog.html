@@ -33,6 +33,10 @@
 
   {% include blogchain-nav-bottom.html %}
 
+  {% if page.blogchain %}
+
+  {% else %}
+
   <div class="Previous-next f6 cf pb4">
     {% if page.previous.url %}
     <div class="fl w-40">
@@ -47,6 +51,8 @@
     </div>
     {% endif %}
   </div>
+
+  {% endif %}
 
 <div class="f5 i">
   This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
