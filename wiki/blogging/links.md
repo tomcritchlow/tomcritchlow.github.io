@@ -40,3 +40,11 @@ source: [Nadia Eghbal | The tyranny of ideas](https://nadiaeghbal.com/ideas)
 >The catch is, a Wild Thoughts blog can only be a source of renewal and rebirth if it remains wild. For that, it must remain free. In a way, I am like Max, and I’ve decided not to go back for my supper from the land of Wild Thoughts. Instead, I’ve pitched a tent inside, and put up a trading post at the periphery. Visiting me in the woods is free. Stuff at the trading post costs money.
 
 source: [Where the Wild Thoughts Are](https://www.ribbonfarm.com/2011/03/01/where-the-wild-thoughts-are/) (from 2011!)
+
+--
+
+>While reading The Death and Life of Great American Cities, I was struck by how applicable many of her observations were to the internet today, despite being published twenty years before its invention.
+
+>One of the most useful concepts I picked up is her treatment of public and private life, which I’d like to break down in this post. We tend to think of privacy as a binary distinction, but Jacob identifies several types of public-private life which, I think, can help us think and talk about our online interactions today.
+
+source: [Nadia Eghbal | Reclaiming public life](https://nadiaeghbal.com/public-life)
