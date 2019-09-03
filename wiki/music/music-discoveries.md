@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: LE MONDE DU COUNTRY 75 
+   author: Musicophilia
+   image: https://musicophilia.files.wordpress.com/2019/09/musicophilia_00_le-monde-du-country-75_1971-1975_2019_cover.jpg?w=1536
+   notes: staying away from slick Nashville sounds and focusing in on the more adventurous, expansive things happening in and adjacent to Country in the mid-70s.  The rhythms are funkier, the politics are more palatable, the production is lower-key, the lyrics generally more personal and thoughtful in their story-telling way.  Call it “Country for people who don’t like Country” if you want–but I’d argue it’s also truer to what Country music should be
+   href: https://musicophilia.wordpress.com/2019/09/01/country-75/
  - title: the book of traps and lessons
    author: kate tempest
    image: https://lastfm-img2.akamaized.net/i/u/174s/dd30f522bae3699daf98da832dedfa07.png

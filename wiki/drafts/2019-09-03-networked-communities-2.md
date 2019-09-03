@@ -31,6 +31,8 @@ I recently read the wonderful post [reclaiming public life](https://nadiaeghbal.
 
 The premise of it is that communities can only form where these hybrid not-quite-public and not-quite-private spaces exist where trust can be higher and serendipitous interactions more frequent.
 
+The benefits of blogging I believe are more akin to the benefits of going to a block party than
+
 ## Neighborhood Gardens
 
 I've used the digital garden metaphor a bunch.
