@@ -29,6 +29,7 @@ https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-s
 The Jane Jacobs idea of sidewalk life often revolves around meeting places - places of utility like coffee shops, corner delis and hardware stores.
 
 
+Blogchats https://www.kickscondor.com/nadia-eghbal
 
 
 Maybe this makes an appearance? https://www.ribbonfarm.com/2017/09/14/how-to-make-history/
