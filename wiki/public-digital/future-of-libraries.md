@@ -22,7 +22,3 @@ source: [Libraries in the Digital Age: A Case Study in Equipping Librarians with
 >We need to develop — both among library patrons and librarians themselves — new critical capacities to understand the distributed physical, technical and social architectures that scaffold our institutions of knowledge and program our values. And we must consider where those infrastructures intersect — where they should be, and perhaps aren’t, mutually reinforcing one another. When do our social obligations compromise our intellectual aspirations, or vice versa? And when do those social or intellectual aspirations for the library exceed — or fail to fully exploit — the capacities of our architectural and technological infrastructures? Ultimately, we need to ensure that we have a strong epistemological framework — a narrative that explains how the library promotes learning and stewards knowledge — so that everything hangs together, so there’s some institutional coherence. We need to sync the library’s intersecting infrastructures so that they work together to support our shared intellectual and ethical goals.
 
 source: [Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/)
-
---
-
-[How American Cities Got Their Libraries - CityLab](https://www.citylab.com/design/2019/02/american-public-library-history-cities-visual-journalism/582991/)

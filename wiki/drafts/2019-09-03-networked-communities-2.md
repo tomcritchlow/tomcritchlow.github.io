@@ -6,7 +6,23 @@ subtitle: Musings on bringing sidewalk life to blogs
 
 *I'm starting a new blogchain with Brendan Schlagel called "Networked Communities" to explore ideas around blogging, social writing, networked communities and more. Catch up [the first post on his site here](https://www.brendanschlagel.com/2019/09/01/weaving-a-public-web-or-why-dont-i-blog-more/).*
 
-Why don't I blog more? Is the opening gambit of Brendan's post - but I'd like to propose a reframing of how we think about writing. I've often led with the introspective argument - that blogging is *good for you* it has *benefits for you*.
+Brendan kicked off the series musing on "flavors of epistemic uncertainty for the blogger":
+
+> It strikes me there are a few flavors of epistemic uncertainty for the blogger. Roughly, these might be:
+
+>Uncertainty of purpose: what is this even about? Am I writing for me or for others? Will I achieve anything by writing this?
+>Uncertainty of effort: how much commitment required? How much time, thought, energy? Blogging can seen unbounded, intimidating…
+>Uncertainty of reception: will anyone read or care? Will it resonate, or endure in any perceivable way? Barring that, might it even start an interesting conversation?
+
+>Why don't I blog more? Is the opening gambit of Brendan's post - but I'd like to propose a reframing of how we think about writing. I've often led with the introspective argument - that blogging is *good for you* it has *benefits for you*.
+
+This thinking falls in line with a common refrain I've often repeated - "you should blog! It's great for you!"
+
+There's valid inquiry here but maybe there's a new line of thinking, something that goes along the lines of:
+
+## Blogging is a social responsibility to your networks
+
+What if 
 
 But perhaps there's a social responsibility to blogging?
 
