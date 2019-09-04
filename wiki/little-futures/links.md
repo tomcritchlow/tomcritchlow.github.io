@@ -10,3 +10,9 @@ source: [Per My Last E-mail #8](https://packym.substack.com/p/per-my-last-e-mail
 In addition to reading the book, the course should take about 8-10 hours to complete, including reading, watching and listening to the additional resources and taking the quizzes.  I hope that you find it to be time well-spent. If you complete the course, including the final assignment, I will send you a Loonshots Diploma:
 
 source: [Loonshots Learning Playlist — Packy McCormick](https://www.packym.com/blog/loonshots)
+
+--
+
+>Part of our mission at the Future Today Institute is to develop a culture of foresight in every organization. For that reason, the Future Today Institute's research and tools are now open source and licensed under a Creative Commons Attribution- NonCommercial-ShareAlike 4.0 International License. 
+
+source: [Foresight Tools – The Future Today Institute](https://futuretodayinstitute.com/foresight-tools/)
