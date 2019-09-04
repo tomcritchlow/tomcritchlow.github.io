@@ -63,4 +63,4 @@ But where next? What might a corner-store or a hardware store look like as a mee
 
 I'm excited to experiment and find out.
 
-Either way in order for there to be a network we need people blogging - so come sit on the stoop and get blogging. It'll be better for all of us.
+Either way, in order for there to be a network we need people blogging - so come sit on the stoop and get blogging. It'll be better for all of us.
