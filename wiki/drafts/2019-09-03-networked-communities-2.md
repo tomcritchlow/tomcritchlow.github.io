@@ -43,19 +43,23 @@ And networks can't self-sustain without participation - so maybe the best argume
 
 ## The Future of Comments?
 
-One feature of sidewalk life is meeting places. Discussion. 
+One feature of sidewalk life is the meeting places - things like cafes, corner stores, hardware stores{% include tufte-sn.html id="hardware" content="For further reading check out this wonderful piece <a href='https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-store/'>community plumbing - a history of the hardware store'</a>" %}. Place people can bump into each other, pass through, congregate, meet and gossip.
+
+The internet's seamless, endless, edgeless nature makes these meeting places few and far between.
+
+When people bemoan the death of blogs are they really lamenting the death of comments?
+
+I've tried a few experiments recently to actively cultivate conversation on my site - [once in hypothesis annotations](https://tomcritchlow.com/2019/07/12/annotate-the-outline/) and [once in disqus comments](https://tomcritchlow.com/2016/08/25/community/). The conversations there are delightful, but they're broadly speaking... unsustainable.
+
+Blogchats are one way to create discussion - I loved [this recent one between Kicks Condor and Nadia](https://www.kickscondor.com/nadia-eghbal)
+
+Perhaps webmentions (or something like it) is the answer from the Indieweb crowd?
 
 
-https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-store/
-
-The Jane Jacobs idea of sidewalk life often revolves around meeting places - places of utility like coffee shops, corner delis and hardware stores.
-
-
-Blogchats https://www.kickscondor.com/nadia-eghbal
 
 
 
 
-Deliberate prompts are a simple way to foster conversation. Like a block party where you deliberately invite people into a set of behaviours. I've done this with disqus comments and with Hypothesis annotations. They both "work" in the sense that 
+
 
 So maybe what we need is more people blogging - to create more semi-public individuals - and more sidewalks that are little corners to hang out.
