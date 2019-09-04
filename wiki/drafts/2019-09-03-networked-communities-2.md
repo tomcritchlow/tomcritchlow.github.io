@@ -17,7 +17,9 @@ Brendan kicked off the blogchain series by musing on "flavors of epistemic uncer
 
 >Uncertainty of reception: will anyone read or care? Will it resonate, or endure in any perceivable way? Barring that, might it even start an interesting conversation?
 
-*"Why don't I blog more?"* Is the opening gambit of Brendan's post - and I've often thought the same. On the other side of the coin I frequently advocate for blogging with an argument that *"Blogging is good for you!"*. Both of these are broadly speaking introsopective arguments. Why don't I blog more, you should blog. I/you/me.
+*"Why don't I blog more?"* Is the opening gambit of Brendan's post - and I've often thought the same. On the other side of the coin I frequently advocate for blogging with an argument that *"Blogging is good for you!"*. Both of these are broadly speaking introsopective arguments. Why don't I blog more, you should blog.
+
+I/you/me.
 
 But maybe there's a new line of thinking - that brings in **we**.
 
@@ -39,27 +41,26 @@ I believe blogging communities can act like "digital sidewalk life" - semi-publi
 
 But sidewalk life doesn't exist in busy highways (i.e. Twitter, Facebook) and they can't sustain themselves in closed-door suburbia with no meeting places (non-addressable email lists).
 
-And networks can't self-sustain without participation - so maybe the best argument for blogging is not because it's good for you but because it's good for us.
+And networks can't self-sustain without participation - so maybe the best argument for blogging is not because it's good for you but because it's good for... us?
 
-## The Future of Comments?
+## But Where is the Digital Sidewalk?
 
-One feature of sidewalk life is the meeting places - things like cafes, corner stores, hardware stores{% include tufte-sn.html id="hardware" content="For further reading check out this wonderful piece <a href='https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-store/'>community plumbing - a history of the hardware store'</a>" %}. Place people can bump into each other, pass through, congregate, meet and gossip.
+But how do you turn a loose collection of blogs into a community?
+
+One feature of sidewalk life is the meeting places - things like cafes, corner stores, hardware stores{% include tufte-sn.html id="hardware" content="For further reading check out this wonderful piece <a href='https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-store/'>community plumbing - a history of the hardware store</a>" %}. Place people can bump into each other, pass through, congregate, meet and gossip.
 
 The internet's seamless, endless, edgeless nature makes these meeting places few and far between.
 
-When people bemoan the death of blogs are they really lamenting the death of comments?
+For me - most discussion around my blog posts happens on Twitter. And it strikes me that social media didn't kill blogging - but it did kill comments.
 
 I've tried a few experiments recently to actively cultivate conversation on my site - [once in hypothesis annotations](https://tomcritchlow.com/2019/07/12/annotate-the-outline/) and [once in disqus comments](https://tomcritchlow.com/2016/08/25/community/). The conversations there are delightful, but they're broadly speaking... unsustainable.
 
-Blogchats are one way to create discussion - I loved [this recent one between Kicks Condor and Nadia](https://www.kickscondor.com/nadia-eghbal)
+Blogchats are one way to create discussion - I loved [this recent one between Kicks Condor and Nadia](https://www.kickscondor.com/nadia-eghbal).
 
-Perhaps webmentions (or something like it) is the answer from the Indieweb crowd?
+And this cross-domain blogchain is another way to experiment.
 
+But where next? What might a corner-store or a hardware store look like as a meeting place and anchor for a community of semi-public, semi-private blogs?
 
+I'm excited to experiment and find out.
 
-
-
-
-
-
-So maybe what we need is more people blogging - to create more semi-public individuals - and more sidewalks that are little corners to hang out.
+Either way in order for there to be a network we need people blogging - so come sit on the stoop and get blogging. It'll be better for all of us.
