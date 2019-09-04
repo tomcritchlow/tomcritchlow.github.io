@@ -21,7 +21,7 @@ Brendan kicked off the blogchain series by musing on "flavors of epistemic uncer
 
 I/you/me.
 
-But maybe there's a new line of thinking - that brings in **we**.
+But maybe there's a new line of thinking - that brings in **us**.
 
 ## Blogging is a social responsibility to your networks
 
