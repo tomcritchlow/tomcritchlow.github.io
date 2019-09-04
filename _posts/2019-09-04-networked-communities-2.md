@@ -35,7 +35,7 @@ I recently read the wonderful post [reclaiming public life](https://nadiaeghbal.
 
 > Sidewalk life gives us access to unexpected encounters and opportunities in ways that private social gatherings do not
 
-The premise of sidewalk life it is that communities can only form where these hybrid not-quite-public and not-quite-private spaces exist where trust can be higher and serendipitous interactions more frequent{% include tufte-sn.html id="gate" content="<img src='/images/public-gate.jpg' /> The gate between the public and private - by Theodore Zeldin in the book Conversation" %}.
+The premise of sidewalk life it is that communities can only form where these hybrid not-quite-public and not-quite-private spaces exist where trust can be higher and serendipitous interactions more frequent.
 
 I believe blogging communities can act like "digital sidewalk life" - semi-public, semi-private affairs that foster serendiptiy, cooperation, support and sharing.
 
