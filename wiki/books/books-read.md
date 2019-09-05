@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Conversation -  How Talk Can Change Our Lives
+   author: Theodore Zeldin
+   link: https://www.amazon.com/Conversation-How-Talk-Change-Lives/dp/1587680009
+   date_finished: 09/04/19
+   notes: A delightful little book that was a gift from my friend Brian. A little meditation on conversations, how important they are and some of the explicit and implicit ways they can go wrong. At first I thought this was going to offer solutions and ideas but mostly it just offers poetry and provocations. I think it'll stick with me for a long time though - and the art from the author scattered through the book makes a lovely little object. Thanks Brian!
  - title: Recursion
    author: Blake Crouch
    link: https://www.amazon.com/Recursion-Novel-Blake-Crouch-ebook/dp/B07HDSHP7N
