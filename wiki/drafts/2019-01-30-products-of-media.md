@@ -1,8 +1,22 @@
 ---
 layout: blog
-title: The future of games is content and the future of content is games
-subtitle: Products of media
+title: The Products of Media
+subtitle: Games and utiilities
 ---
+
+Revamping an old post.
+
+Successful media orgs are developing product capabilities to take advantage of the product experiences the web offers.
+
+NYT crosswords / cooking drives meaningful part of their subscriptions
+
+Robin Kwong has a post on this too I think? Uber game example.
+
+Needs to be separate from editorial operation. Requires R&D.
+
+
+
+
 
 I don't know why it was so surprising when I read it. But when I saw the headline I suddenly realized all at once that we're in a new era.
 

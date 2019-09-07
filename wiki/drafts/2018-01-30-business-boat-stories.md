@@ -28,3 +28,5 @@ There’s two trends I want to cover:
 Deep sea fishing (i.e. small teams with disproportionate income that leads to the rise of free agents and fuzzy business boundaries)
 
 Week notes
+
+https://twitter.com/genmon/status/1169670037352984577
