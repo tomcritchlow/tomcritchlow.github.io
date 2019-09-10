@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Tempo - timing, tactics and strategy in narrative-driven decision-making 
+   author: Venkatesh Rao
+   link: https://www.amazon.com/Tempo-tactics-strategy-narrative-driven-decision-making-ebook/dp/B0069CHSLW
+   date_finished: 09/09/19
+   notes: I really should have read this years ago but I really enjoyed this piece. The core ideas around tempo of interactions, narrative time and that the kitchen is the best way to think about time will all stick with me for a while. Recommended.
  - title: Conversation -  How Talk Can Change Our Lives
    author: Theodore Zeldin
    link: https://www.amazon.com/Conversation-How-Talk-Change-Lives/dp/1587680009
