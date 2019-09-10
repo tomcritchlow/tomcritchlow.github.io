@@ -70,3 +70,7 @@ A Memory Called Empire - Arkady Martine
 --
 
 [Counterproductive: Time Management in the Knowledge Economy](https://www.amazon.com/dp/B07JHZWTCS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+--
+
+Gideon the Ninth ([recc by Robin Sloan](https://desert.glass/newsletter/week-16-and-a-half/#text))
