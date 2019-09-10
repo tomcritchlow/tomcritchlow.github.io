@@ -22,3 +22,7 @@ Digital bookshelves that I admire:
 <https://www.winstonhearn.com/read/>
 
 <https://jordankoschei.com/reading/>
+
+<https://chasem.co/books/>
+
+<http://boris.libra.re/library/>
