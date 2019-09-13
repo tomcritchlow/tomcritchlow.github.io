@@ -70,3 +70,7 @@ Skills of the mage (consultant):
 >Beauty vloggers—mostly young and femme-presenting—appear to be strangely vulnerable to spirit possession, ghost hauntings, and more. 
 
 source: [Why Youtubers See Ghosts | Rhizome](https://rhizome.org/editorial/2019/jul/05/why-youtubers-see-ghosts/)
+
+--
+
+<https://twitter.com/shryma/status/1171843845249732608>
