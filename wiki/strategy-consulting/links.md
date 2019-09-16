@@ -54,3 +54,8 @@ source: [Not Relevant for Fantasy Purposes — Real Life](https://reallifemag.co
 
 [What theorizing is not, theorizing is](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Doctoral_Resources/Weick_What_theory_is_not_theorizing_is.pdf) - (pdf)
 
+--
+
+>Learning results from the adaptive and manipulative interactions between an organization and its environments: experimental actions are important because organizations rarely master their environments so that they can develop lasting optimal responses... Long-term survival calls for surveillance of opportunities, whereas short-term coping concentrates upon problematic search. Most organizations have much of the latter and little of the former (Thompson, 1967). Yet, if organizations are to survive in hostile and changing environments, they must change strategies and pursue new development patterns. Organizational design should encourage experimenting so that organizations attain long-term viability.
+
+source: [How Organizations Learn and Unlearn (Hedberg, 1981)](http://johnljerz.com/superduper/tlxdownloadsiteWEBSITEII/id167.html)
