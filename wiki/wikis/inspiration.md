@@ -20,3 +20,7 @@ And there's lots more too - [this twitter thread](https://twitter.com/tomcritchl
 --
 
 Here's an interesting project from the NYT that uses gdocs as a backend to generate a wiki! [Library](https://open.nytimes.com/we-built-a-collaborative-documentation-site-deploy-your-own-with-the-push-of-a-button-134de99c42fc)
+
+--
+
+<http://johnljerz.com/superduper/tlxdownloadsiteWEBSITEII/id3.html>

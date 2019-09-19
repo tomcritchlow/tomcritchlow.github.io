@@ -74,3 +74,9 @@ A Memory Called Empire - Arkady Martine
 --
 
 Gideon the Ninth ([recc by Robin Sloan](https://desert.glass/newsletter/week-16-and-a-half/#text))
+
+--
+
+The Art of Community (Spencer Heath MacCallum): I’ve been looking for reading about commercial buildings as microcosmic “cities” and finally found this book, published in 1970, through a friend. Within the first few pages, I wanted to reach across the fifty-year divide and clasp hands with the author. MacCallum asks, “Is a hotel a community?” and proceeds to explore the idea of “proprietary communities”, such as shopping malls, airplanes, and RV parks, where unaffiliated individuals are bound by the contracts they make to the proprietor of an organization. MacCallum argues that sovereignty (or "institutionalized force") is merely an awkward transition between “primitive” and proprietary communities, both of which represent the true best form of social organization. (Unsurprisingly, his grandfather was an ex-Georgist.) I didn’t agree with everything in this book, but it left me with a lot of good questions. It made me think about the ways in which big tech companies are also proprietary communities (consider the recent WIRED piece about Google’s internal culture!). It also gave me some missing vocabulary I’ve needed to express how one-to-many communities are structured differently from many-to-many communities (ex. an open source maintainer is often a sole proprietor who allocates scarce resources, like attention, on behalf of all contributors). I desperately want to talk to someone about this book; it looks like I snagged the last copy on Amazon, but it’s also available via Internet Archive here. Perhaps one day some kind soul will republish this book and give it the love it deserves.
+
+[from here](https://tinyletter.com/nayafia/letters/things-that-happened-in-august-2)

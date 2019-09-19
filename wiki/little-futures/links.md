@@ -16,3 +16,16 @@ source: [Loonshots Learning Playlist — Packy McCormick](https://www.packym.com
 >Part of our mission at the Future Today Institute is to develop a culture of foresight in every organization. For that reason, the Future Today Institute's research and tools are now open source and licensed under a Creative Commons Attribution- NonCommercial-ShareAlike 4.0 International License. 
 
 source: [Foresight Tools – The Future Today Institute](https://futuretodayinstitute.com/foresight-tools/)
+
+--
+
+>in this field, and the Big Future claims made by PUS/PEST practitioners are contrasted to the Little Futures of everyday life. With the aid of a ‘speculative’ sensibility, Little Futures are then shown to be potential sources of Big Futures. The paper ends with a preliminary attempt to theorize the complex interactions of Big and Little Futures through Isabelle Stengers’ (2010) notion of an ‘ecology of practices’.  
+
+source: [Enacting big futures, little futures: toward an ecology of futures](https://ore.exeter.ac.uk/repository/handle/10871/26106)
+
+--
+
+Big Futures:
+
+<https://www.hypergiant.com/>
+
