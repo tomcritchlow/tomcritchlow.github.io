@@ -30,7 +30,7 @@ In this post:
 
 First though, some narrative theory...
 
-##In media res
+## In media res
 
 “In media res” literally means “in the middle of things” and it’s a narrative device that movies and books use all the time. Open with the protagonist leaping through the air between buildings, tentacles grasping mid-air behind… and then figure out a way to explain what’s going on later.
 
@@ -69,7 +69,7 @@ The trick is that a “small” piece of work (more on pricing later) is often a
 
 The eagle-eyed among you might notice that the “scope” for this workshop is incredibly loose. These aren’t workshops that have a ton of programming and heavy agenda - they should be more jam session than pre-programmed workshop.
 
-##Jam Sessions
+## Jam Sessions
 
 “Workshop” is a difficult word. People mean lots of different things and workshops can come in many flavors{% include tufte-sn.html id="flavors" content="See this post from Howard on the <a href='https://www.howardgray.net/2019/02/26/3-flavours-of-workshop/'>three flavors of workshops</a>." %}.
 
@@ -95,7 +95,7 @@ Without room for improvisation, sparring and discussion you won’t get enough o
 
 And typically I restrict these sessions to no more than 5-6 people - beyond that it’s hard to hear the individual voices and people start to put on masks and behave differently around each other. **If you want the truth, keep the group small.**
 
-##Conversation prompts for running an effective jam session
+## Conversation prompts for running an effective jam session
 
 Just because it’s a free-jam session doesn’t mean you can’t prepare and think ahead to how you’ll explore the client’s reality.
 
@@ -161,7 +161,7 @@ To get around this thinking - let’s take an example. Let’s say you’re an e
 
 Now, stop and think - do you truly believe that this client’s brand marketing challenges can be solved in a day? Brand marketing is expensive! It’s slow! There’s no way you can solve this in one day.
 
-So what are you actually selling here? Clarity. And clarity is valuable! 
+**So what are you actually selling here? Clarity. And clarity is valuable!**
 
 ## Four interesting anecdotes from my own work
 

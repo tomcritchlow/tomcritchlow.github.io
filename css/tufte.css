@@ -16,7 +16,6 @@ body { width: 87.5%;
        counter-reset: sidenote-counter; }
 
 h1 { font-weight: 400;
-     margin-top: 4rem;
      margin-bottom: 1.5rem;
      font-size: 3.5rem;
      line-height: 1; }
@@ -57,7 +56,7 @@ h1, h2, h3, p.subtitle{ width:55%; }
 .danger { color: red; }
 
 article { position: relative;
-          padding: 5rem 0rem; }
+          }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
