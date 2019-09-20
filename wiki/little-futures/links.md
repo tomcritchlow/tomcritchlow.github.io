@@ -23,6 +23,8 @@ source: [Foresight Tools – The Future Today Institute](https://futuretodayinst
 
 source: [Enacting big futures, little futures: toward an ecology of futures](https://ore.exeter.ac.uk/repository/handle/10871/26106)
 
+
+<https://www.diva-portal.org/smash/get/diva2:1318384/FULLTEXT01.pdf>
 --
 
 Big Futures:
