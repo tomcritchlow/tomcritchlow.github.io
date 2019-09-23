@@ -25,6 +25,7 @@ In this post:
 
 - Why clarity is important for both consultant and client
 - How to structure a workshop for outcomes, not happiness
+- A series of conversation prompts to run effective jam-sessions
 - Why you shouldn’t undersell yourself (aka selling one day’s work for $4,000)
 - Some examples from my own work
 
