@@ -3,6 +3,10 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: stepping into tomorrow
+   author: donald byrd
+   image: https://lastfm-img2.akamaized.net/i/u/174s/1ab166b50e7253427bd11a8fd6d80ed6.png
+   notes: The future! From 1974. Beautiful energetic jazz. Contains the "think twice" track that I've had in my head forever... 
  - title: LE MONDE DU COUNTRY 75 
    author: Musicophilia
    image: https://musicophilia.files.wordpress.com/2019/09/musicophilia_00_le-monde-du-country-75_1971-1975_2019_cover.jpg?w=1536
