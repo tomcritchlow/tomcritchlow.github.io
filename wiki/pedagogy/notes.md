@@ -28,3 +28,13 @@ TODO: a prototype similar to the above from the opposite end of the spectrum i.e
 --
 
 [this archive of Patrick Tanguay's learning newsletter](https://us1.campaign-archive.com/home/?u=2d18872a86265596ebede7307&id=f327e351f7)
+
+--
+
+>hyperlink.academy is an online university that lives in the links between personal websites. Here we learn about the internet.
+>
+>The structure is simple. The academy has 6-week long semesters. Anyone is welcome to enroll and anyone can facilliate a course on anything related to the internet (programming, communities, hardware, music, anything).
+>
+>If you complete at least 1 course during a semester, you graduate and get a ~sticker~.
+
+source: [hyperlink.academy](https://hyperlink.academy/)
