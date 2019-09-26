@@ -48,3 +48,9 @@ source: [Where the Wild Thoughts Are](https://www.ribbonfarm.com/2011/03/01/wher
 >One of the most useful concepts I picked up is her treatment of public and private life, which I’d like to break down in this post. We tend to think of privacy as a binary distinction, but Jacob identifies several types of public-private life which, I think, can help us think and talk about our online interactions today.
 
 source: [Nadia Eghbal | Reclaiming public life](https://nadiaeghbal.com/public-life)
+
+--
+
+>In my opinion writing is a public act, we must learn (even the most introverted of us) to share our work with a readership. 
+
+source: [sync pdf](http://sync.abue.io/issues/190823db_sync2_34_giver.pdf)

@@ -24,3 +24,7 @@ In-context, edutainment, powerful education and learning moments.
 TODO: a prototype similar to the above from the opposite end of the spectrum i.e. entirely self directed instead of forced linear learning. What would that look like?
 
 <https://www.packym.com/blog/process-course> - love this idea for building a mini curriculum for a topic that you're passionate about.
+
+--
+
+[this archive of Patrick Tanguay's learning newsletter](https://us1.campaign-archive.com/home/?u=2d18872a86265596ebede7307&id=f327e351f7)
