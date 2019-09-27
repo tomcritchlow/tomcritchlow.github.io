@@ -33,7 +33,7 @@ Based off my theory of [small b blogging](https://tomcritchlow.com/2018/02/23/sm
 
 This chapter will cover designing client engagement that set you up for success and for long term retainers (which are the lifeblood of a sustainable practice). From designing the engagement to the nuts and bolts of pricing and contract review.
 
-**Workshops as trust builders**. A lot of my work starts with relatively modest workshops with the key stakeholders in the room. One of the benefits of this is being able to structure much more open ended and broad stroke engagements (and scopes) off the back of it. This post is not yet written.
+**Workshops as trust builders**. A lot of my work starts with relatively modest workshops with the key stakeholders in the room. One of the benefits of this is being able to structure much more open ended and broad stroke engagements (and scopes) off the back of it. Read more in the post [workshops as portals](https://tomcritchlow.com/2019/09/23/workshops/).
 
 **Designing pricing and proposals**. Lots of things to be written here. For now - a great resource is the [sample proposals](https://www.alanweiss.com/styles/pdf/Sample%20Proposals.pdf) [pdf] from Alan Weiss.
 
