@@ -4,7 +4,7 @@ title: Consulting Success Podcast
 subtitle: Talking trust, networking and indie consulting
 ---
 
-Thanks to Michael for having me on the Consulting Success podcast.
+Thanks to Michael for having me on the [Consulting Success podcast](https://www.consultingsuccess.com/growing-a-solo-consulting-business-with-tom-critchlow).
 
 ![](https://www.consultingsuccess.com/wp-content/uploads/2019/09/growingasoloconsultingbusinesswithtomcritchlowB.png)
 
