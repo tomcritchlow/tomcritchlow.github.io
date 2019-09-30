@@ -10,3 +10,5 @@
 <https://sfpc.io/>
 
 <https://www.newinc.org/>
+
+<http://www.theschoolofmakingthinking.com/>
