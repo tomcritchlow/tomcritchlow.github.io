@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: A Gentleman in Moscow
+   author: Amor Towles
+   link: https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles-ebook/dp/B01COJUEZ0
+   date_finished: 10/03/19
+   notes: Amor is a wonderful writer with so many lyrical touches, flourishes and turns of phrase. The feel of the book of politics, culture and acting in the proper way is great. Without posting spoilers there's a few themes in the book that make me feel like the book was written by a man - that some of the more emotionally rich moments are skipped over... But overall highly recommended as a fun, engaging and lyrical book.
  - title: Tempo - timing, tactics and strategy in narrative-driven decision-making 
    author: Venkatesh Rao
    link: https://www.amazon.com/Tempo-tactics-strategy-narrative-driven-decision-making-ebook/dp/B0069CHSLW
