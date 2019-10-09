@@ -10,3 +10,5 @@
 [Gil Scott Heron - Your Daddy Loves You](https://www.youtube.com/watch?v=uhAGRzT4bio)
 
 [Cat's in the cradle](https://www.youtube.com/watch?v=KUwjNBjqR-c)
+
+[fuck this writing is raw](https://www.briannawolfson.com/nonfiction)
