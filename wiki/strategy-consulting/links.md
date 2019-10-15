@@ -59,3 +59,7 @@ source: [Not Relevant for Fantasy Purposes — Real Life](https://reallifemag.co
 >Learning results from the adaptive and manipulative interactions between an organization and its environments: experimental actions are important because organizations rarely master their environments so that they can develop lasting optimal responses... Long-term survival calls for surveillance of opportunities, whereas short-term coping concentrates upon problematic search. Most organizations have much of the latter and little of the former (Thompson, 1967). Yet, if organizations are to survive in hostile and changing environments, they must change strategies and pursue new development patterns. Organizational design should encourage experimenting so that organizations attain long-term viability.
 
 source: [How Organizations Learn and Unlearn (Hedberg, 1981)](http://johnljerz.com/superduper/tlxdownloadsiteWEBSITEII/id167.html)
+
+--
+
+[Contextual Wireframe Presentation by 𝐌𝐚𝐱𝐢𝐦 𝐋𝐞𝐲𝐳𝐞𝐫𝐨𝐯𝐢𝐜𝐡 on Dribbble](https://dribbble.com/shots/6179363-Contextual-Wireframe-Presentation)

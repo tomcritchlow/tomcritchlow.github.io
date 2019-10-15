@@ -54,3 +54,9 @@ source: [Nadia Eghbal | Reclaiming public life](https://nadiaeghbal.com/public-l
 >In my opinion writing is a public act, we must learn (even the most introverted of us) to share our work with a readership. 
 
 source: [sync pdf](http://sync.abue.io/issues/190823db_sync2_34_giver.pdf)
+
+--
+
+>Think of creating a blog as you would think of writing on a page in a notepad. Or scribbling on the back of an envelope and handing it to someone. It takes two minutes at most to create a blog at wordpress.com. And from then on, you have a "place" to post emails you that are post-worthy
+
+source: [Scripting News: Blogs are little things](http://scripting.com/2019/10/11/130545.html)
