@@ -22,3 +22,11 @@ source: [Collective Wisdom · Works in Progress](https://wip.pubpub.org/collecti
 >But what about their information architecture? Almost all of them are built in a feed structure, while the information architecture of the Internet is almost completely hidden behind the scene. There is no ‘Facebook homepage’ that presents updates, requiring you to click on the update, go to the update page, and then click back to return to the homepage.
 
 source: [News media should rethink their website architecture](https://medium.com/global-editors-network/news-media-should-rethink-their-website-architecture-5df20f7f0436)
+
+--
+
+>“Rappers got their start by releasing rawer, uncut mixtapes to the streets. These tapes were more frequent, less polished, and had samples we knew damn well weren’t cleared! But once the artist got popular, their studio albums were more polished, had radio-friendly singles, big-name producers, and a slow song or two to broaden appeal.
+>
+>When artists focus on albums and stop making mixtapes (or mixtape-type music), they risk losing the audience that fueled their rise. But if artists stuck only with mixtapes, there’s a higher chance they might never breakout. Doing both allows them to grow while staying true to their roots. That’s why Lil’ Wayne’s run from 2005-2009 was so iconic. He released classic mixtapes and albums to maintain both audiences.”
+
+source: [How Tyler Perry Built a Customer-Centric Empire - Trapital by Dan Runcie](https://trapital.co/2019/10/17/how-tyler-perry-built-a-customer-centric-empire/)
