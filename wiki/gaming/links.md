@@ -8,3 +8,5 @@
 [The greatest story in gaming - legend of the five rings](https://www.youtube.com/watch?v=T9jxVbg_RWQ)
 
 [AI-generated MTG Cards](https://minimaxir.com/apps/gpt2-mtg/)
+
+[normality](http://www.1km1kt.net/rpg/Normality.pdf)
