@@ -4,7 +4,7 @@ title: Collected writings on Theory & Practice for Independent Consultants
 subtitle: A book outline
 ---
 
-The Strategic Independent will eventually become a book{% include tufte-sn.html id="date" content="Sometime in 2019 if all goes to plan!"%}. For now, I've collected my writing within the broad themes the book will cover. Plenty of gaps and more to write. If you see sections or ideas not currently addressed I'd love to hear from you: tjcritchlow@gmail.com
+The Strategic Independent will eventually become a book{% include tufte-sn.html id="date" content="Mid-2020 if all goes to plan."%}. For now, I've collected my writing within the broad themes the book will cover. Plenty of gaps and more to write. If you see sections or ideas not currently addressed I'd love to hear from you: tjcritchlow@gmail.com
 
 {% for post in site.posts  %}
 {% if post.tags contains "strategy" %}
@@ -12,6 +12,8 @@ The Strategic Independent will eventually become a book{% include tufte-sn.html 
 {% break %}
 {% endif %}
 {% endfor %}
+
+There's also an [annotated version of this outline with 70+ comments and notes here](https://tomcritchlow.com/2019/07/12/annotate-the-outline/).
 
 Right now - the book will cover the following broad topics:
 
