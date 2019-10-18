@@ -21,13 +21,14 @@
     </div>
 
   {{content}}
-  
+ 
+<ol>
 {% for post in site.posts  %}
 {% if post.blogchain contains blogchain %}
 
 
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
-<p class="f6 f6-s black-50 pv1">Written on {{ post.date | date: "%-d %B %Y" }}.</p>
+<li><p><a href="{{ post.url }}">{{ post.title }}</a></p>
+<p class="f6 f6-s black-50 pv1">Written on {{ post.date | date: "%-d %B %Y" }}.</p></li>
 
 {{ post.content | truncatewords:60 | strip_html }}
 
@@ -35,7 +36,7 @@
 
 {% endif %}
 {% endfor %}
-
+</ol>  
 </div>
 </div>
 
