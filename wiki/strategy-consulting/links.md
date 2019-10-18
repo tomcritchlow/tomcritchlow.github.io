@@ -63,3 +63,9 @@ source: [How Organizations Learn and Unlearn (Hedberg, 1981)](http://johnljerz.c
 --
 
 [Contextual Wireframe Presentation by 𝐌𝐚𝐱𝐢𝐦 𝐋𝐞𝐲𝐳𝐞𝐫𝐨𝐯𝐢𝐜𝐡 on Dribbble](https://dribbble.com/shots/6179363-Contextual-Wireframe-Presentation)
+
+--
+
+>A survey of over 1600 civil servants in Pakistan and India found that “simply presenting evidence to policymakers doesn’t necessarily improve their decision-making,” with respondents indicating “that they had to make decisions too quickly to consult evidence and that they weren’t rewarded when they did.” No wonder Deloitte’s Reimagining Measurement initiative, which asked more than 125 social sector leaders what changes they most hoped to see in the next decade, identified “more effectively putting decision-making at the center” as the sector’s top priority.
+
+source: [Why Your Hard Work Sits on the Shelf — and What to Do About It](https://medium.com/@iandavidmoss/this-is-why-your-hard-work-sits-on-the-shelf-and-heres-what-to-do-about-it-a7ca5e063038)
