@@ -22,7 +22,7 @@ Yes, some platforms let you ask "why am I seeing this ad" to provide a pretense 
 
 ## Implied Logic
 
-So, when I see a specific ad - for example this one:
+Sometimes when I see a specific ad - for example this one:
 
 ![](/images/bonobosad.png)
 
