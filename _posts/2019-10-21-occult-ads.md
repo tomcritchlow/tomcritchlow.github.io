@@ -58,6 +58,10 @@ This creates a stressful environment where our brains are constantly scanning th
 
 If you could scroll through an endless feed of my personal ads what would you learn about me?
 
+Here's a collage of the latest FB ads I scrolled through:
+
+![](/images/personalads.png)
+
 Where do we place our superstition? In astrology or the industrial programmatic ad complex? Which is a better mirror of our personality?
 
 Algorithms are predatory. They hunt for conditions. There's blood in the feed. Every ad is a pre-crime, perfectly tailored to my base needs and desires. The algorithms taste it and they're thirsty.
