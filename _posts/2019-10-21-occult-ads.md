@@ -50,11 +50,11 @@ Increasingly therefore we can look at the feed of ads shown to us as being a mir
 
 This creates a stressful environment where our brains are constantly scanning the environment for categories to apply to ourselves and constantly creating narratives of pre-crimes for every single ad we see.
 
-Watch ad. Should I buy a watch?
-Tax prep ad. Is it tax season?
-Vodka ad. Do they think I'm an alcoholic?
-Opioid addiction recover ad. Will I become a drug addict one day?
-Pregnancy ad. Am I pregnant?
+- Watch ad. Should I buy a watch?
+- Tax prep ad. Is it tax season?
+- Vodka ad. Do they think I'm an alcoholic?
+- Opioid addiction recover ad. Will I become a drug addict one day?
+- Pregnancy ad. Am I pregnant?
 
 If you could scroll through an endless feed of my personal ads what would you learn about me?
 
