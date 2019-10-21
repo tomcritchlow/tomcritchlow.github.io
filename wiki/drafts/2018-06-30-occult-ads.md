@@ -40,7 +40,7 @@ Yes, some platforms let you ask "why am I seeing this ad" providing a pretense o
 
 ![](/images/fbadobfuscation.png)
 
-## Enter the occult
+## The Programmatic Mirror
 
 So as the expected behaviour trends towards being rational, with a logic provided for why I'm seeing watch ads (I clicked a watch website!) increasingly we can look at the ads shown us as a mirror to our own wants and needs.
 
