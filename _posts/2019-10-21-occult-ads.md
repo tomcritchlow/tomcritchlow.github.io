@@ -4,9 +4,7 @@ title: Occult Ads
 subtitle: Superstition and the industrial programmatic ad complex
 ---
 
-Ads take a psychographic toll on us. They confuse, interrupt and interrogate us.
-
-The social contract for advertising has shifted dramatically - in a short span the default mental model of "ads are defined by the channel" has been inverted to the default of "ads are defined by user targeting".
+Ads take a psychographic toll on us. They confuse, interrupt and interrogate us. And the social contract for advertising is shifting dramatically - in a short span the default mental model of "ads are defined by the channel" has been inverted to the default of "ads are defined by user targeting".
 
 In short ads have become personal mirrors. But at what cost?
 
