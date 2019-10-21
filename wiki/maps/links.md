@@ -12,3 +12,9 @@ Walkable stories:
 [https://walkkumano.com/](https://walkkumano.com/) from Craig Mod
 
 [https://arroyo.jon-kyle.com/](https://arroyo.jon-kyle.com/) from Jon Kyle
+
+--
+
+<https://harryjosephine.com/portfolio/flaneur/>
+
+<https://www.mixital.co.uk/dmks-s3-gzip/texteditor/containsstronglanguage/flaneur_popup.html>
