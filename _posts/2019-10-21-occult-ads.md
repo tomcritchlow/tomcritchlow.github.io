@@ -8,7 +8,7 @@ Ads take a psychographic toll on us. They confuse, interrupt and interrogate us.
 
 In short ads have become personal mirrors. But at what cost?
 
-Programmatic advertising, Cambridge Analytica and the lived experience of Instagram reveal to normal end users the underlying machinery at work. You would have to be blind not to spot the connection between clicking on a watch ad and then seeing a million watch ads ([as I document in my post blood in the feed](https://tomcritchlow.com/2019/06/06/blood-in-the-feed/))
+Programmatic advertising, Cambridge Analytica and the lived experience of Instagram reveal to normal end users the underlying machinery at work. You would have to be blind not to spot the connection between clicking on a watch ad and then seeing a million watch ads (as I document in my post [blood in the feed](https://tomcritchlow.com/2019/06/06/blood-in-the-feed/))
 
 ## Obfuscated Meaning
 
@@ -19,6 +19,8 @@ But there's a lot of mysticism left, and most platforms provide almost zero visi
 Yes, some platforms let you ask "why am I seeing this ad" to provide a pretense of transparency but the results are laughably meaningless:
 
 ![](/images/fbadobfuscation.png)
+
+## Implied Logic
 
 So, when I see a specific ad - for example this one:
 
