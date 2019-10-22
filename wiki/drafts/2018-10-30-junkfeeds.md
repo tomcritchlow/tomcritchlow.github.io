@@ -331,3 +331,29 @@ OR e-flux?
 Infinite headlines.
 
 End with a provocation for next. Where do junkfeeds end? They demand ever bigger pipes. Industrial strength 5 then 6 then 10G bandwidth. To breathlessly carve out the time into small units that can be recombined, curated and fed back to us in the feed
+
+--
+
+https://www.are.na/block/1445659
+https://livestream.com/internetsociety2/cybercon/videos/166218296
+
+>I’d like to think that the act of archiving is itself a kind of resistance to durational information that can’t be separated from the flow of time, by clearly fixing it in space. 
+
+>But we need to see these feeds differently — let’s print them, interrupt them, archive, redistribute, and inhabit them with new agendas. With the help of artists, archivists, and activists, let’s de-focus our gaze and look for breaches, breaks, and leaks that resist smooth flow. Let's teach ourselves new ways to see. How else to prepare for total uncertainty.
+
+--
+
+https://en.wikipedia.org/wiki/Space_of_flows
+
+>Castells then discusses new media and communication technologies based around networks, arguing that they are contributing to a fundamental change in culture. The new development is a 'culture of real virtuality', which describes a culture that is organized around electronic media.[3] He says that 'the space of flows and timeless time are the material foundations of a new culture',[6] that of the network society. The concept of 'timeless time' refers to the collapsing of time in global informational networks, for example automated financial transactions.
+
+source: [The Information Age: Economy, Society and Culture - Wikipedia](https://en.wikipedia.org/wiki/The_Information_Age:_Economy,_Society_and_Culture#The_Rise_of_the_Network_Society)
+
+--
+
+
+https://twitter.com/robhorning/status/1186663941734326272
+
+--
+
+https://mailchi.mp/cb0071e0a9a5/kneelingbus-852561?e=a68912ab79
