@@ -65,3 +65,7 @@ While today this is true for blockchain projects perhaps the world of tomorrow c
 ## In Conclusion
 
 There's no clear way forward. The accelerating world of technology and culture is going to increasingly challenge our existing notions of how brands work and how brand marketing works. There are no answers but it's clear that the first step is to take another look at the environement that your brand operates in and attempt to understand the market and marketing reality of your audiences. Only then can we start to formulate new, better, different ways forward.
+
+--
+
+*Update #1: My friend Jim Babb (linked above) brought up the idea of phenomenology as a reference point: <https://www.youtube.com/watch?v=fNcMnV9DGh0>*
