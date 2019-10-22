@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Understanding Marketing Realities
-subtitle: How to survey the digital landscape and get better experience data
+subtitle: Making sense of modern brand marketing
 ---
 
 I have a fundamental belief that the human brain is ill-suited to understanding the hyper-scale realities of digital media. The size, speed and fragmentation astound and confound our basic ideas of scale, shared reality and culture.
