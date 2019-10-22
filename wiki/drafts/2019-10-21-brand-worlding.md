@@ -35,7 +35,7 @@ In particular, this can help higlight the uneasy lived experience of digital ads
 Of course, experience "data" only gets you so far. Where the quantiative stops the qualitative begins. I've been a champion of ethnography in business for a while and I really enjoyed this clear-eyed post on attempting to [discern between insight and noise](https://ethnographicmind.com/insight-or-noise/) for a startup using the tools of ethnography:
 
 >The critical eye of ethnography can scrutinize the problematic nature of a startup’s we-built-it-in-the-garage mythology. Removed too far from reality, startups often rely too heavily on initial visions. And when vision leads the way, insights and reality, including (and especially) ethnographic insight, tends to challenge (and sometimes support) that vision.
->
+
 >At the same time, the critical eye of ethnography can serve as a valuable tool for investors to evaluate start-up stories, helping determine whether these new ideas meet customer needs while also assessing whether their organizational cultures are a good fit to accomplish the challenge at-hand. Because it’s when the two are in conversation—customer needs and organizational culture aptitude—that new and unexpected opportunities for entrepreneurs become reality. And as such, ethnography should be considered a valuable tool in the startup world, for evaluating new ideas and generating them, too. Rather than looking to ethnography to validate or verify, its greater value is in guiding and inspiring a startup.
 
 ## Reconciling The Intangibles
