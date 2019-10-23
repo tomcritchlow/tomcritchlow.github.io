@@ -80,3 +80,7 @@ source: [Why Youtubers See Ghosts | Rhizome](https://rhizome.org/editorial/2019/
 <http://lifewinning.com/magic/bibliography/>
 
 <http://astrolokeys.com/>
+
+--
+
+<https://www.amazon.com/Alchemy-Curious-Science-Creating-Business/dp/006238841X/>

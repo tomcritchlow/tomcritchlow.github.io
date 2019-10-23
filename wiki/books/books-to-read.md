@@ -92,3 +92,5 @@ The Art of Community (Spencer Heath MacCallum): I’ve been looking for reading 
 <https://monoskop.org/images/1/16/Rossi_Aldo_The_Architecture_of_the_City_1982_OCR_parts_missing.pdf>
 
 --
+
+[The Future of Another Timeline | IndieBound.org](https://www.indiebound.org/book/9780765392107)

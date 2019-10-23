@@ -28,11 +28,11 @@ One way to do this is via an ethnographic study of your audiences and their live
 
 >Of our six shoppers, two saw no Glossier targeted ads or social posts at all. Of the remaining four, only one saw any display ads. These four saw several sponsored posts on Instagram and Facebook.
 
-In particular, this can help higlight the uneasy lived experience of digital ads. From spooky predictive ads to aggressive retargeting and more. More in my posts [blood in the feed](https://tomcritchlow.com/2019/06/06/blood-in-the-feed/) & [occult ads](https://tomcritchlow.com/2019/10/21/occult-ads/).
+In particular, this can help highlight the uneasy lived experience of digital ads. From spooky predictive ads to aggressive retargeting and more. More in my posts [blood in the feed](https://tomcritchlow.com/2019/06/06/blood-in-the-feed/) & [occult ads](https://tomcritchlow.com/2019/10/21/occult-ads/).
 
 ## Experience Ethnographies
 
-Of course, experience "data" only gets you so far. Where the quantiative stops the qualitative begins. I've been a champion of ethnography in business for a while and I really enjoyed this clear-eyed post on attempting to [discern between insight and noise](https://ethnographicmind.com/insight-or-noise/) for a startup using the tools of ethnography:
+Of course, experience "data" only gets you so far. Where the quantitative stops the qualitative begins. I've been a champion of ethnography in business for a while and I really enjoyed this clear-eyed post on attempting to [discern between insight and noise](https://ethnographicmind.com/insight-or-noise/) for a startup using the tools of ethnography:
 
 >The critical eye of ethnography can scrutinize the problematic nature of a startup’s we-built-it-in-the-garage mythology. Removed too far from reality, startups often rely too heavily on initial visions. And when vision leads the way, insights and reality, including (and especially) ethnographic insight, tends to challenge (and sometimes support) that vision.
 
@@ -56,7 +56,7 @@ Ultimately of course true success hangs in the balance and tension between brand
 
 ## Headless Brands
 
-All of the above however is predicated on a top down "controlled" version of brand marekting. Perhaps the future will be less centralized - perhaps the future will be decentralized or [headless brands](https://otherinter.net/web3/headless-brands/):
+All of the above however is predicated on a top down "controlled" version of brand marketing. Perhaps the future will be less centralized - perhaps the future will be decentralized or [headless brands](https://otherinter.net/web3/headless-brands/):
 
 >the rise of networked media has challenged the coherence of centrally-managed brand identities. New blockchain-based decentralized organizations take this a step further by giving users financial incentive to spread brand narratives of their own. We introduce the concept of headless brands to explain the community-driven brand dynamics of projects which have no centralized managerial body. We describe some elements of a headless brand's lifecycle, from formation to adoption, and suggest strategies to maintain a brand's coherence.
 
@@ -64,7 +64,7 @@ While today this is true for blockchain projects perhaps the world of tomorrow c
 
 ## In Conclusion
 
-There's no clear way forward. The accelerating world of technology and culture is going to increasingly challenge our existing notions of how brands work and how brand marketing works. There are no answers but it's clear that the first step is to take another look at the environement that your brand operates in and attempt to understand the market and marketing reality of your audiences. Only then can we start to formulate new, better, different ways forward.
+There's no clear way forward. The accelerating world of technology and culture is going to increasingly challenge our existing notions of how brands work and how brand marketing works. There are no answers but it's clear that the first step is to take another look at the environment that your brand operates in and attempt to understand the market and marketing reality of your audiences. Only then can we start to formulate new, better, different ways forward.
 
 --
 
