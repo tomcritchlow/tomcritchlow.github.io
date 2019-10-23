@@ -26,3 +26,5 @@ Digital bookshelves that I admire:
 <https://chasem.co/books/>
 
 <http://boris.libra.re/library/>
+
+<http://www.squeakland.org/resources/books/readingList.jsp>
