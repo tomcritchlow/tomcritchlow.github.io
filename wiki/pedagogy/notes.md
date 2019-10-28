@@ -38,3 +38,7 @@ TODO: a prototype similar to the above from the opposite end of the spectrum i.e
 >If you complete at least 1 course during a semester, you graduate and get a ~sticker~.
 
 source: [hyperlink.academy](https://hyperlink.academy/)
+
+--
+
+<https://hapgood.us/2016/10/10/new-directions-in-open-education/>

@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Nix
+   author: Nathan Hill
+   link: https://www.amazon.com/Nix-Nathan-Hill/dp/1101970340
+   date_finished: 10/28/19
+   notes: Abandoned 500 pages in. I tried to keep going but just couldn't. A Very Bad Book. Highly un-recommended. <a href='https://www.currentaffairs.org/2017/09/how-novelty-ruined-the-novel'>This is a good takedown</a>. So many characters are badly written sexually frustrated males and it's just all round a bad book. Couple sentences worth savoring but.. ugh.
  - title: A Gentleman in Moscow
    author: Amor Towles
    link: https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles-ebook/dp/B01COJUEZ0

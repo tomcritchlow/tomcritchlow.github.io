@@ -60,3 +60,11 @@ source: [sync pdf](http://sync.abue.io/issues/190823db_sync2_34_giver.pdf)
 >Think of creating a blog as you would think of writing on a page in a notepad. Or scribbling on the back of an envelope and handing it to someone. It takes two minutes at most to create a blog at wordpress.com. And from then on, you have a "place" to post emails you that are post-worthy
 
 source: [Scripting News: Blogs are little things](http://scripting.com/2019/10/11/130545.html)
+
+--
+
+<https://www.are.na/laurel-schwulst/humans-start-your-blogs>
+
+>Here, we report the results of an ethnographic investigation of blogging in a sample of ordinary bloggers. We investigated blogging as a form of personal communication and expression, with a specific interest in uncovering the range of motivations driving individuals to create and maintain blogs.
+
+source: <https://artifex.org/~bonnie/pdf/Nardi_why_we_blog.pdf>
