@@ -2,6 +2,7 @@
 layout: blog
 title: New Blogging 2 - Open Blogchains
 subtitle: Minimum Viable Infrastructure
+blogchain: new-blogging
 ---
 
 This past week has seen a lot of chatter about blogging. Mostly kicked off by this tweet:
