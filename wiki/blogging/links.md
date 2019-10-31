@@ -68,3 +68,9 @@ source: [Scripting News: Blogs are little things](http://scripting.com/2019/10/1
 >Here, we report the results of an ethnographic investigation of blogging in a sample of ordinary bloggers. We investigated blogging as a form of personal communication and expression, with a specific interest in uncovering the range of motivations driving individuals to create and maintain blogs.
 
 source: <https://artifex.org/~bonnie/pdf/Nardi_why_we_blog.pdf>
+
+--
+
+>For some reason I’m thinking of what Carrie Fisher once said in an interview: “Take your broken heart, and turn it into art.” I suppose that the equivalent for me would be “take your broken heart, and turn it into a book about design systems.” Or better yet: “take your broken heart and blog.”
+
+source: [Take your broken heart and blog ･ Robin Rendle](https://www.robinrendle.com/notes/take-your-broken-heart-and-blog)

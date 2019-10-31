@@ -16,3 +16,7 @@ Collage Art:
 <https://lsimpsonstudio.com/>
 
 <https://www.google.com/search?q=Benedetta+Cappa>
+
+--
+
+[The Critical Internet Atlas](http://internet-atlas.net/)
