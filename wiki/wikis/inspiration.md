@@ -24,3 +24,16 @@ Here's an interesting project from the NYT that uses gdocs as a backend to gener
 --
 
 <http://johnljerz.com/superduper/tlxdownloadsiteWEBSITEII/id3.html>
+
+--
+
+>Prior to the fellowship the research I did was spontaneous and infrequent enough that my ad hoc system of typing out highlights by hand into a one or more markdown files and sorting through them manually worked alright. But now that I'm dealing with many, many more pages of research, this system has become kind of unwieldy.
+>
+>Here I'll go over the tools I've built over the past couple years (most within the past year) to make this process more manageable. They are mostly meant to address a few key pain points:
+>
+>Aggregating highlights from across several platforms (phone, desktop, and eReader) into a central repository
+>Capturing charts and other graphics
+>Tagging and organizing highlights
+>Generating footnotes
+
+source: [space and times](https://spaceandtim.es/etc/research_tools/)
