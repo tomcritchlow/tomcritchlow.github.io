@@ -30,3 +30,5 @@ Deep sea fishing (i.e. small teams with disproportionate income that leads to th
 Week notes
 
 https://twitter.com/genmon/status/1169670037352984577
+
+https://www.slideshare.net/ommalik/how-to-tell-your-story-a-simple-framework-for-startups-188319803/
