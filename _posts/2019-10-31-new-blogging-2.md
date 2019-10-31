@@ -32,7 +32,7 @@ So where to from here?
 
 One small experiment is the "Open Blogchain". We've already explored [blogchains](https://tomcritchlow.com/2019/07/17/blogchains/) & [cross-site blogchains](https://tomcritchlow.com/blogchains/networked-communities/) but what are Open Blogchains?
 
-From CJ:
+From [CJ Eller](https://blog.cjeller.site/blogging-futures):
 
 >The course is structured like a giant ongoing discussion made through blog posts. Each week there will be a prompt post which will include some questions and resources to riff off of. They can be found in the blogchain towards the bottom.
 >
