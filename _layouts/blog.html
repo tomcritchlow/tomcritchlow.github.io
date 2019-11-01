@@ -107,7 +107,6 @@ var disqus_config = function () {
   <summary>Webmention stuff</summary>
   <ul class="webmentionlikes">
     Likes <span id="like-count"></span>:
-    <div id="like-template"></div>
   </ul>
   <ul class="webmentionreposts">
     Reposts:
@@ -156,15 +155,17 @@ function renderLikes(likes) {
   for(var i in likes){
     $(".webmentionlikes").append(likes[i].data.author.name);
   }
-  
+
 }
 
 function renderReposts(){
 
 };
 
-function renderReplies(){
-
+function renderReplies(replies){
+  for(var i in replies){
+    $(".webmentionlikes").append(likes[i].source);
+  }
 };
 
 </script>
