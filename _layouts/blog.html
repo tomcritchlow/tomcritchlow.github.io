@@ -101,16 +101,34 @@ var disqus_config = function () {
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                    
+ 
+<div class="">
+<details>
+  <summary>Webmention stuff</summary>
+  
+</details>
+</div>
+
+<script>
+$( document ).ready(function() {
+  $.getJSON( "https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target=https://tomcritchlow.com/2019/10/21/occult-ads/", function( data ) {
+    var items = [];
+    $.each( data, function( key, val ) {
+      items.push( "<li id='" + key + "'>" + val + "</li>" );
+    });
+
+    $( "<ul/>", {
+      "class": "my-new-list",
+      html: items.join( "" )
+    }).appendTo( "body" );
+  });
+});
+</script>
+
 
 </div>
 </div>
 
-{% if page.draft == true %}
-<div class="absolute f2 red top-2 tc w-100">
-  DRAFT
-</div>
-{% endif %}
 
 
 {% include footer.html %}
