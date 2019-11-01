@@ -102,7 +102,7 @@ var disqus_config = function () {
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
  
-<div class="">
+<div class="webmentions">
 <details>
   <summary>Webmention stuff</summary>
   
@@ -111,18 +111,16 @@ var disqus_config = function () {
 
 <script>
 $( document ).ready(function() {
-  var webmentionurl = "https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target="+window.location.href;
-  $.getJSON( webmentionurl, function( data ) {
-    var items = [];
-    $.each( data, function( key, val ) {
-      items.push( "<li id='" + key + "'>" + val + "</li>" );
-    });
 
-    $( "<ul/>", {
-      "class": "my-new-list",
-      html: items.join( "" )
-    }).appendTo( "body" );
+  function parseWebmentions(json){
+    console.log(json);
+  }
+
+  $.getJSON("https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target="+window.location.href,function(json){
+    console.log(json);
   });
+
+
 });
 </script>
 
