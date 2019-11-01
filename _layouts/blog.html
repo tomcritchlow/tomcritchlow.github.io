@@ -110,9 +110,7 @@ var disqus_config = function () {
 </div>
 
 <script>
-$( document ).ready(function() {
-
-  function webMentions(json){
+function webMentions(json){
     for(var i in json.links){
       $(".webmentions").append(json.links[i].source)
     };
@@ -125,8 +123,6 @@ $.ajax({
   jsonpCallback: "webMentions"
 });
 
-
-});
 </script>
 
 
