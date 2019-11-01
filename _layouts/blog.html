@@ -111,7 +111,8 @@ var disqus_config = function () {
 
 <script>
 $( document ).ready(function() {
-  $.getJSON( "https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target=https://tomcritchlow.com/2019/10/21/occult-ads/", function( data ) {
+  var webmentionurl = "https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target="+window.location.href;
+  $.getJSON( webmentionurl, function( data ) {
     var items = [];
     $.each( data, function( key, val ) {
       items.push( "<li id='" + key + "'>" + val + "</li>" );
