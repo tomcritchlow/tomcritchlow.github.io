@@ -113,14 +113,15 @@ var disqus_config = function () {
 $( document ).ready(function() {
 
   function webMentions(json){
-  for(var i in json.links){
-    $(".webmentions").append(json.links[i].source)
-  }
-}
+    for(var i in json.links){
+      $(".webmentions").append(json.links[i].source)
+    };
+  };
 
 $.ajax({
   url: "https://webmention.io/api/mentions?perPage=500&jsonp=webMentions&target="+window.location.href,
-  dataType: "jsonp"
+  dataType: "jsonp",
+  jsonp: 'webMentions',
 });
 
 
