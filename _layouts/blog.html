@@ -111,7 +111,19 @@ var disqus_config = function () {
 
 <script>
 function webMentions(json){
+  var likes = [];
+  var reposts = [];
+  var replies = [];
     for(var i in json.links){
+      if(json.links[i].activity.type == "like"){
+        likes.push(json.links[i]);
+      };
+      if(json.links[i].activity.type == "repost" || json.links[i].activity.type == "link" ){
+        reposts.push(json.links[i]);
+      };
+      if(json.links[i].activity.type == "reply"){
+        replies.push(json.links[i]);
+      };            
       $(".webmentions").append(json.links[i].source);
     };
   };
