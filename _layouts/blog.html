@@ -106,7 +106,8 @@ var disqus_config = function () {
 <details class="webmentions">
   <summary>Webmention stuff</summary>
   <ul class="webmentionlikes">
-    Likes:
+    Likes <span id="like-count"></span>:
+    <div id="like-template"></div>
   </ul>
   <ul class="webmentionreposts">
     Reposts:
@@ -116,6 +117,7 @@ var disqus_config = function () {
   </ul>
 </details>
 </div>
+
 
 <script>
 function webMentions(json){
@@ -147,13 +149,27 @@ $.ajax({
   jsonpCallback: "webMentions"
 });
 
-function renderLikes(likes){
+function renderLikes(likes) {
+  var label = likes.length + (likes.length === 1 ? ' like' : ' likes');
+  document.getElementById('like-count').innerHTML = label;
+
   for(var i in likes){
     $(".webmentionlikes").append(likes[i].data.author.name);
   }
+  
+}
+
+function renderReposts(){
+
+};
+
+function renderReplies(){
+
 };
 
 </script>
+
+
 
 
 </div>
