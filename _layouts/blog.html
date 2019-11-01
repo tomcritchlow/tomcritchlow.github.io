@@ -5,25 +5,25 @@
 {% include header.html %}
 
 
-<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l" role="article">
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
   
     {% include blogchain-nav-top.html %}
 
   <div class="pt4 pt5-l w-two-thirds-ns">
   
-      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle">{{page.title}}</h1>
+      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
 
     {% if page.subtitle %}
-    <h2 class="f3 fw3 lh-copy mt1 subtitle">{{page.subtitle}}</h2>
+    <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary">{{page.subtitle}}</h2>
       {% endif %}
 
     {% if page.date %}
-    <div class="f6 f6-s black-50 pv3">{{ page.date | date: "%B %-d, %Y" }}</div>
+    <div class="f6 f6-s black-50 pv3 dt-published" datetime="{{ page.date}}">{{ page.date | date: "%B %-d, %Y" }}</div>
       {% endif %}
   </div>
   
   
-  <div class="w-two-thirds-ns">
+  <div class="w-two-thirds-ns e-content">
   
 
 
