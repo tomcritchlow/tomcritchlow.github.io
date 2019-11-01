@@ -121,7 +121,8 @@ $( document ).ready(function() {
 $.ajax({
   url: "https://webmention.io/api/mentions?perPage=500&jsonp=webMentions&target="+window.location.href,
   dataType: "jsonp",
-  jsonp: 'webMentions',
+  jsonp: false,
+  jsonpCallback: "webMentions"
 });
 
 
