@@ -105,7 +105,15 @@ var disqus_config = function () {
 <div>
 <details class="webmentions">
   <summary>Webmention stuff</summary>
-  
+  <ul class="webmentionlikes">
+    Likes:
+  </ul>
+  <ul class="webmentionreposts">
+    Reposts:
+  </ul>
+  <ul class="webmentionreplies">
+    Replies:
+  </ul>
 </details>
 </div>
 
@@ -123,9 +131,13 @@ function webMentions(json){
       };
       if(json.links[i].activity.type == "reply"){
         replies.push(json.links[i]);
-      };            
-      $(".webmentions").append(json.links[i].source);
+      };              
     };
+
+  renderLikes(likes);
+  renderReposts(reposts);
+  renderReplies(replies);
+
   };
 
 $.ajax({
@@ -134,6 +146,12 @@ $.ajax({
   jsonp: false,
   jsonpCallback: "webMentions"
 });
+
+function renderLikes(likes){
+  for(var i in likes){
+    $(".webmentionlikes").append(likes[i].data.author.name);
+  }
+};
 
 </script>
 
