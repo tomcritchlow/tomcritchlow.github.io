@@ -112,7 +112,7 @@ var disqus_config = function () {
 <script>
 function webMentions(json){
     for(var i in json.links){
-      $(json.links[i].source).appendTo(".webmentions");
+      $(".webmentions").append(json.links[i].source);
     };
   };
 
