@@ -9,6 +9,10 @@
   
     {% include blogchain-nav-top.html %}
 
+{% if page.reply %}
+<div class="">↪ reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply}}</a> </div>
+ {% endif %}
+
   <div class="pt4 pt5-l w-two-thirds-ns">
   
       <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
