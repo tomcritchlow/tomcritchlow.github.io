@@ -4,7 +4,7 @@ title: Webmention believers...
 reply: https://www.kickscondor.com/comments/heya-tom
 ---
 
-So I got webmentions set up working on my site and Kickscondor replied:
+So I got webmentions set up working on my site and Kickscondor [replied](https://www.kickscondor.com/comments/heya-tom/):
 
 >Hey, glad you got this going!
 >
