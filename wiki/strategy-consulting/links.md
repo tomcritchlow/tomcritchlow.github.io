@@ -69,3 +69,9 @@ source: [How Organizations Learn and Unlearn (Hedberg, 1981)](http://johnljerz.c
 >A survey of over 1600 civil servants in Pakistan and India found that “simply presenting evidence to policymakers doesn’t necessarily improve their decision-making,” with respondents indicating “that they had to make decisions too quickly to consult evidence and that they weren’t rewarded when they did.” No wonder Deloitte’s Reimagining Measurement initiative, which asked more than 125 social sector leaders what changes they most hoped to see in the next decade, identified “more effectively putting decision-making at the center” as the sector’s top priority.
 
 source: [Why Your Hard Work Sits on the Shelf — and What to Do About It](https://medium.com/@iandavidmoss/this-is-why-your-hard-work-sits-on-the-shelf-and-heres-what-to-do-about-it-a7ca5e063038)
+
+--
+
+>I think we have trouble justifying architectural investments in software engineering because, unlike in the automotive factory, our systems machinery is hidden away in a data center or “in the cloud.” However, if we demonstrate rigor and get creative about exposing the machinery to the CEO, the justification may become a lot easier.
+
+source: [Expose the Machinery — Resilien](https://www.resilien.tech/blog/2019/9/10/expose-the-machinery)
