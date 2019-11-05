@@ -169,7 +169,7 @@ function renderReposts(){
 
 function renderReplies(replies){
   for(var i in replies){
-    $(".webmentionreplies").append(replies[i].source);
+    $(".webmentionreplies").append("<li><a href='"+replies[i].source+"'>+"replies[i].source+"</a></li>");
   }
 };
 
