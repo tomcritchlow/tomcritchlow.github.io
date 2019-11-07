@@ -35,3 +35,9 @@ Big Futures:
 --
 
 <http://countingthefuture.net/>
+
+--
+
+>Our approach to future research leads to the production of case studies, events, workshops, fast-prototyped apps, innovative algorithms, curious objects, mock-ups, videos, fictional magazines, newspapers, product catalogs and more. For instance:
+
+source: [Near Future Laboratory | Clarify today, design tomorrow](http://nearfuturelaboratory.com/)

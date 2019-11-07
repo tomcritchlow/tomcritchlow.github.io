@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Windflower
+   author: Herb Ellis & Remo Palmier
+   image: http://i3.ytimg.com/vi/fAi7IeJG-6Y/maxresdefault.jpg
+   notes: delightful calm jazz guitar
+   href: https://www.youtube.com/watch?v=fAi7IeJG-6Y
  - title: stepping into tomorrow
    author: donald byrd
    image: https://lastfm-img2.akamaized.net/i/u/174s/1ab166b50e7253427bd11a8fd6d80ed6.png
