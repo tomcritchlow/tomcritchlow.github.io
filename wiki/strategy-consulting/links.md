@@ -75,3 +75,8 @@ source: [Why Your Hard Work Sits on the Shelf — and What to Do About It](https
 >I think we have trouble justifying architectural investments in software engineering because, unlike in the automotive factory, our systems machinery is hidden away in a data center or “in the cloud.” However, if we demonstrate rigor and get creative about exposing the machinery to the CEO, the justification may become a lot easier.
 
 source: [Expose the Machinery — Resilien](https://www.resilien.tech/blog/2019/9/10/expose-the-machinery)
+
+--
+
+Indy Johar - The boring revolution <https://www.youtube.com/watch?v=9XwSZjv2DyQ>
+Systems thinking, complex systems.
