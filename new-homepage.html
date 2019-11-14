@@ -17,12 +17,9 @@
 
 <h2>From the <a href="/writing">blog</a>:</h2>
 
-<div class="h2">
-    <div class="fl w-10">2019</div><div class="fl w-20">17 Feb</div><div class="fl w-50"><a href="#">Exploring the UX of web-annotations</a></div><div class="fl w-20">5 comments</div>
-</div>
-<div class="h2">
-        <div class="fl w-10">2019</div><div class="fl w-20">17 Feb</div><div class="fl w-50"><a href="#">Exploring the UX of web-annotations</a></div><div class="fl w-20">5 comments</div>
-</div>
+{% for post in site.posts  | limit:5%}
+<div class="fl db-l dn w-10">2019</div><div class="fl w-20">17 Feb</div><div class="fl w-80 w-50-l"><a href="#">{{post.title}}</a></div><div class="fl db-l dn w-20">5 comments</div>
+{% endfor %}
 
 <h2>Select <a href="#">clients:</a></h2>
 
