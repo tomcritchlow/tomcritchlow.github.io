@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: The americanization of ooga booga
+   author: Hugh Masekela
+   image: http://i3.ytimg.com/vi/VH0zCSwt0dc/maxresdefault.jpg
+   notes: rowdy jazz energy
+   href: https://www.youtube.com/playlist?list=PLoIcrhqxuvJX7C3owwa4rkW1cN0ITyYkl
  - title: Windflower
    author: Herb Ellis & Remo Palmier
    image: http://i3.ytimg.com/vi/fAi7IeJG-6Y/maxresdefault.jpg
