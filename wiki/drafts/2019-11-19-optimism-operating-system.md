@@ -64,7 +64,7 @@ And, just because the back-stage is less formal than the front-stage it’s no l
 
 >the characteristics of the back region make possible a creative redefinition of professional experience that is achieved through humour and stories. Talking about professional encounters is the stuff of the back region, **but it would be a mistake to assume that such talk is trivial simply because of the context in which it occurs: serious business does not necessarily have to be done seriously**.
 
-Both of these quotes come from the book [Language and Professional Identity](https://www.palgrave.com/gp/book/9781403938008) which is a gem and worth consuming entirely if the study of language interests you. Combined with my own experience I’ll highlight some ways to think about the back-stage:
+Both of these quotes come from the book [Language and Professional Identity](https://www.palgrave.com/gp/book/9781403938008) which is a gem and worth consuming entirely if the study of language interests you{% include tufte-sn.html id="language" content="This book also contains a truly delightful way of transcribing dialogue preserving things like people talking over each other, pauses, timing etc." %}. Combined with my own experience I’ll highlight some ways to think about the back-stage:
 
 - Show up in the back-stage of the theatre some-times but not all times. It’s important to give teams the opportunity to retain their identity and you shouldn’t overwhelm them.
 - Join the humor and crack jokes but keep them middle road - don’t stretch to the edgy humor even if others are, politely decline to be outlandish.
@@ -91,7 +91,7 @@ It’s important to understand that there is no “just…” in the consultant�
 
 Every business is a balanced system - their strengths and successes are not **despite** their flaws but **because** of their flaws.
 
-I love this quote: “a problem is a point between two complex systems” (from [this article](https://nextconf.eu/2019/02/systems-thinking-our-guard-against-unintended-consequences/))
+I love this quote: *“a problem is a point between two complex systems”*{% include tufte-sn.html id="systems" content="From <a href='https://nextconf.eu/2019/02/systems-thinking-our-guard-against-unintended-consequences/'>this article on systems thinking</a>" %}
 
 So, to reframe our initial statement about problems - **the key when engaging clients is not to hunt for problems but to hunt for systems**.
 
