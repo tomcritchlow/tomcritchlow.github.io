@@ -5,7 +5,7 @@ pinned: true
 books:
  - title: The americanization of ooga booga
    author: Hugh Masekela
-   image: https://en.wikipedia.org/wiki/The_Americanization_of_Ooga_Booga#/media/File:Hugh_Masekela_%E2%80%93_The_Americanization_Of_Ooga_Booga.jpg
+   image: https://i.ytimg.com/vi/mvZ_ES_nAfo/hqdefault.jpg
    notes: rowdy jazz energy
    href: https://www.youtube.com/playlist?list=PLoIcrhqxuvJX7C3owwa4rkW1cN0ITyYkl
  - title: Windflower
