@@ -80,3 +80,11 @@ source: [Expose the Machinery — Resilien](https://www.resilien.tech/blog/2019/
 
 Indy Johar - The boring revolution <https://www.youtube.com/watch?v=9XwSZjv2DyQ>
 Systems thinking, complex systems.
+
+--
+
+>You came in as the high end consultant on rarefied air.  But then you stick around, and the luster wears off.  You eat cheeseburgers for lunch, just like everyone else.  And, after a bunch of months, you don’t seem as special as you used to.  Just one of the crew.
+
+source: [The Siren Song of the Long Term Engagement - DaedTech](https://daedtech.com/siren-song-long-term-engagement/)
+
+This is wrong! This is the outcome from not engaging in status switching and strategy/stewardship! (or from shifting to coaching).

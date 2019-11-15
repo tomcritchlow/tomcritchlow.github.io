@@ -106,6 +106,12 @@ Am jet-or-prop-propelled.
 
 [On the circuit by W.H. Auden](https://www.poets.org/poetsorg/poem/circuit)
 
+--
+
+ECHO: For sure the Rebel is going to Die. Oh, there will be no flags, not even black ones, no gun salutes, no ceremony. It will be very simple, something which in appearance will not change anything, but which will cause coral in the depths of the sea, birds in the depths of the sky, stars in the depths of women’s eyes to crackle for the instant of a tear or the bat of an eyelash.
+
+[Aimé Césaire, And the Dogs Were Silent](https://thefunambulist.net/literature/blue-eyed-architect-defy)
+
 <script>
 	
 $('p').each(function(){
