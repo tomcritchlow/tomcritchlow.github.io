@@ -6,7 +6,7 @@ tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-2.png
 ---
 
-This is part 2 in a 4-part series called Yes! And… - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… Catch up on chapter 1 here.
+This is part 2 in a 4-part series called *Yes! And…* - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).
 
 # Chapter 2 - Optimism as an Operating System
 
@@ -14,7 +14,7 @@ The consultant thrives on problems. Things to be “fixed”, “solved” and �
 
 And yet…
 
-If you walk in the door with a problems-focused mindset ready to criticise the client you’ll get rejected by the organization like a bad virus AND you’ll mis-understand the client’s organization as ecosystem in balance.
+If you walk in the door with a problems-focused mindset ready to criticise the client you’ll get rejected by the organization like a bad virus.
 
 Instead it’s crucial to ignore that gleeful feeling that comes from recognizing problems and force yourself to identify the systems that *are* working - to embrace the *strengths* of an organization first.
 
