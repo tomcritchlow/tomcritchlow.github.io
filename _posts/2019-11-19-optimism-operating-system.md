@@ -20,7 +20,7 @@ Instead it’s crucial to ignore that gleeful feeling that comes from recognizin
 
 Remember - **consulting is humans all the way down** - no client wants to bring in a negative, critical or attacking consultant. And no team wants to listen to a consultant that *“has a better way of doing things”*.
 
-The sweet-spot (especially in the first few months of an engagement) is identifying the existing flows, biases and strengths of a client so that you can move with them, not against them. Go with the grain{% include tufte-sn.html id="twenty" content="Remember from Chapter 1 that often the consultant gets brought in mid-performance. Not included for 2020 planning but a consequence of 2020 planning..." %}. 
+The sweet-spot (especially in the first few months of an engagement) is identifying the existing flows, biases and strengths of a client so that you can move with them, not against them. Go with the grain{% include tufte-sn.html id="twenty" content="Remember from Chapter 1 that the consultant often gets brought in mid-performance. Not included in 2020 planning but rather a consequence of 2020 planning..." %}. 
 
 Why is this so important? Because if you want to work with an organization for a long time and make a difference, **people need to like having you around**. Sure, you need to be effective but I’d contend equally, if not more important, is to be a **pleasure to work with**.
 
@@ -45,6 +45,8 @@ But the truth is that if you’re designing for retained work (and you should be
 Instead - while it may seem counterintuitive the right answer is to **downplay the importance of your work**. To place the work within a context of comfort. The strongest language you have as a consultant is:
 
 *“this is a solvable problem”*
+
+The most successful projects are those where you can build routine solutions to important problems.
 
 This provides a sense to the client of competence, of bringing calm to otherwise high-pressure situations and of reminding them that this may take a while to solve!
 
