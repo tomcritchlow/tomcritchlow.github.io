@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Dead Astronauts
+   author: Jeff VanderMeer
+   link: https://www.amazon.com/Dead-Astronauts-Novel-Jeff-VanderMeer/dp/0374276803
+   date_finished: 11/15/19
+   notes: I think perhaps I made a mistake. I didn't realize until after I'd read it that it was part of the Borne series. Maybe that would have been useful because this book made zero sense. Like a William Burroughs book it was somehow interesting and riveting at times despite literally making no sense. Did I mention it makes no sense? The first section with the three astronauts was the most compelling..... Maybe I should read the other Borne books and it'll make more sense? But I doubt it.
  - title: The Nix
    author: Nathan Hill
    link: https://www.amazon.com/Nix-Nathan-Hill/dp/1101970340
