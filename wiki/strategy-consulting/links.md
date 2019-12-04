@@ -88,3 +88,7 @@ Systems thinking, complex systems.
 source: [The Siren Song of the Long Term Engagement - DaedTech](https://daedtech.com/siren-song-long-term-engagement/)
 
 This is wrong! This is the outcome from not engaging in status switching and strategy/stewardship! (or from shifting to coaching).
+
+--
+
+<http://samoburja.com/wp-content/uploads/2019/01/Great-Founder-Theory-v-1.43.pdf>

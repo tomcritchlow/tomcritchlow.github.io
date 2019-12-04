@@ -22,3 +22,7 @@ source: [About | RNDRD](https://rndrd.com/about)
 > This presentation explores the flipside: large urban plans that were built but never used. These now occur on every continent – the inevitable fallout of a world urbanizing at a staggering pace. But perhaps they are more… perhaps these towns also constitute compelling reasons for reflection in the face of a seemingly unbreakable consensus that the city is our one and only common future.
 
 source: [Reinier de Graaf, “Phantom Urbanism” - Harvard Graduate School of Design](https://www.gsd.harvard.edu/event/reinier-de-graaf-phantom-urbanism/)
+
+--
+
+[Google streetview examples of architecture styles](https://modern-architecture.glitch.me/)

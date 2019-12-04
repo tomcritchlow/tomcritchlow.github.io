@@ -94,3 +94,15 @@ The Art of Community (Spencer Heath MacCallum): I’ve been looking for reading 
 --
 
 [The Future of Another Timeline | IndieBound.org](https://www.indiebound.org/book/9780765392107)
+
+--
+
+[Thrilling Cities by Ian Fleming](https://www.amazon.com/Thrilling-Cities-Ian-Fleming/dp/1612185541)
+
+--
+
+<https://www.amazon.com/Night-Heron-Adam-Brookes/dp/0316273090>
+
+>This week, I finished the third in the trilogy by Adam Burkes that begins with Night Heron, continues into Spy Games, and concludes with The Spy’s Daughter, and I can report to you that they are the best spy novels I’ve read in years. Legitimately gripping—I stayed up late to finish the last one—and totally literary. Also: usefully contemporary, with some very nice depictions of some deeply unglamorous tradecraft, including one detailed sequence that follows a character on the run and manages to make VPNs thrilling.
+
+From Robin Sloan
