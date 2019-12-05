@@ -211,7 +211,7 @@ Getting new capacities off the ground from scratch requires a herculean effort a
 
 ## Conclusion
 
-As I reflect back on the most effective consulting engagements I've worked on it's the ones where I was able to build a strong improv reflex with my client and where we had arrived at a *Yes! And...* mindset between us - enabling us to co-creating strategy with little regard for ego.
+As I reflect back on the most effective consulting engagements I've worked on it's the ones where I was able to build a strong improv reflex with my client and where we had arrived at a *Yes! And...* mindset between us - enabling us to co-create strategy with little regard for ego.
 
 And the output? Usually the most ordinary of strategies that simply make deliberate movement towards important new capacities.
 
