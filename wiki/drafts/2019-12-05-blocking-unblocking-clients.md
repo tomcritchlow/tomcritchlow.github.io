@@ -8,17 +8,19 @@ og: https://tomcritchlow.com/images/yes-and-og-3.png
 
 *This post is part 3 of the Yes! And... series. Catch up on [Chapter 1](https://tomcritchlow.com/2019/11/18/yes-and/) and [Chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/)*.
 
-Good strategy sessions, like good improv sessions, are a product of multiple actors working together, collaboratively to build scenes. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to run good strategy sessions.
+Good strategy sessions, like good improv sessions, are a product of multiple actors working together collaboratively to build scenes. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to run good strategy sessions.
 
-When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own. Even worse - **despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems**.
+When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own.
 
-So how do we help clients solve their own problems? Yep you guessed it - through a series of improv sessions.
+Even worse - **despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems**.
 
-Unfortunately as a consultant you very quickly encounter situations where clients are blocked and your ideas don't lead to effective strategies.
+So how do we help clients solve their own problems? Yep you guessed it - through a series of improv strategy sessions that happen in meetings, hallways and slack messages.
 
-**And, worse - it's very easy for the consultant to be the one who is blocking the client by relying on their own ideas too heavily!**
+Unfortunately it's common to find yourself in improv strategy sessions with clients where they have already failed to solve these problems on their own. And this leads to clients who block, shut down or otherwise hinder the very thing they have hired the consultant to solve.
 
-If the consultant is an improv actor then to be effective we have to learn fundamental skills around not blocking our clients and finding ways to unblock them if they're stuck. The good news is we get to a very effective place.
+**And, worse - it's all too easy for the consultant to be the one who is blocking the client by relying on their own ideas too heavily!**
+
+In this piece we explore fundamental skills in unblocking clients and learning how to avoid blocking clients ourselves.
 
 **Ultimately - the most effective strategies are those that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
 
