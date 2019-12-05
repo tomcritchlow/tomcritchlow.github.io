@@ -175,7 +175,7 @@ To this end, it's important to understand the type of consultant that you’re t
 
 They go on to identify four core mental models that separate problem solvers and capacity builders:
 
-![](images/alternative-models-of-consulting.jpg)
+![](/images/alternative-models-of-consulting.jpg)
 
 Much like when I stumbled across “[strategy & stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)” this concept of “capacity building vs problem solving” gives language to something I’ve known intuitively for a long time.
 
