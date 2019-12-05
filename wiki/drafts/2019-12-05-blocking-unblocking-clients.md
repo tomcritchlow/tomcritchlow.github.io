@@ -28,7 +28,7 @@ This generative, coaching mindset is crucial to the consultant to open up the cl
 
 ## Use “Yes! And…” to stop yourself blocking clients
 
-The first and most basic tool you learn in improv acting is the Yes! And… exercise - it helps actors be more creative and flow better through the process of opening up, not closing down.
+The first and most basic tool you learn in improv acting is the *Yes! And…* exercise - it helps actors be more creative and flow better through the process of opening up, not closing down.
 
 The principle is simple and hinges on accepting your partner's ideas and building on top of them instead of closing them down. “Yes! And…” is the simple phrase to remember but not every sentence has to literally start that way.
 
@@ -58,11 +58,11 @@ At heart, the idea of yes and is about accepting the gambit from another actor a
 
 *This conversation is obviously both made up and exaggerated but hopefully it demonstrates the premise of opening up the client to new ideas through accepting their prompts and building from them rather than trying to block their ideas to talk about your own.*
 
-This approach relies on two powerful ideas - firstly that everyone (clients & consultants included!) want their ideas to be listened to{% include tufte-sn.html id="listening" content="Listening could in fact turn out to be the ultimate consulting skill...." %}  and that using the Yes! And... conversation as a tool ends up with a co-created strategy.
+This approach relies on two powerful ideas - firstly that everyone (clients & consultants included!) want their ideas to be listened to{% include tufte-sn.html id="listening" content="Listening could in fact turn out to be the ultimate consulting skill...." %}  and that using the *Yes! And...* conversation as a tool ends up with a co-created strategy.
 
 ## The Power (& Limits) of Co-creating Strategy
 
-This Yes! And… mindset quickly leads to a generative strategy situation where the ideas, strategies and projects are co-created between the client and consultant.
+This *Yes! And…* mindset quickly leads to a generative strategy situation where the ideas, strategies and projects are co-created between the client and consultant.
 
 I imagine a “branching” visualization like this (blue for client, green for consultant):
 
@@ -74,7 +74,7 @@ As I talk about in my [frameworks post](https://tomcritchlow.com/2019/06/27/fram
 
 Of course - let’s get real for a moment the theatre of work and all this talk of improv is only goes so far. You can’t keep building and bridging forever - and sometimes clients are simply going in the wrong direction.
 
-So it’s useful to understand the situations where Yes! And… is most useful and powerful. The answer is at the start of the engagement or session to establish a base reality:
+So it’s useful to understand the situations where *Yes! And…* is most useful and powerful. The answer is at the start of the engagement or session to establish a base reality:
 
 > Upright Citizens Brigade improvisational theory suggests that Yes And is only the most important tool to an improviser at the beginning of scenes, when they are obligated to establish a Base Reality. Yes And, in this view, expedites the process of finding a Who, What, and Where for the scene, allowing a context to solidify on top of which an absurd element can be found. - [source](https://wiki.improvresourcecenter.com/index.php/Yes_And)
 
@@ -82,7 +82,7 @@ I like this idea - that the most useful thing you need client input and co-creat
 
 And this can be useful because clients can ramble - they can get wrapped up in their arguments. This is no pejorative statement but rather just a function of how much time clients typically devote to “strategy” and improv thinking.
 
-So the Yes! And… exercise can be powerful for co-creating strategy with clients accounting for their particular expertise and wisdom around the base reality of who, what where.
+So the *Yes! And…* exercise can be powerful for co-creating strategy with clients accounting for their particular expertise and wisdom around the base reality of who, what where.
 
 *Example: in [chapter two](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) I illustrated a client where we have a shared joke for SEO consultants that come in and attempt to to improve content quality without appropriately understanding the base reality of content quantity being part of their cultural DNA. Of course early in the engagement I too was that SEO consultant coming in talking of content quality! Thankfully a keen intuitive sense of co-creating strategy with clients and opening up their ideas (rather than closing them down) led us to a place where we could get more nuanced and realistic around the quality/quantity ecosystem.*
 
@@ -90,7 +90,7 @@ So the Yes! And… exercise can be powerful for co-creating strategy with client
 
 So long as the foundations are co-created with the client the consultant is then free to build on them with their own ideas and point of view.
 
-All of this, however, relies on being able to get clients to a comfortable Yes! And… mode in the first place. This co-creation process feels a lot like an improv session (or a series of sessions) and good improv requires two (or more) actors! Unfortunately, I sometimes find that **clients are like blocked actors**.
+All of this, however, relies on being able to get clients to a comfortable *Yes! And…* mode in the first place. This co-creation process feels a lot like an improv session (or a series of sessions) and good improv requires two (or more) actors! Unfortunately, I sometimes find that **clients are like blocked actors**.
 
 They have been trained to shut down their open-world generative side and they need coaxing and coaching to open up.
 
@@ -151,7 +151,7 @@ Impro has valuable insights and strategies here - and the good news / bad news i
 
 The book walks through exercises and ideas for coaching actors into new ways of thinking and explaining the power of overcoming insecurity, overcoming trying to be original, overcoming status issues and so much more.
 
-Of course, the best way to open up is through keeping this “Yes! And…” refrain in mind - it reminds me to keep the positive edge and optimism. There are no bad ideas! Blocked clients often don’t realize they’re blocking!
+Of course, the best way to open up is through keeping this *Yes! And…* refrain in mind - it reminds me to keep the positive edge and optimism. There are no bad ideas! Blocked clients often don’t realize they’re blocking!
 
 It keeps you in the beginner’s mind of accepting that the client knows their business better than you do - so you push them to generate new directions themselves rather than providing them “answers” of what to do.
 
@@ -159,7 +159,7 @@ And in fact “answers” and “solutions” are not really what we’re being 
 
 ## Consultant as Capacity Builder
 
-In Chapter 2 we looked at client organizations as ecosystems in balance. Even if we adopt Yes! And… ideas and co-create strategies with our clients there will be a gap between the strategies on paper and the strategies in reality.
+In Chapter 2 we looked at client organizations as ecosystems in balance. Even if we adopt *Yes! And…* ideas and co-create strategies with our clients there will be a gap between the strategies on paper and the strategies in reality.
 
 To this end, it's important to understand the type of consultant that you’re trying to be: a “problem solver” or a “capacity builder”
 
@@ -205,12 +205,14 @@ Rather - the better way to interrupt routines is via a thorough understanding of
 
 The trick is not to get new capacities off the ground from a standing start but to interrupt routines to get new capacities built “in-flow” of existing teams and workflows.
 
-This “just in time” strategy of hijacking an existing routine in-flow and re-directing some portion of it into a new capacity experiment is way easier than getting a new process kicked off from a standing start.
+This “just in time” strategy of hijacking an existing routines in-flow and re-directing some portion of it into a new capacity experiment is way easier than getting a new process kicked off from a standing start.
 
 Getting new capacities off the ground from scratch requires a herculean effort and while this is good for the ego complex of the consultant - as they imagine themselves moving mountains and molding the organization like clay - the truth is that our job is not to change the organization but to help the organization change themselves...
 
 ## Conclusion
 
-So next time you thirstily look at a client with problems and think about solving things think again - step back and ask yourself if you’re approaching the project with a capacity building mindset. Because this is the path to retained consulting clients where you can gain the room, context and connections to co-create strategies and unblock clients. Ultimately resulting in the ability to deftly interrupt routines to help clients build new capacities for themselves...
+As I reflect back on the most effective consulting engagements I've worked on it's the ones where I was able to build a strong improv reflex with my client and where we had arrived at a *Yes! And...* mindset between us - enabling us to co-creating strategy with little regard for ego.
 
-Up next in the Yes! And… series we look at a new skill consultants need to learn: status switching.
+And the output? Usually the most ordinary of strategies that simply make deliberate movement towards important new capacities.
+
+Up next in the *Yes! And…* series we look at a new skill consultants need to learn: status switching.
