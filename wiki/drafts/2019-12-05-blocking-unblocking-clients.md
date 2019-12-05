@@ -20,9 +20,9 @@ Unfortunately it's common to find yourself in improv strategy sessions with clie
 
 **And, worse - it's all too easy for the consultant to be the one who is blocking the client by relying on their own ideas too heavily!**
 
-In this piece we explore fundamental skills in unblocking clients and learning how to avoid blocking clients ourselves.
+So in this piece we explore how to deal with both clients who are blocked and how to *not* block as a consultant.
 
-**Ultimately - the most effective strategies are those that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
+**The good news is this ultimately leads to effective strategies that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
 
 This generative, coaching mindset is crucial to the consultant to open up the client to get them out of their routines to see new possibilities, perspectives and mental models. And we're going to start with the most basic improv technique of them all...
 
