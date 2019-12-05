@@ -14,7 +14,7 @@ When you’re hired as a consultant you’re given a dangerous proposition - hel
 
 Even worse - **despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems**.
 
-So how do we help clients solve their own problems? Yep you guessed it - through a series of improv strategy sessions that happen in meetings, hallways and slack messages.
+How do we help clients solve their own problems? Yep you guessed it - through a series of improv strategy sessions that happen in meetings, hallways and slack messages.
 
 Unfortunately it's common to find yourself in improv strategy sessions with clients where they have already failed to solve these problems on their own. And this leads to clients who block, shut down or otherwise hinder the very thing they have hired the consultant to solve.
 
