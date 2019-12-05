@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: pocket change
+   author: nate smith
+   image: https://lastfm.freetls.fastly.net/i/u/174s/3d7a6aef3b778f0879af8ae7c7897d5e.png   
+   notes: inside the OODA loop of funk drumming (recommended by Craig Mod)
+   href: https://album.link/i/1419743812   
  - title: The americanization of ooga booga
    author: Hugh Masekela
    image: https://i.ytimg.com/vi/mvZ_ES_nAfo/hqdefault.jpg
