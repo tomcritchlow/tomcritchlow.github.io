@@ -8,23 +8,19 @@ og: https://tomcritchlow.com/images/yes-and-og-3.png
 
 *This post is part 3 of the Yes! And... series. Catch up on [Chapter 1](https://tomcritchlow.com/2019/11/18/yes-and/) and [Chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/)*.
 
-In previous chapters of the series we’ve considered the theatre of work to be a series of improv sessions, looked at how to think on your feet without bullshitting and considered the power of an optimistic mindset. 
+Good strategy sessions, like good improv sessions, are a product of multiple actors working together, collaboratively to build scenes. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to run good strategy sessions.
 
-Here, we turn our attention to the collaborative nature of strategy, and improv and explore the idea of moving from problem solving to capacity building...
+When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own. Even worse - **despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems**.
 
-After all... it takes two to tango! Good strategy sessions, like good improv sessions are a product of multiple actors working together, collaboratively to build scenes.
+So how do we help clients solve their own problems? Yep you guessed it - through a series of improv sessions.
 
-When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own.
+Unfortunately as a consultant you very quickly encounter situations where clients are blocked and your ideas don't lead to effective strategies.
 
-Even worse - despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems.
+**And, worse - it's very easy for the consultant to be the one who is blocking the client by relying on their own ideas too heavily!**
 
-By definition every consultant is brought in to help organizations do new things - status quo is never the desired outcome. And yet clients are often stuck - stuck in the status quo, and full time employees are heavily incentivised to protect and maintain the status quo.
+If the consultant is an improv actor then to be effective we have to learn fundamental skills around not blocking our clients and finding ways to unblock them if they're stuck. The good news is we get to a very effective place.
 
-**And, worse - it's very easy for the consultant to be the one who is blocking the client!**
-
-If the consultant is an improv actor then to be effective we have to learn fundamental skills around not blocking our clients and finding ways to unblock them if they're stuck.
-
-**Ultimately - the most powerful effective strategies are those that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
+**Ultimately - the most effective strategies are those that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
 
 This generative, coaching mindset is crucial to the consultant to open up the client to get them out of their routines to see new possibilities, perspectives and mental models. And we're going to start with the most basic improv technique of them all...
 
