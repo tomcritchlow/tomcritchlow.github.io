@@ -12,7 +12,11 @@ In previous chapters of the series we’ve considered the theatre of work to be 
 
 Here, we turn our attention to the collaborative nature of strategy, and improv and explore the idea of moving from problem solving to capacity building...
 
-After all... it takes two to tango. Good improv sessions are a product of multiple actors working together, collaboratively to build scenes.
+After all... it takes two to tango! Good strategy sessions, like good improv sessions are a product of multiple actors working together, collaboratively to build scenes.
+
+When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own.
+
+Even worse - despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems.
 
 By definition every consultant is brought in to help organizations do new things - status quo is never the desired outcome. And yet clients are often stuck - stuck in the status quo, and full time employees are heavily incentivised to protect and maintain the status quo.
 
