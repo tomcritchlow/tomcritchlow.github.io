@@ -51,7 +51,7 @@ I'm obsessed with doing *effective* strategy work. Work beyond powerpoints and d
 
 [How to get things done](https://tomcritchlow.com/2018/06/01/how-to-get-things-done/) - there's a few provocative ideas in this post that need exploring and expanding. Most notably the deck linked here that really gets into the heart of the idea that "Amateurs talk about strategy. Professionals talk about logistics".
 
-**Yes! and...** - I've got an analogy in my head around why improv comedy is much like consulting. Thinking on your feet, making things up without resorting to outright bullshit, keeping the focus of a room and more. This post is not yet written.
+[Yes! and...](https://tomcritchlow.com/2019/11/18/yes-and/) - this is a series in progress all inspired by Impro by Keith Johnstone and the foundational idea that consultants need to think on their feet like improv actors.
 
 [Strategy is the organic flow of ideas and people](https://tomcritchlow.com/2018/03/08/consulting-links/) - here we start to expand our idea of what kind of work we're hired for in the first place and recognize that it's all about people. The title of this post is taken from an excellent paper by Stripe Partners and there's tons to explore here.
 
