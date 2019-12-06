@@ -145,6 +145,6 @@ So next time you’re starting a client project think about how to default to op
 
 In this chapter we’ve focused a lot still on the “performance” of the work - on the language, people interactions and emotions of getting work done. Is that all there is? How can we use this default positivity to open clients up to more creative generative strategy?
 
-That’s the next chapter - Generative Strategy...
+That’s the next chapter - [Generative Strategy](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/)
 
 
