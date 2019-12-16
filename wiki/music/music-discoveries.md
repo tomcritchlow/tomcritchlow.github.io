@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Anthem
+   author: Madeleine Peyroux
+   image: https://lastfm.freetls.fastly.net/i/u/174s/a0529f32de4813c4ab1dd3b1c694b4b7.png
+   notes: soulful buttery delicious!
+   href: https://song.link/us/i/1439604629
  - title: pocket change
    author: nate smith
    image: https://lastfm.freetls.fastly.net/i/u/174s/3d7a6aef3b778f0879af8ae7c7897d5e.png   
