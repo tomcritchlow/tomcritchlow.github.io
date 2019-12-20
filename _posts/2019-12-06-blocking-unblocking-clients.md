@@ -38,7 +38,7 @@ When working with clients there’s a tendency for consultants (especially newer
 
 At heart, the idea of yes and is about accepting the gambit from another actor and building on top of it - of opening up the world through the lens that they have offered and not attempting to close down their world and open your own - and spoiler alert, this is an effective approach to consulting!
 
-*Example: I remember consulting for The Wirecutter years ago (before they were acquired by the NYT) and attempting to convince them that they should create product review pages alongside their category pages{% include tufte-sn.html id="wirecutter" content="They have actually started doing this relatively recently post-NYT acquisition. See example here: <a href='ttps://thewirecutter.com/reviews/peloton-review-what-to-know-before-you-buy/'>peleton review</a>" %}. I distinctly remember a conversation that went something like:*
+*Example: I remember consulting for The Wirecutter years ago (before they were acquired by the NYT) and attempting to convince them that they should create product review pages alongside their category pages{% include tufte-sn.html id="wirecutter" content="They have actually started doing this relatively recently post-NYT acquisition. See example here: <a href='https://thewirecutter.com/reviews/peloton-review-what-to-know-before-you-buy/'>peleton review</a>" %}. I distinctly remember a conversation that went something like:*
 
 - *Me: There is a big opportunity in expanding into product review pages*
 - *Wirecutter: But our brand is built on only doing these category reviews*
