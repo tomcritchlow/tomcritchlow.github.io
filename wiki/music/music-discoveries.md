@@ -3,6 +3,10 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Ritme Jaavdanegi
+   author: Mohammad Reza Mortazavi
+   image: https://lastfm.freetls.fastly.net/i/u/174s/5357a4afdb09b9e01f18d3d78004da6c.png
+   notes: softly urgent and in/out of time drumming rhythms. Complex and smooth all at once.
  - title: We Might as Well Dance
    author: Madeleine Peyroux
    image: https://lastfm.freetls.fastly.net/i/u/174s/a0529f32de4813c4ab1dd3b1c694b4b7.png

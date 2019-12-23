@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Less
+   author: Andrew Sean Greer
+   link: https://www.amazon.com/Less-Winner-Pulitzer-Prize-Novel/dp/0316316121
+   date_finished: 12/20/19
+   notes: A truly delightful novel - with hints of PG Wodehouse. This book really sucked me in with magical lush writing and a great wry tone. Definitely recommended.
  - title: Infinite Detail
    author: Tim Maughan
    link: https://www.amazon.com/Infinite-Detail-Novel-Tim-Maughan/dp/0374175411
