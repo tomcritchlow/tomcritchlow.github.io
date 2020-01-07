@@ -92,3 +92,9 @@ This is wrong! This is the outcome from not engaging in status switching and str
 --
 
 <http://samoburja.com/wp-content/uploads/2019/01/Great-Founder-Theory-v-1.43.pdf>
+
+--
+
+>A workshop created for NEW INC members, Strategic Digital Gardening teaches attendees how to approach their digital marketing and communications as a "digital gardener." Taking ecosystems and growth cycles as key points of inspiration, digital gardening is a process for manifesting goals through community cultivation and intentional seed planting.
+
+source: [Strategic Digital Gardening for NEW INC – Willa Koerner](https://willakoerner.com/project/digital-gardening)

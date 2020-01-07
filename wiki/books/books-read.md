@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: A Winter’s Promise
+   author: Christelle Dabos
+   link: https://www.amazon.com/Winters-Promise-Mirror-Visitor-Quartet-ebook/dp/B07B8WK17G
+   date_finished: 12/30/19
+   notes: There are moments when the lavish fantasy world and the magic contained in it sucked me in - but ultimately the character development and plot just didn't hang together to keep me reading. Good escapist reading but there are better fantasy worlds to lose yourself in than this one.
  - title: Less
    author: Andrew Sean Greer
    link: https://www.amazon.com/Less-Winner-Pulitzer-Prize-Novel/dp/0316316121
