@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Tears of the Trufflepig: A Novel
+   author: Fernando A. Flores
+   link: https://www.amazon.com/Tears-Trufflepig-Novel-Fernando-Flores/dp/0374538336
+   date_finished: 01/09/20
+   notes: A wonderful book. Like an absurdist Cormac McCarthy x Kurt Vonnegut mashup. Lyrical descriptions, wonderful characters and a wild imagination. Highly recommended.
  - title: A Winter’s Promise
    author: Christelle Dabos
    link: https://www.amazon.com/Winters-Promise-Mirror-Visitor-Quartet-ebook/dp/B07B8WK17G
