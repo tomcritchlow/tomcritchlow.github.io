@@ -2,8 +2,8 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
- - title: Tears of the Trufflepig: A Novel
-   author: Fernando A Flores
+ - title: Tears of the Trufflepig
+   author: Fernando A. Flores
    link: https://www.amazon.com/Tears-Trufflepig-Novel-Fernando-Flores/dp/0374538336
    date_finished: 01/09/20
    notes: A wonderful book. Like an absurdist Cormac McCarthy x Kurt Vonnegut mashup. Lyrical descriptions, wonderful characters and a wild imagination. Highly recommended.
