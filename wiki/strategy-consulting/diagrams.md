@@ -23,6 +23,10 @@ Venkatesh has tons. Drawings, doodles, diagrams, flows and more. Some faves:
 
 <https://www.ribbonfarm.com/2017/06/06/thingness-and-thereness/>
 
+>Many beginning consultants have a weird kind of insecurity that leads them to invent and rely on over-complicated, bespoke constructs that they can name after themselves. While these can sometimes be useful, especially ones that are developed and refined over many years, across hundreds of applications, such as Wardley maps, in general, they are fragile visual bullshit. You’re much better off learning to use the basic commodity diagrams well than trying to make up and sell your own in most cases.
+
+source: [Basic Consultant Diagrams - The Art of Gig](https://artofgig.substack.com/p/basic-consultant-diagrams)
+
 ### Ben Thompson of Aggregation theory fame
 
 <https://stratechery.com/aggregation-theory/>
