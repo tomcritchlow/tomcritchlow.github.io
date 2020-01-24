@@ -357,3 +357,5 @@ https://twitter.com/robhorning/status/1186663941734326272
 --
 
 https://mailchi.mp/cb0071e0a9a5/kneelingbus-852561?e=a68912ab79
+
+https://mitpress.mit.edu/books/architectural-intelligence

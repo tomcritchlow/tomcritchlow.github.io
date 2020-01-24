@@ -20,9 +20,23 @@ I've spent much of my spare moments over the past 3-4 months working on this and
 
 ## The Ebook!
 
-<iframe src="http://erinprz.com/ebook/">
+![](/images/ebook-screenshots.png)
+
+Launch the ebook here: [erinprz.com/ebook](http://erinprz.com/ebook/).
 
 
-## Stories format and digital storytelling
+
+## Lessons Learned
+
+https://swiperjs.com/ stuttered and stalled out with full screen images on mobile. This forced me to rebuild half way through and eventually to abandon the swipe interaction alltogether.
+
+The "right" way to comment code
+
+iOS is extremely web-hostile. The tools, documentation and so on for doing anything creative is 
+
+I really should pick up swift and learn how to make native apps! I think this would have been a great test app but oof trying to learn new skills from scratch when you've got a full time job and two kiddos and family commitments.
+
+
+## Stories format and digital books
 
 I think the perfect medium NYPL stories format. Some Craigmod call out.
