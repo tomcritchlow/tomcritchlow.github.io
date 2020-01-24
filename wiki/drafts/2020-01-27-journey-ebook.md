@@ -10,6 +10,8 @@ Erin spent much of last year buried deep in logistics - print proofing, file lay
 
 Ironically the ebook version of the book ended up shipping after the physical one did... (btw [the physical version of the book and art prints are available to purchase on Etsy](https://www.etsy.com/shop/ErinprzArt) now if you missed the Kickstarter!)
 
+*If you don't care for the theory and just want to [skip straight to the ebook launch it here](http://erinprz.com/ebook/)!*
+
 ## A Personal Creative Coding Challenge
 
 I thought it would be fun to add an ebook option to the Kickstarter and as a way to have a digital reference for the book. A way to support Erin's Kickstarter I thought. Some fun creative coding I thought. Some fun to be had I thought. Ha.
@@ -24,7 +26,7 @@ I've spent much of my spare moments over the past 3-4 months working on this and
 
 Launch the ebook here: [erinprz.com/ebook](http://erinprz.com/ebook/).
 
-
+Let's call this launch a beta shall we? See any bugs hit me up.
 
 ## Lessons Learned
 
