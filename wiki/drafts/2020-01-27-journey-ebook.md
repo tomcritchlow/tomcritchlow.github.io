@@ -22,9 +22,15 @@ I've spent much of my spare moments over the past 3-4 months working on this and
 
 ## The Ebook!
 
+I'm pretty happy with how this came out! Launch the ebook here: [erinprz.com/ebook](http://erinprz.com/ebook/).
+
+It works mostly fine on both mobile and desktop:
+
 ![](/images/ebook-screenshots.png)
 
-Launch the ebook here: [erinprz.com/ebook](http://erinprz.com/ebook/).
+With the biggest design change between print and digital being that to optimize reading for small screens we changed the layout to put text on it's own screen. Compare the digital layout to the print layout here:
+
+![](/images/ebook-spreads.png)
 
 Let's call this launch a beta shall we? See any bugs hit me up.
 
