@@ -46,7 +46,7 @@ Here's some observations from building this project:
 
 Honestly let's talk about the elephant in the room. If you try and launch the ebook on an iphone you might get this:
 
-
+![](/images/ebook-ios.png)
 
 Ick.
 
