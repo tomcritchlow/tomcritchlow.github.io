@@ -83,6 +83,8 @@ Unfortunately the web's ability to create tappable stories is **still** underwhe
 
 If we'd had more time and infinite creative capacity I'd have loved to try and port Erin's book into a portrait screen orientation and power the whole thing in a tappable format - perhaps building it in AMP stories and using [AMP image pan effects](https://amp.dev/documentation/examples/visual-effects/ken_burns/preview/?format=websites) and maybe even an audio reading of the book too!
 
+[Example here](https://aeolian-centaur.glitch.me/)...
+
 But alas time is not infinite and this ebook is already late... So here we are. I hope you enjoy it - I'm happy that this ebook reflects faithfully to Erin's magical print book and shows off Erin's art for more people to see.
 
 Of course... to really support the project there's always [the actual book on Etsy](https://www.etsy.com/listing/737130607/journey-to-the-end-of-the-night?ref=shop_home_active_1) :) 
