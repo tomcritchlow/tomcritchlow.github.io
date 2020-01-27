@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Building an ebook version of Journey to the End of the Night for Erin
-subtitle: Technical specs, challenges and creative sparks
+subtitle: Technical specs and lessons learned trying to make a picture book "work" on the web
 ---
 
 I'm so proud of Erin for completing her [kids book Kickstarter](https://www.kickstarter.com/projects/erinprz/journey-to-the-end-of-the-night-a-childrens-book) last year. Successfully completing a Kickstarter is a wild feeling but in hindsight it feels as much like the start of a race not the end!
@@ -73,18 +73,28 @@ There's a chance that this was my poor implementation (disclaimer: not a coder) 
 The end result is that a) I ended up building my own screen advance script and b) I abandoned any swipe based interaction. Especially when navigating between full-screen and drag to refresh etc on small screens the swipe interaction is just too problematic....
 
 
-## Stories format and digital books
+## Notes on the Stories format and digital books (especially visual books)
 
-Finally - where does this leave us and what did I learn about porting a picture book to the web?
+Finally - where does this leave us and what did I learn about translating a picture book to the web?
 
-From Robin Sloan's [FISH: a tap essay](https://www.robinsloan.com/fish/) to the [NYPL experimenting](https://www.nypl.org/blog/2018/08/22/instanovels) with posting entire books into the Instagram story format I remain convinced that tappable stories are a magical format and can support long-form narrative.
+From Robin Sloan's [FISH: a tap essay](https://www.robinsloan.com/fish/) to the [NYPL experimenting](https://www.nypl.org/blog/2018/08/22/instanovels) with posting entire books into the Instagram story format - I remain convinced that tappable stories are a magical format and can support long-form narrative.
 
 Unfortunately the web's ability to create tappable stories is **still** underwhelming. We're making progress but it feels like it's moving at a snail's pace.
 
-If we'd had more time and infinite creative capacity I'd have loved to try and port Erin's book into a portrait screen orientation and power the whole thing in a tappable format - perhaps building it in AMP stories and using [AMP image pan effects](https://amp.dev/documentation/examples/visual-effects/ken_burns/preview/?format=websites) and maybe even an audio reading of the book too!
+If we'd had more time and infinite creative capacity I'd have loved to try and port Erin's book into a portrait screen orientation and power the whole thing in a tappable format. AMP Stories have an [image pan effect](https://amp.dev/documentation/examples/visual-effects/ken_burns/preview/?format=websites) that I think works especially well with picture book spreads.
 
-[Example here](https://aeolian-centaur.glitch.me/)...
+Check out [this little demo](https://aeolian-centaur.glitch.me/) I whipped up:
 
-But alas time is not infinite and this ebook is already late... So here we are. I hope you enjoy it - I'm happy that this ebook reflects faithfully to Erin's magical print book and shows off Erin's art for more people to see.
+<p><iframe class="ampframe" src="https://aeolian-centaur.glitch.me/" width="343px" height="572px"></iframe></p>
+
+<style>
+.ampframe{
+    border:none
+}
+</style>
+
+It would be a lot of work to reformat the whole book for portrait orientation but look at the beautiful close-up on the textures! The art really comes to life in this format...
+
+Alas time is not infinite and this ebook is already late... So here we are. I hope you enjoy it - I'm happy that this ebook reflects faithfully to Erin's magical print book and shows off Erin's art for more people to see.
 
 Of course... to really support the project there's always [the actual book on Etsy](https://www.etsy.com/listing/737130607/journey-to-the-end-of-the-night?ref=shop_home_active_1) :) 
