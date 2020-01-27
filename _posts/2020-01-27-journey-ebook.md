@@ -62,7 +62,7 @@ Honestly I'm not sure why I didn't do this earlier in my coding "career" but...
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Love commenting my code! (am I doing it right?) <a href="https://t.co/VISUeGtpG8">pic.twitter.com/VISUeGtpG8</a></p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/1202771799462875136?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Sticking the stackoverflow URL into my code as a comment is a great way to easily refer back to the source! And let's be honest for all my coding projects I'm heavily relying on SO!
+Sticking the stackoverflow / codepen URL into my code as a comment is a great way to easily refer back to the source! And let's be honest for all my coding projects I'm heavily relying on copy and pasting from the web!
 
 ### 3) SwiperJS :(
 
