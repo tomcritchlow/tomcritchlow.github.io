@@ -183,6 +183,8 @@ https://tomcritchlow.com/2019/06/06/blood-in-the-feed/
 
 https://disquiet.com/2019/06/24/cyberdeck-2019/
 
+https://www.cnet.com/news/teens-have-figured-out-how-to-mess-with-instagrams-tracking-algorithm/
+
 On the run from algorithms. Desperately trying to turn ourselves into Junkusers so that we can retain some agency, autonomy.
 
 But autonomy and identity are done. They're dead. Luxury concepts reserved for the high-minded.
@@ -359,3 +361,7 @@ https://twitter.com/robhorning/status/1186663941734326272
 https://mailchi.mp/cb0071e0a9a5/kneelingbus-852561?e=a68912ab79
 
 https://mitpress.mit.edu/books/architectural-intelligence
+
+https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/
+
+https://www.cnet.com/news/teens-have-figured-out-how-to-mess-with-instagrams-tracking-algorithm/

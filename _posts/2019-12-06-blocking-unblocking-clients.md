@@ -8,23 +8,19 @@ og: https://tomcritchlow.com/images/yes-and-og-3.png
 
 *This post is part 3 of the Yes! And... series. Catch up on [Chapter 1](https://tomcritchlow.com/2019/11/18/yes-and/) and [Chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/)*.
 
-Good strategy sessions, like good improv sessions, are a product of multiple actors working together collaboratively to build scenes. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to run good strategy sessions.
+Good strategy sessions, like good improv sessions, are a product of multiple actors working together to build scenes collaboratively. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to create productive strategy sparring sessions.
 
-When you’re hired as a consultant you’re given a dangerous proposition - help clients solve problems that they have so far been unable to solve on their own.
+This reflects a core misunderstanding of what strategy is.
 
-Even worse - **despite what the contract might say: your role is not to solve problems but to help clients learn how to solve their own problems**.
+Strategy is not a single point in time powerpoint deck. Good strategy is an unfolding network of associations throughout an organization. And the unit of progress for the consultant is often the sparring session with the client.
 
-How do we help clients solve their own problems? Yep you guessed it - through a series of improv strategy sessions that happen in meetings, hallways and slack messages.
+As I reflect back on the most effective consulting engagements I've worked on it's the ones where I was able to build a strong improv reflex with my client and where we had arrived at a *Yes! And...* mindset between us - enabling us to co-create strategy with little regard for ego.
 
-Unfortunately it's common to find yourself in improv strategy sessions with clients where they have already failed to solve these problems on their own. And this leads to clients who block, shut down or otherwise hinder the very thing they have hired the consultant to solve.
+But to get there requires deliberate work to unblock clients, in fact to realize that often the consultant is the one blocking the client! (I've certainly been guilty of this.)
 
-**And, worse - it's all too easy for the consultant to be the one who is blocking the client by relying on their own ideas too heavily!**
+And the output? Usually the most ordinary of strategies that simply make deliberate movement towards important new capacities.
 
-So in this piece we explore how to deal with both clients who are blocked and how to *not* block as a consultant.
-
-**The good news is this ultimately leads to effective strategies that are co-created with clients. As consultants we need to work with clients & coach them into letting their ideas emerge from themselves - not originating with the consultant.**
-
-This generative, coaching mindset is crucial to the consultant to open up the client to get them out of their routines to see new possibilities, perspectives and mental models. And we're going to start with the most basic improv technique of them all...
+Let's start with the most basic improv technique of them all...
 
 ## Use “Yes! And…” to stop yourself blocking clients
 
@@ -72,7 +68,7 @@ As I talk about in my [frameworks post](https://tomcritchlow.com/2019/06/27/fram
 
 *Example: Continuing the Wirecutter conversation above you can see how we’re already folding in more of the client context into the strategy and we’re already co-creating vs me (the consultant) just telling the client what to do. This process will better uncover exactly why these category reviews are part of their company DNA or more concrete examples of missed opportunities from not publishing stand alone review pages. This co-creation ultimately creates a shared vision of how we might move forward.*
 
-Of course - let’s get real for a moment the theatre of work and all this talk of improv is only goes so far. You can’t keep building and bridging forever - and sometimes clients are simply going in the wrong direction.
+Of course - let’s get real for a moment the theatre of work and all this talk of improv only goes so far. You can’t keep building and bridging forever - and sometimes clients are simply going in the wrong direction.
 
 So it’s useful to understand the situations where *Yes! And…* is most useful and powerful. The answer is at the start of the engagement or session to establish a base reality:
 
@@ -93,24 +89,6 @@ So long as the foundations are co-created with the client the consultant is then
 All of this, however, relies on being able to get clients to a comfortable *Yes! And…* mode in the first place. This co-creation process feels a lot like an improv session (or a series of sessions) and good improv requires two (or more) actors! Unfortunately, I sometimes find that **clients are like blocked actors**.
 
 They have been trained to shut down their open-world generative side and they need coaxing and coaching to open up.
-
-## A Warning on Blocked Clients
-
-Before we talk about blocked clients let’s situate the concept within the context - in my own work 80% of the time when you feel the client is blocked - **it is you the consultant that is blocking the client**!
-
-The consultant’s ego places a high value on your own ideas - you want to be the hero that has the “right” answers. And in fact you can feel like a fraud if you work on a consulting project where you *don’t* have any original ideas.
-
-This thinking will lead you into trouble.
-
-Instead - remember that mostly there is no “correct” strategy and strategy is certainly not a stable idea - it’s an unfolding network of ideas. I love this quote from Stripe Partners:
-
-> The evidence from the case suggests that the concept of strategy can be reappraised. **From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade**. - source: [strategy is an unfolding network of associations](http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf)
-
-In my experience when you feel a client is blocked the most useful default response is to **move out of the way**!
-
-Look for ways to bridge from the client’s ideas and directions to new directions that are only slightly divergent and position you to unfold into a correct strategy later on. This can be paradoxical to begin with (how can I feel good about helping the client go in the wrong direction?) but in fact the most useful thing you can provide the client is forward motion and momentum. Shaping the strategy when it’s “in-motion” is much easier than blocking and shaping the strategy from a standing start.
-
-With that disclaimer out of the way… sometimes clients are, in fact, blocked!
 
 ## Unblocking Clients & Original Strategy
 
@@ -156,6 +134,26 @@ Of course, the best way to open up is through keeping this *Yes! And…* refrain
 It keeps you in the beginner’s mind of accepting that the client knows their business better than you do - so you push them to generate new directions themselves rather than providing them “answers” of what to do.
 
 And in fact “answers” and “solutions” are not really what we’re being hired for anyway...
+
+## Take a Hard Look in the Mirror
+
+All of this talk of blocked clients however misses something important - in my own work, 80% of the time when you feel the client is blocked - **it is you the consultant that is blocking the client**!
+
+The consultant’s ego places a high value on your own ideas - you want to be the hero that has the “right” answers. And in fact you can feel like a fraud if you work on a consulting project where you *don’t* have any original ideas.
+
+This thinking will lead you into trouble.
+
+Instead - remember that mostly there is no “correct” strategy and strategy is certainly not a stable idea - it’s an unfolding network of ideas. I love this quote from Stripe Partners:
+
+> The evidence from the case suggests that the concept of strategy can be reappraised. **From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade**. - source: [strategy is an unfolding network of associations](http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf)
+
+In my experience when you feel a client is blocked the most useful default response is to **move out of the way**!
+
+Look for ways to bridge from the client’s ideas to new directions that are only slightly divergent and position you to unfold into a correct strategy later on. This can be paradoxical to begin with (how can I feel good about helping the client go in the wrong direction?) but in fact the most useful thing you can provide the client is forward motion and momentum.
+
+Shaping the strategy when it’s “in-motion” is much easier than blocking and shaping the strategy from a standing start.
+
+In fact - we can extend this idea further. There is no right or wrong strategy. Most consulting projects have nothing to do with solving problems - instead they're all about building new capacities...
 
 ## Consultant as Capacity Builder
 
