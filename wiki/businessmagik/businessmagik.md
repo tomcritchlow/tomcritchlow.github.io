@@ -90,3 +90,19 @@ source: [Why Youtubers See Ghosts | Rhizome](https://rhizome.org/editorial/2019/
 <https://twitter.com/pieratt/status/1225794277491560449>
 
 <https://www.marcusjohnhenrybrown.com/post/a-wicked-pack-of-cards-the-poem>
+
+--
+
+>One of the files in my smartphone’s Notes app is named "Digital beliefs." This is a document I update weekly, when confronted with unconventional uses of digital technologies, or habits and behaviors relating to supernatural influences
+
+source: [A Persistence of Magical Thinking? | continent.](http://continentcontinent.cc/index.php/continent/article/view/332)
+
+--
+
+>The objective of this paper is to connect the somewhat obscure concept of hyperstitions — as developed by the group of researchers that operated under the banner of Cybernetic Culture Research Unit — to the concept and theories of ‘images of the future.’
+
+source: [Cultivating Hyperstitions - Jorge Camacho - Medium](https://medium.com/@j_camachor/cultivating-hyperstitions-8a6553c2706a)
+
+--
+
+<https://www.ribbonfarm.com/2016/04/07/business-as-magic/>
