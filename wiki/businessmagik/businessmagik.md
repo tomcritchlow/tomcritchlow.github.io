@@ -84,3 +84,9 @@ source: [Why Youtubers See Ghosts | Rhizome](https://rhizome.org/editorial/2019/
 --
 
 <https://www.amazon.com/Alchemy-Curious-Science-Creating-Business/dp/006238841X/>
+
+--
+
+<https://twitter.com/pieratt/status/1225794277491560449>
+
+<https://www.marcusjohnhenrybrown.com/post/a-wicked-pack-of-cards-the-poem>
