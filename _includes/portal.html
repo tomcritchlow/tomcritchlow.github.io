@@ -1,0 +1,40 @@
+<div class="portal-container">
+    <div class="portal-head">
+        <div class="portal-backlink" >
+            <div class="portal-title">From <span class="portal-text-title">{{ include.title }}</span></div>
+            <a href="{{ include.link }}" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+        </div>
+    </div>
+    <div id="portal-parent-{{include.anchor}}" class="portal-parent">
+        <div class="portal-parent-fader-top"></div>
+        <div class="portal-parent-fader-bottom"></div>        
+        <!-- We'll use Javascript to populate the iframe right here -->
+    </div>    
+</div>
+
+
+<script>
+function linkFunction(link) {
+    var baseSlug = link.split('#')[0]; // get the base slug
+    var atag = link.split('#')[1]; // get the hash
+    var parent = document.getElementById('portal-parent-{{include.anchor}}');
+
+    const frame = document.createElement('iframe');
+    parent.appendChild(frame);
+    frame.setAttribute("id", atag);
+    frame.setAttribute("class", "portal-iframe");
+    frame.setAttribute("src", baseSlug);
+    frame.setAttribute("scrolling", "no");  
+
+    setTimeout(function(){
+        const innerDoc = frame.contentDocument || frame.contentWindow.document;
+        anchor = innerDoc.getElementsByName(atag)[0]; // find the corresponding anchor tag
+        // get position of the anchor relative to the current scroll position
+        var offset = anchor.getBoundingClientRect().top;
+        // jump scroll the iframe content to the anchor
+        frame.contentWindow.scrollBy(0, offset);
+    }, 1000);
+};
+
+linkFunction("{{include.link}}");
+</script>

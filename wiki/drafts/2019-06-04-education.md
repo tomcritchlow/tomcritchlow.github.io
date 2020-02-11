@@ -21,3 +21,4 @@ Service journalism.
 ## The future of media is... education
 Email courses link.
 
+https://twitter.com/tomcritchlow/status/1227328952420782081

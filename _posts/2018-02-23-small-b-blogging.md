@@ -28,7 +28,7 @@ As Venkatesh says in [the calculus of grit](https://www.ribbonfarm.com/2011/08/1
 
 How does small b blogging go against the traditional mental model of blogging?
 
-Digg used to be the homepage of the internet (back when it was an aggregator, and before reddit became the new Digg). This was a time when there were a small number of entry points to the network that controlled a huge amount of influence. The Digg homepage, Hacker News, Slashdot, Metafilter.
+Digg used to be the homepage of the internet (back when it was an aggregator, and before reddit became the new Digg). This was a time when there were a small number of entry points to the network that controlled a huge amount of influence. The Digg homepage, Hacker News, Slashdot, Metafilter. <a name="small-b">
 
 Crucially, these entry points to the network were **very big and very accessible**. What do I mean by that? Well - in those early days they were **very big** in the sense that if you got your content on the Digg homepage a lot of people would see it (relative to the total size of the network at the time). And they were **very accessible** in the sense that it wasn't that hard to get your content there! I recall having a bunch of Digg homepage hits and Hacker News homepage hits.
 
