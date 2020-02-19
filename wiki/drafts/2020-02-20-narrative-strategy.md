@@ -76,6 +76,10 @@ Example - there are some clients I've worked with that had excellent ideas. Thin
 
 Narrative strategy is especially powerful for early stage companies and startups where a founder/exec who controls the narrative internally and externally drives outsized results.
 
+>Articulation is the first product. You’ll always need to find better ways to communicate to move your business forward. First, it’ll be to get someone to work with you, then it will be to get someone to help you, then it will be to get someone to use you, then it will be to get someone to invest in you. Understanding that how you articulate your business and needs is as crucial as how you build your business is the first breakthrough we try to make with our founders.
+
+From Brian Dell who coined the phrase (narrative strategy!) "articulation is the first product".
+
 ## Audience first products
 
 In an age of audience first products narrative, writing and creating an ongoing dialogue with the market is more powerful than ever. Entire businesses live and die by their ability
