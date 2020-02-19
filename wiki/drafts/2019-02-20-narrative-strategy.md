@@ -22,6 +22,8 @@ What I've come to believe about this "advisory" work is that the essence of it i
 
 ## Narrative Strategy
 
+Strategy is in motion
+Strategy is not well articulated
 
 After all st
 
@@ -48,4 +50,9 @@ After all st
 >What I realized is that playing an editorial role for a company and influencing multiple projects and discussions are not two separate things. It’s not “writing things” and “giving opinions because you know about stuff.” A Thought Partner is someone who, through a practice of researching, reading, learning, asking questions, and writing, helps partners in developing their ideas , knowledge, and thinking.
 
 source: [Thinking About Thought Partnerships – Sentiers Media](https://sentiers.media/thinking-about-thought-partnerships/)
+
+## Articulation is the first product
+
+Narrative strategy is especially powerful for early stage companies and startups where a founder/exec who controls the narrative internally and externally drives outsized results.
+
 
