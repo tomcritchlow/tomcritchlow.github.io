@@ -22,10 +22,22 @@ What I've come to believe about this "advisory" work is that the essence of it i
 
 ## Narrative Strategy
 
-Strategy is in motion
-Strategy is not well articulated
+We know strategy is an [unfolding network of associations](http://www.stripepartners.com/wp-content/uploads/2016/12/Stripe_Partners_Strategy_as_a_Network.pdf):
 
-After all st
+>The evidence from the case suggests that the concept of strategy can be reappraised. From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade.
+
+And we know that [only 30% of employees can articulate a company's strategy](only 30% of employees can correctly identify their company’s strategy).
+
+And I believe in the hyper-connected age we live in both of these things are becoming *more* true - that strategy is increasingly "in motion" and that most organizations are realzing their OODA loops are too slow for the modern world.
+
+This causes the articulation of strategy to stall and get left behind - how do you articulate something in motion? It's easier to write strategy down when it doesn't change right?
+
+It turns out serialized writing really works here - to articulate the strategy, to explore thinking, to test ideas and to gain attention and influence. All of which works internally or externally or both at a company.
+
+[Week Notes](https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0)
+
+
+
 
 The work of narrative strategy might look like:
 - Creating new language inside an organization
