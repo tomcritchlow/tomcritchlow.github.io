@@ -26,12 +26,22 @@
 <div class="pa2 bb dib" id="{{forloop.index}}">
 
 <div class="w-25 fl pa4-l">
-  {% if book.image %}
-    <img src="{{book.image}}" />
-    {% else %}
-    {% assign bookimage = book.link | split:"/" %}
-    <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
-  {% endif %}
+  {% if book.link %}
+  <a href="{{book.link}}">
+  {% elsif book.href %}
+  <a href="{{book.href}}">
+  {% endif %}  
+    {% if book.image %}
+      <img src="{{book.image}}" />
+      {% else %}
+      {% assign bookimage = book.link | split:"/" %}
+      <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
+    {% endif %}
+  {% if book.link %}
+  </a>
+  {% elsif book.href %}
+  </a>
+  {% endif %}    
 </div>
 
 <div class="w-75 fl pa4-l pl3">

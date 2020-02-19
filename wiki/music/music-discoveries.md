@@ -7,6 +7,7 @@ books:
    author: Caiphus Semenya
    image: https://lastfm.freetls.fastly.net/i/u/174s/c96c00adf241488ab99c81320ce2ae79.png
    notes: rise up and shine with a smile on your face. Optimism in music. Wonderful.
+   href: https://www.youtube.com/watch?v=cbYmYi2k5LA
  - title: Ritme Jaavdanegi
    author: Mohammad Reza Mortazavi
    image: https://lastfm.freetls.fastly.net/i/u/174s/5357a4afdb09b9e01f18d3d78004da6c.png
