@@ -27,7 +27,22 @@ Strategy is not well articulated
 
 After all st
 
-## Writing, Sparring & Narrative
+The work of narrative strategy might look like:
+- Creating new language inside an organization
+- Naming a project well
+- Internal blog posts / memos
+- Creating a cadence of week notes (internal or external)
+- Blog posts and sharing thinking externally
+- Crafting conference presentations
+- 
+
+## Writing, Editorial Coaching & Consulting
+
+There's a few (very few!) indie consultants that I know how mix editorial work with narrative strategy. This work is often explicitly supporting executives build, refine and test narrative strategies.
+
+This work is often pitched and sold with some actual writing from the consultant - helping to produce either external thinking and blogging or internal memos and articulation. In one light this is a writing coach / ghostwriter. But through the lens of narrative strategy this work becomes crucial to defining and framing strategy.
+
+Toby Shorin writes of his work:
 
 >Sometimes I felt like I was doing many different types work, but writing this down, I realized that there's a common denominator. They largely involved communicating some emerging reality in order to drive specific audience behaviors. 
 >
@@ -37,13 +52,13 @@ After all st
 >
 >Themes, narratives, metaphors, abstractions. They are tools for understanding. They can be deployed internally to set a vision for the company; they can drive product vision and roadmap; they can be used in sales decks; they can even be used in product interfaces.
 >
->For example, it can be powerful to develop different metaphors for explaining your business. The personal finance company I worked with is a classic SEO business that makes money by affiliate marketing. They have thousands of pages of product reviews and comparisons, and thousands more offering advice on investing, saving, homeownership, and so on. If you squint, it's possible to view this company as in the business of education. We tried designing based on this assumption instead, and suddenly interface design and product strategy fell into place. Thousands of pages could be leveraged into an app-like edutainment experience. Multiple layers of stakeholders operating on a new orientation to the market. 
->
->I have never considered brand and product to be separable, and this is part of why. 
+>For example, it can be powerful to develop different metaphors for explaining your business.[...]
 >
 >One challenge of our era, if not the defining challenge, is to reach a coherent, actionable understanding of what is happening in our culture. This is always what I have tried to accomplish with my writing, and increasingly this is what I find myself doing in work. Little today is clear. There are still questions to be answered on how to orient to our present situation. This is cultural strategy. There are still questions to be answered on how to forge a compelling, actionable vision of the future. This is narrative strategy.
 
 -via [Toby Shorin](https://tinyletter.com/Subpixel-Space/letters/subject-matter-16-2020-winter-update)
+
+Patrick is another exceptional individual who can mix editorial output with narrative strategy - what Patrick calls "thought partner":
 
 >Speaking with friends who also do “editorial adjacent” work, I came to realize that when working with small and medium organizations most of us have a direct relationship with the CEO (or perhaps a VP), and we produce largely longer form content usually not seen as marketing. In the process of researching, thinking through, and writing, we end up bringing ideas within the company and influencing its thinking. In some cases this is even done on purpose, not just as a side benefit of writing. Many of us become a kind of “Editor-in-chief of ideas circulating in the organization.”
 >
@@ -51,8 +66,27 @@ After all st
 
 source: [Thinking About Thought Partnerships – Sentiers Media](https://sentiers.media/thinking-about-thought-partnerships/)
 
+Connecting the dots between Toby and Patrick it's interesting to note how powerful it can be to have an *actual writer* crafting narrative strategy. I am a hamfisted blogger compared to the eloquence of Toby and Patrick and can only imagine how powerful it would be to hire them for narrative strategy.
+
+## Writing is a roadblock
+
+Example - there are some clients I've worked with that had excellent ideas. Things that would help change the direction of the company internally or help cement thinking in the market if posted externally but they held back. For executives who don't have a "writing muscle" and aren't used to this kind of narrative / editorial work they can get insecure..
+
 ## Articulation is the first product
 
 Narrative strategy is especially powerful for early stage companies and startups where a founder/exec who controls the narrative internally and externally drives outsized results.
 
+## Audience first products
 
+In an age of audience first products narrative, writing and creating an ongoing dialogue with the market is more powerful than ever. Entire businesses live and die by their ability
+
+Reference Web
+
+## So What?
+
+This post although long is really just a collection of observations and ideas I've strung together - I'm thinking through what narrative strategy is, 
+
+Let's leave with some questions:
+
+- how do you sell it
+- is this how you bootstrap sparring skills?
