@@ -21,6 +21,15 @@ I met Jim [^](My old college roommate) at the station.
 
 Inline footnote^[Text of inline footnote] definition.
 
+Now let's try the old way[^1]
+
+--
+
+[^1]: 
+Footnotes are the mind killer.  
+Footnotes are the little-death that brings total obliteration.  
+I will face my footnotes.
+
 <script>
 var footnotes = $(".footnotes p");
 
