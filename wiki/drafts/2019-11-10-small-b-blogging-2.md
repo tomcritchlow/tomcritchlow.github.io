@@ -30,7 +30,7 @@ Measure by engaged response not PVs
 Put doodles in it (blogpunk)
 Be weird (weird work)[^2]
 
-[^2]: Now what happens with *Markdown in markdown* footnotes? [testing](http://tomcritchlow.com)
+[^2]: Now what happens with *Markdown in markdown* footnotes? ![](https://tomcritchlow.com/images/ebook-screenshots.png)
 
 
 Now let's try the old way[^3]
