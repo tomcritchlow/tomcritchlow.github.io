@@ -20,7 +20,7 @@ Measure by engaged response not PVs
 Put doodles in it (blogpunk)
 Be weird (weird work)
 
-Now let's try the old way[^2] [^2]: What's the deal with footnoes?
+Now let's try the old way[^2]
 
 --
 
