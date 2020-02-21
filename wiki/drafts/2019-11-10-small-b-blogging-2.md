@@ -19,5 +19,10 @@ Inline notes will work even without the identifier:
 
 I met Jim [^](My old college roommate) at the station.
 
+<script>
+var footnotes = $(".footnotes p");
 
+$("sup").each(function(index){$(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")});
+
+</script>
 
