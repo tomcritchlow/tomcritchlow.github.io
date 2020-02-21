@@ -25,10 +25,7 @@ Now let's try the old way[^1]
 
 --
 
-[^1]: 
-Footnotes are the mind killer.  
-Footnotes are the little-death that brings total obliteration.  
-I will face my footnotes.
+[^1]: Footnotes are the mind killer.  
 
 <script>
 var footnotes = $(".footnotes p");
