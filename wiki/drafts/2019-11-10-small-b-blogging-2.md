@@ -15,6 +15,8 @@ Be weird (weird work)
 
 Now let's try the old way[^1]
 
+[^1]: Footnotes are the mind killer.  
+
 Ask questions.
 Measure by engaged response not PVs
 Put doodles in it (blogpunk)
@@ -22,11 +24,8 @@ Be weird (weird work)
 
 Now let's try the old way[^2]
 
---
-
-[^1]: Footnotes are the mind killer.  
-
 [^2]: What's the deal with footnoes?
+
 
 <script>
 
