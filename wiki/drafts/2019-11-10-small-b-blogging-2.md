@@ -11,5 +11,13 @@ Measure by engaged response not PVs
 Put doodles in it (blogpunk)
 Be weird (weird work)
 
+## Testing Footnotes
+
+I met Jim [^jim](My old college roommate) at the station.
+
+Inline notes will work even without the identifier:
+
+I met Jim [^](My old college roommate) at the station.
+
 
 
