@@ -31,8 +31,10 @@ Now let's try the old way[^1]
 
 $( document ).ready(function() {
     var footnotes = $(".footnotes p");
-
-    $("sup").each(function(index){$(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")});   
+    $("sup").each(function(index){
+        $(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")
+    });   
+    $(".footnotes").hide()
 });    
 
 
