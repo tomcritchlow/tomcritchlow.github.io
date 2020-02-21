@@ -13,19 +13,20 @@ Be weird (weird work)
 
 ## Testing Footnotes
 
-I met Jim [^jim](My old college roommate) at the station.
-
-Inline notes will work even without the identifier:
-
-I met Jim [^](My old college roommate) at the station.
-
-Inline footnote^[Text of inline footnote] definition.
-
 Now let's try the old way[^1]
+
+Ask questions.
+Measure by engaged response not PVs
+Put doodles in it (blogpunk)
+Be weird (weird work)
+
+Now let's try the old way[^2] [^2]: What's the deal with footnoes?
 
 --
 
 [^1]: Footnotes are the mind killer.  
+
+[^2]: What's the deal with footnoes?
 
 <script>
 
