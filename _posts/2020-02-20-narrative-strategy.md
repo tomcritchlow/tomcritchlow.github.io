@@ -111,7 +111,7 @@ I've seen indie consultants roll up their sleeves with early stage founders and 
 
 ## So What?
 
-To be honest I'm just getting started with this idea of narrative strategy - it's an emerging form of consulting that looks and feels very different from what I've seen before. It combines the talents of a consultant that can excel at writing, editorial and strategy with a market trend to value narrative brands and narrative individuals.
+To be honest I'm just getting started with this idea of narrative strategy - it's an emerging form of consulting that looks and feels very different from what I've seen before. It combines the talents of a consultant that can excel at writing, editorial and strategy with a market trend that values narrative brands and narrative individuals.
 
 Let's leave with some questions:
 

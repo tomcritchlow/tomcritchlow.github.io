@@ -37,3 +37,7 @@ Here's an interesting project from the NYT that uses gdocs as a backend to gener
 >Generating footnotes
 
 source: [space and times](https://spaceandtim.es/etc/research_tools/)
+
+--
+
+<https://notes.andymatuschak.org/About_these_notes>
