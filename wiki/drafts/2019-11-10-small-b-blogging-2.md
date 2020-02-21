@@ -28,9 +28,13 @@ Now let's try the old way[^1]
 [^1]: Footnotes are the mind killer.  
 
 <script>
-var footnotes = $(".footnotes p");
 
-$("sup").each(function(index){$(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")});
+$( document ).ready(function() {
+    var footnotes = $(".footnotes p");
+
+    $("sup").each(function(index){$(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")});   
+});    
+
 
 </script>
 
