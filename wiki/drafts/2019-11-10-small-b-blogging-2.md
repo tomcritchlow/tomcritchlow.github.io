@@ -28,14 +28,14 @@ Be weird (weird work)
 Ask questions.
 Measure by engaged response not PVs
 Put doodles in it (blogpunk)
-Be weird (weird work)[^3]
+Be weird (weird work)[^2]
 
-[^3]: Now what happens with *Markdown in markdown* footnotes? E.g. ![](https://tomcritchlow.com/images/year-5-chart.png)
+[^2]: Now what happens with *Markdown in markdown* footnotes? [testing](http://tomcritchlow.com)
 
 
-Now let's try the old way[^2]
+Now let's try the old way[^3]
 
-[^2]: What's the deal with footnoes?
+[^3]: What's the deal with footnoes?
 
 
 <script>
