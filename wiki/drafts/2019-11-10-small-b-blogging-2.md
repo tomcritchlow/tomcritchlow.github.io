@@ -32,7 +32,11 @@ Now let's try the old way[^2]
 $( document ).ready(function() {
     var footnotes = $(".footnotes p");
     $("sup").each(function(index){
-        $(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")
+        // $(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")
+        $(this).append("
+                <label for='"+index+"' class='margin-toggle sidenote-number'></label>
+                <input type='checkbox' id='"+index+"' class='margin-toggle'/>
+                <span class='sidenote'>"+footnotes[index].textContent+"</span>")  
     });   
     $(".footnotes").hide()
 });    
