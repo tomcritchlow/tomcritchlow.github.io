@@ -19,6 +19,8 @@ Inline notes will work even without the identifier:
 
 I met Jim [^](My old college roommate) at the station.
 
+Inline footnote^[Text of inline footnote] definition.
+
 <script>
 var footnotes = $(".footnotes p");
 
