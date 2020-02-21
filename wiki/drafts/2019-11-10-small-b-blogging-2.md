@@ -21,6 +21,17 @@ Ask questions.
 Measure by engaged response not PVs
 Put doodles in it (blogpunk)
 Be weird (weird work)
+Ask questions.
+Measure by engaged response not PVs
+Put doodles in it (blogpunk)
+Be weird (weird work)
+Ask questions.
+Measure by engaged response not PVs
+Put doodles in it (blogpunk)
+Be weird (weird work)[^3]
+
+[^3]: Now what happens with *Markdown in markdown* footnotes? E.g. ![](https://tomcritchlow.com/images/year-5-chart.png)
+
 
 Now let's try the old way[^2]
 
@@ -32,7 +43,6 @@ Now let's try the old way[^2]
 $( document ).ready(function() {
     var footnotes = $(".footnotes p");
     $("sup").each(function(index){
-        // $(this).append("<span class='sidenote'>"+footnotes[index].textContent+"</span>")
         $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].textContent.slice(0,-2)+"</span>")  
     });   
     $(".footnotes").hide()
