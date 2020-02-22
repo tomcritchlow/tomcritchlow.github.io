@@ -43,8 +43,8 @@ Now let's try the old way[^3]
 $( document ).ready(function() {
     var footnotes = $(".footnotes p");
     $("sup").each(function(index){
-        $('a:last-child', this).remove();
-        $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
+        var fn = footnotes[index].removeChild(footnotes[index].lastChild)
+        $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+fn.innerHTML+"</span>")  
     });   
     $(".footnotes").hide()
 });    
