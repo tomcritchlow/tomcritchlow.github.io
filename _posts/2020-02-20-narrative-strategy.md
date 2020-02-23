@@ -28,7 +28,7 @@ We know strategy is an [unfolding network of associations](http://www.stripepart
 
 >The evidence from the case suggests that the concept of strategy can be reappraised. From strategy as a static set of choices made at a specific point in time to strategy as an unfolding network of people, shared experiences and artefacts that is constantly being remade.
 
-And we know that [only 30% of employees can articulate a company's strategy](only 30% of employees can correctly identify their company’s strategy).
+And we know that [only 30% of employees can articulate a company's strategy](https://hbr.org/2013/06/when-ceos-talk-strategy-is-anyone-listening).
 
 And I believe in the hyper-connected age we live in both of these things are becoming *more* true - that strategy is increasingly "in motion" and that most organizations are realizing their OODA loops are too slow for the modern world.
 
