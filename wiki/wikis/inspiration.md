@@ -41,3 +41,9 @@ source: [space and times](https://spaceandtim.es/etc/research_tools/)
 --
 
 <https://notes.andymatuschak.org/About_these_notes>
+
+--
+
+>BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+
+source: [BookStack](https://www.bookstackapp.com/)

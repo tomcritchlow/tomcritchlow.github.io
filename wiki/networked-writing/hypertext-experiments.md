@@ -15,3 +15,7 @@ From Katherine Ye. Also from Katherine Ye - a list of thinking around the concep
 
 This podcast with [Ted Nelson](https://anchor.fm/tools-and-craft/episodes/Interview-with-Ted-Nelson-e33b86)
 
+--
+
+<https://www.are.na/chad-mazzola/networked-knowledge-strategies-for-learning>
+
