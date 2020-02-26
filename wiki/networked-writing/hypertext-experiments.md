@@ -19,3 +19,7 @@ This podcast with [Ted Nelson](https://anchor.fm/tools-and-craft/episodes/Interv
 
 <https://www.are.na/chad-mazzola/networked-knowledge-strategies-for-learning>
 
+--
+
+[Figma visualization of a twitter conversation](https://www.figma.com/file/riPXW9Lqpyuxo5K88EtUgG/MAR-19008-Thread-Viz?node-id=0%3A1)
+
