@@ -24,7 +24,7 @@ source: [How can we develop transformative tools for thought?](https://numinous.
 
 - [Are.na / Networked Knowledge & Strategies for Learning](https://www.are.na/chad-mazzola/networked-knowledge-strategies-for-learning)
 - [Are.na / Are.na Influences](https://www.are.na/are-na-team/arena-influences)
-- 
+- [Personal Knowledge Management - Harold Jarche](https://jarche.com/pkm/)
 
 ## Tools:
 
@@ -51,3 +51,13 @@ source: [Why is this interesting? - The Curiosity Curve Edition - Why is this in
 >Bergman and Whittaker report that many of us use hierarchical folders for our personal digital organizing. Critics of this method point out that information is hidden from sight in folders that are often within other folders so that we have to remember the exact location of information to access it. Because of this, information scientists suggest other methods: search, more flexible than navigating folders; tags, which allow multiple categorizations; and group information management. Yet Bergman and Whittaker have found in their pioneering personal information management research that these other methods that work best for public information management don’t work as well for personal information management.
 
 source: [Managing our digital stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
+
+--
+
+>Seeking is finding things out and keeping up to date. Building a network of colleagues is helpful in this regard. It not only allows us to “pull” information, but also have it “pushed” to us by trusted sources. Good curators are valued members of knowledge networks.
+>
+>Sensing is how we personalize information and use it. Sensing includes reflection and putting into practice what we have learned. Often it requires experimentation, as we learn best by doing.
+>
+>Sharing includes exchanging resources, ideas, and experiences with our networks as well as collaborating with our colleagues.
+
+source: [The Seek > Sense > Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)
