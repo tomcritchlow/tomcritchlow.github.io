@@ -17,11 +17,9 @@ Venkatesh just posted a banger:
 >
 >I want to take a stab at lightly theorizing this renaissance. And also speculating, in light of this renaissance, about what might be the eighth and penultimate death of blogging. And the future of books. So it’s going to be a sprawling, messy hot take on the State of Textual Media. Or at least a simmering take, since I’ve been thinking about this stuff for a year on the backburner.
 
-You should read the whole thing - and I don't disagree with Vgr, the landscape of blogging is shifting and changing. Same as it ever has.
+You should read the whole thing - and I don't disagree with Vgr, the landscape of blogging is shifting and changing. Where Venkatesh explores technologies I'm going to explore themes and see where we get. Consider this a side of fries to enjoy alongside the Ribbonfarm burger...
 
-https://twitter.com/tomcritchlow/status/1199797483553079298
-
-## Wither the Index
+## Wither the Indexes
 
 An index is a curious thing. PageRank - search on static sites.
 
@@ -31,7 +29,9 @@ This is where Substack suffers. This is where Roam suffers.
 
 Surface area.
 
-## Indie Indexes
+https://thecreativeindependent.com/
+
+This is how we replace RSS - with smart hubs.
 
 indieweb.xyz maybe these are the answer.
 
@@ -44,6 +44,8 @@ https://waves.pomb.us/
 https://quantum.country/qcvc
 
 Whether this is hand-rolled HTML, static sites like Jekyll, Hugo or the new hotness Gatsby the bar is becoming lower and lower for creating this kind of experience.
+
+http://worrydream.com/ExplorableExplanations/ "I want text to be used as an environment to think in."
 
 ## Presentations!
 
@@ -64,8 +66,11 @@ https://subpixel.space/entries/open-transclude/
 
 https://tomcritchlow.com/2018/09/06/how-to-amp-stories/
 
+There's hope here - because installing a WP plugin is too heavy and risky for a simple in-line element. But Gatsby and Jekyll both handle this gracefully and easily with something that is more like copy and pasting than installing.
 
+## What happens when Medium implodes?
 
+Will the writing return to blogs? Dev.to has exploded as a niche Medium-esque writing destination. Perhaps the collapse of Medium will see a bunch of more focused writing verticals emerge? 
 
 ## Broken Comments
 
@@ -77,6 +82,9 @@ https://www.figma.com/file/riPXW9Lqpyuxo5K88EtUgG/MAR-19008-Thread-Viz?node-id=0
 
 Hypothesis is great but suffers from poor UX and lack of resources - and their focus is on education so they lack broad consumer awareness.
 
+## Freeform spaces
+
+https://twitter.com/tomcritchlow/status/1199797483553079298
 
 ## Small-b Blogging
 
@@ -88,6 +96,7 @@ Blogging needs to:
 
 - Reinvent comments
 - Rebuild new indexes and hubs
+- Lean into easy to use components
 - Build new measures of influence
 
 If it wants to stay ahead of the chopping block.

@@ -26,3 +26,7 @@ A sense of place in 30 questions:
 >The following exercise in watershed awareness was hatched 30 years ago by Peter Warshall, naturalist extraordinaire. Variations of this list have appeared over the years with additions by Jim Dodge, Peter Berg, and Stephanie Mills among others. I have recently added new questions from Warshall and myself, and I have edited or altered most of the rest. It's still a work in progress. If you have a universal question you think fits, submit it to me.
 
 source: [Kevin Kelly -- The Big Here](https://kk.org/helpwanted/archives/001084.php)
+
+--
+
+<https://satellitestud.io/
