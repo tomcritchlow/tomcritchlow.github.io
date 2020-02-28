@@ -10,8 +10,6 @@
 
 <https://www.inkandswitch.com/capstone-manuscript.html>
 
-<https://www.are.na/are-na-team/arena-influences>
-
 [Roam Whitepaper](https://roamresearch.com/#/v8/help/page/Vu1MmjinS)
 
 <https://www.brainpickings.org/2011/08/01/networked-knowledge-combinatorial-creativity/>
@@ -19,6 +17,8 @@
 >We believe now is a good time to work hard on this vision again. In this essay we sketch out a set of ideas we believe can be used to help develop transformative new tools for thought
 
 source: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
+
+[Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 
 ## Links:
 
@@ -33,6 +33,10 @@ source: [How can we develop transformative tools for thought?](https://numinous.
 - Workflowy
 - Hypothes.is
 - Are.na
+- Notion
+- Pocket
+- Pinboard
+- <https://screenotate.com/>
 
 ## Quotes
 
@@ -61,3 +65,9 @@ source: [Managing our digital stuff](https://mitpress.mit.edu/books/science-mana
 >Sharing includes exchanging resources, ideas, and experiences with our networks as well as collaborating with our colleagues.
 
 source: [The Seek > Sense > Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)
+
+--
+
+>Science has provided the swiftest communication between individuals; it has provided a record of ideas and has enabled man to manipulate and to make extracts from that record so that knowledge evolves and endures throughout the life of a race rather than that of an individual.
+
+source: [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
