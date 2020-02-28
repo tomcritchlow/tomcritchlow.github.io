@@ -18,13 +18,17 @@
 
 source: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
-[Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+- [Of Gardens & Wikis](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+- [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+
+[Analogy as the core of cognition](http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf)
 
 ## Links:
 
 - [Are.na / Networked Knowledge & Strategies for Learning](https://www.are.na/chad-mazzola/networked-knowledge-strategies-for-learning)
 - [Are.na / Are.na Influences](https://www.are.na/are-na-team/arena-influences)
 - [Personal Knowledge Management - Harold Jarche](https://jarche.com/pkm/)
+- [Diagrams of knowledge](http://scottbot.net/knowledge/)
 
 ## Tools:
 
@@ -37,6 +41,7 @@ source: [How can we develop transformative tools for thought?](https://numinous.
 - Pocket
 - Pinboard
 - <https://screenotate.com/>
+- <https://openknowledgemaps.org/map/b63fb68c483132211d5a4066c2925114>
 
 ## Quotes
 
@@ -66,8 +71,16 @@ source: [Managing our digital stuff](https://mitpress.mit.edu/books/science-mana
 
 source: [The Seek > Sense > Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)
 
+And: [PKM in 34 pieces](http://jarche.com/2013/10/pkm-in-34-pieces/)
 --
 
 >Science has provided the swiftest communication between individuals; it has provided a record of ideas and has enabled man to manipulate and to make extracts from that record so that knowledge evolves and endures throughout the life of a race rather than that of an individual.
 
 source: [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+
+--
+
+>Multi-level summaries: A new approach to non-fiction books
+
+source: [Multi-level summaries: A new approach to non-fiction books | Francis Miller - Information & learning design](https://www.francismiller.com/mls-paper/)
+
