@@ -16,12 +16,23 @@
 
 <https://www.brainpickings.org/2011/08/01/networked-knowledge-combinatorial-creativity/>
 
+>We believe now is a good time to work hard on this vision again. In this essay we sketch out a set of ideas we believe can be used to help develop transformative new tools for thought
+
+source: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
+
+## Links:
+
+- [Are.na / Networked Knowledge & Strategies for Learning](https://www.are.na/chad-mazzola/networked-knowledge-strategies-for-learning)
+- [Are.na / Are.na Influences](https://www.are.na/are-na-team/arena-influences)
+- 
+
 ## Tools:
 
 - <https://getmemex.com/>
 - Roam
 - Workflowy
 - Hypothes.is
+- Are.na
 
 ## Quotes
 
