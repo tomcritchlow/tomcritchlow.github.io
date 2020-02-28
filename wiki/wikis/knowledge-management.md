@@ -29,6 +29,7 @@ source: [How can we develop transformative tools for thought?](https://numinous.
 - [Are.na / Are.na Influences](https://www.are.na/are-na-team/arena-influences)
 - [Personal Knowledge Management - Harold Jarche](https://jarche.com/pkm/)
 - [Diagrams of knowledge](http://scottbot.net/knowledge/)
+- [Organising knowledge with multi-level content: Making knowledge easier to understand,remember and communicate](http://www.francismiller.com/organising_knowledge_paper.pdf) - PDF
 
 ## Tools:
 
@@ -72,6 +73,7 @@ source: [Managing our digital stuff](https://mitpress.mit.edu/books/science-mana
 source: [The Seek > Sense > Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)
 
 And: [PKM in 34 pieces](http://jarche.com/2013/10/pkm-in-34-pieces/)
+
 --
 
 >Science has provided the swiftest communication between individuals; it has provided a record of ideas and has enabled man to manipulate and to make extracts from that record so that knowledge evolves and endures throughout the life of a race rather than that of an individual.
@@ -82,5 +84,5 @@ source: [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/ar
 
 >Multi-level summaries: A new approach to non-fiction books
 
-source: [Multi-level summaries: A new approach to non-fiction books | Francis Miller - Information & learning design](https://www.francismiller.com/mls-paper/)
+source: [Multi-level summaries: A new approach to non-fiction books](https://www.francismiller.com/mls-paper/)
 
