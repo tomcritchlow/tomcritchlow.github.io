@@ -23,6 +23,17 @@
     <details open>
         <summary>About Me</summary>
         <p>Hi there, I'm Tom Critchlow and this is my digital garden. It's full of stuff. To help with the sprawl take a look at the stuff below</p>
+
+        <details>
+                <summary>More About Me</summary>
+                <p>Based in Brooklyn, NY</p>
+                <ul>
+                    <li>/now</li>
+                    <li>@tomcritchlow</li>
+                    <li>tjcritchlow@gmail.com</li>
+                </ul>
+              </details>
+
       </details>
 
 
@@ -67,7 +78,7 @@
                             <summary>Blog posts</summary>
                             <ul>
                                 {% for post in site.posts  | limit:10%}
-                                <li>{{ post.date | date: "%-d %B %Y" }}<a href="{{post.url}}">{{post.title}}</a></li>
+                                <li><a href="{{post.url}}">{{post.title}}</a> | {{ post.date | date: "%-d %B %Y" }}</li>
                                 {% endfor %}
                                 <li><a href="/writing">see all -></a></li>
                             </ul>
