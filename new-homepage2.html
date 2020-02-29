@@ -86,11 +86,12 @@
                     </li>
                     <li><details>
                             <summary>Blogchains</summary>
-                            <ul>
-                                <li><a href="">Small b blogging</a></li>
-                                <li><a href="">Media Design</a></li>
-                                <li><a href="">Narrative strategy</a></li>
-                            </ul>
+{% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
+                                <ul>
+                                {% for page in blogchains %}
+                                <li><a href="{{page.url}}">{{page.title}}</a></li>
+                                {% endfor %}
+                                </ul>
                         </details>  
                     </li>
             </ul>
