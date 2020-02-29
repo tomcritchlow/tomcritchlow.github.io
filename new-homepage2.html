@@ -49,9 +49,10 @@
                     <li><details>
                             <summary>Blog posts</summary>
                             <ul>
-                                <li><a href="">Small b blogging</a></li>
-                                <li><a href="">Media Design</a></li>
-                                <li><a href="">Narrative strategy</a></li>
+                                {% for post in site.posts  | limit:10%}
+                                <li>{{ post.date | date: "%-d %B %Y" }}<a href="{{post.url}}">{{post.title}}</a></li>
+                                {% endfor %}
+                                <li><a href="/writing">see all -></a></li>
                             </ul>
                         </details>  
                     </li>
