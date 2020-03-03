@@ -22,95 +22,170 @@
         </div>
 </section>
 
-<section class="cf pv4 tcgrey">
-
-<div class="fw8 f2-l f3 tc ma0 pa0 pt4">Navigation</div>
-
-        <div class="pa5-ns mw9 center">
-                <div class="cf w-100 lh-copy">
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>My Blog</h2>
-                        <p>I have a <a href="http://tomcritchlow.com/writing/">blog</a>. Nothing fancy but it's not hosted on Medium so that's a relief. Here's the latest:</p>
+<style>
+        details{
+            padding:10px;
+            margin-top:10px;
+        }
+    
+        details[open]{
+            background-color:#e8fdf5;
+        }
+    
+        details li{
+            padding-top:5px;
+            padding-bottom:5px;
+        }
+    
+        summary{
+            cursor:pointer;
+        }
+    
+        summary:focus{
+            outline:none;
+        }
+    </style>
+    
+    <section class="cf pv5 mw7 f4-l center w-90 lh-copy">
+    
+        <p>Hi there, I'm Tom Critchlow and this is my digital garden. It's full of stuff. To help with the sprawl take a look at the stuff below</p>
+    
+    
+        <details>
+            <summary>About Me</summary>
+            <p>Based in Brooklyn, NY</p>
+            <ul>
+                <li><a href="/about/">About page</a></li>
+                <li><a href="/now/">/now page</a></li>
+                <li><a href="https://twitter.com/tomcritchlow">@tomcritchlow</a> on twitter</li>
+                <li>tjcritchlow@gmail.com</li>
+                <li><a href="https://tinyletter.com/tomcritchlow">Join my tinyletter</a></li>
+            </ul>
+        </details>
+    
+        
+    
+    
+        <details>
+            <summary>Consulting</summary>
+            <p>I run an independent digital strategy studio called <strong>Yes! And...</strong>. I work with media and content companies usually embedded inside the client's organization building new capacities and tackling new problems.</p>
+            <ul>
+                <li><a href="/consulting/">An overview of my consulting</a></li>
+                <li><a href="https://tomcritchlow.com/2018/07/25/media-design/">The practice of Media Design</a></li>
+                <li><a href="https://tomcritchlow.com/2020/02/20/narrative-strategy/">Narrative strategy</a></li>
+                <details>
+                        <summary>Clients</summary>
                         <ul>
-                            {% for post in site.posts limit:5 %}
-                            <li><a href="{{post.url}}">{{post.title}}</a> - {{ post.date | date_to_string }}</li>
-                            {% endfor %}
-                        </ul> 
-                    </div>
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>Tinyletter</h2>
-                        <p>I send out occasional email newsletters. Subscribe here:</p>
-                        <ul>
-                            <li><a href="http://tinyletter.com/tomcritchlow">http://tinyletter.com/tomcritchlow</a></li>
-                        </ul> 
-                        <p>Or <a href="https://tinyletter.com/tomcritchlow/archive">view the archives here</a>.</p>
-                    </div>
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>Hire Me</h2>
-                        <p>I'm a digital strategy consultant by trade. What does that mean? Read up:</p>
-                        <ul>
-                            <li><a href="http://tomcritchlow.com/consulting/">My consulting page</a></li>
-                            <li><a href="http://tomcritchlow.com/2017/07/18/the-consultants-grain/">The consultant's grain</a> - a blog post about culture change and the nature of consulting</li>
-                            <li><a href="http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/">A fieldguide for independent consulting</a> - some tips for those wanting to be an independent consultant</li>
-                        </ul> 
-                    </div>
-                </div>
-                 <div class="cf w-100">
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>Open Feeds</h2>
-                        <p>As a resistance to the hyperfeeds of BigSocial I'm trying to build my own feeds (on rss!). Bookmark and follow along here:</p>
-                        <ul>
-                            <li><a href="http://tomcritchlow.com/feeds/">/feeds</a></li>
-                        </ul> 
-                        <p>One day I'll get around to making this easy for anyone to publish their own feeds page</p>
-                    </div>
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>@tomcritchlow</h2>
-                        <p>Twitter is where I hang out and by far the easiest way to get in touch with me. @-me!</p>
-                        <ul>
-                            <li><a href="https://twitter.com/tomcritchlow">@tomcritchlow</a></li>
+                            <li>The New York Times</li>
+                            <li>Etsy</li>
+                            <li>Dotdash</li>
+                            <li>Gartner</li>
+                            <li>Complex Media</li>
+                            <li>Reviews.com</li>
+                            <li>Seatgeek</li>
+                            <li>The Wirecutter</li>
+                            <li>Fundera</li>
                         </ul>
-                    </div>
-                    <div class="fl w-third-l w-100 pa3 pa4-l lh-copy">
-                        <h2>/wiki</h2>
-                        <p>I created a slow-growing and sporadically tended personal wiki to be a place for me to collect the dots.</p>
+                    </details>
+            </ul>
+        </details>      
+    
+        <details>
+                <summary>Blogging</summary>
+                <p>I blog in a few weird ways and blogging has increasingly been a part of my identity.</p>
+    
+                        <details open>
+                                <summary>Start here:</summary>
+                                <ul>
+                                    <li><a href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small b blogging</a></li>
+                                    <li><a href="https://tomcritchlow.com/2019/05/17/blogpunk/">Blogpunk</a></li>
+                                    <li><a href="https://tomcritchlow.com/2017/01/26/f-yeah-side-projects/">f*$k yeah side projects</a></li>
+                                    <li><a href="/feed.xml">RSS feed</a></li>
+                                </ul>
+                            </details>  
+                        
+                        <details>
+                                <summary>Blog posts:</summary>
+                                <ul>
+                                    {% for post in site.posts  | limit:10%}
+                                    <li><a href="{{post.url}}">{{post.title}}</a> | {{ post.date | date: "%-d %B %Y" }}</li>
+                                    {% endfor %}
+                                </ul>
+                                <a href="/writing">see all -></a>
+                            </details>  
+                        
+                        <details>
+                                <summary>Blogchains</summary>
+                                <p>I have a few blogchains on the go. Read <a href="https://tomcritchlow.com/2019/07/17/blogchains/">more about blogchains here</a></p>
+    
+    {% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
+                                    <ul>
+                                    {% for page in blogchains %}
+                                    <li><a href="{{page.url}}">{{page.title}}</a></li>
+                                    {% endfor %}
+                                    </ul>
+                            </details>  
+    
+    
+            </details>    
+    
+        <details>
+                <summary>The Strategic Independent (book project)</summary>
+                <p>I'm writing a book - working title <strong>"The Strategic Independent: theory and practice for independent consultants"</strong>. I've been serializing the writing on my blog and have ~35k words written so far.</p>
+                <ul>
+                    <li><a href="https://tomcritchlow.com/strategy/">The book outline</a></li>
+                    <li><a href="https://tomcritchlow.com/2019/07/12/annotate-the-outline/">Reader annotated outline</a></li>
+                    <li>Start here: <a href="https://tomcritchlow.com/2019/04/04/the-strategic-independent/">the strategic independent</a></li>
+                    <li><a href="https://www.are.na/tom-critchlow/the-strategic-independent">Follow the series on are.na</a></li>
+                </ul>
+    
+                <details>
+                        <summary>All my writing on independent consulting:</summary>
                         <ul>
-                            <li><a href="https://tomcritchlow.com/wiki/">/wiki</a></li>
+                                {% for post in site.posts  %}
+                                {% if post.tags contains "strategy" %}
+                                <li><a href="{{post.url}}">{{post.title}}</a></li>
+                                {% endif %}
+                                {% endfor %}
                         </ul>
-                    </div>
-                </div>
-        </div>
-
-</section>
-
-<section class="cf pv5">
-<div class="mw8-l w-90-s center tc">
-        <h2> Clients</h2>
-
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/nyt.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/complex.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/olapic.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/fundera.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/gucci.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/etsy.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/gartner.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/reviews.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/wirecutter.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/essence.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/dotdash.png" /></div>
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/seatgeek.png" /></div>
-                
-        </div>
-</section>
-
-
-<section class="cf pv5">
-
-        <div class="mw6 center tc contactbox">
-            <h2><a class="no-underline tcblack" href="mailto:tjcritchlow@gmail.com">Get in touch</a></h2>
-        </div>
-
-</section>
+                    </details>            
+    
+            </details> 
+    
+            <details>
+                    <summary>Fiercely Curious (my art business)</summary>
+                    <p>I run an art collective with Erin called <a href="https://www.fiercelycurious.com/">Fiercely Curious</a> in Brooklyn with ~20 artists and ~20 designers. Mostly these days we work on custom commissions, studio visits and unique art projects. Keep up to date one Instagram: <a href="https://www.instagram.com/fiercelycurious/">@fiercelycurious</a></p>
+                    
+                    <p>In the past we've run some fun pop-up art shows where we took over an abandoned warehouse space in Gowanus for a week. Like <a href="https://www.fiercelycurious.com/blogs/curiosities/56010753-technology-as-hands-show-at-sky-gallery">this one</a>, or <a href="https://www.fiercelycurious.com/blogs/curiosities/17819493-and-show-it-goes-another-year-in-the-bag">this one</a>.</p>
+            
+        
+                </details>         
+    
+    
+    {% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
+    {% assign wikifolders = "" | split:"" %}
+    
+    {% for folder in folders %}
+    {% assign tempvar = folder.path | split:"/" %}
+    {% assign wikifolders = wikifolders | push:tempvar[1] %}
+    {% endfor %}
+    
+    {% assign wikifolders = wikifolders | uniq | sort %}
+    
+    <details>
+        <summary>Wiki</summary>
+        <p>I maintain a sprawling wiki that I think of as a loosly tended "digital garden". <a href="https://tomcritchlow.com/2019/02/17/building-digital-garden/">Read more about the project here</a>. </p>
+        <ul>
+            {% for folder in wikifolders %}
+            {% unless folder contains 'md' or folder contains 'html' %}
+            <li><a href="/wiki/{{folder}}/">{{folder | capitalize}}</a></li>
+            {% endunless %}
+            {% endfor %}    
+        </ul>
+    
+    </details>
+    
+    </section>
 
 
 
