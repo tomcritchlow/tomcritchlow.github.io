@@ -31,7 +31,7 @@
     }
 </style>
 
-<section class="cf pv5 mw6 center f4 w-90">
+<section class="cf pv5 mw6 center w-90">
 
     <p>Hi there, I'm Tom Critchlow and this is my digital garden. It's full of stuff. To help with the sprawl take a look at the stuff below</p>
 
@@ -102,7 +102,7 @@
                     <details>
                             <summary>Blogchains</summary>
                             <p>I have a few blogchains on the go. Read <a href="https://tomcritchlow.com/2019/07/17/blogchains/">more about blogchains here</a></p>
-                            
+
 {% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
                                 <ul>
                                 {% for page in blogchains %}
