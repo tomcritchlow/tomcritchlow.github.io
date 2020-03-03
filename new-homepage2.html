@@ -10,6 +10,7 @@
 <style>
     details{
         padding:10px;
+        margin-top:10px;
     }
 
     details[open]{
@@ -115,13 +116,19 @@
             <ul>
                 <li><a href="">The book outline</a></li>
                 <li><a href="">Highlight: the strategic independent</a></li>
-                <details>
-                        <summary>All book posts</summary>
-                        <ul>
-
-                        </ul>
-                    </details>
             </ul>
+
+            <details>
+                    <summary>All book posts</summary>
+                    <ul>
+                            {% for post in site.posts  %}
+                            {% if post.tags contains "strategy" %}
+                            <li><a href="{{post.url}}">{{post.title}}</a> | {{ post.date | date: "%-d %B %Y" }}</li>
+                            {% endif %}
+                            {% endfor %}
+                    </ul>
+                </details>            
+
         </details>    
 
 
