@@ -52,8 +52,8 @@
 
 
     <details>
-        <summary>Digital Strategy Consulting</summary>
-        <p>I'm an independent strategy consultant working mainly with media companies.</p>
+        <summary>Consulting</summary>
+        <p>I run an independent digital strategy studio called <em>Yes! And...</em>. I work with media and content companies usually embedded inside the client's organization building new capacities and tackling new problems.</p>
         <ul>
             <li><a href="/consulting/">An overview of my consulting</a></li>
             <li><a href="https://tomcritchlow.com/2018/07/25/media-design/">The practice of Media Design</a></li>
@@ -85,21 +85,24 @@
                                 <li><a href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small b blogging</a></li>
                                 <li><a href="https://tomcritchlow.com/2019/05/17/blogpunk/">Blogpunk</a></li>
                                 <li><a href="https://tomcritchlow.com/2017/01/26/f-yeah-side-projects/">f*$k yeah side projects</a></li>
+                                <li><a href="/feed.xml">RSS feed</a></li>
                             </ul>
                         </details>  
                     
                     <details>
-                            <summary>Blog posts</summary>
+                            <summary>Blog posts:</summary>
                             <ul>
                                 {% for post in site.posts  | limit:10%}
                                 <li><a href="{{post.url}}">{{post.title}}</a> | {{ post.date | date: "%-d %B %Y" }}</li>
                                 {% endfor %}
-                                <li><a href="/writing">see all -></a></li>
                             </ul>
+                            <a href="/writing">see all -></a>
                         </details>  
                     
                     <details>
                             <summary>Blogchains</summary>
+                            <p>I have a few blogchains on the go. Read <a href="https://tomcritchlow.com/2019/07/17/blogchains/">more about blogchains here</a></p>
+                            
 {% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
                                 <ul>
                                 {% for page in blogchains %}
