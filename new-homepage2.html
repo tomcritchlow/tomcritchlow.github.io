@@ -12,6 +12,10 @@
         padding:10px;
     }
 
+    details[open]{
+        background-color:#e8fdf5;
+    }
+
     details li{
         padding-top:5px;
         padding-bottom:5px;
@@ -117,7 +121,7 @@
 
 <details>
     <summary>Wiki</summary>
-
+    <p>I maintain a sprawling wiki that I think of as a loosly tended "digital garden". <a href="https://tomcritchlow.com/2019/02/17/building-digital-garden/">Read more about the project here</a>. </p>
     <ul>
         {% for folder in wikifolders %}
         {% unless folder contains 'md' or folder contains 'html' %}
