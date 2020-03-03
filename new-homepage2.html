@@ -44,6 +44,7 @@
             <li><a href="/now/">/now page</a></li>
             <li><a href="https://twitter.com/tomcritchlow">@tomcritchlow</a> on twitter</li>
             <li>tjcritchlow@gmail.com</li>
+            <li><a href="https://tinyletter.com/tomcritchlow">Join my tinyletter</a></li>
         </ul>
     </details>
 
@@ -54,20 +55,20 @@
         <summary>Digital Strategy Consulting</summary>
         <p>I'm an independent strategy consultant working mainly with media companies.</p>
         <ul>
-            <li><a href="">Read about my consulting</a></li>
-            <li><a href="">Media Design</a></li>
-            <li><a href="">Narrative strategy</a></li>
+            <li><a href="/consulting/">An overview of my consulting</a></li>
+            <li><a href="https://tomcritchlow.com/2018/07/25/media-design/">The practice of Media Design</a></li>
+            <li><a href="https://tomcritchlow.com/2020/02/20/narrative-strategy/">Narrative strategy</a></li>
             <details>
                     <summary>Clients</summary>
                     <ul>
+                        <li>The New York Times</li>
+                        <li>Etsy</li>
+                        <li>Dotdash</li>
                         <li>Gartner</li>
                         <li>Complex Media</li>
                         <li>Reviews.com</li>
-                        <li>The New York Times</li>
-                        <li>Etsy</li>
                         <li>Seatgeek</li>
                         <li>The Wirecutter</li>
-                        <li>.dash</li>
                         <li>Fundera</li>
                     </ul>
                 </details>
@@ -77,8 +78,8 @@
     <details>
             <summary>Blogging</summary>
             <p>I blog in a few weird ways and blogging has increasingly been a part of my identity.</p>
-            <ul>
-                    <li><details open>
+
+                    <details open>
                             <summary>Start here:</summary>
                             <ul>
                                 <li><a href="">Small b blogging</a></li>
@@ -86,8 +87,8 @@
                                 <li><a href="">Narrative strategy</a></li>
                             </ul>
                         </details>  
-                    </li>
-                    <li><details>
+                    
+                    <details>
                             <summary>Blog posts</summary>
                             <ul>
                                 {% for post in site.posts  | limit:10%}
@@ -96,8 +97,8 @@
                                 <li><a href="/writing">see all -></a></li>
                             </ul>
                         </details>  
-                    </li>
-                    <li><details>
+                    
+                    <details>
                             <summary>Blogchains</summary>
 {% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
                                 <ul>
@@ -106,8 +107,8 @@
                                 {% endfor %}
                                 </ul>
                         </details>  
-                    </li>
-            </ul>
+
+
         </details>    
 
     <details>
@@ -119,7 +120,7 @@
             </ul>
 
             <details>
-                    <summary>All book posts</summary>
+                    <summary>All my writing on independent consulting:</summary>
                     <ul>
                             {% for post in site.posts  %}
                             {% if post.tags contains "strategy" %}
