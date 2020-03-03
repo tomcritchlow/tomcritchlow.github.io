@@ -20,7 +20,7 @@
     summary{
         cursor:pointer;
     }
-    
+
     summary:focus{
         outline:none;
     }
@@ -104,6 +104,29 @@
                     </li>
             </ul>
         </details>    
+
+{% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
+{% assign wikifolders = "" | split:"" %}
+
+{% for folder in folders %}
+{% assign tempvar = folder.path | split:"/" %}
+{% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% assign wikifolders = wikifolders | uniq | sort %}
+
+<details>
+    <summary>Wiki</summary>
+
+    <ul>
+        {% for folder in wikifolders %}
+        {% unless folder contains 'md' or folder contains 'html' %}
+        <li><a href="/wiki/{{folder}}/">{{folder | capitalize}}</a></li>
+        {% endunless %}
+        {% endfor %}    
+    </ul>
+
+</details>
 
 </section>
 
