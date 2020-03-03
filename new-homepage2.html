@@ -115,8 +115,10 @@
             <summary>The Strategic Independent (book project)</summary>
             <p>I'm writing a book - working title "The Strategic Independent: theory and practice for independent consultants". I've been serializing the writing on my blog and have ~35k words written so far.</p>
             <ul>
-                <li><a href="">The book outline</a></li>
-                <li><a href="">Highlight: the strategic independent</a></li>
+                <li><a href="https://tomcritchlow.com/strategy/">The book outline</a></li>
+                <li><a href="https://tomcritchlow.com/2019/07/12/annotate-the-outline/">Reader annotated outline</a></li>
+                <li>Start here: <a href="https://tomcritchlow.com/2019/04/04/the-strategic-independent/">the strategic independent</a></li>
+                <li><a href="https://www.are.na/tom-critchlow/the-strategic-independent">Follow the series on are.na</a></li>
             </ul>
 
             <details>
@@ -124,7 +126,7 @@
                     <ul>
                             {% for post in site.posts  %}
                             {% if post.tags contains "strategy" %}
-                            <li><a href="{{post.url}}">{{post.title}}</a> | {{ post.date | date: "%-d %B %Y" }}</li>
+                            <li><a href="{{post.url}}">{{post.title}}</a></li>
                             {% endif %}
                             {% endfor %}
                     </ul>
