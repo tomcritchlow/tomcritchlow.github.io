@@ -77,7 +77,7 @@ source: [Why Youtubers See Ghosts | Rhizome](https://rhizome.org/editorial/2019/
 
 --
 
-<http://lifewinning.com/magic/bibliography/>
+[Some Recommended Reading on Magic](http://lifewinning.com/magic/bibliography/)
 
 <http://astrolokeys.com/>
 
