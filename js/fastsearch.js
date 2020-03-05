@@ -27,12 +27,12 @@ document.addEventListener('keydown', function(event) {
 
       // Toggle visibility of search box
       if (!searchVisible) {
-        document.getElementById("fastSearch").style.visibility = "visible"; // show search box
+        document.getElementById("fastSearch").style.display = "block"; // show search box
         document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
         searchVisible = true; // search visible
       }
       else {
-        document.getElementById("fastSearch").style.visibility = "hidden"; // hide search box
+        document.getElementById("fastSearch").style.display = "none"; // hide search box
         document.activeElement.blur(); // remove focus from search box 
         searchVisible = false; // search not visible
       }
