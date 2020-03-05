@@ -363,7 +363,7 @@ footer{
   /* Fast Search CSS From Craig Mod */
 
   #fastSearch { 
-    visibility: hidden;
+    display:none;
     position: absolute;
     right: 0px;
     top: 0px;
@@ -396,4 +396,4 @@ footer{
   
   #searchResults { visibility: inherit; display: inline-block; width: 320px; }
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
-    #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
+  #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
