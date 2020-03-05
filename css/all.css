@@ -359,3 +359,41 @@ footer{
         height: 50px;
         width: 50px;  
   }
+
+  /* Fast Search CSS From Craig Mod */
+
+  #fastSearch { 
+    visibility: hidden;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: inline-block;
+    width: 300px;
+  }      
+  
+  #fastSearch input { 
+    padding: 4px 10px;
+    width: 100%;
+    height: 31px;
+    font-size: 1.6em;
+    color: #aaa;
+    font-weight: bold;
+    background-color: #000;
+    border-radius: 3px 3px 0px 0px;
+    border: none;
+    outline: none;
+    text-align: left;
+    display: inline-block;
+  }
+  
+  #searchResults li { 
+    list-style: none; 
+    margin-left: 0em;
+    background-color: #333; 
+    border-bottom: 1px dotted #000;
+  }
+    #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
+  
+  #searchResults { visibility: inherit; display: inline-block; width: 320px; }
+  #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
+    #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
