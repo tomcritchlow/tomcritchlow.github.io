@@ -27,7 +27,7 @@ document.addEventListener('keydown', function(event) {
 
       // Toggle visibility of search box
       if (!searchVisible) {
-        document.getElementById("fastSearch").style.display = "block"; // show search box
+        document.getElementById("fastSearch").style.display = "inline-block"; // show search box
         document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
         searchVisible = true; // search visible
       }
