@@ -8,12 +8,9 @@
   "title": {{post.title | jsonify}},
   "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }},
   "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
-  "category": {{ post.category | jsonify }},
-  "tags": {{ post.tags | jsonify }},
-  "author": {{ post.author | jsonify }},
   "content": {{ post.content | strip_html | strip_newlines | jsonify }}
 },{% endfor %}
-{% for item in folder1 %}
+{% for item in folder1 %}{
     "title": {{item.title | jsonify}},
     "url": {{ item.url | prepend: site.baseurl | prepend: site.url | jsonify }},
     "category": "wiki",
