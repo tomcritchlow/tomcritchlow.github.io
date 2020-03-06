@@ -379,7 +379,7 @@ footer{
     font-weight: bold;
     background-color: #fff;
     border-radius: 3px 3px 0px 0px;
-    border: none;
+    border: 1px solid lightgreen;
     outline: none;
     text-align: left;
     display: inline-block;
