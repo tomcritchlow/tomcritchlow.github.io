@@ -377,7 +377,7 @@ footer{
     font-size: 1.6em;
     color: #aaa;
     font-weight: bold;
-    background-color: #000;
+    background-color: #fff;
     border-radius: 3px 3px 0px 0px;
     border: none;
     outline: none;
@@ -388,7 +388,7 @@ footer{
   #searchResults li { 
     list-style: none; 
     margin-left: 0em;
-    background-color: #333; 
+    background-color: #fff; 
     border-bottom: 1px dotted #000;
   }
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
