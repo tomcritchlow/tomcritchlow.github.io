@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Power of Soul
+   author: Funky Destination
+   image: https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/8b/69/9f/8b699f1c-3a2f-cc3d-89a6-9d86beef87e6/source/512x512bb.jpg
+   notes: bad ass jazz
+   href: https://album.link/i/1497398470
  - title: Nomalanga
    author: Caiphus Semenya
    image: https://lastfm.freetls.fastly.net/i/u/174s/c96c00adf241488ab99c81320ce2ae79.png
