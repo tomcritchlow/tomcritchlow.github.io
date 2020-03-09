@@ -402,4 +402,4 @@ footer{
   
   #searchResults { visibility: inherit; display: inline-block; width: 320px; }
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
-  #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3; color: #fff; }
+  #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3;  }
