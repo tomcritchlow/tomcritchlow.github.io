@@ -8,7 +8,7 @@
   "content": {{ post.content | strip_html | strip_newlines | jsonify }}
 },{% endfor %}
 {% for item in folder1 %}{
-    "title": "wiki/{{item.url}}",
+    "title": "{{item.url}}",
     "url": {{ item.url | prepend: site.baseurl | prepend: site.url | jsonify }},
     "category": "wiki",
     "content": {{ item.content | strip_html | strip_newlines | jsonify }}
