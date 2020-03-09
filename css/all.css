@@ -360,6 +360,13 @@ footer{
         width: 50px;  
   }
 
+/* search icon */
+
+#searchicon{
+  height:30px;
+  margin-top:-5px;
+}
+
   /* Fast Search CSS From Craig Mod */
 
   #fastSearch { 
