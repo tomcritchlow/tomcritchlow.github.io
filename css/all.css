@@ -373,12 +373,11 @@ footer{
     display:none;
     position: absolute;
     right: 0px;
-    top: 0px;
+    top: 75px;
     width: 300px;
   }      
   
   #fastSearch input { 
-    padding: 4px 10px;
     width: 100%;
     height: 31px;
     font-size: 1.6em;

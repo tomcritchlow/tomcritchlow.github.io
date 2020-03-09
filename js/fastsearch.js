@@ -62,7 +62,7 @@ document.addEventListener('keydown', function(event) {
   // Allow ESC (27) to close search box
   if (event.keyCode == 27) {
     if (searchVisible) {
-      document.getElementById("fastSearch").style.visibility = "hidden";
+      document.getElementById("fastSearch").style.display = "none";
       document.activeElement.blur();
       searchVisible = false;
     }
