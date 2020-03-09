@@ -117,6 +117,6 @@ WHOAH: [one page designs](https://www.gdcvault.com/play/1012356/One-Page) - hour
 
 --
 
-Who should I add? Tweet me: [https://twitter.com/tomcritchlow](@tomcritchlow).
+[How Domain Experts Create Conceptual Diagrams and Implications for Tool Design](http://wodenimoni.com/assets/chi-20-natural-diagramming.pdf)
 
 
