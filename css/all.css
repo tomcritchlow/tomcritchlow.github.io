@@ -374,7 +374,8 @@ footer{
     position: absolute;
     right: 0px;
     top: 75px;
-    width: 300px;
+    width:100%;
+    max-width: 300px;
   }      
   
   #fastSearch input { 
@@ -401,4 +402,4 @@ footer{
   
   #searchResults { visibility: inherit; display: inline-block; width: 320px; }
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
-  #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
+  #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3; color: #fff; }
