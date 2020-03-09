@@ -376,12 +376,12 @@ footer{
     top: 75px;
     width:100%;
     max-width: 300px;
+    font-size: 12px;
   }      
   
   #fastSearch input { 
     width: 100%;
     height: 31px;
-    font-size: 1.6em;
     color: #aaa;
     font-weight: bold;
     background-color: #fff;
@@ -391,7 +391,7 @@ footer{
     text-align: left;
     display: inline-block;
   }
-  
+
   #searchResults li { 
     list-style: none; 
     margin-left: 0em;
@@ -400,6 +400,6 @@ footer{
   }
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
   
-  #searchResults { visibility: inherit; display: inline-block; width: 320px; }
+  #searchResults { visibility: inherit; display: inline-block; width: 100%; padding:0px; }
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
   #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3;  }
