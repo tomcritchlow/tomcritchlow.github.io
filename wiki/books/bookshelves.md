@@ -30,3 +30,13 @@ Digital bookshelves that I admire:
 <http://www.squeakland.org/resources/books/readingList.jsp>
 
 <https://www.dustinsenos.com/books>
+
+<https://juvoni.com/books>
+
+<https://www.ribbonfarm.com/now-reading/>
+
+<https://lindajxie.com/books/>
+
+<https://patrickcollison.com/bookshelf>
+
+<https://meltingasphalt.com/what-im-reading/>
