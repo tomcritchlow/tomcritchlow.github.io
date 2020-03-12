@@ -18,6 +18,8 @@ I've been fiddling with my blog lately and thinking about "blog patterns". First
 From others:
 
 Blogchains
+https://www.are.na/tom-critchlow/blogchains
+
 Toby transclusion
 
 
