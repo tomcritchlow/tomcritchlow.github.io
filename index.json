@@ -1,11 +1,18 @@
 ---
 ---
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
+{% assign blogchains = site.pages | where_exp: "item" , "item.path contains 'blogchains'" | where_exp: "item" , "item.path contains '.md'"  %}
 [{% for post in site.posts %}{
   "title": {{post.title | jsonify}},
   "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }},
   "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
   "content": {{ post.content | strip_html | strip_newlines | jsonify }}
+},{% endfor %}
+{% for page in blogchains %}{
+  "title": "{{page.title}} Blogchain",
+  "url": {{ page.url | prepend: site.baseurl | prepend: site.url | jsonify }},
+  "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
+  "content": "A blogchain on {{page.title}}"
 },{% endfor %}
 {% for item in folder1 %}{
     "title": "{{item.url}}",

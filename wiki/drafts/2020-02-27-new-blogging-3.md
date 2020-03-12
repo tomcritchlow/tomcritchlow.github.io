@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: 
-subtitle: The Coming Sub-prime Identity Crash
+title: New Blogging 3 - Blog Patterns
+subtitle: Fiddling with the deckchairs...
 blogchain: new-blogging
 reply: https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
 ---
