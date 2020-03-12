@@ -377,6 +377,7 @@ footer{
     width:100%;
     max-width: 300px;
     font-size: 12px;
+    z-index:12
   }      
   
   #fastSearch input { 
@@ -398,6 +399,11 @@ footer{
     background-color: #fff; 
     border-bottom: 1px dotted #000;
   }
+
+  #searchResults li a{
+    box-shadow: none;
+  }
+  
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
   
   #searchResults { visibility: inherit; display: inline-block; width: 100%; padding:0px; }
