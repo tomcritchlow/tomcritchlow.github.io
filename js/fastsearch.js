@@ -48,12 +48,12 @@ document.addEventListener('keydown', function(event) {
 
       // Toggle visibility of search box
       if (!searchVisible) {
-        document.getElementById("fastSearch").style.display = "inline-block"; // show search box
+        document.getElementById("searchmenu").style.display = "block"; // show search box
         document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
         searchVisible = true; // search visible
       }
       else {
-        document.getElementById("fastSearch").style.display = "none"; // hide search box
+        document.getElementById("searchmenu").style.display = "none"; // hide search box
         document.activeElement.blur(); // remove focus from search box 
         searchVisible = false; // search not visible
       }
@@ -62,7 +62,7 @@ document.addEventListener('keydown', function(event) {
   // Allow ESC (27) to close search box
   if (event.keyCode == 27) {
     if (searchVisible) {
-      document.getElementById("fastSearch").style.display = "none";
+      document.getElementById("searchmenu").style.display = "none";
       document.activeElement.blur();
       searchVisible = false;
     }

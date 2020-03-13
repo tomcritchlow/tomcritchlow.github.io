@@ -365,13 +365,12 @@ footer{
 #searchicon{
   height:30px;
   margin-top:-5px;
+  z-index:6;
 }
 
   /* Fast Search CSS From Craig Mod */
 
   #fastSearch { 
-    display:none;
-    position: absolute;
     right: 0px;
     top: 75px;
     width:100%;
