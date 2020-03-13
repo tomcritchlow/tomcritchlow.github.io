@@ -2,6 +2,16 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Working Identity- Unconventional Strategies for Reinventing Your Career
+   author: Herminia Ibarra
+   link: https://www.amazon.com/Working-Identity-Unconventional-Strategies-Reinventing/dp/1591394139
+   date_finished: Reading
+   notes: In Progress.
+ - title: An Introduction to Haiku
+   author: Harold Gould Henderson
+   link: https://www.amazon.com/Introduction-Haiku-Anthology-Poems-Poets/dp/0385093764
+   date_finished: 03/12/20
+   notes: Brian suggested I get into Haiku and pick up this book and I'm glad I did! Beautiful, easy to read intro to Haiku. The author gives great context for what Haiku is, the main poets and how to read Haiku poetry. Recommended!
  - title: Tears of the Trufflepig
    author: Fernando A. Flores
    link: https://www.amazon.com/Tears-Trufflepig-Novel-Fernando-Flores/dp/0374538336
