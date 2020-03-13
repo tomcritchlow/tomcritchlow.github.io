@@ -24,13 +24,15 @@ document.getElementById("searchicon").onclick = function(){
 
   // Toggle visibility of search box
   if (!searchVisible) {
-    document.getElementById("fastSearch").style.display = "inline-block"; // show search box
+    document.getElementById("searchmenu").style.display = "block"; // show search box
     document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
+    document.getElementById("hamburger").classList.add("is-active");
     searchVisible = true; // search visible
   }
   else {
-    document.getElementById("fastSearch").style.display = "none"; // hide search box
+    document.getElementById("searchmenu").style.display = "none"; // hide search box
     document.activeElement.blur(); // remove focus from search box 
+    document.getElementById("hamburger").classList.remove("is-active");
     searchVisible = false; // search not visible
   }
 }
