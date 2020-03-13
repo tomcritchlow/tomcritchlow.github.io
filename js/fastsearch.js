@@ -50,11 +50,13 @@ document.addEventListener('keydown', function(event) {
       if (!searchVisible) {
         document.getElementById("searchmenu").style.display = "block"; // show search box
         document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
+        document.getElementById("hamburger").classList.add("is-active");
         searchVisible = true; // search visible
       }
       else {
         document.getElementById("searchmenu").style.display = "none"; // hide search box
         document.activeElement.blur(); // remove focus from search box 
+        document.getElementById("hamburger").classList.remove("is-active");
         searchVisible = false; // search not visible
       }
   }
