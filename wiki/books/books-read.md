@@ -5,7 +5,7 @@ books:
  - title: Working Identity- Unconventional Strategies for Reinventing Your Career
    author: Herminia Ibarra
    link: https://www.amazon.com/Working-Identity-Unconventional-Strategies-Reinventing/dp/1591394139
-   date_finished: Reading
+   date_finished: In Progress
    notes: In Progress.
  - title: An Introduction to Haiku
    author: Harold Gould Henderson
