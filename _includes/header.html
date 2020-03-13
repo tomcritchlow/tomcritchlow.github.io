@@ -63,8 +63,15 @@
             var $hamburger = $(".hamburger");
             $hamburger.on("click", function(e) {
               $hamburger.toggleClass("is-active");
-              $(".tommenu").toggle();
-              $("body").toggleClass('noscroll');
+              //hamburger is for search & menu now...
+              if($('.tommenu').is(':visible')){
+                $('.tommenu').hide();
+                $("body").removeClass('noscroll');
+              }
+              else{
+                $('.tommenu').show();
+                $("body").addClass('noscroll');
+              }
             });
           
           
