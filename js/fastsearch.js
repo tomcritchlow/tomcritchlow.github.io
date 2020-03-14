@@ -67,6 +67,7 @@ document.addEventListener('keydown', function(event) {
   if (event.keyCode == 27) {
     if (searchVisible) {
       document.getElementById("searchmenu").style.display = "none";
+      document.getElementById("hamburger").classList.remove("is-active");
       document.activeElement.blur();
       searchVisible = false;
     }
