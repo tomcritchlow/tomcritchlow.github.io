@@ -37,6 +37,8 @@ Inspired by [Dave Winer](http://scripting.com/) and from using [Roam](https://ro
 
 This index expand/collapse UX is just out of the box HTML functionality with the [details tag](https://www.w3schools.com/tags/tag_details.asp) so this is very easy to copy!
 
+[Try it out on my homepage here](https://tomcritchlow.com/).
+
 ## A new simpler approach to margin notes
 
 Finally - I've had margin notes for a long time on this site but writing them has always been a pain. It's written as a Jekyll include function. So to make a margin note I'd write something like this:
