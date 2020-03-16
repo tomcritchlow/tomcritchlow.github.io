@@ -62,6 +62,7 @@
         <script>
             var $hamburger = $(".hamburger");
             $hamburger.on("click", function(e) {
+
               $hamburger.toggleClass("is-active");
               //hamburger is for search & menu now...
               if($('.tommenu').is(':visible')){
@@ -69,19 +70,15 @@
                 $("body").removeClass('noscroll');
               }
               else if($("#searchmenu").is(":visible")){
-                
+                $("#searchmenu").hide();
+
               }
               else{
                 $('.tommenu').show();
                 $("body").addClass('noscroll');
               }
             });
-          
-          
-            var $rightarrow = $(".rightarrow");
-            $rightarrow.on("click", function(e) {
-              $(".slides").scrollLeft($("body").width());
-              });  
+           
 
             if($('.tommenu').is(':visible')){
                 $('body').addClass("fixedPosition");
