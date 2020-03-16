@@ -43,9 +43,9 @@ This index expand/collapse UX is just out of the box HTML functionality with the
 
 Finally - I've had margin notes for a long time on this site but writing them has always been a pain. It's written as a Jekyll include function. So to make a margin note I'd write something like this:
 
-```
+<pre>
 I like this idea - that the most useful thing you need client input and co-creation on is the “base reality” - the “Who, What, Where”. For consultants coming in from the outside attempting to “solve problems” for clients the biggest flaw in generic strategies is not properly accounting for who is at the company, what we’re actually trying to solve and where this strategy will play out{% include tufte-sn.html id="just" content="Recall from <a href='https://tomcritchlow.com/2019/11/19/optimism-operating-system/'>chapter 2</a> - there is no 'just' in consulting - clients are ecosystems in balance..." %}.
-```
+</pre>
 
 The two most annoying things about this are a) having to switch from writing markdown to writing HTML and b) the non-standard markup / presentation.
 
