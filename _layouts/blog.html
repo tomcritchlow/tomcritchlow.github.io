@@ -62,6 +62,20 @@
   This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
 </div>
 
+<script>
+
+    $( document ).ready(function() {
+        var footnotes = $(".footnotes p");
+        $("sup").each(function(index){
+            var fn = footnotes[index].removeChild(footnotes[index].lastChild);
+            $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
+        });   
+        $(".footnotes").hide()
+    });    
+    
+    
+    </script>
+
 
 <script type="application/json" class="js-hypothesis-config">
   {
