@@ -1,5 +1,6 @@
 //
-// From Craig Mod here: https://gist.github.com/cmod/5410eae147e4318164258742dd053993
+// Originally from Craig Mod here: https://gist.github.com/cmod/5410eae147e4318164258742dd053993
+// Lightly customized by Tom Critchlow
 //
 
 var fuse; // holds our search engine
