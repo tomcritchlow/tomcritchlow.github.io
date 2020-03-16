@@ -375,10 +375,8 @@ footer{
   /* Fast Search CSS From Craig Mod */
 
   #fastSearch { 
-    right: 0px;
-    top: 75px;
+    margin-top:100px;
     width:100%;
-    max-width: 300px;
     font-size: 12px;
     z-index:12
   }      
