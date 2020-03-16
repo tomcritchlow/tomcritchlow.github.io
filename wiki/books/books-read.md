@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Memory Police
+   author: Yoko Ogawa
+   link: https://www.amazon.com/Memory-Police-Novel-Yoko-Ogawa/dp/1101870605
+   date_finished: In Progress
+   notes: In progress.
  - title: Working Identity- Unconventional Strategies for Reinventing Your Career
    author: Herminia Ibarra
    link: https://www.amazon.com/Working-Identity-Unconventional-Strategies-Reinventing/dp/1591394139
