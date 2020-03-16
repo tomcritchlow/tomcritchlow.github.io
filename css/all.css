@@ -360,6 +360,13 @@ footer{
         width: 50px;  
   }
 
+pre{
+  background-color: black;
+    color: white;
+    overflow: scroll;
+    font-size:12px;
+}
+
 /* search icon */
 
 #searchicon{
