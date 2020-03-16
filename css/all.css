@@ -368,6 +368,10 @@ footer{
   z-index:6;
 }
 
+#searchmenu{
+  z-index:5;
+}
+
   /* Fast Search CSS From Craig Mod */
 
   #fastSearch { 
