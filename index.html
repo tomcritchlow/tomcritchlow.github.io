@@ -95,6 +95,9 @@
                         <details open>
                                 <summary>Start here:</summary>
                                 <ul>
+                                    {% for post in site.posts  | limit:1%}
+                                    <li><a href="{{post.url}}">Latest post: {{post.title}}</a></li>
+                                    {% endfor %}
                                     <li><a href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small b blogging</a></li>
                                     <li><a href="https://tomcritchlow.com/2019/05/17/blogpunk/">Blogpunk</a></li>
                                     <li><a href="https://tomcritchlow.com/2017/01/26/f-yeah-side-projects/">f*$k yeah side projects</a></li>
