@@ -25,7 +25,9 @@ From a [subscriber-only update](https://stratechery.com/2019/netflix-earnings-re
 
 I'm with Ben Thompson - VC money doesn't tend to play well with a mass of indie content creators.
 
-See exhibit A: Medium. Remember, Medium started out all cool with the street cred and the high quality bar and gradually raised too much VC money, pivoted too many times, screwed over the very indie creators they saught to sustain and ultimatley limps along too bloated to either die or raise more money{% include tufte-sn.html id="socialcapital" content="If you're interested in the evolution of platforms social capital over time I highly recommend the long read <a href='https://www.eugenewei.com/blog/2019/2/19/status-as-a-service'>status as a service</a>" %}.
+See exhibit A: Medium. Remember, Medium started out all cool with the street cred and the high quality bar and gradually raised too much VC money, pivoted too many times, screwed over the very indie creators they saught to sustain and ultimatley limps along too bloated to either die or raise more money[^status].
+
+[^status]: If you're interested in the evolution of platforms social capital over time I highly recommend the long read [status as a service](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 
 ## Substack's Future
 
