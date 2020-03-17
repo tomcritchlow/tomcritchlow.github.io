@@ -49,7 +49,7 @@ I like this idea - that the most useful thing you need client input and co-creat
 {% endraw %}
 ```
 
-[^ack]: Ha. The irony. This is actually not the code - I can't figure out how to get includes and code blocks to play nice in markdown. Fuck it. We'll fix it later. [View the post on Github to see the real code format](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_posts/2020-03-16-new-blogging-3.md).
+[^ack]: Ha. The irony. This is actually not the code - I can't figure out how to get includes and code blocks to play nice in markdown. Fuck it. We'll fix it later. [View the post on Github to see the real code format](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_posts/2020-03-16-new-blogging-3.md). *Update!* I fixed this so it's right. You need the [raw tag](https://stackoverflow.com/questions/24102498/escaping-double-curly-braces-inside-a-markdown-code-block-in-jekyll).
 
 The two most annoying things about this are a) having to switch from writing markdown to writing HTML and b) the non-standard markup / presentation.
 
