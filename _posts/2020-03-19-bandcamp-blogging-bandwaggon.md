@@ -14,7 +14,7 @@ In these times we need cozy blogging structures and we need support for independ
 
 ## Blogging your Bandcamp Reccs
 
-So I'm putting out a rallying cry - let's start a [#BandcampBloggingBandwagon](https://twitter.com/search?q=%23bandcampbloggingbandwagon&src=typed_query) and Friday March 20th let's all post our fave bandcamp links.
+So I'm putting out a rallying cry - let's start a [#BandcampBloggingBandwagon](https://twitter.com/search?q=%23BandcampBloggingBandwagon&src=typed_query) and Friday March 20th let's all post our fave bandcamp links.
 
 This directly helps folks discover great Bandcamp music so they can spend their money and support indie artists in this time of need.
 
