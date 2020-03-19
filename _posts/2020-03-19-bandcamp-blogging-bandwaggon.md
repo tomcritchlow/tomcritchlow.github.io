@@ -29,3 +29,5 @@ You can simply link to your faves or embed them too. Here's one of my recent fav
 Let's do it. See you tomorrow.
 
 Much love.
+
+*Update: there's a great service [buymusic.club](https://buymusic.club/) that makes it super easy to make lists of Bandcamp music and embed it so this is a great way to join in if you don't have a blog!*
