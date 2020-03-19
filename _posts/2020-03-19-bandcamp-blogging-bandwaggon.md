@@ -20,7 +20,7 @@ This directly helps folks discover great Bandcamp music so they can spend their 
 
 It's that simple. Leave a comment below or tag me on twitter [@tomcritchlow](https://twitter.com/tomcritchlow) and I'll do my best to keep track of all the reccs as they come in.
 
-Blogging. Music. Indie music. Community support.
+Indie Blogging + Indie music + Community support.
 
 You can simply link to your faves or embed them too. Here's one of my recent faves (more tomorrow!):
 
