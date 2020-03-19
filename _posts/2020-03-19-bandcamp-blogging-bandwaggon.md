@@ -4,7 +4,7 @@ title: Announcing- The Bandcamp Blogging Bandwagon
 subtitle: Supporting indie artists on Bandcamp Friday March 20th
 ---
 
-In these times we need cozy blogging structures and we need support for independents more than ever. So I'm combining these two to launch a little blogging project.
+In these times we need cozy blogging structures and we need support for independents more than ever. So I'm combining these to launch a little blogging project.
 
 [Bandcamp is doing something wonderful](https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser). Friday March 20th:
 
@@ -14,9 +14,9 @@ In these times we need cozy blogging structures and we need support for independ
 
 ## Blogging your Bandcamp Reccs
 
-So I'm putting out a rallying cry - let's jump on the [#BandcampBloggingBandwagon](https://twitter.com/search?q=%23bandcampbloggingbandwagon&src=typed_query) and Friday March 20th post your fave bandcamp links.
+So I'm putting out a rallying cry - let's start a [#BandcampBloggingBandwagon](https://twitter.com/search?q=%23bandcampbloggingbandwagon&src=typed_query) and Friday March 20th let's all post our fave bandcamp links.
 
-This directly helps folks discover great Bandcamp links so they can spend their money and support indie artists in this time of need.
+This directly helps folks discover great Bandcamp music so they can spend their money and support indie artists in this time of need.
 
 It's that simple. Leave a comment below or tag me on twitter [@tomcritchlow](https://twitter.com/tomcritchlow) and I'll do my best to keep track of all the reccs as they come in.
 
