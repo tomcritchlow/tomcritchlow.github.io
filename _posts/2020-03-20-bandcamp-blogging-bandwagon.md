@@ -16,6 +16,7 @@ If you wanna join #BandcampBloggingBandwagon just post a blog post with your rec
 <ul>
 <li><a href="https://www.gyford.com/phil/writing/2020/03/20/bandcamp/">Phil Gyford's reccs</a></li>
 <li><a href="http://ld89.org/bandcamp-blogging-bandwagon">Luke Davis' reccs</a></li>
+<li><a href="https://blog.cjeller.site/ambient-presences">CJ's reccs</a></li>
 
 </ul>
 </details>
