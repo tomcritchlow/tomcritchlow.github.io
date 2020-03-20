@@ -65,3 +65,11 @@ I need more jazz reccs on Bandcamp - who's got some? Here's a wonderful mix that
 And here's a drum-jazz album that I think Craig Mod recommended? [Ritme Jaavdanegi by Mohammad Reza Mortazavi](https://mohammadmortazavi.bandcamp.com/album/ritme-jaavdanegi). Complex and wonderful:
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=152735010/size=small/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mohammadmortazavi.bandcamp.com/album/ritme-jaavdanegi">Ritme Jaavdanegi by Mohammad Reza Mortazavi</a></iframe>
+
+## Funk
+
+Where's my funk at? Link me up some funky bandcamp reccs.
+
+Here's one I discovered recently - [Power of Soul by Funky Destination](https://timewarpmusic.bandcamp.com/album/power-of-soul):
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1032520168/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://timewarpmusic.bandcamp.com/album/power-of-soul">Power of Soul by Funky Destination</a></iframe>
