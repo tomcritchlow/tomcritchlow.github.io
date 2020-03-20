@@ -4,6 +4,19 @@ title: My Bandcamp Blogging Bandwagon Reccs
 subtitle: Support indie music!
 ---
 
+Today [Bandcamp is waiving their fees for indie artists](https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser) and I'm starting a movement to get everyone blogging their fave Bandcamp links to help you discover new music.
+
+Don't forget to **go buy things you like!** the whole point is to make purchases to directly support indie artists. Thanks.
+
+If you wanna join #BandcampBloggingBandwagon just post a blog post with your reccs or use [buymusic.club](https://buymusic.club/) to make a list of your faves.
+
+<details>
+<summary>Click to expand a list of blogs participating:</summary>
+
+- [Phil Gyford's reccs(https://www.gyford.com/phil/writing/2020/03/20/bandcamp/)
+
+</details>
+
 Some faves:
 
 ## Hope
@@ -15,6 +28,8 @@ Some faves:
 <iframe style="border: 0; width:100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3104888983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fourtet.bandcamp.com/album/sixteen-oceans">Sixteen Oceans by Four Tet</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1996406143/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fourtet.bandcamp.com/album/there-is-love-in-you-remixes">There Is Love In You Remixes by Four Tet</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3052834527/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://susumuyokota.bandcamp.com/album/sakura">Sakura by Susumu Yokota</a></iframe>
 
 ## Daniel Kitson - Comedy Relief
 
