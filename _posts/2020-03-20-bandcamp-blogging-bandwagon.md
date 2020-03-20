@@ -50,6 +50,10 @@ And if you like beautiful heart-melting electronica check out [Yppah](https://yp
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1280104852/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://yppah.bandcamp.com/album/you-are-beautiful-at-all-times">You Are Beautiful At All Times by Yppah</a></iframe>
 
+Ah went crate digging and found this album - heavy rotation from years ago. [Electric Road by Celestial](https://celestialhk.bandcamp.com/album/electric-road):
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2676459865/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://celestialhk.bandcamp.com/album/electric-road">electric road 電器道 by Celestial 天上</a></iframe>
+
 ## Daniel Kitson - Comedy Relief
 
 Hey - Bandcamp has comedy too! Nothing will cheer you up better in these times than cozying up and listening to Daniel Kitson tell you stories. Part bard, part cynic part grumpy British guy with a beard [Daniel Kitson](https://danielkitson.bandcamp.com/) is amazing. Please grab these:
