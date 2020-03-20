@@ -21,9 +21,17 @@ Some faves:
 
 ## Hope
 
+Perhaps my fave all-time Bandcamp purchase Zoe Keating's heart warming album [Into the Trees](https://music.zoekeating.com/album/into-the-trees). Be sure to check out the track [Optimist](https://music.zoekeating.com/track/optimist-live).
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1901731418/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://music.zoekeating.com/album/into-the-trees">Into The Trees by Zoe Keating</a></iframe>
 
+I discovered this today via the Bandcamp blog but this music will soothe the soul for sure - [Take a Look in the Book by The Legendary Ingramettes](https://thelegendaryingramettes.bandcamp.com/album/take-a-look-in-the-book):
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3677287599/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thelegendaryingramettes.bandcamp.com/album/take-a-look-in-the-book">Take a Look in the Book by The Legendary Ingramettes</a></iframe>
+
 ## Electro
+
+Four Tet has an extensive 
 
 <iframe style="border: 0; width:100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3104888983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fourtet.bandcamp.com/album/sixteen-oceans">Sixteen Oceans by Four Tet</a></iframe>
 
