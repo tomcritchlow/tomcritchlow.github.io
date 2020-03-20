@@ -13,7 +13,7 @@ If you wanna join #BandcampBloggingBandwagon just post a blog post with your rec
 <details>
 <summary>Click to expand a list of blogs participating:</summary>
 
-- [Phil Gyford's reccs(https://www.gyford.com/phil/writing/2020/03/20/bandcamp/)
+- [Phil Gyford's reccs](https://www.gyford.com/phil/writing/2020/03/20/bandcamp/)
 
 </details>
 
