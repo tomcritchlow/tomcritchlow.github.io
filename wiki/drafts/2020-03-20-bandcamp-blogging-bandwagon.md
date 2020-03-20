@@ -13,8 +13,9 @@ If you wanna join #BandcampBloggingBandwagon just post a blog post with your rec
 <details>
 <summary>Click to expand a list of blogs participating:</summary>
 
-- [Phil Gyford's reccs](https://www.gyford.com/phil/writing/2020/03/20/bandcamp/)
-
+<ul>
+<li><a href="https://www.gyford.com/phil/writing/2020/03/20/bandcamp/">Phil Gyford's reccs</a></li>
+</ul>
 </details>
 
 Some faves:
@@ -31,7 +32,7 @@ I discovered this today via the Bandcamp blog but this music will soothe the sou
 
 ## Electro
 
-Four Tet has an extensive 
+Four Tet has an extensive catalog on Bandcamp - his new album Sixteen Oceans is a banger though:
 
 <iframe style="border: 0; width:100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3104888983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fourtet.bandcamp.com/album/sixteen-oceans">Sixteen Oceans by Four Tet</a></iframe>
 
