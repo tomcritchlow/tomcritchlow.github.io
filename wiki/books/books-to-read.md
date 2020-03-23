@@ -106,3 +106,7 @@ The Art of Community (Spencer Heath MacCallum): I’ve been looking for reading 
 >This week, I finished the third in the trilogy by Adam Burkes that begins with Night Heron, continues into Spy Games, and concludes with The Spy’s Daughter, and I can report to you that they are the best spy novels I’ve read in years. Legitimately gripping—I stayed up late to finish the last one—and totally literary. Also: usefully contemporary, with some very nice depictions of some deeply unglamorous tradecraft, including one detailed sequence that follows a character on the run and manages to make VPNs thrilling.
 
 From Robin Sloan
+
+--
+
+[Jitterbug perfume](https://www.amazon.com/Jitterbug-Perfume-Novel-Tom-Robbins/dp/0553348981)
