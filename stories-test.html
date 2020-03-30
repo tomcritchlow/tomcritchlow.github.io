@@ -9,7 +9,7 @@
 <script>
 
 var frame;
-
+var posts;
 
 // ==========================================
 // fetch some json without jquery
@@ -35,8 +35,8 @@ function fetchJSONFile(path, callback) {
 //
 function loadSearch() { 
   fetchJSONFile('/test.json', function(data){
-
-    document.getElementById("frame").innerHTML = data[0].post;
+    var posts = data;
+    document.getElementById("frame").innerHTML = posts[0].post;
     var frame = 0;
     
   });
@@ -47,7 +47,7 @@ loadSearch();
 document.getElementById("frame").addEventListener("click", advance);
 
 function advance(){
-    document.getElementById("frame").innerHTML = data[0].blocks[frame];
+    document.getElementById("frame").innerHTML = posts[0].blocks[frame];
     var frame = frame++;
 }
 
