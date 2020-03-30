@@ -33,9 +33,20 @@
 
 }
 
+.progressbar{
+    background-color: #555;
+    border-radius: 4px;
+    height: 2px;
+    margin: 0 5px;
+}
+
 </style>
 
 <div id="frame">
+  <div id="progress">
+
+  </div>
+
 
 </div>
 
@@ -75,6 +86,13 @@ function loadSearch() {
     post = 0;
     block = 0;
     document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+    var num_blocks = posts[post].blocks.length;
+    var progressElement = "<span class='progressbar' style='width:calc(100%/"+num_blocks+")></span>";
+    var progress = "";
+    for (i = 0; i < num_blocks; i++) {
+      var progress += progressElement
+    }
+    document.getElementById("progress").innerHTML = progress;
   });
 }
 
