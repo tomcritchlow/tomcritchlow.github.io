@@ -90,7 +90,7 @@ function loadSearch() {
     var progressElement = "<span class='progressbar' style='width:calc(100%/"+num_blocks+")></span>";
     var progress = "";
     for (i = 0; i < num_blocks; i++) {
-      var progress += progressElement
+      progress += progressElement;
     }
     document.getElementById("progress").innerHTML = progress;
   });
