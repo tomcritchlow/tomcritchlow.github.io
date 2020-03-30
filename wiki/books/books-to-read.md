@@ -110,3 +110,7 @@ From Robin Sloan
 --
 
 [Jitterbug perfume](https://www.amazon.com/Jitterbug-Perfume-Novel-Tom-Robbins/dp/0553348981)
+
+--
+
+<https://www.amazon.com/Slow-Days-Fast-Company-L/dp/1681370085>
