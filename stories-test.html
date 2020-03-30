@@ -115,11 +115,11 @@ function advance(event){
 
 
 // hammertime for swipes    
-var myElement = document.getElementById('myElement');
+var myElement = document.getElementById('frame');
 
 // create a simple instance
 // by default, it only adds horizontal recognizers
-var mc = new Hammer(frame);
+var mc = new Hammer(myElement);
 
 // forward swipe
 mc.on("swipeleft", function(ev) {
