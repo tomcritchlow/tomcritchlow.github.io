@@ -99,7 +99,7 @@ function loadSearch() {
     
     var progressnode = document.createElement("span");    
     progressnode.className = "progressbar";
-    progressnode.style = "width:calc(100%/"+posts[post].blocks.length+");";
+    progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+");");
     document.getElementById("progress").appendChild(progressnode);
 
     
