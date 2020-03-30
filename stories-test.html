@@ -8,6 +8,9 @@
 
 <script>
 
+var frame;
+
+
 // ==========================================
 // fetch some json without jquery
 //
@@ -34,10 +37,18 @@ function loadSearch() {
   fetchJSONFile('/test.json', function(data){
 
     document.getElementById("frame").innerHTML = data[0].post;
+    var frame = 0;
     
   });
 }
 
 loadSearch();
+
+document.getElementById("frame").addEventListener("click", advance);
+
+function advance(){
+    document.getElementById("frame").innerHTML = data[0].blocks[frame];
+    var frame = frame++;
+}
 
 </script>
