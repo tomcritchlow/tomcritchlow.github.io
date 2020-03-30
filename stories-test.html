@@ -44,7 +44,7 @@
 var posts; // holds all posts data
 var postnum; // holds the post count
 var frame; // holds the block count
-
+var w = window.innerWidth;
 
 // ==========================================
 // fetch some json without jquery
@@ -85,16 +85,20 @@ document.getElementById("frame").addEventListener("click", advance);
 
 // advance or back by coorinates https://stackoverflow.com/questions/23744605/javascript-get-x-and-y-coordinates-on-mouse-click
 
-function advance(){
-    if(block > (posts[post].blocks.length -1)){
-      post++;
-      block = 0;
-      document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+function advance(event){
+    if(event.clientX > (w/2)){
+      if(block > (posts[post].blocks.length -1)){
+        post++;
+        block = 0;
+        document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+      }
+      else{
+        document.getElementById("frame").innerHTML = posts[post].blocks[block];
+        block++;
+      }
     }
-    else{
-      document.getElementById("frame").innerHTML = posts[post].blocks[block];
-      block++;
-  }
+
+
 }
 
 </script>
