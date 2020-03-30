@@ -128,6 +128,9 @@ function advance(event){
       }
       else{
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
+        
+        /*
+        // this code works but fails if not enough progress bars
         // remove all highlights
         var progressbars = document.querySelectorAll(".progressbar");
         progressbars.forEach(function(el) {
@@ -136,6 +139,7 @@ function advance(event){
         // add correct highlight
         var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
         selected.classList.add("progresshighlight");
+        */
 
         block++;
       }
