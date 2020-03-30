@@ -66,10 +66,12 @@ function advance(){
     if(block > (posts[post].blocks.length -1)){
       post++;
       block = 0;
-    };
-    document.getElementById("frame").innerHTML = posts[post].blocks[block];
-    block++;
-    
+      document.getElementById("frame").innerHTML = posts[post].post;
+    }
+    else{
+      document.getElementById("frame").innerHTML = posts[post].blocks[block];
+      block++;
+  }
 }
 
 </script>
