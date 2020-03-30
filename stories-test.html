@@ -96,10 +96,10 @@ function loadSearch() {
     document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
     var num_blocks = posts[post].blocks.length;
     var progressElement = "<span class='progressbar' style='width:calc(100%/"+num_blocks+")></span>";
+    alert(progressElement)
     var progress = "";
     for (i = 0; i < num_blocks; i++) {
       progress += progressElement;
-      alert("looping!");
     };
     document.getElementById("progress").innerHTML = progress;
   });
