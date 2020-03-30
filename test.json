@@ -8,7 +8,7 @@
   {% assign once = newlines | newline_to_br %}
   {% assign paragraphs = once | newline_to_br %}
   {% for paragraph in paragraphs %}
-  {{paragraph | jsonify}}{% unless forloop.last %},{% endunless %}{% endfor %}
+  {{paragraph}}{% unless forloop.last %},{% endunless %}{% endfor %}
   ]
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
 
