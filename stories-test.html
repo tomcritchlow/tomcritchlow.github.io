@@ -130,12 +130,20 @@ mc.on("swipeleft", function(ev) {
 
 // backwards swipe
 mc.on("swiperight", function(ev) {
-    
+    post--;
+    block = 0;
+    document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
   });
-
 
 }
 
+// card flip?
+// https://codepen.io/desandro/pen/LmWozd
+
+
 </script>
+
+
+
 
 </body>
