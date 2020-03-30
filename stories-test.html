@@ -38,6 +38,7 @@
   position:fixed;
   height:50px;
   z-index:3;
+  padding:5px;
 }
 
 .progressbar{
@@ -45,6 +46,7 @@
     border-radius: 4px;
     height: 2px;
     margin: 0 5px;
+    display:inline-block;
 }
 
 </style>
@@ -99,7 +101,7 @@ function loadSearch() {
     
     var progressnode = document.createElement("span");    
     progressnode.className = "progressbar";
-    progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+");");
+    progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
     document.getElementById("progress").appendChild(progressnode);
 
     
