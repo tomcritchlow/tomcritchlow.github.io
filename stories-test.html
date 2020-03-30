@@ -49,7 +49,7 @@
     display:inline-block;
 }
 
-#progresshighlight{
+.progresshighlight{
   background-color:white;
 }
 
@@ -129,6 +129,8 @@ function advance(event){
       }
       else{
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
+        var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
+        selected.classList.add("progresshighlight");
         block++;
       }
     }
