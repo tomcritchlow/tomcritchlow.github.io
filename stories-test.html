@@ -64,7 +64,8 @@
 var posts; // holds all posts data
 var postnum; // holds the post count
 var frame; // holds the block count
-var w = window.innerWidth;
+var w = window.innerWidth; // gets width of window for forward/back tap target
+var progressElement = "<span class='progressbar'></span>"; // 
 
 // ==========================================
 // fetch some json without jquery
@@ -95,13 +96,13 @@ function loadSearch() {
     block = 0;
     document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
     var num_blocks = posts[post].blocks.length;
-    var progressElement = "<span class='progressbar' style='width:calc(100%/"+num_blocks+")></span>";
-    alert(progressElement)
-    var progress = "";
-    for (i = 0; i < num_blocks; i++) {
-      progress += progressElement;
-    };
-    document.getElementById("progress").innerHTML = progress;
+    
+    var progressnode = document.createElement("span");    
+    progressnode.style = "width:calc(100%/"+num_blocks+");";
+    progressnode.class = "progressbar";
+    document.getElementById("progress").appendChild(progressnode);
+
+    
   });
 }
 
