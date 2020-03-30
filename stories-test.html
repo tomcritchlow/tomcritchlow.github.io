@@ -38,8 +38,8 @@ function fetchJSONFile(path, callback) {
 function loadSearch() { 
   fetchJSONFile('/test.json', function(data){
     posts = data;
-    var post = 0;
-    var block = 0;
+    post = 0;
+    block = 0;
     document.getElementById("frame").innerHTML = posts[post].post;
     
     
