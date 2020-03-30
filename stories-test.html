@@ -102,14 +102,13 @@ function loadSearch() {
     block = 0;
     document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
     var num_blocks = posts[post].blocks.length;
-    
-    var progressnode = document.createElement("span");    
-    progressnode.className = "progressbar";
-    progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
     var i;
     for (i = 0; i < posts[post].blocks.length; i++) {
+      var progressnode = document.createElement("span");    
+      progressnode.className = "progressbar";
+      progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
       document.getElementById("progress").appendChild(progressnode);  
-    }
+    };
     
   });
 }
