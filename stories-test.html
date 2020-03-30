@@ -51,7 +51,7 @@ loadSearch();
 document.getElementById("frame").addEventListener("click", advance);
 
 function advance(){
-    if(block > posts[post].blocks.length){
+    if(block > (posts[post].blocks.length -1)){
       post++;
       block = 0;
     };
