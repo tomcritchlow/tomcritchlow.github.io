@@ -74,8 +74,6 @@ function loadSearch() {
     post = 0;
     block = 0;
     document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
-    
-    
   });
 }
 
@@ -87,7 +85,7 @@ document.getElementById("frame").addEventListener("click", advance);
 
 function advance(event){
     if(event.clientX > (w * 0.3)){ // right side of the page
-      if(block > (posts[post].blocks.length -1)){
+      if(block > (posts[post].blocks.length -1)){ //check if end of post
         post++;
         block = 0;
         document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
@@ -99,11 +97,16 @@ function advance(event){
     }
     if(event.clientX < (w * 0.3)){ // right side of the page
       if(block == 0){
-        post--;
+        if(post == 0){
+          
+        }else{
+          post--;
+        }
         block = 0;
         document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
       }
       else{
+        block--;
         block--;
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
       }
