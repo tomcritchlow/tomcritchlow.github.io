@@ -128,8 +128,15 @@ function advance(event){
       }
       else{
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
+        // remove all highlights
+        var progressbars = document.querySelector(".progressbar");
+        progressbars.forEach(function(el) {
+          el.classList.remove("progresshighlight")
+        })
+        // add correct highlight
         var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
         selected.classList.add("progresshighlight");
+
         block++;
       }
     }
