@@ -51,8 +51,13 @@ loadSearch();
 document.getElementById("frame").addEventListener("click", advance);
 
 function advance(){
+    if(block > posts[post].blocks.length){
+      post++;
+      block = 0;
+    };
     document.getElementById("frame").innerHTML = posts[post].blocks[block];
     block++;
+    
 }
 
 </script>
