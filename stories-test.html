@@ -98,7 +98,7 @@ function loadSearch() {
     var num_blocks = posts[post].blocks.length;
     
     var progressnode = document.createElement("span");    
-    progressnode.class = "progressbar";
+    progressnode.className = "progressbar";
     progressnode.style = "width:calc(100%/"+posts[post].blocks.length+");";
     document.getElementById("progress").appendChild(progressnode);
 
