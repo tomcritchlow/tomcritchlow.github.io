@@ -49,6 +49,10 @@
     display:inline-block;
 }
 
+#progresshighlight{
+  background-color:white;
+}
+
 </style>
 <div id="progress">
 
@@ -102,8 +106,10 @@ function loadSearch() {
     var progressnode = document.createElement("span");    
     progressnode.className = "progressbar";
     progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
-    document.getElementById("progress").appendChild(progressnode);
-
+    var i;
+    for (i = 0; i < posts[post].blocks.length; i++) {
+      document.getElementById("progress").appendChild(progressnode);  
+    }
     
   });
 }
