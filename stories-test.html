@@ -24,6 +24,7 @@
 <style>
 #frame{
   width:100%;
+  max-width:700px;
   height:100%;
   padding:20px;
   padding-top:100px;
@@ -82,11 +83,13 @@ loadSearch();
 
 document.getElementById("frame").addEventListener("click", advance);
 
+// advance or back by coorinates https://stackoverflow.com/questions/23744605/javascript-get-x-and-y-coordinates-on-mouse-click
+
 function advance(){
     if(block > (posts[post].blocks.length -1)){
       post++;
       block = 0;
-      document.getElementById("frame").innerHTML = posts[post].post;
+      document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
     }
     else{
       document.getElementById("frame").innerHTML = posts[post].blocks[block];
