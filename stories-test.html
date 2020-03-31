@@ -148,15 +148,13 @@ function loadframe(){
 
 }
 
-// advance or back by coorinates https://stackoverflow.com/questions/23744605/javascript-get-x-and-y-coordinates-on-mouse-click
-
 // replace on cluck with hammer tap?
 
 function advance(event){
     if(event.clientX > (w * 0.3)){ // right side - move forward
 
       //check if end of post
-      if(block > (posts[post].blocks.length -1)){ 
+      if(block > (posts[post].blocks.length -2)){ 
         post++;
         block = 0;
         loadmeta();
