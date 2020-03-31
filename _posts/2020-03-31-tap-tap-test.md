@@ -8,8 +8,6 @@ Sorry everyone. This is a test post and because of *reasons* I need to test this
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/retweets'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/likes'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
-
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119720590462976'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119957472145409'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
