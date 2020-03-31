@@ -144,8 +144,8 @@ function loadmeta(){
 function loadframe(){
   var display = "";
   if(block == 0){
-    display += "<h2>" + posts[post].title + "</h2>";
-    if(posts[post].subtitle){display += posts[post].subtitle};
+    display += "<h1 class='f2 f1-l fw8 lh-solid mv1 posttitle p-name'>" + posts[post].title + "</h1>";
+    if(posts[post].subtitle){display += "<h2 class='f3 fw3 lh-copy mt1 subtitle p-summary'>"+posts[post].subtitle+"</h2>"};
   };
   display += posts[post].blocks[block];
   document.getElementById("frame").innerHTML = display;
