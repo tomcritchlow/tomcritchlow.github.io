@@ -6,7 +6,9 @@ subtitle: Fuck it let's test it live
 
 Sorry everyone. This is a test post and because of *reasons* I need to test this as a live blog post. Please ignore. Nothing to see here. [I promise](https://twitter.com/tomcritchlow/status/1244999464663859201).
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/retweets'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/retweets'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A megatrend hypothesis inspired by several microtrend that I think are related: <br><br>a) waldenponding<br> <br>b) rise of heavy duty information management methods like <a href="https://twitter.com/fortelabs?ref_src=twsrc%5Etfw">@fortelabs</a> BASB (build a second brain)<br><br>c) conversational media eating authorial media<br><br>d) &quot;hivebrain&quot; jokes/references</p>&mdash; Venkatesh brrrRao (@vgr) <a href="https://twitter.com/vgr/status/1125119314611171328?ref_src=twsrc%5Etfw">May 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/likes'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
