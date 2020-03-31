@@ -100,22 +100,36 @@ function loadSearch() {
     posts = data;
     post = 0;
     block = 0;
-    document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
-    var num_blocks = posts[post].blocks.length;
-    var i;
-    for (i = 0; i < posts[post].blocks.length; i++) {
-      var progressnode = document.createElement("span");    
-      progressnode.className = "progressbar";
-      progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
-      document.getElementById("progress").appendChild(progressnode);  
-    };
+
+    loadmeta();
+    loadframe();
+
     
   });
 }
 
-loadSearch();
+// load meta info like progress bars and post title
+function loadmeta(){
+  var num_blocks = posts[post].blocks.length;
+  var i;
+  for (i = 0; i < posts[post].blocks.length; i++) {
+    var progressnode = document.createElement("span");    
+    progressnode.className = "progressbar";
+    progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
+    document.getElementById("progress").appendChild(progressnode);  
+  };
+}
 
-document.getElementById("frame").addEventListener("click", advance);
+
+function loadframe(){
+  var display = "";
+  if(block == 0){
+    display += "<h2>" + posts[post].post + "</h2>";
+  };
+  display += posts[post].blocks[block];
+  document.getElementById("frame").innerHTML = display;
+
+}
 
 // advance or back by coorinates https://stackoverflow.com/questions/23744605/javascript-get-x-and-y-coordinates-on-mouse-click
 
@@ -164,6 +178,10 @@ function advance(event){
     }
   };
 
+
+loadSearch();
+
+document.getElementById("frame").addEventListener("click", advance);  
 
 // hammertime for swipes    
 var myElement = document.getElementById('frame');

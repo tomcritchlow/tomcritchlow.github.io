@@ -3,6 +3,7 @@
 [{% for post in site.posts | limit :10 %}{
   "post":{{post.title | jsonify}},
   "url": {{post.url | jsonify}},
+  "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
   "blocks":[
   {% assign paragraphs = post.content | newline_to_br | strip_newlines | split: '<br /><br />' %}
   {% for paragraph in paragraphs %}
