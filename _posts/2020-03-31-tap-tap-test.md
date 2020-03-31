@@ -8,21 +8,19 @@ Sorry everyone. This is a test post and because of *reasons* I need to test this
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/retweets'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class="twitter-tweet"><a href="https://twitter.com/vgr/status/1125119314611171328?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/likes'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/likes'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119720590462976'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125119720590462976'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119957472145409'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125119957472145409'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/...a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/s...'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125123077208018944'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125122035808477184'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125123376912011264'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125122401086214144'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125124095970906112'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125123077208018944'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
-
-<blockquote class='twitter-tweet'data-conversation='none'><a href='https://twitter.com/vgr/status/1125123376912011264'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125124384602017792'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
