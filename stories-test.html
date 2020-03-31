@@ -212,14 +212,16 @@ var mc = new Hammer(myElement);
 mc.on("swipeleft", function(ev) {
     post++;
     block = 0;
-    document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
+    loadmeta();
+    loadframe();
 });
 
 // backwards swipe
 mc.on("swiperight", function(ev) {
     post--;
     block = 0;
-    document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
+    loadmeta();
+    loadframe();
   });
 
 
