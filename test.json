@@ -1,6 +1,6 @@
 ---
 ---
-[{% for post in site.posts | limit :10 %}{
+[{% for post in site.posts | limit :30 %}{
   "title":{{post.title | jsonify}},
   "subtitle":{{post.subtitle | jsonify}},
   "url": {{post.url | jsonify}},
