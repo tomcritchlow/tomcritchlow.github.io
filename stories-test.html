@@ -145,7 +145,7 @@ function loadframe(){
   var display = "";
   if(block == 0){
     display += "<h2>" + posts[post].title + "</h2>";
-    if(posts[post].subtitle){display += "posts[post].subtitle"};
+    if(posts[post].subtitle){display += posts[post].subtitle};
   };
   display += posts[post].blocks[block];
   document.getElementById("frame").innerHTML = display;
