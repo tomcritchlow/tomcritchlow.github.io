@@ -135,6 +135,8 @@ function loadmeta(){
     progressnode.setAttribute("style", "width:calc(100%/"+posts[post].blocks.length+" - 10px);");
     document.getElementById("progress").appendChild(progressnode);  
   };
+  var selected = document.querySelector(".progressbar:nth-child(1)");
+  selected.classList.add("progresshighlight");
 }
 
 
