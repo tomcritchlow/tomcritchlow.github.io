@@ -38,7 +38,7 @@
   position:fixed;
   height:50px;
   z-index:3;
-  padding:5px;
+  padding:2px;
 }
 
 .progressbar{
@@ -53,9 +53,18 @@
   background-color:white;
 }
 
+#meta{
+  width:100%;
+  padding:2px;
+  height:12px;
+  font-size:12px;
+}
+
 </style>
 <div id="progress">
+</div>
 
+<div id="meta">
 </div>
 
 <div id="frame">
@@ -110,6 +119,12 @@ function loadSearch() {
 
 // load meta info like progress bars and post title
 function loadmeta(){
+  
+  document.getElementById("meta").innerHTML(posts[post].title);
+
+
+
+  //load progress bars
   var num_blocks = posts[post].blocks.length;
   var i;
   for (i = 0; i < posts[post].blocks.length; i++) {
