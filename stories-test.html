@@ -153,7 +153,7 @@ function loadframe(){
 // replace on cluck with hammer tap?
 
 function advance(event){
-    if(event.clientX > (w * 0.3)){ // right side of the page
+    if(event.clientX > (w * 0.3)){ // right side - move forward
 
       if(block > (posts[post].blocks.length -1)){ //check if end of post
         post++;
@@ -162,33 +162,24 @@ function advance(event){
         loadframe();
       }
       else{
-        document.getElementById("frame").innerHTML = posts[post].blocks[block];
-        
-        // this code works but fails if not enough progress bars
-        // remove all highlights
-        /*
-        var progressbars = document.querySelectorAll(".progressbar");
-        progressbars.forEach(function(el) {
-          el.classList.remove("progresshighlight")
-        });
-        */
-        // add correct highlight
-        var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
-        selected.classList.add("progresshighlight");
-
-
         block++;
+        loadframe();
+
+        // highlight progress bar 
+        var selected = document.querySelector(".progressbar:nth-child("+block+")");
+        selected.classList.add("progresshighlight");
+        
       }
     }
-    if(event.clientX < (w * 0.3)){ // right side of the page
+
+    if(event.clientX < (w * 0.3)){ // left side - move back
       if(block == 0){
         if(post == 0){
-          
         }else{
           post--;
+          loadmeta();
+          loadframe();
         };
-        block = 0;
-        document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
       }
       else{
         block--;
