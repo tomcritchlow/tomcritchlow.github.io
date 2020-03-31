@@ -123,7 +123,7 @@ function loadSearch() {
 function loadmeta(){
 
   // load post title
-  document.getElementById("meta").innerHTML = posts[post].title;
+  document.getElementById("meta").innerHTML = "<em>"+posts[post].title+"</em> - <span class='date'>" + posts[post].date + "</span>";
 
   //load progress bars
   document.getElementById("progress").innerHTML = "";  
