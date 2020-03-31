@@ -1,7 +1,7 @@
 ---
 ---
 [{% for post in site.posts | limit :10 %}{
-  "post":{{post.title | jsonify}},
+  "title":{{post.title | jsonify}},
   "url": {{post.url | jsonify}},
   "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
   "blocks":[
