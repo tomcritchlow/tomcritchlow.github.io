@@ -196,7 +196,13 @@ function advance(event){
 
 loadSearch();
 
-document.getElementById("frame").addEventListener("click", advance);  
+//document.getElementById("frame").addEventListener("click", advance);  
+
+window.onclick = function(ev){
+    if( ev.target.nodeName !== 'a' ){
+        advance(ev);
+    }
+};
 
 // hammertime for swipes    
 var myElement = document.getElementById('frame');
