@@ -115,7 +115,6 @@ function loadSearch() {
 
     loadmeta();
     loadframe();
-
     
   });
 }
@@ -123,11 +122,11 @@ function loadSearch() {
 // load meta info like progress bars and post title
 function loadmeta(){
 
+  // load post title
   document.getElementById("meta").innerHTML = posts[post].title;
 
-
-
   //load progress bars
+  document.getElementById("progress").innerHTML = "";  
   var num_blocks = posts[post].blocks.length;
   var i;
   for (i = 0; i < posts[post].blocks.length; i++) {
@@ -155,15 +154,16 @@ function loadframe(){
 
 function advance(event){
     if(event.clientX > (w * 0.3)){ // right side of the page
+
       if(block > (posts[post].blocks.length -1)){ //check if end of post
         post++;
         block = 0;
-        document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
+        loadmeta();
+        loadframe();
       }
       else{
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
         
-        /*
         // this code works but fails if not enough progress bars
         // remove all highlights
         var progressbars = document.querySelectorAll(".progressbar");
@@ -173,7 +173,7 @@ function advance(event){
         // add correct highlight
         var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
         selected.classList.add("progresshighlight");
-        */
+
 
         block++;
       }
