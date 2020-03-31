@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Kurayami No Iro -Colors of the Dark-
+   author: Rei Harakami
+   image: https://f4.bcbits.com/img/a0836745350_16.jpg
+   notes: japanese electro magic (thanks Toby!)
+   href: https://ringsounds.bandcamp.com/album/kurayami-no-iro-colors-of-the-dark
  - title: Power of Soul
    author: Funky Destination
    image: https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/8b/69/9f/8b699f1c-3a2f-cc3d-89a6-9d86beef87e6/source/512x512bb.jpg
