@@ -150,6 +150,12 @@ function loadframe(){
   display += posts[post].blocks[block];
   document.getElementById("frame").innerHTML = display;
 
+  if(display.indexOf("platform.twitter") != -1){
+    twttr.widgets.load(
+      document.getElementById("frame")
+    );
+  };
+
 }
 
 // replace on cluck with hammer tap?
