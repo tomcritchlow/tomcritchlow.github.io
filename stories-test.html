@@ -166,10 +166,12 @@ function advance(event){
         
         // this code works but fails if not enough progress bars
         // remove all highlights
+        /*
         var progressbars = document.querySelectorAll(".progressbar");
         progressbars.forEach(function(el) {
           el.classList.remove("progresshighlight")
         });
+        */
         // add correct highlight
         var selected = document.querySelector(".progressbar:nth-child("+(block+1)+")");
         selected.classList.add("progresshighlight");
