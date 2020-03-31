@@ -142,7 +142,7 @@ function loadmeta(){
 function loadframe(){
   var display = "";
   if(block == 0){
-    display += "<h2>" + posts[post].post + "</h2>";
+    display += "<h2>" + posts[post].title + "</h2>";
   };
   display += posts[post].blocks[block];
   document.getElementById("frame").innerHTML = display;
@@ -158,7 +158,7 @@ function advance(event){
       if(block > (posts[post].blocks.length -1)){ //check if end of post
         post++;
         block = 0;
-        document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+        document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
       }
       else{
         document.getElementById("frame").innerHTML = posts[post].blocks[block];
@@ -186,7 +186,7 @@ function advance(event){
           post--;
         };
         block = 0;
-        document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+        document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
       }
       else{
         block--;
@@ -212,14 +212,14 @@ var mc = new Hammer(myElement);
 mc.on("swipeleft", function(ev) {
     post++;
     block = 0;
-    document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+    document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
 });
 
 // backwards swipe
 mc.on("swiperight", function(ev) {
     post--;
     block = 0;
-    document.getElementById("frame").innerHTML = "<h2>" + posts[post].post + "</h2>";
+    document.getElementById("frame").innerHTML = "<h2>" + posts[post].title + "</h2>";
   });
 
 
