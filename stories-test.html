@@ -155,7 +155,8 @@ function loadframe(){
 function advance(event){
     if(event.clientX > (w * 0.3)){ // right side - move forward
 
-      if(block > (posts[post].blocks.length -1)){ //check if end of post
+      //check if end of post
+      if(block > (posts[post].blocks.length -1)){ 
         post++;
         block = 0;
         loadmeta();
@@ -173,9 +174,11 @@ function advance(event){
     }
 
     if(event.clientX < (w * 0.3)){ // left side - move back
+      
       if(block == 0){
         if(post == 0){
-        }else{
+        }
+        else{
           post--;
           loadmeta();
           loadframe();
@@ -183,8 +186,7 @@ function advance(event){
       }
       else{
         block--;
-        block--;
-        document.getElementById("frame").innerHTML = posts[post].blocks[block];
+        loadframe();
       }
     }
   };
