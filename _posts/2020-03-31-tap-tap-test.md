@@ -14,7 +14,7 @@ Sorry everyone. This is a test post and because of *reasons* I need to test this
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119957472145409'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/...a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125120573808398336'></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125123077208018944'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
