@@ -2,6 +2,7 @@
 ---
 [{% for post in site.posts | limit :10 %}{
   "title":{{post.title | jsonify}},
+  "subtitle":{{post.subtitle | jsonify}},
   "url": {{post.url | jsonify}},
   "date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
   "blocks":[
