@@ -6,9 +6,7 @@ subtitle: Fuck it let's test it live
 
 Sorry everyone. This is a test post and because of *reasons* I need to test this as a live blog post. Please ignore. Nothing to see here. [I promise](https://twitter.com/tomcritchlow/status/1244999464663859201).
 
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/retweets'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
-
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119314611171328/likes'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.comhttps://twitter.com/vgr/status/1125119314611171328'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1125119720590462976'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
