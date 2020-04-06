@@ -1,7 +1,7 @@
 ---
 ---
 
-{% assign bookshelf = site.posts | where:"/wiki/books/books-read.html", page.url  | first %}
+{% assign bookshelf = site.pages | where:"books-read.md", page.name  | first %}
 
 {{bookshelf.title}}
 
