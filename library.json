@@ -1,7 +1,7 @@
 ---
 ---
 
-{% assign bookshelf = site.posta | where:"books-read", page.url  | first %}
+{% assign bookshelf = site.posta | where:"books-read", page.slug  | first %}
 
 {{bookshelf.title}}
 
