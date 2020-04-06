@@ -6,6 +6,6 @@
 [{% for book in bookshelf.books %}{
     "title": {{book.title | jsonify}},
     "author": {{ book.author | jsonify}},
-    "date_finished": {{ book.date_finished | jsonify}},
+    "date_finished": {{ book.date_finished | jsonify}}
   }{% unless forloop.last %},{% endunless %}{% endfor %}]
   
