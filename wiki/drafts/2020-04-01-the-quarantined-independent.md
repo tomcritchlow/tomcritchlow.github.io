@@ -21,3 +21,7 @@ So I'm putting the book on pause and launching a new mini-series - a more urgent
 
 The series home will be here: [The Quarantined Independent](https://tomcritchlow.com/blogchains/the-quarantined-independent/). Posts will drop out serially on my blog.
 
+
+
+
+
