@@ -1,7 +1,8 @@
 ---
 ---
 
-{% assign bookshelf = site.pages | where:"books-read.md", page.name  | first %}
+{% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
+
 
 {{bookshelf.title}}
 
