@@ -1,0 +1,58 @@
+---
+---
+==================================================================
+https://keybase.io/tomcritchlow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tomcritchlow.com
+  * I am tomcritchlow (https://keybase.io/tomcritchlow) on keybase.
+  * I have a public key ASA_hTWBcX345PM2UbT-D00XmCRKKx5vfneNlFksIgCHYwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203f853581717df8e4f33651b4fe0f4d1798244a2b1e6f7e778d94592c220087630a",
+      "host": "keybase.io",
+      "kid": "01203f853581717df8e4f33651b4fe0f4d1798244a2b1e6f7e778d94592c220087630a",
+      "uid": "ee12f4dc70d2ee889a3354695df76d19",
+      "username": "tomcritchlow"
+    },
+    "merkle_root": {
+      "ctime": 1586286836,
+      "hash": "93575e7fa11b1e13bb036da3d93c49c50f38b9be30803bd8326b9cd04d6b1b3b3aa4439682e9686a315679265a94398c94c23824478280e42b653e0d0c101d7c",
+      "hash_meta": "a1cd86324de30589b9e4b5784c64c442bcba12d03bd34fce1faad53007ace3ab",
+      "seqno": 15820896
+    },
+    "service": {
+      "entropy": "Ill3YRSIEKr6vjr983ZWjExY",
+      "hostname": "tomcritchlow.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586286853,
+  "expire_in": 504576000,
+  "prev": "2d64bb9645476ee1c55e3b052e357bd150bb64c5a59ef9dd44796b5ab44e789d",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP4U1gXF9+OTzNlG0/g9NF5gkSiseb353jZRZLCIAh2MKp3BheWxvYWTESpcCCMQgLWS7lkVHbuHFXjsFLjV70VC7ZMWlnvndRHlrWrROeJ3EINdrH5e1lQeqOHg1an5e7xxvXDL/lCRL6Js8ctngV7cvAgHCo3NpZ8RAF2SZM+opFUN4cGNACcOrDgfv3xs4N4ige5BK0Qy1YCq878XiCK3zYNvlQAd87Uas9SDcsNFto+vpIBSaUjyEAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPc5yCIAn9wp1YS0G1fIaZHbbeCQAZechIQnMYOzlxm4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomcritchlow
+
+==================================================================
