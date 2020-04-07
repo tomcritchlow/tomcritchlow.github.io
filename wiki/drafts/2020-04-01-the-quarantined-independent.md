@@ -45,7 +45,13 @@ What does this look like?
 
 Pitch work with collaborators, pull in other indies to help out on projects, look for ways to extend contracts around to other indies. This also helps protect you psychologically from clients balking at your fees - it's not *only* a self serving proposal but you're gonna spread that money around.
 
-### 3. Start your writing
+### 3. Focus your engagements
+
+This is true for existing client work and any future leads that come in - plan for shorter cycles of planning, execution, investment. Think projects not retainers, think actionable in 30 days not actionable this year.
+
+For many clients there is still budget floating around but it'll get spent in smaller, more clearly defined chunks.
+
+### 4. Start your writing
 
 Let's be clear - we're not going to blog our way out of the slump. But writing is like compound interest - investing in a blogging habit now will pay off next year in spades when the economy gets going again.
 
@@ -58,7 +64,7 @@ Some reading:
 
 And, crucially - don't forget to keep it weird. This age is the [great weirding](https://www.ribbonfarm.com/series/weirding-diary/) and the world that comes next isn't going to want your LinkedIn "10 ways I...." bro-post. Let a little [blogpunk](https://tomcritchlow.com/2019/05/17/blogpunk/) creep in.
 
-### 4. Show the Process
+### 5. Show the Process
 
 If you're tempted to spend some time getting your case studies in order might I humbly suggest that your time would be better spent becoming a thought leader. Thought leader?! Ugh. Well, actually no:
 
@@ -82,7 +88,7 @@ Craig Mod has been doing this wonderfully. Nothing braggy or showy. Just showing
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href="https://twitter.com/craigmod/status/1247474623991566336?s=19"></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-### 5. Go subterranean
+### 6. Go subterranean
 
 Finally - if you have the cash reserves to see you through this (big if...) then you should consider going subterranean and working on projects that won't see the light of day until next year.
 
