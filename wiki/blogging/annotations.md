@@ -22,3 +22,7 @@ Whoah - check out this service that live-transcribes C-SPAN into gdoc, allows fo
 --
 
 [Annotation - The MIT Press Essential Knowledge Series](https://bookbook.pubpub.org/annotation)
+
+--
+
+[Full teardown of annotations options](https://beepb00p.xyz/annotating.html)

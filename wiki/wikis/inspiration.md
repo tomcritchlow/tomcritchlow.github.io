@@ -42,8 +42,14 @@ source: [space and times](https://spaceandtim.es/etc/research_tools/)
 
 <https://notes.andymatuschak.org/About_these_notes>
 
+<https://notes.andymatuschak.org/%E2%80%9CBetter_note-taking%E2%80%9D_misses_the_point%3B_what_matters_is_%E2%80%9Cbetter_thinking%E2%80%9D>
+
 --
 
 >BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 
 source: [BookStack](https://www.bookstackapp.com/)
+
+--
+
+[Tiddlywiki on Github Pages](https://boffosocko.com/2020/04/04/self-hosting-tiddlywiki-with-github-pages/)

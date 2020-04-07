@@ -1,8 +1,6 @@
 ---
 ---
-
 {% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
-
 [{% for book in bookshelf.books %}{
     "title": {{book.title | jsonify}},
     "author": {{ book.author | jsonify}},
