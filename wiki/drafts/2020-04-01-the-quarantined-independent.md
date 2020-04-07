@@ -102,7 +102,7 @@ Finally - if you have the cash reserves to see you through this (big if...) then
 
 Side projects might be regenerative for your emotional reserves right now[^sideproject] but if your client work dries up it's not the correct response. Take the time to look after yourself then start preparing for the regrowth.
 
-[^sideproject]: The irony is I have a side project going right now 
+[^sideproject]: I actually have a side project cooking right now but I'm firmly positioning this as self-care. It's not work, and when I'm ready I'm gonna get back to work.
 
 If you can cobble together the reserves spend 2020 working on a project that will generate revenue in 2021. Here's what that might look like for me:
 
