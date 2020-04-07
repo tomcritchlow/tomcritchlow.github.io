@@ -88,7 +88,13 @@ Craig Mod has been doing this wonderfully. Nothing braggy or showy. Just showing
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href="https://twitter.com/craigmod/status/1247474623991566336?s=19"></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-### 6. Go subterranean
+### 6. Find community
+
+Every indie is already part of 12 slack channels and groups and forums but right now these mutual-aid support communities are more important than ever. Find the ones you want to engage with and double down on them. These communities are a great place to practice and get feedback on all of these ideas from writing to coping.
+
+The [art of gig](https://artofgig.substack.com/) newsletter run by Venkat now has a community discord attached to it and is shaping up very nicely if you don't know where else to go ($5 / month).
+
+### 7. Go subterranean
 
 Finally - if you have the cash reserves to see you through this (big if...) then you should consider going subterranean and working on projects that won't see the light of day until next year.
 
