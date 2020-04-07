@@ -90,7 +90,9 @@ Craig Mod has been doing this wonderfully. Nothing braggy or showy. Just showing
 
 ### 6. Find community
 
-Every indie is already part of 12 slack channels and groups and forums but right now these mutual-aid support communities are more important than ever. Find the ones you want to engage with and double down on them. These communities are a great place to practice and get feedback on all of these ideas from writing to coping.
+Every indie is already part of 12 slack channels and groups and forums but right now these mutual-aid support communities are more important than ever. These communities are a great place to practice and get feedback on all of these ideas from writing to coping.
+
+Community only works when you contribute though - so don't lurk in 12 slack channels. Instead be active in 3. Find the high value ones you want to engage with and double down.
 
 The [art of gig](https://artofgig.substack.com/) newsletter run by Venkat now has a community discord attached to it and is shaping up very nicely if you don't know where else to go ($5 / month).
 
