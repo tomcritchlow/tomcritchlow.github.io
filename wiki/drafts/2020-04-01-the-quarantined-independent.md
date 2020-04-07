@@ -47,9 +47,13 @@ Pitch work with collaborators, pull in other indies to help out on projects, loo
 
 ### 3. Focus your engagements
 
-This is true for existing client work and any future leads that come in - plan for shorter cycles of planning, execution, investment. Think projects not retainers, think actionable in 30 days not actionable this year.
+In the current environment you should expect: shorter cycles of planning, execution, investment. Think projects not retainers, think actionable in 30 days not actionable this year.
 
-For many clients there is still budget floating around but it'll get spent in smaller, more clearly defined chunks.
+This is true for existing client work and any future leads that come in. Look for ways to establish a foothold with a smaller project before closing the larger retainer.
+
+For many clients there is still budget floating around but it'll get spent in smaller, more clearly defined chunks. Everyone is going to have more scrutiny on SOWs and finance is gonna have real teeth in these discussions.
+
+So look for defined projects with clear scope that you can execute on quickly. Note this doesn't necessarily mean it's cheap - don't undersell yourself just because money is tight - if you can stomach it you should hold rates steady. Even if you close your usual rate for a project work is going to get scarce so it's important to get well paid where you can.
 
 ### 4. Start your writing
 
