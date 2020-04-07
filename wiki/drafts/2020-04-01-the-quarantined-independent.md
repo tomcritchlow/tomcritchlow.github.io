@@ -26,18 +26,18 @@ The series home will be here: [The Quarantined Independent](https://tomcritchlow
 Now more than ever we need collaboration, cooperation and no one wants the cult of personality in these times.
 
 
-  <embed>
-    <div class="portal-container" style="border:1px solid #C2DFE3; border-radius:8px; margin-bottom:25px;">
-        <div class="portal-head" style="border-bottom: 1px solid #C2DFE3; padding:12.5px">
-            <div class="portal-backlink" style="display:flex; flex-direction:row; justify-content:space-between; align-items:center;">
-                <div class="portal-title" style="font-size: 14px;	color: #9DB8BF;">From <span class="portal-text-title" style="font-weight:700; color: #C2DFE3">Premonition</span></div>
-                <a href="https://subpixel.space/entries/premonition/" class="portal-arrow" style="font-size: 14px; color: #9DB8BF;">Go to text<span class="right-arrow">â†’</span></a>
-            </div>        
-        </div>
-        <div id="portal-parent" class="portal-parent" style="position:relative; width:100%; box-sizing: border-box;">
-          <div id="portal-content" style="width: 100%; padding: 12.5px 12.5px; color: #253237">I circulated these questions to a few friends. What follows here is little more than a cleaned up version of our notes. To be sure, these premonitions are based on a certain depth of cultural observation and processing. But premonitions nonetheless. On the other side of this is the unknown. But if you’re already tracking the intangible, you can hit targets others can’t see.</div>
-        </div>    
-    </div>
+<embed>
+<div class="portal-container" style="border:1px solid #C2DFE3; border-radius:8px; margin-bottom:25px;">
+<div class="portal-head" style="border-bottom: 1px solid #C2DFE3; padding:12.5px">
+<div class="portal-backlink" style="display:flex; flex-direction:row; justify-content:space-between; align-items:center;">
+<div class="portal-title" style="font-size: 14px;	color: #9DB8BF;">From <span class="portal-text-title" style="font-weight:700; color: #C2DFE3">Premonition</span></div>
+<a href="https://subpixel.space/entries/premonition/" class="portal-arrow" style="font-size: 14px; color: #9DB8BF;">Go to text<span class="right-arrow">â†’</span></a>
+</div>        
+</div>
+<div id="portal-parent" class="portal-parent" style="position:relative; width:100%; box-sizing: border-box;">
+<div id="portal-content" style="width: 100%; padding: 12.5px 12.5px; color: #253237">I circulated these questions to a few friends. What follows here is little more than a cleaned up version of our notes. To be sure, these premonitions are based on a certain depth of cultural observation and processing. But premonitions nonetheless. On the other side of this is the unknown. But if you’re already tracking the intangible, you can hit targets others can’t see.</div>
+</div>    
+</div>
 </embed>
   
 
