@@ -47,7 +47,7 @@ Writing works like compound interest. Let's be clear - we're not going to blog o
 
 Craig Mod is doing this wonderfully. Nothing braggy or showy. Just showing up and livestreaming the work. Note how the work here is not even client work - but it shows off the range of capabilities wonderfully.
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href=https://twitter.com/craigmod/status/1247474623991566336?s=19></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href=https://twitter.com/craigmod/status/1247474623991566336?s=19></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m guessing 10 more weeks before we see the first signs of economy reboot.<br><br>This is going to get really brutal. I’m not seeing any historical comparable for what we’re headed for. Not WW2, not the Great Depression, not the Spanish Flu. This is a totally sui generis cataclysm.</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1244101836753129473?ref_src=twsrc%5Etfw">March 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
