@@ -86,9 +86,15 @@ Craig Mod has been doing this wonderfully. Nothing braggy or showy. Just showing
 
 Finally - if you have the cash reserves to see you through this (big if...) then you should consider going subterranean and working on projects that won't see the light of day until next year.
 
-If I can cobble together the cash reserves this is the project I'd spend 2020 on - aiming to launch in 2021:
+Side projects might be regenerative for your emotional reserves right now[^sideproject] but if your client work dries up it's not the correct response. Take the time to look after yourself then start preparing for the regrowth.
+
+[^sideproject]: The irony is I have a side project going right now 
+
+If you can cobble together the reserves spend 2020 working on a project that will generate revenue in 2021. Here's what that might look like for me:
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tomcritchlow/status/1225841636657201152'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+Creating a course with full syllabus, videos, materials ready to launch and accept signups next year would be a great investment in future you..
 
 If you can invest $X of sweat equity in 2020 you gotta believe those dollars are worth more in 2021....
 
