@@ -27,7 +27,7 @@ Here's some quick and dirty notes and ideas to kick us off:
 
 ### 1. Indies are f-ed
 
-<blockquote class='twitter-tweet'data-conversation='none'><a href=https://twitter.com/vgr/status/1244101836753129473></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1244101836753129473'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 No one knows how this ends. And no one knows how long it's gonna last. At the beginning of this 3-months of runway might have felt safe. Now I'm not sure 12 months of runway feels safe..
 
