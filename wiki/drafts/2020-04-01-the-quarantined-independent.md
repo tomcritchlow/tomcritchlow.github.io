@@ -23,33 +23,81 @@ The series home will be here: [The Quarantined Independent](https://tomcritchlow
 
 My plan is to think through what indies can do to find & keep work, stay alive in the crisis and generally.
 
-Here's some initial notes and ideas to kick us off.
+Here's some quick and dirty notes and ideas to kick us off:
 
 ### 1. Indies are f-ed
 
 <blockquote class='twitter-tweet'data-conversation='none'><a href=https://twitter.com/vgr/status/1244101836753129473></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
+No one knows how this ends. And no one knows how long it's gonna last. At the beginning of this 3-months of runway might have felt safe. Now I'm not sure 12 months of runway feels safe..
 
+And indies are due for even less support than everyone else.
 
-### 2. Mutual Aid for Indies
+So shore up reserves, collect on your invoices right now, check your free cash flow...
 
-Now more than ever we need collaboration, cooperation and no one wants the cult of personality in these times.
+The new world order that emerges after this may well be more indie-friendly, but for now we're in for a rough ride.
 
+### 2. Mutual aid for indies
 
+The last thing we need in these times is a cult of personality. Now more than ever we need collaboration and cooperation between indies.
+
+What does this look like? 
+
+Pitch work with collaborators, pull in other indies to help out on projects, look for ways to extend contracts around to other indies. This also helps protect you psychologically from clients balking at your fees - it's not *only* a self serving proposal but you're gonna spread that money around.
 
 ### 3. Start your writing
 
-Writing works like compound interest. Let's be clear - we're not going to blog our way out of the slump but investing in a blogging habit now will pay off next year in spades when the economy gets going again.
+Let's be clear - we're not going to blog our way out of the slump. But writing is like compound interest - investing in a blogging habit now will pay off next year in spades when the economy gets going again.
 
+Every independent I know generates leads through their writing.
 
+Some reading:
+
+- [Strategic Digital Gardening](https://willakoerner.com/project/digital-gardening)
+- [Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/)
+
+And, crucially - don't forget to keep it weird. This age is the [great weirding](https://www.ribbonfarm.com/series/weirding-diary/) and the world that comes next isn't going to want your LinkedIn "10 ways I...." bro-post. Let a little [blogpunk](https://tomcritchlow.com/2019/05/17/blogpunk/) creep in.
 
 ### 4. Show the Process
 
-Craig Mod is doing this wonderfully. Nothing braggy or showy. Just showing up and livestreaming the work. Note how the work here is not even client work - but it shows off the range of capabilities wonderfully.
+If you're tempted to spend some time getting your case studies in order might I humbly suggest that your time would be better spent becoming a thought leader. Thought leader?! Ugh. Well, actually no:
+
+> If you want to be good at “thought leadership”, the last thing you should do is say on your home page: “We are thought leaders,” or “We do thought leadership.”
+>
+> Just declaring your organisation “thought leaders” does not make it a leader of anything, except perhaps PR. 
+>
+> Instead, you should actually lead with some thinking. 
+>
+>Start blogging or writing about what your thoughts are. It doesn’t matter if they’re half-formed or thoughts-in-progress (you can be explicit about that from the start, nobody will mind). The main thing is to show that you are capable of thinking about things, and to write clearly and simply about what your thoughts are.
+
+From the great Giles: [don't say you're a thought leader](https://gilest.org/2017/thought-leadership/).
+
+Ok - how do you lead with some thinking?
+
+For me - it often comes down to **showing the process**. The main thing most case studies miss is any real notion of showing the thinking and process behind the work[^casestudy].
+
+[^casestudy]: Yes I know the best case studies do both - but most don't so don't @ me. Also - you can only write one case study per work object! You should publish more frequently than that.
+
+Craig Mod has been doing this wonderfully. Nothing braggy or showy. Just showing up and livestreaming the work. Note how the work here is not even client work - but it shows off the range of capabilities wonderfully.
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href="https://twitter.com/craigmod/status/1247474623991566336?s=19"></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m guessing 10 more weeks before we see the first signs of economy reboot.<br><br>This is going to get really brutal. I’m not seeing any historical comparable for what we’re headed for. Not WW2, not the Great Depression, not the Spanish Flu. This is a totally sui generis cataclysm.</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1244101836753129473?ref_src=twsrc%5Etfw">March 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### 5. Go subterranean
+
+Finally - if you have the cash reserves to see you through this (big if...) then you should consider going subterranean and working on projects that won't see the light of day until next year.
+
+If I can cobble together the cash reserves this is the project I'd spend 2020 on - aiming to launch in 2021:
+
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tomcritchlow/status/1225841636657201152'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+If you can invest $X of sweat equity in 2020 you gotta believe those dollars are worth more in 2021....
+
+--
+
+What other tips and tricks are indies gonna use to stay alive? Post some comments.
+
+Stay safe. Much love.
+
 
 
 
