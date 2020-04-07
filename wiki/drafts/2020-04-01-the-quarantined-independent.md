@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The Quarantined Independent
-subtitle: A new blogchain
+subtitle: A new blogchain on surviving a global pandemic as an indie
 blogchain: the-quarantined-independent
 ---
 
