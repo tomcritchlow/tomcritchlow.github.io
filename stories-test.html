@@ -124,7 +124,7 @@ function loadSearch() {
 function loadmeta(){
 
   // load post title
-  document.getElementById("meta").innerHTML = "<strong>"+posts[post].title+"</strong> - <span class='date'>" + posts[post].date + "</span>";
+  document.getElementById("meta").innerHTML = "<strong>"+posts[post].title+"</strong> - <span class='date'>" + posts[post].date + "</span><br><span class='next'>"+posts[post+1].title+"</span>";
 
   //load progress bars
   document.getElementById("progress").innerHTML = "";  
