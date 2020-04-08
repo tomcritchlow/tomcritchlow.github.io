@@ -13,7 +13,7 @@ It contains things like [how to effectively embed yourself inside client organiz
 
 But we're all beginners now.
 
-These topics feel out of touch with reality so I'm putting the book on pause and launching a new mini-series - a more urgent and hopefully more actionable series[^toby]:
+These topics feel out of touch with reality, while the underlying goal is the same: help indies survive and thrive. So I'm putting the book on pause and launching a new mini-series - a more urgent and hopefully more actionable series[^toby]:
 
 [^toby]: The only blogging I've been doing has been "domestic cozy" blogging as a retreat from reality. As [Toby says](https://subpixel.space/entries/premonition/): *For three weeks, I have wondered: how much of what I’ve thought and written about on this site is even relevant now?* - but Toby concludes there is a way through - urgently and critically through reexamining our core values. Thank you Toby.
 
