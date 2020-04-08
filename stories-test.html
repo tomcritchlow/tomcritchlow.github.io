@@ -151,6 +151,10 @@ function loadframe(){
   display += posts[post].blocks[block];
   document.getElementById("frame").innerHTML = display;
 
+  $('#frame').textfill({
+    "innerTag": "p"
+  });
+
   if(display.indexOf("platform.twitter") != -1){
     twttr.widgets.load(
       document.getElementById("frame")
