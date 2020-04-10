@@ -37,8 +37,29 @@ In more normal times
 
 ## Divergent Times / Divergent Hunting
 
+In [my last post](https://tomcritchlow.com/2020/04/08/the-quarantined-independent/) I said this:
 
+>Finally - if you have the cash reserves to see you through this (big if…) then you should consider going subterranean and working on projects that won’t see the light of day until next year.
+
+But I'm beginning to think this is the wrong mindset. Imagining there is a "return" to anything next year is misguided. Reality just hard forked and there's no going back. The economy may return or a new economy may emerge but it won't ever look the same again.
+
+Instead - independents should embrace the uncertainty and leverage the fact that the indie lifestyle is best placed to explore new frontiers. As Venkatesh said:
 
 >Work in the free-agent mode is a divergent economic activity, an evolutionary phenomenon that explores outward from a constantly expanding frontier, and acquires more depth, richness, and variety with every passing year. I call this a diverarchy -- the historical trace of a naturally divergent, expansionary, evolutionary pattern based on variation and natural selection of relatively stable forms.
 
 [the free agent diverarchy](https://breakingsmart.substack.com/p/the-free-agent-diverarchy)
+
+## Navigating The Future
+
+> **The tricky thing about all of this is that skill markets are not perfectly observable. You’ll have to go hunting for trends**. I’ll probably schedule a bunch of meetings at the end of this year, assuming COVID-19 blows over. And in those meetings, I’ll be listening carefully for the organisational changes my friends are experiencing at their companies.
+
+[Career moats in a recession](https://commoncog.com/blog/career-moats-in-recession/)
+
+
+
+## Opportunity Values
+
+This is also how I'd navigate taking a full time job right now. If it's going to meaningfully open you up to divergent opportunities
+
+
+
