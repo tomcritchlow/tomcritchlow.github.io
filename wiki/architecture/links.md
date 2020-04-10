@@ -26,3 +26,7 @@ source: [Reinier de Graaf, “Phantom Urbanism” - Harvard Graduate School of D
 --
 
 [Google streetview examples of architecture styles](https://modern-architecture.glitch.me/)
+
+--
+
+[Ways of knowing cities](https://www.arch.columbia.edu/books/reader/483-ways-of-knowing-cities)
