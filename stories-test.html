@@ -160,7 +160,7 @@ function loadframe(){
   };
   display += posts[post].blocks[block];
   if(posts[post].blocks[block].includes("img")){
-    console.log("image!");
+    display = "<div class='imgcontainer'>"+posts[post].blocks[block]+"</div>"
   }
   document.getElementById("frame").innerHTML = display;
 
