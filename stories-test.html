@@ -159,6 +159,9 @@ function loadframe(){
     if(posts[post].subtitle){display += "<h2 class='f3 fw3 lh-copy mt1 subtitle p-summary'>"+posts[post].subtitle+"</h2>"};
   };
   display += posts[post].blocks[block];
+  if(posts[post].blocks[block].includes("img")){
+    console.log("image!");
+  }
   document.getElementById("frame").innerHTML = display;
 
   // https://jquery-textfill.github.io/
