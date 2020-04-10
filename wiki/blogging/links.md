@@ -74,3 +74,9 @@ source: <https://artifex.org/~bonnie/pdf/Nardi_why_we_blog.pdf>
 >For some reason I’m thinking of what Carrie Fisher once said in an interview: “Take your broken heart, and turn it into art.” I suppose that the equivalent for me would be “take your broken heart, and turn it into a book about design systems.” Or better yet: “take your broken heart and blog.”
 
 source: [Take your broken heart and blog ･ Robin Rendle](https://www.robinrendle.com/notes/take-your-broken-heart-and-blog)
+
+--
+
+>A while ago I created a Python script that threw a chunk of my blog posts into Are.na. Each post was turned into a text block that was placed in a channel called “CJ's Blog.”
+
+source: [From Blog to Blocks — CJ Eller](https://blog.cjeller.site/from-blog-to-blocks)

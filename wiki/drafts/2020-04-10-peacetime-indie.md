@@ -63,3 +63,4 @@ This is also how I'd navigate taking a full time job right now. If it's going to
 
 
 
+Indie role is to help companies place bets right now.
