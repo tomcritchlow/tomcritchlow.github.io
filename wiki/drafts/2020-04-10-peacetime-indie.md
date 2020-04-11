@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Peacetime Indie / ...
-subtitle: How to navigate uncertainty
+title: Wartime CEO / Divergent Indie
+subtitle: Mental models for navigating uncertainty
 blogchain: the-quarantined-independent
 ---
 
@@ -13,11 +13,11 @@ For those not familiar the peacetime CEO / wartime CEO is a famous concept:
 
 [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/) from Ben Horowitz of a16z.
 
-Unfortunately this model was never useful for indies - where you cycle through periods of "wartime" all the time.
+Unfortunately this model was never useful for independents. Being independent is a continual process of cycling through feast and famine - busy and quiet.
 
-In a regular year you might get hungry for new work 4 or 5 times (this number will likely decrease the longer you're at it and the more you build up in your cash reserves).
+In a regular year you might get hungry for new work 4 or 5 times[^exp].
 
-So if peactime/wartime isn't quite the right model - what is?
+[^exp]: This number will likely decrease the longer you're at it and the more you build up in your cash reserves.
 
 ## Hunting for work
 
@@ -33,7 +33,18 @@ So what changes for indies is not whether you're hunting but rather **how you hu
 
 ## Convergent Times / Convergent Hunting
 
-In more normal times 
+In more normal times the way you hunt is to try and springboard every client engagement into bigger and better client engagements.
+
+For example - I spent the last 3-4 years working in media. First with commerce media, then in bigger commerce media then in M&A for media and then innovation for media.
+
+Each engagement gives you:
+
+- Situational awareness for the industry
+- Contacts and network
+- Interesting things to write about
+- New case studies and validation
+
+While there's always room for new kinds of work and new kinds of client the default mode is **convergent** - you're looking for work that leverages the experience you just gained.
 
 ## Divergent Times / Divergent Hunting
 
@@ -56,11 +67,41 @@ Instead - independents should embrace the uncertainty and leverage the fact that
 [Career moats in a recession](https://commoncog.com/blog/career-moats-in-recession/)
 
 
+## Client work in the middle of uncertainty
 
-## Opportunity Values
-
-This is also how I'd navigate taking a full time job right now. If it's going to meaningfully open you up to divergent opportunities
-
-
+Consulting was never about "having the answer" anyway (see capacity building vs problem solving consultants) and now 
 
 Indie role is to help companies place bets right now.
+
+Here's a checklist:
+- Re-examine your mental model of this crisis. What aspects of life are going to stay the same, shift or completely change?
+- Look for ways to help clients place bets
+
+Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's needed is agile cooperation with other indies.
+
+
+<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
+<div class="portal-container">
+
+<div class="portal-head">
+
+<div class="portal-metadata">
+
+    <div class="portal-title">
+    <div class="portal-author"></div>
+    <div class="title-wrapper">
+        in <span class="portal-text-title">Cyborg prosthetics for limbs that don't exist (7 Apr., 2020, at Interconnected)</span>
+    </div>
+    </div>              
+
+</div>
+
+<div class="portal-backlink"><a target="_blank" href="http://interconnected.org/home/2020/04/07/cyborg_prosthetics" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+
+</div>
+
+<div id="portal-parent-{{include.anchor}}" class="portal-parent">
+<div class="portal-content">Forget showing my lost items on a map on a screen and making me treasure-hunt my way back to them. I want to be able to whistle to my phone from anywhere in the house, and have it wriggle out of the sofa and scamper across the room and snuggle into my pocket.</div>       
+</div>    
+</div>
+
