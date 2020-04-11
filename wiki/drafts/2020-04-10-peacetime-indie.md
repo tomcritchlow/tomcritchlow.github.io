@@ -9,9 +9,23 @@ There's a bunch of discussion right now about the peacetime CEO / wartime CEO me
 
 For those not familiar the peacetime CEO / wartime CEO is a famous concept:
 
->In peacetime, leaders must maximize and broaden the current opportunity. As a result, peacetime leaders employ techniques to encourage broad-based creativity and contribution across a diverse set of possible objectives. In wartime, by contrast, the company typically has a single bullet in the chamber and must, at all costs, hit the target. The company’s survival in wartime depends upon strict adherence and alignment to the mission.
+<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
+<div class="portal-container">
+<div class="portal-head">
+<div class="portal-metadata">
+<div class="portal-title">
+<div class="portal-author"></div>
+<div class="title-wrapper">in <span class="portal-text-title">Peacetime CEO/Wartime CEO - Andreessen Horowitz</span></div>
+</div>              
+</div>
+<div class="portal-backlink"><a target="_blank" href="https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+</div>
+<div id="portal-parent-{{include.anchor}}" class="portal-parent">
+<div class="portal-content">In peacetime, leaders must maximize and broaden the current opportunity. As a result, peacetime leaders employ techniques to encourage broad-based creativity and contribution across a diverse set of possible objectives. In wartime, by contrast, the company typically has a single bullet in the chamber and must, at all costs, hit the target. The company’s survival in wartime depends upon strict adherence and alignment to the mission.
+</div>       
+</div>    
+</div>
 
-[Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/) from Ben Horowitz of a16z.
 
 Unfortunately this model was never useful for independents. Being independent is a continual process of cycling through feast and famine - busy and quiet.
 
