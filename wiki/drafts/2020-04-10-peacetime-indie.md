@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Wartime CEO / Divergent Indie
+title: Peacetime Indie to.... ?
 subtitle: Mental models for navigating uncertainty
 blogchain: the-quarantined-independent
 ---
@@ -56,15 +56,53 @@ But I'm beginning to think this is the wrong mindset. Imagining there is a "retu
 
 Instead - independents should embrace the uncertainty and leverage the fact that the indie lifestyle is best placed to explore new frontiers. As Venkatesh said:
 
->Work in the free-agent mode is a divergent economic activity, an evolutionary phenomenon that explores outward from a constantly expanding frontier, and acquires more depth, richness, and variety with every passing year. I call this a diverarchy -- the historical trace of a naturally divergent, expansionary, evolutionary pattern based on variation and natural selection of relatively stable forms.
 
-[the free agent diverarchy](https://breakingsmart.substack.com/p/the-free-agent-diverarchy)
+<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
+<div class="portal-container">
+<div class="portal-head">
+<div class="portal-metadata">
+<div class="portal-title">
+<div class="portal-author"></div>
+<div class="title-wrapper">in <span class="portal-text-title">The Free-Agent Diverarchy - Breaking Smart</span></div>
+</div>              
+</div>
+<div class="portal-backlink"><a target="_blank" href="https://breakingsmart.substack.com/p/the-free-agent-diverarchy" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+</div>
+<div id="portal-parent-{{include.anchor}}" class="portal-parent">
+<div class="portal-content">Work&nbsp;in the free-agent mode is a divergent economic activity, an evolutionary phenomenon that explores outward from a constantly expanding frontier,&nbsp;and acquires more depth, richness, and variety with every passing year. I call this a diverarchy -- the historical trace of a naturally divergent, expansionary, evolutionary pattern based on variation and natural selection of relatively stable forms.</div>       
+</div>    
+</div>
+
 
 ## Navigating The Future
 
-> **The tricky thing about all of this is that skill markets are not perfectly observable. You’ll have to go hunting for trends**. I’ll probably schedule a bunch of meetings at the end of this year, assuming COVID-19 blows over. And in those meetings, I’ll be listening carefully for the organisational changes my friends are experiencing at their companies.
 
-[Career moats in a recession](https://commoncog.com/blog/career-moats-in-recession/)
+<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
+<div class="portal-container">
+
+<div class="portal-head">
+
+<div class="portal-metadata">
+
+<div class="portal-title">
+<div class="portal-author"></div>
+<div class="title-wrapper">
+in <span class="portal-text-title">Career Moats in a Recession</span>
+</div>
+</div>              
+
+</div>
+
+<div class="portal-backlink"><a target="_blank" href="https://commoncog.com/blog/career-moats-in-recession/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+
+</div>
+
+<div id="portal-parent-{{include.anchor}}" class="portal-parent">
+<div class="portal-content">The tricky thing about all of this is that skill markets are not perfectly observable. You’ll have to go hunting for trends. I’ll probably schedule a bunch of meetings at the end of this year, assuming COVID-19 blows over. And in those meetings, I’ll be listening carefully for the organisational changes my friends are experiencing at their companies.</div>       
+</div>    
+</div>
+
+
 
 
 ## Client work in the middle of uncertainty
@@ -78,30 +116,3 @@ Here's a checklist:
 - Look for ways to help clients place bets
 
 Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's needed is agile cooperation with other indies.
-
-
-<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
-<div class="portal-container">
-
-<div class="portal-head">
-
-<div class="portal-metadata">
-
-    <div class="portal-title">
-    <div class="portal-author"></div>
-    <div class="title-wrapper">
-        in <span class="portal-text-title">Cyborg prosthetics for limbs that don't exist (7 Apr., 2020, at Interconnected)</span>
-    </div>
-    </div>              
-
-</div>
-
-<div class="portal-backlink"><a target="_blank" href="http://interconnected.org/home/2020/04/07/cyborg_prosthetics" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
-
-</div>
-
-<div id="portal-parent-{{include.anchor}}" class="portal-parent">
-<div class="portal-content">Forget showing my lost items on a map on a screen and making me treasure-hunt my way back to them. I want to be able to whistle to my phone from anywhere in the house, and have it wriggle out of the sofa and scamper across the room and snuggle into my pocket.</div>       
-</div>    
-</div>
-
