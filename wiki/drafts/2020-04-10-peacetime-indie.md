@@ -102,7 +102,9 @@ While on the one hand independents are royally f-ed with zero safety net - on th
 </div>    
 </div>
 
-So how do you hunt in divergent times?
+Hunting in divergent times is exploring possibility space to find the emergent clients, contracts, behavoiurs and ways of working and respond to them faster than anyone else. It's the "constantly expanding frontier" that Venkatesh references that aims to find the small buds, shoots and green leaves of the "new normal" whatever that looks like.
+
+Here's two explicit strategies for hunting in divergent times:
 
 ### 1. Continuous Sensemaking
 
@@ -130,6 +132,9 @@ in <span class="portal-text-title">Career Moats in a Recession</span>
 
 
 ### 2. Help clients place bets
+
+
+Old companies, new bets.
 
 
 Consulting was never about "having the answer" anyway (see [capacity building vs problem solving consultants](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/#consultant-as-capacity-builder)) and now 
