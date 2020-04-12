@@ -7,7 +7,7 @@ blogchain: the-quarantined-independent
 
 There's a bunch of discussion right now about the peacetime CEO / wartime CEO mental model ([for example here](https://taylorpearson.me/crisis-management-plan/)).
 
-For those not familiar the peacetime CEO / wartime CEO is a famous concept:
+For those not familiar, from Ben Horowitz at A16Z:
 
 <link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
 <div class="portal-container">
@@ -26,7 +26,6 @@ For those not familiar the peacetime CEO / wartime CEO is a famous concept:
 </div>    
 </div>
 
-
 Unfortunately this model was never useful for independents. Being independent is a continual process of cycling through feast and famine - busy and quiet.
 
 In a regular year you might get hungry for new work 4 or 5 times[^exp].
@@ -35,15 +34,15 @@ In a regular year you might get hungry for new work 4 or 5 times[^exp].
 
 ## Hunting for work
 
-Every time your work slows down as an indie you get hungry. Even though I've been lucky enough to build up some reserves I feel the bite of negative cash flow very keenly. In short - I get hungry.
+Every time your work slows down as an indie you get hungry. Even though I've been lucky enough to build up some reserves I feel the bite of negative cash flow very keenly. In short - I get hungry and go hunting.
 
 For paycheck types - hunting for work is typically a discrete event. You're either looking for a job or you're not. And those events are typically spaced out 12-24 months at a time. It's a time of crisis for paycheck types because it's all or nothing - when you're out of work your income is zero.
 
 For indies - hunting for work is an "always on" activity. You're often working for clients but not at full capacity and a typical gig lasts months not years so you're always rolling off some client project and rolling onto another.
 
-So this is where the peacetime/wartime analogy starts to break down. For companies and paycheck types you can more safely operate in times of peace and times of war. Indies are hired guns where hunting is the only business we know and we've learned to live peacefully while always on the hunt.
+This is where the peacetime/wartime analogy starts to break down. For companies and paycheck types you can more safely operate in "modes" like times of peace and times of war. Indies are hired guns where hunting is the only business we know and we've learned be at peace with living on the hunt.
 
-So what changes for indies is not whether you're hunting but rather **how you hunt**.
+But there are context switches and mode changes. What changes for indies is not whether you're hunting but rather **how you hunt**.
 
 ## Convergent Times / Convergent Hunting
 
@@ -64,7 +63,24 @@ While there's always room for new kinds of work and new kinds of client the defa
 
 In [my last post](https://tomcritchlow.com/2020/04/08/the-quarantined-independent/) I said this:
 
->Finally - if you have the cash reserves to see you through this (big if…) then you should consider going subterranean and working on projects that won’t see the light of day until next year.
+
+<link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
+<div class="portal-container">
+<div class="portal-head">
+<div class="portal-metadata">
+<div class="portal-title">
+<div class="portal-author"></div>
+<div class="title-wrapper">in <span class="portal-text-title">The Quarantined Independent</span></div>
+</div>              
+</div>
+<div class="portal-backlink"><a target="_blank" href="https://tomcritchlow.com/2020/04/08/the-quarantined-independent/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+</div>
+<div id="portal-parent-{{include.anchor}}" class="portal-parent">
+<div class="portal-content">Finally - if you have the cash reserves to see you through this (big if…) then you should consider going subterranean and working on projects that won’t see the light of day until next year.
+</div>       
+</div>    
+</div>
+
 
 But I'm beginning to think this is the wrong mindset. Imagining there is a "return" to anything next year is misguided. Reality just hard forked and there's no going back. The economy may return or a new economy may emerge but it won't ever look the same again.
 
@@ -86,6 +102,11 @@ Instead - independents should embrace the uncertainty and leverage the fact that
 <div class="portal-content">Work&nbsp;in the free-agent mode is a divergent economic activity, an evolutionary phenomenon that explores outward from a constantly expanding frontier,&nbsp;and acquires more depth, richness, and variety with every passing year. I call this a diverarchy -- the historical trace of a naturally divergent, expansionary, evolutionary pattern based on variation and natural selection of relatively stable forms.</div>       
 </div>    
 </div>
+
+In divergent times:
+- Ear to the ground insights
+- Helping clients place bets
+- 
 
 
 ## Navigating The Future
