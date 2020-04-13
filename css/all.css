@@ -195,8 +195,9 @@ padding-top: 30px;
     left: 0.1rem; }
 
 .sidenote:before { content: counter(sidenote-counter) " ";
-font-size: 1rem;
-top: -0.5rem; }
+font-size: 0.6rem;
+top: -0.5rem;
+color: #03a9f4 }
 
 input.margin-toggle { display: none; }
 
