@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Peacetime Indie to.... ?
+title: After Peacetime
 subtitle: Mental models for navigating uncertainty
 blogchain: the-quarantined-independent
 ---
@@ -30,15 +30,15 @@ Unfortunately this model was never useful for independents. Being independent is
 
 In a regular year you might get hungry for new work 4 or 5 times[^exp].
 
-[^exp]: This number will likely decrease the longer you're at it and the more you build up in your cash reserves.
+[^exp]: In theory this number will decrease the longer you're at it and the more you build up in your cash reserves.
 
 ## Hunting for work
 
 Every time your work slows down as an indie you get hungry. Even though I've been lucky enough to build up some reserves I feel the bite of negative cash flow very keenly. In short - I get hungry and go hunting.
 
-For paycheck types - hunting for work is typically a discrete event. You're either looking for a job or you're not. And those events are typically spaced out 12-24 months at a time. It's a time of crisis for paycheck types because it's all or nothing - when you're out of work your income is zero.
+*For paycheck types* - hunting for work is typically a discrete event. You're either looking for a job or you're not. And those events are typically spaced out 12-24 months at a time. It's a time of crisis for paycheck types because it's all or nothing - when you're out of work your income is zero.
 
-For indies - hunting for work is an "always on" activity. You're often working for clients but not at full capacity and a typical gig lasts months not years so you're always rolling off some client project and rolling onto another.
+*For indies* - hunting for work is an "always on" activity. You're often working for clients but not at full capacity and a typical gig lasts months not years so you're always rolling off some client project and rolling onto another.
 
 This is where the peacetime/wartime analogy starts to break down. For companies and paycheck types you can more safely operate in "modes" like times of peace and times of war. Indies are hired guns where hunting is the only business we know and we've learned to be at peace with living on the hunt.
 
@@ -57,7 +57,7 @@ Every client engagement in a niche gives you:
 - Insights and interesting things to write about
 - New case studies and further validation
 
-In convergent times new clients are often building off previous ones. The default mode is **convergent**. In fact in more normal times this can even feel like a drag as you try and escape being pigeon-holed and boxed in. Some efforts are made to branch out but usually half-heartedly and broadly lazily if enough work is coming your way via convergent means.
+The default mode is **convergent** - new clients are often building off previous ones. In fact in more normal (convergent) times this can even feel like a drag as you try and escape being pigeon-holed and boxed in. Some efforts are made to branch out but usually half-heartedly and broadly lazily if enough work is coming your way via convergent means.
 
 ## Divergent Times / Divergent Hunting
 
@@ -82,7 +82,7 @@ My first instinct was to turtle my way out of it - shore up enough reserves to o
 </div>    
 </div>
 
-But I'm beginning to think this is the wrong mindset. Imagining there is a "return" to anything next year is misguided. Reality just hard forked and there's no going back. The economy may return or a new economy may emerge but it won't ever look the same again.
+But I'm beginning to think this is the wrong mindset. Imagining there is a "return" to anything next year is misguided. Reality just hard forked and there's no going back. The economy may return in some fashion or a new economy may emerge but life won't ever look the same again.
 
 While on the one hand independents are royally f-ed with zero safety net - on the other hand independents have been training for years for this kind of uncertainty. We've been hunting for years. Indies are the most adept at exploring new frontiers. As Venkatesh said:
 
@@ -102,15 +102,15 @@ While on the one hand independents are royally f-ed with zero safety net - on th
 </div>    
 </div>
 
-Hunting in divergent times is exploring possibility space to find the emergent clients, contracts, behavoiurs and ways of working and respond to them faster than anyone else. It's the "constantly expanding frontier" that Venkatesh references that aims to find the small buds, shoots and green leaves of the "new normal" whatever that looks like.
+Let's call this **divergent hunting** - exploring possibility space to find the emergent clients, contracts, behaviors and ways of working and respond to them faster than anyone else. It's the "constantly expanding frontier" that Venkatesh references that aims to find the small buds, shoots and green leaves of the "new normal" whatever that looks like.
 
 Here's two explicit strategies for hunting in divergent times:
 
 ### 1. Continuous Sensemaking
 
-e.g.
+We're likely too early for much real signs of life for what comes next - but we can and should be developing our sensemaking skills and continuously iterating on our ideas to keep a sharp eye for what's next.
 
-https://subpixel.space/entries/premonition/
+Something like this:
 
 <link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
 <div class="portal-container">
@@ -130,20 +130,55 @@ in <span class="portal-text-title">Career Moats in a Recession</span>
 </div>    
 </div>
 
+Except don't schedule those meetings for the end of the year - that's turtle thinking - instead act faster and more continuously to sense emergent ideas early.
+
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vaughn_tan/status/1249257171424022529'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+Toby and the blogger peer review put out a great example of rapid sensemaking in this post: [Premonition](https://subpixel.space/entries/premonition/).
+
+For indies who've been out a while there are two assets likely built up:
+
+1. A birds eye view of one or more industries/niches gained by working across multiple clients
+2. A network of likeminded indies with good situational awareness of their industries / niches.
+
+Look for ways to leverage this through group sensemaking, open discussion and collaboration[^meta].
+
+[^meta]: This blogchain series is my own personal sensemaking exercise btw - vetted behind the scenes through conversations with other indies and peers.
 
 ### 2. Help clients place bets
 
+It's impossible to have answers to anything in this crisis. Every decision ends in a shruggie.
 
-Old companies, new bets.
+But consulting was never about "having the answer" anyway, see [capacity building vs problem solving consultants](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/#consultant-as-capacity-builder).
 
+The "capacity" that needs to be built for clients right now is *placing bets*.
 
-Consulting was never about "having the answer" anyway (see [capacity building vs problem solving consultants](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/#consultant-as-capacity-builder)) and now 
+Right now - this likely looks like placing bets behind the parts of the economy still moving. i.e.
 
-Indie role is to help companies place bets right now.
+- Online ordering
+- Video streaming
+- Media consumption
+- "essentials" classifications
+- WFH and remote collaboration
 
-Here's a checklist:
-1. Re-examine your mental model of this crisis. What aspects of life are going to stay the same, shift or completely change?
-2. Rapid, continual sensemaking leveraging your industry insights
-3. Look for ways to help clients place bets
+How might you help clients place bets?
+
+- Rapid campaign testing and iteration, smaller budgets, quicker turnaround
+- Fast user research
+- Product development and explorations around emerging user behaviors
+- Market analysis and synthesis to see what competitor are doing
+- Assembling teams quickly to attack new problems
+
+## Divergent Times
+
+We live in divergent times now. Hope you're staying alive, in all sense of the word.
+
+Here's a quick checklist:
+
+1. Re-visit your pre-pandemic behaviors. Shift, but keep on with the things that are important for you.
+2. Re-examine your mental model of this crisis. Turtling is likely the wrong strategy.
+3. What aspects of life are going to stay the same, shift or completely change? Keep this list agile and update often.
+4. Rapid, continual sensemaking leveraging your industry insights & network of indies.
+5. Look for ways to help clients place bets, expect faster turnaround and shorter timeframes.
 
 Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's needed is agile cooperation with other indies.
