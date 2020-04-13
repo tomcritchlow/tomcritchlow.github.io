@@ -15,7 +15,7 @@ For those not familiar, from Ben Horowitz at A16Z:
 <div class="portal-metadata">
 <div class="portal-title">
 <div class="portal-author"></div>
-<div class="title-wrapper">in <span class="portal-text-title">Peacetime CEO/Wartime CEO - Andreessen Horowitz</span></div>
+<div class="title-wrapper">Ben Horowitz in <span class="portal-text-title">Peacetime CEO/Wartime CEO - Andreessen Horowitz</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
@@ -71,7 +71,7 @@ My first instinct was to turtle my way out of it - shore up enough reserves to o
 <div class="portal-metadata">
 <div class="portal-title">
 <div class="portal-author"></div>
-<div class="title-wrapper">in <span class="portal-text-title">The Quarantined Independent</span></div>
+<div class="title-wrapper">Tom Critchlow in <span class="portal-text-title">The Quarantined Independent</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://tomcritchlow.com/2020/04/08/the-quarantined-independent/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
@@ -92,7 +92,7 @@ While on the one hand independents are royally f-ed with zero safety net - on th
 <div class="portal-metadata">
 <div class="portal-title">
 <div class="portal-author"></div>
-<div class="title-wrapper">in <span class="portal-text-title">The Free-Agent Diverarchy - Breaking Smart</span></div>
+<div class="title-wrapper">Venkatesh Rao in <span class="portal-text-title">The Free-Agent Diverarchy - Breaking Smart</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://breakingsmart.substack.com/p/the-free-agent-diverarchy" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
@@ -118,9 +118,7 @@ Something like this:
 <div class="portal-metadata">
 <div class="portal-title">
 <div class="portal-author"></div>
-<div class="title-wrapper">
-in <span class="portal-text-title">Career Moats in a Recession</span>
-</div>
+<div class="title-wrapper">Cedric Chin in <span class="portal-text-title">Career Moats in a Recession</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://commoncog.com/blog/career-moats-in-recession/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
@@ -130,7 +128,7 @@ in <span class="portal-text-title">Career Moats in a Recession</span>
 </div>    
 </div>
 
-Except don't schedule those meetings for the end of the year - that's turtle thinking - instead act faster and more continuously to sense emergent ideas early.
+Except don't schedule those meetings for the end of the year - that's turtle thinking - instead act faster and more continuously to sense emergent ideas early. As Vaughn ([master of uncertainty](https://vaughntan.org/)) says
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vaughn_tan/status/1249257171424022529'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
@@ -181,4 +179,6 @@ Here's a quick checklist:
 4. Rapid, continual sensemaking leveraging your industry insights & network of indies.
 5. Look for ways to help clients place bets, expect faster turnaround and shorter timeframes.
 
-Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's needed is agile cooperation with other indies.
+Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's most needed is agile cooperation.
+
+Stay safe, much love.
