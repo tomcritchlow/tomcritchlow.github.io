@@ -106,7 +106,7 @@ Let's call this **divergent hunting** - exploring possibility space to find the 
 
 Here's two explicit strategies for hunting in divergent times:
 
-### 1. Continuous Sensemaking
+### 1. Continuous Sensemaking in times of Uncertainty
 
 We're likely too early for much real signs of life for what comes next - but we can and should be developing our sensemaking skills and continuously iterating on our ideas to keep a sharp eye for what's next.
 
