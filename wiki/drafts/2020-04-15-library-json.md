@@ -54,12 +54,43 @@ And combined with a "feed" something like this:
 
 ![](/images/library-json-feed.png)
 
+## Groups & Control
+
+The great thing about this being an open spec is that people can choose to participate in the centralized GoodReads-esque hub or... not. In fact people can hack on top of it in many ways - extending, modifying and so on.
+
+In particular it would be very easy for a small group of people to form a book club and host a summary view of a handful of library.json files completely independently of any open aggregator.
+
 ## V0.1 of a library.json spec
 
-So this brings me to my "spec". Let's imagine a library.json file that looks like this:
+So this brings me to my "spec". Let's imagine a library.json file that roughly looks like this:
+
+- Title
+- URL
+- Bio
+    - Lists
+        - List
+        - List
+
+Where each book list contains a book object something like this:
+
+- Title
+- Author
+- URL
+- ID
+- Notes (can be text or a link to a full review/note)
+
+I created some dummy example files [in this gist](https://gist.github.com/tomcritchlow/a4a9c8064a97a997fbbad4c338748173):
 
 <script src="https://gist.github.com/tomcritchlow/a4a9c8064a97a997fbbad4c338748173.js"></script>
 
-https://gist.github.com/tomcritchlow/a4a9c8064a97a997fbbad4c338748173
+## Feedback? Next?
+
+So where to next? Three obvious things:
+
+1. Further research into a universal book ID solution. Without it this whole idea is going to be shaky ground.
+2. Building an MVP of the feed reader experience slurping in some sample library.json files
+3. Gather feedback on the json spec above
+
+If you are interested in building something in this space and/or maintain a page that's part of the "web of books" I'd love to hear from you on the above proposal.
 
 
