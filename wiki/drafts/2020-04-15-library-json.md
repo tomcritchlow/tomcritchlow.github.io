@@ -36,8 +36,21 @@ On closer examination I realized that I'm not really interested in building a "s
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Would love to see a &quot;web of books&quot; emerge from the indie web rather than via fixing goodreads</p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/1170340177702785024?ref_src=twsrc%5Etfw">September 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+There are lots of really really great indie sites that maintain structured reading lists. I've got a running list in my wiki: [web of books](https://tomcritchlow.com/wiki/books/bookshelves/). Probably my all time favorite is Mandy's [A Working Library](https://aworkinglibrary.com/).
 
 ## Decentralized Architecture
+
+Thinking through building some kind of "web of books" I realized that we could use something similar to RSS to build a kind of decentralized GoodReads powered by indie sites and an underlying easy to parse format.
+
+It's best visualized by imagining a bookshelf "feed reader" that let's you keep track of friends bookshelves something like this[^loldesign]:
+
+[^loldesign]: Not accepting freelance web design gigs atm, sorry.
+
+![](/images/library-json.png)
+
+And combined with a "feed" like this:
+
+![](/images/library-json-feed.png)
 
 
 
