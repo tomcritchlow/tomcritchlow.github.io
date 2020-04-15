@@ -182,3 +182,4 @@ Here's a quick checklist:
 Oh, and drop the wartime analogy. It doesn't help anyone -  you're not a general, this is not a war and what's most needed is agile cooperation.
 
 Stay safe, much love.
+

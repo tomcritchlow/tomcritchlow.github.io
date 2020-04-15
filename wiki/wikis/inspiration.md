@@ -44,6 +44,8 @@ source: [space and times](https://spaceandtim.es/etc/research_tools/)
 
 <https://notes.andymatuschak.org/%E2%80%9CBetter_note-taking%E2%80%9D_misses_the_point%3B_what_matters_is_%E2%80%9Cbetter_thinking%E2%80%9D>
 
+[recreating andy's notes in tiddlywiki](https://nesslabs.com/tiddlywiki-beginner-tutorial)
+
 --
 
 >BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
