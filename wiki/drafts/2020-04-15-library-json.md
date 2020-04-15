@@ -71,13 +71,15 @@ So this brings me to my "spec". Let's imagine a library.json file that roughly l
         - List
         - List
 
-Where each book list contains a book object something like this:
+Where each book list contains a series of book objects something like this:
 
-- Title
-- Author
-- URL
-- ID
-- Notes (can be text or a link to a full review/note)
+- List
+    - Title
+    - Author
+    - URL
+    - Date_finished
+    - ID
+    - Notes (can be text or a link to a full review/note)
 
 I created some dummy example files [in this gist](https://gist.github.com/tomcritchlow/a4a9c8064a97a997fbbad4c338748173):
 
