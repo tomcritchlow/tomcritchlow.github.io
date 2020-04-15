@@ -42,7 +42,7 @@ There are lots of really really great indie sites that maintain structured readi
 
 Thinking through building some kind of "web of books" I realized that we could use something similar to RSS to build a kind of decentralized GoodReads powered by indie sites and an underlying easy to parse format.
 
-I created a proof of concept by converting my own bookshelf into a JSON file <https://tomcritchlow.com/library.json>.
+I created a proof of concept by converting [my own bookshelf](https://tomcritchlow.com/wiki/books/books-read/) into a JSON file <https://tomcritchlow.com/library.json>.
 
 If you think of several sites publishing their bookshelf as a library.json file you can imagine a bookshelf "feed reader" that let's you keep track of friends bookshelves something like this[^loldesign]:
 
