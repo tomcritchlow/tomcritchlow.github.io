@@ -73,7 +73,7 @@ So this brings me to my "spec". Let's imagine a library.json file that roughly l
 
 Where each book list contains a series of book objects something like this:
 
-- List
+- Book
     - Title
     - Author
     - URL
