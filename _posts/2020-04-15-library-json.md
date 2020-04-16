@@ -112,3 +112,9 @@ If you are interested in building something in this space and/or maintain a page
 *Update #3* - Matt has posted a really thoughtful reply proposing building this all as an extension of RSS: [Re Tom Critchlow's proposal for a decentralised Goodreads-like system, how about using RSS?](http://interconnected.org/home/2020/04/16/rss_for_books).
 
 Having built my own RSS feed reader already I'm very wary of RSS - it's battle tested yes but also just one massive clusterf&%$. Parsing and understanding RSS is much harder than JSON (imho!). But - Matt raises some good points and I do like the OPML version of aggregating bookfeeds... Lots of exisiting infrastructure and ideas there... Thanks Matt - plenty to chew on here.
+
+--
+
+*Update #4* - Via twitter I found [Tom's bookshelf](https://macwright.org/reading/) and his [goodreads CSV to yaml converter](https://macwright.org/2017/12/11/indieweb-reading.html)!! I tagged him and he posted a [lovely reply](https://gist.github.com/tmcw/f88e31265363569ffcdcb709148fc8e8). I don't think he saw Matt's reply yet but he echoed the idea of leveraging Atom/RSS for this. Hmm. That said I do love this quote which strikes to the heart of why I like json here:
+
+>That said, the thing that kills the indieweb is too much enthusiasm for specs, too few parsing implementations, and, ironically, too much focus on the 'indie' (building complicated self-hosted everything-machines) and not enough on the 'web' (noticing if anyone's using any of the things you built). So if there's a killer implementation and good content at the start, then momentum would potentially just carry you through.
