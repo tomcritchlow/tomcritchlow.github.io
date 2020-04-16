@@ -120,3 +120,9 @@ Having built my own RSS feed reader already I'm very wary of RSS - it's battle t
 *Update #4* - Via twitter I found [Tom's bookshelf](https://macwright.org/reading/) and his [goodreads CSV to yaml converter](https://macwright.org/2017/12/11/indieweb-reading.html)!! I tagged him and he posted a [lovely reply](https://gist.github.com/tmcw/f88e31265363569ffcdcb709148fc8e8). I don't think he saw Matt's reply yet but he echoed the idea of leveraging Atom/RSS for this. Hmm. That said I do love this quote which strikes to the heart of why I like json here:
 
 >That said, the thing that kills the indieweb is too much enthusiasm for specs, too few parsing implementations, and, ironically, too much focus on the 'indie' (building complicated self-hosted everything-machines) and not enough on the 'web' (noticing if anyone's using any of the things you built). So if there's a killer implementation and good content at the start, then momentum would potentially just carry you through.
+
+--
+
+**Update #5* - [This thread from Cory Doctorow](https://twitter.com/doctorow/status/1250830877615026177):
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last September, <a href="https://twitter.com/tomcritchlow?ref_src=twsrc%5Etfw">@tomcritchlow</a> proposed a federated, decentralized &quot;web of books&quot; as an alternative to Goodreads, the monopoly platform of booklists owned by the monopoly platform of bookselling.<a href="https://t.co/FoBrSOZiyY">https://t.co/FoBrSOZiyY</a><br><br>1/ <a href="https://t.co/VWrnG5mVhn">pic.twitter.com/VWrnG5mVhn</a></p>&mdash; Covered Dish People (@doctorow) <a href="https://twitter.com/doctorow/status/1250830877615026177?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
