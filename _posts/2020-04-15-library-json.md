@@ -101,6 +101,8 @@ If you are interested in building something in this space and/or maintain a page
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Have created a quick client for the libary.json files at <a href="https://t.co/nAeYTQhM4Y">https://t.co/nAeYTQhM4Y</a>!<br><br>Some samples:<br><br>- <a href="https://t.co/6Mn62YfpAn">https://t.co/6Mn62YfpAn</a><br>- <a href="https://t.co/Ire3MVGqfr">https://t.co/Ire3MVGqfr</a><br>- <a href="https://t.co/Z0Yw6uqLJH">https://t.co/Z0Yw6uqLJH</a></p>&mdash; Ravern Koh (@ravernkoh) <a href="https://twitter.com/ravernkoh/status/1250755193798397952?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+For example - [here's my bookshelf displayed on Ravern's tool](https://bookshelves.ravern.co/shelf?url=https://tomcritchlow.com/library.json). How cool is that! The ability to easily and quickly hack on top of this is super fun. Thanks Ravern!
+
 --
 
 *Update #2* - Ravern also had the great suggestion to build the list of people (urls) you follow into the spec... I think that's a pretty great idea that I will loop back in:
