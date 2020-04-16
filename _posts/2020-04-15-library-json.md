@@ -106,3 +106,9 @@ If you are interested in building something in this space and/or maintain a page
 *Update #2* - Ravern also had the great suggestion to build the list of people (urls) you follow into the spec... I think that's a pretty great idea that I will loop back in:
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">This is a great idea.<br><br>This still requires some kind of centralised listing of library files though. What if instead we added a &quot;following&quot; section where you own library contains links to the libraries of others?<br><br>Clients can then build &quot;webs&quot; starting from a seed file</p>&mdash; Ravern Koh (@ravernkoh) <a href="https://twitter.com/ravernkoh/status/1250654173701369856?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--
+
+*Update #3* - Matt has posted a really thoughtful reply proposing building this all as an extension of RSS: [Re Tom Critchlow's proposal for a decentralised Goodreads-like system, how about using RSS?](http://interconnected.org/home/2020/04/16/rss_for_books).
+
+Having built my own RSS feed reader already I'm very wary of RSS - it's battle tested yes but also just one massive clusterf&%$. Parsing and understanding RSS is much harder than JSON (imho!). But - Matt raises some good points and I do like the OPML version of aggregating bookfeeds... Lots of exisiting infrastructure and ideas there... Thanks Matt - plenty to chew on here.
