@@ -95,4 +95,14 @@ So where to next? Three obvious things:
 
 If you are interested in building something in this space and/or maintain a page that's part of the "web of books" I'd love to hear from you on the above proposal.
 
+--
 
+*Update #1* - Ravern Koh has built a working proof of concept parser! This is lovely and shows the instant power in a kind of open remixable format:
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Have created a quick client for the libary.json files at <a href="https://t.co/nAeYTQhM4Y">https://t.co/nAeYTQhM4Y</a>!<br><br>Some samples:<br><br>- <a href="https://t.co/6Mn62YfpAn">https://t.co/6Mn62YfpAn</a><br>- <a href="https://t.co/Ire3MVGqfr">https://t.co/Ire3MVGqfr</a><br>- <a href="https://t.co/Z0Yw6uqLJH">https://t.co/Z0Yw6uqLJH</a></p>&mdash; Ravern Koh (@ravernkoh) <a href="https://twitter.com/ravernkoh/status/1250755193798397952?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--
+
+*Update #2* - Ravern also had the great suggestion to build the list of people (urls) you follow into the spec... I think that's a pretty great idea that I will loop back in:
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">This is a great idea.<br><br>This still requires some kind of centralised listing of library files though. What if instead we added a &quot;following&quot; section where you own library contains links to the libraries of others?<br><br>Clients can then build &quot;webs&quot; starting from a seed file</p>&mdash; Ravern Koh (@ravernkoh) <a href="https://twitter.com/ravernkoh/status/1250654173701369856?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
