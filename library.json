@@ -19,6 +19,6 @@
     "date_finished": {{ book.date_finished | jsonify}},
     "notes": {{ book.notes | jsonify}}
   }{% unless forloop.last %},{% endunless %}{% endfor %}]
-      }
+      }]
     }
   
