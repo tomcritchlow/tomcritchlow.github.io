@@ -42,3 +42,7 @@ Digital bookshelves that I admire:
 <https://meltingasphalt.com/what-im-reading/>
 
 <http://gordonbrander.com/lib/>
+
+<https://macwright.org/reading/>
+
+<https://benjamincongdon.me/books>
