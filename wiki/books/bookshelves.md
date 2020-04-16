@@ -40,3 +40,5 @@ Digital bookshelves that I admire:
 <https://patrickcollison.com/bookshelf>
 
 <https://meltingasphalt.com/what-im-reading/>
+
+<http://gordonbrander.com/lib/>

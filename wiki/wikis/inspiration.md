@@ -17,6 +17,8 @@ Some personal wikis and sites that I've been inspired by:
 
 And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
 
+<http://gordonbrander.com/pattern/>
+
 --
 
 Here's an interesting project from the NYT that uses gdocs as a backend to generate a wiki! [Library](https://open.nytimes.com/we-built-a-collaborative-documentation-site-deploy-your-own-with-the-push-of-a-button-134de99c42fc)
