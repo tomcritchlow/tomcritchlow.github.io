@@ -10,15 +10,15 @@
     "name": "Books Read",
     "url": "https://tomcritchlow.com/wiki/books/books-read/",
     "books":
-      [{% for book in bookshelf.books %}{
-    "title": {{book.title | jsonify}},
-    "id": {{book.id | jsonify}},
-    "author": {{ book.author | jsonify}},
-    "link": {{ book.link | jsonify}},
-    "image": {{ book.image | jsonify}},
-    "date_finished": {{ book.date_finished | jsonify}},
-    "notes": {{ book.notes | jsonify}}
-  }{% unless forloop.last %},{% endunless %}{% endfor %}]
-      }]
-    }
+          [{% for book in bookshelf.books %}{
+        "title": {{book.title | jsonify}},
+        "id": {{book.id | jsonify}},
+        "author": {{ book.author | jsonify}},
+        "link": {{ book.link | jsonify}},
+        "image": {{ book.image | jsonify}},
+        "date_finished": {{ book.date_finished | jsonify}},
+        "notes": {{ book.notes | jsonify}}
+      }{% unless forloop.last %},{% endunless %}{% endfor %}]
+    }]
+  }
   
