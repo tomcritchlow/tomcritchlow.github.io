@@ -6,6 +6,7 @@
   "url": "https://tomcritchlow.com/wiki/books/books-read",
   "bio": "A running list of books I've read...",
   "lists":[
+    {
     "name": "Books Read",
     "url": "https://tomcritchlow.com/wiki/books/books-read/",
     "books":
@@ -19,4 +20,5 @@
     "notes": {{ book.notes | jsonify}}
   }{% unless forloop.last %},{% endunless %}{% endfor %}]
       }
+    }
   
