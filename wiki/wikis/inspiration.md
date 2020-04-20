@@ -57,3 +57,7 @@ source: [BookStack](https://www.bookstackapp.com/)
 --
 
 [Tiddlywiki on Github Pages](https://boffosocko.com/2020/04/04/self-hosting-tiddlywiki-with-github-pages/)
+
+--
+
+<https://szymonkaliski.com/notes/>

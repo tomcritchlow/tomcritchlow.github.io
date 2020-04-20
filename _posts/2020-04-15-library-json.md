@@ -126,3 +126,7 @@ Having built my own RSS feed reader already I'm very wary of RSS - it's battle t
 *Update #5* - [This thread from Cory Doctorow](https://twitter.com/doctorow/status/1250830877615026177):
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last September, <a href="https://twitter.com/tomcritchlow?ref_src=twsrc%5Etfw">@tomcritchlow</a> proposed a federated, decentralized &quot;web of books&quot; as an alternative to Goodreads, the monopoly platform of booklists owned by the monopoly platform of bookselling.<a href="https://t.co/FoBrSOZiyY">https://t.co/FoBrSOZiyY</a><br><br>1/ <a href="https://t.co/VWrnG5mVhn">pic.twitter.com/VWrnG5mVhn</a></p>&mdash; Covered Dish People (@doctorow) <a href="https://twitter.com/doctorow/status/1250830877615026177?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--
+
+*Update #6* - Gregor [posted some nice thoughts](https://gregorlove.com/2020/04/a-lot-of-interesting-ideas/). In particular I'm curious about [this JSON file](https://php.microformats.io/?url=https%3A%2F%2Fgregorlove.com%2Fchannels%2Freading%2F). Not sure where it comes from but looks quite a lot like my library.json file! More exploration needed....
