@@ -43,7 +43,7 @@ So all I did was remix this project - install TiddlyBlink and hey presto it work
   </iframe>
 </div>
 
-I've ranted before about the "developer ecosystem" and how almost every coding project starts at the command line so it's no surprise that I really love Glitch[^disclaimer]. Really really love Glitch.
+I've ranted before about the "developer ecosystem" and how almost every coding project starts at the command line so it's no surprise that I really love Glitch[^disclaimer]. Really really love Glitch. Point and click easy, combined with easy remixing to learn as you go while not hiding the guts so you can tinker and play.
 
 [^disclaimer]: Disclaimer: I did some consulting work for Glitch end of 2019. 
 
@@ -58,3 +58,5 @@ Magic.
 Ok - so this was fun. TiddlyWiki with bi-directional links just working out of the box. Next I gotta go working on some styling to see if I can get it to look and feel better - something like [Andy's Notes](https://notes.andymatuschak.org/About_these_notes):
 
 ![](/images/andy-notes.png)
+
+If anyone has ideas or leads or TiddlyWiki themes that can help pretty it up holler at me.
