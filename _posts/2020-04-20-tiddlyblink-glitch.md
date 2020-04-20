@@ -39,7 +39,7 @@ So all I did was remix this project - install TiddlyBlink and hey presto it work
     src="https://glitch.com/embed/#!/embed/tiddlyblink?path=README.md&previewSize=0&sidebarCollapsed=true"
     title="tiddlyblink on Glitch"
     allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    style="height: 100%; width: 100%; padding-bottom:20px; border: 0;">
+    style="height: 100%; width: 100%; padding-top:0px; padding-bottom:20px; border: 0;">
   </iframe>
 </div>
 
