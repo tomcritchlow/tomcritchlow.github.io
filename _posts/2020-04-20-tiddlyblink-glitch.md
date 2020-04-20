@@ -23,11 +23,11 @@ Anne-Laure Le Cunff posted a [really great post recently on setting up TiddlyWik
 </div>    
 </div>
 
-I love how thoroughly the post walks you through the basic mental model and then lays out some great user-friendly approaches to setting up TiddlyWiki. In particular - Anne shows how [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) recreates the bi-directional linking power of Roam right inside TiddlyWiki.
+I love how thoroughly the post walks you through the basic mental model and then lays out some great user-friendly approaches to setting up TiddlyWiki. In particular - Anne-Laure shows how [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) recreates the bi-directional linking power of Roam right inside TiddlyWiki.
 
 ## Glitch to the rescue!
 
-While Anne's post walks through how to self-host or set up a local instance easily none of the web options for TiddlyWiki seemed very satisfying so I went fiddling...
+While Anne-Laure's post walks through how to self-host or set up a local instance easily none of the web options for TiddlyWiki seemed very satisfying so I went fiddling...
 
 I quickly discovered [this excellent TiddlyWiki reference project on Glitch](https://glitch.com/~nota-bene) from [Thomas Elmiger](https://thomas-elmiger.ch/).
 
