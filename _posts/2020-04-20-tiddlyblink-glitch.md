@@ -5,15 +5,15 @@ subtitle: An "open source" Roam competitor
 blogchain: digital-gardens
 ---
 
-Anne-Laure Le Cunff posted a really great post recently on setting up TiddlyWiki as a self-hosted and open source Roam competitor:
+Anne-Laure Le Cunff posted a [really great post recently on setting up TiddlyWiki as a self-hosted and open source Roam competitor](https://nesslabs.com/tiddlywiki-beginner-tutorial):
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
 <div class="portal-container">
 <div class="portal-head">
 <div class="portal-metadata">
 <div class="portal-title">
-<div class="portal-author"></div>
-<div class="title-wrapper">in <span class="portal-text-title">Getting started with TiddlyWiki: a beginner's tutorial - Ness Labs</span></div>
+<div class="portal-author">Anne-Laure Le Cunff</div>
+<div class="title-wrapper"> in <span class="portal-text-title">Getting started with TiddlyWiki: a beginner's tutorial - Ness Labs</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://nesslabs.com/tiddlywiki-beginner-tutorial" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
