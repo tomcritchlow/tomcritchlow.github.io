@@ -7,21 +7,28 @@ blogchain: digital-gardens
 
 Anne-Laure Le Cunff posted a [really great post recently on setting up TiddlyWiki as a self-hosted and open source Roam competitor](https://nesslabs.com/tiddlywiki-beginner-tutorial):
 
-<link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
-<div class="portal-container">
-<div class="portal-head">
-<div class="portal-metadata">
-<div class="portal-title">
-<div class="portal-author">Anne-Laure Le Cunff</div>
-<div class="title-wrapper"> in <span class="portal-text-title">Getting started with TiddlyWiki: a beginner's tutorial - Ness Labs</span></div>
-</div>              
+
+<link rel="stylesheet" href="https://files-d9sgh3tq3.now.sh/quote.css" type="text/css">
+<div class="portal-container-519256">
+<div id="portal-parent-519256" class="portal-parent-519256">
+<div class="portal-content-519256">If you are looking for an open source alternative to Roam Research, TiddlyWiki is your best bet. Because it’s self-hosted—meaning you keep your data private—it may seem a bit more daunting to get started. So here is a guide which will take you from complete beginner to completely in love with TiddlyWiki in three steps</div>       
 </div>
-<div class="portal-backlink"><a target="_blank" href="https://nesslabs.com/tiddlywiki-beginner-tutorial" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+
+<div class="portal-head-519256">       
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://nesslabs.com/tiddlywiki-beginner-tutorial"></div>     
+<div class="portal-metadata-519256">
+<div class="portal-title-519256">
+<div class="portal-author-519256">@ness_labs</div>
+<div class="title-wrapper-519256">Getting started with TiddlyWiki: a beginner's tutorial - Ness Labs</div>
+</div> 
 </div>
-<div id="portal-parent" class="portal-parent">
-<div class="portal-content">If you are looking for an open source alternative to Roam Research, TiddlyWiki is your best bet. Because it’s self-hosted—meaning you keep your data private—it may seem a bit more daunting to get started. So here is a guide which will take you from complete beginner to completely in love with TiddlyWiki in three steps.</div>       
-</div>    
+
+<div class="portal-backlink-519256"><a target="_blank" href="https://nesslabs.com/tiddlywiki-beginner-tutorial" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+</div>  
+
 </div>
+
+
 
 I love how thoroughly the post walks you through the basic mental model and then lays out some great user-friendly approaches to setting up TiddlyWiki. In particular - Anne-Laure shows how [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html) recreates the bi-directional linking power of Roam right inside TiddlyWiki.
 
