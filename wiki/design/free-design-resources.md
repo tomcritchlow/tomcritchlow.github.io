@@ -12,3 +12,5 @@
 <https://www.opendoodles.com/about>
 
 <http://payforlayers.com/>
+
+<https://www.heropatterns.com/>

@@ -130,3 +130,11 @@ Having built my own RSS feed reader already I'm very wary of RSS - it's battle t
 --
 
 *Update #6* - Gregor [posted some nice thoughts](https://gregorlove.com/2020/04/a-lot-of-interesting-ideas/). In particular I'm curious about [this JSON file](https://php.microformats.io/?url=https%3A%2F%2Fgregorlove.com%2Fchannels%2Freading%2F). Not sure where it comes from but looks quite a lot like my library.json file! More exploration needed....
+
+--
+
+*Update #7* - [Phil posted some great thoughts](https://www.gyford.com/phil/writing/2020/04/27/tracking-reading/) with a strong book-flex!
+
+>Having spent some time writing code to track the past 22-40 years of my reading (22 consistenly, 40 with gaps) I thought I’d share a few things I’ve done or thought about, in terms of the data
+
+! Oh my. Thanks Phil - great insights.
