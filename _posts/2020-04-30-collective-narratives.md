@@ -7,7 +7,6 @@ blogchain: the-quarantined-independent
 
 In my last post I said that one of the ways to navigate uncertainty was through sensemaking - and that the only way to run sensemaking in times of uncertainty is through group efforts - diverse voices combining, sparring & mingling with tight feedback loops.
 
-
 Well - today is the public launch of [The Yak Collective](https://yakcollective.org/) and their first report:
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
@@ -29,11 +28,17 @@ Well - today is the public launch of [The Yak Collective](https://yakcollective.
 </div>  
 </div>
 
-
-
 Check out the report: [Don't Waste the Reboot](https://yakcollective.org/projects/yak-wisdom).
 
+## Why The Yak Collective Matters
+
 What is the Yak Collective? It's a loose collective of independent consultants, freelancers, coaches and creatives that have pulled together to create a support and collaboration platform for indies.
+
+In the short term - this is a solution for mutual aid and support. Indies helping indies. But there's a glimpse at the next next normal here, where indies are more agile, more diverse and better equipped to handle sensemaking than big agencies, consultancies and more traditional groups.
+
+The deck is a fun provocation and has a playful tone - but if you stare at this 2x2 long enough you start to see something serious and important emerge:
+
+![](/images/yak-2x2.png)
 
 I contributed by designing & building the website[^design] and by adding one of the ideas:
 
@@ -43,4 +48,8 @@ I contributed by designing & building the website[^design] and by adding one of 
 
 ![](/images/yak-collective-slide.png)
 
-Now more 
+The Yak Collective itself is a great example of collective narratives - creating a group that benefits rather than the individual. As the economy starts to reboot we're going to see more of this - companies and organizations that realize that they should be inclusive by default - and that the right way to create growth is through collective growth.
+
+[Don't forget to check out the full report](https://yakcollective.org/projects/yak-wisdom).
+
+Thank you to [Paul Millerd](https://twitter.com/p_millerd) and [Venkatesh Rao](https://twitter.com/vgr) for leading the charge on the community and report.
