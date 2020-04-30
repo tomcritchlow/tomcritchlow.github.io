@@ -5,7 +5,7 @@ subtitle: Launching the Yak Collective's first report
 blogchain: the-quarantined-independent
 ---
 
-In my last post I said that one of the ways to navigate uncertainty was through sensemaking - and that the only way to run sensemaking in times of uncertainty is through group efforts - diverse voices combining, sparring & mingling with tight feedback loops.
+In my last post in [this blogchain](https://tomcritchlow.com/blogchains/the-quarantined-independent/) I said that one of the ways to navigate uncertainty was through sensemaking - and that the only way to run sensemaking in times of uncertainty is through group efforts - diverse voices combining, sparring & mingling with tight feedback loops.
 
 Well - today is the public launch of [The Yak Collective](https://yakcollective.org/) and their first report:
 
