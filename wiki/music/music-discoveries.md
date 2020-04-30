@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: San Francisco (Be Sure To Wear Flowers In Your Hair)
+   author: Rei Harakami
+   image: https://img.youtube.com/vi/3d3QbwWnLbc/sddefault.jpg
+   notes: haunting melodies - that tuba! Thanks Robin Sloan
+   href: https://www.youtube.com/watch?v=3d3QbwWnLbc
  - title: Kurayami No Iro -Colors of the Dark-
    author: Rei Harakami
    image: https://f4.bcbits.com/img/a0836745350_16.jpg
