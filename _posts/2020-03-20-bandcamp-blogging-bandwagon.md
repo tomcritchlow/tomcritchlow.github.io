@@ -4,6 +4,8 @@ title: My Bandcamp Blogging Bandwagon Reccs
 subtitle: Support indie music!
 ---
 
+*Update Friday 5/1 - Bandcamp is doing another one day promo so updating this list with some new finds! Support indie artists!*
+
 Today [Bandcamp is waiving their fees for indie artists](https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser) and I'm starting a movement to get everyone blogging their fave Bandcamp links to help you discover new music.
 
 Don't forget to **go buy things you like!** the whole point is to make purchases to directly support indie artists. Thanks.
@@ -56,6 +58,10 @@ And if you like beautiful heart-melting electronica check out [Yppah](https://yp
 Ah went crate digging and found this album - heavy rotation from years ago. [Electric Road by Celestial](https://celestialhk.bandcamp.com/album/electric-road):
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2676459865/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://celestialhk.bandcamp.com/album/electric-road">electric road 電器道 by Celestial 天上</a></iframe>
+
+Wonderful new recommendation from [Toby Shorin](https://subpixel.space) - [Rei Harakami's Kurayami No Iro -Colors of the Dark-:](https://ringsounds.bandcamp.com/album/kurayami-no-iro-colors-of-the-dark):
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3287435464/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://ringsounds.bandcamp.com/album/kurayami-no-iro-colors-of-the-dark">Kurayami No Iro -Colors of the Dark- by rei harakami</a></iframe>
 
 ## Daniel Kitson - Comedy Relief
 
