@@ -39,7 +39,7 @@ However, in addition to the above context - that app design project might also e
 </div>
 
 
-
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tomcritchlow/status/1257697439437463554'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
 <div class="portal-container-519256">
