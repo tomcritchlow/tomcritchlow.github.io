@@ -15,7 +15,7 @@ There's three core issues I'm seeing with remote consulting:
 
 I'm going to walk through them and see if we can find solutions together...
 
-## Lack of Business Context
+## 1. Lack of Business Context
 
 I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) about how being strategic is fundamentally about understanding the **overlapping contexts** that your work sits in:
 
@@ -57,7 +57,7 @@ A lot is said about the overwhelming status checkins while working remotely but,
 
 How to do this without overwhelming yourself of course is the challenge...
 
-## Lack of Improv & People Context
+## 2. Lack of Improv & People Context
 
 Lacking business context is one thing - but lacking people context is another. What is your point of contact working on? What are they worrying about? How are they feeling?
 
@@ -122,7 +122,7 @@ i.e. not a zoom or video chat, not a "meeting" - just a plain voice chat, often 
 
 
 
-## Faster OODA Loops
+## 3. Faster OODA Loops
 
 Finally - a third challenge, not specific to remote work but specific to times of uncertainty, is faster OODA loops. Companies are operating on faster cycles than ever before - shorter horizons and faster decision making:
 
@@ -143,13 +143,27 @@ Finally - a third challenge, not specific to remote work but specific to times o
 </div>  
 </div>
 
+Some of this I think is just going to be a new-normal as companies realize their planning cycles were far too long anyway. But as a consultant specifically we need to think about ways to re-scope work around shorter time frames.
 
+One challenge is juggling multiple client projects at once - previously you could buy yourself room for managing multiple timelines at once by setting reasonable expectations (*"we'll do the first round of design concepts in 2-3 weeks"*). But increasingly these time-arbitrage windows are becoming razor-thin.
 
-## In Closing
+Juggling multiple client projects then becomes a delicate balancing act of *everything now*. I find personally that it's possible to operate at this level while consulting - threading the needle between back to back zoom calls, re-claiming 15mins due an early meeting end etc - but **only for exceptionally short periods**.
 
-One way to get around this is to 
+## A closing thought on sparring as a way through
+
+All of this - worryingly - points to my usual consulting style being **less effective and more stressful**.
+
+But there is one way to get through this - rescoping projects around the concept of sparring:
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1257702466528792577'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+As Venkatesh points out - sparring is *an inherently 1:1 scoped work-stream where people-context and improv is built in by design*.
+
+I've done a bunch of sparring-style work but mostly it's emerged **out of** a long-term retainer. My personal challenge is going to be building an offering and persuading clients to leap to the sparring phase off the bat.
+
+We'll see how it goes.
+
+How are you managing consulting remotely in times of uncertainty?
 
 
 
