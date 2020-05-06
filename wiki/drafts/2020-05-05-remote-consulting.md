@@ -49,7 +49,7 @@ I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04
 
 It's harder to gain awareness of the things that are happening outside your specific project - *especially* as a consultant. For example, I often get an @client.com email address but I'm usually not on the everyone@ emails. So I'm like a liminal pseudo-employee that misses some company-wide context.
 
-When you're in the office it's easier to soak this in via the peripheral. But remote? Not so much.
+When you're in the office it's easier to soak this in via the peripheral. But there's no peripheral vision when working remotely.
 
 The only way to address this is via *over*-communicating.
 
@@ -60,6 +60,8 @@ How to do this without overwhelming yourself of course is the challenge...
 ## Lack of Improv & People Context
 
 Lacking business context is one thing - but lacking people context is another. What is your point of contact working on? What are they worrying about? How are they feeling?
+
+I often find myself being surprisingly effective as a consultant prioritizing my work around the just-in-time priorities of my point of contact rather than adhering strictly to a pre-defined project roadmap. This allows for a more agile approach (an approach often not available to regular employees!). But this improv-thinking and improv-working relies on the in-between people context.
 
 I wrote before about the way that consultants operate at a [serendipity deficit](https://tomcritchlow.com/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions):
 
@@ -85,7 +87,7 @@ I wrote before about the way that consultants operate at a [serendipity deficit]
 
 </div>
 
-
+And I've written before about the idea of missed feedback due to over-polishing work:
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
 <div class="portal-container-519256">
@@ -108,11 +110,21 @@ I wrote before about the way that consultants operate at a [serendipity deficit]
 
 </div>
 
-Except - 
+Except - without the IRL feedback this un-polished work can land poorly. You lose the in-context feedback loop working remotely:
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/pojmasta/status/1257712649900560385'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
+The solution here is...? Unclear.
+
+One anecdote - the successful client projects I've worked on remotely in the past have all relied on: *a phone call habit with my point of contact*.
+
+i.e. not a zoom or video chat, not a "meeting" - just a plain voice chat, often unscheduled. I think there's something about this more improv and intimate conversation mode that allows for some of the above people-context-gathering.
+
+
+
 ## Faster OODA Loops
+
+Finally - a third challenge, not specific to remote work but specific to times of uncertainty, is faster OODA loops. Companies are operating on faster cycles than ever before - shorter horizons and faster decision making:
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
 <div class="portal-container-519256">
@@ -133,6 +145,12 @@ Except -
 
 
 
+## In Closing
 
-This is an astute point:
+One way to get around this is to 
+
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/vgr/status/1257702466528792577'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+
+
 
