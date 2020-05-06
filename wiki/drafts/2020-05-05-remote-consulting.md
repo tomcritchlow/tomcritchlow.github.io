@@ -26,7 +26,7 @@ I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04
 <div id="portal-parent-519256" class="portal-parent-519256">
 <div class="portal-content-519256">So when I talk about strategic work - it’s about trying to understand the concentric circles of context at any time. For example - if you’re designing an app for a company the app might sit within a variety of business contexts:
 <img src="https://tomcritchlow.com/images/context1.png">
-However, in addition to the above context - that app design project might also exist within a variety of people contexts:
+<br>However, in addition to the above context - that app design project might also exist within a variety of people contexts:
 <img src="https://tomcritchlow.com/images/context2.png">
 </div>       
 </div>
@@ -45,36 +45,13 @@ However, in addition to the above context - that app design project might also e
 
 </div>
 
-
-
-
-<link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
-<div class="portal-container-519256">
-
-<div id="portal-parent-519256" class="portal-parent-519256">
-<div class="portal-content-519256">Missed feedback - It’s not uncommon as a consultant to be the most proficient powerpoint user in the org (or at least your portion of the org). This has benefits but it also has the unintended consequence of making everything you touch look “finished”. And finished work gets very different feedback from people than raw materials and thinking. So sometimes it’s important to un-design and un-polish your work, to invite people onto the stage to co-create the performance - this way you ensure that you get the appropriate feedback.</div>       
-</div>
-
-<div class="portal-head-519256">       
-<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/11/18/yes-and/"></div>     
-<div class="portal-metadata-519256">
-<div class="portal-title-519256">
-<div class="portal-author-519256">@tomcritchlow</div>
-<div class="title-wrapper-519256">Yes! and...</div>
-</div> 
-</div>
-
-<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/11/18/yes-and/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
-</div>  
-
-</div>
-
-
-Understanding context helps you avoid "context crashes":
-
-
-
 **The challenge in remote work is that you get less access to adjacent contexts.**
+
+It's harder to gain awareness of the things that are happening outside your specific project - *especially* as a consultant. For example, I often get an @client.com email address but I'm usually not on the everyone@ emails. So I'm like a liminal pseudo-employee that misses some company-wide context.
+
+When you're in the office it's easier to soak this in via the peripheral. But remote? Not so much.
+
+The only way to address this is via *over*-communicating.
 
 A lot is said about the overwhelming status checkins while working remotely but, as a consultant, if anything you should be *over-indexing* on status updates.
 
@@ -109,6 +86,32 @@ I wrote before about the way that consultants operate at a [serendipity deficit]
 </div>
 
 
+
+<link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
+<div class="portal-container-519256">
+
+<div id="portal-parent-519256" class="portal-parent-519256">
+<div class="portal-content-519256">Missed feedback - It’s not uncommon as a consultant to be the most proficient powerpoint user in the org (or at least your portion of the org). This has benefits but it also has the unintended consequence of making everything you touch look “finished”. And finished work gets very different feedback from people than raw materials and thinking. So sometimes it’s important to un-design and un-polish your work, to invite people onto the stage to co-create the performance - this way you ensure that you get the appropriate feedback.</div>       
+</div>
+
+<div class="portal-head-519256">       
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/11/18/yes-and/"></div>     
+<div class="portal-metadata-519256">
+<div class="portal-title-519256">
+<div class="portal-author-519256">@tomcritchlow</div>
+<div class="title-wrapper-519256">Yes! and...</div>
+</div> 
+</div>
+
+<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/11/18/yes-and/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+</div>  
+
+</div>
+
+Except - 
+
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/pojmasta/status/1257712649900560385'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
 ## Faster OODA Loops
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
@@ -133,4 +136,3 @@ I wrote before about the way that consultants operate at a [serendipity deficit]
 
 This is an astute point:
 
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/pojmasta/status/1257712649900560385'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
