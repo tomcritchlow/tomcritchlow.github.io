@@ -17,23 +17,18 @@ I'm going to walk through them and see if we can find solutions together...
 
 ## Lack of Business Context
 
-I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) about how being strategic is fundamentally about understanding the **overlapping contexts** that your work sits in.
+I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) about how being strategic is fundamentally about understanding the **overlapping contexts** that your work sits in:
 
-For example - if you’re designing an app for a company the app might sit within a variety of business contexts:
-
-![](https://tomcritchlow.com/images/context1.png)
-
-However, in addition to the above context - that app design project might also exist within a variety of people contexts:
-
-![](https://tomcritchlow.com/images/context2.png)
-
-Understanding context helps you avoid "context crashes":
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
 <div class="portal-container-519256">
 
 <div id="portal-parent-519256" class="portal-parent-519256">
-<div class="portal-content-519256">There’s a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let’s take that context model for app design from earlier in the post. But let’s assume that the growth objectives are “in crisis” - this could be missing targets, people change, overspend, change in marketing strategy etc<br><br>These catastrophic events collapse the environment and cascade downwards. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles</div>       
+<div class="portal-content-519256">So when I talk about strategic work - it’s about trying to understand the concentric circles of context at any time. For example - if you’re designing an app for a company the app might sit within a variety of business contexts:
+<img src="https://tomcritchlow.com/images/context1.png">
+However, in addition to the above context - that app design project might also exist within a variety of people contexts:
+<img src="https://tomcritchlow.com/images/context2.png">
+</div>       
 </div>
 
 <div class="portal-head-519256">       
@@ -49,6 +44,12 @@ Understanding context helps you avoid "context crashes":
 </div>  
 
 </div>
+
+
+
+Understanding context helps you avoid "context crashes":
+
+
 
 **The challenge in remote work is that you get less access to adjacent contexts.**
 
