@@ -47,6 +47,29 @@ However, in addition to the above context - that app design project might also e
 
 
 
+
+<link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
+<div class="portal-container-519256">
+
+<div id="portal-parent-519256" class="portal-parent-519256">
+<div class="portal-content-519256">Missed feedback - It’s not uncommon as a consultant to be the most proficient powerpoint user in the org (or at least your portion of the org). This has benefits but it also has the unintended consequence of making everything you touch look “finished”. And finished work gets very different feedback from people than raw materials and thinking. So sometimes it’s important to un-design and un-polish your work, to invite people onto the stage to co-create the performance - this way you ensure that you get the appropriate feedback.</div>       
+</div>
+
+<div class="portal-head-519256">       
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/11/18/yes-and/"></div>     
+<div class="portal-metadata-519256">
+<div class="portal-title-519256">
+<div class="portal-author-519256">@tomcritchlow</div>
+<div class="title-wrapper-519256">Yes! and...</div>
+</div> 
+</div>
+
+<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/11/18/yes-and/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+</div>  
+
+</div>
+
+
 Understanding context helps you avoid "context crashes":
 
 
