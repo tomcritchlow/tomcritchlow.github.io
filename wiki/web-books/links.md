@@ -16,3 +16,11 @@ Options for writing a web-book that becomes a print book:
 e.g. <https://platformland.github.io/playbook/book/text/index.html>
 
 <https://editoria.pub/>
+
+--
+
+<https://dauwhe.github.io/reflow/>
+
+<https://jan-martinek.github.io/henry-david-thoreau_walden/economy.html#idea1>
+
+<https://www.next-book.info/>

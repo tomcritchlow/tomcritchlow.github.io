@@ -80,3 +80,7 @@ source: [Take your broken heart and blog ･ Robin Rendle](https://www.robinrend
 >A while ago I created a Python script that threw a chunk of my blog posts into Are.na. Each post was turned into a text block that was placed in a channel called “CJ's Blog.”
 
 source: [From Blog to Blocks — CJ Eller](https://blog.cjeller.site/from-blog-to-blocks)
+
+--
+
+[Generating websites from arena channels](https://scoby.page/)
