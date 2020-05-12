@@ -16,10 +16,8 @@ Here's what I'm up to right now:
  - Writing a book: [The Strategic Independent](https://tomcritchlow.com/strategy/). I've written about ~35k words on my blog here and have another ~20k in draft.. Expect this to become real in 2020.
  - Focusing on my blogging as an increasingly important and deliberate practice of networking and community. Experimenting with [blogchains](https://tomcritchlow.com/blogchains/) 
  - Starting a near-futures research studio and consultancy with Brian Dell: [Little Futures](https://littlefutures.club/)
- - Being present and full of life for my 4 year old daughter and months-old son.
+ - Being present and full of life for my 4 year old daughter and 5-month old son.
  - Co-creating an <a href="http://www.fiercelycurious.com">art business</a> for Brooklyn artists with my partner [Erin](http://erinprz.com/)
- - Since the beginning of 2019 I've been training in Kung Fu again at [bkwingtsun.com](http://www.bkwingtsun.com/) which feels great (currently on pause while I have my hands full with a newborn)
- - Beginnging to sketch out a walk-able sci-fi story called [Glitch Gowanus](https://tomcritchlow.com/glitchgowanus/)
  - One day, maybe, launching a science fiction publishing company
  
 In the past I've done a lot of conference speaking - I'm open to new speaking opportunities so get in touch if you have an event you'd like me to speak at.
@@ -28,6 +26,6 @@ I'm always looking to grab coffee with interesting people so get in touch: <a hr
 
 --   
 
-*Last updated Feb 2020*
+*Last updated May 2020*
 
 Inspired by Derek Sivers and <a href="https://sivers.org/nowff">The /Now Movement</a>

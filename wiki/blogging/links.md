@@ -84,3 +84,9 @@ source: [From Blog to Blocks — CJ Eller](https://blog.cjeller.site/from-blog-t
 --
 
 [Generating websites from arena channels](https://scoby.page/)
+
+--
+
+> Things that I want to write more about: sunlit nature, and being outdoors in nature, especially in places that are cold and snowy. The difficulty and monotony and odd joy of getting better at something. Groggy morning runs. Loving yourself fully and expecting that same standard of love from other people—because God, self-loathing is boring. People who make completely different choices than I do and have completely different values, but are nevertheless very happy. How they think about meaning. The ecology of our changing planet and the adjustments we'll have to make to adapt and survive. Navigating objectification, and learned self-objectification, in a society that places great value on female beauty and youth. How to communicate clearly and kindly in high-stakes situations. Technology and its effect on productivity. Strange possible worlds. Fear, vulnerability, loss of control. Surprising statistical truths. Small things that give me joy: the smell of lemon, rain and freshly-cut wood, un-sexualized intimacy, inventive and engaging movies, children in motion. Attempting to live a less self-serving moral life.
+
+Source: [How to write and what to write about](https://reading.supply/@ava/how-to-write-and-what-to-write-about-from-12-28-2018-W4o1Sb) by @readingsupply
