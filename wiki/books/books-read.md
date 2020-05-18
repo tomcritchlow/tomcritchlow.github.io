@@ -2,6 +2,10 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: East of Eden
+   author: John Steinbeck
+   link: https://www.amazon.com/East-Eden-Penguin-Orange-Collection/dp/0143129481
+   date_finished: In Progress
  - title: The Memory Police
    author: Yoko Ogawa
    link: https://www.amazon.com/Memory-Police-Novel-Yoko-Ogawa/dp/1101870605
