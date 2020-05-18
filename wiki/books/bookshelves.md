@@ -46,3 +46,5 @@ Digital bookshelves that I admire:
 <https://macwright.org/reading/>
 
 <https://benjamincongdon.me/books>
+
+<https://maggieappleton.com/bookshelf>

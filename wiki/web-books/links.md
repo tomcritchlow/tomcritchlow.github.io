@@ -24,3 +24,5 @@ e.g. <https://platformland.github.io/playbook/book/text/index.html>
 <https://jan-martinek.github.io/henry-david-thoreau_walden/economy.html#idea1>
 
 <https://www.next-book.info/>
+
+<https://tdingsun.github.io/reading-machines/>

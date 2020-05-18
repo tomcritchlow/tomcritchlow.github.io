@@ -12,3 +12,9 @@
 <https://www.newinc.org/>
 
 <http://www.theschoolofmakingthinking.com/>
+
+--
+
+Platform Coops:
+
+<https://resources.platform.coop/>

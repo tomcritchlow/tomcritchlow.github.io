@@ -125,3 +125,8 @@ WHOAH: [one page designs](https://www.gdcvault.com/play/1012356/One-Page) - hour
 
 source: [Speculative Drawing: 2011–2014](https://www.sternberg-press.com/product/speculative-drawing-2011-2014/)
 
+--
+
+>I only recently learned about Lawrence Halprin’s RSVP cycles, which proposed scores “as a way of communicating [artistic + environmental] proceesses over time and space... + as a vehicle to allow many people to enter into the act of creation together.”
+
+source: [Shannon Mattern on Twitter](https://twitter.com/shannonmattern/status/1262143357691875332)
