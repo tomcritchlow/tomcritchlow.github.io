@@ -24,7 +24,7 @@ But the design of TiddlyWiki still bothered me - Anne-Laure figured out a way to
 
 ## Then I found Krystal
 
-Then someone posted a link to the [Krystal theme](https://github.com/crazko/krystal) by [Roman Veselý](https://romanvesely.com/) and it's (finally!) a nice minimal and pleasing theme for TiddlyWiki:
+Then someone posted a link to the [Krystal theme](https://github.com/crazko/krystal) by [Roman Veselý](https://romanvesely.com/) and it's (finally!) a nice minimal and pleasing theme for TiddlyWiki (it even looks great on mobile!):
 
 ![](/images/krystal-screenshot.png)
 
