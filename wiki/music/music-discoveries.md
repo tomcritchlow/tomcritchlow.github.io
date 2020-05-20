@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Scenery
+   author: Ryo Fukui
+   image: https://img.youtube.com/vi/Hrr3dp7zRQY/sddefault.jpg
+   notes: Spring jazz
+   href: https://www.youtube.com/watch?v=Hrr3dp7zRQY
  - title: San Francisco (Be Sure To Wear Flowers In Your Hair)
    author: Rei Harakami
    image: https://img.youtube.com/vi/3d3QbwWnLbc/sddefault.jpg
