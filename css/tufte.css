@@ -226,7 +226,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                          width: 100%;
                          height: 100%; }
 
-#disqus_thread{width:55%;}                         
+#commento{width:55%;}                         
 
 @media (max-width: 760px) { body { width: 90%;
                                    padding-left: 5%;
@@ -257,5 +257,5 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             label { cursor: pointer; }
                             div.table-wrapper, table { width: 85%; }
                             img { width: 100%; } 
-                            #disqus_thread{width:100%;}
+                            #commento{width:100%;}
                         }
