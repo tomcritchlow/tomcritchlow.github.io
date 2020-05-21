@@ -16,7 +16,7 @@ title: Latest Writing
 {% else %}
 <li class="pv2">
 <a href="{{ post.url }}">{{ post.title }}</a> <span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span>
-<br><span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> | <span class="black-50 f6" id="commentolink" data-page-id="http://tomcritchlow.com{{post.url}}"><a href="{{ post.url }}#commento"></a></span></li>
+<br><span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> | <span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span></li>
 {% endif %}
 
 {% if forloop.last %}
