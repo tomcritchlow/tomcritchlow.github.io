@@ -1,0 +1,18 @@
+---
+title: Filtered for... the design of virtual spaces
+layout: blog
+---
+
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/shannonrhee/status/1263162328989622273'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+<blockquote class="quoteback" data-title="Google Classroom and How Spaces Value People + Subtraction.com" data-author="" cite="https://www.subtraction.com/2020/05/19/google-classroom-and-how-spaces-value-people/">
+<p>It’s a virtual space, of course, but in a quarantined world it’s become a vital space, one that millions of children and parents are entering daily, usually for hours at a time. And it sends an unmistakable message about how it values the students who use it.</p>
+<footer> <cite><a href="https://www.subtraction.com/2020/05/19/google-classroom-and-how-spaces-value-people/">https://www.subtraction.com/2020/05/19/google-classroom-and-how-spaces-value-people/</a></cite></footer>
+<script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
+</blockquote>
+
+<blockquote class="quoteback" data-title="Spatial Software" data-author="" cite="https://darkblueheaven.com/spatialsoftware/">
+<p>A whole wave of spatial social applications will be born out of this time, and these applications will serve as the breeding ground for insights that make their way out of social and into other major verticals. This will be an extremely generative time for insights and innovation in the way we build software. Designers and developers will begin using spatial interfaces in non-traditional ways, taking design patterns from gaming and applying them to non-competitive, explicitly social use-cases.</p>
+<footer> <cite><a href="https://darkblueheaven.com/spatialsoftware/">https://darkblueheaven.com/spatialsoftware/</a></cite></footer>
+<script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
+</blockquote>
