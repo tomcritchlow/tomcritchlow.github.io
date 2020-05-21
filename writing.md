@@ -32,7 +32,7 @@ title: Latest Writing
 
 
 <script>
-window.commentCustomText = function(count) {
+window.commentoCustomText = function(count) {
   if(count === 0) {
     return "";
   } else if (count === 1) {
