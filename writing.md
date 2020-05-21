@@ -38,7 +38,7 @@ window.commentCustomText = function(count) {
   } else if (count === 1) {
     return "⚡ 1 comment";
   } else {
-    return "⚡ "count + " comments";
+    return "⚡ "+ count + " comments";
   }
 }
 </script>
