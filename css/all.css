@@ -99,6 +99,7 @@ ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
 #commentolink{
   color:black;
   text-decoration:none;
+  box-shadow:none;
 }
 
 blockquote{
