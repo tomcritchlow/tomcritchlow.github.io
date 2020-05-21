@@ -34,7 +34,7 @@ title: Latest Writing
 <script>
 window.commentCustomText = function(count) {
   if(count === 0) {
-    return "No comments";
+    return "";
   } else if (count === 1) {
     return "⚡ 1 comment";
   } else {
