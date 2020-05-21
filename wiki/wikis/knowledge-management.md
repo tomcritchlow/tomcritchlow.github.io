@@ -86,3 +86,8 @@ source: [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/ar
 
 source: [Multi-level summaries: A new approach to non-fiction books](https://www.francismiller.com/mls-paper/)
 
+--
+
+>In other words, deliberate practice of knowledge work requires testing knowledge, and that is achieved by doing. Note taking is not the under-studied force of knowledge, play is.
+
+source: [Deliberate Practice for Knowledge Work | simon sarris](https://simonsarris.com/play)
