@@ -7,15 +7,11 @@ Musing and reflecting on some recent things I've seen around the design of virtu
 
 ## New Digital Spaces
 
+Love seeing the creativity of taking other tools and turning them into party spaces - from Figma to Google Sheets:
+
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/shannonrhee/status/1263162328989622273'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tigershungry/status/1256912508943728640'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
-
-<blockquote class="quoteback" data-title="The Concurrency Pool" data-author="Reggie James" cite="https://hipcityreg.substack.com/p/the-concurrency-pool">
-<p>This is what I assume is the driver behind so many people thinking about intentional digital third places. Carving out a pool that they can control more with a sense of discovery that isn’t overbearing… yet can accommodate the flexibility of asynchronosity (that’s the word deal with it) that we simply expect. Waiting for the signal that the water is fine.</p>
-<footer>Reggie James <cite><a href="https://hipcityreg.substack.com/p/the-concurrency-pool">https://hipcityreg.substack.com/p/the-concurrency-pool</a></cite></footer>
-<script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
-</blockquote>
 
 ## Thoughtfully Designing the Virtual Space
 
