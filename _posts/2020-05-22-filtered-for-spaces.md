@@ -27,7 +27,7 @@ Khoi has a wonderful teardown of Google Classroom - but the idea generalizes wel
 
 This essay from Jon is excellent - and explores the embodied / physicality aspect of digital spaces:
 
-<blockquote class="quoteback" data-title="Spatial Software" data-author="Jon Palmer" cite="https://darkblueheaven.com/spatialsoftware/">
+<blockquote class="quoteback" data-title="Spatial Software" data-author="John Palmer" cite="https://darkblueheaven.com/spatialsoftware/">
 <p>A whole wave of spatial social applications will be born out of this time, and these applications will serve as the breeding ground for insights that make their way out of social and into other major verticals. This will be an extremely generative time for insights and innovation in the way we build software. Designers and developers will begin using spatial interfaces in non-traditional ways, taking design patterns from gaming and applying them to non-competitive, explicitly social use-cases.</p>
 <footer> <cite><a href="https://darkblueheaven.com/spatialsoftware/">https://darkblueheaven.com/spatialsoftware/</a></cite></footer>
 <script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
