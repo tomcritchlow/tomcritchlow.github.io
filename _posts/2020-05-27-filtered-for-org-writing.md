@@ -3,7 +3,7 @@ title: Filtered for... writing inside organizations
 layout: blog
 ---
 
-Language is the operating system of organizatons. It's the working memory, the interface between teams and the process for storing and embedding long term memories.
+Language is the operating system of organizations. It's the working memory, the interface between teams and the process for storing and embedding long term memories.
 
 I'm convinced that writing is a key skill for leaders inside organizations - to be able to clearly and compellingly outline a vision and to direct attention on a regular basis.
 
