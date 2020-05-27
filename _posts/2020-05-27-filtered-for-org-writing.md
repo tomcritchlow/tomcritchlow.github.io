@@ -3,7 +3,11 @@ title: Filtered for... writing inside organizations
 layout: blog
 ---
 
-Here's a smorgasborg of links and quotes relevant for thinking about writing (and knowledge) inside organizations...
+Language is the operating system of organizatons. It's the working memory, the interface between teams and the process for storing and embedding long term memories.
+
+I'm convinced that writing is a key skill for leaders inside organizations - to be able to clearly and compellingly outline a vision and to direct attention on a regular basis.
+
+With that - a few various links around writing (and knowledge) inside organizations:
 
 First - [ponder.to](https://ponder.to/) looks like a great group writing app. Useful for all kinds of things but the interface looks slick:
 
@@ -13,7 +17,7 @@ Secondly - what was SameTab is now [Pulse](https://pulse.so/). I love the rogue 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have some news to share today.<br><br>from Sametab → to <a href="https://t.co/dfmd5rrVh7">https://t.co/dfmd5rrVh7</a><br><br>[A thread]</p>&mdash; Leonardo Fed (@leonardofed) <a href="https://twitter.com/leonardofed/status/1264980016850513920?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-(Aside: don't snooze on Leo or Pulse. I really loved this piece of writing on [Context over control: the future of remote work](https://pulse.so/operators/future-remote-working/))
+(*Aside: don't snooze on Leo or Pulse. I really loved this piece of writing on [Context over control: the future of remote work](https://pulse.so/operators/future-remote-working/)*)
 
 What I love about Pulse is the idea of in-context knowledge. Something friend Noah Brier is doubling down on with his startup [Variance](https://variance.com):
 
@@ -40,9 +44,22 @@ take a week or more.</p>
 <footer>Jeff 2 Bezos<cite><a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm">https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm</a></cite></footer>
 </blockquote><script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
 
+(*Related: [Steve Yegge's Platform Rant](https://gist.github.com/chitchcock/1281611)*)
+
 A more modern take on the same concept is Automattic - which uses a shared blog theme ([P2](https://p2theme.com/)) to run their company:
 
 <blockquote class="quoteback" data-title="America Wakes Up?, An Interview with Matt Mullenweg About Working From Home" data-author="" cite="https://stratechery.com/2020/america-wakes-up-an-interview-with-matt-mullenweg-about-working-from-home/">
-<p><strong>One thing that that really stood out to me about being at Automattic was that internal blogging system. And I think the point here is not necessarily the technology per se, obviously it was built on WordPress, but rather this idea that teams would every day summarize what they were working on and the problems they encountered, the discussions they had and this idea that it became a cultural norm at Automattic where every day you start work by reading the P2’s and seeing what was going on, and I actually felt that despite the fact I was in Taiwan in a different time zone than a lot of people at Automattic, I felt like I knew more about what was happening at Automattic than I did when I was going into an office every day at other jobs.</strong></p> <p><strong>MM:</strong> Yeah, that internal blogging system, I think every company needs an equivalent of it, regardless of what’s powering it. It provides transparency versus an email chain where everything’s private, it’s locked up in someone’s box. If someone leaves, it’s all gone. For example, every post you made or comment you made on an internal system or that people made to you is all still available in the search index. And we have a kind of an internal version of Google alerts, so when you’re mentioned or a topic you follow, you can find it, but you can control what you follow, just like a Google Reader where you can say these are things I want to follow, but then all this other stuff, don’t push it in my inbox and mix it up with external communication, all these other things. I would love to productize this, I wish it was already ready to go, but in the meantime it’s all open source so companies can run their own P2 instance wherever they want.</p>
+<p><strong>Ben: One thing that that really stood out to me about being at Automattic was that internal blogging system. And I think the point here is not necessarily the technology per se, obviously it was built on WordPress, but rather this idea that teams would every day summarize what they were working on and the problems they encountered, the discussions they had and this idea that it became a cultural norm at Automattic where every day you start work by reading the P2’s and seeing what was going on, and I actually felt that despite the fact I was in Taiwan in a different time zone than a lot of people at Automattic, I felt like I knew more about what was happening at Automattic than I did when I was going into an office every day at other jobs.</strong></p> <p><strong>MM:</strong> Yeah, that internal blogging system, I think every company needs an equivalent of it, regardless of what’s powering it. It provides transparency versus an email chain where everything’s private, it’s locked up in someone’s box. If someone leaves, it’s all gone. For example, every post you made or comment you made on an internal system or that people made to you is all still available in the search index. And we have a kind of an internal version of Google alerts, so when you’re mentioned or a topic you follow, you can find it, but you can control what you follow, just like a Google Reader where you can say these are things I want to follow, but then all this other stuff, don’t push it in my inbox and mix it up with external communication, all these other things. I would love to productize this, I wish it was already ready to go, but in the meantime it’s all open source so companies can run their own P2 instance wherever they want.</p>
 <footer><cite><a href="https://stratechery.com/2020/america-wakes-up-an-interview-with-matt-mullenweg-about-working-from-home/">https://stratechery.com/2020/america-wakes-up-an-interview-with-matt-mullenweg-about-working-from-home/</a></cite></footer>
+</blockquote><script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
+
+Finally - I'll leave some writing Brian and I did last year for Little Futures:
+
+<blockquote class="quoteback" data-title="LF03 - Language is a Problem" data-author="" cite="https://littlefutures.club/2019/09/25/language/">
+<p>Organizations are built on language, and language begins with noticing and naming. If you want to change an organization, change its language.</p>
+
+<p>At Little Futures, we use the phrase “noticing and naming” a lot. But noticing and naming are in constant tension - <strong>noticing is unbundling and naming is bundling</strong>.</p>
+
+<p>Every business is a search for an untapped advantage and a plan to execute on it. Those advantages come from noticing, and those plans come from naming.</p>
+<footer><cite><a href="https://littlefutures.club/2019/09/25/language/">https://littlefutures.club/2019/09/25/language/</a></cite></footer>
 </blockquote><script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>
