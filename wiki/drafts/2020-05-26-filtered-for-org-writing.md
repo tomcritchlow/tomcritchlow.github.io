@@ -13,6 +13,8 @@ Secondly - what was SameTab is now [Pulse](https://pulse.so/). I love the rogue 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have some news to share today.<br><br>from Sametab → to <a href="https://t.co/dfmd5rrVh7">https://t.co/dfmd5rrVh7</a><br><br>[A thread]</p>&mdash; Leonardo Fed (@leonardofed) <a href="https://twitter.com/leonardofed/status/1264980016850513920?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+(Aside: don't snooze on Leo or Pulse. I really loved this piece of writing on [Context over control: the future of remote work](https://pulse.so/operators/future-remote-working/))
+
 What I love about Pulse is the idea of in-context knowledge. Something friend Noah Brier is doubling down on with his startup [Variance](https://variance.com):
 
 <blockquote class="quoteback" data-title="Organizing Your Documentation | Variance" data-author="Noah Brier" cite="https://www.variance.com/posts/organizing-your-documentation">
