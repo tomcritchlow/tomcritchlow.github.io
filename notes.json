@@ -1,6 +1,6 @@
 ---
 ---
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'notes'" | sort:"path" %}
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains '/notes/'" | sort:"path" %}
 [{% for item in folder1 %}{
     "title": "{{item.url}}",
     "url": {{ item.url | prepend: site.baseurl | prepend: site.url | jsonify }},
