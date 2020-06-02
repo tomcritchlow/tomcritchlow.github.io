@@ -32,29 +32,12 @@
   }); 
   
   function webMentions(json){
-    var likes = [];
-    var reposts = [];
-    var replies = [];
-      for(var i in json.links){
-        if(json.links[i].activity.type == "like"){
-          likes.push(json.links[i]);
-        };
-        if(json.links[i].activity.type == "repost" || json.links[i].activity.type == "link" ){
-          reposts.push(json.links[i]);
-        };
-        if(json.links[i].activity.type == "reply"){
-          replies.push(json.links[i]);
-        };              
-      };
-  
-    renderLikes(likes);
-    renderReposts(reposts);
-    renderReplies(replies);
+    console.log("got json!");
   
     };
   
   $.ajax({
-    url: "https://webmention.io/api/mentions?perPage=500&jsonp=webMentions&target="+window.location.href,
+    url: "https://tomcritchlow.com/notes.json",
     dataType: "jsonp",
     jsonp: false,
     jsonpCallback: "webMentions"
