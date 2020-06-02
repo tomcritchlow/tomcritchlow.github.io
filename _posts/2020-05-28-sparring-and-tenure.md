@@ -6,6 +6,8 @@ layout: blog
 
 *There's very little writing and knowledge available for indie consultants that is any good. So I've long admired [Art of Gig](https://artofgig.substack.com/) from Venkatesh as a breath of fresh air and thinking. It's helped me a ton in my own journey as an independent. So it was a great honor to get to write a guest issue for the newsletter. [See the original here](https://artofgig.substack.com/p/sparring-as-tenure). Thanks Venkatesh. I've published a copy here for my archives:*
 
+Does obsidian handle speling errros
+
 I’ve long aspired to be an indie consultant with a default mode of sparring work. From reading about it on Venkatesh’s website to experiencing it in brief flashes on consulting projects (often waking up on the mat, dizzy, wondering what hit me), sparring has been an aspirational end goal; something to quest towards.
 
 I’ve been an indie consultant for ~6 years and have gradually managed to secure sparring consulting engagements. But rather than operate on stand-alone sparring engagements they’ve been embedded (often at the end of) a “more traditional” consulting engagement focused on deliverables and such.

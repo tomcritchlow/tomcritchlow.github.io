@@ -1,0 +1,49 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Daily notes": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "moonstone",
+  "workspaceLayout": {
+    "id": "9bd195449bad9951",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "9f0a5893d1d3613b",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "testing obsidian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "testing obsidian.md"
+  ],
+  "foldHeading": false,
+  "foldIndent": true,
+  "sideDockWidth": {
+    "left": 287,
+    "right": 300
+  }
+}
