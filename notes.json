@@ -5,7 +5,7 @@
 {% for item in folder1 %}
   {% if item.dir contains "/wiki/" %}
   {% else %}
-  {% assign notes = notes | push: item.path %}
+  
 {% endfor %}
 
 
