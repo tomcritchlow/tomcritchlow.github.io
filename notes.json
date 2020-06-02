@@ -1,10 +1,11 @@
 ---
 ---
 {% assign folder1 = site.pages | where_exp: "item" , "item.dir contains '/notes/'" | sort:"path" %}
+{% assign notes = "" | split:"," %}
 {% for item in folder1 %}
   {% if item.dir contains "/wiki/" %}
   {% else %}
-  {% assign notes = notes | append: item %}
+  {% assign notes = notes | push: item %}
 {% endfor %}
 
 
