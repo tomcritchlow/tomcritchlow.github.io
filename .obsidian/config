@@ -30,7 +30,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "testing obsidian.md",
+            "file": "notes/index.md",
             "mode": "source"
           }
         }
@@ -38,6 +38,7 @@
     ]
   },
   "lastOpenFiles": [
+    "notes/Untitled.md",
     "testing obsidian.md"
   ],
   "foldHeading": false,
