@@ -22,7 +22,7 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "9f0a5893d1d3613b",
+        "id": "85ae53855dd0e237",
         "type": "leaf",
         "dimension": null,
         "active": true,
@@ -30,7 +30,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "notes/Exploring digital gardens.md",
             "mode": "source"
           }
         }
@@ -38,6 +38,8 @@
     ]
   },
   "lastOpenFiles": [
+    "notes/Exploring digital gardens.md",
+    "2020-06-02.md",
     "notes/Untitled.md",
     "testing obsidian.md"
   ],
