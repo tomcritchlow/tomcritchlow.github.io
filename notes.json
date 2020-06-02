@@ -4,7 +4,7 @@
 {% assign notes = "" | split: ',' %}
 
 {% for item in folder1 %}
-  {% if item.url contains "/wiki/" %}
+  {% if item.url contains "wiki" %}
   {% else %}
   Something
 {% endfor %}
