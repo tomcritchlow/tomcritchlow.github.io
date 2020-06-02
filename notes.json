@@ -4,8 +4,10 @@
 {% assign notes = "" | split: ',' %}
 
 {% for item in folder1 %}
+{% if item.url contains "/wiki" %}
+  {{item.url}} Contains wiki  
+{% else %}
   {{item.url}}
-  {{item.path}}
-  {{item.dir}}
+{% endif %}
 {% endfor %}
 
