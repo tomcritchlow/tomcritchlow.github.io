@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "File explorer": true,
     "Search": true,
@@ -26,15 +26,19 @@
         "active": true,
         "master": "",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
         }
       }
     ]
   },
   "lastOpenFiles": [
-    "Welcome to Tom's Notes.md",
+    "index.md",
     "Exploring digital gardens.md",
+    "Welcome to Tom's Notes.md",
     "digital gardens.md",
     "Untitled.md"
   ],

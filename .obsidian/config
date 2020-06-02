@@ -48,5 +48,6 @@
   "sideDockWidth": {
     "left": 287,
     "right": 300
-  }
+  },
+  "alwaysUpdateLinks": true
 }
