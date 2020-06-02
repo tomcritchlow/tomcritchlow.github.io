@@ -6,6 +6,6 @@
 {% for item in folder1 %}
   {% if item.dir contains "/wiki/" %}
   {% else %}
-  
+  Something
 {% endfor %}
 
