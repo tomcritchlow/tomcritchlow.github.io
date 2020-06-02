@@ -62,7 +62,7 @@
       Note: you must replace the collection_name here with your own collection name.
       			{% endcomment %}
 
-            {% assign result_notes = site.notes | where: 'path',itemparts[0] %}
+            {% assign result_notes = site.notes | where: 'name',itemparts[0] %}
             {% assign result_posts = site.posts | where: 'title',itemparts[0] %}
             {% assign internal_links = internal_links | append: link_joiner_delimiter | append: internal_link %}
             {%- assign internal_urls = internal_urls | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url  -%}
