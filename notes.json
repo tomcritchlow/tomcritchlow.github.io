@@ -12,3 +12,6 @@
 {% endif %}
 {% endfor %}
 
+{% for note in notes %}
+There's a note {{note.url}}
+{% endfor %}
