@@ -8,6 +8,7 @@
   {{item.url}} Contains wiki  
 {% else %}
   {{item.url}}
+  {% assign notes = notes | push: item %}
 {% endif %}
 {% endfor %}
 
