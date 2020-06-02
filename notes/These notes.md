@@ -1,4 +1,3 @@
-
 Experimenting with a knowledge base separate from my wiki and my blog. Eventually this will grow to replace my wiki I think.
 
 Let's create a new note on [[Exploring digital gardens]]

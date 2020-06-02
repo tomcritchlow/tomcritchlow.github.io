@@ -28,7 +28,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "These notes.md",
             "mode": "source"
           }
         }
@@ -36,11 +36,11 @@
     ]
   },
   "lastOpenFiles": [
-    "index.md",
+    "These notes.md",
     "Exploring digital gardens.md",
     "Welcome to Tom's Notes.md",
-    "digital gardens.md",
-    "Untitled.md"
+    "index.md",
+    "digital gardens.md"
   ],
   "alwaysUpdateLinks": true,
   "lastOpenRightSidedockTab": "Backlinks"
