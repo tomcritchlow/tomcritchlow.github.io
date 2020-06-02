@@ -16,3 +16,7 @@ defaults:
       path: "/wiki/*"
     values:
       layout: "wiki"
+  - scope:
+      path: "/notes/*"
+    values:
+      layout: "note"      
