@@ -9,9 +9,3 @@
 {% endfor %}
 
 
-[{% for item in notes %}
-  {
-    "title": "{{item.url}}",
-    "url": {{ item.url | prepend: site.baseurl | prepend: site.url | jsonify }},
-    "content": {{ item.content | strip_html | strip_newlines | jsonify }}
-  }{% unless forloop.last %},{% endunless %}{% endfor %}]
