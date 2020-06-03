@@ -8,7 +8,8 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true
+    "Word count": true,
+    "Daily notes": true
   },
   "isSidebarCollapsed": false,
   "isRightSidedockCollapsed": true,
@@ -28,7 +29,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "These notes.md",
+            "file": "music.md",
             "mode": "source"
           }
         }
@@ -36,11 +37,11 @@
     ]
   },
   "lastOpenFiles": [
-    "These notes.md",
-    "Exploring digital gardens.md",
-    "index.md",
-    "Welcome to Tom's Notes.md",
-    "digital gardens.md"
+    "music.md",
+    "2020-06-03.md",
+    "new page.md",
+    "Untitled.md",
+    "These notes.md"
   ],
   "alwaysUpdateLinks": true,
   "lastOpenRightSidedockTab": "Backlinks"
