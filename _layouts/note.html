@@ -29,6 +29,14 @@
       $("div").html(function(i, html) {
       return html.replace(/\[\[(.+?)\]\]/g, "<a href='/notes/$1'>$1</a>");
       });
+
+    $.ajax({
+        url: "https://tomcritchlow.com/notes.json",
+        dataType: "jsonp",
+        jsonp: false,
+        jsonpCallback: "webMentions"
+    });
+
   }); 
   
   function webMentions(json){
@@ -36,12 +44,7 @@
   
     };
   
-  $.ajax({
-    url: "https://tomcritchlow.com/notes.json",
-    dataType: "jsonp",
-    jsonp: false,
-    jsonpCallback: "webMentions"
-  });
+
   
   </script>  
 

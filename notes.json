@@ -5,7 +5,6 @@
 
 {% for item in folder1 %}
 {% if item.url contains "/wiki" %}
-  {{item.url}} Contains wiki  
 {% else %}
   {% assign notes = notes | push: item %}
 {% endif %}
