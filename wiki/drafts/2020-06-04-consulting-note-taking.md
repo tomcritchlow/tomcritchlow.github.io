@@ -28,3 +28,4 @@ This is why posts like this are useful - they represent an appreciative mental m
 
 https://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/
 
+Copy and paste slack convo directly in
