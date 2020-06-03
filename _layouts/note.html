@@ -17,23 +17,39 @@
     display:block;
     position:absolute;
     top:0px;
-    left:100px;
-    top:20px;
+    right:-310px;
+    top:-150px;
     box-shadow: 0px 6px 20px 0px rgba(0,0,0,.15);
     width:300px;
+    height:300px;
     border:1px solid #e8fdf5;
     padding:20px;
+    font-size:10px;
+    background-color:white;
+    border-radius:6px;
   }
+
+  .notepreview:before{
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+    
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent; 
+    border-right:8px solid black;
+    left:-8px;
+    
+    top:7px;
+}
+
 </style>
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
     <div class="pt4 pt5-l w-two-thirds-ns">
   
-        <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle">{{page.title}}</h1>
-  
-      {% if page.subtitle %}
-      <h2 class="f3 fw3 lh-copy mv1 subtitle">{{page.subtitle}}</h2>
-        {% endif %}
+        <h1 class="f4 f3-l fw8 lh-solid mv1 posttitle">{{page.title}}</h1>
   
     </div>
     
