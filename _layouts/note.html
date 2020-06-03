@@ -27,16 +27,16 @@
 <script>
     $( document ).ready(function() {
       var regex = /\[\[(.+?)\]\]/g;
+      var notes_array = [];
+      var pagelinks_array = [];
 
-      $("div").html(function(i, html) {
+      $("div").html(function(i, html) { 
+      pagelinks_array.push(html.match(regex));  
       return html.replace(regex, "<a href='/notes/$1'>$1</a>");
       });
       
-      
       $.getJSON("/notes.json", function(results){
         console.log(results);
-        var notes_array = [];
-
 
         for(var i in results){
           notes_array.push(results[i]);
