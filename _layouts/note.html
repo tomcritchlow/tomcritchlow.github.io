@@ -60,7 +60,7 @@
 
         $(".notelink").each(function(){
           for(var i in notes_array){
-            if(notes_array[i].title = $(this).attr("data-note-title")){
+            if(notes_array[i].title == $(this).attr("data-note-title")){
               $(this).append("<div class='notepreview'>"+notes_array[i].content+"</div>")
             }
           }
