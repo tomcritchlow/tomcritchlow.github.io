@@ -45,9 +45,9 @@
         };
 
         for(var note in notes_array){
-          for(var link in note.links){
-            console.log(link);
-            if(link = "[["+page_name+"]]"){
+          for(var i in note.links){
+            console.log(note.links[i]);
+            if(note.links[i] = "[["+page_name+"]]"){
               console.log("match!")
             }
           }
