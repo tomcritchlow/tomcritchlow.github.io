@@ -11,6 +11,7 @@
 {% endfor %}
 
 [{% for item in notes %}{
+  "title": "{{item.name}}"
   "url": "{{item.url}}",
   "content": {{ item.content | strip_html | strip_newlines | jsonify }}
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
