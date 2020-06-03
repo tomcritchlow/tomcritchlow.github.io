@@ -29,19 +29,17 @@
       $("div").html(function(i, html) {
       return html.replace(/\[\[(.+?)\]\]/g, "<a href='/notes/$1'>$1</a>");
       });
-
-      $.getJSON("/notes.json", function(result){
-        $.each(result, function(i, field){
-          $("div").append(field + " ");
-        });
+      
+      var regex = /\[\[(.+?)\]\]/g;
+      $.getJSON("/notes.json", function(results){
+        for(var i in results){
+          console.log(results[i].content);
+          console.log(results[i].content.match(regex);)
+        }
       });
 
   }); 
   
-  function webMentions(json){
-    console.log("got json!");
-  
-    };
   
 
   
