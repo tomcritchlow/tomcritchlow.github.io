@@ -29,6 +29,7 @@
       var regex = /\[\[(.+?)\]\]/g;
       var notes_array = [];
       var pagelinks_array = [];
+      var page_name = decodeURIComponent(window.location.pathname.split("/")[2]);
 
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(regex));  
@@ -41,7 +42,16 @@
         for(var i in results){
           notes_array.push(results[i]);
           notes_array[i].links = results[i].content.match(regex);
+        };
+
+        for(var note in notes_array){
+          for(var link in note.links){
+            if(link = page_name){
+              console.log("match!")
+            }
+          }
         }
+
         console.log(notes_array);
         console.log(pagelinks_array);
       });
