@@ -4,6 +4,25 @@
 
 {% include header.html %}
 
+<style>
+  .notepreview{
+    display:none;
+  }
+
+  .notelink{
+    position:relative;
+  }
+
+  .notelinke:hover .notepreview{
+    display:block;
+    position:absolute;
+    top:0px;
+    right:-400px;
+    border:1px solid black;
+    padding:20px;
+  }
+</style>
+
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
     <div class="pt4 pt5-l w-two-thirds-ns">
   
