@@ -37,7 +37,7 @@
 
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(regex));  
-      return html.replace(regex, "<a href='/notes/$1'>$1</a>");
+      return html.replace(regex, "<a class='notelink' href='/notes/$1'>$1</a>");
       });
       
       $.getJSON("/notes.json", function(results){
@@ -57,6 +57,10 @@
             }
           }
         }
+
+        $(".notelink").each(function(){
+          $(this).append("<span>Preview</span>")
+        });
 
         console.log(notes_array);
         console.log(pagelinks_array);
