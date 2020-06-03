@@ -30,12 +30,11 @@
       return html.replace(/\[\[(.+?)\]\]/g, "<a href='/notes/$1'>$1</a>");
       });
 
-    $.ajax({
-        url: "https://tomcritchlow.com/notes.json",
-        dataType: "jsonp",
-        jsonp: false,
-        jsonpCallback: "webMentions"
-    });
+      $.getJSON("/notes.json", function(result){
+        $.each(result, function(i, field){
+          $("div").append(field + " ");
+        });
+      });
 
   }); 
   
