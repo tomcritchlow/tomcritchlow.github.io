@@ -11,3 +11,8 @@ Some paths to follow
 - so here's something
 	- and something else
 		- [[new page]]
+			- Hmm Outlining inside Obsidian is not bad.
+			- Thought it'll need better styling with css.
+
+Here's something.
+

@@ -29,7 +29,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "something new 2.md",
             "mode": "source"
           }
         }
@@ -37,11 +37,11 @@
     ]
   },
   "lastOpenFiles": [
+    "something new 2.md",
+    "These notes.md",
     "index.md",
     "Exploring digital gardens.md",
-    "music.md",
-    "2020-06-03.md",
-    "new page.md"
+    "music.md"
   ],
   "alwaysUpdateLinks": true,
   "lastOpenRightSidedockTab": "Backlinks"
