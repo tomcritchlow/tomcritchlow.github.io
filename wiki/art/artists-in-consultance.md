@@ -12,3 +12,9 @@
 >“Gareth and Sebastian are both leaders in the field, with a broad range of skill sets and unique perspectives on technology, business strategy, and operations,” Larry Gagosian, the gallery’s founder, told ARTnews in a statement. “They will be great additions to the gallery, enhancing and expanding our innovative work.”
 
 source: [Gagosian Hires Artsy Co-Founder Sebastian Cwilich as Adviser, Beefing Up Tech Department -ARTnews](http://www.artnews.com/2019/06/24/gagosian-sebastian-cwilich-artsy/)
+
+--
+
+> Is the museum a thinktank, a platform, a consultancy? Ivanova now works as part of the Serpentine Galleries’ Research & Development Platform, a relatively new arm of the London institution. In March the platform published its first report on ‘Future Art Ecosystems’ (coproduced with consultancy Rival Strategy), in which it envisions art institutions as innovative early-adopters of emerging technologies, with section headings like ‘Tech Industry as Art Patron’, ‘Strategies for the Art-Industrial Revolution’ and the ‘Art Stack’.
+
+Source: [The Artist of the Future](https://artreview.com/back-to-the-drawing-board/) by Gary Zhexi Zhang
