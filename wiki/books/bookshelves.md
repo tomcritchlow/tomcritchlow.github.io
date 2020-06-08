@@ -48,3 +48,5 @@ Digital bookshelves that I admire:
 <https://benjamincongdon.me/books>
 
 <https://maggieappleton.com/bookshelf>
+
+<https://amandapinsker.com/reading>

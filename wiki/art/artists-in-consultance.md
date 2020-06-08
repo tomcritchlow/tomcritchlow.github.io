@@ -18,3 +18,4 @@ source: [Gagosian Hires Artsy Co-Founder Sebastian Cwilich as Adviser, Beefing U
 > Is the museum a thinktank, a platform, a consultancy? Ivanova now works as part of the Serpentine Galleries’ Research & Development Platform, a relatively new arm of the London institution. In March the platform published its first report on ‘Future Art Ecosystems’ (coproduced with consultancy Rival Strategy), in which it envisions art institutions as innovative early-adopters of emerging technologies, with section headings like ‘Tech Industry as Art Patron’, ‘Strategies for the Art-Industrial Revolution’ and the ‘Art Stack’.
 
 Source: [The Artist of the Future](https://artreview.com/back-to-the-drawing-board/) by Gary Zhexi Zhang
+
