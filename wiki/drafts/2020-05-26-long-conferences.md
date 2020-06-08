@@ -19,3 +19,4 @@ Long conferences
 
 <blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tomcritchlow/status/1264623706372034561'></a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
+https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events
