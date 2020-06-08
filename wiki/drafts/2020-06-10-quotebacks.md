@@ -1,5 +1,5 @@
 ---
-title: Introducing Quotebacks
+title: "Introducing: Quotebacks"
 subtitle: A chrome extension to quote the web
 layout: blog
 ---
