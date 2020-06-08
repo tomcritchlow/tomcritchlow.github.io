@@ -22,7 +22,7 @@ And your quote library looks like this (saved in chrome storage):
 
 ![](/images/quotebacks-library.png)
 
-This is what an embedded quoteback looks like:
+And this is a quoteback embedded on my blog:
 
 <blockquote class="quoteback" data-title="A Text Renaissance" data-author="@ribbonfarm" cite="https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/">
 The text renaissance is an actual <em>renaissance. </em>It’s a story of history-inspired renewal in a very fundamental way: exciting recent developments are due in part to a new generation of young product visionaries circling back to the early history of digital text, rediscovering old, abandoned ideas, and reimagining the bleeding edge in terms of the unexplored adjacent possible of the 80s and 90s.
@@ -38,7 +38,7 @@ Note how the quote becomes nicely styled - but also preserves the context of whe
 
 I publish this site using Jekyll - a static site templating language. That's important because it's a very extensible - there's no database so everything becomes text files that I can open, manipulate and tinker with. As the web increasingly gets dominated by the large platforms we see a retreat from software (and web pages) that you can tinker with[^viewsource].
 
-[^viewsource]: Have you tried view source on Twitter of Facebook recently?
+[^viewsource]: Have you tried view source on Twitter or Facebook recently?
 
 So - while Toby and I are not professional developers - it's rewarding to build something that we want to use and release it back into the community. As Mandy Brown says:
 
@@ -49,8 +49,6 @@ Fuck that. I’m more of an editor than a developer any day, but I’ll be damne
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 This is our first public release so I'm sure there will be bugs. Hopefully we'll squash them together.
-
-I hope you'll have fun and break some boxes too.
 
 *Thank you to early beta testers. In particular [Sonya Mann](https://www.sonyasupposedly.com/) & [CJ Eller](https://blog.cjeller.site/).*
 
