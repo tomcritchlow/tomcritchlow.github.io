@@ -14,7 +14,13 @@ But, while that's a lofty goal the tool is small and simple. Quotebacks is three
 2. A tiny library, ```quoteback.js```, that converts HTML ```<blockquote>``` tags into elegant interactive webcomponents
 3. A browser extension to create quoteback components and store any quotes you save to publish later.
 
-[Install Quotebacks in the chrome store here](https://chrome.google.com/webstore/detail/quotebacks-quote-the-web/makakhdegdcmmbbhepafcghpdkbemach/) or find out more at [quotebacks.net](https://quotebacks.net/).
+Saving a quote from the web looks like this:
+
+![](/images/quotebacks-popup.png)
+
+And your quote library looks like this (saved in chrome storage):
+
+![](/images/quotebacks-library.png)
 
 This is what an embedded quoteback looks like:
 
@@ -25,6 +31,8 @@ The text renaissance is an actual <em>renaissance. </em>It’s a story of histor
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 Note how the quote becomes nicely styled - but also preserves the context of where I found it in a predictable way.
+
+[Install Quotebacks in the chrome store here](https://chrome.google.com/webstore/detail/quotebacks-quote-the-web/makakhdegdcmmbbhepafcghpdkbemach/) or find out more at [quotebacks.net](https://quotebacks.net/).
 
 ## Why Quotebacks
 
@@ -40,5 +48,9 @@ Fuck that. I’m more of an editor than a developer any day, but I’ll be damne
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+This is our first public release so I'm sure there will be bugs. Hopefully we'll squash them together.
+
 I hope you'll have fun and break some boxes too.
+
+*Thank you to early beta testers. In particular [Sonya Mann](https://www.sonyasupposedly.com/) & [CJ Eller](https://blog.cjeller.site/).*
 
