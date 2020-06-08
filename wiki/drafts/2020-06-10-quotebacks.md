@@ -24,21 +24,21 @@ The text renaissance is an actual <em>renaissance. </em>It’s a story of histor
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+Note how the quote becomes nicely styled - but also preserves the context of where I found it in a predictable way.
+
 ## Why Quotebacks
 
-I publish this site using Jekyll - a static site templating language. That's important 
+I publish this site using Jekyll - a static site templating language. That's important because it's a very extensible - there's no database so everything becomes text files that I can open, manipulate and tinker with. As the web increasingly gets dominated by the large platforms we see a retreat from software (and web pages) that you can tinker with[^viewsource].
 
+[^viewsource]: Have you tried view source on Twitter of Facebook recently?
 
-
-
-
-<blockquote class="quoteback" data-title="My website is a shifting house next to a river of knowledge. What could yours be?" data-author="Laurel Schwulst" cite="https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/">
-If a website has endless possibilities, and our identities, ideas, and dreams are created and expanded by them, then it’s instrumental that websites progress along with us. It’s especially pressing when forces continue to threaten the web and the internet at large. In an age of information overload and an increasingly commercialized web, artists of all types are the people to help. Artists can think expansively about what a website can be. Each artist should create their own space on the web, for a website is an individual act of collective ambition.
-<footer>Laurel Schwulst<cite><a href="https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/">https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+So - while Toby and I are not professional developers - it's rewarding to build something that we want to use and release it back into the community. As Mandy Brown says:
 
 <blockquote class="quoteback" data-title="Index cards" data-author="Mandy Brown" cite="https://aworkinglibrary.com/writing/index-cards">
 Fuck that. I’m more of an editor than a developer any day, but I’ll be damned if I’m going to cede that territory. I don’t want to pour my words into a box, the parameters of which someone else decides (and obscures). I want to make the box, too. And remake it. And, hell, break it from time to time. It’s mine to break.
 <footer>Mandy Brown <cite><a href="https://aworkinglibrary.com/writing/index-cards">https://aworkinglibrary.com/writing/index-cards</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+I hope you'll have fun and break some boxes too.
+
