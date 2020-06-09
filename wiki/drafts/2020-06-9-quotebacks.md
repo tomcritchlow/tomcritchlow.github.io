@@ -38,11 +38,11 @@ Note how the quote becomes nicely styled - but also preserves the context of whe
 
 ## Why Quotebacks
 
-I publish this site using Jekyll - a static site templating language. That's important because it's a very extensible - there's no database so everything becomes text files that I can open, manipulate and tinker with. As the web increasingly gets dominated by the large platforms we see a retreat from software (and web pages) that you can tinker with[^viewsource].
+I publish this site using Jekyll - a static site templating language. That's important because it's very extensible - there's no database so everything becomes text files that I can open, manipulate and tinker with. As the web increasingly gets dominated by the large platforms we see a retreat from software (and web pages) that you can tinker with[^viewsource].
 
 [^viewsource]: Have you tried view source on Twitter or Facebook recently?
 
-So - while Toby and I are not professional developers - it's rewarding to build something that we want to use and release it back into the community. As Mandy Brown says:
+So - while Toby and I are not professional developers - it's rewarding to build something that we want to use ourselves and release it back into the community. As Mandy Brown says:
 
 <blockquote class="quoteback" data-title="Index cards" data-author="Mandy Brown" cite="https://aworkinglibrary.com/writing/index-cards">
 Fuck that. I’m more of an editor than a developer any day, but I’ll be damned if I’m going to cede that territory. I don’t want to pour my words into a box, the parameters of which someone else decides (and obscures). I want to make the box, too. And remake it. And, hell, break it from time to time. It’s mine to break.
