@@ -34,6 +34,8 @@ Note how the quote becomes nicely styled - but also preserves the context of whe
 
 [Install Quotebacks in the chrome store here](https://chrome.google.com/webstore/detail/quotebacks-quote-the-web/makakhdegdcmmbbhepafcghpdkbemach/) or find out more at [quotebacks.net](https://quotebacks.net/).
 
+*And by the way Quotebacks can be useful even if you're not a blogger - quotes can be exported as images (for e.g. substack) and markdown (for e.g. Roam)*
+
 ## Why Quotebacks
 
 I publish this site using Jekyll - a static site templating language. That's important because it's a very extensible - there's no database so everything becomes text files that I can open, manipulate and tinker with. As the web increasingly gets dominated by the large platforms we see a retreat from software (and web pages) that you can tinker with[^viewsource].
