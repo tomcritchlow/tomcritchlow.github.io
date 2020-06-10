@@ -40,6 +40,6 @@ Here's some examples:
 
 Do they work for you?
 
-I made a little bookmarklet to help you generate them to play around. <a href="!function(){var t=document.location,e=function(){var t='';return window.getSelection?t=window.getSelection().toString():document.selection&&'Control'!=document.selection.type&&(t=document.selection.createRange().text),t}();document.location=t+'#:~:text='+e}();">Drag this to your bookmarks to create your own examples</a>.
+[Grab the bookmarklet from over here](https://supple.com.au/tools/scroll-to-text-fragment-generator-bookmarklet/) to play around and generate your own.
 
 Can anyone shine light on what's going on? Comments welcome below or on [Twitter](https://twitter.com/tomcritchlow).
