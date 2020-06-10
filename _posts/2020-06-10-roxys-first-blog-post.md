@@ -19,4 +19,9 @@ The octopus lives underwater and is silly cuz they sting us and then they commun
 
 I like unicorns because they are beautiful and they communicate unicorn they can do magic and they can always do that sometimes they can do rainbows and favor
 
-uivyuify rc90p9lkrinnbli kfjkjiubvkvu bui vufkjv gvyiuvhfhb fkj oiguiofry virubvyo                                          
+uivyuify rc90p9lkrinnbli kfjkjiubvkvu bui vufkjv gvyiuvhfhb fkj oiguiofry virubvyo           d koiuf8nfu9r87nfr9uf 9if h8fviovgumiotvyfvituiruifvuif byf87fryrt78                                   riu uy fuy                                                     
+
+I love ninjas cuz they cuz they sneak up on me when I'm sleeping and I like that cuz sometimes they put a hair bow on me and they're all dressed up as black as [Toby's blog](https://subpixel.space).
+
+❤️❤️✨💖
+roxy
