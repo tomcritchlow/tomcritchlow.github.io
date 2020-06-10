@@ -40,6 +40,6 @@ Here's some examples:
 
 Do they work for you?
 
-[Grab the bookmarklet from over here](https://supple.com.au/tools/scroll-to-text-fragment-generator-bookmarklet/) to play around and generate your own.
+[Grab the bookmarklet from over here](https://supple.com.au/tools/scroll-to-text-fragment-generator-bookmarklet/#:~:text=Prefer%20a%20bookmarklet%20to%20generate%20your%20Scroll%20To%20Text%20Fragment%20links%20we%20got%20you%20covered.%20Just%20drag%20and%20drop%20the%20Scroll%20To%20Text%20Fragment%20button%2C%20to%20the%20browser%E2%80%99s%20bookmark%20bar.) to play around and generate your own.
 
 Can anyone shine light on what's going on? Comments welcome below or on [Twitter](https://twitter.com/tomcritchlow).
