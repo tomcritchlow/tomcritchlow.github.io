@@ -6,6 +6,11 @@ books:
    author: John Steinbeck
    link: https://www.amazon.com/East-Eden-Penguin-Orange-Collection/dp/0143129481
    date_finished: In Progress
+ - title: Veil
+   author: Eliot Peper
+   link: https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC   
+   date_finished: 06/08/20
+   notes: A really great fast-paced read. Eliot has a great knack for constructing plausible near-futures and then situating fully realized human stories within those futures. Thought provoking and enjoyable.
  - title: The Memory Police
    author: Yoko Ogawa
    link: https://www.amazon.com/Memory-Police-Novel-Yoko-Ogawa/dp/1101870605
