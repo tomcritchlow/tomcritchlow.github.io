@@ -1,11 +1,6 @@
 ---
+layout: strategy
 ---
-
-{% include head.html %}
-
-{% include googleanalytics.html %}
-
-{% include header.html %}
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
 <div class="pt4 pt5-l w-two-thirds-ns">
