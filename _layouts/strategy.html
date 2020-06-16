@@ -24,7 +24,7 @@ p a:hover{
   font-family:Palatino;
 }
 
-.postcontainer p{
+.postcontainer p, .postcontainer ul, .postcontainer ol, .postcontainer li{
   font-family:Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
@@ -44,12 +44,14 @@ footer{
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
 
-  <div class="pt4 pt5-l w-two-thirds-ns">
+  <div class="f5">The Strategic Independent / Yes! And... / Part 4: The Work</div>
+
+  <div class="pt5 pt6-l w-two-thirds-ns">
   
-      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
+      <h1 class="f2 fsubheadline-l fw4 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
 
     {% if page.subtitle %}
-    <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary">{{page.subtitle}}</h2>
+    <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary"><em>{{page.subtitle}}</em></h2>
       {% endif %}
 
     {% if page.date %}
