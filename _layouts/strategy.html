@@ -1,0 +1,85 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
+<style>
+</style>
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
+
+  <div class="pt4 pt5-l w-two-thirds-ns">
+  
+      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary">{{page.subtitle}}</h2>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="f6 f6-s black-50 pv3 dt-published" datetime="{{ page.date}}">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+  </div>
+  
+  
+  <div class="w-two-thirds-ns e-content">
+  
+
+
+  {{content}}
+
+  <hr class="w3 mv5">
+
+  
+
+
+
+
+<script>
+
+    $( document ).ready(function() {
+        var footnotes = $(".footnotes p");
+        $("sup").each(function(index){
+            var fn = footnotes[index].removeChild(footnotes[index].lastChild);
+            $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
+        });   
+        $(".footnotes").hide()
+    });    
+    
+    
+    </script>
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": false,
+    "theme": "clean"
+  }
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+<script type="text/javascript">
+
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+    }
+  };
+};
+
+</script>
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+
+
+</div>
+</div>
+
+
+
+{% include footer.html %}
