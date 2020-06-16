@@ -1,3 +1,3 @@
 ---
-layout: strategy
+layout: strategy-home
 ---

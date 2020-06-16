@@ -5,7 +5,7 @@
 {% include header.html %}
 
 <style>
-body{
+  body{
 background-color:#FEF1E9;
 }
 
@@ -41,285 +41,182 @@ p a:hover{
 footer{
   min-height:initial;
 }
-
 </style>
 
-<div class="mw9 center lh-copy f4 postcontainer ph3 ph6-l">
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
+  
+    {% include blogchain-nav-top.html %}
+
+{% if page.reply %}
+<div class="i"><h3>↪ reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply}}</a></h3> </div>
+{% endif %}
+
   <div class="pt4 pt5-l w-two-thirds-ns">
   
-  <h1 class="f2 f-subheadline-l pt3 fw4 mv0-l mv2 posttitle lh-solid">The Strategic Independent</h1>
-  
-  <h2 class="f2-l f3 fw3 lh-copy mv0 subtitle"><em>Theory & Practice for Independent Consultants</em></h2>
-  
-  
+      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary">{{page.subtitle}}</h2>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="f6 f6-s black-50 pv3 dt-published" datetime="{{ page.date}}">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
   </div>
   
   
-  <div class="w-50-ns">
+  <div class="w-two-thirds-ns e-content">
   
-  <p>I’ve been an independent consultant for almost 6 years and have learned some things. But most importantly I’ve found that being independent requires a level of introspection and self-reflection that few talk about.</p>
 
-    <p>This is a project to write a book - serialized free online about the art and science of independent consulting.</p>
-    
-    <p>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="w2 h2 dib v-mid"><path fill="#fefdef" d="M80,77H20c-3.314,0-6-2.686-6-6V29c0-3.314,2.686-6,6-6h60c3.314,0,6,2.686,6,6v42	C86,74.314,83.314,77,80,77z"/><path fill="#f15b6c" d="M23,77h-3c-3.314,0-6-2.686-6-6V29h9V77z"/><path fill="#f15b6c" d="M77,77h3c3.314,0,6-2.686,6-6V29h-9V77z"/><path fill="#f15b6c" d="M82.09,24h-0.004L50,47.5L17.914,24H17.91c-1.883,0-3.41,1.527-3.41,3.41v1.554	c0,1.594,0.76,3.092,2.046,4.034L50,57.5l33.454-24.502c1.286-0.942,2.046-2.44,2.046-4.034V27.41C85.5,25.527,83.973,24,82.09,24z"/><path fill="#1f212b" d="M80,78H20c-3.859,0-7-3.14-7-7V29c0-3.86,3.141-7,7-7h60c3.859,0,7,3.14,7,7v42	C87,74.86,83.859,78,80,78z M20,24c-2.757,0-5,2.243-5,5v42c0,2.757,2.243,5,5,5h60c2.757,0,5-2.243,5-5V29c0-2.757-2.243-5-5-5H20z"/><path fill="#1f212b" d="M50,58c-0.104,0-0.207-0.032-0.296-0.097L16.25,33.401C14.842,32.37,14,30.711,14,28.964h1	c0,1.429,0.688,2.786,1.841,3.63L50,56.88l33.158-24.286C84.312,31.75,85,30.394,85,28.964h1c0,1.747-0.842,3.406-2.251,4.437	L50.296,57.903C50.207,57.968,50.104,58,50,58z"/><path fill="#1f212b" d="M22.5,74c-0.276,0-0.5-0.224-0.5-0.5v-33c0-0.276,0.224-0.5,0.5-0.5s0.5,0.224,0.5,0.5v33	C23,73.776,22.776,74,22.5,74z"/><path fill="#1f212b" d="M77.5,62c-0.276,0-0.5-0.224-0.5-0.5v-21c0-0.276,0.224-0.5,0.5-0.5s0.5,0.224,0.5,0.5v21	C78,61.776,77.776,62,77.5,62z"/><path fill="#1f212b" d="M77.5,70c-0.276,0-0.5-0.224-0.5-0.5v-5c0-0.276,0.224-0.5,0.5-0.5s0.5,0.224,0.5,0.5v5	C78,69.776,77.776,70,77.5,70z"/><path fill="#1f212b" d="M77.5,74c-0.276,0-0.5-0.224-0.5-0.5v-1c0-0.276,0.224-0.5,0.5-0.5s0.5,0.224,0.5,0.5v1	C78,73.776,77.776,74,77.5,74z"/><path fill="#1f212b" d="M74.5,30.056c-0.153,0-0.306-0.071-0.403-0.205c-0.163-0.223-0.115-0.536,0.108-0.699l2-1.464	c0.221-0.164,0.535-0.116,0.698,0.108c0.163,0.223,0.115,0.536-0.108,0.699l-2,1.464C74.706,30.025,74.603,30.056,74.5,30.056z"/><path fill="#1f212b" d="M68.5,34.451c-0.153,0-0.306-0.071-0.403-0.205c-0.163-0.223-0.115-0.536,0.107-0.699l4-2.93	c0.223-0.164,0.536-0.116,0.699,0.108c0.163,0.223,0.115,0.536-0.107,0.699l-4,2.93C68.706,34.419,68.603,34.451,68.5,34.451z"/><path fill="#1f212b" d="M50,48c-0.104,0-0.207-0.032-0.296-0.097l-32.428-23.75c-0.223-0.163-0.271-0.476-0.107-0.699	c0.163-0.224,0.477-0.271,0.699-0.108L50,46.88l16.089-11.784c0.224-0.164,0.536-0.116,0.699,0.108	c0.163,0.223,0.115,0.536-0.107,0.699l-16.385,12C50.207,47.968,50.104,48,50,48z"/></svg> <a href="https://tinyletter.com/tomcritchlow"><strong>Join the email list to get updates</strong></a> (~ monthly emails)</p>
-                      
-  
-  </div>
 
-  <section class="w-100 cf mt5">
+  {{content}}
 
-    <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">1. Becoming Independent</h3>
+  <hr class="w3 mv5">
 
-    <div class="w-50-l fl pt3 pr3">
-      <p class="mt0"><em>Navigating the gap between potential client and confirmed project can be tricky. Getting caught up in SOWs, or structuring projects that don’t set you up for success.</em></p>
+  {% include blogchain-nav-bottom.html %}
+
+  {% if page.blogchain %}
+
+  {% else %}
+
+  <div class="Previous-next f6 cf pb4">
+    {% if page.previous.url %}
+    <div class="fl w-40">
+    <span class="ttu tracked">⇜ PREVIOUS</span><br>
+      <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
     </div>
-
-    <div class="w-50-l fl pa3-l pv3-l pv3">
-
-        <div class="pb4">
-          <div class="f3"><a href="https://tomcritchlow.com/2019/04/04/the-strategic-independent/">The Strategic Independent</a> <span class="light-silver">(4,735 words)</span></div>
-          <div class="f5">How to do better work for more money, whether you're a designer, writer or strategist.</div>
-        </div>
-
-        <div class="pb4">
-            <div class="f3 light-silver">Narrative Institutions <span class="light-silver">(in draft)</span></div>
-            <div class="f5">How to manage your identity during the transition to independent</div>
-        </div>
-        
+    {% endif %}
+    {% if page.next.url %}
+    <div class="fr w-40 tr">
+    <span class="ttu tracked">NEXT ⇝</span><br>
+      <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
     </div>
-
-  </section>
-
-
-  <section class="w-100 cf mt5">
-
-      <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">2. Finding Work</h3>
-  
-      <div class="w-50-l fl pt3 pr3">
-        <p class="mt0"><em>The number one problem most independent consultants face is finding clients. The default mode of searching for "productized services" however is usually wrong. Instead we need to increase our presence across the networks we're surrounded by.</em></p>
-      </div>
-  
-      <div class="w-50-l fl pa3-l pv3-l pv3">
-  
-          <div class="pb4">
-              <div class="f3"><a href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small-b Blogging</a> <span class="light-silver">(1,539 words)</span></div>
-              <div class="f5">Network topology and the ghost of the digg homepage</div>
-            </div>
-
-        <div class="pb4">
-            <div class="f3"><a href="https://tomcritchlow.com/2019/03/12/strange-attraction/">Strange Attraction</a> <span class="light-silver">(3,004 words)</span></div>
-            <div class="f5">How to generate leads for an independent consulting practice.</div>
-          </div>
-  
-          <div class="pb4">
-              <div class="f3 light-silver">Weak Ties & Strong Intros <span class="light-silver">(in draft)</span></div>
-              <div class="f5">aka "Strange Attraction pt 2" we'll look at how to help source warm intros from people you don't know</div>
-          </div>
-
-          <div class="pb4">
-              <div class="f3 light-silver">Speak, Consultant <span class="light-silver">(in draft)</span></div>
-              <div class="f5">Examining the unreasonable effectiveness of "voice" (podcasts, conferences etc) on generating consulting leads.</div>
-          </div>
-          
-      </div>
-  
-    </section>
-
-    <section class="w-100 cf mt5">
-
-        <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">3. Bridging the Gap</h3>
-    
-        <div class="w-50-l fl pt3 pr3">
-          <p class="mt0"><em>How do you convert warm leads into client engagements? How do you structure projects to set yourself up for success?</em></p>
-        </div>
-    
-        <div class="w-50-l fl pa3-l pv3">
-    
-            <div class="pb4">
-                <div class="f3"><a href="https://tomcritchlow.com/2019/09/23/workshops/">Workshops as Portals</a> <span class="light-silver">(2,766 words)</span></div>
-                <div class="f5">And how to create clarity in consulting work</div>
-              </div>
-  
-            <div class="pb4">
-                <div class="f3 light-silver">The Anguish of Talking about Money <span class="light-silver">(in draft)</span></div>
-                <div class="f5">Why do I want to throw up every time I send an invoice?</div>
-            </div>
-            
-        </div>
-    
-      </section> 
-      
-      <section class="w-100 cf mt5">
-
-          <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">4. Effective Strategy Work</h3>
-      
-          <div class="w-50-l fl pt3 pr3">
-            <p class="mt0"><em>We explore what makes work "strategic" and how to balance strategy & stewardship to create long-term retained work.</em></p>
-          </div>
-      
-          <div class="w-50-l fl pa3-l pv3">
-      
-              <div class="pb4">
-                  <div class="f3"><a href="https://tomcritchlow.com/2018/07/10/high-fidelity-consulting/">High-Fidelity Consulting</a> <span class="light-silver">(stub)</span></div>
-                  <div class="f5">"Ideas without details and details without ideas are both risky."</div>
-                </div>
-
-              <div class="pb4">
-                  <div class="f3"><a href="https://tomcritchlow.com/2018/06/28/strategy-stewardship/">Strategy & Stewardship</a> <span class="light-silver">(stub)</span></div>
-                  <div class="f5">A model for retained strategy consulting.</div>
-                </div>  
-
-              <div class="pb4">
-                  <div class="f3"><a href="https://tomcritchlow.com/2018/06/01/how-to-get-things-done/">How to Get Things Done</a> <span class="light-silver">(stub)</span></div>
-                  <div class="f5">"Amateurs talk about strategy. Professionals talk about logistics."</div>
-                </div>    
-
-              <div class="pb4">
-                  <div class="f3"><a href="https://tomcritchlow.com/2018/03/08/consulting-links/">Strategy is the organic flow of ideas and people</a> <span class="light-silver">(stub)</span></div>
-                  <div class="f5">Challenging the notion of "top-down" strategy</div>
-                </div>                        
-
-              
-          </div>
-      
-        </section>       
-
-        <section class="w-100 cf mt5">
-
-            <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">5. Ways of Seeing</h3>
-        
-            <div class="w-50-l fl pt3 pr3">
-              <p class="mt0"><em>The soft skills of understanding a client's culture and understanding your point of contact's blind spots and broken mental models unlocks great potential for the consultant to create new mental models and help clients see in new ways.</em></p>
-            </div>
-        
-            <div class="w-50-l fl pa3-l pv3">
-        
-                <div class="pb4">
-                    <div class="f3"><a href="https://tomcritchlow.com/2017/07/18/the-consultants-grain/">The Consultant's Grain</a> <span class="light-silver">(2,583 words)</span></div>
-                    <div class="f5">Why (their) culture eats (your) strategy for breakfast</div>
-                  </div>
-
-                <div class="pb4">
-                    <div class="f3"><a href="https://tomcritchlow.com/2018/10/29/ways-of-seeing/">Ways of Seeing</a> <span class="light-silver">(3,838 words)</span></div>
-                    <div class="f5">How to recognize and understand culture inside a client's organization</div>
-                  </div>  
-
-                <div class="pb4">
-                    <div class="f3"><a href="https://tomcritchlow.com/2019/06/27/frameworks/">How (and why) to roll your own frameworks in consulting engagements</a> <span class="light-silver">(5,075 words)</span></div>
-                    <div class="f5">And the power of making simple, true frameworks with clients</div>
-                </div>                    
-                
-            </div>
-        
-          </section> 
-
-
-
-          <section class="w-100 cf mt5">
-
-              <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">6. Yes! And...</h3>
-          
-              <div class="w-50-l fl pt3 pr3">
-                <p class="mt0"><em>Thinking on your feet & being able to spar with clients is a crucial consulting skill. This series takes inspiration from the book Impro by Keith Johnstone to examine consulting through the lens of improv theatre.</em></p>
-              </div>
-          
-              <div class="w-50-l fl pa3-l pv3">
-          
-                  <div class="pb4">
-                      <div class="f3"><a href="https://tomcritchlow.com/2019/11/18/yes-and/">The Office is a Theatre for Work</a> <span class="light-silver">(2,768 words)</span></div>
-                      <div class="f5">How to think on your feet without bullshitting.</div>
-                    </div>
-
-                  <div class="pb4">
-                      <div class="f3"><a href="https://tomcritchlow.com/2019/11/19/optimism-operating-system/">Optimism as an Operating System</a> <span class="light-silver">(2,166 words)</span></div>
-                      <div class="f5">If you walk in the door with a problems-focused mindset ready to criticize the client you’ll get rejected by the organization like a bad virus.</div>
-                  </div>                    
-
-                  <div class="pb4">
-                      <div class="f3"><a href="https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/">Blocking & Unblocking Clients</a> <span class="light-silver">(3,744 words)</span></div>
-                      <div class="f5">Generating & Co-Creating Strategy in the Theatre of Work</div>
-                  </div>                                      
-        
-                  <div class="pb4">
-                      <div class="f3 light-silver">Navigating Power & Status <span class="light-silver">(in draft)</span></div>
-                      <div class="f5">Mapping the org chart and mastering the skill of status switching</div>
-                  </div>
-
-                  <div class="pb4">
-                      <div class="f3 light-silver">Contrary Consultants & Human Capacity <span class="light-silver">(in draft)</span></div>
-                      <div class="f5">How to be comfortably weird as a consultant</div>
-                  </div>                  
-                  
-              </div>
-          
-            </section>           
-
-            <section class="w-100 cf mt5">
-
-                <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">7. Kairos & Chronos</h3>
-            
-                <div class="w-50-l fl pt3 pr3">
-                  <p class="mt0"><em>A crucial mistake many consultants make is to act like an employee. Instead consultants should seek to play games employees can't play. Notably time management and just-in-time work open up possibilities.</em></p>
-                </div>
-            
-                <div class="w-50-l fl pa3-l pv3">                                                  
-          
-                    <div class="pb4">
-                        <div class="f3 light-silver">Kairos consulting part 1 - The Consultant Out of Time <span class="light-silver">(in draft)</span></div>
-                        <div class="f5">Mastering kairos time to deliver just-in-time consulting</div>
-                    </div>
-
-                    <div class="pb4">
-                        <div class="f3 light-silver">Kairos consulting part 2 - The Jigsaw of Independence <span class="light-silver">(in draft)</span></div>
-                        <div class="f5">Balancing time management and energy management as an independent</div>
-                    </div>                    
-                    
-                </div>
-            
-              </section> 
-
-              <section class="w-100 cf mt5">
-
-                  <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">8. The Inner Life of Consultants</h3>
-              
-                  <div class="w-50-l fl pt3 pr3">
-                    <p class="mt0"><em>Being independent comes with the burden of managing your own identity and your own career. How do you create narrative structures and self-reflection to avoid going crazy.</em></p>
-                  </div>
-              
-                  <div class="w-50-l fl pa3-l pv3">                                                  
-            
-                      <div class="pb4">
-                          <div class="f3"><a href="https://tomcritchlow.com/2019/02/27/i-consultant/">I, Consultant</a> <span class="light-silver">(2,700 words)</span></div>
-                          <div class="f5">The struggle to define who you are as an independent and the promise of charging more for your work</div>
-                      </div>   
-  
-                      <div class="pb4">
-                          <div class="f3 light-silver">Compound Narrative <span class="light-silver">(in draft)</span></div>
-                          <div class="f5">How to create a narrative arc through your career as an independent</div>
-                      </div>                    
-                      
-                  </div>
-              
-                </section>               
-
+    {% endif %}
   </div>
 
+  {% endif %}
 
-<!-- SVG Icons are from https://simpleicons.org -->
-<footer style="border-top: 1px dotted grey;" class="tc cf mt6">
-  <div class="w-100 ph3 pv5 ">
+<div class="f5 i">
+  This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
+</div>
 
-    <a class="link black-60 bg-transparent hover-black-80 inline-flex items-center ma2 tc br2 pa2" href="https://linkedin.com title="LinkedIn">
-      <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51V7.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"/></svg>
-      <span class="f6 ml3 pr2">LinkedIn</span>
-    </a>
-    <a class="link black-60 bg-transparent hover-black-80 inline-flex items-center ma2 tc br2 pa2" href="https://twitter.com/mrmrs_" title="Twitter">
-      <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.375-1.337.648-2.085.795-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.416-.02-.617-.058.418 1.304 1.63 2.253 3.067 2.28-1.124.88-2.54 1.404-4.077 1.404-.265 0-.526-.015-.783-.045 1.453.93 3.178 1.474 5.032 1.474 6.038 0 9.34-5 9.34-9.338 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z" fill-rule="nonzero"/></svg>
-      <span class="f6 ml3 pr2">Twitter</span>
-    </a>
+<script>
 
-  </div>
-</footer>
+    $( document ).ready(function() {
+        var footnotes = $(".footnotes p");
+        $("sup").each(function(index){
+            var fn = footnotes[index].removeChild(footnotes[index].lastChild);
+            $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
+        });   
+        $(".footnotes").hide()
+    });    
     
-</body>
+    
+    </script>
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": false,
+    "theme": "clean"
+  }
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+<script type="text/javascript">
+
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+    }
+  };
+};
+
+</script>
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+
+
+
+<div>
+<details class="webmentions">
+  <summary>Webmention stuff</summary>
+  <ul class="webmentionlikes">
+    Likes <span id="like-count"></span>:
+  </ul>
+  <ul class="webmentionreposts">
+    Reposts:
+  </ul>
+  <ul class="webmentionreplies">
+    Replies:
+  </ul>
+</details>
+</div>
+
+
+<script>
+function webMentions(json){
+  var likes = [];
+  var reposts = [];
+  var replies = [];
+    for(var i in json.links){
+      if(json.links[i].activity.type == "like"){
+        likes.push(json.links[i]);
+      };
+      if(json.links[i].activity.type == "repost" || json.links[i].activity.type == "link" ){
+        reposts.push(json.links[i]);
+      };
+      if(json.links[i].activity.type == "reply"){
+        replies.push(json.links[i]);
+      };              
+    };
+
+  renderLikes(likes);
+  renderReposts(reposts);
+  renderReplies(replies);
+
+  };
+
+$.ajax({
+  url: "https://webmention.io/api/mentions?perPage=500&jsonp=webMentions&target="+window.location.href,
+  dataType: "jsonp",
+  jsonp: false,
+  jsonpCallback: "webMentions"
+});
+
+function renderLikes(likes) {
+  var label = likes.length + (likes.length === 1 ? ' like' : ' likes');
+  document.getElementById('like-count').innerHTML = label;
+
+  for(var i in likes){
+    $(".webmentionlikes").append(likes[i].data.author.name);
+  }
+
+}
+
+function renderReposts(){
+
+};
+
+function renderReplies(replies){
+  for(var i in replies){
+    $(".webmentionreplies").append("<li><a href='"+replies[i].source+"'>"+replies[i].source+"</a></li>");
+  }
+};
+
+</script>
+
+
+
+
+</div>
+</div>
+
+
+
+{% include footer.html %}
