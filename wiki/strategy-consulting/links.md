@@ -98,3 +98,9 @@ This is wrong! This is the outcome from not engaging in status switching and str
 >A workshop created for NEW INC members, Strategic Digital Gardening teaches attendees how to approach their digital marketing and communications as a "digital gardener." Taking ecosystems and growth cycles as key points of inspiration, digital gardening is a process for manifesting goals through community cultivation and intentional seed planting.
 
 source: [Strategic Digital Gardening for NEW INC – Willa Koerner](https://willakoerner.com/project/digital-gardening)
+
+--
+
+> Around two years ago, we realized that we needed to provide clarity around progression at UC and in the broader context of individual careers. For a variety of factors — one being that we hire entrepreneurial, inquisitive, ambitious types — we were getting a lot of questions about what comes next at UC. What’s required to make Senior Strategist? When should I expect a raise? What do I need to do to get better? How do the skills I’m building here contribute to my story as an individual?
+
+Source: [The Undercurrent Skills Maturity Matrix](https://www.cpj.fyi/the-undercurrent-skills-maturity-matrix/) by @clayparkerjones
