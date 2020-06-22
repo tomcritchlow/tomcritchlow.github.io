@@ -38,6 +38,10 @@ Even before I start working with a client in the very first meeting I always mak
 
 The more you understand an organization the better you can understand context{% include tufte-sn.html id="waysseeing" content="I wrote a whole post called <a href='https://tomcritchlow.com/2018/10/29/ways-of-seeing/'>ways of seeing</a> that explores ideas around sensemaking inside an organization" %}.
 
+The more you understand an organization the better you can understand context[^context].
+
+[^context]: I wrote a whole post called [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
+
 ## Overlapping contexts
 
 So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts{% include tufte-sn.html id="obvious" content="This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement." %}:
