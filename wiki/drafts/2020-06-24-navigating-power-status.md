@@ -70,7 +70,7 @@ I start on day zero with a crude org chart sketched in my notebook, and over the
 
 [^crazy]: Take a scroll through [crazywalls.tumblr.com](https://crazywalls.tumblr.com/) and imagine every image a consulting gig!
 
-##Understanding Localized Power
+## Understanding Localized Power
 
 Once you’ve mapped a few organizations - you begin to realize some key insights. Firstly - power is often centralized in a very small number of people. And these people are not always found in the c-suite.
 
@@ -122,21 +122,21 @@ Power potholes and localized power nodes matter for full-time employees too. Emp
 
 The consultant on the other hand, is on a tighter timeline and often operating cross-functionally far more than traditional employees so understanding these dynamics, and understanding them quickly is critically important to effective strategy work.
 
-<span class="tc">&</span>
+<div class="tc i">&</span>
 
 To wrap part 1 of this piece - it’s clear that to get things done inside a client’s organization you need to create your own map. Something more nuanced than the org chart that maps the flow of influence and power. Once you have this map you can better understand how things get done.
 
 This perspective mostly treats the consultant as a silent observer. Now, in part 2 let’s more closely examine the role the consultant plays as an outsider entering and disrupting these power flows.
 
-<span class="tc">&</span>
+<div class="tc i">&</span>
 
 # Part 2: The Consultant Has No Place on the Map
 
 Understanding the flows of power on the map is one thing - understanding your own place in those flows is another entirely.
 
-As we map the org chart and the network graph we begin to see: the consultant has no place on the map.
+As we map the org chart and the network graph we begin to see: **the consultant has no place on the map**.
 
-Capacity building consulting requires necessarily working across functions, teams and people. Momentum for new capacity inside organizations comes from getting buy-in and wind in your sails - which requires some kind of strolling across the organization[^strolling].
+**Capacity building consulting requires necessarily working across functions, teams and people.** Momentum for new capacity inside organizations comes from getting buy-in and wind in your sails - which requires some kind of strolling across the organization[^strolling].
 
 [^strolling]: An informal knowledge of what’s going on in different neighborhoods inside the org. Sometimes literally strolling.
 
@@ -150,17 +150,19 @@ For employees, status relationships are often stable and clear inside organizati
 
 But the consultant has no place on the org chart - in fact they “move around the org chart” constantly.
 
-Example: an 18 month engagement might see me working across design, product, editorial, strategy, content, marketing etc over the course of the engagement as various projects and needs arise. This can be a mix of senior projects working with the VP Product or a small fast project working directly with the freelance content writers. The high/low and lateral movement across the org chart can be far and wide.
+*Example: an 18 month engagement might see me working across design, product, editorial, strategy, content, marketing etc over the course of the engagement as various projects and needs arise. This can be a mix of senior projects working with the VP Product or a small fast project working directly with the freelance content writers. The high/low and lateral movement across the org chart can be far and wide.*
 
 This lateral movement across the map requires a minimum social capital and charm to be able to appear in meetings or across teams without offending stakeholders. Winning hearts and minds across the org. This is a very high stakes and nuanced game[^highstakes].
 
 [^highstakes]: Some examples of how this is high-stakes. You can get stuck when you show up - becoming a og fitting into an overstretched team. Or get pigeonholed as having a single skill to offer. These are difficult traps to avoid and spot coming. Thanks to [Alex Moseman](https://twitter.com/alexmoseman) for highlighting these issues.
 
 The only way to play this high-stakes game is by realizing and recognizing status games.
-Status Games & Transactions
+
+## Status Games & Transactions
+
 Because the consultant has no place on the map - they have no assigned status. This is unnerving at first and brings with it a unique challenge - the consultant has to set their own status.
 
-It can be a shock to realize that your status relationships are not fixed - you have to set your status relationship with each person you meet individually.
+It can be a shock to realize that your status relationships are not fixed - **you have to set your status relationship with each person you meet individually**.
 
 This means that you might end up with strange non-continuous status relationships - i.e. you might be *above* the status of the VP of marketing in one context, but *below* the status of a marketing manager in another:
 
@@ -168,43 +170,51 @@ This means that you might end up with strange non-continuous status relationship
  
 While this might seem esoteric - status has ultimate power in determining your social interactions. Here’s a quote from the book Impro by Keith Johnstone:
 
-‘Try to get your status just a little above or below your partner's,' I said, and I insisted that the gap should be minimal. The actors seemed to know exactly what I meant and the work was transformed. The scenes became 'authentic', and actors seemed marvellously observant. Suddenly we understood that every inflection and movement implies a status, and that no action is due to chance, or really 'motiveless'. It was hysterically funny, but at the same time very alarming.
+>‘**Try to get your status just a little above or below your partner's,' I said, and I insisted that the gap should be minimal**. The actors seemed to know exactly what I meant and the work was transformed. The scenes became 'authentic', and actors seemed marvelously observant. **Suddenly we understood that every inflection and movement implies a status, and that no action is due to chance, or really 'motiveless'**. It was hysterically funny, but at the same time very alarming.
 
 There is a lot to unpack once you start noticing status transactions, particularly once you start to think of status as something that can be changed (again, from Impro):
 
-All our secret manoeuvrings were exposed. If someone asked a question we didn't bother to answer it, we concentrated on why it had been asked. No one could make an 'innocuous' remark without everyone instantly grasping what lay behind it. Normally we are 'forbidden' to see status transactions except when there's a conflict. In reality status transactions continue all the time. In the park we'll notice the ducks squabbling, but not how carefully they keep their distances when they are not.
+>All our secret maneuverings were exposed. If someone asked a question we didn't bother to answer it, we concentrated on why it had been asked. No one could make an 'innocuous' remark without everyone instantly grasping what lay behind it. **Normally we are 'forbidden' to see status transactions except when there's a conflict. In reality status transactions continue all the time**. In the park we'll notice the ducks squabbling, but not how carefully they keep their distances when they are not.
 
 As you establish status with everyone you meet your aim should be a “minimal” status gap, as Keith suggests. Aiming to be slightly above or slightly below their status provides the most fruitful and effective environment to get work done.
 
 But when to set high status and when to set low status?
-Strategy, Stewardship & Status
-I’ve written before about my mental model for retained strategy projects: strategy & stewardship. (If you’re catching up read this section: strategy & stewardship: a framework for retained clients.)
 
-What’s interesting about these two modes of work is that they often require blending different high/low status ideas.
+## Strategy, Stewardship & Status
+
+I’ve written before about my mental model for retained strategy projects: strategy & stewardship[^stewardship].
+
+[^stewardship]: If you’re catching up read this section: [strategy & stewardship: a framework for retained clients](https://tomcritchlow.com/2019/04/04/the-strategic-independent/#strategy-and-stewardship---a-framework-for-retaining-clients-for-a-long-time)
+
+What’s interesting about these two modes of work is that **they often require blending different high/low status ideas**.
 
 Effective work looks something like this status 2x2:
 
 
 
-Working with executives: strategy is default high status, stewardship is default low status.
+**Working with executives: strategy is default high status, stewardship is default low status**.
 
-Working with employees: strategy is default low status, stewardship is default high status.
+**Working with employees: strategy is default low status, stewardship is default high status**.
 
 Let’s unpack that:
-Strategy Status
+
+### Strategy Status
+
 During periods of strategy work there are typically two modes of working:
 
-Gathering insights, data and knowledge from across the org
-Presenting work to execs or sparring with execs
+1. Gathering insights, data and knowledge from across the org
+2. Presenting work to execs or sparring with execs
 
 In 1) the consultant has to stroll across the organization and attempt to get knowledge, buy-in and insights from employees who likely have little clue who the consultant is, and have not worked with them before. Personally - I find the mode of low status most helpful here. Attempting not to assert authority but rather persuade that helping me gather information is useful for them too.
 
 Conversely - in 2) I find the correct posture is high status. Executives almost universally thrive on confidence and presenting a strategy roadmap usually requires equal parts real experience and some projected confidence and enthusiasm for the ideas.
-Stewardship Status
+
+### Stewardship Status
+
 When working on stewardship projects there are typically two modes of working:
 
-Running processes, project management & operations
-Reporting & communicating those projects back to the exec team
+1. Running processes, project management & operations
+2. Reporting & communicating those projects back to the exec team
 
 Here - the status is flipped. For 1) the most useful status is high status - essentially acting like a manager and leader to ensure that the wheels are turning, projects are shipping on time etc. Providing leadership and clarity for teams you’re working with that “things are OK” and “here’s why we’re doing this”.
 
@@ -214,11 +224,12 @@ Remember that “high status” is more correctly “just above the status of th
 
 Why does this all work?
 
-Working with Executives - long term retainers work best when you start high status, i.e. where you can be the expert in the room. But over time no executive wants to *stay* low status so you have to switch at some point to them telling you what to do. This is a direct result of shifting from strategy to stewardship.
+**Working with Executives** - long term retainers work best when you start high status, i.e. where you can be the expert in the room. But over time no executive wants to *stay* low status so you have to switch at some point to them telling you what to do. This is a direct result of shifting from strategy to stewardship.
 
-Working with Employees - every employee is threatened by external consultants coming in so you have to begin by playing low status - this way you can gain their confidence. Then as you increasingly gain context for the business and knowledge of how they work you can switch to high status to begin owning stewardship initiatives you outlined early.
+**Working with Employees** - every employee is threatened by external consultants coming in so you have to begin by playing low status - this way you can gain their confidence. Then as you increasingly gain context for the business and knowledge of how they work you can switch to high status to begin owning stewardship initiatives you outlined early.
 
-Fast Status Switching & Improv Strategy
+## Fast Status Switching & Improv Strategy
+
 There’s one more wrinkle. If we recall this chart of strategy (green) and stewardship (blue):
 
 
@@ -229,32 +240,34 @@ And we know that strategy relies on spontaneous moments (see: the serendipity de
 
 A defining characteristic of executives is the ability to hold a short-term and long-term view at the same time. So a single interaction might blend both short-term priorities, tasks, operations and long-term vision and mission questions.
 
-So as a consultant operating in the theatre of work, it’s possible that you have to switch status between tasks in a single day, or even harder - switch status within a single conversation!
+So as a consultant operating in the theatre of work, it’s possible that you have to switch status between tasks in a single day, **or even harder - switch status within a single conversation**!
 
 Let’s take a look at this sample conversation to illustrate (highly simplified and exaggerated):
 
-Exec: Hey, when are we presenting the roadmap to the board?
+*Exec: Hey, when are we presenting the roadmap to the board?*
 
-Consultant: The meeting is set for next Thursday, but that means Mark the VP of product can’t make it because they’re on vacation.
+*Consultant: The meeting is set for next Thursday, but that means Mark the VP of product can’t make it because they’re on vacation.*
 
-Exec: Ok, do we have everything we need from Mark before he heads out on vacation?
+*Exec: Ok, do we have everything we need from Mark before he heads out on vacation?*
 
-Consultant: Yes. But actually I think we should remove the product section of the roadmap. I think we’re already presenting a complicated roadmap and we don’t have enough confidence in the product parts of the roadmap. I think it  would undermine our confidence that we have elsewhere in the org. Let’s take that section and trim it down to a few slides to show the full roadmap and impact as coming later.
+*Consultant: Yes. But actually I think we should remove the product section of the roadmap. I think we’re already presenting a complicated roadmap and we don’t have enough confidence in the product parts of the roadmap. I think it  would undermine our confidence that we have elsewhere in the org. Let’s take that section and trim it down to a few slides to show the full roadmap and impact as coming later.*
 
 Can you spot the status switch? Let’s mark up the same conversation:
 
-Exec: Hey, when are we presenting the roadmap to the board?
+*Exec: Hey, when are we presenting the roadmap to the board?*
 
-Consultant [low status]: The meeting is set for next Thursday, but that means Mark the VP of product can’t make it because they’re on vacation.
+*<span class="blue">Consultant [low status]: The meeting is set for next Thursday, but that means Mark the VP of product can’t make it because they’re on vacation.</span>*
 
-Exec: Ok, do we have everything we need from Mark before he heads out on vacation?
+*Exec: Ok, do we have everything we need from Mark before he heads out on vacation?*
 
-Consultant [high status]: Yes. But actually I think we should remove the product section of the roadmap. I think we’re already presenting a complicated roadmap and we don’t have enough confidence in the product parts of the roadmap. I think they would undermine our confidence that we have elsewhere in the org. Let’s take that section and trim to a few slides to show the full roadmap and impact as coming later.
+*<span class="red">Consultant [high status]: Yes. But actually I think we should remove the product section of the roadmap. I think we’re already presenting a complicated roadmap and we don’t have enough confidence in the product parts of the roadmap. I think they would undermine our confidence that we have elsewhere in the org. Let’s take that section and trim to a few slides to show the full roadmap and impact as coming later.</span>*
 
 Status-switching mid-conversation is a learned skill and much like a good consultant has to master context switching they must also master status switching.
-Conclusion
+
+## Conclusion
+
 Navigating a client’s organization requires appreciating that the org chart is a political map, drawn by those at the top of the organization and holding certain symbolic and functional power. But also only crudely (if at all) mapping to the actual power flows and status games inside an organization.
 
 The consultant - operating on a faster feedback loop than an employee - needs to learn how to map the org, sense the flow of power, and set the correct status all within a short span of time in order to get things done.
 
-Thanks to Toby Shorin, Brian Dell, Sarah Hunt, Ollie Glass, Alex Moseman, Stew Fortier, Jesse Evers, Katy Cook, Paul Millerd, Alexa Scordato & Doug Van Spronsen for reviewing early drafts of this piece.
+Thanks to Toby Shorin, Brian Dell, Sarah Hunt, Ollie Glass, Alex Moseman, Katy Cook, Paul Millerd, Alexa Scordato & Doug Van Spronsen for reviewing early drafts of this piece.
