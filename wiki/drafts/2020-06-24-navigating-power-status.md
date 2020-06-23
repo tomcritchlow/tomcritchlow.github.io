@@ -56,7 +56,7 @@ The org chart of boxes and lines shows reporting structures in a legible way, bu
 
 Layering influence on top of a network topology starts to give a clearer picture of what’s really going on:
 
-
+![](/images/carto-network-graph.png)
 
 This illustration comes from [a fascinating analysis that Carta conducted examining the influence inside their organization](https://medium.com/@henrysward/the-shadow-org-chart-cfcdd644575f).
 

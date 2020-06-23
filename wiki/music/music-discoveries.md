@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Mickey Mouse Operation
+   author: Little People
+   image: https://img.youtube.com/vi/uSIbpqNB5Fo/sddefault.jpg
+   notes: Spring jazz
+   href: https://album.link/us/i/180941199
  - title: Scenery
    author: Ryo Fukui
    image: https://img.youtube.com/vi/Hrr3dp7zRQY/sddefault.jpg
