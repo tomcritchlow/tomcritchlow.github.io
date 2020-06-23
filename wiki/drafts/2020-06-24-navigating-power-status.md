@@ -3,6 +3,7 @@ layout: strategy
 title: Navigating Power & Status In the Shadow Org Chart
 subtitle: The Consultant Has No Place on the Map
 tags: strategy
+og: https://tomcritchlow.com/images/yes-and-og-4.png
 ---
 
 In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building rather than problem solving opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
