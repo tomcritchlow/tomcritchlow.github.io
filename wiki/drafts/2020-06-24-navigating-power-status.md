@@ -124,9 +124,9 @@ The consultant on the other hand, is on a tighter timeline and often operating c
 
 <div class="tc i">&</div>
 
-To wrap part 1 of this piece - it’s clear that to get things done inside a client’s organization you need to create your own map. Something more nuanced than the org chart that maps the flow of influence and power. Once you have this map you can better understand how things get done.
+*To wrap part 1 of this piece - it’s clear that to get things done inside a client’s organization you need to create your own map. Something more nuanced than the org chart that maps the flow of influence and power. Once you have this map you can better understand how things get done.*
 
-This perspective mostly treats the consultant as a silent observer. Now, in part 2 let’s more closely examine the role the consultant plays as an outsider entering and disrupting these power flows.
+*This perspective mostly treats the consultant as a silent observer. Now, in part 2 let’s more closely examine the role the consultant plays as an outsider entering and disrupting these power flows.*
 
 <div class="tc i">&</div>
 
