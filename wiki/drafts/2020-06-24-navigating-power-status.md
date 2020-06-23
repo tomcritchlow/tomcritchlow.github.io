@@ -154,7 +154,7 @@ But the consultant has no place on the org chart - in fact they “move around t
 
 This lateral movement across the map requires a minimum social capital and charm to be able to appear in meetings or across teams without offending stakeholders. Winning hearts and minds across the org. This is a very high stakes and nuanced game[^highstakes].
 
-[^highstakes]: Some examples of how this is high-stakes. You can get stuck when you show up - becoming a og fitting into an overstretched team. Or get pigeonholed as having a single skill to offer. These are difficult traps to avoid and spot coming. Thanks to [Alex Moseman](https://twitter.com/alexmoseman) for highlighting these issues.
+[^highstakes]: Some examples of how this is high-stakes. You can get stuck when you show up - becoming a cog fitting into an overstretched team. Or get pigeonholed as having a single skill to offer. These are difficult traps to avoid and spot coming. Thanks to [Alex Moseman](https://twitter.com/alexmoseman) for highlighting these issues.
 
 The only way to play this high-stakes game is by realizing and recognizing status games.
 
