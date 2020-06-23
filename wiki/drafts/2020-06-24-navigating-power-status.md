@@ -167,6 +167,8 @@ It can be a shock to realize that your status relationships are not fixed - **yo
 This means that you might end up with strange non-continuous status relationships - i.e. you might be *above* the status of the VP of marketing in one context, but *below* the status of a marketing manager in another:
 
 ![](/images/status-lines-3.png)
+
+![](/images/status-lines.svg)
  
 While this might seem esoteric - status has ultimate power in determining your social interactions. Here’s a quote from the book Impro by Keith Johnstone:
 
@@ -191,6 +193,8 @@ What’s interesting about these two modes of work is that **they often require 
 Effective work looks something like this status 2x2:
 
 ![](/images/status-2x2.png)
+
+![](/images/status-2x2.svg)
 
 **Working with executives: strategy is default high status, stewardship is default low status**.
 
