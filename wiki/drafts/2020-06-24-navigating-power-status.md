@@ -190,7 +190,7 @@ What’s interesting about these two modes of work is that **they often require 
 
 Effective work looks something like this status 2x2:
 
-
+![](/images/status-2x2.png)
 
 **Working with executives: strategy is default high status, stewardship is default low status**.
 
