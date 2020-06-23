@@ -8,7 +8,7 @@ og: https://tomcritchlow.com/images/yes-and-og-4.png
 
 In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building rather than problem solving opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
 
-*“Long-term fulfillment of social obligations, as part of a community of practice.”*
+> “Long-term fulfillment of social obligations, as part of a community of practice.”
 
 [^capacity]: From this foundational article in The Systems Thinker: [Consultants as problem solvers or capacity builders?](https://thesystemsthinker.com/consultants-as-problem-solvers-or-capacity-builders/)
 
