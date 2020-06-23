@@ -15,9 +15,9 @@ Unlike problem solving - capacity building fundamentally requires the consultant
 
 The consultant - operating on a faster feedback loop than an employee - needs to learn how to map the org, sense the flow of power, and set the correct status all within a short span of time in order to get things done.
 
-**Mapping & navigating an organization requires appreciating that the org chart is a political map, drawn by those at the top of the organization and holding certain symbolic and functional power. But also only crudely (if at all) mapping to the actual power flows and status games inside an organization.
+**Mapping & navigating an organization requires appreciating that the org chart is a political map, drawn by those at the top of the organization and holding certain symbolic and functional power. But also only crudely (if at all) mapping to the actual power flows and status games inside an organization.**
 
-Getting things done and changing an organization begins with understanding the power dynamic of the people and teams involved.**
+**Getting things done and changing an organization begins with understanding the power dynamic of the people and teams involved.**
 
 Let’s start with the org chart and gradually peel away the layers to get to deeper concepts like power potholes and status games...
 
@@ -25,7 +25,7 @@ Let’s start with the org chart and gradually peel away the layers to get to de
 
 At the beginning of an engagement the org chart is all we have. Mapping an org chart starts simple and scrappy and rapidly evolves to something more useful. Here’s a sample sketch to illustrate how it works (and yes I often literally sketch these in my notebook):
 
-
+![](/images/org-chart-day-0.jpg)
 
 **Day 0 - initial contact** - typically I don’t get much more information than the position title of the person looking to hire - “VP Marketing” or something similar.
 
@@ -33,7 +33,7 @@ At the beginning of an engagement the org chart is all we have. Mapping an org c
 
 However, especially in cases of  embedded work where I’m on-site with the client, by day 15 my understanding of the org chart might look something like this:
 
-
+![](/images/org-chart-day-15.jpg)
 
 At this point our fictional org chart map starts to show some new features:
 
