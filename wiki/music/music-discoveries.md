@@ -6,7 +6,7 @@ books:
  - title: Mickey Mouse Operation
    author: Little People
    image: https://img.youtube.com/vi/uSIbpqNB5Fo/sddefault.jpg
-   notes: Spring jazz
+   notes: Cool beats. Blockhead-esque.
    href: https://album.link/us/i/180941199
  - title: Scenery
    author: Ryo Fukui
