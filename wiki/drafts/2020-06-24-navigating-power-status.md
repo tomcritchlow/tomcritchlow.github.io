@@ -1,6 +1,6 @@
 ---
 layout: strategy
-title: Navigating Power & Status To Get Things Done
+title: Navigating Power & Status In the Shadow Org Chart
 subtitle: The Consultant Has No Place on the Map
 tags: strategy
 ---
@@ -270,4 +270,4 @@ Navigating a client’s organization requires appreciating that the org chart is
 
 The consultant - operating on a faster feedback loop than an employee - needs to learn how to map the org, sense the flow of power, and set the correct status all within a short span of time in order to get things done.
 
-Thanks to Toby Shorin, Brian Dell, Sarah Hunt, Ollie Glass, Alex Moseman, Katy Cook, Paul Millerd, Alexa Scordato & Doug Van Spronsen for reviewing early drafts of this piece.
+*Thanks to Toby Shorin, Brian Dell, Sarah Hunt, Ollie Glass, Alex Moseman, Katy Cook, Paul Millerd, Alexa Scordato & Doug Van Spronsen for reviewing early drafts of this piece.*
