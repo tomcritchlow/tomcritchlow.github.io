@@ -1,18 +1,18 @@
 ---
 layout: strategy
-title: Navigating Power & Status In the Shadow Org Chart
-subtitle: The Consultant Has No Place on the Map
+title: Navigating Power & Status
+subtitle: How to get things done inside organizations by understanding power potholes and status switching
 tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-4.png
 ---
 
-In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building rather than problem solving opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
+In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
 
 > “Long-term fulfillment of social obligations, as part of a community of practice.”
 
 [^capacity]: From this foundational article in The Systems Thinker: [Consultants as problem solvers or capacity builders?](https://thesystemsthinker.com/consultants-as-problem-solvers-or-capacity-builders/)
 
-Unlike problem solving - capacity building fundamentally requires the consultant to learn how to get things done within the “community of practice” of the client’s organization -  working with varied teams, people and projects.
+Unlike problem solving - capacity building fundamentally requires the consultant to learn how to get things done within the “community of practice” of the client’s organization -  working across a wide range of teams, people and projects.
 
 The consultant - operating on a faster feedback loop than an employee - needs to learn how to map the org, sense the flow of power, and set the correct status all within a short span of time in order to get things done.
 
