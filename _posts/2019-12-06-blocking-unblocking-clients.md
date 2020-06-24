@@ -213,4 +213,4 @@ As I reflect back on the most effective consulting engagements I've worked on it
 
 And the output? Usually the most ordinary of strategies that simply make deliberate movement towards important new capacities.
 
-Up next in the *Yes! And…* series we look at a new skill consultants need to learn: status switching.
+Up next in the *Yes! And…* series we look at a new skill consultants need to learn: [status switching](https://tomcritchlow.com/2020/06/24/navigating-power-status/).
