@@ -50,6 +50,21 @@
 {% endif %}
 
 {% endif %}
+
+{% if page.layout == 'strategy' %}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tomcritchlow">
+<meta name="twitter:creator" content="@tomcritchlow">
+<meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
+<meta name="twitter:description" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.content | truncatewords:20 | strip_html}}{% endif %}">
+{% if page.og %}
+<meta property="twitter:image"  content="{{page.og}}" />
+{% else %}
+<meta name="twitter:image" content="http://tomcritchlow.com/images/green.png">
+{% endif %}
+
+{% endif %}
  
 <meta name="pocket-site-verification" content="d481265d27c9597cbdc003abbf1994" />
 
