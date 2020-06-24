@@ -233,7 +233,7 @@ Why does this all work?
 
 There’s one more wrinkle. If we recall this chart of strategy (green) and stewardship (blue):
 
-
+![](/images/strategy-execution.png)
 
 We see that neither line ever truly hits zero - there’s always some combination of strategy and stewardship.
 
