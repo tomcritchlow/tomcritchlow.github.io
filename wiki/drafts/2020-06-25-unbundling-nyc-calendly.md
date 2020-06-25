@@ -20,7 +20,7 @@ So I thought I'd take a look at my own stats:
 
 This is a central piece of Venkatesh's data - so let's take a look at my own:
 
-![](/images/chart-coffe.svg)
+![](/images/chart-coffee.svg)
 
 I'm defining these as:
 
@@ -33,7 +33,7 @@ I'm defining these as:
 
 As interesting as *how* I met clients is *why* I met them. Let's examine where clients come from:
 
-![](images/chart-client-source.svg)
+![](/images/chart-client-source.svg)
 
 I'm defining these as:
 
