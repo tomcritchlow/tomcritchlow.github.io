@@ -12,3 +12,7 @@
 [Cat's in the cradle](https://www.youtube.com/watch?v=KUwjNBjqR-c)
 
 [fuck this writing is raw](https://www.briannawolfson.com/nonfiction)
+
+--
+
+<https://www.jefftk.com/news/kids>
