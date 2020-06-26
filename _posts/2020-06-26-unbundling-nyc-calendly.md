@@ -18,7 +18,7 @@ So I thought I'd take a look at my own stats:
 
 ## How Many Clients Come from Random Coffee Meetings
 
-This is a central piece of Venkatesh's data - so let's take a look at my own:
+This is a central piece of Venkatesh's data - so let's take a look at my own. This is almost 6 years of indie consulting - all %s are revenue:
 
 ![](/images/chart-medium.svg)
 
