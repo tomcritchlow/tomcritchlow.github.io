@@ -74,7 +74,8 @@ So let's try an experiment. Here's [a link to my calendly](https://calendly.com/
 
 - Executive sparring and finding sparring clients
 - The state of media, content companies and networked writing
-- Indie consulting
+- Indie consulting broadly
+- Self publishing and book writing / producing
 
 But.. Take a poke around my site. If you think chatting will be good grab some time[^limited].
 
