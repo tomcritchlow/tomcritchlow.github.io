@@ -62,7 +62,13 @@ Perhaps there's something to be learned from building institutions. How might yo
 
 Let's return to Venaktesh's piece for a second. He's analyzing these numbers to understand the link between physical location and access to consulting leads. In pre-covid times the casual coffee is the default networking tool. I've done lots of them (despite them not leading to a ton of work).
 
-In post-covid times what is the alternative? I've certainly increased the number of "casual zooms". Can they replace casual coffees? Perhaps - especially if you use a tool like Calendly. I've found that using calendly has de-risked and de-formalized the meeting so that it's much easier to schedule and set up a casual chat.
+<blockquote class="quoteback" darkmode="" data-title="Where%20Should%20You%20Live%3F" data-author="Venkatesh Rao" cite="https://artofgig.substack.com/p/where-should-you-live">
+Casual coffees are encounters with low marginal cost around existing activity
+<footer>Venkatesh Rao <cite><a href="https://artofgig.substack.com/p/where-should-you-live">https://artofgig.substack.com/p/where-should-you-live</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+In post-covid times what is the alternative? I've certainly increased the number of "casual zooms". Can they replace casual coffees? Perhaps - especially if you use a tool like Calendly. I've found that using calendly I've managed to recreate this "low marginal cost" feeling and de-risked and de-formalized the meeting so that it's much easier to schedule and set up a casual chat.
 
 So let's try an experiment. Here's [a link to my calendly](https://calendly.com/tomcritchlow/tom-chat). Feel free to grab some time. I'm most interested in:
 
