@@ -139,15 +139,7 @@ source: [Shannon Mattern on Twitter](https://twitter.com/shannonmattern/status/1
 
 > **Sketching Science in the Seventeenth Century**
 > ================================================
-> 
-> **Michael S. Mahoney**
-> ----------------------
-> 
-> **Princeton University**
-> ------------------------
-> 
->   
-> 
+>
 > What constitutes a sketch? We think at first of drawings and diagrams, but there are other forms of sketching. The OED offers several pertinent uses of the term, none of them earlier than the late 17th century. The first refers to the visual arts: "A rough drawing or delineation of something, giving the outlines or prominent features without the detail, esp. one intended to serve as the basis of a more finished picture, or to be used in its composition; a rough draught or design. Also, in later use, a drawing or painting of a slight or unpretentious nature." The second extends it to literary creations: "A brief account, description, or narrative giving the main or important facts, incidents, etc., and not going into the details; a short or superficial essay or study, freq\[uently\] in pl\[ural\] as a title." A third, rare usage, makes a sketch simply "\[t\]he general plan or outline, the main features, of anything". One can find all three sorts of sketches at work in the formation of the new science of the seventeenth century.
 
 Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/mike/articles/whysketch/whysketch.html)
