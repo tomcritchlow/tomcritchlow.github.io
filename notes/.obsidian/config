@@ -93,5 +93,6 @@
     ],
     "direction": "horizontal",
     "width": 300
-  }
+  },
+  "spellcheck": true
 }
