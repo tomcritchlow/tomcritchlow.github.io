@@ -48,13 +48,15 @@ body{
   
   {{content}}
                                     
-      <div class="bg-washed-green pa2 bi-links">
-        Notes linking to this one:
 
-      </div>
 
 </div>
 </div>
+
+<div class="pa2 bi-links">
+    Notes linking to this one:
+
+  </div>
 
 <script>
     $( document ).ready(function() {
@@ -80,7 +82,10 @@ body{
           for(var i in notes_array[note].links){
             console.log(notes_array[note].links[i]);
             if(notes_array[note].links[i] == "[["+page_name+"]]"){
-             $(".bi-links").append("<div><a href='"+notes_array[note].url+"'>"+notes_array[note].url+"</a></div>");
+             $(".bi-links").append(`<div class="bg-washed-green pa2">
+             <a href="${notes_array[note].url}">${notes_array[note].url}</a>
+             </div>
+             `);
               console.log("match!")
             }
           }
