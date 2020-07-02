@@ -53,7 +53,7 @@ body{
 </div>
 </div>
 
-<div class="pa2 bi-links">
+<div class="mw7 center pa2 bi-links">
     Notes linking to this one:
 
   </div>
@@ -82,7 +82,7 @@ body{
           for(var i in notes_array[note].links){
             console.log(notes_array[note].links[i]);
             if(notes_array[note].links[i] == "[["+page_name+"]]"){
-             $(".bi-links").append(`<div class="bg-washed-green pa2">
+             $(".bi-links").append(`<div class="bg-washed-green shadow-4 br4 pa2">
              <a href="${notes_array[note].url}">${notes_array[note].url}</a>
              </div>
              `);
