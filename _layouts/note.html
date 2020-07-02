@@ -60,7 +60,7 @@ body{
 
 <script>
     $( document ).ready(function() {
-      var imageregex = !/\[\[(.+?)\]\]/g;
+      var imageregex = /\!\[\[(.+?)\]\]/g
       var linkregex = /\[\[(.+?)\]\]/g;
       var notes_array = [];
       var pagelinks_array = [];
@@ -68,8 +68,8 @@ body{
 
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(linkregex));  
-      return html.replace(imageregex, "<img src='$1' />");
-      //return html.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      var newhtml = html.replace(imageregex, "<img src='$1' />");
+      return newhtml.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
       });
       
       $.getJSON("/notes.json", function(results){
