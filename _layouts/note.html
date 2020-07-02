@@ -68,8 +68,8 @@ body{
 
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(linkregex));  
-      html.replace(imageregex, "<img src='$1' />");
-      return html.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      return html.replace(imageregex, "<img src='$1' />");
+      //return html.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
       });
       
       $.getJSON("/notes.json", function(results){
