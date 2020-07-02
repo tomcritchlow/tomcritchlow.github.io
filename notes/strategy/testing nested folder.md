@@ -1,0 +1,3 @@
+What happens here?
+
+[[index]]
