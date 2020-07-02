@@ -68,7 +68,7 @@ body{
 
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(linkregex));  
-      html.replace(imageregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      html.replace(imageregex, "<img src='$1' />");
       return html.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
       });
       
@@ -77,7 +77,7 @@ body{
 
         for(var i in results){
           notes_array.push(results[i]);
-          notes_array[i].links = results[i].content.match(regex);
+          notes_array[i].links = results[i].content.match(linkregex);
         };
 
         for(var note in notes_array){
