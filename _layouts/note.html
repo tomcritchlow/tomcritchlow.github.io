@@ -10,6 +10,10 @@ body{
   background-color:#f3f3f3;
 }
 
+.postcontainer img{
+  max-width:100%;
+}
+
   .notepreview{
     display:none;
   }
@@ -70,7 +74,7 @@ body{
       $(".postcontainer").html(function(i, html) { 
       pagelinks_array.push(html.match(linkregex));  
       var newhtml = html.replace(imageregex, "<img src='/notes/$1' />");
-      return newhtml.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      return newhtml.replace(linkregex, "🌱<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
       });
       
       $.getJSON("/notes.json", function(results){
