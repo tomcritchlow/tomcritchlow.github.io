@@ -60,14 +60,16 @@ body{
 
 <script>
     $( document ).ready(function() {
-      var regex = /\[\[(.+?)\]\]/g;
+      var imageregex = !/\[\[(.+?)\]\]/g;
+      var linkregex = /\[\[(.+?)\]\]/g;
       var notes_array = [];
       var pagelinks_array = [];
       var page_name = decodeURIComponent(window.location.pathname.split("/")[2]);
 
       $(".postcontainer").html(function(i, html) { 
-      pagelinks_array.push(html.match(regex));  
-      return html.replace(regex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      pagelinks_array.push(html.match(linkregex));  
+      html.replace(imageregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
+      return html.replace(linkregex, "<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>");
       });
       
       $.getJSON("/notes.json", function(results){
