@@ -69,7 +69,7 @@ body{
 </div>
 <script>
     $( document ).ready(function() {
-      console.log(document.referrer);
+      
       var imageregex = /\!\[\[(.+?)\]\]/g
       var linkregex = /\[\[(.+?)\]\]/g;
       var notes_array = [];
@@ -108,14 +108,17 @@ body{
           }
         }
 
-        $(".notelink").each(function(){
+        if ($(window).width() < 960) {
+          
+        }else{
+          $(".notelink").each(function(){
           for(var i in notes_array){
             if(notes_array[i].title == $(this).attr("data-note-title")){
               $(this).append("<div class='notepreview'>"+notes_array[i].content.replace(linkregex, "🌱<a class='notelink' data-note-title='$1' href='/notes/$1'>$1</a>")+"</div>")
             }
           }
-          
-        });
+          })
+        }
 
         console.log(notes_array);
         console.log(pagelinks_array);
