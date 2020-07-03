@@ -1,3 +1,0 @@
-What happens here?
-
-[[index]]
