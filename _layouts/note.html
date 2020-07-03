@@ -43,7 +43,7 @@ body{
 
 <div class="w-100-l w-90 center">
 
-<div class="f6 breadcrumb"><a href="/notes">Notes</a> > Last note: </div>
+<div class="mw7 center f6 breadcrumb"><a href="/notes">Notes</a> > Last note: </div>
 
 <div class="mw7 center lh-copy f4 postcontainer ph3 ph0-l shadow-4 bg-white br3 mv4">
     <div class="pt4 ph4">
@@ -69,6 +69,7 @@ body{
 </div>
 <script>
     $( document ).ready(function() {
+      console.log(document.referrer);
       var imageregex = /\!\[\[(.+?)\]\]/g
       var linkregex = /\[\[(.+?)\]\]/g;
       var notes_array = [];
