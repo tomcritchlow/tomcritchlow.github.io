@@ -6,13 +6,8 @@ Is this notes hub similar in essence to a [[Exploring digital gardens]]?
 
 We'll see.
 
-Some paths to follow
+Some [[current interests]]:
 
-- so here's something
-	- and something else
-		- [[new page]]
-			- Hmm Outlining inside Obsidian is not bad.
-			- Thought it'll need better styling with css.
-
-Here's something.
+- [[Strategy consulting]]
+- 
 
