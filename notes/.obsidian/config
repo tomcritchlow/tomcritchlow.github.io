@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Strategy consulting.md",
+            "file": "new page.md",
             "mode": "source"
           }
         }
@@ -34,11 +34,11 @@
     "direction": "vertical"
   },
   "lastOpenFiles": [
+    "new page.md",
     "Strategy consulting.md",
     "current interests.md",
     "Untitled.md",
-    "index.md",
-    "Exploring digital gardens.md"
+    "index.md"
   ],
   "alwaysUpdateLinks": true,
   "lastOpenRightSidedockTab": "Backlinks",
