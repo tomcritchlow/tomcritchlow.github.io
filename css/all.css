@@ -171,11 +171,6 @@ padding:5px;
     padding-bottom: 30px;
 }
 
-.postcontainer iframe{
-padding-top: 30px;
-    padding-bottom: 30px;
-}
-
 /* Sidenote syltes from tufte CSS */
 
 .sidenote, .marginnote { float: right;
