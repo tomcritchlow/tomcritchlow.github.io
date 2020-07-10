@@ -6,11 +6,6 @@
 
 {% if page.reply %}
 
-<div class="reply mw8 center ph3 ph0-l pv2">
-  <h3 class="fw4"><img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
-</div>
-
-
 <div class="w-100 bg-washed-green pv4">
 
 <div class="mw8 center flex flex-wrap flex-nowrap-l">
@@ -38,6 +33,13 @@
   
     {% include blogchain-nav-top.html %}
 
+{% if page.reply %}
+
+    <div class="pv2">
+        <h3 class="fw4"><img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
+      </div>
+
+{% endif %}
 
   <div class="pt4 pt5-l w-two-thirds-ns">
   
