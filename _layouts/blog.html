@@ -6,17 +6,17 @@
 
 {% if page.reply %}
 
-<div class="reply mw8 center ph3 ph0-l">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a>
+<div class="reply mw8 center ph3 ph0-l pv4">
+  <h3><img src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
 </div>
 
 
-<div class="w-100 bg-washed-green">
+<div class="w-100 bg-washed-green pv4">
 
 <div class="mw8 center flex flex-wrap flex-nowrap-l">
 
-    <div class="w-two-thirds shadow-4 br3">
-      <img src="{{page.reply-image}}">
+    <div class="w-two-thirds">
+      <img class="shadow-4 br3" src="{{page.reply-image}}">
     </div>
 
     <div class="w-third">
