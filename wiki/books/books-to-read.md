@@ -114,3 +114,5 @@ From Robin Sloan
 --
 
 <https://www.amazon.com/Slow-Days-Fast-Company-L/dp/1681370085>
+
+<https://www.dukeupress.edu/technocrats-of-the-imagination>

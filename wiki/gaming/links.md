@@ -12,3 +12,5 @@
 [normality](http://www.1km1kt.net/rpg/Normality.pdf)
 
 [Thread on the old school revival of rpgs](https://athenaeum.antilibrari.es/t/discovering-osr-old-school-renassiance-revival-tabletop-game-books/269)
+
+[Mothership RPG](https://www.mothershiprpg.com/)

@@ -2,6 +2,10 @@
 layout: blog
 title: Fellow travellers on the road
 reply: http://interconnected.org/home/2019/11/13/mwie
+reply-image: /images/2020-07-10-Interconnected.png
+reply-title: Mwie Ltd
+reply-author: Matt Webb
+reply-date: 13th November 2019
 ---
 
 It's fun when you bump into fellow travelers on the road... Matt Webb has been on his own journey for the past five years and [wrote up some thoughts here](http://interconnected.org/home/2019/11/13/mwie).
