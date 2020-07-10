@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new page.md",
+            "file": "current interests.md",
             "mode": "source"
           }
         }
@@ -34,9 +34,9 @@
     "direction": "vertical"
   },
   "lastOpenFiles": [
+    "current interests.md",
     "new page.md",
     "Strategy consulting.md",
-    "current interests.md",
     "Untitled.md",
     "index.md"
   ],
