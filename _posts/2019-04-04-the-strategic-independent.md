@@ -211,7 +211,7 @@ I recall an important breakthrough for my own thinking - a client had hired anot
 
 This was a real lightbulb moment for me - up until that time I'd always worried about doing "menial" or "low-paid" work as a consultant but charging a strategy-based day-rate.
 
-But the thing I realized was that if you can provide momentum to an organization it doesn't matter if you're writing title tags in an SEO environment or putting together a board pitch **you should do the most valuable thing the business needs at that moment**.
+But the thing I realized was that if you can provide momentum to an organization it doesn't matter if you're writing title tags in an SEO environment or putting together a board pitch: **you should do the most valuable thing the business needs at that moment**.
 
 The freedom of a consultant is that you can ignore job title / role / responsibility and be laser focused on moving the business towards key objectives and mixing your outputs from small to big as needed.
 
