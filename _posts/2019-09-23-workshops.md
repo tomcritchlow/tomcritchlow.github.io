@@ -144,7 +144,7 @@ But in my experience once you’ve been in a room together for a day or two nego
 
 - **Tom to be on site to help with audience development 2 days a week**
 
-This solves a lot of headaches{% include tufte-sn.html id="agency" content="Note: If you're finding that clients aren't receptive to the idea of workshops then it could well be a symptom of a different problem - that is not getting wram leads for senior work. If clients already have you in a box and/or you're pitching against other vendors then this workshop approach could fail." %}!
+This solves a lot of headaches{% include tufte-sn.html id="agency" content="Note: If you're finding that clients aren't receptive to the idea of workshops then it could well be a symptom of a different problem - that is not getting warm leads for senior work. If clients already have you in a box and/or you're pitching against other vendors then this workshop approach could fail." %}!
 
 ## $4,000 days - A note on pricing these workshops
 
