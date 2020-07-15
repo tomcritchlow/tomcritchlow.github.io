@@ -83,11 +83,11 @@ There are three common types of people who hold power inside organizations - dec
 
 **Gatekeepers** come in two common forms, gatekeepers of time and gatekeepers of data. Executive assistants control significant power through owning executives time and schedule. Less obvious are those people who control access to data:
 
-*Example: I had a client where a small in-house data team was responsible for pulling reporting, generating analyses etc. The organization lacked robust dashboards or shared views of data so almost all requests for data went through the data team - this led to the situation of the senior leaders in the org consistently putting requests through the data team. This caused the team to wield significant power (while also overwhelming themselves via constantly getting urgent requests from the exec team).*
+```Example: I had a client where a small in-house data team was responsible for pulling reporting, generating analyses etc. The organization lacked robust dashboards or shared views of data so almost all requests for data went through the data team - this led to the situation of the senior leaders in the org consistently putting requests through the data team. This caused the team to wield significant power (while also overwhelming themselves via constantly getting urgent requests from the exec team).```
 
 **Makers** are the least commonly understood power nodes in my experience. On the one hand it’s as simple as - those who can make things hold power - but on the other hand that doesn’t quite capture the unreasonable power that (often relatively junior) employees can have through being able to make things. This is especially true for people who can combine skillsets in unique ways:
 
-*Example: I worked with a publishing client a few years ago and I worked with a series of editors. Each responsible for a section of the website. Only one editor however combined the ability to make content with the sufficient know-how in HTML & design to actually build new and innovative content experiences (i.e. page templates, in-line elements etc). As a result this editor ended up being a significant source of power - often pulled aside by senior execs to help build something new, prototype a new idea or just make something better in a hurry.*
+```Example: I worked with a publishing client a few years ago and I worked with a series of editors. Each responsible for a section of the website. Only one editor however combined the ability to make content with the sufficient know-how in HTML & design to actually build new and innovative content experiences (i.e. page templates, in-line elements etc). As a result this editor ended up being a significant source of power - often pulled aside by senior execs to help build something new, prototype a new idea or just make something better in a hurry.```
 
 **There’s one universal rule to spot power nodes - look for who gets brought into the room.**
 
@@ -115,9 +115,9 @@ In the early days of a client engagement - watch and listen closely for unusual 
 
 Notice turns of phrase, rejected ideas or a statement that turns the room to silence. These mis-steps are power potholes in the consultant's path. Notice them, write them down, meditate on them, and try and ask yourself: **what power structures exist here to explain this anomaly?**
 
-*Example 1: in my own consulting work I led a design sprint to build a new product within the organization, using a VP as exec sponsor. Unfortunately, only during the project did I realize that the VP was weak and lacked buy-in and support from the other execs. In theory that VP should have supported that project but in practice, like stepping in a pothole accidentally, the system jolts and the project stalls for non visible reasons.*
+```Example 1: in my own consulting work I led a design sprint to build a new product within the organization, using a VP as exec sponsor. Unfortunately, only during the project did I realize that the VP was weak and lacked buy-in and support from the other execs. In theory that VP should have supported that project but in practice, like stepping in a pothole accidentally, the system jolts and the project stalls for non visible reasons.```
 
-*Example 2: In the early stages of a client project I’m trying to coordinate a new workstream - and I suggest that the editorial director can lead the review of existing content. I haven’t met this person yet and I’m leaning on the org chart and job titles. This idea gets rejected and new options emerge. This gives me pause in the moment (why not the editorial director?) but only later in the project do I realize that the editorial director is out of favor with the executive team.*
+```Example 2: In the early stages of a client project I’m trying to coordinate a new workstream - and I suggest that the editorial director can lead the review of existing content. I haven’t met this person yet and I’m leaning on the org chart and job titles. This idea gets rejected and new options emerge. This gives me pause in the moment (why not the editorial director?) but only later in the project do I realize that the editorial director is out of favor with the executive team.```
 
 Power potholes and localized power nodes matter for full-time employees too. Employees, however, have the luxury of time to settle into and understand power structures.
 
@@ -151,7 +151,7 @@ For employees, status relationships are often stable and clear inside organizati
 
 But the consultant has no place on the org chart - in fact they “move around the org chart” constantly.
 
-*Example: an 18 month engagement might see me working across design, product, editorial, strategy, content, marketing etc over the course of the engagement as various projects and needs arise. This can be a mix of senior projects working with the VP Product or a small fast project working directly with the freelance content writers. The high/low and lateral movement across the org chart can be far and wide.*
+```Example: an 18 month engagement might see me working across design, product, editorial, strategy, content, marketing etc over the course of the engagement as various projects and needs arise. This can be a mix of senior projects working with the VP Product or a small fast project working directly with the freelance content writers. The high/low and lateral movement across the org chart can be far and wide.```
 
 This lateral movement across the map requires a minimum social capital and charm to be able to appear in meetings or across teams without offending stakeholders. Winning hearts and minds across the org. This is a very high stakes and nuanced game[^highstakes].
 
