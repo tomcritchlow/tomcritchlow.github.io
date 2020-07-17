@@ -3,14 +3,15 @@ layout: page
 title: The tomcritchlow Discord Space
 ---
 
-I have a small cozy chat space. I use it for:
+My discord space is a cozy space for three things:
 
-- More in-depth small group discussions (somewhere between twitter and blog comments)
-- Real-time working sessions and salons (less stress than "workshops" or "webinars")
+- Group discussions and real-time chat
+- Real-time working sessions and salons
+- Office hours
 
-[Read the launch post here](https://tomcritchlow.com/2020/07/08/discord/).
+[Read more about why I started a discord space here](https://tomcritchlow.com/2020/07/08/discord/).
 
-[Join the Discord here](https://discord.gg/YhgPmuF)
+**[Join the Discord here](https://discord.gg/YhgPmuF)**
 
 Preview the space below:
 
