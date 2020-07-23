@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Creating an Indie Consulting Business Model Canvas
-subtitle: Sharing my own and a template for V0.1 to use
+title: The Indie Consulting Business Model Canvas V0.1
+subtitle: A way of thinking about your practice
 ---
 
 Earlier this week we ran a highly experimental session around defining and mapping out an indie consulting business model canvas.
@@ -25,25 +25,34 @@ For my canvas I structured the canvas around 4 "worlds" - and within each theme 
 
 ## Outer World
 
-- Do people in my network have an accurate detailed picture of the kind of work I do / want?
-- What is the most trusted brand or institution that you’re associated with? How can you make that more visible?
-- How can you make your thinking more edgy? [Venkatesh’s theory of 20% beef](https://artofgig.substack.com/p/bootstrapping-with-beefs) applies here.
+- How strong is my network?
+    - Do people in my network have an accurate detailed picture of the kind of work I do / want?
+- How do clients know they can trust me?
+    - What is the most trusted brand or institution that you’re associated with? How can you make that more visible?
+- How do I show my thinking?
+    - How can you make your thinking more edgy? [Venkatesh’s theory of 20% beef](https://artofgig.substack.com/p/bootstrapping-with-beefs) applies here.
 
 ## Client World
 
-- What common traits can you identify in your clients as humans? What are common traits of your point of contact not just the company?
-- What are the expanded contexts above/adjacent to my strategy work?
-- What parts of my strategy work are NOT part of my stewardship work? How might I learn how to do them or partner to provide expanded stewardship?
+- What do clients look like?
+    - What common traits can you identify in your clients as humans? What are common traits of your point of contact not just the company?
+- What does my strategy work look like?
+    - What are the expanded contexts above/adjacent to my strategy work?
+- What does my stewardship work look like? ([More info on strategy/stewardship here](https://tomcritchlow.com/2019/04/04/the-strategic-independent/))
+    - What parts of my strategy work are NOT part of my stewardship work? How might I learn how to do them or partner to provide expanded stewardship?
 
 ## Money World
 
-- Where is the panic level? What is enough? How long can you go without work?
-- How can you smooth the gaps between projects? Do you have any passive / recurring income?
-- What triggers a client project ending? How can you reflect / identify these earlier?
+- What is the financial situation?
+    - Where is the panic level? What is enough? How long can you go without work?
+- What is the avg size of a client? Avg year?    
+    - How can you smooth the gaps between projects? Do you have any passive / recurring income?
+- What is the avg length of a client engagement?    
+    - What triggers a client project ending? How can you reflect / identify these earlier?
 
 I spent a few hours (yes it took me that long!) mulling these and sketching out some answers and you can get a feel for it here:
 
-![](https://i.imgur.com/f0wQtdL.png)
+[![](https://i.imgur.com/f0wQtdL.png)](https://i.imgur.com/f0wQtdL.png)
 
 Note - I think the right stance here is to use the text on the left as journaling and the grey areas on the right as a mood board. The aim is to create an open, exploratory sense of your practice - NOT to create a definite, polished "one pager" for your business.
 
