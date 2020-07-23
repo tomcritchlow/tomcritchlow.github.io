@@ -50,11 +50,19 @@ For my canvas I structured the canvas around 4 "worlds" - and within each theme 
 - What is the avg length of a client engagement?    
     - What triggers a client project ending? How can you reflect / identify these earlier?
 
+## My own reflections
+
 I spent a few hours (yes it took me that long!) mulling these and sketching out some answers and you can get a feel for it here:
 
 [![](https://i.imgur.com/f0wQtdL.png)](https://i.imgur.com/f0wQtdL.png)
 
 Note - I think the right stance here is to use the text on the left as journaling and the grey areas on the right as a mood board. The aim is to create an open, exploratory sense of your practice - NOT to create a definite, polished "one pager" for your business.
+
+I'm still opening up and mulling some of the ideas but a few things I realized about my own practice:
+- Google is such a core part of client's perception of me and yet I never ever reference Google. How to expose this part of my identity more publicly? (without talking about the times I cried in the office lol)
+- I do a lot of writing but almost none of it is tied to arcs and narratives clients care about! The handful of times I've written about decentralized branding, content & brand etc have driven client interest directly. I should do more of that.
+- I have no beef in my public persona :(
+- Executive sparring is a key piece of personal growth and definitely the *next* type of work I'm after
 
 ## Go make your own!
 
