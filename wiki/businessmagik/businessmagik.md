@@ -106,3 +106,11 @@ source: [Cultivating Hyperstitions - Jorge Camacho - Medium](https://medium.com/
 --
 
 <https://www.ribbonfarm.com/2016/04/07/business-as-magic/>
+
+> Magical practices offer heightened expectations and altered experiences of both magicians and participants in a variety of performances and in “qualified places,” from Davos, monetary policy committee rooms, and courts of law, to concept restaurants, fashion runways, and award ceremonies. The study of magic in contemporary society privileges forms of charismatic explanation for phenomena, rather than rationally “explaining away” curiosities. Indeed, “magic is alive and well” (Masquelier 2004: 95) and adds to our growing enchantment of modernity’s—and capitalism’s—global reach.
+
+Source: [Performing Magical Capitalism - EPIC](https://www.epicpeople.org/performing-magical-capitalism/) by @epicpeople\_org
+
+--
+
+http://www.openculture.com/2018/02/1600-occult-books-now-digitized-put-online.html

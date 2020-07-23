@@ -11,7 +11,7 @@ My discord space is a cozy space for three things:
 
 [Read more about why I started a discord space here](https://tomcritchlow.com/2020/07/08/discord/).
 
-**[Join the Discord here](https://discord.gg/YhgPmuF)**
+**[Join the Discord here](https://discord.gg/Utqh44q)**
 
 Preview the space below:
 
