@@ -17,7 +17,7 @@ I've worked with media companies such as **The New York Times**, **The Wirecutte
 
 I've worked with startups such as **Olapic**, **Fundera** and **Seatgeek** as an advisor - whether as interim CMO, strategy consultant or helping to build the marketing team from scratch.
 
-Because of my deep knowledge of SEO, content marketing and business strategy I've also worked with marketing agencies such as **Distilled** and **Seige Media** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
+Because of my deep knowledge of SEO, content marketing and business strategy I've also worked with marketing agencies such as **Distilled** and **Siege Media** as a strategy consultant and business advisor helping to build teams and processes to drive growth. 
 
 --
 
