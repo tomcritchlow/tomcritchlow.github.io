@@ -110,3 +110,8 @@ Source: [The Undercurrent Skills Maturity Matrix](https://www.cpj.fyi/the-underc
 > How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage
 
 Source: [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage - Write Louder - Knock Down Silos](https://slab.com/blog/jeff-bezos-writing-management-strategy/) by
+
+--
+
+"‘An aircraft factory is a machine for producing aeroplanes and it may be disastrous to attempt to improve production by piecemeal tinkering with individual departments –one must seek out in all its ramifications, and destroy, the machine for stopping the production of aeroplanes, which lurks like a parasite within the organisation.’"
+― [from "Tomorrow Lies in Ambush"](https://read.amazon.com/kp/kshare?asin=B005K8H3HK&id=jwlcdwuiTfu0cgqesIZPyQ&reshareChannel=system&reshareId=3WHD5XRK2PEH4T0TH225)
