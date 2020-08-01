@@ -12,8 +12,7 @@
 {% if page.reply %}    
 
 <div class="pv2">
-    <img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> <span class="ttu black-30 f5">re: {{page.reply}}</span>
-        <h3 class="fw4"> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
+    <img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> <span class="ttu black-30 f5"><a class="u-in-reply-to" href="{{page.reply}}"></a>{{page.reply}}</a</span>
       </div>
 
 {% endif %}
