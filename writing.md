@@ -3,6 +3,17 @@ layout: page
 title: Latest Writing
 ---
 
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
+<h1 class="fw1 w-two-thirds pv5">Hi, I'm an independent strategy consultant, art lover and blogger.</h1>
+<div class="fl w-20">Projects</div>
+<div class="fl w-20"></div>
+<div class="fl w-20"></div>
+<div class="fl w-20"></div>
+<div class="fl w-20"></div>
+</div>
+
+<a href="https://tomcritchlow.com/feed.xml"><img class="dib h2 v-mid" src="https://img.icons8.com/color/48/000000/rss.png"/> RSS Feed</a>
+
 {% for post in site.posts  %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
