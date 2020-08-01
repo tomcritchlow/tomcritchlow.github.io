@@ -4,39 +4,16 @@
 
 {% include header.html %}
 
-{% if page.reply %}
-
-<div class="w-100 bg-washed-green pv4">
-
-<div class="mw8 center flex flex-wrap flex-nowrap-l">
-
-    <div class="w-two-thirds-l">
-      <a href="{{page.reply}}"><img class="shadow-4 br2" src="{{page.reply-image}}"></a>
-    </div>
-
-    <div class="w-third-l pl4 f3">
-      <p>
-        <a href="{{page.reply}}">{{page.reply-title}}</a>
-      <br><br>by {{page.reply-author}}
-      <br>{{page.reply-date}}
-    </p>
-    </div>
-
-  </div>
-
-</div>
-
-{% endif %}
-
 
 <div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
   
     {% include blogchain-nav-top.html %}
 
-{% if page.reply %}
+{% if page.reply %}    
 
-    <div class="pv2">
-        <h3 class="fw4"><img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
+<div class="pv2">
+    <img class="dib h2 v-mid" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> <span class="ttu black-30 f5">re: {{page.reply}}</span>
+        <h3 class="fw4"> reply to: <a class="u-in-reply-to" href="{{page.reply}}">{{page.reply-title}}</a></h3>
       </div>
 
 {% endif %}
