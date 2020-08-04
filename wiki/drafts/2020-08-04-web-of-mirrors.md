@@ -12,6 +12,12 @@ subtitlte: Reflections of our digital selves
 
 
 <div class="videowrapper">
+<h2 class="red">Who do you want to be?</h2>
+<video autoplay="true" id="videoElement"></video>
+</div>
+
+<div class="videowrapper">
+<h2 class="red">What webs have you made?</h2>
 <video autoplay="true" id="videoElement"></video>
 </div>
 
