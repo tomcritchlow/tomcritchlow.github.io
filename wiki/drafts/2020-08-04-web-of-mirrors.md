@@ -21,7 +21,7 @@ subtitlte: Reflections of our digital selves
 
 <style>
 video{
-    width:
+    width:100%;
 }
 </style>
 
