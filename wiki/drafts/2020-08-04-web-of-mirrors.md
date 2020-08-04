@@ -12,17 +12,18 @@ subtitlte: Reflections of our digital selves
 
 
 <div class="videowrapper">
-<h2 class="red">Who do you want to be?</h2>
-<video autoplay="true" id="videoElement"></video>
-</div>
-
-<div class="videowrapper">
-<h2 class="red">What webs have you made?</h2>
+<h2 class="red absolute">Who do you want to be?</h2>
 <video autoplay="true" id="videoElement"></video>
 </div>
 
 
 
+
+<style>
+video{
+    width:
+}
+</style>
 
 <script>
 var video = document.querySelector("#videoElement");
