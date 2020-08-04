@@ -9,19 +9,23 @@ subtitlte: Reflections of our digital selves
 
 
 
-
+What if we have a little row of circles at the top of people reading the essay right now?? like insta?
 
 <div class="videowrapper">
 <h2 class="red absolute">Who do you want to be?</h2>
 <video autoplay="true" id="videoElement"></video>
 </div>
 
+We strive for identity. We seek meaning reflected back at ourselves.
 
+But our sense of identity is undermined. The mirror is a funhouse. Our selves are reflected in a distorted way.
+
+What space can we be ourselves?
 
 
 <style>
 video{
-    width:100%;
+width:100%;
 }
 </style>
 

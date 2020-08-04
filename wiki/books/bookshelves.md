@@ -50,3 +50,5 @@ Digital bookshelves that I admire:
 <https://maggieappleton.com/bookshelf>
 
 <https://amandapinsker.com/reading>
+
+<https://highlights.melanie-richards.com/>
