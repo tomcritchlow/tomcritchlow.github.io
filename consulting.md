@@ -4,7 +4,7 @@ metatitle: Digital Strategy Consulting from Tom Critchlow
 title: How to work together
 ---
 
-With a decade of experience in digital media, leadership and growth I'm a strategic advisor and consultant for leaders who are seeking to gain clarity about their strategy and develop new intiatives.
+With a decade of experience in digital media, leadership and growth I'm a strategic advisor and consultant for leaders who are seeking to gain clarity about their strategy and develop new initiatives.
 
 I work with a handful of clients every year and typically work with clients for extended periods. Clients include The New York Times, Google, Dotdash, Gartner, Etsy and Seatgeek.
 
