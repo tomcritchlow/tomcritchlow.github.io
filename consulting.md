@@ -1,11 +1,13 @@
 ---
 layout: page
 metatitle: Digital Strategy Consulting from Tom Critchlow
-title: Working with me
-subtitle: I run a boutique consulting practice helping companies define and build digital marketing capabilities.
+title: How to work together
+subtitle: I think of clients like partners and typically don't get hired to make spreadsheets. I'll make the spreadsheets anyway, but you hire me to care about your business.
 ---
 
-I've been working in digital marketing for over 10 years and as an independent consultant for the last 4 years - working with media companies and startups - advising on content marketing, brand, audience development, organizational design and growth.
+With a decade of experience in digital media, leadership and growth I'm a strategic advisor and consultant for leaders who are seeking to gain clarity about their strategy and develop new intiatives.
+
+I work with a handful of clients every year and typically work with clients for extended periods. Past clients include The New York Times, Google, Dotdash, Gartner, Etsy and Seatgeek.
 
 I think of clients like partners and typically don't get hired to make spreadsheets. I'll make the spreadsheets anyway, but you hire me to care about your business. 
 
