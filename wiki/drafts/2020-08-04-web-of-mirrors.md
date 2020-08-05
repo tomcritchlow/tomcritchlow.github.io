@@ -11,8 +11,10 @@ subtitlte: Reflections of our digital selves
 
 What if we have a little row of circles at the top of people reading the essay right now?? like insta?
 
+<div class="w-100">
+
 <div class="videowrapper">
-<h2 class="red absolute">Who do you want to be?</h2>
+<marquee><h2 class="red absolute">Who do you want to be?</h2></marquee>
 <video autoplay="true" id="videoElement"></video>
 </div>
 
