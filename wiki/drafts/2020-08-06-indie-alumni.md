@@ -81,15 +81,14 @@ I'd say that 90% of professional development for indie consultants happens throu
 
 Ok - so what's the point of all this?
 
-I'm building this !& community for indie consultants and I'm trying to figure out how to provide the most value for indies. From this discussion of small group consulting comes the beginnings of a framework:
+I'm building this !& community for indie consultants and I'm trying to figure out how to make it a deeply valuable space. From this discussion of small group consulting comes the beginnings of a framework:
 
 - Provide an environment where indies can open up, show each other work and build trust 
-- 
+- Create shared experiences to build trust and a sense of belonging
+- Integrate diverse voices and shine a light on the range of independent work
+
+**Can we build a space that functions like an alumni network for independents?**
+
+We'll see.
 
 
-
-## Can you manufacture an indie alumni network?
-
-
-
-So. The cent
