@@ -45,6 +45,8 @@ But our sense of identity is undermined. The mirror is a funhouse. Our selves ar
 What space can we be ourselves?
 
 
+<iframe src="https://giphy.com/embed/l4hLRAwCyCjXiPbos" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cinemagraph-cinemagraphs-l4hLRAwCyCjXiPbos">via GIPHY</a></p>
+
 <script>
 var video = document.querySelector("#videoElement");
 
