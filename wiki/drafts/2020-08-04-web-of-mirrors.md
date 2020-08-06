@@ -34,6 +34,10 @@ What if we have a little row of circles at the top of people reading the essay r
 <div class="w-50 center reflection">
 <div class="videowrapper">
 <h2 class="red absolute"><marquee>Who do you want to be?</marquee></h2>
+<h2 class="red absolute left0"><marquee>Who do you want to be?</marquee></h2>
+<h2 class="red absolute left10"><marquee>Who do you want to be?</marquee></h2>
+<h2 class="red absolute left20"><marquee>Who do you want to be?</marquee></h2>
+<h2 class="red absolute"><marquee>Who do you want to be?</marquee></h2>
 <video autoplay="true" id="videoElement"></video>
 </div>
 </div>
