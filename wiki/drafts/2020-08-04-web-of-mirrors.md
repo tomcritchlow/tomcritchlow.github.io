@@ -12,6 +12,10 @@ font-family:Inconsolata;
 font-weight:100;
 }
 
+.reflection{
+-webkit-box-reflect: below 0px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(0%, transparent), to(rgba(255, 255, 255, 0.2)));    
+}
+
 video{
 width:100%;
 }
@@ -22,7 +26,7 @@ width:100%;
 
 What if we have a little row of circles at the top of people reading the essay right now?? like insta?
 
-<div class="w-100">
+<div class="w-50 center reflection">
 <div class="videowrapper">
 <h2 class="red absolute"><marquee>Who do you want to be?</marquee></h2>
 <video autoplay="true" id="videoElement"></video>
