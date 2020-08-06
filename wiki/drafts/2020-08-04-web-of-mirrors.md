@@ -21,8 +21,13 @@ width:100%;
 }
 </style>
 
+We strive for identity and escape the shadows of ourselves. But digital spaces are unfluid and unspaced, unbounded and unescaped. This idea creates a dissonance between our behaviors and our actions.
 
+What should be
 
+<div class="bg-grey">
+For the best reading experience this essay requires access to your webcam for some special effects. Please activate here.
+</div>
 
 What if we have a little row of circles at the top of people reading the essay right now?? like insta?
 
