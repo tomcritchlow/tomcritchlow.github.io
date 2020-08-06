@@ -4,7 +4,14 @@ title: The Web of Mirrors
 subtitlte: Reflections of our digital selves
 ---
 
+<style>
+.posttitle{
+-webkit-box-reflect: below 8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(0%, transparent), to(rgba(255, 255, 255, 0.2)));}
 
+video{
+width:100%;
+}
+</style>
 
 
 
@@ -24,12 +31,6 @@ But our sense of identity is undermined. The mirror is a funhouse. Our selves ar
 
 What space can we be ourselves?
 
-
-<style>
-video{
-width:100%;
-}
-</style>
 
 <script>
 var video = document.querySelector("#videoElement");
