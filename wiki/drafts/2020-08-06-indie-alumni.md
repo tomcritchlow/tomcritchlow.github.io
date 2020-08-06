@@ -37,6 +37,12 @@ Why is that? We posited:
 
 What this alumni network makes is a set of people who you trust and who deeply understand your skills. They are typically not competing with you for work and are motivated to make warm intros and able to spot situations where you'll be a good fit.
 
+My friend [Brian Dell](https://twitter.com/itsbdell) put together this sketch of a 2x2 to outline where and how alumni networks are valuable:
+
+![](/images/alumni-matrix.svg)
+
+Mmm. Lots to noodle on here.
+
 ## The Mistake Indies Make
 
 The mistake many indies make is to band together with people who do work like them. A set of three strategists clubbing together to build a virtual agency - the theory goes that you can "act bigger than you are" to get bigger clients. Unfortunately this strategy is inherently flawed - most indies don't have trouble closing business, they have trouble generating leads.
@@ -79,6 +85,8 @@ I'm building this !& community for indie consultants and I'm trying to figure ou
 
 - Provide an environment where indies can open up, show each other work and build trust 
 - 
+
+
 
 ## Can you manufacture an indie alumni network?
 
