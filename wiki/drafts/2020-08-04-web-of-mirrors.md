@@ -1,7 +1,7 @@
 ---
 layout: custom
-title: The Web of Mirrors
-subtitlte: Reflections of our digital selves
+title: A Web of Mirrors
+subtitle: Reflections of our digital selves
 ---
 
 <style>
