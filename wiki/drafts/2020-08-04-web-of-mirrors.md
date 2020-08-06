@@ -6,7 +6,11 @@ subtitlte: Reflections of our digital selves
 
 <style>
 .posttitle{
--webkit-box-reflect: below 8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(0%, transparent), to(rgba(255, 255, 255, 0.2)));}
+-webkit-box-reflect: below 8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(0%, transparent), to(rgba(255, 255, 255, 0.2)));
+padding-bottom:100px;
+font-family:Inconsolata;
+font-weight:100;
+}
 
 video{
 width:100%;
