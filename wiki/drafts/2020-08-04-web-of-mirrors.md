@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: custom
 title: The Web of Mirrors
 subtitlte: Reflections of our digital selves
 ---
