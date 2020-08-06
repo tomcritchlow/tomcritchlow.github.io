@@ -4,7 +4,7 @@ title: Generating an alumni network for indies
 subtitlte: Musings on groups of indie consultants
 ---
 
-A few indie consultants convened in the !& discord space recently to discuss the topic of "small group consulting". We were inspired by a range of interesting readings:
+A few indie consultants convened in the [!& discord space](/!&/) recently to discuss the topic of "small group consulting". We were inspired by a range of interesting readings:
 
 - [Learning Communities of Place: Situating Learning Towns Within A Nested Concept of Social Learning Environments](https://www.dropbox.com/s/w3z4fxvo37s7crc/Learning%20Communities%20of%20Place.doc?dl=0) (pdf)
 - [Small groups and consultancy and coffee mornings](http://interconnected.org/home/2015/10/07/small_groups_and_consultancy) (interconnected.org)
