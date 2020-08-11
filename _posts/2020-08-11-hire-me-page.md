@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: What makes a good "hire me" page?
-subtitlte: Summary of the latest !& salon
+subtitle: Summary of the latest !& salon
 ---
 
 We had a great chat today in the **!&** community where we did a group crit of each other's "hire me" consulting pages. The conversation was vibrant and engaging and I'd love to draw out some common themes of what works for these pages. Five areas kept coming up:

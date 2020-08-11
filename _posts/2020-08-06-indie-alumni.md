@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Generating an alumni network for indies
-subtitlte: Musings on groups of indie consultants
+subtitle: Musings on groups of indie consultants
 ---
 
 A few indie consultants convened in the [!& discord space](/!&/) recently to discuss the topic of "small group consulting". We were inspired by a range of interesting readings:
