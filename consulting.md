@@ -33,9 +33,9 @@ Executives often under-estimate the power of a consistent narrative. For leaders
 *Example: Working with a large public media organization to create a unified strategy across their core business and recent acquisitions. Working closely with executive leaders to craft a coherent and clear strategy that is presented to the CEO and creates alignment across a variety of cross-functional initiatives.*
 
 
-### Executive Sparring
+### !& Sessions
 
-For leaders, executives and founders who are wrestling with ambiguity, executive sparring is 1:1 work to explore and clarify tensions around internal organizational issues, power & status within executives, and unblocking strategy and vision through clear-eyed sparring session. Sparring sessions are often a mixture of reflective analysis around the people involved, a strategic look at the strategic landscape and work to clarify internal vision and mission. The core of sparring is unblocking blocked executives.
+For leaders, executives and founders who are wrestling with ambiguity, executive sparring centered around "Yes! And..." is 1:1 generative work to explore and clarify tensions around internal organizational issues, power & status and unblocking strategy and vision through clear-eyed sparring session. *Yes! And...* sessions are often a mixture of opening up new ideas, reflective analysis around the people involved, a strategic look at the landscape and work to clarify internal vision and mission. The core focus is unblocking blocked executives.
 
 *Example: working with an executive tasked with setting up a new business unit to provide a sparring partner as the strategy takes shape as well as provide clarity on the roadmap*
 
