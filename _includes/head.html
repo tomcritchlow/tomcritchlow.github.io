@@ -27,7 +27,7 @@
 
  <meta property="og:type"   content="article" />
  <meta property="og:url"    content="http://tomcritchlow.com{{page.url}}" />
- <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}" />
+ <meta property="og:title"  content="{% if page.title %}{{page.title | escape}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}" />
  {% if page.og %}
  <meta property="og:image"  content="{{page.og}}" />
  {% else %}
