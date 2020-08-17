@@ -66,7 +66,7 @@ This *Yes! And…* mindset quickly leads to a generative strategy situation wher
 
 I imagine a “branching” visualization like this (blue for client, green for consultant):
 
-![](/images/yes-and-branching.png)
+![](/images/yes-and-branching.svg)
 
 As I talk about in my [frameworks post](https://tomcritchlow.com/2019/06/27/frameworks/) the co-creation process allows for more crucial client context to be part of the strategy (i.e. it’s more true) and it allows for more ownership from the client (i.e. the IKEA effect).
 
