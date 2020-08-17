@@ -70,7 +70,7 @@ I imagine a “branching” visualization like this (blue for client, green for 
 
 As I talk about in my [frameworks post](https://tomcritchlow.com/2019/06/27/frameworks/) the co-creation process allows for more crucial client context to be part of the strategy (i.e. it’s more true) and it allows for more ownership from the client (i.e. the IKEA effect).
 
-*Example: Continuing the Wirecutter conversation above you can see how we’re already folding in more of the client context into the strategy and we’re already co-creating vs me (the consultant) just telling the client what to do. This process will better uncover exactly why these category reviews are part of their company DNA or more concrete examples of missed opportunities from not publishing stand alone review pages. This co-creation ultimately creates a shared vision of how we might move forward.*
+```Example: Continuing the Wirecutter conversation above you can see how we’re already folding in more of the client context into the strategy and we’re already co-creating vs me (the consultant) just telling the client what to do. This process will better uncover exactly why these category reviews are part of their company DNA or more concrete examples of missed opportunities from not publishing stand alone review pages. This co-creation ultimately creates a shared vision of how we might move forward.```
 
 Of course - let’s get real for a moment the theatre of work and all this talk of improv only goes so far. You can’t keep building and bridging forever - and sometimes clients are simply going in the wrong direction.
 
@@ -86,7 +86,7 @@ And this can be useful because clients can ramble - they can get wrapped up in t
 
 So the *Yes! And…* exercise can be powerful for co-creating strategy with clients accounting for their particular expertise and wisdom around the base reality of who, what where.
 
-*Example: in [chapter two](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) I illustrated a client where we have a shared joke for SEO consultants that come in and attempt to to improve content quality without appropriately understanding the base reality of content quantity being part of their cultural DNA. Of course early in the engagement I too was that SEO consultant coming in talking of content quality! Thankfully a keen intuitive sense of co-creating strategy with clients and opening up their ideas (rather than closing them down) led us to a place where we could get more nuanced and realistic around the quality/quantity ecosystem.*
+```Example: in [chapter two](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) I illustrated a client where we have a shared joke for SEO consultants that come in and attempt to to improve content quality without appropriately understanding the base reality of content quantity being part of their cultural DNA. Of course early in the engagement I too was that SEO consultant coming in talking of content quality! Thankfully a keen intuitive sense of co-creating strategy with clients and opening up their ideas (rather than closing them down) led us to a place where we could get more nuanced and realistic around the quality/quantity ecosystem.```
 
 **Of note here is that clients often have a very keen intuitive sense of their specific market** - while often failing to properly draw analogies from other markets that they are less familiar with. Helping clients understand adjacent and oblique markets can really aid their own generated strategies.
 
@@ -211,7 +211,7 @@ Rather - the better way to interrupt routines is via a thorough understanding of
 
 [^logistics]: I'm reminded of the phrase [amateurs talk strategy, experts talk logistics](https://tomcritchlow.com/2018/06/01/how-to-get-things-done/) here.
 
-*Example: let’s return to that Wirecutter example to see how the idea of “growing organic traffic” translates into a co-created strategy for “experimenting with review pages”. So how? With what resource? Here the idea of interrupting routines is useful. Once you clearly understand how the workflow of research -> planning - > publishing works at a company like The Wirecutter you would be able to identify parts of the research & planning routines that can be interrupted with new data or new insights to enable the teams to look at publishing review pages when the opportunities emerges from the data.*
+```Example: let’s return to that Wirecutter example to see how the idea of “growing organic traffic” translates into a co-created strategy for “experimenting with review pages”. So how? With what resource? Here the idea of interrupting routines is useful. Once you clearly understand how the workflow of research -> planning - > publishing works at a company like The Wirecutter you would be able to identify parts of the research & planning routines that can be interrupted with new data or new insights to enable the teams to look at publishing review pages when the opportunities emerges from the data.```
 
 The trick is not to get new capacities off the ground from a standing start but to interrupt routines to get new capacities built “in-flow” of existing teams and workflows.
 
