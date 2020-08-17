@@ -1,5 +1,5 @@
 ---
-layout: tufte
+layout: strategy
 title: Yes! and... Chapter 3 - Blocking & Unblocking Clients
 subtitle: Generating & Co-Creating Strategy in the Theatre of Work
 tags: strategy
@@ -34,7 +34,9 @@ When working with clients there’s a tendency for consultants (especially newer
 
 At heart, the idea of yes and is about accepting the gambit from another actor and building on top of it - of opening up the world through the lens that they have offered and not attempting to close down their world and open your own - and spoiler alert, this is an effective approach to consulting!
 
-*Example: I remember consulting for The Wirecutter years ago (before they were acquired by the NYT) and attempting to convince them that they should create product review pages alongside their category pages{% include tufte-sn.html id="wirecutter" content="They have actually started doing this relatively recently post-NYT acquisition. See example here: <a href='https://thewirecutter.com/reviews/peloton-review-what-to-know-before-you-buy/'>peleton review</a>" %}. I distinctly remember a conversation that went something like:*
+*Example: I remember consulting for The Wirecutter years ago (before they were acquired by the NYT) and attempting to convince them that they should create product review pages alongside their category pages[^wirecutter]. I distinctly remember a conversation that went something like:*
+
+[^wirecutter]: They have actually started doing this relatively recently post-NYT acquisition. See example here: [peleton review](https://thewirecutter.com/reviews/peloton-review-what-to-know-before-you-buy/)
 
 - *Me: There is a big opportunity in expanding into product review pages*
 - *Wirecutter: But our brand is built on only doing these category reviews*
@@ -54,7 +56,9 @@ At heart, the idea of yes and is about accepting the gambit from another actor a
 
 *This conversation is obviously both made up and exaggerated but hopefully it demonstrates the premise of opening up the client to new ideas through accepting their prompts and building from them rather than trying to block their ideas to talk about your own.*
 
-This approach relies on two powerful ideas - firstly that everyone (clients & consultants included!) want their ideas to be listened to{% include tufte-sn.html id="listening" content="Listening could in fact turn out to be the ultimate consulting skill...." %}  and that using the *Yes! And...* conversation as a tool ends up with a co-created strategy.
+This approach relies on two powerful ideas - firstly that everyone (clients & consultants included!) want their ideas to be listened to[^listening] and that using the *Yes! And...* conversation as a tool ends up with a co-created strategy.
+
+[^listening]: Listening could in fact turn out to be the ultimate consulting skill....
 
 ## The Power (& Limits) of Co-creating Strategy
 
@@ -74,7 +78,9 @@ So it’s useful to understand the situations where *Yes! And…* is most useful
 
 > Upright Citizens Brigade improvisational theory suggests that Yes And is only the most important tool to an improviser at the beginning of scenes, when they are obligated to establish a Base Reality. Yes And, in this view, expedites the process of finding a Who, What, and Where for the scene, allowing a context to solidify on top of which an absurd element can be found. - [source](https://wiki.improvresourcecenter.com/index.php/Yes_And)
 
-I like this idea - that the most useful thing you need client input and co-creation on is the “base reality” - the “Who, What, Where”. For consultants coming in from the outside attempting to “solve problems” for clients the biggest flaw in generic strategies is not properly accounting for who is at the company, what we’re actually trying to solve and where this strategy will play out{% include tufte-sn.html id="just" content="Recall from <a href='https://tomcritchlow.com/2019/11/19/optimism-operating-system/'>chapter 2</a> - there is no 'just' in consulting - clients are ecosystems in balance..." %}.
+I like this idea - that the most useful thing you need client input and co-creation on is the “base reality” - the “Who, What, Where”. For consultants coming in from the outside attempting to “solve problems” for clients the biggest flaw in generic strategies is not properly accounting for who is at the company, what we’re actually trying to solve and where this strategy will play out[^just].
+
+[^just]: Recall from [chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) - there is no 'just' in consulting - clients are ecosystems in balance...
 
 And this can be useful because clients can ramble - they can get wrapped up in their arguments. This is no pejorative statement but rather just a function of how much time clients typically devote to “strategy” and improv thinking.
 
@@ -105,7 +111,9 @@ Some of the ways I’ve encountered blocked clients:
  - Clients who block ideas by pre-emptively anticipating feedback from other execs
  - Clients who block as a way of exerting high status
  - Clients who are trying to set strategy by copying a competitor
- - Clients who look for strategies that will make them culturally relevant or interesting{% include tufte-sn.html id="wisetoby" content="Toby Shorin has a great insight around this in <a href='https://twitter.com/tobyshorin/status/1198462642328932352'>this twitter thread</a>" %}
+ - Clients who look for strategies that will make them culturally relevant or interesting[^wisetoby]
+
+[^wisetoby]: Toby Shorin has a great insight around this in [this twitter thread](https://twitter.com/tobyshorin/status/1198462642328932352)
 
 For all of these situations, Impro has delightful and rich ideas to help you coach actors into unblocking themselves. The book is very much about how to teach people to unblock themselves - which again is valuable for a consultant.
 
@@ -121,7 +129,9 @@ Let’s take a look at one specific situation that I see a lot however and that 
 >
 >**The improviser has to realise that the more obvious he is, the more original he appears. I constantly point out how much the audience like someone who is direct, and how they always laugh with pleasure at a really 'obvious' idea. Ordinary people asked to improvise will search for some 'original' idea because they want to be thought clever**. 
 >
->They'll say and do all sorts of inappropriate things. If someone says 'What's for supper?' a bad improviser will desperately try to think up something original. Whatever he says he'll be too slow. He'll finally drag up some idea like 'fried mermaid'. If he'd just said 'fish'{% include tufte-sn.html id="fish" content="<a href='https://austinkleon.com/2018/09/17/look-at-your-fish/'>Look at your fish!</a> is a good reference here for the power in un-original things..." %} the audience would have been delighted.
+>They'll say and do all sorts of inappropriate things. If someone says 'What's for supper?' a bad improviser will desperately try to think up something original. Whatever he says he'll be too slow. He'll finally drag up some idea like 'fried mermaid'. If he'd just said 'fish'[^fish] the audience would have been delighted.
+
+[^fish]: [Look at your fish](https://austinkleon.com/2018/09/17/look-at-your-fish/)! is a good reference here for the power in un-original things...
 
 Hopefully it’s obvious how painfully relevant this is for the client who expects “original” or “clever” strategy. The simple “fish” strategy is usually the right answer - and clients that expect extravagant or over-engineered strategies are actually blocking the consultant.
 
@@ -197,7 +207,9 @@ The trick is in interrupting routines. And there’s a good way and a bad way to
 
 The bad way to interrupt routines is through a deliberate intervention - something like an off-site. This forcibly removes people from the environment usually for a day or two of “blue sky thinking” and “brainstorming”. There is a time and a place for them but mostly off-sites will allow for new ways of thinking but not new ways of doing.
 
-Rather - the better way to interrupt routines is via a thorough understanding of existing workflows, processes and routines{% include tufte-sn.html id="logistics" content="I'm reminded of the phrase <a href='https://tomcritchlow.com/2018/06/01/how-to-get-things-done/'>amatuers talk strategy, experts talk logistics here</a>" %}. Most new capacities relate to an existing routine either directly or indirectly and the job of the consultant is to map the organization effectively to understand where and how we can interrupt to build new routines.
+Rather - the better way to interrupt routines is via a thorough understanding of existing workflows, processes and routines[^logistics]. Most new capacities relate to an existing routine either directly or indirectly and the job of the consultant is to map the organization effectively to understand where and how we can interrupt to build new routines.
+
+[^logistics]: I'm reminded of the phrase [amateurs talk strategy, experts talk logistics](https://tomcritchlow.com/2018/06/01/how-to-get-things-done/) here.
 
 *Example: let’s return to that Wirecutter example to see how the idea of “growing organic traffic” translates into a co-created strategy for “experimenting with review pages”. So how? With what resource? Here the idea of interrupting routines is useful. Once you clearly understand how the workflow of research -> planning - > publishing works at a company like The Wirecutter you would be able to identify parts of the research & planning routines that can be interrupted with new data or new insights to enable the teams to look at publishing review pages when the opportunities emerges from the data.*
 
