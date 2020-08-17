@@ -6,7 +6,7 @@ tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-2.png
 ---
 
-*This is part 2 in a 4-part series called Yes! And… - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
+*This is part 2 in a 5-part series called Yes! And… - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
 
 The consultant thrives on problems. Things to be “fixed”, “solved” and “improved”. As a result it can be natural to take pleasure in identifying problems. That smell of a fresh client - waiting to be carved up by sharp 2x2s. A client with problems is a *good client* for a consultant.
 
