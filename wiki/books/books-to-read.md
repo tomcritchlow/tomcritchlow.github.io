@@ -116,3 +116,9 @@ From Robin Sloan
 <https://www.amazon.com/Slow-Days-Fast-Company-L/dp/1681370085>
 
 <https://www.dukeupress.edu/technocrats-of-the-imagination>
+
+--
+
+Chris Butler: [The Dark Beyond the Stars? Good stuff. Also, The Listeners (by James Gunn) is good linquistic/first contact/science v religion sci-fi.](https://twitter.com/chrbutler/status/1295083559053602817)
+
+Matt Webb: [Have you read The Book of Strange New Things? Blew me away. A very different book but also space-missionary sf](https://twitter.com/genmon/status/1295078185269366784)
