@@ -1,14 +1,12 @@
 ---
-layout: tufte
-title: Yes! and...
-subtitle: How to be effective in the theatre of work
+layout: strategy
+title: Optimism as an Operating System
+subtitle: Yes! And... part 2
 tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-2.png
 ---
 
-This is part 2 in a 4-part series called *Yes! And…* - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).
-
-# Chapter 2 - Optimism as an Operating System
+*This is part 2 in a 4-part series called *Yes! And…* - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
 
 The consultant thrives on problems. Things to be “fixed”, “solved” and “improved”. As a result it can be natural to take pleasure in identifying problems. That smell of a fresh client - waiting to be carved up by sharp 2x2s. A client with problems is a *good client* for a consultant.
 
@@ -20,7 +18,9 @@ Instead it’s crucial to ignore that gleeful feeling that comes from recognizin
 
 Remember - **consulting is humans all the way down** - no client wants to bring in a negative, critical or attacking consultant. And no team wants to listen to a consultant that *“has a better way of doing things”*.
 
-The sweet-spot (especially in the first few months of an engagement) is identifying the existing flows, biases and strengths of a client so that you can move with them, not against them. Go with the grain{% include tufte-sn.html id="twenty" content="Remember from Chapter 1 that the consultant often gets brought in mid-performance. Not included in 2020 planning but rather a consequence of 2020 planning..." %}. 
+The sweet-spot (especially in the first few months of an engagement) is identifying the existing flows, biases and strengths of a client so that you can move with them, not against them. Go with the grain[^twenty].
+
+[^twenty]: Remember from Chapter 1 that the consultant often gets brought in mid-performance. Not included in 2020 planning but rather a consequence of 2020 planning...
 
 Why is this so important? Because if you want to work with an organization for a long time and make a difference, **people need to like having you around**. Sure, you need to be effective but I’d contend equally, if not more important, is to be a **pleasure to work with**.
 
@@ -66,7 +66,9 @@ And, just because the back-stage is less formal than the front-stage it’s no l
 
 >the characteristics of the back region make possible a creative redefinition of professional experience that is achieved through humour and stories. Talking about professional encounters is the stuff of the back region, **but it would be a mistake to assume that such talk is trivial simply because of the context in which it occurs: serious business does not necessarily have to be done seriously**.
 
-Both of these quotes come from the book [Language and Professional Identity](https://www.palgrave.com/gp/book/9781403938008) which is a gem and worth consuming entirely if the study of language interests you{% include tufte-sn.html id="language" content="This book also contains a truly delightful way of transcribing dialogue preserving things like people talking over each other, pauses, timing etc: <img src='/images/language-transcription.jpg' />" %}. Combined with my own experience I’ll highlight some ways to think about the back-stage:
+Both of these quotes come from the book [Language and Professional Identity](https://www.palgrave.com/gp/book/9781403938008) which is a gem and worth consuming entirely if the study of language interests you[^language]. Combined with my own experience I’ll highlight some ways to think about the back-stage:
+
+[^language]: This book also contains a truly delightful way of transcribing dialogue preserving things like people talking over each other, pauses, timing etc: ![](/images/language-transcription.jpg)
 
 - Show up in the back-stage of the theatre some-times but not all times. It’s important to give teams the opportunity to retain their identity and you shouldn’t overwhelm them.
 - Join the humor and crack jokes but keep them middle road - don’t stretch to the edgy humor even if others are, politely decline to be outlandish.
@@ -93,7 +95,9 @@ It’s important to understand that there is no “just…” in the consultant�
 
 Every business is a balanced system - their strengths and successes are not **despite** their flaws but **because** of their flaws.
 
-I love this quote: *“a problem is a point between two complex systems”*{% include tufte-sn.html id="systems" content="From <a href='https://nextconf.eu/2019/02/systems-thinking-our-guard-against-unintended-consequences/'>this article on systems thinking</a>" %}
+I love this quote: *“a problem is a point between two complex systems”*[^systems].
+
+[^systems]: From [this article on systems thinking](https://nextconf.eu/2019/02/systems-thinking-our-guard-against-unintended-consequences/)
 
 So, to reframe our initial statement about problems - **the key when engaging clients is not to hunt for problems but to hunt for systems**.
 
