@@ -6,6 +6,8 @@ tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-4.png
 ---
 
+*This is part 4 of the Yes! And... series. Start with [part 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
+
 In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
 
 > “Long-term fulfillment of social obligations, as part of a community of practice.”
