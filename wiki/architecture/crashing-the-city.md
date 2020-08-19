@@ -13,3 +13,5 @@ Example ways to crash the city:
 - Create a fake giveaway to swarm a place (e.g. hamilton ticket giveaway)
 
 If the city is now cityOS then "bugs" in the system can "crash" the city.
+
+[How weaponizing disinformation can bring down a city’s power grid](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236517)
