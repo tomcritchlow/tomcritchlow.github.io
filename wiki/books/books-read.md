@@ -2,6 +2,15 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: "Working in Public: The Making and Maintenance of Open Source Software"
+   author: Nadia Eghbal
+   link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
+   date_finished: In Progress
+ - title: Tomorrow Lies in Ambush
+   author: Bob Shaw
+   link: https://www.amazon.com/Tomorrow-Lies-Ambush-Bob-Shaw-ebook/dp/B00GVFQJDU
+   date_finished: 08/22/20
+   notes: Classic sci-fi short stories recommended by Matt Webb. Some really lovely ideas and great writing! All the stories are very character-driven and often reflect more strongly on the individual characters motives and identities over the larger sci-fi conceits! Lovely. Thanks Matt!
  - title: East of Eden
    author: John Steinbeck
    link: https://www.amazon.com/East-Eden-Penguin-Orange-Collection/dp/0143129481
