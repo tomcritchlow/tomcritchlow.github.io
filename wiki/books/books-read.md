@@ -6,6 +6,11 @@ books:
    author: Nadia Eghbal
    link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
    date_finished: In Progress
+ - title: The Uncertainty Mindset
+   author: Vaughn Tan
+   link: https://www.amazon.com/Uncertainty-Mindset-Innovation-Insights-Frontiers-ebook/dp/B0825CZQR8   
+   date_finished: 08/31/2020
+   notes: A wonderful rich book exploring the world of high end culinary R&D to find lessons applicable for other types of organizations. A really fun read - great stories about high end cooking as well as sharp insights about food.
  - title: Tomorrow Lies in Ambush
    author: Bob Shaw
    link: https://www.amazon.com/Tomorrow-Lies-Ambush-Bob-Shaw-ebook/dp/B00GVFQJDU
