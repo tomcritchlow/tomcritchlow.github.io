@@ -52,7 +52,7 @@ There are I think a few viable paths:
 
 I'm sure - though a singular replacement might be the wrong model. Perhaps books just get more fragmented and unbundled as we go.
 
-And finally, in your blog you mention creating your own infrastructure. Could you explain a bit about what you've done and why you think something like what you've built could work? 
+*Sarah: And finally, in your blog you mention creating your own infrastructure. Could you explain a bit about what you've done and why you think something like what you've built could work?*
 
 Right now all I've done is create [an idea and a rough spec](https://tomcritchlow.com/2020/04/15/library-json/). It got a lot of attention and enthusiasm but I have not taken it further because of other life priorities (and I don't believe it would be a viable money making project as per above! so it's just a hobby). That said - there's a handful of sites adopting the json file format so there's some definite signs of engagement and excitement.
 
