@@ -43,7 +43,7 @@ Bargaining and decision costs = transparent pricing & understanding of what the 
 
 Policing and enforcement costs = trust gained through exposure
 
----
+🤔🤔🤔
 
 So what's the point here? I'm not sure. Maybe this year is an anomaly (I mean, obviously but I mean specifically with regards collaborations)? Maybe this is a trend? Are there ways to get better at collaborations? How much work as an independent do you want to entangle with others?
 
@@ -107,16 +107,25 @@ Is there enough of a pain point around shared billing and coordination here for 
 
 Reading [The Uncertainty Mindset](https://uncertaintymindset.org/) (highly recommended) it was the first time in a long time that I actually missed working in a team. The tight knit working environment, high performance and dance of collaboration. Through the lens of cooking and R&D kitchens Vaughn paints a picture of small, agile, high performing teams able to work together intimately. It's almost 10 years since I felt like I was working as part of a small highly functioning team (I never got this experience at Google).
 
-Is there an emotional coordination cost / benefit here? Is collaborating with other indies good for the soul as well as good economics?
+Certainly 2020 has created the right environment squads as Toby and crew point out:
 
----
+<blockquote class="quoteback" darkmode="" data-title="Squad%20Wealth" data-author="otherinter.net" cite="https://otherinter.net/squad-wealth/">
+<p>How big is BIG SQUAD ENERGY? Yes, squads are friends empowered by digital tools, but this is much more than new chat apps and online "community platforms." This is the movement. Squaddom is about new ways of being together, learning, and making meaning in an increasingly complex world. Squads are groups fueled by vibes, memes, and values, but they are <em>not</em> mindless swarms. Rather squads are proto-institutions that engage the world on their own terms.</p>
+<p>Squads are a collective redefinition of value.</p>
+<footer>otherinter.net <cite><a href="https://otherinter.net/squad-wealth/">https://otherinter.net/squad-wealth/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Squads clearly create emotional value beyond economic value - to what extent could or should an indie consulting network create squad energy? What emerging forms of camaraderie exist beyond formal teams? Is collaborating with other indies good for the soul as well as good economics?
+
+🤔🤔🤔
 
 If I could summarize my thinking right now it would look something like this; as an independent consultant you should aim for:
 
-1. The ability to be self sufficient is crucial to be able to survive, being independent is a journey and entanging *too much* of your work with others I think adds complexity and reduces agility in your consulting path.
+1. The ability to be self sufficient is crucial to be able to survive, being independent is a journey and entangling *too much* of your work with others I think adds complexity and reduces agility in your consulting path.
 2. However, being able to bring in the right trusted partners for clients is a key strategic level up and value-add, so some collaboration is important.
 3. High availability messaging environments make collaborations easier *and* more likely in the world of just-in-time work.
 4. Working with others creates mini teams that might be long-term restorative and important to counter balance the self-sufficient independent lifestyle.
 
-What's your experience with collaborations
+Thoughts?
 
