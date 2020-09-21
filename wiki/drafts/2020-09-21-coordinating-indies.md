@@ -52,7 +52,7 @@ Here's some links and further riffing around indie consulting collectives, partn
 
 ## Theory of Firm
 
-Firstly - let's ground with this great piece from Matt Webb where he links together some ideas on Coase's theory of the firm:
+Firstly - I think often about this great piece from Matt Webb where he muses on the modern state of Coase's theory of the firm:
 
 <blockquote class="quoteback" darkmode="" data-title="Filtered for the future of the firm" data-author="Matt Webb" cite="http://interconnected.org/home/2014/12/23/corporations">
 <p class="measure f5 f4-l lh-copy black-70">Why do companies exist? In <a href="http://www3.nccu.edu.tw/~jsfeng/CPEC11.pdf" target="_blank" rel="noopener">The Nature of the Firm</a> (1937), Ronald Coase put it down to <a href="http://en.wikipedia.org/wiki/Transaction_cost" target="_blank" rel="noopener">transaction costs.</a> In short, companies exist because it’s cheaper to have an organisation that does the necessary activity internally than to use the free market outside it. Why? Because using the market - the price mechanism - itself has costs.</p>
@@ -67,9 +67,11 @@ Firstly - let's ground with this great piece from Matt Webb where he links toget
 
 These last two points feel key - when coordinating indie collaborations you need coordination (i.e. open communication channels and ways of working) and the absence of price mechanism. In this instance - the absence of price mechanism is implied as "I can bring indie consultant in on project X and understand how much you will charge (roughly) and share costs transparently so neither of us is gouging the other".
 
-
+How does this core economic theory change when it comes to indie consultants?
 
 ## Fourth Wave Consulting
+
+Venkatesh Rao writes a very provocative post about "fourth wave consulting" through the framework of "fourth wave coffee"
 
 <blockquote class="quoteback" darkmode="" data-title="Leaders%20and%20Indies" data-author="Venkatesh Rao" cite="https://artofgig.substack.com/people/2264734-venkatesh-rao">
 <strong>In the fourth wave</strong>, which is just over two years old, the indie world is transitioning from individual business nerdery and personal brands/networks to more of a science, and creating a landscape dominated by shared networks rather than individual indie consultants. The <a href="https://yakcollective.org/" target="_blank" rel="noopener">Yak Collective</a> is one such network that I’ve helped instigate, one with a focus on pragmatism and delivery, and devoted to consulting as something of an empirical science you can study and get better at through trial and error.
@@ -77,14 +79,44 @@ These last two points feel key - when coordinating indie collaborations you need
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+This idea is provocative and potentially very early as a trend but not necessarily *true* per se. The post asks the question - is forth wave consulting the next wave?
+
+Certainly the Yak Collective is interesting - and I've seen a lot of benefit from my own discord group. It expands the surface area of indie consultants to open up to each other, show work and broker collaborations (client work or otherwise).
+
+A more mature example of this - I'm very impressed by the output from the [ReasearchOps group](https://researchops.community/): [Research Skills Framework](https://www.researchskills.net/).
+
+Are these groups actually values based as Venkat describes? Or are loose affiliations and collectives more valuable simply by virtue of creating domestic cozy spaces for indie consultants? The jury is still out on that one.
+
+## Collaboration & Coordination Environments
+
+Every project as an independent consultant is a form of collaboration - and I'm still yearning for a good "shared space" computing environment that isn't Google Docs folders or... email??
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every time I start a new client project I pine for a robust notion of &quot;shared digital space&quot; and yet somehow it&#39;s still lacking</p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/1215756606882959361?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I'm definitely intrigued therefore by platforms like Wethos:
+
+<blockquote class="quoteback" darkmode="" data-title="Wethos" data-author="" cite="https://www.wethos.co">
+<h2>Wethos builds tools for independent creatives &amp; strategists to team up and make more.</h2><p class="">Designed for a new wave of entrepreneurs who swap and share projects in real-time, our platform makes it easy to price work, co-pitch services, and transparently pay your partners.&nbsp;</p>
+<footer> <cite><a href="https://www.wethos.co">https://www.wethos.co</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Is there enough of a pain point around shared billing and coordination here for this product? Not sure but I'm paying attention.
+
 ## Teams & Camaraderie
 
-Reading THe Uncertainty Mindset (a highly recommended book) it was the first time in a long time that I actually missed working in a team. The tight knit working environment, high performance and dance of collaboration. Through the lens of cooking and R&D kitchens Vaughn paints a picture of small, agile, high performing teams able to work together intimately. It's almost 10 years since I felt like I was working as part of a small highly functioning team (I never got this experience at Google).
+Reading [The Uncertainty Mindset](https://uncertaintymindset.org/) (highly recommended) it was the first time in a long time that I actually missed working in a team. The tight knit working environment, high performance and dance of collaboration. Through the lens of cooking and R&D kitchens Vaughn paints a picture of small, agile, high performing teams able to work together intimately. It's almost 10 years since I felt like I was working as part of a small highly functioning team (I never got this experience at Google).
 
+Is there an emotional coordination cost / benefit here? Is collaborating with other indies good for the soul as well as good economics?
 
+---
 
 If I could summarize my thinking right now it would look something like this; as an independent consultant you should aim for:
 
 1. The ability to be self sufficient is crucial to be able to survive, being independent is a journey and entanging *too much* of your work with others I think adds complexity and reduces agility in your consulting path.
 2. However, being able to bring in the right trusted partners for clients is a key strategic level up and value-add, so some collaboration is important.
-3. 
+3. High availability messaging environments make collaborations easier *and* more likely in the world of just-in-time work.
+4. Working with others creates mini teams that might be long-term restorative and important to counter balance the self-sufficient independent lifestyle.
+
+What's your experience with collaborations
+
