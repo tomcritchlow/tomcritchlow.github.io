@@ -120,14 +120,19 @@ Certainly 2020 has created the right environment squads as Toby and crew point o
 
 Squads clearly create emotional value beyond economic value - to what extent could or should an indie consulting network create squad energy? What emerging forms of camaraderie exist beyond formal teams? Is collaborating with other indies good for the soul as well as good economics?
 
+## Good bundling and bad bundling
+
+At the same time I see a lot of newer indie consultants attempting to form brands and mini agency like structures - in particular a key mistake here is grouping together with other indies who do the same work as you. This agency-like structure feels good and enables the creation of shared identity and brand - but doesn't actually solve the key problem: sourcing good work.
+
+Banding together with others who do the same kind of work as you only works when there is an abundance of leads for a certain kind of work. But by far and away the #1 problem indies face is finding good clients. Bundling together with other indies where the work is fungible only creates more overhead. Instead - you should aim to bundle together with folks who can generate adjacent leads and collaborations - the situation where 1 + 1 = 3 as it were.
+
+All of my collaborations are with people who do adjacent things I can't do: UX researchers, product designers, brand strategists.
+
 🤔🤔🤔
 
-If I could summarize my thinking right now it would look something like this; as an independent consultant you should aim for:
+In summary - I'm increasingly realizing the power of the "group DM space" to organize, coordinate and trust other indies.
 
-1. The ability to be self sufficient is crucial to be able to survive, being independent is a journey and entangling *too much* of your work with others I think adds complexity and reduces agility in your consulting path.
-2. However, being able to bring in the right trusted partners for clients is a key strategic level up and value-add, so some collaboration is important.
-3. High availability messaging environments make collaborations easier *and* more likely in the world of just-in-time work.
-4. Working with others creates mini teams that might be long-term restorative and important to counter balance the self-sufficient independent lifestyle.
+Maybe the key idea is that engaging in collaborations as an indie makes your work more **sustainable** (both emotionally and economically) and more **resilient** (by enabling a wider range of work).
 
 Thoughts?
 
