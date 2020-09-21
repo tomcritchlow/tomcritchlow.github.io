@@ -101,6 +101,8 @@ I'm definitely intrigued therefore by platforms like Wethos:
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+Certainly whether it's 1:1 indie:client or a small group loosely joined we need better shared computing environments that enable the kind of collaboration beyond the document level. I need google docs collaboration across spaces not documents. Wethos seems to be attacking this from the billing pain point. 
+
 Is there enough of a pain point around shared billing and coordination here for this product? Not sure but I'm paying attention.
 
 ## Teams & Camaraderie
