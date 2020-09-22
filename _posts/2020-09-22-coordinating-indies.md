@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Filtered for... indie collectives, coordination & collaboration
+title: The Economic Power of Real-time Chat Spaces
 subtitle: Notes on an economic model for independents
 ---
 
@@ -45,8 +45,6 @@ Policing and enforcement costs = trust gained through exposure
 
 🤔🤔🤔
 
-So what's the point here? I'm not sure. Maybe this year is an anomaly (I mean, obviously but I mean specifically with regards collaborations)? Maybe this is a trend? Are there ways to get better at collaborations? How much work as an independent do you want to entangle with others?
-
 Here's some links and further riffing around indie consulting collectives, partnerships and collaborations:
 
 
@@ -79,11 +77,11 @@ Venkatesh Rao writes a very provocative post about "fourth wave consulting" thro
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-This idea is provocative and potentially very early as a trend but not necessarily *true* per se. The post asks the question - is forth wave consulting the next wave?
+This idea is provocative and potentially very early as a trend but not necessarily *true* per se. The post asks the question - is fourth wave consulting the next wave?
 
 Certainly the Yak Collective is interesting - and I've seen a lot of benefit from my own discord group. It expands the surface area of indie consultants to open up to each other, show work and broker collaborations (client work or otherwise).
 
-A more mature example of this - I'm very impressed by the output from the [ReasearchOps group](https://researchops.community/): [Research Skills Framework](https://www.researchskills.net/).
+A more mature example of this - I'm very impressed by the output from the [ResearchOps group](https://researchops.community/): [Research Skills Framework](https://www.researchskills.net/).
 
 Are these groups actually values based as Venkat describes? Or are loose affiliations and collectives more valuable simply by virtue of creating domestic cozy spaces for indie consultants? The jury is still out on that one.
 
