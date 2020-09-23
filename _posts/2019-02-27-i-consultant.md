@@ -53,7 +53,7 @@ If you’ve done client work before, it might feel instinctive to use whatever w
 
 *Freelancer*? Probably. (though that implies a short term version of full-time work?)
 
-As you head into the unknown of independent work you should worry less about this label - **no one will care about is as much as you do** - and it’s less an absolute definition of who you are and more a process of growing into the person you want to be.
+As you head into the unknown of independent work you should worry less about this label - **no one will care about it as much as you do** - and it’s less an absolute definition of who you are and more a process of growing into the person you want to be.
 
 ## The internal angst of labels
 
