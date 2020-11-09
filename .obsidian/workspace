@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "b49d4971fb23eeea",
+    "id": "9bd195449bad9951",
     "type": "split",
     "children": [
       {
-        "id": "b01d0fcfae454acc",
+        "id": "85ae53855dd0e237",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "music.md",
+            "file": "wiki/drafts/2020-11-10-6-years.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f916f792a47cc33",
+    "id": "c441690d1c5ac47d",
     "type": "split",
     "children": [
       {
-        "id": "d0b0b22b20380349",
+        "id": "d438ee984337a25c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1b4ab8343c188f",
+            "id": "0d70882c11d3a87a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "54374279bbf80857",
+            "id": "b906d92df19a775b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,20 +51,20 @@
     "width": 300
   },
   "right": {
-    "id": "85e21517635b0fce",
+    "id": "98eab05491e8f97c",
     "type": "split",
     "children": [
       {
-        "id": "79ce4af5299c56c9",
+        "id": "edfd83472f942cb9",
         "type": "tabs",
         "children": [
           {
-            "id": "d40076b9feee8f6a",
+            "id": "bd23589f96e03349",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music.md"
+                "file": "wiki/drafts/2020-11-10-6-years.md"
               }
             }
           }
@@ -72,14 +72,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "music.md",
-    "Exploring digital gardens.md",
-    "Strategy consulting.md",
-    "current interests.md",
-    "new page.md",
-    "Untitled.md"
+    "wiki/drafts/2020-11-10-6-years.md",
+    "images/Pasted image 20201109092959.png",
+    "wiki/drafts/Pasted image 20201109092809.png",
+    "notes/Exploring digital gardens.md",
+    "2020-06-02.md",
+    "notes/Untitled.md",
+    "testing obsidian.md"
   ]
 }

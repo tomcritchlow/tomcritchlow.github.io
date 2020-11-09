@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "b49d4971fb23eeea",
+    "id": "0580fd7ce54c565c",
     "type": "split",
     "children": [
       {
-        "id": "b01d0fcfae454acc",
+        "id": "9a74fd11f955ed11",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "music.md",
+            "file": "2020-11-10-6-years.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f916f792a47cc33",
+    "id": "a3cf0863dbe4d064",
     "type": "split",
     "children": [
       {
-        "id": "d0b0b22b20380349",
+        "id": "8e07e9ee038868ac",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1b4ab8343c188f",
+            "id": "15ec0cd7e948fcdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "54374279bbf80857",
+            "id": "2ddea43837dc1f26",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,20 +51,20 @@
     "width": 300
   },
   "right": {
-    "id": "85e21517635b0fce",
+    "id": "0e804bbcc0177ea6",
     "type": "split",
     "children": [
       {
-        "id": "79ce4af5299c56c9",
+        "id": "b123aada9f7834cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d40076b9feee8f6a",
+            "id": "d3c7aa62d092c988",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music.md"
+                "file": "2020-11-10-6-years.md"
               }
             }
           }
@@ -72,14 +72,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "music.md",
-    "Exploring digital gardens.md",
-    "Strategy consulting.md",
-    "current interests.md",
-    "new page.md",
+    "2020-11-10-6-years.md",
+    "Pasted image 20201109092809.png",
+    "2020-10-09-content-ops.md",
     "Untitled.md"
   ]
 }

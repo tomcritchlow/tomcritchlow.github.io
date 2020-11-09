@@ -16,5 +16,6 @@
   "lastOpenSidebarTab": "File explorer",
   "alwaysUpdateLinks": true,
   "lastOpenRightSidedockTab": "Backlinks",
-  "spellcheck": true
+  "spellcheck": true,
+  "useMarkdownLinks": true
 }

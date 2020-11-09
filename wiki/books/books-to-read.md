@@ -122,3 +122,5 @@ From Robin Sloan
 Chris Butler: [The Dark Beyond the Stars? Good stuff. Also, The Listeners (by James Gunn) is good linquistic/first contact/science v religion sci-fi.](https://twitter.com/chrbutler/status/1295083559053602817)
 
 Matt Webb: [Have you read The Book of Strange New Things? Blew me away. A very different book but also space-missionary sf](https://twitter.com/genmon/status/1295078185269366784)
+
+aaron lewis is reading: <https://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html>

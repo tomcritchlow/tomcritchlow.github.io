@@ -116,3 +116,7 @@ Source: [Performing Magical Capitalism - EPIC](https://www.epicpeople.org/perfor
 http://www.openculture.com/2018/02/1600-occult-books-now-digitized-put-online.html
 
 https://www.tandfonline.com/doi/abs/10.1080/09502386.2020.1788620?journalCode=rcus20&
+
+https://www.youtube.com/watch?v=srrDutnZIXI&list=WL&index=14&t=25s
+
+https://www.cjc-online.ca/index.php/journal/article/viewFile/2906/2471

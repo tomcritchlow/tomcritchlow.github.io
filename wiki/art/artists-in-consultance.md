@@ -22,3 +22,7 @@ Source: [The Artist of the Future](https://artreview.com/back-to-the-drawing-boa
 > This article is the first in a series, where we unpack and explore a set of methodological tools and approaches developed while working on [Primer](http://www.primer.dk/). Primer is a platform for artistic and organizational development, housed in the context of [Aquaporin](https://aquaporin.dk/), a global water technology company.
 
 Source: [Systems Effects and Learning Processes](https://medium.com/diakron/systems-effects-and-learning-processes-d6069e9c536a) by David Hilmer Rex
+
+--
+
+https://twitter.com/buckhouse/status/1313241232349384704
