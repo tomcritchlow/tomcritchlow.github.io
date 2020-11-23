@@ -10,16 +10,19 @@
 
 {% for post in site.posts %}
 {% if post.url contains "/2019/11/18/yes-and/" or post.url contains "/2019/11/19/optimism-operating-system/" or post.url contains "/2019/12/06/blocking-unblocking-clients/" or post.url contains "/2020/06/24/navigating-power-status/" or post.url contains "/2020/08/18/the-fool/" %}
+{% assign yesand = yesand | push:post %}
+{% endif %}
+{% endfor %}
 
+{% assign sortedPages = yesand | sort:"date" | reverse %}
+
+{% for post in sortedPages %}
 {{post.url}}
 <h1>{{post.title}}</h1>
 <div class="post-content">
   {{post.content}}
   </div>
 
-
-
-{% endif %}
 {% endfor %}
 
 
