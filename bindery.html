@@ -45,7 +45,7 @@ let breakRule = Bindery.PageBreak({
 let headerRule = Bindery.RunningHeader({
   render: (pageInfo) => pageInfo.isLeft
     ? `${pageInfo.number} · ${pageInfo.heading.h1}`
-    : `${pageInfo.heading.h2} · ${pageInfo.number}`
+    : `Tom Critchlow · ${pageInfo.number}`
 });
 
 Bindery.makeBook({
