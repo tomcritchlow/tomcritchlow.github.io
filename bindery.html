@@ -25,7 +25,7 @@ img{max-width:100%}
 {% assign sortedPages = yesand | sort:"date" %}
 
 {% for post in sortedPages %}
-{{post.url}}
+
 <h1>{{post.title}}</h1>
 <div class="post-content">
   {{post.content}}
