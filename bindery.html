@@ -26,7 +26,7 @@
 
 let linksAsFootnotes = Bindery.Footnote({
   selector: 'p > a',
-  render: (element, number) => `${number}: Link to ${element.href}`;
+  render: (element, number) => `${number}: Link to ${element.href}`
 });
 
 Bindery.makeBook({
