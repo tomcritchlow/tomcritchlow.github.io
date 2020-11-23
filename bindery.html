@@ -42,9 +42,15 @@ let breakRule = Bindery.PageBreak({
   position: 'before',
 });
 
+let headerRule = Bindery.RunningHeader({
+  render: (pageInfo) => pageInfo.isLeft
+    ? `${pageInfo.number} · ${pageInfo.heading.h1}`
+    : `${pageInfo.heading.h2} · ${pageInfo.number}`
+});
+
 Bindery.makeBook({
   content: '#content',
-  rules: [linksAsFootnotes,breakRule],
+  rules: [linksAsFootnotes,breakRule,headerRule],
   pageSetup: {
     size: { width: '5.75in', height: '8.75in' },
     margin: { top: '0.625in', inner: '0.625in', outer: '0.625in', bottom: '0.625in' },
