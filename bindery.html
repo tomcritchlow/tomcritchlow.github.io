@@ -1,6 +1,13 @@
 ---
 ---
 
+<style>
+
+img{max-width:100%}
+
+</style>
+
+
 <div id="content">
     
 <h1>The Strategic Independent</h1>
@@ -33,6 +40,11 @@
   <script>
 
 let linksAsFootnotes = Bindery.Footnote({
+  selector: 'p > a',
+  render: (element, number) => `${number}: Link to ${element.href}`
+});
+
+let marginFootnotes = Bindery.Footnote({
   selector: 'p > a',
   render: (element, number) => `${number}: Link to ${element.href}`
 });
