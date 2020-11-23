@@ -37,9 +37,14 @@ let linksAsFootnotes = Bindery.Footnote({
   render: (element, number) => `${number}: Link to ${element.href}`
 });
 
+let breakRule = Bindery.PageBreak({
+  selector: 'h1',
+  position: 'before',
+});
+
 Bindery.makeBook({
   content: '#content',
-  rules: [ linksAsFootnotes],
+  rules: [linksAsFootnotes,breakRule],
   pageSetup: {
     size: { width: '5.75in', height: '8.75in' },
     margin: { top: '0.625in', inner: '0.625in', outer: '0.625in', bottom: '0.625in' },
