@@ -15,7 +15,7 @@
 {% endif %}
 {% endfor %}
 
-{% assign sortedPages = yesand | sort:"date" | reverse %}
+{% assign sortedPages = yesand | sort:"date" %}
 
 {% for post in sortedPages %}
 {{post.url}}
