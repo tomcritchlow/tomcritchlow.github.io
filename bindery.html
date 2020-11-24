@@ -18,6 +18,17 @@ html{
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
+h1{
+  font-weight:400;
+  padding-top:2em;
+}
+
+h2{
+  font-weight:100;
+  font-style:italic;
+  padding-bottom:2em;
+}
+
 .post-content p, .post-content blockquote, .post-content ul, .post-content ol, .post-content li{
 font-size:13px;
 line-height:15px;
@@ -87,6 +98,7 @@ img{max-width:100%}
 {% for post in sortedPages %}
 
 <h1>{{post.title}}</h1>
+<h2>{{post.subtitle}}</h2>
 <div class="post-content">
   {{post.content}}
   </div>
