@@ -107,7 +107,7 @@ let linksAsFootnotes = Bindery.Footnote({
 
 let marginFootnotes = Bindery.Footnote({
   selector: '.marginnote',
-  render: (element, number) => `${number}: Link to ${element.data-title}`
+  render: (element, number) => `${number}: Link to ${element.getAttribute("data-title")}`
 });
 
 let breakRule = Bindery.PageBreak({
