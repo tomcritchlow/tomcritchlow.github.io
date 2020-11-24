@@ -81,7 +81,11 @@ img{max-width:100%}
 
 
 <div id="content">
-    
+
+<div id="intro"></div>
+
+<div id="imprint">!& Yes! <br> And... press</div>
+
 <h1>The Strategic Independent</h1>
 
 <p>Intro text goes here...</p>
@@ -154,9 +158,19 @@ $( document ).ready(function() {
         : `Tom Critchlow · ${pageInfo.number}`
     });
 
+    let firstPage = Bindery.FullBleedPage({
+      selector: '.intro',
+      continue: 'same'
+    });
+
+    let imprintPage = Bindery.FullBleedPage({
+      selector: '.imprint',
+      continue: 'same'
+    });    
+
     Bindery.makeBook({
       content: '#content',
-      rules: [linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
+      rules: [firstPage, imprintPage, linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
       pageSetup: {
         size: { width: '6.25in', height: '9.25in' },
         margin: { top: '0.825in', inner: '0.925in', outer: '0.625in', bottom: '1in' },
