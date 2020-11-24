@@ -47,6 +47,7 @@ img{max-width:100%}
 .📖-footer:not(:empty){
  padding-top:20px;
   border-top:1px solid #01EB10;
+  font-size:10px;
 }
 
 </style>
@@ -91,7 +92,7 @@ let linksAsFootnotes = Bindery.Footnote({
 });
 
 let marginFootnotes = Bindery.Footnote({
-  selector: 'p > a',
+  selector: 'sup',
   render: (element, number) => `${number}: Link to ${element.href}`
 });
 
@@ -113,7 +114,7 @@ let headerRule = Bindery.RunningHeader({
 
 Bindery.makeBook({
   content: '#content',
-  rules: [linksAsFootnotes,breakRule,headerRule, breakHeaders],
+  rules: [linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
   pageSetup: {
     size: { width: '6.25in', height: '9.25in' },
     margin: { top: '0.825in', inner: '0.825in', outer: '0.625in', bottom: '0.825in' },
