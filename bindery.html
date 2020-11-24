@@ -97,40 +97,53 @@ img{max-width:100%}
   <script src="https://unpkg.com/bindery@2.3.1/dist/bindery.min.js"></script>
   <script>
 
-let linksAsFootnotes = Bindery.Footnote({
-  selector: 'p > a',
-  render: (element, number) => `${number}: Link to ${element.href}`
-});
-
-let marginFootnotes = Bindery.Footnote({
-  selector: '.marginnote',
-  render: (element, number) => `${number}: Link to ${element.getAttribute("data-title")}`
-});
-
-let breakRule = Bindery.PageBreak({
-  selector: 'h1',
-  position: 'before',
-});
-
-let breakHeaders = Bindery.PageBreak({
-  selector: "h1, h2, h3, h4, h5, h6, li, tr",
-  position: "avoid"
-});
-
-let headerRule = Bindery.RunningHeader({
-  render: (pageInfo) => pageInfo.isLeft
-    ? `${pageInfo.number} · ${pageInfo.heading.h1}`
-    : `Tom Critchlow · ${pageInfo.number}`
-});
-
-Bindery.makeBook({
-  content: '#content',
-  rules: [linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
-  pageSetup: {
-    size: { width: '6.25in', height: '9.25in' },
-    margin: { top: '0.825in', inner: '0.825in', outer: '0.625in', bottom: '0.825in' },
-  },
-});
 
 
+var footnotes = $(".footnotes p");
+$("sup").each(function(index){
+  var fn = footnotes[index].removeChild(footnotes[index].lastChild);
+  $(this).replaceWith("<span class='marginnote' data-title='"+footnotes[index].innerHTML+"'></span>");  
+});   
+$(".footnotes").hide()
+    
+    
+
+$( document ).ready(function() {
+
+    let linksAsFootnotes = Bindery.Footnote({
+      selector: 'p > a',
+      render: (element, number) => `${number}: Link to ${element.href}`
+    });
+
+    let marginFootnotes = Bindery.Footnote({
+      selector: '.marginnote',
+      render: (element, number) => `${number}: Link to ${element.getAttribute("data-title")}`
+    });
+
+    let breakRule = Bindery.PageBreak({
+      selector: 'h1',
+      position: 'before',
+    });
+
+    let breakHeaders = Bindery.PageBreak({
+      selector: "h1, h2, h3, h4, h5, h6, li, tr",
+      position: "avoid"
+    });
+
+    let headerRule = Bindery.RunningHeader({
+      render: (pageInfo) => pageInfo.isLeft
+        ? `${pageInfo.number} · ${pageInfo.heading.h1}`
+        : `Tom Critchlow · ${pageInfo.number}`
+    });
+
+    Bindery.makeBook({
+      content: '#content',
+      rules: [linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
+      pageSetup: {
+        size: { width: '6.25in', height: '9.25in' },
+        margin: { top: '0.825in', inner: '0.825in', outer: '0.625in', bottom: '0.825in' },
+      },
+    });
+
+});    
   </script>
