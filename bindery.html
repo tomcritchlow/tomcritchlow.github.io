@@ -71,7 +71,7 @@ img{max-width:100%}
 <h1>The Strategic Independent</h1>
 
 <p>Intro text goes here...</p>
-<p>What if there was a margin note that went something<span class="marginnote">Some margin note here</span> like this</p>
+<p>What if there was a margin note that went something<span data-title="Margin waffles here" class="marginnote">x</span> like this</p>
 
 {% assign yesandposts = "/2019/11/18/yes-and/,/2019/11/19/optimism-operating-system/,/2019/12/06/blocking-unblocking-clients/,/2020/06/24/navigating-power-status/,/2020/08/18/the-fool/" | split: ',' %}
 
@@ -107,7 +107,7 @@ let linksAsFootnotes = Bindery.Footnote({
 
 let marginFootnotes = Bindery.Footnote({
   selector: '.marginnote',
-  render: (element, number) => `${number}: Link to ${element.textContent}`
+  render: (element, number) => `${number}: Link to ${element.data-title}`
 });
 
 let breakRule = Bindery.PageBreak({
