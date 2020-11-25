@@ -118,7 +118,7 @@ img{max-width:100%}
 {% assign sortedPages = yesand | sort:"date" %}
 
 {% for post in sortedPages %}
-
+<div class="chapternumber">Chapter {{forloop.index}}</div>
 <h1 class="posttitle">{{post.title}}</h1>
 <h2 class="postsubtitle">{{post.subtitle}}</h2>
 <div class="post-content">
