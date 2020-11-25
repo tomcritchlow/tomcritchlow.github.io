@@ -129,7 +129,7 @@ img{max-width:100%}
 
 {% assign sortedPages = yesand | sort:"date" %}
 
-{% for post in site.posts %}
+{% for post in sortedPages %}
 
 <h1 class="posttitle">{{post.title}}</h1>
 <h2 class="postsubtitle">{{post.subtitle}}</h2>
