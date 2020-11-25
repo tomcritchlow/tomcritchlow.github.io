@@ -84,6 +84,10 @@ img{max-width:100%}
   z-index:10;
 }
 
+#imprint{
+  text-align:center;
+}
+
 #imprint img{
   display:block;
   width:100px;
@@ -118,9 +122,10 @@ img{max-width:100%}
 {% assign sortedPages = yesand | sort:"date" %}
 
 {% for post in sortedPages %}
-<div class="chapternumber">Chapter {{forloop.index}}</div>
+
 <h1 class="posttitle">{{post.title}}</h1>
 <h2 class="postsubtitle">{{post.subtitle}}</h2>
+<div class="chapternumber">Chapter {{forloop.index}}</div>
 <div class="post-content">
   {{post.content}}
   </div>
