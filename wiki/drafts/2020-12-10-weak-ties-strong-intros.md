@@ -11,6 +11,7 @@ The biggest challenge independent consultants face is generating new clients. Wh
 So how do you generate more leads? In particular - how do you find good leads that are warm and primed for strategic work. In my previous post, [Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/), I talked about the power of your network and why warm leads for strategic work is important:
 
 >It’s important for **leads to be warm** - because it’s hard to convince someone to spend $20k / month on a consulting contract without them already thinking they might spend money on consulting (and having some kind of budget earmarked!)
+>
 >It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts.
 
 Building a resilient and strong network around you is obviously important but in this post I’m going to argue that weak ties are often at work behind the scenes - and that weak ties are where opportunity scales beyond your immediate close network.
@@ -26,7 +27,7 @@ In this post we’ll take a look at some network theory and a classic paper “t
 
 Who recognizes this kind of request - posted in a private Slack group?
 
-
+![](/images/dark-lead.png)
 
 In this image I’m playing the role of client - fielding a client lead out into a Slack group.
 
@@ -56,13 +57,13 @@ This concept of weak ties being powerful is actually not immediately intuitive -
 
 Look at the following image (from the paper) - where solid lines are strong ties, and dotted lines are weak ties:
 
-
+![](/images/weak-ties-diagram-1.png)
 
 You can clearly see that there is no possible connection between D and B except via a weak tie.
 
 A more modern version of this chart might look something like this - where the only way to traverse these dark/cozy networks is via weak ties (note how the only lines between groups are dotted lines):
 
-
+![](/images/weak-ties-diagram-1.png)
 
 Let’s return to that Slack request where I’m playing client - on the hunt for a UX designer for a client project:
 
@@ -126,11 +127,11 @@ Building weak ties however is only one part of the equation - we also need those
 
 Take this example, no offense to the tweeter here, I really love people trying to make intros for me! But this is not a great fit for my current work:
 
-
+![](/images/twitter-intro.svg)
 
 Instead, this intro is a note from someone I barely know in a slack group:
 
-
+![](/images/warm-intro.svg)
 
 Note how the intro is primed around the kind of work that I’ve done in the past (audience growth strategy) and they have a reference point from a previous client project. This eventually turned into a client project that was a good fit for my skills.
 
