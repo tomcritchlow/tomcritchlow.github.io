@@ -177,11 +177,8 @@ Bonus points for describing your work in memorable language. From Strange Attrac
 
 A key ingredient for getting client/consultant fit is finding the right seniority. These days I’m rarely working with anyone below VP-level, and typically working directly with the C-suite. It’s important to project the right signals here to ensure you don’t have a mis-match.
 
-```Example: My post about navigating power and status (https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see Andy Raskin’s site (https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.```
-
-
 <div class="example" markdown="1">
-Example: My post about [navigating power and status](https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see Andy Raskin’s site (https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.
+Example: My post about [navigating power and status](https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see [Andy Raskin’s site](https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.
 </div>
 
 
