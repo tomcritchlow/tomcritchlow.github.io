@@ -189,7 +189,7 @@ This is why building a network can be exhausting - there’s a constant pressure
 
 For some nuanced advice on this topic - I love Willa Koerner’s advice in “[strategic digital gardening](https://willakoerner.com/project/digital-gardening)” about creating a digital presence that not only works for your audience but that works for you too. For anyone who feels like networking or blogging makes them want to vomit then this might be for you.
 
-
+![](/images/willa-gardening.png)
 
 ## Conclusion
 
