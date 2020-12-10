@@ -71,9 +71,9 @@ Let’s return to that Slack request where I’m playing client - on the hunt fo
 
 In my search, I posted in two Slack groups I’m part of and pinged two close friends I thought might have good referrals. The above chat with Elan was the one that struck gold - the next day I had an intro to a UX designer (thanks Elan!) who successfully partnered on the project with me.
 
+![](/images/dark-lead-diagram.svg)
 
-
-From the perspective of the UX designer that I reached out to, it would seem like this client project fell in his lap “out of nowhere” - a “dark lead” that he had no visibility into.
+But, from the perspective of the UX designer, it would seem like this client project fell in his lap “out of nowhere” - a “dark lead” that he had no visibility into.
 
 Ok, so we know these dark leads operate via weak ties - but it’s still seemingly random. Is there a way to be more intentional? Is there a way to optimize our presence in the network to capture these dark leads? Let’s explore.
 
@@ -81,7 +81,7 @@ Ok, so we know these dark leads operate via weak ties - but it’s still seeming
 
 Let’s look at the anatomy of a typical “dark lead.” In the example above it was a 1:1 DM that gained me the intro but in many cases these requests are put into group spaces:
 
-
+![](/images/dark-lead-anatomy.svg)
 
 This request is in a #referrals slack channel in a group I’m part of with 121 members. There’s two interesting characteristics of dark leads:
 
