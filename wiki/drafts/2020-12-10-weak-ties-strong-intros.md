@@ -63,7 +63,7 @@ You can clearly see that there is no possible connection between D and B except 
 
 A more modern version of this chart might look something like this - where the only way to traverse these dark/cozy networks is via weak ties (note how the only lines between groups are dotted lines):
 
-![](/images/weak-ties-diagram-1.png)
+![](/images/weak-ties-diagram-2.png)
 
 Let’s return to that Slack request where I’m playing client - on the hunt for a UX designer for a client project:
 
