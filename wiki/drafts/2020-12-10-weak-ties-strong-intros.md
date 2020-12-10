@@ -111,8 +111,8 @@ The key is to look for balance - to build the kind of online presence that can s
 <div class="example" markdown="1">
 Example: I cultivate my network in a variety of ways broad and deep. My Tinyletter is a more intimate space while my Twitter profile spans a variety of topics and groups. My discord group is a more intimate, smaller group while my blog reaches all kinds of folks.
 ![](/images/spaces-2x2-new.svg)
+For more on this idea see [my post on setting up a discord server for my blog](https://tomcritchlow.com/2020/07/08/discord/).
 </div>
-
 
 The trend du jour is Substack - and it’s a great model. But I’d argue that many Substacks are about building deeper relationships with a subscriber base - where the goal is to engage a portion of your audience in every email.
 
