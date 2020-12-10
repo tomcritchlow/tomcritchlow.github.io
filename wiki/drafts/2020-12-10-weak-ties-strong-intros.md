@@ -110,7 +110,9 @@ The key is to look for balance - to build the kind of online presence that can s
 
 <div class="example" markdown="1">
 Example: I cultivate my network in a variety of ways broad and deep. My Tinyletter is a more intimate space while my Twitter profile spans a variety of topics and groups. My discord group is a more intimate, smaller group while my blog reaches all kinds of folks.
+
 ![](/images/spaces-2x2-new.svg)
+
 For more on this idea see [my post on setting up a discord server for my blog](https://tomcritchlow.com/2020/07/08/discord/).
 </div>
 
@@ -124,7 +126,7 @@ Blogging, conversely, isn’t designed for building an audience in quite the sam
 
 Neither is right - but the blogging model can be useful for cultivating weak ties. Blogging reaches a slightly different audience each time and that's a feature not a bug!
 
-## A Memetic Image of your work
+## Ensuring Weak Ties Have a Good Mental Model of your Work
 
 Building weak ties however is only one part of the equation - we also need those weak ties to have a good enough mental model of your work that they can make a good intro. Remember - people only accrue social capital from making an intro if it’s a good match, and that requires them to remember you at the right time.
 
@@ -140,9 +142,9 @@ Note how the intro is primed around the kind of work that I’ve done in the pas
 
 This is the key to ensuring weak ties can make strong intros - ensuring that they have a memetic image of your work in their mind so that they can correctly connect you to the right kind of leads.
 
-I use the word *memetic* here to suggest not only that people need to know clearly what kind of work you do but also that your brand, your image and your work needs to be *memorable*.
+I use the word *memetic* here to suggest not only that people need to know clearly what kind of work you do but also that your brand, your image and your work needs to be *memorable* and designed to be re-shared in response to one of these dark leads.
 
-So how do you provide a strong memetic image of your work to your weak ties? There are three key ideas:
+So how do you provide a strong mental model of your work to your weak ties? There are three key ideas:
 
 1. You need to provide real examples of the work, not just the output
 2. You need to project the right level of seniority
@@ -156,10 +158,10 @@ A great way to provide a look at your work is to peel back the curtain on your p
 
 [^vibe]: A key idea related to this is vibe. By working in public, sharing your approach and ideas, not just the finished work you can project a sensibility or vibe - and this can be a key attracting factor. Clients often look for a consultant that they can resonate with and form a working partnership with - this requires a shared sensibility and “way of looking at the world” beyond skills or experience.
 
-That’s why I’m a big fan of [thinking in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/), it’s a great way to give your network a feel for the actual work, and why I think typically this kind of publishing is more valuable for indie consultants than case studies. Case studies are difficult to produce, limited in scope and tend to overly focus on the results rather than the process.
+That’s why I’m a big fan of [thinking in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/), it’s a great way to give your network a feel for the actual work, and why I think typically this kind of publishing is more valuable for indie consultants than case studies. Case studies are difficult to produce, limited in scope and tend to overly focus on the results, while thinking in public is an approach that emphasizes sharing as you go, sharing half-finished work and ideas and allows you to roam across disciplines, industries and themes.
 
 <div class="example" markdown="1">
-Example: my writing about consulting (meta alert!) showcases a bunch of real examples of my work. From recent posts: “working inside an organization attempting a large re-org each VP presented their own budgets and headcount plan to the c-suite” and “I was working with the market leader in a category who was getting complacent with growth” and “working with a media company to overhaul their strategy” 
+Example: my writing about consulting (meta alert!) showcases a bunch of real examples of my work. From recent posts: *“working inside an organization attempting a large re-org each VP presented their own budgets and headcount plan to the c-suite”* and *“I was working with the market leader in a category who was getting complacent with growth”* and *“working with a media company to overhaul their strategy”* 
 </div>
 
 Bonus points for describing your work in memorable language. From Strange Attraction:
@@ -180,16 +182,17 @@ Bonus points for describing your work in memorable language. From Strange Attrac
 
 ### 2. Project the right seniority
 
-A key ingredient for getting client/consultant fit is finding the right seniority. These days I’m rarely working with anyone below VP-level, and typically working directly with the C-suite. It’s important to project the right signals here to ensure you don’t have a mis-match.
+A key ingredient for getting client/consultant fit is finding the right seniority. These days I’m rarely working with anyone below VP-level, and typically working directly with the C-suite. It’s important to project the right signals here to ensure you don’t have a mis-aligned intro even for a project that you might otherwise be a good fit for.
 
 <div class="example" markdown="1">
 Example: My post about [navigating power and status](https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see [Andy Raskin’s site](https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.
 </div>
 
+Projecting seniority is typically about as straight forward as name-dropping job titles... But there is a sensibility you can project of having a contextual view of a client's business - see my post [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) for more on the concentric circle of context idea.
 
 ### 3. Find a way to sustain visibility
 
-While all this theorizing is cute, one aspect most correlated with generating leads from your network is simply being visible. Tweeting, posting, commenting, blogging, emailing. It doesn’t matter the medium, humans are hardwired for recency and if you’ve been visible recently you’re more likely to get work.
+While all this theorizing is cute, one of the aspects most correlated with generating leads is simply being visible. Tweeting, posting, commenting, blogging, emailing. It doesn’t matter the medium, humans are hardwired for recency and if you’ve been visible recently you’re more likely to get a referral, especially from your weak ties.
 
 This is why building a network can be exhausting - there’s a constant pressure to publish, to promote, to ping. So it’s important to think about ways to build a sustainable way to be visible[^feedback].
 
