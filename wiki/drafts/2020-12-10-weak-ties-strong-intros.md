@@ -202,6 +202,8 @@ For some nuanced advice on this topic - I love Willa Koerner’s advice in “[s
 
 ![](/images/willa-gardening.png)
 
+Ultimately to find a sustainable way to be visible you'll need to find your own medium, voice and style that works for you. This can take time to develop so seek some ways to get started in low-risk ways and look to create things that you *want* to create, not things that you think some abstract audience wants. And it doesn't need to be writing - if you're a visual thinker share a figma file or a deck, if you're improvisational try a vlog or a podcast, if you're a poet try poetry! You'll have a lot more success by being sustainably visible in a medium where you feel comfortable than trying to force yourself to create content because you think you should in a way that makes you cringe.
+
 ## Conclusion
 
 When you first start out as an independent you won’t have a clear vision of the work you do and you’ll inevitably lean hard on your strong ties to generate clients. That’s fine! It’s how it’s supposed to work. But to succeed in building a sustainable practice you’ll need to learn how to cultivate a large surface area of weak ties and create a clear, memorable image of the work you do so that your weak ties can make strong intros.
