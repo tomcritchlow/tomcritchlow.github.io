@@ -179,6 +179,12 @@ A key ingredient for getting client/consultant fit is finding the right seniorit
 
 ```Example: My post about navigating power and status (https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see Andy Raskin’s site (https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.```
 
+
+<div class="example">
+Example: My post about navigating power and status (https://tomcritchlow.com/2020/06/24/navigating-power-status/) is all about engaging with the VP/C-suite of client organizations. This kind of signaling correctly anchors my audience at the right level of engagement. Testimonials can do this well too - see Andy Raskin’s site (https://andyraskin.com/) that lists a whole bunch of founder/C-suite quotes.
+</div>
+
+
 ### 3. Find a way to sustain visibility
 
 While all this theorizing is cute, one aspect most correlated with generating leads from your network is simply being visible. Tweeting, posting, commenting, blogging, emailing. It doesn’t matter the medium, humans are hardwired for recency and if you’ve been visible recently you’re more likely to get work.
