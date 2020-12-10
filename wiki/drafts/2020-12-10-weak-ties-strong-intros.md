@@ -63,11 +63,11 @@ You can clearly see that there is no possible connection between D and B except 
 
 A more modern version of this chart might look something like this - where the only way to traverse these dark/cozy networks is via weak ties (note how the only lines between groups are dotted lines):
 
-![](/images/weak-ties-diagram-2.png)
+![](/images/weak-ties-diagram-2.svg)
 
 Let’s return to that Slack request where I’m playing client - on the hunt for a UX designer for a client project:
 
-
+![](/images/elan-lead.svg)
 
 In my search, I posted in two Slack groups I’m part of and pinged two close friends I thought might have good referrals. The above chat with Elan was the one that struck gold - the next day I had an intro to a UX designer (thanks Elan!) who successfully partnered on the project with me.
 
