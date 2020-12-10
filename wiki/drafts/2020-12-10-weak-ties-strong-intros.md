@@ -158,7 +158,9 @@ A great way to provide a look at your work is to peel back the curtain on your p
 
 That’s why I’m a big fan of [thinking in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/), it’s a great way to give your network a feel for the actual work, and why I think typically this kind of publishing is more valuable for indie consultants than case studies. Case studies are difficult to produce, limited in scope and tend to overly focus on the results rather than the process.
 
-```Example: my writing about consulting (meta alert!) showcases a bunch of real examples of my work. From recent posts: “working inside an organization attempting a large re-org each VP presented their own budgets and headcount plan to the c-suite” and “I was working with the market leader in a category who was getting complacent with growth” and “working with a media company to overhaul their strategy” ```
+<div class="example" markdown="1">
+Example: my writing about consulting (meta alert!) showcases a bunch of real examples of my work. From recent posts: “working inside an organization attempting a large re-org each VP presented their own budgets and headcount plan to the c-suite” and “I was working with the market leader in a category who was getting complacent with growth” and “working with a media company to overhaul their strategy” 
+</div>
 
 Bonus points for describing your work in memorable language. From Strange Attraction:
 
