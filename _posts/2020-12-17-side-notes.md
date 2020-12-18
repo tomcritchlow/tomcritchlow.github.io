@@ -22,7 +22,7 @@ I also use side-notes[^side] for call-outs and, mostly, snark. They're inspired 
 
 Read more about that tech here [a new simpler approach to margin notes](https://tomcritchlow.com/2020/03/16/new-blogging-3/#a-new-simpler-approach-to-margin-notes).
 
-Then I found this 8,000 word monster[^monster] from Gwern all about sidenotes on the web, with various technological solutions outlined:
+Then I found this 8,000 word monster[^monster] from Gwern all about sidenotes on the web, with various technological solutions outlined which is just a stunning tour de force:
 
 [^monster]: 😱
 
