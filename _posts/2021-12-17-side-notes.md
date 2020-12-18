@@ -4,7 +4,9 @@ title: Filtered for... margin notes
 subtitle: Margin notes, in-line comments and more.
 ---
 
-I've been thinking a lot about margin notes recently.
+I've been thinking a lot about margin notes recently[^yes].
+
+[^yes]: Yes, like this!
 
 For a few years now I've had hypothesis installed on my site (try it, just highlight any text and tap "annotate"!). It's kind of like Google Docs in-line comments but for the web. The UX is a little clunky - especially on mobile and I get very few comments that way but I always enjoy them when I do.
 
@@ -16,11 +18,13 @@ How do we bring this level of interactivity to the web? Comments at the end of t
 
 I also use side-notes[^side] for call-outs and, mostly, snark. They're inspired by Tufte CSS and I write them in pure markdown by using footnotes and then rendering them in JS on the page as side-notes.
 
-[^side]: Like this! Hi.
+[^side]: Like this! Hi again.
 
 Read more about that tech here [a new simpler approach to margin notes](https://tomcritchlow.com/2020/03/16/new-blogging-3/#a-new-simpler-approach-to-margin-notes).
 
-Then I found this 8,000 word monster from Gwern all about sidenotes on the web, with various technological solutions outlined:
+Then I found this 8,000 word monster[^monster] from Gwern all about sidenotes on the web, with various technological solutions outlined:
+
+[^monster]: 😱
 
 <blockquote class="quoteback" darkmode="" data-title="Sidenotes%20In%20Web%20Design" data-author="Gwern Branwen" cite="https://www.gwern.net/Sidenotes">
 <h1>Sidenotes In Web Design</h1>
