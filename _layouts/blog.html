@@ -100,6 +100,12 @@
 
     /* Copy the text inside the text field */
     document.execCommand("copy");
+
+    $copyurl.html("Copied!");
+      setTimeout(function() {
+        $copyurl.html("Copy");
+      }, 2000);
+
   });
 
   var $webshare = $("#webshare");
