@@ -66,7 +66,7 @@
   This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
 </div>
 
-<div>
+<div class="pv2">
   <input readonly
     value="http://tomcritchlow.com{{page.url}}"
     title ="{{page.title}}"
@@ -109,9 +109,9 @@
     if (navigator.share) {
       navigator
         .share({
-          title: "Page title here",
-          text: "Some text here",
-          url: "https://tomcritchlow.com"
+          title: "{{page.title}}",
+          text: "{{page.subtitle}}",
+          url: "http://tomcritchlow.com{{page.url}}"
         })
         .then(() => console.log("Successful share"))
         .catch(error => console.log("Error sharing", error));
