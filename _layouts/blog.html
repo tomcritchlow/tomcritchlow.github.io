@@ -66,6 +66,63 @@
   This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
 </div>
 
+<div>
+  <input readonly
+    value="http://tomcritchlow.com{{page.url}}"
+    title ="{{page.title}}"
+    id="pageurl"
+    class="mw-100 w-100 w5-ns f6 input-reset ba b--black-20 pv2 ph2 border-box"
+  />
+  <button
+    id="copyurl"
+    class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4 ba b--black-80 bg-hover-mid-gray"
+  >
+    Copy
+  </button>
+  <input 
+    id="webshare"
+    type="submit"
+    value="share"
+    class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4  b--black-80 bg-hover-mid-gray"
+  />
+</div>
+
+<script>
+  if (!navigator.share) {
+    document.getElementById("webshare").style.display = "none";
+  }
+
+  var $copyurl = $("#copyurl");
+  $copyurl.on("click", function(e) {
+    var copyText = document.getElementById("pageurl");
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+    /* Copy the text inside the text field */
+    document.execCommand("copy");
+  });
+
+  var $webshare = $("#webshare");
+  $webshare.on("click", function(e) {
+    if (navigator.share) {
+      navigator
+        .share({
+          title: "Page title here",
+          text: "Some text here",
+          url: "https://tomcritchlow.com"
+        })
+        .then(() => console.log("Successful share"))
+        .catch(error => console.log("Error sharing", error));
+    } else {
+      console.log("Web Share API is not supported in your browser.");
+    }
+  });
+</script>
+
+<hr class="w3 mv5">
+
 <script>
 
     $( document ).ready(function() {
