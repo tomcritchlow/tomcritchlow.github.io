@@ -124,3 +124,5 @@ Chris Butler: [The Dark Beyond the Stars? Good stuff. Also, The Listeners (by Ja
 Matt Webb: [Have you read The Book of Strange New Things? Blew me away. A very different book but also space-missionary sf](https://twitter.com/genmon/status/1295078185269366784)
 
 aaron lewis is reading: <https://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html>
+
+From Brian: <https://www.amazon.com/Grendel-John-Gardner/dp/0679723110>

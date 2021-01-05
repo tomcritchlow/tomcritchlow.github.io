@@ -2,6 +2,13 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Player of Games
+   author: Iain M. Banks
+   link: https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401
+ - title: Dune
+   author: Frank Herbert
+   link: https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717
+   date_finished: 
  - title: "Working in Public: The Making and Maintenance of Open Source Software"
    author: Nadia Eghbal
    link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
