@@ -279,6 +279,9 @@ var pageurl = document.querySelector("meta[property='og:url']").getAttribute("co
 $("a[href='" + pageurl + "']").addClass("b");
 $("a[href='" + pageurl + "']").closest("details").attr('open', 'open');
 
+$('details').click(function (event) {
+    $('details').not(this).removeAttr("open");  
+    });
 
     $( document ).ready(function() {
         var footnotes = $(".footnotes p");
