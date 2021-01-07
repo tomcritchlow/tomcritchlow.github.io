@@ -210,6 +210,17 @@ details[open] summary:after {
 
 <div class="f6 ml3">
 
+{% for section in site.data.chapters %}
+
+{{section.title}}
+{{section.blurb}}
+
+{% for chapter in section.chapters %}
+{{chapter.url}}
+{% endfor %}
+
+{% endfor %}
+
     <details class="pv3 details">
         <summary class="relative  helvetica ttu">1. Becoming Independent</summary>
         <ul class="ph1 pt3 ma0">
