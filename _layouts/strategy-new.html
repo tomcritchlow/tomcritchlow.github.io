@@ -274,6 +274,8 @@ details[open] summary:after {
 
 var pageurl = document.querySelector("meta[property='og:url']").getAttribute("content");
 $("a[href='" + pageurl + "']").addClass("b");
+$("a[href='" + pageurl + "']").closest("details").attr('open', 'open');
+
 
     $( document ).ready(function() {
         var footnotes = $(".footnotes p");
