@@ -31,3 +31,67 @@
     - url: 
       title: The Anguish of Talking about Money (in draft)
       subtitle: Why do I want to throw up every time I send an invoice?
+ - title: 4. Effective Strategy Work
+   blurb: We explore what makes work "strategic" and how to balance strategy & stewardship to create long-term retained work.
+   chapters:
+    - url: https://tomcritchlow.com/2018/07/10/high-fidelity-consulting/
+      title: High Fidelity Consulting (stub)
+      subtitle: Ideas without details and details without ideas are both risky.
+    - url: https://tomcritchlow.com/2018/06/28/strategy-stewardship/
+      title: Strategy & Stewardship (stub)
+      subtitle: A model for retained strategy consulting.
+    - url: https://tomcritchlow.com/2018/06/01/how-to-get-things-done/
+      title: How to get things done (stub)
+      subtitle: Amateurs talk about strategy. Professionals talk about logistics.
+    - url: https://tomcritchlow.com/2018/03/08/consulting-links/
+      title: Strategy is the organic flow of ideas and people (stub)
+      subtitle: Challenging the notion of "top-down" strategy  
+ - title: 5. Ways of Seeing
+   blurb: The soft skills of understanding a client's culture and understanding your point of contact's blind spots and broken mental models unlocks great potential for the consultant to create new mental models and help clients see in new ways.
+   chapters:
+    - url: https://tomcritchlow.com/2017/07/18/the-consultants-grain/
+      title: The Consultant's Grain
+      subtitle: Why (their) culture eats (your) strategy for breakfast
+    - url: https://tomcritchlow.com/2018/10/29/ways-of-seeing/
+      title: Ways of Seeing
+      subtitle: How to recognize and understand culture inside a client's organization
+    - url: https://tomcritchlow.com/2019/06/27/frameworks/
+      title: How (and why) to roll your own frameworks in consulting engagements
+      subtitle: And the power of making simple, true frameworks with clients
+ - title: 6. Yes! And...
+   blurb: Thinking on your feet & being able to spar with clients is a crucial consulting skill. This series takes inspiration from the book Impro by Keith Johnstone to examine consulting through the lens of improv theatre.
+   chapters:
+    - url: https://tomcritchlow.com/2019/11/18/yes-and/
+      title: The Office is a Theatre for Work
+      subtitle: How to think on your feet without bullshitting.
+    - url: https://tomcritchlow.com/2019/11/19/optimism-operating-system/
+      title: Optimism as an Operating System
+      subtitle: If you walk in the door with a problems-focused mindset ready to criticize the client you’ll get rejected by the organization like a bad virus.
+    - url: https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/
+      title: Blocking & Unblocking Clients
+      subtitle: Generating & Co-Creating Strategy in the Theatre of Work
+    - url: https://tomcritchlow.com/2020/06/24/navigating-power-status/
+      title: Navigating Power & Status
+      subtitle: How to get things done inside organizations by understanding power potholes and status switching
+    - url: https://tomcritchlow.com/2020/08/18/the-fool/
+      title: The Contrary Consultant
+      subtitle: Embracing the fool & the power of not fitting in
+ - title: 7. Chronos & Kairos
+   blurb: A crucial mistake many consultants make is to act like an employee. Instead consultants should seek to play games employees can't play. Notably time management and just-in-time work open up possibilities.
+   chapters:
+    - url: 
+      title: The Consultant Out of Time (draft)
+      subtitle: Mastering kairos time to deliver just-in-time consulting
+    - url: 
+      title: The Jigsaw of Independence (in draft)
+      subtitle: Balancing time management and energy management as an independent
+ - title: 8. The Inner Life of Consultants
+   blurb: Being independent comes with the burden of managing your own identity and your own career. How do you create narrative structures and self-reflection to avoid going crazy.
+   chapters:
+    - url: https://tomcritchlow.com/2019/02/27/i-consultant/
+      title: I, Consultant
+      subtitle: The struggle to define who you are as an independent and the promise of charging more for your work
+    - url: 
+      title: Compound Narrative (draft)
+      subtitle: How to create a narrative arc through your career as an independent
+    
