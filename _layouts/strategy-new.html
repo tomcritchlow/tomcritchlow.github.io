@@ -183,7 +183,48 @@ details[open] summary:after {
 <div class="dn-l">
     <div class="f4 b">The Strategic Independent</div>
     <div class="f6 i">Theory & Practice for Independent Consultants</div>
+
+    <div class="fr f5 pv2 fw3">
+      
+        <div id="hamburger" class="hamburger hamburger--squeeze">
+                <div class="hamburger-box">
+                  <div class="hamburger-inner"></div>
+                </div>
+              </div>
+
+    </div>
+
   </div>
+
+  <script>
+      var $hamburger = $(".hamburger");
+      $hamburger.on("click", function(e) {
+
+        $hamburger.toggleClass("is-active");
+        //hamburger is for search & menu now...
+        if($('.tommenu').is(':visible')){
+          $('.tommenu').hide();
+          $("body").removeClass('noscroll');
+        }
+        else if($("#searchmenu").is(":visible")){
+          $("#searchmenu").hide();
+          searchVisible = false;
+        }
+        else{
+          $('.tommenu').show();
+          $("body").addClass('noscroll');
+        }
+      });
+     
+
+      if($('.tommenu').is(':visible')){
+          $('body').addClass("fixedPosition");
+      }
+      else{
+          $('body').removeClass("fixedPosition");
+      }  
+    
+    </script>
 
 <div class="container flex center mw9 w-100">
 
