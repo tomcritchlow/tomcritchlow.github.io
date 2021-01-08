@@ -264,9 +264,9 @@ details[open] summary:after {
         {% for chapter in section.chapters %}
         <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
           {% if chapter.url%}
-          <a href="{{chapter.url}}">{{chapter.title}}</a>
+          <a href="{{chapter.url}}" class="f5 dim">{{chapter.title}}</a>
           {% else %}
-          <span class="black-50">{{chapter.title}}</span>
+          <span class="f5 black-50">{{chapter.title}}</span>
           {% endif %}
           </li>          
         {% endfor %}
@@ -280,7 +280,7 @@ details[open] summary:after {
 </div>
 </div>
 
-<div class="w-75-l h-entry pl4-l ph4 " role="article">
+<div class="w-75-l h-entry pl5-l ph4 " role="article">
 
   <div class="pt5 w-60-ns">
   
