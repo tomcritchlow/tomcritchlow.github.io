@@ -211,14 +211,22 @@ details[open] summary:after {
 <div class="f6 ml3">
 
 {% for section in site.data.chapters %}
- hello
-{{section.title}}
-{{section.blurb}}
 
-{% for chapter in section.chapters %}
-{{chapter.url}}
-{% endfor %}
+<details class="pv3 details">
+    <summary class="relative  helvetica ttu">{{section.title}}</summary>
+    <ul class="ph1 pt3 ma0">
+        {% for chapter in section.chapters %}
+        <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
+          {% if chapter.url%}
+          <a href="{{chapter.url}}">{{chapter.title}}</a>
+          {% else %}
+          <span class="black-50">{{chapter.title}}</span>
+          {% endif %}
+          </li>          
+        {% endfor %}
 
+    </ul>
+  </details>
 {% endfor %}
 
     <details class="pv3 details">
@@ -274,8 +282,6 @@ details[open] summary:after {
 
 
   {{content}}
-
-<hr class="w3 mv5">
 
 <div class="flex items-center justify-center pa4">
     <a href="#0" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
