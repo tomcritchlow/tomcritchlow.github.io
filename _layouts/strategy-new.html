@@ -283,14 +283,17 @@ Read next:
 
 <script>
 
+//Highlight and open the left nav for current page
 var pageurl = document.querySelector("meta[property='og:url']").getAttribute("content");
 $("a[href='" + pageurl + "']").addClass("b");
 $("a[href='" + pageurl + "']").addClass("bookgreen");
 $("a[href='" + pageurl + "']").closest("details").attr('open', 'open');
 
+// Close other details elements when one is opened
 $('details').click(function (event) {
     $('details').not(this).removeAttr("open");  
     });
+
 
     $( document ).ready(function() {
         var footnotes = $(".footnotes p");
