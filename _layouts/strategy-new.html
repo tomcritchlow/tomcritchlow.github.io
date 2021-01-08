@@ -203,22 +203,18 @@ details[open] summary:after {
 
         $hamburger.toggleClass("is-active");
         //hamburger is for search & menu now...
-        if($('.tommenu').is(':visible')){
+        if($('.bookmenu').is(':visible')){
           $('.tommenu').hide();
           $("body").removeClass('noscroll');
         }
-        else if($("#searchmenu").is(":visible")){
-          $("#searchmenu").hide();
-          searchVisible = false;
-        }
         else{
-          $('.tommenu').show();
+          $('.bookmenu').show();
           $("body").addClass('noscroll');
         }
       });
      
 
-      if($('.tommenu').is(':visible')){
+      if($('.bookmenu').is(':visible')){
           $('body').addClass("fixedPosition");
       }
       else{
@@ -230,7 +226,7 @@ details[open] summary:after {
 <div class="container flex center mw9 w-100">
 
 <div class="fl w-25 h-100 dn db-l">
-<div class="fixed h-100 br b--bookgreen-20 bg-white ph4 pt4">
+<div class="bookmenu fixed h-100 br b--bookgreen-20 bg-white ph4 pt4">
 
   <div class="f4 b">The Strategic Independent</div>
   <div class="f6 i">Theory & Practice for Independent Consultants</div>
