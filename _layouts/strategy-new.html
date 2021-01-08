@@ -256,6 +256,65 @@ details[open] summary:after {
 
   {{content}}
 
+  <div class="pv4">
+      <input readonly
+        value="http://tomcritchlow.com{{page.url}}"
+        title ="{{page.title}}"
+        id="pageurl"
+        class="mw-100 w-100 w5-ns f6 input-reset ba b--black-20 pv2 ph2 border-box silver"
+      />
+      <button
+        id="copyurl"
+        class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4 ba b--black-80 bg-hover-mid-gray"
+      >
+        Copy
+      </button>
+      <button
+        id="webshare"
+        class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4  b--black-80 bg-hover-mid-gray"
+      >Share</button>
+    </div>
+    
+    <script>
+      if (!navigator.share) {
+        document.getElementById("webshare").style.display = "none";
+      }
+    
+      var $copyurl = $("#copyurl");
+      $copyurl.on("click", function(e) {
+        var copyText = document.getElementById("pageurl");
+    
+        /* Select the text field */
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /* For mobile devices */
+    
+        /* Copy the text inside the text field */
+        document.execCommand("copy");
+    
+        $copyurl.html("Copied!");
+          setTimeout(function() {
+            $copyurl.html("Copy");
+          }, 2000);
+    
+      });
+    
+      var $webshare = $("#webshare");
+      $webshare.on("click", function(e) {
+        if (navigator.share) {
+          navigator
+            .share({
+              title: "{{page.title}}",
+              text: "{{page.title}}",
+              url: "http://tomcritchlow.com{{page.url}}"
+            })
+            .then(() => console.log("Successful share"))
+            .catch(error => console.log("Error sharing", error));
+        } else {
+          console.log("Web Share API is not supported in your browser.");
+        }
+      });
+    </script>
+
 <div class="flex items-center justify-center pt4">
 
     <div class="f5 w-50 grow inline-flex items-center pa3 ba border-box mr3 b--bookgreen-20 pointer">
