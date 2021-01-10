@@ -316,13 +316,13 @@ details[open] summary:after {
       />
       <button
         id="copyurl"
-        class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns mh2 ph4-l ph2 ba b--black-80 bg-hover-mid-gray"
+        class="input-reset w-auto-ns bg-black-80 white f5 pv2 pv2-ns mr1 ph4-l ph2 ba b--black-80 bg-hover-mid-gray"
       >
         Copy
       </button>
       <button
         id="webshare"
-        class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4-l ph2 mh2  b--black-80 bg-hover-mid-gray"
+        class="input-reset w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4-l ph2 mr1  b--black-80 bg-hover-mid-gray"
       >Share</button>
     </div>
     
@@ -365,6 +365,12 @@ details[open] summary:after {
         }
       });
     </script>
+
+{% assign chapter_array = "" | split: ',' %}
+{% for sections in site.data.chapters %}
+
+{% endfor %}
+
 
 <div class="flex items-center justify-center pt4">
 
