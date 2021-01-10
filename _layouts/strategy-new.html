@@ -180,7 +180,7 @@ details[open] summary:after {
 
 </style>
 
-<div class="dn-l w-100 bb bg-white b--bookgreen pv3 ph3">
+<div class="topnav dn-l w-100 bb bg-white b--bookgreen pv3 ph3">
   <div class="dib">
   <div class="f4 b">The Strategic Independent</div>
     <div class="f6 i">Theory & Practice for Independent Consultants</div>
@@ -206,9 +206,11 @@ details[open] summary:after {
         if($('.bookmenu').is(':visible')){
           $('.bookmenu').hide();
           $("body").removeClass('noscroll');
+          $('.topnav').addClass('bb');
         }
         else{
           $('.bookmenu').show();
+          $('.topnav').removeClass('bb');
           $("body").addClass('noscroll');
         }
       });
