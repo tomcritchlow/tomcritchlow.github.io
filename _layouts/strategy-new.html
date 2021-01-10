@@ -262,12 +262,13 @@ details[open] summary:after {
     <summary class="relative  helvetica ttu">{{section.title}}</summary>
     <ul class="ph1 pt3 ma0">
         {% for chapter in section.chapters %}
-        <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
+        <li class="bl b-black pl2 w-100 pv3 db b--bookgreen">
           {% if chapter.url%}
           <a href="{{chapter.url}}" class="f5 dim">{{chapter.title}}</a>
           {% else %}
           <span class="f5 black-50">{{chapter.title}}</span>
           {% endif %}
+          <div class="f6 i">{{chapter.blurb}}</div>
           </li>          
         {% endfor %}
 
