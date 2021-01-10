@@ -396,8 +396,8 @@ details[open] summary:after {
 
 <div class="flex-l justify-center pt4 flex-row-reverse-l items-stretch">
 
-    <a href="{{chapter_array[next]}}"><div class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba border-box b--bookgreen-20 pointer shadow-4 mv3 mv0-l">
-        <div class="w-100 tr">
+    <div class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba border-box b--bookgreen-20 pointer shadow-4 mv3 mv0-l">
+        <a href="{{chapter_array[next]}}"><div class="w-100 tr">
           <div class="f7 black-30 ttu helvetica inline-flex items-center">
               Next
               <img style="transform:rotate(270deg)" src="/images/greenchevron.svg">
@@ -405,11 +405,11 @@ details[open] summary:after {
           <div class="">
               {{titles_array[next]}}</a>
           </div>    
-        </div>
-      </div></a>
+        </div></a>
+      </div>
 
-      <a href="{{chapter_array[position]}}"><div class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba-l border-box  b--bookgreen-20 pointer mr3-l shadow-4">
-          <div class="w-100">
+      <div class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba-l border-box  b--bookgreen-20 pointer mr3-l shadow-4">
+          <a href="{{chapter_array[position]}}"><div class="w-100">
             <div class="f7 black-30 ttu helvetica inline-flex items-center">
                 <img style="transform:rotate(90deg)" src="/images/greenchevron.svg">
                   Previous
@@ -418,8 +418,8 @@ details[open] summary:after {
             <div class="">
                 {{titles_array[position]}}
             </div>    
-          </div>
-        </div></a>
+          </div></a>
+        </div>
 
 </div>
 
