@@ -367,10 +367,29 @@ details[open] summary:after {
     </script>
 
 {% assign chapter_array = "" | split: ',' %}
-{% for sections in site.data.chapters %}
+
+{% for section in site.data.chapters %}
+
+  {% for chapter in section.chapters %}
+
+    {% unless chapter.url == blank %}
+      {% assign chapter_array = chapter_array | push: chapter.url %} 
+    {% endunless %}
+
+  {% endfor %}
 
 {% endfor %}
 
+
+{% for item in chapter_array %}
+  {% if item == page.url %}
+    {% assign position = forloop.index0 %}
+    {% break %} 
+  {% endif %}
+{% endfor %}
+
+{{ chapter_array[position] }}
+{{ chapter_array[position+1] }}
 
 <div class="flex items-center justify-center pt4">
 
