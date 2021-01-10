@@ -367,11 +367,20 @@ details[open] summary:after {
     </script>
 
 {% assign chapter_array = "" | split: ',' %}
+{% assign titles_array = "" | split: ',' %}
 
 {% for section in site.data.chapters %}
   {% for chapter in section.chapters %}
     {% unless chapter.url == blank %}
       {% assign chapter_array = chapter_array | push: chapter.url %} 
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% unless chapter.url == blank %}
+      {% assign titles_array = titles_array | push: chapter.title %} 
     {% endunless %}
   {% endfor %}
 {% endfor %}
@@ -398,7 +407,7 @@ details[open] summary:after {
 
         </div>
         <div class="">
-            Weak Ties & Strong Intros
+            <a href="{{chapter_array[position]}}">{{titles_array[position}}</a>
         </div>    
       </div></a>
     </div>
@@ -410,7 +419,7 @@ details[open] summary:after {
               <img style="transform:rotate(270deg)" src="/images/greenchevron.svg">
           </div>
           <div class="">
-              Weak Ties & Strong Intros
+              <a href="{{chapter_array[next]}}">{{titles_array[next}}</a>
           </div>    
         </div>
       </div>
