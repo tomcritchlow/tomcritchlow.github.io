@@ -380,12 +380,13 @@ details[open] summary:after {
 {% for item in chapter_array %}
   {% if item == "https://tomcritchlow.com/2018/10/29/ways-of-seeing/" %}
     {% assign position = forloop.index0 %}
+    {% assign next = position + 1 %}
     {% break %} 
   {% endif %}
 {% endfor %}
 
 {{ chapter_array[position] }}
-{{ chapter_array[position+1] }}
+{{ chapter_array[next] }}
 
 <div class="flex items-center justify-center pt4">
 
