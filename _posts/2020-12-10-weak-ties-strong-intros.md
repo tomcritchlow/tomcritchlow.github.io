@@ -1,5 +1,5 @@
 ---
-layout: strategy
+layout: strategy-new
 title: Weak Ties & Strong Intros
 subtitle: How to find the “dark leads” hiding in your network to generate client work
 tags: strategy
