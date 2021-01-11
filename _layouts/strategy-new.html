@@ -387,6 +387,7 @@ details[open] summary:after {
   {% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
   {% if item == page_url_full %}
     {% assign position = forloop.index0 %}
+    {% assign previous = position | minus:1 %}
     {% assign next = position | plus:1 %}
     {% break %} 
   {% endif %}
@@ -406,7 +407,7 @@ details[open] summary:after {
         </div>
       </a>
 
-      <a href="{{chapter_array[position]}}" class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba-l border-box  b--bookgreen-20 pointer mr3-l shadow-4">
+      <a href="{{chapter_array[previous]}}" class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 ba-l border-box  b--bookgreen-20 pointer mr3-l shadow-4">
           <div class="w-100">
             <div class="f7 black-30 ttu helvetica inline-flex items-center">
                 <img style="transform:rotate(90deg)" src="/images/greenchevron.svg">
@@ -414,7 +415,7 @@ details[open] summary:after {
     
             </div>
             <div class="">
-                {{titles_array[position]}}
+                {{titles_array[previous]}}
             </div>    
           </div>
         </a>
