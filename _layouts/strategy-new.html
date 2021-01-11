@@ -388,6 +388,7 @@ details[open] summary:after {
 
 {% for item in chapter_array %}
   {% capture page_url_full %}https://tomcritchlow{{page.url}}{%endcapture%}
+  {{ page_url_full}}
   {% if item == page_url_full %}
     {% assign position = forloop.index0 %}
     {% assign next = position | plus:1 %}
