@@ -371,17 +371,17 @@ details[open] summary:after {
 
 {% for section in site.data.chapters %}
   {% for chapter in section.chapters %}
-    {% unless chapter.url == blank %}
+    {% if chapter.url%}
       {% assign chapter_array = chapter_array | push: chapter.url %} 
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 
 {% for section in site.data.chapters %}
   {% for chapter in section.chapters %}
-    {% unless chapter.url == blank %}
+    {% if chapter.url %}  
       {% assign titles_array = titles_array | push: chapter.title %} 
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 
