@@ -392,6 +392,7 @@ details[open] summary:after {
     {% assign position = forloop.index0 %}
     {% assign previous = position | minus:1 %}
     {% assign next = position | plus:1 %}
+    {{position}} - {{previous}} - {{next}}
     {% break %} 
   {% endif %}
 {% endfor %}
