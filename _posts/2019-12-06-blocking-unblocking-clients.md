@@ -1,5 +1,5 @@
 ---
-layout: strategy
+layout: strategy-new
 title: Yes! and... Chapter 3 - Blocking & Unblocking Clients
 subtitle: Generating & Co-Creating Strategy in the Theatre of Work
 tags: strategy
