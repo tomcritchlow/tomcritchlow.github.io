@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: strategy
 title: The Strategic Independent
 subtitle: How to do better work for more money, whether you're a designer, writer or strategist.
 tags: strategy
