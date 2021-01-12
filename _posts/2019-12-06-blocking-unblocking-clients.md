@@ -1,6 +1,6 @@
 ---
 layout: strategy-new
-title: Yes! and... Chapter 3 - Blocking & Unblocking Clients
+title: Blocking & Unblocking Clients
 subtitle: Generating & Co-Creating Strategy in the Theatre of Work
 tags: strategy
 og: https://tomcritchlow.com/images/yes-and-og-3.png
