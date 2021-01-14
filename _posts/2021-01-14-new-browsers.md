@@ -28,7 +28,7 @@ Javascript is alluring - partly because every computer has a javascript GUI and 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a lot about how easy and hackable javascript feels. How it feels easy to play with and build prototypes.<br><br>And how this feeling is 100% because of the fact that every computer comes with a javascript GUI and runtime environment... the browser.</p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/1278878761681686530?ref_src=twsrc%5Etfw">July 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-But... on installing node.js you're greeted with this screen (wtf is user/local/bin in $path?), and left to 
+But... on installing node.js you're greeted with this screen (wtf is user/local/bin in $path?), and left to fire up the command line.
 
 ![](/images/node-install.png)
 
