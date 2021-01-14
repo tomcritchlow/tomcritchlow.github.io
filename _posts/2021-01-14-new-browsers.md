@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Filtered for... coding & browsers
-subtitle: Some notes on rethinking the browser
+title: Why can't I write code inside my browser?
+subtitle: Notes on rethinking browsers
 ---
 
 **So I can write code inside my spreadsheet, but not inside my browser? WTF.**
