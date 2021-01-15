@@ -1,5 +1,5 @@
 ---
-layout: tufte
+layout: strategy-new
 title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 tags: strategy
@@ -29,11 +29,19 @@ So as you think about putting together a strategy and a set of recommendations f
 
 **Going with the grain is fast, easy, seamless and requires moving fast and mostly just making the way forward more clear.**
 
-*Example: I recall when I was working with [Fundera](https://www.fundera.com) a few years back and was helping them think through some content strategy. I pitched them on several concepts and themes to help elevate their content above just SEO-driven headlines. As an organization they were already primed to increase content quality and the founder Jared understood the value of content deeply so we almost instantly went from concept to details. This is a clear sign that you're going with the grain - when you instantly get into logistics and execution. Fun fact, their series "[the economics of...](https://www.fundera.com/blog/being-an-airbnb-host)" that I recommended is still running today!*
+<div class="example" markdown="1">
+
+Example: I recall when I was working with [Fundera](https://www.fundera.com) a few years back and was helping them think through some content strategy. I pitched them on several concepts and themes to help elevate their content above just SEO-driven headlines. As an organization they were already primed to increase content quality and the founder Jared understood the value of content deeply so we almost instantly went from concept to details. This is a clear sign that you're going with the grain - when you instantly get into logistics and execution. Fun fact, their series "[the economics of...](https://www.fundera.com/blog/being-an-airbnb-host)" that I recommended is still running today!
+
+</div>
 
 **Going against the grain is hard, messy, slow and can cause friction.**
 
-*Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and it was increasingly obvious that what was needed was more than simply hiring a new VP of marketing.*
+<div class="example" markdown="1">
+
+Example: I worked with a B2B saas client last year who wanted to re-balance their organization from being too sales-driven to being more marketing driven. The problem? Sales ran the show. Here, even though they were explicitly seeking help there were many organizational and cultural blockers to enable marketing to be a first class citizen within the company rather than just playing support to sales. Driving change here was messy and slow and it was increasingly obvious that what was needed was more than simply hiring a new VP of marketing.
+
+</div>
 
 But how do we understand which way the grain goes? How do you understand culture as a consultant?
 
