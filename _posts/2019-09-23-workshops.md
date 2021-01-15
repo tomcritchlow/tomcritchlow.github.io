@@ -1,5 +1,5 @@
 ---
-layout: tufte
+layout: strategy-new
 title: Workshops as Portals
 subtitle: And how to create clarity in consulting work
 tags: strategy
@@ -72,7 +72,9 @@ The eagle-eyed among you might notice that the “scope” for this workshop is 
 
 ## Jam Sessions
 
-“Workshop” is a difficult word. People mean lots of different things and workshops can come in many flavors{% include tufte-sn.html id="flavors" content="See this post from Howard on the <a href='https://www.howardgray.net/2019/02/26/3-flavours-of-workshop/'>three flavors of workshops</a>." %}.
+“Workshop” is a difficult word. People mean lots of different things and workshops can come in many flavors[^flavors].
+
+[^flavors]: See this post from Howard on the [three flavors of workshops](https://www.howardgray.net/2019/02/26/3-flavours-of-workshop/)
 
 For me, these initial workshops work best as collaborative working sessions rather than pre-programmed facilitation. Depending on the client’s comfort I’ll prepare anything from a four bullet point agenda to a little prep-deck to walk through, but I find the more I pull together an agenda the worse the workshop is.
 
@@ -82,13 +84,15 @@ Why take this approach?
 
 Let’s recap the goals - with this portal into the client’s reality we’re trying to:
 
-- Get comfortable “sparring”{% include tufte-sn.html id="sparring" content="More on what sparring means from Venkatesh <a href='https://venkateshrao.com/'>on his site</a> and in <a href='https://twitter.com/vgr/status/1118212491287203846'>this twitter thread</a>." %} with the client
+- Get comfortable “sparring”[^sparring] with the client
 - Make the client feel that you’ll listen closely
 - Understand the real problems and make sure they will put budget against solving them
 - Demonstrate to the client that you can help
 - Understand the client’s team dynamics
 - Understand the context for the work properly (i.e. what is the work, who are the people, why now)
 - Identify client’s blind spots (their unknown unknowns)
+
+[^sparring]: More on what sparring means from Venkatesh [on his site](https://venkateshrao.com/) and in [this twitter thread](https://twitter.com/vgr/status/1118212491287203846).
 
 So many unknowns!
 
@@ -144,7 +148,9 @@ But in my experience once you’ve been in a room together for a day or two nego
 
 - **Tom to be on site to help with audience development 2 days a week**
 
-This solves a lot of headaches{% include tufte-sn.html id="agency" content="Note: If you're finding that clients aren't receptive to the idea of workshops then it could well be a symptom of a different problem - that is not getting warm leads for senior work. If clients already have you in a box and/or you're pitching against other vendors then this workshop approach could fail." %}!
+This solves a lot of headaches[^agency]!
+
+[^agency]: Note: If you're finding that clients aren't receptive to the idea of workshops then it could well be a symptom of a different problem - that is not getting warm leads for senior work. If clients already have you in a box and/or you're pitching against other vendors then this workshop approach could fail.
 
 ## $4,000 days - A note on pricing these workshops
 
@@ -195,7 +201,9 @@ Towards the end of the day and in the follow up it became clear that when the cl
 This ultimately informed almost the entire output from the workshop - the insight that more in-depth research was needed to understand the landscape more clearly and fundamentally before they could develop a strategy.
 
 ### WeWork(shop)
-Portals are tricky things. And sometimes you get stuck in-between dimensions{% include tufte-sn.html id="dimensions" content="<a href='https://www.youtube.com/watch?v=0TZd95BCKMY'>Portals can be dangerous things</a>..." %}.
+Portals are tricky things. And sometimes you get stuck in-between dimensions[^dimensions].
+
+[^dimensions]: [Portals can be dangerous things](https://www.youtube.com/watch?v=0TZd95BCKMY)...
 
 Here’s an email I got after running a two-day workshop last year:
 
