@@ -36,11 +36,15 @@ Context is the key.
 
 Even before I start working with a client in the very first meeting I always make sure I ask questions about business model, team structure, company priorities and more. These don't always feel relevant to the specific request but help me better map out both the work I need to do and the stakeholders that need to see it.
 
-The more you understand an organization the better you can understand context{% include tufte-sn.html id="waysseeing" content="I wrote a whole post called <a href='https://tomcritchlow.com/2018/10/29/ways-of-seeing/'>ways of seeing</a> that explores ideas around sensemaking inside an organization" %}.
+The more you understand an organization the better you can understand context[^wayseeing].
+
+[^wayseeing]: I wrote a whole post called [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
 
 ## Overlapping contexts
 
-So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts{% include tufte-sn.html id="obvious" content="This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement." %}:
+So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts[^obvious].
+
+[^obvious]: This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement.
 
 ![](/images/context1.png)
 
@@ -66,19 +70,27 @@ Once you understand the concentric circles within which your work happens you'll
 
 Two examples from my own work:
 
-### Scenario #1
+<div class="example" markdown="1">
+
+### Example #1
 
 I was working as a marketing advisor for a client and early in the engagement (partly because we were discussing me becoming the full-time CMO) I was invited to sit in on their quarterly board meeting. This experience was formative in better understanding the drivers and motivations of the business - by understanding who literally owned the business better. This context was crucial for proposing work and for ensuring that pitching that work to the board was smooth. The CEO gave me some of the necessary context but by attending that board meeting I got a vantage point that I didn't realize existed previously.
 
-### Scenario #2
+</div>
+
+<div class="example" markdown="1">
+
+### Example #2
 
 Last year I was working with a client to integrate an acquisition into the main business - in particular to ensure that one business function was working correctly. My north star and most of the language in the team was about revenue projections for the function. Makes sense. But, I discovered that actually the SVP's OKR for the quarter was ensuring that the business unit was functioning smoothly. While revenue was obviously a thing that they cared about, the more important context was around process and communication around that process. Once I had this context everything became easier since I could be more closely aligned with the objectives of the business.
+
+</div>
 
 ## Catastrophic Events & Context Collapse
 
 There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
 
-**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles{% include tufte-sn.html id="graphicdesign" content="<em>Not available for graphic design work.</em>" %}.
+**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles
 
 ![](/images/catastrophic-context.png)
 
@@ -142,7 +154,9 @@ It's not unreasonable to imagine:
 - Style guide: $2,000
 - Content strategy: $20,000
 
-These are necessarily imperfect analogies and will vary wildly from industry to industry{% include tufte-sn.html id="contextexamples" content="I'm keen to hear more stories of different kinds of work where people have navigated this shift into wider contexts - email me!" %}, but here's a specific callout as you start to bundle "the work" and "the context":
+These are necessarily imperfect analogies and will vary wildly from industry to industry[^contextexamples], but here's a specific callout as you start to bundle "the work" and "the context":
+
+[^contextexamples]: I'm keen to hear more stories of different kinds of work where people have navigated this shift into wider contexts - email me!
 
 **Don't give the context work away for free. In fact, do the opposite - charge more for it than your regular work.**
 
@@ -237,13 +251,17 @@ The argument really boils down to:
 - Not only that but implementation work is often more stressful and deadline-driven
 - So of course do both for clients but only let them in through the strategy door to ensure that you do better, higher value and higher margin work.
 
-You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom{% include tufte-sn.html id="david" content="There is however a shorter (older) version of this argument from David <a href='https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf'>online here</a>" %}.
+You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom[^david].
+
+[^david]: There is however a shorter (older) version of this argument from David [online here](https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf)
 
 Importantly - if you accept that you can do a lot of implementation work for clients but they should all start with strategy then your external positioning should be entirely focused around the strategy work to attract the right kinds of clients.
 
 ## Time & Money
 
-Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/){% include tufte-sn.html id="timemoney" content="To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's ually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did." %}. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
+Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/)[^timemoney]. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
+
+[^timemoney]: To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's usually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did.
 
 **I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.**
 
@@ -257,7 +275,9 @@ So I say - if you're reading the commonly accepted wisdom about pricing and feel
 
 Looking back at my career - this idea of doing work-in-context has determined the path I've taken from SEO manager to digital strategy to consulting work.
 
-The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business-level goals are usually not owned by SEO practitioners or agencies{% include tufte-sn.html id="seo" content="Yes, there are exceptions to this of course but there's a reason there's no widely recognized c-suite SEO function." %}.
+The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business-level goals are usually not owned by SEO practitioners or agencies[^seo].
+
+[^seo]: Yes, there are exceptions to this of course but there's a reason there's no widely recognized c-suite SEO function.
 
 This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I worked at Distilled it wasn't uncommon to be working directly on digital strategy for fortune-500 brands, in a context model that looked something like this:
 
@@ -271,7 +291,9 @@ As I felt this shift towards SEO being less strategic I needed to find ways to e
 
 When I first started consulting in 2014, yes I worked mostly on SEO projects. But I was keenly aware of the wider context and pushed myself to ask questions and be curious - whether about the business model or the teams executing the work.
 
-Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do{% include tufte-sn.html id="mediadesign" content="One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on <a href='https://tomcritchlow.com/2018/07/25/media-design/'>media design</a>." %}.
+Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do[^mediadesign].
+
+[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design(https://tomcritchlow.com/2018/07/25/media-design/)]
 
 ## How to learn to be more strategic
 
@@ -300,13 +322,17 @@ As you can see, this path to strategic work relies on gaining context from clien
 
 Most of this post focuses on the idea of context as gathered from your client and their business - but there's another great source of context: peers.
 
-Co-dependence is really the right word for independence{% include tufte-sn.html id="frank" content="Frank was <a href='https://twitter.com/frank_chimero/status/1113873146057318403'>kind enough to point out</a> that in-fact co-dependence is not the right word at all! The actual definition of the word is around enabling addiction. I didn't know that! The correct word is <em>interdependence</em> and Frank Chimero has a more recent post all about this topic: <a href='https://frankchimero.com/writing/back-to-the-cave/'>back to the cave</a>. Thanks Frank!" %}. I've talked a lot about the power of the network - both as a tool for gathering leads for your business but also as an emotional support network.
+Co-dependence is really the right word for independence[^frank]. I've talked a lot about the power of the network - both as a tool for gathering leads for your business but also as an emotional support network.
+
+[^frank]: Frank was [kind enough to point out](https://twitter.com/frank_chimero/status/1113873146057318403) that in-fact co-dependence is not the right word at all! The actual definition of the word is around enabling addiction. I didn't know that! The correct word is *interdependence* and Frank Chimero has a more recent post all about this topic: [back to the cave](https://frankchimero.com/writing/back-to-the-cave/). Thanks Frank!
 
 Frank Chimero wrote a wonderful essay I think about often titled [the inferno of independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) which is hard to boil down but looks at the nature of independent work - and articulates this shift from independence to co-dependence:
 
 > Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
 
-Co-dependence and network building has plenty of other benefits{% include tufte-sn.html id="strange" content="I wrote about using a network to build a steady stream of high value leads in my post <a href='https://tomcritchlow.com/2019/03/12/strange-attraction/'>strange attraction</a>." %} but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
+Co-dependence and network building has plenty of other benefits[^strange] but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
+
+[^strange]: I wrote about using a network to build a steady stream of high value leads in my post [strange attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/)
 
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
