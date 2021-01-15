@@ -451,7 +451,7 @@ details[open] summary:after {
 var pageurl = document.querySelector("meta[property='og:url']").getAttribute("content");
 $("a[href='" + pageurl + "']").addClass("b");
 $("a[href='" + pageurl + "']").addClass("bookgreen");
-$("a[href='" + pageurl + "']").closest("details").addClass("b");
+$("a[href='" + pageurl + "']").closest("summary").addClass("b");
 
 // Close other details elements when one is opened
 $('details').click(function (event) {
