@@ -72,7 +72,7 @@ Two examples from my own work:
 
 <div class="example" markdown="1">
 
-### Example #1
+**Example #1**
 
 I was working as a marketing advisor for a client and early in the engagement (partly because we were discussing me becoming the full-time CMO) I was invited to sit in on their quarterly board meeting. This experience was formative in better understanding the drivers and motivations of the business - by understanding who literally owned the business better. This context was crucial for proposing work and for ensuring that pitching that work to the board was smooth. The CEO gave me some of the necessary context but by attending that board meeting I got a vantage point that I didn't realize existed previously.
 
@@ -80,7 +80,7 @@ I was working as a marketing advisor for a client and early in the engagement (p
 
 <div class="example" markdown="1">
 
-### Example #2
+**Example #2**
 
 Last year I was working with a client to integrate an acquisition into the main business - in particular to ensure that one business function was working correctly. My north star and most of the language in the team was about revenue projections for the function. Makes sense. But, I discovered that actually the SVP's OKR for the quarter was ensuring that the business unit was functioning smoothly. While revenue was obviously a thing that they cared about, the more important context was around process and communication around that process. Once I had this context everything became easier since I could be more closely aligned with the objectives of the business.
 
