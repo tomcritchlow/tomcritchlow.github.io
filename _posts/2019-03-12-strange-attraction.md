@@ -1,5 +1,5 @@
 ---
-layout: tufte
+layout: strategy-new
 title: Strange Attraction
 subtitle: How to generate leads for an independent consulting practice
 tags: strategy
@@ -29,13 +29,17 @@ I’ll explain, but first:
 
 ## A quick primer on my work
 
-It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time{% include tufte-sn.html id="four" content="For a visual representation of my work see my post <a href='https://tomcritchlow.com/2018/10/24/four-years/'>four years on the road</a> <img src='https://tomcritchlow.com/images/4yearsrevenue.png' />" %} (for example - think two days a week in the office for 18 months working across a variety of projects).
+It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time[^four] (for example - think two days a week in the office for 18 months working across a variety of projects).
+
+[^four]: For a visual representation of my work see my post [four years on the road](https://tomcritchlow.com/2018/10/24/four-years/) ![](/images/4yearsrevenue.png)
 
 This means that - for me - I’m primarily concerned with **warm leads** for long term **strategic work**.
 
 It’s important for **leads to be warm** - because it’s hard to convince someone to spend $20k / month on a consulting contract without them already thinking they might spend money on consulting (and having some kind of budget earmarked!)
 
-It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts{% include tufte-sn.html id="stewardship" content="For more on how focus on retained strategy work see my post <a href='https://tomcritchlow.com/2018/06/28/strategy-stewardship/'>strategy and stewardship</a>" %} (this helps you smooth revenue gaps and gain some predictability).
+It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts[^stewardship] (this helps you smooth revenue gaps and gain some predictability).
+
+[^stewardship]: For more on how focus on retained strategy work see my post [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
 
 This means that for me - I’m definitely optimizing for quality over quantity. 5-10 leads a year can keep me full up. And I think for many independents this will be and should be the case - optimizing for quantity will create a very different environment.
 
@@ -130,7 +134,9 @@ Well, it was originally a quote about sea-gulls:
 
 ![](/images/seagull.jpeg)
 
-The poor ugly un-poetic seagull{% include tufte-sn.html id="tokyo" content="More often these days Texas gets replaced by Tokyo which also tells you about globalization and the romantic brand of Tokyo vs Texas" %}.
+The poor ugly un-poetic seagull[^tokyo].
+
+[^tokyo]: More often these days Texas gets replaced by Tokyo which also tells you about globalization and the romantic brand of Tokyo vs Texas
 
 What’s the story here? The lesson is that language is a virus. Design your case studies to be pithy - talk about your work in small fragments that can be repeated in oral culture:
 
@@ -164,7 +170,9 @@ When you first start out as a consultant - I’m not entirely sure a capabilitie
 
 Looking for an example? Check out [Mark Pollard’s](https://docs.google.com/presentation/d/15dK-oRMr6KFy4YiWH51NPhPrld3v906AndndQgc5QVw/edit) for a good public example.
 
-There’s much more to be written about how to put one of these together{% include tufte-sn.html id="capdeck" content="I started collecting examples and advice for making a capabilities deck over on <a href='https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/'>my wiki page here</a>." %} but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
+There’s much more to be written about how to put one of these together[^capdeck] but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
+
+[^capdeck]: I started collecting examples and advice for making a capabilities deck over on [my wiki page here](https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/)
 
 ## The weird many-colored butterfly
 
@@ -192,7 +200,9 @@ Nothing allows you to forge human connections at scale quite like the spoken wor
 
 ![](/images/nabakov-butterfly.jpg)
 
-Catching butterflies is a fine hobby{% include tufte-sn.html id="nabakov" content="Did you know Vladamir Nabakov, author of Lolita, was an avid <a href='https://www.smithsonianmag.com/smart-news/vladimir-nabokovs-butterfly-drawings-take-flight-new-book-180959264/'>butterfly collector</a> and created some beautiful sketches?" %}. A relaxing past-time. But the idea of dissecting, analyzing and cataloging butterflies tells you nothing of the storms in Tokyo that these little wings once caused.
+Catching butterflies is a fine hobby[^nabakov]. A relaxing past-time. But the idea of dissecting, analyzing and cataloging butterflies tells you nothing of the storms in Tokyo that these little wings once caused.
+
+[^nabakov]: Did you know Vladamir Nabakov, author of Lolita, was an avid [butterfly collector](https://www.smithsonianmag.com/smart-news/vladimir-nabokovs-butterfly-drawings-take-flight-new-book-180959264/) and created some beautiful sketches?
 
 Trying to build a CRM and lead-management tool for a solo independent business that lives on 5-10 leads a year feels a lot like catching butterflies. If you’re looking for a hobby and like spending hours alone with dead insects then... fine? But otherwise - I’d encourage you to focus your time and energies on building networks over tracking each lead minutely.
 
