@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/drafts/2020-11-10-6-years.md",
+            "file": "notes/testing obsidian.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/drafts/2020-11-10-6-years.md"
+                "file": "notes/testing obsidian.md"
               }
             }
           }
@@ -76,12 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes/Untitled.md",
+    "testing obsidian.md",
+    "Untitled.md",
+    "notes/new page.md",
+    "notes/diagrams notes.md",
+    "notes/current interests.md",
     "wiki/drafts/2020-11-10-6-years.md",
     "images/Pasted image 20201109092959.png",
     "wiki/drafts/Pasted image 20201109092809.png",
-    "notes/Exploring digital gardens.md",
-    "2020-06-02.md",
-    "notes/Untitled.md",
-    "testing obsidian.md"
+    "notes/Exploring digital gardens.md"
   ]
 }
