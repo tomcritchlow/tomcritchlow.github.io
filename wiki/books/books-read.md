@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Laughter in the Dark
+   author: Vladamir Nabakov
+   link: https://www.amazon.com/Laughter-Vintage-International-Vladimir-Nabokov-ebook-dp-B004KABE1K/dp/B004KABE1K/
+   date_finished: 01/17/2021
+   notes: An airbnb read. Just lovely poetic writing - a breath of fresh air after a bunch of badly-written scifi.
  - title: The Player of Games
    author: Iain M. Banks
    link: https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401
