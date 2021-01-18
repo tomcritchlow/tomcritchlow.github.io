@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: "Talkin' Verve: Roots Of Acid Jazz"
+   author: Jimmy Smith
+   image: https://lh3.googleusercontent.com/vjcxU5m-4odT_akdYdt6dEjl6MbXCyhvBg1rsjYXKdHy3UrRoxRAexS9Lz3Gvw4drdpGbXl9vYjIhrDW=w544-h544-l90-rj
+   notes: Funky acid jazz.
+   href: https://album.link/i/1425265066
  - title: Mickey Mouse Operation
    author: Little People
    image: https://img.youtube.com/vi/uSIbpqNB5Fo/sddefault.jpg
