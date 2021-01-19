@@ -142,15 +142,25 @@ For a wonderful poetic read on the power of language in organizations I'd encour
 Look at this quote from [The Little Grey Book](http://pangaro.com/littlegreybook.pdf) by Dr. Michael Geoghegan
 
 > Managers understand the organization's past behavior.
+> 
 > But this knowledge,
+> 
 > and the language that accompanies it,
+> 
 > limit their vision
+> 
 > of the organization's potential future state.
+> 
 > Using the language of the past,
+> 
 > managers may try to provide a vision for the future.
+> 
 > But it is an old future
+> 
 > a memory of what the future could be.
+> 
 > Managers may strive for fundamental change,
+> 
 > but their language prevents them from achieving it.
 
 The whole book is worth reading and has tons of wisdom, especially on the pragmatic nature of introducing new language and the efficiency of old language[^robin].
