@@ -209,9 +209,7 @@ Beware documented culture. For all of this talk about company culture I've found
 
 My favorite illustration of corporate propaganda is Facebook's "culture" of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference where the letters are on screen taller than he is, literally larger than life:
 
-<figure class="fullwidth">
 <img src="/images/propoganda.png" >
-</figure>
 
 The interesting thing is that the only images you can find are the keynote mockups of the poster. There appear to be no *actual* posters of this manifesto.
 
