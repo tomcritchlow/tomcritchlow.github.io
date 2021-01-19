@@ -7,17 +7,28 @@ books:
    link: https://www.amazon.com/Laughter-Vintage-International-Vladimir-Nabokov-ebook-dp-B004KABE1K/dp/B004KABE1K/
    date_finished: 01/17/2021
    notes: An airbnb read. Just lovely poetic writing - a breath of fresh air after a bunch of badly-written scifi.
+ - title: The Ministry for the Future
+   author: Kim Stanley Robinson
+   link: https://www.amazon.com/Ministry-Future-Kim-Stanley-Robinson-ebook/dp/B084FY1NXB 
+   date_finished: 01/10/2021
+   notes: Abandoned during the free preview. Everyone is raving about this book but honestly the writing felt incredibly flat. I'm tired of sci-fi stories having bad writing :(
+ - title: Exhalation
+   author: Ted Chiang
+   link: https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ 
+   date_finished: 01/04/2021
+   notes: Abandoned 2/3 of the way through :( - while I quite enjoyed some of the provocations in the stories ultimately the writing didn't captivate me. Left me feeling bored so I gave it up.
  - title: The Player of Games
    author: Iain M. Banks
    link: https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401
+   date_finished: 12/01/2020
  - title: Dune
    author: Frank Herbert
    link: https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717
-   date_finished: 
+   date_finished: 11/31/2020
  - title: "Working in Public: The Making and Maintenance of Open Source Software"
    author: Nadia Eghbal
    link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
-   date_finished: In Progress
+   date_finished: 10/15/2020
  - title: The Uncertainty Mindset
    author: Vaughn Tan
    link: https://www.amazon.com/Uncertainty-Mindset-Innovation-Insights-Frontiers-ebook/dp/B0825CZQR8   
