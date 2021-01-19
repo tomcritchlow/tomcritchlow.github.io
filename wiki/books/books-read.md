@@ -21,10 +21,12 @@ books:
    author: Iain M. Banks
    link: https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401
    date_finished: 12/01/2020
+   notes: I have fond memories of the first time reading this and felt like it left a big impression on me. Re-reading this book I still loved it but the shine has come off a little - I think other culture books are perhaps better. Still, the world building (universe building!) that Iain M Banks does is like no other.
  - title: Dune
    author: Frank Herbert
    link: https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717
    date_finished: 11/31/2020
+   notes: Started reading this while traveling through Utah and Arizona to get a feel for desert living. I enjoyed the book but definitely didn't feel like it lived up to the hype. Inventive but the characters felt a little stale.
  - title: "Working in Public: The Making and Maintenance of Open Source Software"
    author: Nadia Eghbal
    link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
