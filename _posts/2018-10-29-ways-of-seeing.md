@@ -1,20 +1,13 @@
 ---
-layout: tufte
+layout: strategy-new
 title: Ways of Seeing
 subtitle: How to recognize and understand culture inside a client's organization
 tags: strategy
 ---
 
-<div class="epigraph">
-          <blockquote>
-            <p>"One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in."</p>
-            <footer>Marshall McLuhan</footer>
-          </blockquote>
-          <blockquote>
-            <p>“First, The fish needs to say, ‘Something ain’t right about this Camel ride – And I’m Feeling so damn Thirsty.’” </p>
-            <footer>Hafiz</footer>
-          </blockquote>          
-        </div>
+*"One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in." - Marshall McLuhan*
+
+*“First, The fish needs to say, ‘Something ain’t right about this Camel ride – And I’m Feeling so damn Thirsty.’” - Hafiz*
 
 As a consultant it's important to recognize that one of the strongest forces inside an organization is their culture. It's why my personal mantra is a reframing of the classic:
 
@@ -44,7 +37,9 @@ It's important to recognize that most organizational change happens very slowly 
 
 This frustration is an emotion you can channel into focus. Changing a stable organization requires first understanding its context. And when you walk into a client's office, you're  always missing context. Sometimes there's business context you're missing - funding, acquisitions, business models. Sure. But more often it's about missing cultural context. Your ideas are being rejected like a virus by the antibodies of the company.
 
-Ever since writing [The Consultant's Grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) it's become a mantra of mine that "(their) culture eats (your) strategy for breakfast". It's a reframing of the classic "culture eats strategy for breakfast" and it helps me stay focused - especially as a consultant coming into an unfamiliar environment and trying to get things done{% include tufte-sn.html id="grain" content="In the consultant's grain I explore more deliberately the difference between working on projects that go <em>with the grain</em> or <em>against the grain of</em> an organization via the idea of <em>consulting fast and slow</em>. I'm not going to repeat all that here but if you enjoy this piece queue that one up next!" %}.
+Ever since writing [The Consultant's Grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) it's become a mantra of mine that "(their) culture eats (your) strategy for breakfast". It's a reframing of the classic "culture eats strategy for breakfast" and it helps me stay focused - especially as a consultant coming into an unfamiliar environment and trying to get things done[^grain].
+
+[^grain]: In [The Consultant's Grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) I explore more deliberately the difference between working on projects that go *with the grain* or *against the grain* of an organization via the idea of *consulting fast and slow*. I'm not going to repeat all that here but if you enjoy this piece queue that one up next!
 
 However, the client usually isn't paying you to understand their culture so you have to do it fast. I think this is a skill, something you can learn. This skill of sensemaking takes experience of different cultures and a strong sense of observation.
 
@@ -94,7 +89,9 @@ Once you're inside the flows it's your job to pay attention.
 
 It's helpful to have some frameworks to help us think through the kinds of things we're trying to see in the first place.
 
-[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf){% include tufte-sn.html id="ethnography" content="The full paper is worth checking out: <em>Laurel Anderson and Paul Rothstein (2004) ,'Creativity and Innovation: Consumer Research and Scenario Building'</em> although in this context doesn't give much else of use to understand organizational culture." %} is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
+[This framework from ethnography](http://www.acrwebsite.org/volumes/v31/acr_vol31_203.pdf)[^ethnography] is a simple and memorable framework that shows how you can think about the ways culture can manifest and reinforce itself (the four A's):
+
+[^ethnography]: The full paper is worth checking out: *Laurel Anderson and Paul Rothstein (2004) ,'Creativity and Innovation: Consumer Research and Scenario Building'* although in this context doesn't give much else of use to understand organizational culture.
 
 ![](/images/4a.png)
 
@@ -108,7 +105,9 @@ In this framework the actors, artifacts and activities interact directly with ea
 
 **Atmosphere** - this is the wider environment in which we're working. Is the team or organization part of a bigger structure? How is the physical office laid out? In the digital space are they using Slack or Basecamp and what is the tone of conversation there? Which design choices were put in place deliberately and who made them?
 
-There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture{% include tufte-sn.html id="principles" content="I've slightly adapted the dimensions of culture presented in the book below to create axis but the original chapter is still very much worth reading, and it's short." %}.
+There are many frameworks and mental models that can help you understand and grapple with culture.  "[Principles of Management](https://open.lib.umn.edu/principlesmanagement/part/chapter-8-organizational-culture/)", chapter 8 is a great primer on organizational culture and has a model for the 8 "dimensions" of organization culture[^principles].
+
+[^principles]: I've slightly adapted the dimensions of culture presented in the book below to create axis but the original chapter is still very much worth reading, and it's short.
 
 You can imagine every organization as having each of these aspects to a greater or lesser extent. So you might think about "plotting" a company along each axis. This is an example I put together from a recent client engagement:
 
@@ -134,27 +133,29 @@ There are two extensions from this - firstly that **using the wrong language can
 
 Secondly - **a skilled poet or linguist can create new language for groups. Language that has embedded values, ideas or bias from the consultant**.
 
-My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas{% include tufte-sn.html id="naming" content="My friend <a href='https://thogenhaven.com/'>Thomas</a> makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced." %}. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
+My friend [Brian](https://twitter.com/itsbdell) calls this skill noticing and naming. It's the essential task of the consultant to pay close attention and then attach new language to important ideas[^naming]. By naming things you can drive attention to what's important and hence shape the way an organization behaves.
+
+[^naming]: My friend [Thomas](https://thogenhaven.com/) makes a good point here that you need to be careful not to go overboard - attempting to add large amounts of language to a team will create confusion and also dilute the language being introduced.
 
 For a wonderful poetic read on the power of language in organizations I'd encourage you to read Notes on the Role of Leadership and Language in Regenerating Organizations, a.k.a. [The Little Grey Book](http://pangaro.com/littlegreybook.pdf).
 
-Look at this quote!
+Look at this quote from [The Little Grey Book](http://pangaro.com/littlegreybook.pdf) by Dr. Michael Geoghegan
 
-{% include tufte-blockquote.html content="
-Managers understand the organization's past behavior.
-<br>But this knowledge,
-<br>and the language that accompanies it,
-<br>limit their vision
-<br>of the organization's potential future state.
-<br>Using the language of the past,
-<br>managers may try to provide a vision for the future.
-<br>But it is an old future
-<br>a memory of what the future could be.
-<br>Managers may strive for fundamental change,
-<br>but their language prevents them from achieving it.
-" footer="<a href='http://pangaro.com/littlegreybook.pdf'>The Little Grey Book</a> from Dr. Michael Geoghegan" %}
+> Managers understand the organization's past behavior.
+> But this knowledge,
+> and the language that accompanies it,
+> limit their vision
+> of the organization's potential future state.
+> Using the language of the past,
+> managers may try to provide a vision for the future.
+> But it is an old future
+> a memory of what the future could be.
+> Managers may strive for fundamental change,
+> but their language prevents them from achieving it.
 
-The whole book is worth reading and has tons of wisdom, especially on the pragmatic nature of introducing new language and the efficiency of old language.{% include tufte-sn.html id="robin" content="Thanks to <a href='https://robinkwong.com/'>Robin</a> for sharing this one with me!" %}.
+The whole book is worth reading and has tons of wisdom, especially on the pragmatic nature of introducing new language and the efficiency of old language[^robin].
+
+[^robin]: Thanks to [Robin](https://robinkwong.com/) for sharing this one with me!
 
 ### Shared Delusions
 
@@ -194,7 +195,9 @@ Tread lightly when following the footsteps of glory or failure - both are danger
 
 ## Culture vs Propaganda
 
-Beware documented culture. For all of this talk about company culture I've found that it can be misleading to rely on mission decks and documented company values. These are top-down objects that are at best out of date and usually contain at least one statement that is the opposite of the truth{% include tufte-sn.html id="culturedecks" content="My friend Kit was wise to point out this might be framed slighty negatively - there is a ton of value of documenting culture and creating culture decks. It's just my experience that you can't <strong>completely</strong> trust them. But definitely don't throw out the baby with the bathwater here." %}. A mandate rather than an observation. (After all the only reason to document culture is to change it.)
+Beware documented culture. For all of this talk about company culture I've found that it can be misleading to rely on mission decks and documented company values. These are top-down objects that are at best out of date and usually contain at least one statement that is the opposite of the truth[^kit]. A mandate rather than an observation. (After all the only reason to document culture is to change it.)
+
+[^kit]: My friend Kit was wise to point out this might be framed slighty negatively - there is a ton of value of documenting culture and creating culture decks. It's just my experience that you can't **completely** trust them. But definitely don't throw out the baby with the bathwater here.
 
 My favorite illustration of corporate propaganda is Facebook's "culture" of "move fast with stable infrastructure". It's a mock up of a poster that Zuckerberg is showing at a conference where the letters are on screen taller than he is, literally larger than life:
 
@@ -210,14 +213,11 @@ So seek out the internal culture decks, they're useful starting points. Consume 
 
 ## Three Breakthroughs
 
-The **first breakthrough** I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me:
+The **first breakthrough** I had as a consultant was to understand that there is very little objective truth in business. What works for one business doesn't always work for another. Every strategy is a reflection of the business you're working with and the environment they're in. There is no "just do X" recommendation in the real world, only in dusty, discarded strategy documents. This quote has stuck with me from Tomasz Tunguz's [Overfitting in Business](http://tomtunguz.com/overfitting-in-business/):
 
-{% include tufte-blockquote.html content="
-As I study and meet and analyze more and more businesses, I find myself drawn to the idea that each is a snowflake. Each startup is unique composition of its team, in the circumstances of its genesis, and the ecosystem in which it blossoms. Business concepts like the ones mentioned above can provide a common language about ideas. They can help us tell stories to motivate and inspire. Perhaps, they can provide some form of analytical framework.
-<br><br>
-But until the success of these theories can stand the test of reproducibility or time, that’s all they should be. After all, even some of the most successful CEOs in the world cannot reproduce their success the second time or third time. Building a business is really hard, and building an enduring company even more so, because each enduring business is built in a different way.
-
-" footer="Tomasz Tunguz - <a href='http://tomtunguz.com/overfitting-in-business/'>Overfitting in Business</a>" %}
+> As I study and meet and analyze more and more businesses, I find myself drawn to the idea that each is a snowflake. Each startup is unique composition of its team, in the circumstances of its genesis, and the ecosystem in which it blossoms. Business concepts like the ones mentioned above can provide a common language about ideas. They can help us tell stories to motivate and inspire. Perhaps, they can provide some form of analytical framework.
+> 
+> But until the success of these theories can stand the test of reproducibility or time, that’s all they should be. After all, even some of the most successful CEOs in the world cannot reproduce their success the second time or third time. Building a business is really hard, and building an enduring company even more so, because each enduring business is built in a different way.
 
 The **second breakthrough** I had was to understand that there is a depth to observing a business. Learning ways of seeing, recognizing culture as a powerful force and attempting to observe the realities of the organization rather than passively taking for granted the received wisdom leads to strong insights.
 
@@ -229,12 +229,7 @@ By sharing these ways of seeing with your client you can develop a shared perspe
 
 ## Teaching your client to see
 
-<div class="epigraph">
-          <blockquote>
-            <p>“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has been able to situate itself in history.” </p>
-            <footer>John Berger - ways of seeing</footer>
-          </blockquote>          
-        </div>
+*“A people or a class which is cut off from its own past is far less free to choose and to act as a people or a class than one that has been able to situate itself in history.” - John Berger*
 
 And so, finally we arrive back where we started. How do you teach ways of seeing? How do you challenge assumptions, create new contexts or add new naming?
 
