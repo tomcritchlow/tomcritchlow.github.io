@@ -183,9 +183,7 @@ As a consultant - with experience likely across more industries than those insid
 
 I'll give you an example from my own work - a B2B client had seriously under-invested in design. Partly under the assumption that in the B2B space "it wasn't as important as for B2C" and that their sites were "good enough already". These kinds of assumptions about the world were repeated and interpreted differently throughout the organization but no one was challenging them directly. I wrote more about the methodology over in my post [how do you measure good content](https://tomcritchlow.com/2017/10/03/how-do-you-measure-good-content/) but a survey against their competitors was akin to taking a knife to their painting. It sent a shock through the organization and I presented this table at an executive all-hands:
 
-<figure class="fullwidth">
 <img src="/images/panda.png" >
-</figure>
 
 There's two lessons here - firstly **if you want to understand shared assumptions sometimes you have to go to the source - surveying users, asking customers questions, etc**.
 
