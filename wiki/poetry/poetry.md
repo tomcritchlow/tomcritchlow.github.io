@@ -112,6 +112,17 @@ ECHO: For sure the Rebel is going to Die. Oh, there will be no flags, not even b
 
 [Aimé Césaire, And the Dogs Were Silent](https://thefunambulist.net/literature/blue-eyed-architect-defy)
 
+--
+
+VIII
+I know noble accents   
+And lucid, inescapable rhythms;   
+But I know, too,   
+That the blackbird is involved   
+In what I know.   
+
+[Thirteen Ways of Looking at a Blackbird by WALLACE STEVENS](https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird)
+
 <script>
 	
 $('p').each(function(){
