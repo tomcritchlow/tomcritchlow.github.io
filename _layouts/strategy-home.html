@@ -64,7 +64,7 @@ footer{
     <form class="" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
       <fieldset class="cf bn ma0 pa0">
         <div class="cf f5 helvetica">
-          <div class="black-60 i pb2">Sign up to get notified of new chapters</div>
+          <div class="red i pb2">Sign up to get notified of new chapters</div>
           <label class="clip" for="email-address">Email Address</label>
           <input class="input-reset ba b--black-10 fl black-80 bg-white pa2 pv3 lh-solid w-70 w-75-m w-70-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email" value="" id="email-address">
           <input type="hidden" value="1" name="embed">
@@ -75,6 +75,40 @@ footer{
                       
   
   </div>
+
+
+{% for section in site.data.chapters %}
+
+<section class="w-100 cf mt5">
+
+    <h3 class="f4 fw8 mt0 mb3 bb pb2 b--light-silver">{{section.title}}</h3>
+
+    <div class="w-50-l fl pt3 pr3">
+      <p class="mt0"><em>{{section.blurb}}</em></p>
+    </div>
+
+    <div class="w-50-l fl pa3-l pv3-l pv3">
+
+        {% for chapter in section.chapters %}
+        {% if chapter.url%}
+        <div class="pb4">
+            <div class="f3"><a href="{{chapter.url}}">{{chapter.title}}</a></div>
+            <div class="f5">{{chapter.subtitle}}</div>
+          </div>
+        {% else %}
+        <div class="pb4">
+            <div class="f3 light-silver">{{chapter.title}}</div>
+            <div class="f5">{{chapter.subtitle}}</div>
+        </div>
+        {% endif %}
+
+        {% endfor %}
+        
+    </div>
+
+  </section>
+
+{% endfor %}
 
   <section class="w-100 cf mt5">
 
