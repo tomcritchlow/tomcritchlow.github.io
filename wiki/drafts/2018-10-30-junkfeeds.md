@@ -365,3 +365,12 @@ https://mitpress.mit.edu/books/architectural-intelligence
 https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/
 
 https://www.cnet.com/news/teens-have-figured-out-how-to-mess-with-instagrams-tracking-algorithm/
+
+
+
+<blockquote class="quoteback" darkmode="" data-title="The%20internet%20didn%E2%80%99t%20kill%20counterculture%E2%80%94you%20just%20won%E2%80%99t%20find%20it%20on%20Instagram" data-author="@documentjournal" cite="https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/">
+<p>“To be truly countercultural in a time of tech hegemony, one has to, above all, betray the platform which may come in the form of betraying or divesting from your public online self.”</p>
+    
+    
+<footer>@documentjournal<cite> <a href="https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/">https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
