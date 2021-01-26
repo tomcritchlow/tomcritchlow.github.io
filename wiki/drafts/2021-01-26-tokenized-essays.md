@@ -20,20 +20,41 @@ In the middle of this - there's a little experiment, that might turn out to be a
 
 ![](/images/tokenized-presale.png)
 
+## Paid Subscribers vs Tokenized Essays
 
-## Tokenized vs Paid Subscribers
+The existing Substack model is also having a moment. We're living through a cambrian explosion of creators going straight to audience. The same week [Slate Star Codex re-launches on Substack](https://astralcodexten.substack.com/p/still-alive), [Twitter acquires paid newsletter platform Revue](https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html) and the [Everything bundle raises $600k and launches their own platform](https://every.to/letter).
 
-The existing Substack model of paid subscribers is also having a moment. Twitter just bought Revue to compete, Forbes is launching some kind of paid newsletter product
+The Substack model has proven highly effective. But it's not the only model. Let's sketch out a potential end-goal for an alternative tokenized model.
 
+Today, your paid substack looks like this:
+
+![](/images/paid-subscribers.png)
+
+A flat fee per month, with a mix of paid and free newsletters. The paid ones are what you pay for, the free ones build hype and build audience.
+
+Under tokenized model you get something that looks like this:
+
+![](/images/tokenized-model.png)
+
+Where every post is free to read but every essay is an NFT - tradeable and ownable. It's the same kind of idea of hype vs value - but skewed in some interesting ways.
+
+But where this gets really interesting is when you add the pre-sale component that Jon is pioneering. Then you get something like this:
+
+![](/images/tokenized-presale-2.png)
+
+Here - every essay is a tradeable ownable NFT asset but **upcoming essays** go on sale via pre-sale of the tokens. This model allows all essays to be free to read but with significant hype and buzz-building potential of the pre-sale model.
+
+Over time it's not hard to imagine this model providing significant returns. How much do you think seminal blog posts like [status as a service](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service) or [the gervais principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) might fetch as ownable NFTs?
 
 ## Crypto Models Without Crypto Gatekeepers
 
-
-*Most importantly - this is a crypto-economics model that makes the essays free to read, where the 90% of your audience doesn't know how tokens work. But powered by the small crypto-native and crypto-curious that power the market*
+What's most interesting about this model is that the crypo-economics are all sub-surface. The essays are free to read so the majority of your audience is free to ignore the NFTs and simply enjoy the content. It's a crypto implementation that doesn't require large technical hurdles for the majority of your audience.
 
 ## A New Kind of Bundling
 
-Bundling (of newsletters) is the next big thing https://every.to/letter
+Ok, but what if we keep extending this idea? Bundling is one of the next big ideas for platforms like Substack and bundles can make very obvious economic sense. But today - they typically require you to bundle platform **and** payment. This crytpo-economic model of tokenized essays however allows for a radical new way of bundling. Creators can bundle not at the platform layer (i.e. publishing at the same place) but at the protocol layer (i.e. by selling their works on the same token).
 
-But this crypto-economics model outlined here offers a radical new form of bundling. Creators can bundle not at the platform layer (i.e. publishing at the same place) but at the protocol layer (i.e. by selling their works on the same token).
+Through collaborating on a single token it's possible to create an economic bundle distinct from the platform bundle - allowing all sorts of new ideas - and ownership models.
+
+Honestly, I'm not expert in NFTs or crypto but I'm excited for the coming wave that might just usher in some exciting new models. And maybe we'll bring back blogging in the process.
 
