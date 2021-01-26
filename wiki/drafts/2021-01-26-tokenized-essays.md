@@ -14,11 +14,10 @@ In the middle of this - there's a little experiment, that might turn out to be a
 <p>I'm really excited to be trying something new this week: using crypto to crowdfund the next essay I'm writing, titled 'Scissor Labels.'</p>
 <p>Instead of publishing my work for free, or putting it behind a paywall, I'm doing something in between: raising funds to produce a new essay in exchange for ownership of the work. This will allow me to devote my full time to writing the piece, while allowing it to exist as a public good for anyone to read.</p>
 <p>Below is Mirror's new <a href="https://dev.mirror.xyz/llJ_AboiDJwB_ZAFz-CXU7fL2p8v5Wz6MjfluLafewQ" target="_blank" rel="noopener">Crowdfunding Block</a>, which contains everything you need to know about backing this project. The crowdfund will go live on <strong>Thursday, January 28th at 12pm PT</strong>.</p>
+<img src="https://tomcritchlow.com/images/tokenized-presale.png" />
 <footer> <cite><a href="https://j.mirror.xyz/OgVaYso25gEqxn7N4RyPnPbMO9pbNQJZQKEUvV9pxv8">https://j.mirror.xyz/OgVaYso25gEqxn7N4RyPnPbMO9pbNQJZQKEUvV9pxv8</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-![](/images/tokenized-presale.png)
 
 ## Paid Subscribers vs Tokenized Essays
 
