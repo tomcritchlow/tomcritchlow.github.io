@@ -10,7 +10,7 @@ Against the backdrop of Gamestop share trading via /r/wallstreetbets, and [peopl
 
 In the middle of this - there's a little experiment, that might turn out to be a big idea. John Palmer is launching his next essay as an NFT crypto-asset, with a pre-sale for the essay token:
 
-<blockquote class="quoteback" darkmode="" data-title="Using%20an%20Ethereum%20NFT%20to%20Crowdfund%20my%20Writing" data-author="" cite="https://j.mirror.xyz/OgVaYso25gEqxn7N4RyPnPbMO9pbNQJZQKEUvV9pxv8">
+<blockquote class="quoteback" darkmode="" data-title="Using%20an%20Ethereum%20NFT%20to%20Crowdfund%20my%20Writing" data-author="John Palmer" cite="https://j.mirror.xyz/OgVaYso25gEqxn7N4RyPnPbMO9pbNQJZQKEUvV9pxv8">
 <p>I'm really excited to be trying something new this week: using crypto to crowdfund the next essay I'm writing, titled 'Scissor Labels.'</p>
 <p>Instead of publishing my work for free, or putting it behind a paywall, I'm doing something in between: raising funds to produce a new essay in exchange for ownership of the work. This will allow me to devote my full time to writing the piece, while allowing it to exist as a public good for anyone to read.</p>
 <p>Below is Mirror's new <a href="https://dev.mirror.xyz/llJ_AboiDJwB_ZAFz-CXU7fL2p8v5Wz6MjfluLafewQ" target="_blank" rel="noopener">Crowdfunding Block</a>, which contains everything you need to know about backing this project. The crowdfund will go live on <strong>Thursday, January 28th at 12pm PT</strong>.</p>
