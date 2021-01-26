@@ -8,7 +8,7 @@ subtitle: Narrative economics and crypto-models for blogging
 
 Against the backdrop of Gamestop share trading via /r/wallstreetbets, and [people buying tweets as NFTs](https://twitter.com/whatdotcd/status/1341098300234211330), sometimes [for ~$2k](https://v.cent.co/tweet/923196967727124481) we've never seen more experimentation of media, markets and narratives.
 
-In the middle of this - there's a little experiment, that might turn out to be a big idea. Jon Palmer is launching his next essay as an NFT crypto-asset, with a pre-sale for the essay token:
+In the middle of this - there's a little experiment, that might turn out to be a big idea. John Palmer is launching his next essay as an NFT crypto-asset, with a pre-sale for the essay token:
 
 <blockquote class="quoteback" darkmode="" data-title="Using%20an%20Ethereum%20NFT%20to%20Crowdfund%20my%20Writing" data-author="" cite="https://j.mirror.xyz/OgVaYso25gEqxn7N4RyPnPbMO9pbNQJZQKEUvV9pxv8">
 <p>I'm really excited to be trying something new this week: using crypto to crowdfund the next essay I'm writing, titled 'Scissor Labels.'</p>
@@ -37,7 +37,7 @@ Under tokenized model you get something that looks like this:
 
 Where every post is free to read but every essay is an NFT - tradeable and ownable. It's the same kind of idea of hype vs value - but skewed in some interesting ways.
 
-But where this gets really interesting is when you add the pre-sale component that Jon is pioneering. Then you get something like this:
+But where this gets really interesting is when you add the pre-sale component that John is pioneering. Then you get something like this:
 
 ![](/images/tokenized-presale-2.png)
 
