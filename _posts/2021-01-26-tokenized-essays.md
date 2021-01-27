@@ -57,3 +57,9 @@ Through collaborating on a single token it's possible to create an economic bund
 
 Honestly, I'm no expert in NFTs or crypto but I'm excited for the coming wave that might just usher in some exciting new models. And maybe we'll bring back blogging in the process.
 
+--
+
+*Update #1: One more observation. Just like the [Friends with Benefits](https://fwb.help/) tokenized community you can automatically unlock other things (e.g. communities, assets, access) to anyone who currently owns one of your essays. This might be a nice elegant way to open up newsletter+community style models.....*
+
+
+
