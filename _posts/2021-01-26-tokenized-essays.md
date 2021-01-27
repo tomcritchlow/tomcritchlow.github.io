@@ -61,5 +61,6 @@ Honestly, I'm no expert in NFTs or crypto but I'm excited for the coming wave th
 
 *Update #1: One more observation. Just like the [Friends with Benefits](https://fwb.help/) tokenized community you can automatically unlock other things (e.g. communities, assets, access) to anyone who currently owns one of your essays. This might be a nice elegant way to open up newsletter+community style models.....*
 
+*Update #2: Perhaps this also unlocks even more radical forms of bundling - where there are ventures part employer owned, part individual owned. Or part community owned, exit to community style.*
 
 
