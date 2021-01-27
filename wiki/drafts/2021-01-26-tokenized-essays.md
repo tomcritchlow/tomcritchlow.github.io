@@ -55,5 +55,5 @@ Ok, but what if we keep extending this idea? Bundling is one of the next big ide
 
 Through collaborating on a single token it's possible to create an economic bundle distinct from the platform bundle - allowing all sorts of new ideas - and ownership models.
 
-Honestly, I'm not expert in NFTs or crypto but I'm excited for the coming wave that might just usher in some exciting new models. And maybe we'll bring back blogging in the process.
+Honestly, I'm no expert in NFTs or crypto but I'm excited for the coming wave that might just usher in some exciting new models. And maybe we'll bring back blogging in the process.
 
