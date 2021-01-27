@@ -47,7 +47,7 @@ Over time it's not hard to imagine this model providing significant returns. How
 
 ## Crypto Models Without Crypto Gatekeepers
 
-What's most interesting about this model is that the crypo-economics are all sub-surface. The essays are free to read so the majority of your audience is free to ignore the NFTs and simply enjoy the content. It's a crypto implementation that doesn't require large technical hurdles for the majority of your audience.
+What's most interesting about this model is that the crypto-economics are all sub-surface. The essays are free to read so the majority of your audience is free to ignore the NFTs and simply enjoy the content. It's a crypto implementation that doesn't require large technical hurdles for the majority of your audience.
 
 ## A New Kind of Bundling
 
