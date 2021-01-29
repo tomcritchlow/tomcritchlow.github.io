@@ -63,4 +63,8 @@ Honestly, I'm no expert in NFTs or crypto but I'm excited for the coming wave th
 
 *Update #2: Perhaps this also unlocks even more radical forms of bundling - where there are ventures part employer owned, part individual owned. Or part community owned, exit to community style.*
 
+*Update #3: John's crowd-funding was successful:*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Writers. <a href="https://twitter.com/john_c_palmer?ref_src=twsrc%5Etfw">@john_c_palmer</a> just raised more than $13,000 to write an essay. <br><br>That is probably more than you&#39;d get paid to write elsewhere. <br><br>Check out <a href="https://twitter.com/viamirror?ref_src=twsrc%5Etfw">@viamirror</a> - <a href="https://t.co/E92SDwNwA5">https://t.co/E92SDwNwA5</a></p>&mdash; Trev🙃r ~ skeet.eth (@whatdotcd) <a href="https://twitter.com/whatdotcd/status/1354937648524087312?ref_src=twsrc%5Etfw">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
