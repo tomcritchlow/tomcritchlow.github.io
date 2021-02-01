@@ -293,7 +293,7 @@ When I first started consulting in 2014, yes I worked mostly on SEO projects. Bu
 
 Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do[^mediadesign].
 
-[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design(https://tomcritchlow.com/2018/07/25/media-design/)]
+[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design](https://tomcritchlow.com/2018/07/25/media-design/).
 
 ## How to learn to be more strategic
 
