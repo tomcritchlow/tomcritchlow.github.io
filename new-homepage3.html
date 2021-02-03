@@ -54,8 +54,8 @@
     </div>
 
     <div class="flex">
-<div class="w-30"></div>
-<div class="w-70 f4">
+<div class="w-20"></div>
+<div class="w-80 f4">
         
     <div class="pv3">
     <a class="black link b" href="/">The Consultant's Grain</a>
@@ -70,7 +70,12 @@
     <div class="pv3">
             <a class="black link b" href="/">Little Futures</a>
             <br>Near futures explorations
-            </div>    
+            </div> 
+            
+    <div class="pv3">
+      <a class="black link b" href="/">Quotebacks</a>
+      <br>Blogging knowledge infrastructure
+      </div>                
 
     <div class="pv3">
             <a class="black link b" href="/">The SEO MBA</a>
@@ -90,14 +95,16 @@
         </div>
         
         <div class="flex w-100">
-            <div class="w-30"></div>
-            <div class="w-70">
-                    {% for post in site.posts  limit:10%}
-                    {% if post.draft == true %}
-                    {% else %}
-                    <div class="pv2">
+            {% for post in site.posts  limit:10%}
+            {% if post.draft == true %}
+            {% else %}
+              <div class="w-20">
+                  <span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span>
+              </div>
+              <div class="w-80">
+                    <div class="pv3">
                     {% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/>{% endif %}<a class="black link dim b" href="{{ post.url }}">{{ post.title }}</a> <span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span>
-                    <br><span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span>
+                    <br><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span>
                     {{ post.content | strip_html | truncatewords: 50 }}
                     </div>  
                     {% endif %}
