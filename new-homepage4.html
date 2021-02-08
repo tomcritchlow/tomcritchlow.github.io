@@ -87,6 +87,7 @@
               <div class="w-80">
                     <div class="">
                     {% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/>{% endif %}<a class="black link dim b f4 pb2" href="{{ post.url }}">{{ post.title }}</a> 
+                    <br><span class="">{{post.subtitle}}</span>
                     <br><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span>
                     <span class="black-70">{{ post.content | strip_html | truncatewords: 50 }}</span>
                     </div>  
@@ -95,6 +96,8 @@
             {% endif %}
                     {% endfor %}
         
+<div class="w5 br4 ba b--newgreen pa4 newgreen">See all →</div>
+
                   </div>
 
 </div>
