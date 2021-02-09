@@ -42,27 +42,27 @@
         
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l">
             <a href="/strategy"><img class="br2 shadow-1" src="https://i.imgur.com/29wPxpB.png" /></a>
-          <a href="/strategy"><h2 class="f5">The Strategic Independent</h2>
+          <a href="/strategy" class="link black"><h2 class="f5">The Strategic Independent</h2>
           A book about independent consulting</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l">
             <a href="https://littlefutures.substack.com"><img class="br2 shadow-1" src="https://i.imgur.com/JGddRwj.png" /></a>
-            <a href="https://littlefutures.substack.com"><h2 class="f5">Little Futures</h2>
+            <a href="https://littlefutures.substack.com" class="link black"><h2 class="f5">Little Futures</h2>
           Near futures provocations</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l">
             <a href="https://fiercelycurious.com"><img class="br2 shadow-1" src="https://i.imgur.com/RevDvzd.png" /></a>
-            <a href="https://fiercelycurious.com"><h2 class="f5">Fiercely Curious</h2>
+            <a href="https://fiercelycurious.com" class="link black"><h2 class="f5">Fiercely Curious</h2>
             A Brooklyn art collective</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l">
             <a href="https://seomba.com"><img class="br2 shadow-1" src="https://i.imgur.com/ON6Jlfc.png" /></a>
-            <a href="https://seomba.com"><h2 class="f5">The SEO MBA</h2>
+            <a href="https://seomba.com" class="link black"><h2 class="f5">The SEO MBA</h2>
             Leadership & management skills for SEOs</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l">
             <a href="https://quotebacks.net"></a><img class="br2 shadow-1" src="https://i.imgur.com/wN0xhF8.png" /></a>
-            <a href="https://quotebacks.net"><h2 class="f5">Quotebacks</h2>
+            <a href="https://quotebacks.net" class="link black"><h2 class="f5">Quotebacks</h2>
             Open source blogging tools</a>
         </div>
 
@@ -80,7 +80,7 @@
             {% for post in site.posts  limit:10%}
             {% if post.draft == true %}
             {% else %}
-            <div class="flex-l w-100 pv3">
+            <div class="flex-l w-100 pv4">
               <div class="w-100 w-20-l">
                   <span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span>
                   <br><span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span>
@@ -88,7 +88,7 @@
               <div class="w-100 w-80-l">
                     <div class="">
                     {% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/>{% endif %}<a class="black link dim b f4 pb2" href="{{ post.url }}">{{ post.title }}</a> 
-                    <div class="f4 pb2">{{post.subtitle}}</div>
+                    <div class="f4 pb3">{{post.subtitle}}</div>
                     <div class="black-70">{{ post.content | strip_html | truncatewords: 50 }}</div>
                     </div>  
             </div>
