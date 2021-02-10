@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: A Memory Called Empire
+   author: Arkady Martine
+   link: https://www.amazon.com/Memory-Called-Empire-Arkady-Martine-ebook/dp/B07C7BCB88
+   date_finished: 02/10/2021
+   notes: What richness! The first time I've read sci-fi that felt a bit like Iain M Banks. Deep, complex, rich worlds with strong characters. An absolute treat - spanning langauge, poetry, politics, identity, memory and more. I cannot wait for the followup. After reading so much poorly written sci fi recently (Dune, The Ministry of the Future, Exhalation..) this was a refreshing breath of fresh air.
  - title: Laughter in the Dark
    author: Vladamir Nabakov
    link: https://www.amazon.com/Laughter-Vintage-International-Vladimir-Nabokov-ebook-dp-B004KABE1K/dp/B004KABE1K/
