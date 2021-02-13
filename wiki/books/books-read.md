@@ -22,6 +22,11 @@ books:
    link: https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ 
    date_finished: 01/04/2021
    notes: Abandoned 2/3 of the way through :( - while I quite enjoyed some of the provocations in the stories ultimately the writing didn't captivate me. Left me feeling bored so I gave it up.
+ - title: Multidimensional Executive Coaching
+   author: Ruth L. Orenstein
+   link: https://www.amazon.com/Multidimensional-Executive-Coaching-Ruth-Orenstein/dp/0826125662 
+   date_finished: 01/06/2021
+   notes: Some great thought provoking ideas about coaching, consulting and being embedded inside organizations as an outsider. I especially love the concept in the book of overbounded or underbounded organizations.
  - title: The Player of Games
    author: Iain M. Banks
    link: https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401
@@ -36,6 +41,7 @@ books:
    author: Nadia Eghbal
    link: https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
    date_finished: 10/15/2020
+   notes: A great read about internet creators, economics of production, communities, influencers, open source and more. Nadia provides a ton of real data and examples but pairs them with big ideas and concepts. Essential read.
  - title: The Uncertainty Mindset
    author: Vaughn Tan
    link: https://www.amazon.com/Uncertainty-Mindset-Innovation-Insights-Frontiers-ebook/dp/B0825CZQR8   
