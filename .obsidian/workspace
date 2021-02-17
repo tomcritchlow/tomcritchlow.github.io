@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "85ae53855dd0e237",
+        "id": "b917d2a2c16f9942",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/testing obsidian.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +66,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/testing obsidian.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,6 +82,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes/testing obsidian.md",
     "notes/Untitled.md",
     "testing obsidian.md",
     "Untitled.md",
@@ -84,7 +91,6 @@
     "notes/current interests.md",
     "wiki/drafts/2020-11-10-6-years.md",
     "images/Pasted image 20201109092959.png",
-    "wiki/drafts/Pasted image 20201109092809.png",
-    "notes/Exploring digital gardens.md"
+    "wiki/drafts/Pasted image 20201109092809.png"
   ]
 }
