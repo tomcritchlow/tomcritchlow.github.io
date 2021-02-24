@@ -71,10 +71,6 @@ This whole idea works because I think there's a strong analogy between the resea
 
 Why not do that in public with a mixture of individual and institutional backers?
 
-## Tokenized Ownership?
-
-And... maybe you can peg this whole thing to a tokenized economy? Providing benefit to backers beyond just supporting the work but actually profiting from the commercial aspects? I certainly don't think you *need* the tokenized angle but it's certainly appealing here to think about ways in which you might allow the audience to not just fund, but actually invest in the the research lab...
-
 --
 
 
