@@ -374,3 +374,5 @@ https://www.cnet.com/news/teens-have-figured-out-how-to-mess-with-instagrams-tra
     
 <footer>@documentjournal<cite> <a href="https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/">https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+https://fakepixels.substack.com/p/fkpxls-the-illusions-of-free-to-play
