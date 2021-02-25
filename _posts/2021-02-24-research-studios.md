@@ -77,3 +77,27 @@ Why not do that in public with a mixture of individual and institutional backers
 Matt - how long would it take you to raise 7 figures of funding to get your research lab off the ground? Compared with how long it would take you to raise 6 figures from subscribers willing to make a few initial bets?
 
 Just a thought.
+
+--
+
+*Update #1*: Andy points me to Martin's blog where he says this:
+
+<blockquote class="quoteback" darkmode="" data-title="Building the future of computing, with your help — Martin Kleppmann’s blog" data-author="Martin Kleppmann" cite="https://martin.kleppmann.com/2021/02/23/patreon.html">
+<p>You might be wondering: even if I get enough Patreon funding to cover my own living expenses, it
+seems unlikely that I will be able to crowdfund a team of five to ten people. Fortunately, I have
+found over the last years that collaboration does not require all team members to be funded out of
+the same purse. I constantly collaborate with people without being responsible for their payroll.
+In open source, it is common for contributors to a project to be employed by several different
+organisations, and indeed such diversity makes projects better and more resilient.</p>
+
+<p>I work closely with the <a href="https://www.inkandswitch.com/" target="_blank" rel="noopener">Ink &amp; Switch lab</a>, who have their own
+funding. Some of my collaborators are PhD students who have their own stipends, or research fellows
+who have their own grants. We come together because of our common interests, and because nobody is
+trying to profit from the others. We have a vision of the future that we want to realise, and the
+funding just lets us pay the bills as we work towards the greater goal.</p>
+<footer>Martin Kleppmann<cite> <a href="https://martin.kleppmann.com/2021/02/23/patreon.html">https://martin.kleppmann.com/2021/02/23/patreon.html</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Interesting!
+
+*Update #2*: Perhaps a more interesting and relevant model for organizations being crowd-funded is not Are.na but [Athens Research](https://opencollective.com/athens) which has a full community-funding model in place....
