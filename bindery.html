@@ -116,6 +116,8 @@ img{max-width:100%}
 <p>Intro text goes here...</p>
 <p>What if there was a margin note that went something<span data-title="Margin waffles here" class="marginnote"></span> like this</p>
 
+{% assign yesand = "" | split,"" %}
+
 {% for post in site.posts %}
 {% if post.tags contains "strategy" %}
 {% assign yesand = yesand | push:post %}
