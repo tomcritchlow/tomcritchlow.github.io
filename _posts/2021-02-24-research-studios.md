@@ -101,3 +101,12 @@ funding just lets us pay the bills as we work towards the greater goal.</p>
 Interesting!
 
 *Update #2*: Perhaps a more interesting and relevant model for organizations being crowd-funded is not Are.na but [Athens Research](https://opencollective.com/athens) which has a full community-funding model in place....
+
+*Update #3*: Peter has some great thoughts in his response:
+
+<blockquote class="quoteback" darkmode="" data-title="Public Interest Independent Research Labs" data-author="@thewavingcat" cite="https://thewavingcat.com/2021/02/public-interest-independent-research-labs/">
+<p><strong>If you attempt to approach an area of research with the wrong type of funding, it will invariably fail. <em>Any money</em> isn’t necessarily better than <em>no money</em>. <em>The right type of money</em> is better than <em>no money</em>. </strong></p>
+<p>In other words:</p>
+<p><strong>I think there’s a real and important role to play for publicly funded, but largely independent research labs.&nbsp;</strong></p>
+<footer>@thewavingcat<cite> <a href="https://thewavingcat.com/2021/02/public-interest-independent-research-labs/">https://thewavingcat.com/2021/02/public-interest-independent-research-labs/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
