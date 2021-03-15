@@ -144,3 +144,4 @@ source: [Shannon Mattern on Twitter](https://twitter.com/shannonmattern/status/1
 
 Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/mike/articles/whysketch/whysketch.html)
 
+<http://www.xplaner.com/visual-thinking-school/>

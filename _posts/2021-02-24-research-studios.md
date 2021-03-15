@@ -110,3 +110,5 @@ Interesting!
 <p><strong>I think there’s a real and important role to play for publicly funded, but largely independent research labs.&nbsp;</strong></p>
 <footer>@thewavingcat<cite> <a href="https://thewavingcat.com/2021/02/public-interest-independent-research-labs/">https://thewavingcat.com/2021/02/public-interest-independent-research-labs/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+*Update #4*: Matt has blogged some inspiration and collected 14 research studios he's keeping an eye on: <http://interconnected.org/home/2021/03/15/labs>
