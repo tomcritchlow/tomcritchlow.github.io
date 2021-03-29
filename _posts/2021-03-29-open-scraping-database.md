@@ -1,5 +1,5 @@
 ---
-title: An Open Scraping Database?
+title: Notes on an Open Scraping Database
 subtitle: Exposing the web's data texture
 layout: blog
 ---
