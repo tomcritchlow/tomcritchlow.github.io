@@ -42,4 +42,6 @@ Of course this wouldn't resolve the harder scraping problems but might be "good 
 
 Does such a thing exist?
 
+If you're working on something like this get in touch!
+
 
