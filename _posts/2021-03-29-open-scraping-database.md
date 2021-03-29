@@ -38,6 +38,8 @@ What if... there was an open database for scraping. I'm imagining something like
 
 So for example I could look up a website like airbnb and quickly grab the selector or xpath for extracting the price field from a listing.
 
+Of course this wouldn't resolve the harder scraping problems but might be "good enough" for many general hobby/prosumer use cases.
+
 Does such a thing exist?
 
 
