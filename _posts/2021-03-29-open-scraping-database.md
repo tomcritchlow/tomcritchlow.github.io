@@ -6,9 +6,9 @@ layout: blog
 
 I'm no developer, but I've been using spreadsheets to query, extract and fiddle with the web for [over a decade now](https://web.archive.org/web/20110129014147/http://www.distilled.co.uk/blog/seo/how-to-build-agile-seo-tools-using-google-docs/).
 
-And today I'm knee deep in an R&D project exploring the link between the web and spreadsheets. It's basically my dream project.
+And today I'm knee deep in an R&D project exploring the link between the web and spreadsheets. It's basically my dream client gig.
 
-I found this wonderful project from Geoffrey Litt - [Wildcard](https://www.geoffreylitt.com/wildcard/):
+Along the way, I found this wonderful project from Geoffrey Litt - [Wildcard](https://www.geoffreylitt.com/wildcard/):
 
 <blockquote class="quoteback" darkmode="" data-title="Wildcard" data-author="@geoffreylitt" cite="https://www.geoffreylitt.com/wildcard/">
 Wildcard is a browser extension that empowers anyone to modify websites to meet their own specific needs, using a familiar spreadsheet view. 
