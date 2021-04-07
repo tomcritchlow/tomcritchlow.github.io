@@ -152,6 +152,8 @@ img{max-width:100%}
         <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
 
         {% assign post = site.posts | where:"path", chapter.url  | first %}
+        {{chapter.url}}
+        {{site.posts[0].path}}
 
         {{post}}
         
