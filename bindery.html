@@ -155,13 +155,10 @@ img{max-width:100%}
 
         {% assign post = site.posts | where:"url", tempurl  | first %}
 
-        {{tempurl}}
-
-        {{post.title}}
         
-        {{chapter.url}}
 
-        {{site.posts[0].url}}
+        {{post.content}}
+        
 
         
         
