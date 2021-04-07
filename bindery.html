@@ -151,11 +151,15 @@ img{max-width:100%}
         <h1 class="posttitle">{{chapter.title}}</h1>
         <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
 
-        {% assign post = site.posts | where:"path", chapter.url  | first %}
+        {% assign post = site.posts | where:"id", chapter.url  | first %}
+
+        {{post.title}}
+        
         {{chapter.url}}
+
         {{site.posts[0].id}}
 
-        {{post}}
+        
         
         {% else %}
 
