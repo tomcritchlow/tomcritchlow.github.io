@@ -151,7 +151,7 @@ img{max-width:100%}
         <h1 class="posttitle">{{chapter.title}}</h1>
         <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
 
-        {% assign tempurl = chapter.url | remove:"https://tomcritchlow" %}
+        {% assign tempurl = chapter.url | remove:"https://tomcritchlow.com" %}
 
         {% assign post = site.posts | where:"id", tempurl  | first %}
 
