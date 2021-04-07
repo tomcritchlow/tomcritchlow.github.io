@@ -138,6 +138,30 @@ img{max-width:100%}
 {% endfor %}
 
 
+{% for section in site.data.chapters %}
+
+<section>
+
+    <h3>{{section.title}}</h3>
+    <p class="mt0"><em>{{section.blurb}}</em></p>
+    
+        {% for chapter in section.chapters %}
+        {% if chapter.url%}
+        
+        <h1 class="posttitle">{{chapter.title}}</h1>
+        <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
+        
+        {% else %}
+
+        {% endif %}
+
+        {% endfor %} 
+        
+  </section>
+
+{% endfor %}
+
+
 
   </div>
   <script src="https://unpkg.com/bindery@2.3.1/dist/bindery.min.js"></script>
