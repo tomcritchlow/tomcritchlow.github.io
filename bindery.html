@@ -116,34 +116,12 @@ img{max-width:100%}
 <p>Intro text goes here...</p>
 <p>What if there was a margin note that went something<span data-title="Margin waffles here" class="marginnote"></span> like this</p>
 
-{% assign yesand = "" | split,"" %}
-
-{% for post in site.posts %}
-{% if post.tags contains "strategy" %}
-{% assign yesand = yesand | push:post %}
-{% endif %}
-{% endfor %}
-
-{% assign sortedPages = yesand | sort:"date" %}
-
-{% for post in sortedPages %}
-
-<h1 class="posttitle">{{post.title}}</h1>
-<h2 class="postsubtitle">{{post.subtitle}}</h2>
-<div class="chapternumber">Chapter {{forloop.index}}</div>
-<div class="post-content">
-  {{post.content}}
-  </div>
-
-{% endfor %}
-
-
 {% for section in site.data.chapters %}
 
 <section>
 
     <h3>{{section.title}}</h3>
-    <p class="mt0"><em>{{section.blurb}}</em></p>
+    <p><em>{{section.blurb}}</em></p>
     
         {% for chapter in section.chapters %}
         {% if chapter.url%}
@@ -154,14 +132,9 @@ img{max-width:100%}
         {% assign tempurl = chapter.url | remove:"https://tomcritchlow.com" %}
 
         {% assign post = site.posts | where:"url", tempurl  | first %}
-
-        
-
+        <div class="post-content">
         {{post.content}}
-        
-
-        
-        
+        </div>
         {% else %}
 
         {% endif %}
