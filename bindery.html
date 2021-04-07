@@ -153,7 +153,7 @@ img{max-width:100%}
 
         {% assign tempurl = chapter.url | remove:"https://tomcritchlow.com" %}
 
-        {% assign post = site.posts | where:"id", tempurl  | first %}
+        {% assign post = site.posts | where:"url", tempurl  | first %}
 
         {{tempurl}}
 
