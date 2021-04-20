@@ -5,6 +5,7 @@ books:
  - title: Satin Island
    author: Tom McCarthy
    link: https://openlibrary.org/works/OL20936732W
+   image: http://covers.openlibrary.org/b/id/10304991-M.jpg
    date_finished: 04/20/2021
    notes: 
  - title: A Memory Called Empire
