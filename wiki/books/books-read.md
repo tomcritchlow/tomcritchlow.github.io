@@ -2,6 +2,11 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Satin Island
+   author: Tom McCarthy
+   link: https://openlibrary.org/works/OL20936732W
+   date_finished: 04/20/2021
+   notes: 
  - title: A Memory Called Empire
    author: Arkady Martine
    link: https://www.amazon.com/Memory-Called-Empire-Arkady-Martine-ebook/dp/B07C7BCB88
