@@ -20,3 +20,7 @@
 --
 
 <https://www.subtraction.com/2021/03/01/designing-a-family-cookbook/>
+
+--
+
+<https://ryancan.build/blog/play-as-a-right>

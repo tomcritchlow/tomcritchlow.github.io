@@ -37,7 +37,10 @@
       <img src="{{book.image}}" />
       {% else %}
       {% assign bookimage = book.link | split:"/" %}
+      {% if bookimage contains "amazon" %}
       <img src="http://images.amazon.com/images/P/{{bookimage | last}}.01.LZZZZZZ.jpg" />
+      {% elsif bookimage contains "openlibrary" %}
+      <img src="http://covers.openlibrary.org/b/id/{{bookimage | last}}-M.jpg" />
     {% endif %}
   {% if book.link %}
   </a>
