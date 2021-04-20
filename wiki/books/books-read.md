@@ -2,12 +2,30 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
- - title: Satin Island
-   author: Tom McCarthy
-   link: https://openlibrary.org/works/OL20936732W
-   image: http://covers.openlibrary.org/b/id/10304991-M.jpg
-   date_finished: 04/20/2021
-   notes: 
+ - title: Assassin's Quest
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707231W
+   image: https://covers.openlibrary.org/b/id/4873-L.jpg
+   date_finished: 04/19/2021
+   notes: I love this trilogy so much. This is my third or fourth full re-read since I was a teenager and it remains magical each time. Such world building, characters and adventure. Onwards to the remaining.... *checks notes*.... 14 books!
+ - title: Royal Assassin
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707223W
+   image: http://covers.openlibrary.org/b/id/4871-L.jpg
+   date_finished: 03/24/2021
+   notes: That last line!! Such depth of characters. I really love this series. World building, unique ideas around magic, politics, love, wolves, assassins! Love it. Just as good as I remember.
+ - title: Assassin's Apprentice
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707210W
+   image: http://covers.openlibrary.org/b/id/4869-L.jpg
+   date_finished: 03/08/2021
+   notes: Diving back into an epic read of the 17 Robin Hobb books. The farseer trilogy is my all time fave and I've read these books several times before but I'm starting here to read them all in order.
+ - title: The mushroom at the end of the world
+   author: Anna Lowenhaupt Tsing
+   link: https://openlibrary.org/works/OL20015789W
+   image: http://covers.openlibrary.org/b/id/8881648-L.jpg
+   date_finished: In progress...
+   notes: A really magical exploration of global capitalism and... mushrooms?!
  - title: A Memory Called Empire
    author: Arkady Martine
    link: https://www.amazon.com/Memory-Called-Empire-Arkady-Martine-ebook/dp/B07C7BCB88
