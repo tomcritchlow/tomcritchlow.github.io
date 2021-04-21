@@ -2,7 +2,7 @@
 layout: wikibook
 title: My all time greats
 books:
-  - title: The Big Sleep
+ - title: The Big Sleep
    author: Raymond Chandler
    link: https://openlibrary.org/works/OL15400582W
    image: https://covers.openlibrary.org/b/id/7268475-L.jpg
@@ -37,8 +37,6 @@ books:
    link: https://openlibrary.org/works/OL65936W
    image: https://covers.openlibrary.org/b/olid/OL27595541M-L.jpg
    notes: A magical lyrical exploration of loneliness and living on top of a mountain and jazz.
-
-
 ---
 
 Raymond Chandler
