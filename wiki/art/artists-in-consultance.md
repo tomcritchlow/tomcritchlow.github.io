@@ -26,3 +26,9 @@ Source: [Systems Effects and Learning Processes](https://medium.com/diakron/syst
 --
 
 https://twitter.com/buckhouse/status/1313241232349384704
+
+--
+
+> There’s something about art + tech which is niggling at me. The process I’m interested in is when a technology organisation commissions or supports art as a way to understand itself.
+
+Source: [Art + tech](https://interconnected.org/home/2015/10/13/art_x_tech) by @intrcnnctd
