@@ -138,3 +138,7 @@ Having built my own RSS feed reader already I'm very wary of RSS - it's battle t
 >Having spent some time writing code to track the past 22-40 years of my reading (22 consistenly, 40 with gaps) I thought I’d share a few things I’ve done or thought about, in terms of the data
 
 ! Oh my. Thanks Phil - great insights.
+
+--
+
+*Update #8* - [Ton Zijlstra has posted up some experimentation with an OPML file](https://www.zylstra.org/blog/2021/05/federated-bookshelf-proof-of-concept/) implementation! Lovely. Lots to explore here.
