@@ -113,9 +113,9 @@ img{max-width:100%}
 
 <div id="toc">
   <h3>Table of Contents</h3>
-  <ul class="toc">
+  <div class="toc">
       {% for section in site.data.chapters %}
-      <li><a href="#section{{forloop.index}}">{{section.title}}</a></li>
+      <a href="#section{{forloop.index}}">{{section.title}}</a>
       
       {% assign chapterindex = forloop.index %}
 
@@ -128,7 +128,7 @@ img{max-width:100%}
 
 
       {% endfor %}
-  </ul>
+  </div>
 </div>
 
 <h1>The Strategic Independent</h1>
