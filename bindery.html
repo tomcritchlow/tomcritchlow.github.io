@@ -112,7 +112,14 @@ img{max-width:100%}
 <div id="imprint"><img src="https://i.imgur.com/QP7DiY7.png"/><br>Yes! And... press</div>
 
 <div id="toc">
-  <div id="toctable"></div>
+  <h3>Table of Contents</h3>
+  <ul class="toc">
+    <li><a href="#section1">First chapter title</a></li>
+    <li><a href="#section2">Second chapter title</a></li>
+    <li><a href="#section3">Third chapter title</a></li>
+    <li><a href="#section4">Fourth chapter title</a></li>
+    <li><a href="#section5">Fifth chapter title</a></li>
+  </ul>
 </div>
 
 <h1>The Strategic Independent</h1>
@@ -124,7 +131,7 @@ img{max-width:100%}
 
 <section>
 
-    <h3>{{section.title}}</h3>
+    <h3 id="section{{forloop.index}}">{{section.title}}</h3>
     <p><em>{{section.blurb}}</em></p>
     
         {% for chapter in section.chapters %}
@@ -205,7 +212,7 @@ $( document ).ready(function() {
     });    
 
   let tableContents = Bindery.PageReference({
-    selector: '#toctable',
+    selector: '#toc a',
     replace: (element, number) => {
       let row = document.createElement('div');
       row.classList.add('toc-row');
