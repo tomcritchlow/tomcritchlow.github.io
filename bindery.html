@@ -216,7 +216,7 @@ $( document ).ready(function() {
       let row = document.createElement('div');
       row.classList.add('toc-row');
       row.innerHTML = element.textContent;
-      row.innerHTML += `<span class='num'>${number}</span>`;
+      row.innerHTML += `<span style='float: right;'>${number}</span>`;
       return row;
     }
     });
