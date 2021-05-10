@@ -114,11 +114,10 @@ img{max-width:100%}
 <div id="toc">
   <h3>Table of Contents</h3>
   <ul class="toc">
-    <li><a href="#section1">First chapter title</a></li>
-    <li><a href="#section2">Second chapter title</a></li>
-    <li><a href="#section3">Third chapter title</a></li>
-    <li><a href="#section4">Fourth chapter title</a></li>
-    <li><a href="#section5">Fifth chapter title</a></li>
+
+      {% for section in site.data.chapters %}
+    <li><a href="#section{{forloop.index}}">{{section.title}}</a></li>
+      {% endfor %}
   </ul>
 </div>
 
