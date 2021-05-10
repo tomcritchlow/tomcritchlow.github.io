@@ -114,9 +114,8 @@ img{max-width:100%}
 <div id="toc">
   <h3>Table of Contents</h3>
   <ul class="toc">
-
       {% for section in site.data.chapters %}
-    <li><a href="#section{{forloop.index}}">{{section.title}}</a></li>
+      <li><a href="#section{{forloop.index}}">{{section.title}}</a></li>
       {% endfor %}
   </ul>
 </div>
@@ -132,11 +131,13 @@ img{max-width:100%}
 
     <h3 id="section{{forloop.index}}">{{section.title}}</h3>
     <p><em>{{section.blurb}}</em></p>
-    
+        
+        {% assign chapterindex = forloop.index %}
+
         {% for chapter in section.chapters %}
         {% if chapter.url%}
         
-        <h1 class="posttitle">{{chapter.title}}</h1>
+        <h1 class="posttitle" id="section{{chapterindex}}chapter{{forloop.index}}">{{chapter.title}}</h1>
         <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
 
         {% assign tempurl = chapter.url | remove:"https://tomcritchlow.com" %}
