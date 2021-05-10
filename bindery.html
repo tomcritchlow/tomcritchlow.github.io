@@ -116,6 +116,17 @@ img{max-width:100%}
   <ul class="toc">
       {% for section in site.data.chapters %}
       <li><a href="#section{{forloop.index}}">{{section.title}}</a></li>
+      
+      {% assign chapterindex = forloop.index %}
+
+      {% for chapter in section.chapters %}
+        {% if chapter.url%}
+        <span><a href="#section{{chapterindex}}chapter{{forloop.index}}">{{chapter.title}}</a></span>
+        <span>{{chapter.subtitle}}</span>
+        {% endif %}
+      {% endfor %}
+
+
       {% endfor %}
   </ul>
 </div>
