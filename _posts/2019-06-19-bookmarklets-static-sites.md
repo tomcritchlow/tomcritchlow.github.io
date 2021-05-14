@@ -42,4 +42,4 @@ What would you like to script for your static site? Let me know and I'll try and
 
 --
 
-*Update 8/20/19 - A few posts that came across my stream that extend this idea. Firstly this that walks through a full end to end publish experience: [indieweb link sharing](https://mxb.dev/blog/indieweb-link-sharing/) and this that seems to predate mine [Saving Links to My Site With a Bookmarklet(https://timkadlec.com/remembers/2018-02-06-saving-links-to-my-site-with-a-bookmarklet/).*
+*Update 8/20/19 - A few posts that came across my stream that extend this idea. Firstly this that walks through a full end to end publish experience: [indieweb link sharing](https://mxb.dev/blog/indieweb-link-sharing/) and this that seems to predate mine [Saving Links to My Site With a Bookmarklet](https://timkadlec.com/remembers/2018-02-06-saving-links-to-my-site-with-a-bookmarklet/).*
