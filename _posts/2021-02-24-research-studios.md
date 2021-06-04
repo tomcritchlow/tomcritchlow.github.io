@@ -114,3 +114,5 @@ Interesting!
 *Update #4*: Matt has blogged some inspiration and collected 14 research studios he's keeping an eye on: <http://interconnected.org/home/2021/03/15/labs>
 
 *Update #5*: Sam posted a great little [list of research studios](https://arbesman.net/overedge/) and [Ben too](https://notes.benjaminreinhardt.com/Organizations_with_structures_worth_learning_from).
+
+*Update #6*: This Hacker News thread is worth a read: [Ask HN: Anybody Started a Research Institute?](https://news.ycombinator.com/item?id=27300594)

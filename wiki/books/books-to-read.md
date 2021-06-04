@@ -106,3 +106,11 @@ From Brian: <https://www.amazon.com/Grendel-John-Gardner/dp/0679723110>
 >
 
 [The Sunken Land Begins to Rise Again](https://www.amazon.com/Sunken-Land-Begins-Rise-Again-ebook/dp/B07WRBKMQB)
+
+--
+
+From Will: 
+- Never split the difference
+- 4dx
+- Five dysfunctions of a team
+- How to avoid a climate disaster
