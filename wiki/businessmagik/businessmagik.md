@@ -120,3 +120,5 @@ https://www.tandfonline.com/doi/abs/10.1080/09502386.2020.1788620?journalCode=rc
 https://www.youtube.com/watch?v=srrDutnZIXI&list=WL&index=14&t=25s
 
 https://www.cjc-online.ca/index.php/journal/article/viewFile/2906/2471
+
+[Machine learning tarot](http://www.lynneyun.com/spring-20-synthetic-media/2020/3/11/tarot-card-generation-with-machine-learning)

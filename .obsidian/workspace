@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-16.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-07-16.md",
+    "notes/diagrams notes.md",
+    "notes/current interests.md",
     "notes/testing obsidian.md",
     "notes/Untitled.md",
     "testing obsidian.md",
     "Untitled.md",
     "notes/new page.md",
-    "notes/diagrams notes.md",
-    "notes/current interests.md",
     "wiki/drafts/2020-11-10-6-years.md",
-    "images/Pasted image 20201109092959.png",
-    "wiki/drafts/Pasted image 20201109092809.png"
+    "images/Pasted image 20201109092959.png"
   ]
 }
