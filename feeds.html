@@ -15,37 +15,40 @@
 
 
 <script type="text/javascript">
-  window.onload = function() { init() };
+ 
+ const spreadsheetId = "1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY";
+fetch(
+  `https://docs.google.com/spreadsheets/d/${spreadsheetId}/gviz/tq?tqx=out:json`
+)
+  .then(res => res.text())
 
-  var public_spreadsheet_url = '1KOafitsYQJdZyvdywnOLjxz_FI2yVlxw2IXU2XpEAiY';
-
-  function init() {
-    Tabletop.init( { key: public_spreadsheet_url,
-                     callback: showInfo,
-                     debug:true } )
-                     
-  };
+  .then(text => {
+    const json = JSON.parse(text.substr(47).slice(0, -2));
+  //console.log(json.table.rows);
+  for (var i=0; i < json.table.rows.length; i++){
     
-function showInfo(sheets, tabletop) {
-    var data = sheets['Output'].elements;
-    var arraydata =sheets['Output'].toArray();
-    console.log(arraydata);
+    
+
     $("#loading").toggle();
 
     var count = 0;
 
-    for(i=0; i < data.length; i++){
-      var url = arraydata[i][2];
-      var title = arraydata[i][1];
-      if(title == "None"){
-        var title = url;
+    for(i=0; i < json.table.rows.length; i++){
+      console.log(json.table.rows[i]);
+      var url = json.table.rows[i].c[2].v;
+      var title = url;
+      if (json.table.rows[i].c[1] != null){
+        var title = json.table.rows[i].c[1].v;
       };
-      var sitename = arraydata[i][5];
-      var pubdate = arraydata[i][4];
-      var siteurl = arraydata[i][6]
+      var sitename = json.table.rows[i].c[5].v;
+      var pubdate = json.table.rows[i].c[4].v;
+      var siteurl = json.table.rows[i].c[6].v;
       var description = [];
       if(count<50){
-      var description = arraydata[i][3];
+        if (json.table.rows[i].c[3] != null){
+          description = json.table.rows[i].c[3].v;
+        }
+      
       }
       $("#links").append("<div class='feeditem'><strong><img src='https://s2.googleusercontent.com/s2/favicons?domain_url="+siteurl+"'/><a class='linktitle' href='"+url+ "'>" + title + "</a><span><br>"+ sitename +"  | </span></strong> <time class='timeago' datetime='"+pubdate+"'>"+pubdate+"</time><p>"+description+"...</p></div><hr>");
       count++;
@@ -53,11 +56,15 @@ function showInfo(sheets, tabletop) {
 
     jQuery("time.timeago").timeago();
 
-    };
+  
+    
+  }
+  
+  
+  })
 
 
-
-
+    
 
 </script>
 

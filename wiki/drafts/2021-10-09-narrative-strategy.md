@@ -26,3 +26,10 @@ Making sense.
 
 
 https://www.richardhughesjones.com/approach/
+
+Testing links
+
+[2019-04-04-the-strategic-independent](_posts/2019-04-04-the-strategic-independent.md)
+
+![](images/Pasted%20image%2020210722222136.png)
+
