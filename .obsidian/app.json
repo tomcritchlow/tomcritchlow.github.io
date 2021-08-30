@@ -1,0 +1,17 @@
+{
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "foldHeading": false,
+  "foldIndent": true,
+  "sideDockWidth": {
+    "left": 287,
+    "right": 300
+  },
+  "alwaysUpdateLinks": false,
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "absolute"
+}

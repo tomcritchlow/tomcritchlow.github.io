@@ -6,7 +6,6 @@
       {
         "id": "b917d2a2c16f9942",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +86,7 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "b917d2a2c16f9942",
   "lastOpenFiles": [
     "wiki/drafts/2021-10-09-narrative-strategy.md",
     "wiki/glitch-gowanus/notes.md",
