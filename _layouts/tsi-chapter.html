@@ -236,7 +236,7 @@ details[open] summary:after {
     </div>
 
     <div class="dn bookmenu h-100 fixed w-25 bg-near-white fixed top-0 overflow-y-scroll">
-        <div class="pt5 ph3">
+        <div class="pt5 ph4">
     
             <div class="pt3 pv4-l b--bookgreen-20 z-1">
                 <form class="w-100 pt2-l" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
@@ -261,7 +261,7 @@ details[open] summary:after {
     
             <div class="pv2">
                 <div class="bookgreen f4">{{section.title}}</div>
-                <ul>
+                <ul class="list mt1 pl3">
                 {% for chapter in section.chapters %}
                     {% if chapter.url%}
                     <li><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
