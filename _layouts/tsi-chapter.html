@@ -235,8 +235,29 @@ details[open] summary:after {
 
     </div>
 
-    <div class="dn bookmenu h-100 fixed w-25">
-        Some nav items
+    <div class="dn bookmenu h-100 fixed w-25 bg-near-white fixed top-0">
+        <div class="">
+
+{% for section in site.data.chapters %}
+
+<details class="pv2 details">
+    <summary class="relative  helvetica ttu">{{section.title}}</summary>
+    <ul class="ph1 ma0 pt1">
+        {% for chapter in section.chapters %}
+        <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
+          {% if chapter.url%}
+          <a href="{{chapter.url}}" class="f5 dim">{{chapter.title}}</a>
+          {% else %}
+          <span class="f5 black-50">{{chapter.title}}</span>
+          {% endif %}
+          <div class="f6 i black-50">{{chapter.subtitle}}</div>
+          </li>          
+        {% endfor %}
+
+    </ul>
+  </details>
+{% endfor %}
+        </div>
 
     </div>
 
