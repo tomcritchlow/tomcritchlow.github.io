@@ -305,12 +305,12 @@ details[open] summary:after {
         $hamburger.toggleClass("is-active");
         //hamburger is for search & menu now...
         if($('.bookmenu').is(':visible')){
-          $('.bookmenu').hide();
+          $('.bookmenu').toggle('slide','right',300);
           $("body").removeClass('noscroll');
           $('.topnav').addClass('bb');
         }
         else{
-          $('.bookmenu').toggle('slide','left',400);
+          $('.bookmenu').toggle('slide','left',300);
           $('.topnav').removeClass('bb');
           $("body").addClass('noscroll');
         }
