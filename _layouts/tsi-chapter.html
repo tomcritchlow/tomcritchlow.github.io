@@ -235,7 +235,7 @@ details[open] summary:after {
 
     </div>
 
-    <div class="dn bookmenu h-100 fixed w-30 bg-near-white fixed top-0 overflow-y-scroll">
+    <div class="dn bookmenu h-100 fixed w-40 bg-near-white fixed top-0 overflow-y-scroll">
         <div class="pt5 ph4">
     
             <div class="pt3 pv4-l b--bookgreen-20 z-1">
@@ -264,9 +264,9 @@ details[open] summary:after {
                 <ul class="list mt1 pl3">
                 {% for chapter in section.chapters %}
                     {% if chapter.url%}
-                    <li><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
+                    <li class="bl b--bookgreen"><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
                     {% else %}
-                    <li><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
+                    <li class="bl b--bookgreen"><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
                     {% endif %}
                 {% endfor %}
                 </ul>
