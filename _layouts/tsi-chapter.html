@@ -1,0 +1,482 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+<link href="/css/bigfoot-number.css" rel="stylesheet">
+
+<style>
+  html{
+    -webkit-font-smoothing: initial;
+    font-smoothing: initial;
+    font-family:Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  }
+  
+  body{
+    background-color:#FFFFF8;
+}
+
+.bg-tufte{
+  background-color:#FFFFF8;
+}
+
+.bookgreen{
+  color:#00991F !important;
+}
+
+.b--bookgreen{
+  border-color:#00991F;
+}
+
+.b--bookgreen-20{
+  border-color:#00991F66;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 4px;
+  margin-bottom:2px
+  
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+header{
+  border-left:8px solid black;
+}
+
+p a, ul a, ol a{
+  box-shadow:initial;
+}
+
+p a:hover, ul a:hover, ol a:hover{
+  box-shadow:initial;
+}
+
+.container{
+  font-family:Palatino;
+}
+
+.container p, .container ul, .container ol, .container li{
+  font-family:Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  line-height:26px !important;
+  font-size:18px;
+}
+
+
+.container table, .container td, .container th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  vertical-align:top;
+  text-align:left;
+  padding:5px;
+}
+
+.e-content h1{
+  font-style:initial;
+  font-weight:normal;
+  font-size:2.8rem;
+  padding-top:2rem;
+  margin-bottom:0;
+}
+
+.container h2, .container h3, .container h4, .container h5{
+  font-style:italic;
+  font-weight:normal;
+  padding-top: 2rem;
+  margin-bottom:0;
+}
+
+.container h2{
+  font-size:2.2rem;
+}
+
+.subtitle{
+  font-size:1.6rem !important; 
+}
+
+.container h3{
+  font-size:1.5rem;
+}
+
+blockquote{
+  border:none;
+}
+
+code{
+  font-family: palatino;
+    background-color: lightgoldenrodyellow;
+    padding: 20px; 
+    display: inline-block;
+    border: 1px solid #ECEAC8;
+    border-radius:5px;
+    font-size:19px;
+    line-height:28px
+}
+
+.example{
+  background-color: lightgoldenrodyellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    border: 1px solid #ECEAC8;
+    border-radius: 5px;
+}
+
+
+
+.marginnote, .sidenote{
+  margin-right: -45%;
+    width: 40%;
+}
+
+.f-subheadline-l{
+  font-size:3.5rem;
+}
+
+.container a, .container ul a, .container ol a, .container ul a{
+  color: #00991F !important;
+  text-decoration-color: #00991F;
+  font-weight:bold;
+}
+
+.details ul li a{
+  color: black !important;
+}
+
+details ul a:hover{
+  color: #00991F;
+}
+
+footer{
+  min-height:initial;
+}
+
+details > details{
+  border:1px solid rgb(173, 48, 2);
+  border-radius:4px;
+  margin:10px;
+  padding:10px;
+}
+
+summary{
+  cursor:pointer;
+}
+
+summary:focus{
+  outline:none;
+}
+
+@media (max-width: 1024px) {
+
+  .container p, .container ul, .container ol, .container li, code{
+  line-height:28px !important;
+  font-size:18px;
+}
+
+.e-content h1{
+  font-size:2.2rem;
+}
+
+.f-subheadline-l{
+  font-size:3rem;
+}
+
+}
+
+
+/* http://html5doctor.com/the-details-and-summary-elements/ */
+
+summary::-webkit-details-marker {
+  display: none
+}
+summary:after {
+  content: " ";
+  background-image:url(/images/greenchevron.svg);
+  background-repeat:no-repeat;
+  color: #00991F;
+  font-weight: bold;
+  padding: 0;
+    text-align: center;
+    width: 9px;
+    height: 5px;
+    position: absolute;
+    left: -15px;
+    top: 7px;
+}
+details[open] summary:after {
+  content: " ";
+  transform: scaleY(-1);
+}
+
+</style>
+
+<div class="topnav dn-l w-100 bb bg-white b--bookgreen pv3 ph3">
+  <div class="dib">
+  <div class="f4 b">The Strategic Independent</div>
+    <div class="f6 i">Theory & Practice for Independent Consultants</div>
+  </div>  
+
+    <div class="fr f5 pv2 fw3">    
+        <div id="hamburger" class="hamburger hamburger--squeeze">
+                <div class="hamburger-box">
+                  <div class="hamburger-inner"></div>
+                </div>
+              </div>
+
+    </div>
+
+  </div>
+
+  <script>
+      var $hamburger = $(".hamburger");
+      $hamburger.on("click", function(e) {
+
+        $hamburger.toggleClass("is-active");
+        //hamburger is for search & menu now...
+        if($('.bookmenu').is(':visible')){
+          $('.bookmenu').hide();
+          $("body").removeClass('noscroll');
+          $('.topnav').addClass('bb');
+        }
+        else{
+          $('.bookmenu').show();
+          $('.topnav').removeClass('bb');
+          $("body").addClass('noscroll');
+        }
+      });
+     
+
+      if($('.bookmenu').is(':visible')){
+          $('body').addClass("fixedPosition");
+      }
+      else{
+          $('body').removeClass("fixedPosition");
+      }  
+    
+    </script>
+
+
+<div class="container flex-l center mw9 w-100">
+
+<div class="w-25"></div>
+
+<div class="w-75-l h-entry ph3-l " role="article">
+  <div class="w-75-l mt5-l br1 shadow-1-l bg-tufte ph5-l ph3 ml5-l">
+  <div class="pt5 pt6-l">
+  
+      <h1 class="f2 f-subheadline-l fw4 lh-solid mv3 posttitle p-name">{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <h2 class="f3 fw3 lh-title mt1 subtitle p-summary"><em>{{page.subtitle}}</em></h2>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="f6 f6-s black-50 pv3 dt-published" datetime="{{ page.date}}">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+  </div>
+  
+  
+  <div class="lh-copy e-content">
+  
+
+
+  {{content}}
+
+  <div class="pv4 flex">
+      <input readonly
+        value="http://tomcritchlow.com{{page.url}}"
+        title ="{{page.title}}"
+        id="pageurl"
+        class="mw-100 w-60 w5-ns f6 input-reset ba b--black-20 pv2 ph2 mr2 border-box silver"
+      />
+      <button
+        id="copyurl"
+        class="pointer input-reset w-auto-ns bg-black-70 white f5 pv2 pv2-ns mr1 ph4-l ph2 ba b--black-70 hover-bg-black"
+      >
+        Copy
+      </button>
+      <button
+        id="webshare"
+        class="pointer input-reset w-auto-ns bg-black-70 white f5 pv2 pv2-ns ph4-l ph2 mr1  b--black-70 bg-hover-mid-gray"
+      >Share</button>
+    </div>
+    
+    <script>
+      if (!navigator.share) {
+        document.getElementById("webshare").style.display = "none";
+      }
+    
+      var $copyurl = $("#copyurl");
+      $copyurl.on("click", function(e) {
+        var copyText = document.getElementById("pageurl");
+    
+        /* Select the text field */
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /* For mobile devices */
+    
+        /* Copy the text inside the text field */
+        document.execCommand("copy");
+    
+        $copyurl.html("Copied!");
+          setTimeout(function() {
+            $copyurl.html("Copy");
+          }, 2000);
+    
+      });
+    
+      var $webshare = $("#webshare");
+      $webshare.on("click", function(e) {
+        if (navigator.share) {
+          navigator
+            .share({
+              title: "{{page.title}}",
+              text: "{{page.title}}",
+              url: "http://tomcritchlow.com{{page.url}}"
+            })
+            .then(() => console.log("Successful share"))
+            .catch(error => console.log("Error sharing", error));
+        } else {
+          console.log("Web Share API is not supported in your browser.");
+        }
+      });
+    </script>
+
+{% assign chapter_array = "" | split: ',' %}
+{% assign titles_array = "" | split: ',' %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url%}
+      {% assign chapter_array = chapter_array | push: chapter.url %} 
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url %}  
+      {% assign titles_array = titles_array | push: chapter.title %} 
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+{% for item in chapter_array %}
+  {% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
+  {% if item == page_url_full %}
+    {% assign position = forloop.index0 %}
+    {% assign previous = position | minus:1 %}
+    {% assign next = position | plus:1 %}
+    {% break %} 
+  {% endif %}
+{% endfor %}
+
+<div class="flex-l justify-center pt4 flex-row-reverse-l items-stretch">
+
+    <a href="{{chapter_array[next]}}" class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 border-box b--bookgreen-20 pointer mv3 mv0-l">
+        <div class="w-100 tr">
+          <div class="f7 black-30 ttu helvetica inline-flex items-center">
+              Next
+              <img style="transform:rotate(270deg)" src="/images/greenchevron.svg">
+          </div>
+          <div class="">
+              {{titles_array[next]}}
+          </div>    
+        </div>
+      </a>
+
+      <a href="{{chapter_array[previous]}}" class="f5 w-50-l w-100 grow inline-flex items-center pa3-l pa2 border-box  b--bookgreen-20 pointer mr3-l ">
+          <div class="w-100">
+            <div class="f7 black-30 ttu helvetica inline-flex items-center">
+                <img style="transform:rotate(90deg)" src="/images/greenchevron.svg">
+                  Previous
+    
+            </div>
+            <div class="">
+                {{titles_array[previous]}}
+            </div>    
+          </div>
+        </a>
+
+</div>
+
+
+
+
+<hr class="w3 mv5">
+
+<script type="text/javascript" src="/js/bigfoot.min.js"></script>
+<script>
+
+//Highlight and open the left nav for current page
+var pageurl = document.querySelector("meta[property='og:url']").getAttribute("content");
+$("a[href='" + pageurl + "']").addClass("b");
+$("a[href='" + pageurl + "']").addClass("bookgreen");
+$("a[href='" + pageurl + "']").closest("details").find("summary").addClass("b");
+
+// Close other details elements when one is opened
+$('details').click(function (event) {
+    $('details').not(this).removeAttr("open");  
+    });
+
+/*
+    $( document ).ready(function() {
+        var footnotes = $(".footnotes p");
+        $("sup").each(function(index){
+            var fn = footnotes[index].removeChild(footnotes[index].lastChild);
+            $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
+        });   
+        $(".footnotes").hide()
+    });    
+  */
+
+
+
+    $.bigfoot();
+  
+    
+    </script>
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": false,
+    "theme": "clean"
+  }
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+<script type="text/javascript">
+
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+    }
+  };
+};
+
+</script>
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+
+
+</div>
+</div>
+</div>
+
+</div>

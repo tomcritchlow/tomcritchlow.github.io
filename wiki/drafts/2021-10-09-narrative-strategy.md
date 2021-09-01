@@ -1,7 +1,7 @@
 ---
 title: Using Narrative Strategy to tame Complexity
 subtitle: A method for approaching consulting
-layout: blog
+layout: tsi-chapter
 ---
 
 <blockquote class="quoteback" darkmode="" data-title="Why%20do%20big%20businesses%20seemingly%20suck%20at%20innovation%3F" data-author="Rohit" cite="https://www.strangeloopcanon.com/p/why-do-big-businesses-seemingly-suck">
