@@ -236,8 +236,10 @@ details[open] summary:after {
     </div>
 
     <div class="dn bookmenu h-100 fixed w-100 bg-near-white fixed top-0 overflow-y-scroll">
-        <div class="pt5 ph4">
-    
+
+        <div class="fl w-third"></div>
+
+        <div class="fl w-third">
             <div class="pt3 pv4-l b--bookgreen-20 z-1">
                 <form class="w-100 pt2-l" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
                     <fieldset class="cf bn ma0 pa0">
@@ -256,24 +258,34 @@ details[open] summary:after {
                     </fieldset>
                 </form>
             </div>
-    
-            {% for section in site.data.chapters %}
-    
-            <div class="pv2">
-                <div class="bookgreen f4 fw6">{{section.title}}</div>
-                <ul class="list mt1 pl3">
-                {% for chapter in section.chapters %}
-                    {% if chapter.url%}
-                    <li class="bl bw1 b--bookgreen pv1"><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
-                    {% else %}
-                    <li class="bl bw1 b--bookgreen pv1"><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
-                    {% endif %}
-                {% endfor %}
-                </ul>
-            </div>
-
-            {% endfor %}
         </div>
+
+        <div class="fl w-third">
+            <div class="pt5 ph4">
+    
+           
+    
+                {% for section in site.data.chapters %}
+        
+                <div class="pv2">
+                    <div class="bookgreen f4 fw6">{{section.title}}</div>
+                    <ul class="list mt1 pl3">
+                    {% for chapter in section.chapters %}
+                        {% if chapter.url%}
+                        <li class="bl bw1 b--bookgreen pv1"><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
+                        {% else %}
+                        <li class="bl bw1 b--bookgreen pv1"><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
+                        {% endif %}
+                    {% endfor %}
+                    </ul>
+                </div>
+    
+                {% endfor %}
+            </div>
+        </div>
+
+
+
     
     </div>
 
