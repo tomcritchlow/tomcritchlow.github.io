@@ -260,13 +260,13 @@ details[open] summary:after {
             {% for section in site.data.chapters %}
     
             <div class="pv2">
-                <div class="bookgreen">{{section.title}}</div>
+                <div class="bookgreen f4">{{section.title}}</div>
                 <li>
                 {% for chapter in section.chapters %}
                     {% if chapter.url%}
-                    <ul><a href="{{chapter.url}}" class="f5 dim helvetica ttu">{{chapter.title}}</a></ul>
+                    <ul><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></ul>
                     {% else %}
-                    <ul><span class="f5 black-50 helvetica ttu">{{chapter.title}}</span></ul>
+                    <ul><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></ul>
                     {% endif %}
                 {% endfor %}
             </li>
