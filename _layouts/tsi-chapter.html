@@ -267,7 +267,7 @@ details[open] summary:after {
         <div class="fl w-third pa4 overflow-y-scroll">
             <div class="pt5 ph4">
     
-           
+                <div class="ttu helvetica bookgreen w-100 bb pt4 pb2 b f6 mb3">Book Chapters</div>
     
                 {% for section in site.data.chapters %}
         
@@ -276,9 +276,9 @@ details[open] summary:after {
                     <ul class="list mt1 pl3">
                     {% for chapter in section.chapters %}
                         {% if chapter.url%}
-                        <li class="bl bw1 b--bookgreen pv1"><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
+                        <li class="bl bw1 b--bookgreen pv1 pl2"><a href="{{chapter.url}}" class="f6 dim helvetica ttu">{{chapter.title}}</a></li>
                         {% else %}
-                        <li class="bl bw1 b--bookgreen pv1"><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
+                        <li class="bl bw1 b--bookgreen pv1 pl2"><span class="f6 black-50 helvetica ttu">{{chapter.title}}</span></li>
                         {% endif %}
                     {% endfor %}
                     </ul>
