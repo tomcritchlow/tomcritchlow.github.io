@@ -237,28 +237,47 @@ details[open] summary:after {
 
     <div class="dn bookmenu h-100 fixed w-25 bg-near-white fixed top-0">
         <div class="">
-
-{% for section in site.data.chapters %}
-
-<details class="pv2 details">
-    <summary class="relative  helvetica ttu">{{section.title}}</summary>
-    <ul class="ph1 ma0 pt1">
-        {% for chapter in section.chapters %}
-        <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
-          {% if chapter.url%}
-          <a href="{{chapter.url}}" class="f5 dim">{{chapter.title}}</a>
-          {% else %}
-          <span class="f5 black-50">{{chapter.title}}</span>
-          {% endif %}
-          <div class="f6 i black-50">{{chapter.subtitle}}</div>
-          </li>          
-        {% endfor %}
-
-    </ul>
-  </details>
-{% endfor %}
+    
+            <div class="pt3 pv4-l b--bookgreen-20 z-1">
+                <form class="w-100 pt2-l" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
+                    <fieldset class="cf bn ma0 pa0">
+                        <div class="cf">
+                            <div class="f6 black-60 i pb2">Sign up to get notified of new chapters</div>
+                            <label class="clip" for="email-address">Email Address</label>
+                            <input
+                                class="f7 input-reset ba b--black-10 fl black-80 bg-white pa2 lh-solid w-70 w-75-m w-70-l br2-ns br--left-ns focus-visible"
+                                placeholder="Your Email Address" type="text" name="email" value="" id="email-address"
+                                data-focus-visible-added="">
+                            <input type="hidden" value="1" name="embed">
+                            <input
+                                class="f7 button-reset fl pv2 tc ba b--black-10 bg-animate bg-black-70 hover-bg-black white pointer w-30 w-25-m w-30-l br2-ns br--right-ns"
+                                type="submit" value="Subscribe">
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+    
+            {% for section in site.data.chapters %}
+    
+            <details class="pv2 details">
+                <summary class="relative  helvetica ttu">{{section.title}}</summary>
+                <ul class="ph1 ma0 pt1">
+                    {% for chapter in section.chapters %}
+                    <li class="bl b-black pl2 w-100 pv2 db b--bookgreen">
+                        {% if chapter.url%}
+                        <a href="{{chapter.url}}" class="f5 dim">{{chapter.title}}</a>
+                        {% else %}
+                        <span class="f5 black-50">{{chapter.title}}</span>
+                        {% endif %}
+                        <div class="f6 i black-50">{{chapter.subtitle}}</div>
+                    </li>
+                    {% endfor %}
+    
+                </ul>
+            </details>
+            {% endfor %}
         </div>
-
+    
     </div>
 
 
