@@ -310,7 +310,7 @@ details[open] summary:after {
           $('.topnav').addClass('bb');
         }
         else{
-          $('.bookmenu').slideToggle();
+          $('.bookmenu').show("slide", { direction: "left" }, 1000);
           $('.topnav').removeClass('bb');
           $("body").addClass('noscroll');
         }
