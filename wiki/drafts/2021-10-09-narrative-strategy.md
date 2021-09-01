@@ -16,8 +16,9 @@ Creating decisions out of complexity
 
 ## Strategic Narratives
 
-Telling a story for all stakeholders
+Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders[^testing] Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders Telling a story for all stakeholders 
 
+[^testing]: What is this sidenote bizniz.
 
 ## What this looks like in practice
 
