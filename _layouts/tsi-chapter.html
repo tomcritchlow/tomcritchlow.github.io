@@ -341,15 +341,15 @@ details[open] summary:after {
           $('.bookmenu').toggle('slide','right',300);
           $("body").removeClass('noscroll');
           if(classadded){
-            $(".leftnav").style("background-color","inherit");
+            $(".leftnav").css("background-color","inherit");
           }
         }
         else{
           $('.bookmenu').toggle('slide','left',300);
           $("body").addClass('noscroll');
           //if leftnav !hasclass then add bg-near-white
-          if($(".leftnav").css("background-color") != "#f4f4f4"){
-            $(".leftnav").style("background-color","#f4f4f4");
+          if($(".leftnav").css("background-color") != "rgb(255, 255, 248)"){
+            $(".leftnav").css("background-color","#f4f4f4");
             var classadded = true;
           }
         }
