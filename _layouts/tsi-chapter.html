@@ -489,7 +489,7 @@ details[open] summary:after {
     {% if chapter.url%}
       {% assign chapter_array = chapter_array | push: chapter.url %} 
       {% if chapter.url == page_url_full %}
-        {% assign page_section = section.chapters[forloop.index0] %}
+        {% assign page_section = section.title %}
       {% endif %}
     {% endif %}
   {% endfor %}
