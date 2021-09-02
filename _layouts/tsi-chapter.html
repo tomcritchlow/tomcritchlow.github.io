@@ -2,6 +2,39 @@
 
 {% include googleanalytics.html %}
 
+{% assign chapter_array = "" | split: ',' %}
+{% assign titles_array = "" | split: ',' %}
+{% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url%}
+      {% assign chapter_array = chapter_array | push: chapter.url %} 
+      {% if chapter.url == page_url_full %}
+        {% assign page_section = section.title %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url %}  
+      {% assign titles_array = titles_array | push: chapter.title %} 
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+{% for item in chapter_array %}
+  {% if item == page_url_full %}
+    {% assign position = forloop.index0 %}
+    {% assign previous = position | minus:1 %}
+    {% assign next = position | plus:1 %}
+    {% break %} 
+  {% endif %}
+{% endfor %}
+
 <link href="/css/bigfoot-number.css" rel="stylesheet">
 
 <style>
@@ -248,7 +281,7 @@ details[open] summary:after {
 </style>
 
 <div class="outerrotate dn db-l">
-    <div class="innerrotate bookgreen f4">Chapter 5: Yes! And...</div>
+    <div class="innerrotate bookgreen f4">Chapter {{page_section}}</div>
 </div>
 
 <div class="leftnav w-100 w3-l bg-near-white fixed-l h-100-l br bb b--light-gray overflow-y-scroll overflow-auto-l">
@@ -479,41 +512,6 @@ details[open] summary:after {
         }
       });
     </script>
-
-{% assign chapter_array = "" | split: ',' %}
-{% assign titles_array = "" | split: ',' %}
-{% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
-
-{% for section in site.data.chapters %}
-  {% for chapter in section.chapters %}
-    {% if chapter.url%}
-      {% assign chapter_array = chapter_array | push: chapter.url %} 
-      {% if chapter.url == page_url_full %}
-        {% assign page_section = section.title %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-{% for section in site.data.chapters %}
-  {% for chapter in section.chapters %}
-    {% if chapter.url %}  
-      {% assign titles_array = titles_array | push: chapter.title %} 
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-
-{% for item in chapter_array %}
-  {% if item == page_url_full %}
-    {% assign position = forloop.index0 %}
-    {% assign previous = position | minus:1 %}
-    {% assign next = position | plus:1 %}
-    {% break %} 
-  {% endif %}
-{% endfor %}
-
-This page is in chapter {{page_section}}
 
 <div class="flex-l justify-center pt4 flex-row-reverse-l items-stretch">
 
