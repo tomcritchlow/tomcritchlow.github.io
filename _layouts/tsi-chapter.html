@@ -482,6 +482,7 @@ details[open] summary:after {
 
 {% assign chapter_array = "" | split: ',' %}
 {% assign titles_array = "" | split: ',' %}
+{% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
 
 {% for section in site.data.chapters %}
   {% for chapter in section.chapters %}
@@ -501,7 +502,6 @@ details[open] summary:after {
 
 
 {% for item in chapter_array %}
-  {% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
   {% if item == page_url_full %}
     {% assign position = forloop.index0 %}
     {% assign previous = position | minus:1 %}
