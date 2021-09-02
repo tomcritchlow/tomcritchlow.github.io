@@ -228,8 +228,28 @@ details[open] summary:after {
   transform: scaleY(-1);
 }
 
+/* Rotated left text in nav bar */
+
+.outer{
+    position: fixed;
+    top: calc(50% - 31.5px);
+    z-index: 5;
+    width: 200px;
+}
+
+.inner{
+    transform: rotate(270deg);
+    transform-origin: center;
+    margin-left: -131.5px;
+    line-height: 63px;
+    text-align: center;
+}
+
 </style>
 
+<div class="outerrotate dn db-l">
+    <div class="innerrotate bookgreen f4">Chapter 5: Yes! And...</div>
+</div>
 
 <div class="leftnav w-100 w3-l bg-near-white fixed-l h-100-l br bb b--light-gray overflow-y-scroll overflow-auto-l">
     <div class="dib dn-l pv3 pl3">
@@ -312,7 +332,7 @@ details[open] summary:after {
 
 </div>
 
-<div class="rotate-90 dn db-l bookgreen fw6 f4">Chapter 5: Yes! And...</div>
+
 
 <!--
 <div class="topnav dn-l w-100 bb bg-white b--bookgreen pv3 ph3">
