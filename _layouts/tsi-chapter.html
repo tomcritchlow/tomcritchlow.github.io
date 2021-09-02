@@ -227,7 +227,7 @@ details[open] summary:after {
 </style>
 
 
-<div class="leftnav w-100 w3-l bg-near-white-l fixed-l h-100-l br bb b--light-gray overflow-y-scroll overflow-auto-l">
+<div class="leftnav w-100 w3-l bg-near-white fixed-l h-100-l br bb b--light-gray overflow-y-scroll overflow-auto-l">
     <div class="dib dn-l pv3 pl3">
         <div class="f4 b">The Strategic Independent</div>
           <div class="f6 i">Theory & Practice for Independent Consultants</div>
@@ -328,6 +328,7 @@ details[open] summary:after {
 
   <script>
       var $hamburger = $(".hamburger");
+      var classadded = false;
       $hamburger.on("click", function(e) {
 
         $hamburger.toggleClass("is-active");
@@ -335,12 +336,18 @@ details[open] summary:after {
         if($('.bookmenu').is(':visible')){
           $('.bookmenu').toggle('slide','right',300);
           $("body").removeClass('noscroll');
-          $('.topnav').addClass('bb');
+          if(classadded){
+              $(".leftnav").removeClass("bg-near-white")
+          }
         }
         else{
           $('.bookmenu').toggle('slide','left',300);
-          $('.topnav').removeClass('bb');
           $("body").addClass('noscroll');
+          //if leftnav !hasclass then add bg-near-white
+          if(!$(".leftnav".hasClass("bg-near-white"))){
+            $(".leftnav").addClass("bg-near-white");
+            var classadded = true;
+          }
         }
       });
      
