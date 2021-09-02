@@ -25,8 +25,8 @@ Telling a story for all stakeholders Telling a story for all stakeholders Tellin
 Sparring.
 Making sense.
 
+[Example from Richard Hughes](https://www.richardhughesjones.com/approach/)
 
-https://www.richardhughesjones.com/approach/
 
 Testing links
 
