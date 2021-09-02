@@ -488,6 +488,9 @@ details[open] summary:after {
   {% for chapter in section.chapters %}
     {% if chapter.url%}
       {% assign chapter_array = chapter_array | push: chapter.url %} 
+      {% if chapter.url == page_url_full %}
+        {% assign page_section = section.chapters[forloop.index0] %}
+      {% endif %}
     {% endif %}
   {% endfor %}
 {% endfor %}
@@ -509,6 +512,8 @@ details[open] summary:after {
     {% break %} 
   {% endif %}
 {% endfor %}
+
+This page is in chapter {{page_section}}
 
 <div class="flex-l justify-center pt4 flex-row-reverse-l items-stretch">
 
