@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: The Consultant's Grain
 subtitle: Why (their) culture eats (your) strategy for breakfast
 tags: strategy
