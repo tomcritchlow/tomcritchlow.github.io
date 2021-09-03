@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Optimism as an Operating System
 subtitle: Yes! And... part 2
 tags: strategy

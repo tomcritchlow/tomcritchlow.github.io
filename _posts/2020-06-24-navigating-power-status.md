@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Navigating Power & Status
 subtitle: How to get things done inside organizations by understanding power potholes and status switching
 tags: strategy

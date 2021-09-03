@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Blocking & Unblocking Clients
 subtitle: Generating & Co-Creating Strategy in the Theatre of Work
 tags: strategy
