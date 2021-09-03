@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Ways of Seeing
 subtitle: How to recognize and understand culture inside a client's organization
 tags: strategy

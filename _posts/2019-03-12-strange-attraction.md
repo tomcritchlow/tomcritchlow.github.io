@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Strange Attraction
 subtitle: How to generate leads for an independent consulting practice
 tags: strategy
