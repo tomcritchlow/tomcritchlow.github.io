@@ -1,5 +1,5 @@
 ---
-layout: strategy-new
+layout: tsi-chapter
 title: Workshops as Portals
 subtitle: And how to create clarity in consulting work
 tags: strategy

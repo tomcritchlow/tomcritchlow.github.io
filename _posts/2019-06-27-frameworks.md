@@ -1,7 +1,7 @@
 ---
 title: How (and why) to roll your own frameworks in consulting engagements
 subtitle: And the power of making simple, true frameworks with clients
-layout: tufte
+layout: tsi-chapter
 tags: strategy
 ---
 
@@ -13,7 +13,9 @@ In my post [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/)
 
 *But how exactly do you teach clients how to see?*
 
-The answer is frameworks. Douglas Hofstadter claims *analogy is the core of cognition*{% include tufte-sn.html id="analogy" content="If you want to dive down this rabbit hole there's a lengthy but very approachable piece here: <a href='http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf'>analogy as the core of cognition</a> (PDF)." %} and I’d stretch that to say *frameworks are the core of cognition for organizations*.
+The answer is frameworks. Douglas Hofstadter claims *analogy is the core of cognition*[^analogy] and I’d stretch that to say *frameworks are the core of cognition for organizations*.
+
+[^analogy]: If you want to dive down this rabbit hole there's a lengthy but very approachable piece here: [analogy as the core of cognition](http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf) (PDF).
 
 A good framework is a tool for thinking. A shared mental model of a situation is powerful and deeply transformative, especially at the management layer where they spend most of their time in abstractions.
 
@@ -49,13 +51,17 @@ Frameworks are usually scale invariant. I.e. they abstract a system to its core 
 
 ***A model is an analytical framework - i.e. one that embeds an algorithm or set of calculations such that inputs and outputs can be adjusted to interrogate the system.***
 
-I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework{% include tufte-sn.html id="vgr" content="For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in <a href='https://twitter.com/vgr/status/1137025652928929792'>this Twitter thread</a> with myself, Brian and Venkatesh." %}.
+I realize this is slightly hard to parse and in fact there are so many different uses for the words framework and model. In particular - I think of a “mental model” as actually most of the time being a framework[^vgr].
+
+[^vgr]: For more on this rabbit hole there's a longer conversation around the distinction between a framework and a model in [this Twitter thread](https://twitter.com/vgr/status/1137025652928929792) with myself, Brian and Venkatesh.
 
 Mostly for this post I’m just going to use the word “framework” everywhere - it’s loose but lets us talk about them all together. They’re all tools for thinking. They’re all in the consultant’s toolkit.
 
 ## Intro: Why frameworks are so powerful
 
-Frameworks are powerful. They help us make sense of situations{% include tufte-sn.html id="models" content="I took the liberty of changing these quotes to swap the word ‘model’ for ‘framework’ to fit my definitions and make these quotes flow easier" %}:
+Frameworks are powerful. They help us make sense of situations[^models]:
+
+[^models]: I took the liberty of changing these quotes to swap the word ‘model’ for ‘framework’ to fit my definitions and make these quotes flow easier
 
 >But frameworks are more than mere representations. As Dubberley suggested, we use frameworks to make sense of and think through the world. A framework can help us break down the constituent elements in a phenomenon – or group of phenomena - which then makes it easier to think about their inter-relationships.
 
@@ -67,7 +73,9 @@ Both quotes from this excellent short read: [Models of enchantment and the encha
 
 The essence of consulting is navigating unfamiliar organizations to both make sense of existing beliefs, systems and processes while simultaneously helping the organization develop new beliefs, systems and processes. This dual process of sensing and changing is a delicate one.
 
-Unless you’re operating with a team of 4 analytical consultants (like a Bain or McKinsey might) there’s basically no way you can perform a “from first principles” analysis of the client’s organization{% include tufte-sn.html id="big4" content="My brother Will pointed out that the big consulting firms are some of the biggest framework dealers around. He's right of course - shortcuts and 'first principles analysis' are not mutually exclusive" %}. So you’re going to need some shortcuts.
+Unless you’re operating with a team of 4 analytical consultants (like a Bain or McKinsey might) there’s basically no way you can perform a “from first principles” analysis of the client’s organization[^big4]. So you’re going to need some shortcuts.
+
+[^big4]: My brother Will pointed out that the big consulting firms are some of the biggest framework dealers around. He's right of course - shortcuts and 'first principles analysis' are not mutually exclusive
 
 Frameworks provide the shortcut to making sense of an organization **and** for proposing and socializing new ideas.
 
@@ -86,7 +94,9 @@ But this complexity often means they get used incorrectly.
 
 Let’s take one I see a lot - the “jobs to be done” framework. I hear this referenced on almost every client project I work on in some context. But typically it’s the wrong framework because we’re not analyzing a complete jobs to be done analysis but instead we’re analyzing a specific user need or a functional UX. Yes you *could* use the JTBD framework here but it’s heavy handed.
 
-Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory{% include tufte-sn.html id="kale" content="There’s a free 209 page PDF here for those that are interested in learning more about the Jobs to be Done framework: <a href='http://www.whencoffeeandkalecompete.com/'>whencoffeeandkalecompete.com</a>" %}. 
+Secondly - it’s overly complex. The JTBD framework is nuanced, layered and comes with tons of theory[^kale]. 
+
+[^kale]: There’s a free 209 page PDF here for those that are interested in learning more about the Jobs to be Done framework: [whencoffeeandkalecompete.com](http://www.whencoffeeandkalecompete.com/)
 
 And, by the way, if you’re using an off-the-shelf framework like JTBD then you’re missing the chance to name your own framework. This dramatically reduces the influence you can have within an organization.
 
@@ -102,7 +112,9 @@ I’d propose that for most indie consultants and strategic independents the rig
 
 > **A framework, even one that appears at first glance to be mundane, has the potential to reveal the world in a new light**.
 
-> It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. **Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight**.”{% include tufte-sn.html id="fieldguide" content="Page 383 of <a href='https://www.thefieldstudyhandbook.com/'>The Field Study Handbook</a> by Jan Chipchase" %}
+> It takes time to tease out the optimal framework, from the first inkling of an idea run by the team to stress-testing the model to see it if stands up to new data. **Novices tend to become enamoured by high-concept/low-data frameworks that take an additional cognitive effort to process and are light on insight**.”[^fieldguide]
+
+[^fieldguide]: Page 383 of [The Field Study Handbook](https://www.thefieldstudyhandbook.com/) by Jan Chipchase
 
 Simple frameworks are easier to communicate, travel faster inside an organization and have fewer barriers to adoption. But what Jan highlights here is that novices become enamoured with high-concept/low-data frameworks - or frameworks that tease the wrong insight.
 
@@ -112,7 +124,9 @@ Frameworks that tease the wrong insight are what I call “un-true” frameworks
 
 ## How to create true frameworks
 
-Un-true frameworks are things that sound nice but simply aren’t saying the right thing{% include tufte-sn.html id="leaky" content="Remember that by definition every framework is leaky. The trick is to tease apart the right part of the situation to abstract. For more on that read this great piece <a href='https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/'>the law of leaky abstractions</a> by Joel." %}. This is partly why off-the-shelf frameworks are dangerous, because they likely don’t say the thing that the organization needs.
+Un-true frameworks are things that sound nice but simply aren’t saying the right thing[^leaky]. This is partly why off-the-shelf frameworks are dangerous, because they likely don’t say the thing that the organization needs.
+
+[^leaky]: Remember that by definition every framework is leaky. The trick is to tease apart the right part of the situation to abstract. For more on that read this great piece [the law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) by Joel.
 
 True frameworks are those that are grounded in a very real, practical and necessary insight about the organization, their users or the situation at hand.
 
@@ -130,9 +144,13 @@ But there was a third wall in the time-lapse video - one for frameworks.
 
 The frameworks wall is nothing more than sheets of A4 paper with sharpie doodles, diagrams and ideas on them. The rule is that you start making a simple line sketch or even just a name for a potential framework - one per page. And during the course of the user research process you refine the frameworks and get rid of the ones that are too complicated or non essential.
 
-Then the crucial step happens last - as the field research nears an end you take stock of the frameworks on the wall and for those that you want to include in the final report you stress-test those frameworks in-field with real users. This ensures that the frameworks are true - they contain real things that map to real users expectations, behaviours and ideas{% include tufte-sn.html id="jantweet" content="Jan weighed in on Twitter with some additional thoughts and notes in <a href='https://twitter.com/janchip/status/1144559021795479554'>this thread</a>." %}.
+Then the crucial step happens last - as the field research nears an end you take stock of the frameworks on the wall and for those that you want to include in the final report you stress-test those frameworks in-field with real users. This ensures that the frameworks are true - they contain real things that map to real users expectations, behaviours and ideas[^jantweet].
 
-Here’s an example framework from some Studio D work{% include tufte-sn.html id="paddy1" content="Studio D put together a report called <a href='https://proximitydesigns.org/wp-content/uploads/PaddyToPlate-BookonlineAA.pdf'>Paddy to Plate</a> and this is an image from page 107" %}:
+[^jantweet]: Jan weighed in on Twitter with some additional thoughts and notes in [this thread](https://twitter.com/janchip/status/1144559021795479554)</a>.
+
+Here’s an example framework from some Studio D work[^paddy1]:
+
+[^paddy1]: Studio D put together a report called [Paddy to Plate](https://proximitydesigns.org/wp-content/uploads/PaddyToPlate-BookonlineAA.pdf) and this is an image from page 107
 
 ![](/images/paddy-1.png)
 
@@ -152,7 +170,9 @@ I’ve written before about the need to get close enough to a client to understa
 
 ## Categorization is for experts
 
-Scanning the kinds of frameworks that Jan Chipchase showed from his work it was clear that while some were novel diagrams or well designed maps, the majority of them seemed like very simple tables and charts. Like this{% include tufte-sn.html id="paddy2" content="Page 133 from Paddy to Plate" %}:
+Scanning the kinds of frameworks that Jan Chipchase showed from his work it was clear that while some were novel diagrams or well designed maps, the majority of them seemed like very simple tables and charts. Like this[^paddy2]:
+
+[^paddy2]: Page 133 from [Paddy to Plate](https://proximitydesigns.org/wp-content/uploads/PaddyToPlate-BookonlineAA.pdf)
 
 ![](/images/paddy-2.png)
 
@@ -162,7 +182,9 @@ But it’s not obvious exactly why these dimensions were chosen on which to cate
 
 **The answer is that categorization is an expert skill**.
 
-You need to be able to comprehend an entire system to be able to categorize things effectively{% include tufte-sn.html id="experts" content="It seems there's a fair amount of academic research that backs this up and I found these great quotes: <br><br><em>'Experts notice features and meaningful patterns of information that are not noticed by novices.'</em> <br><br>and <br><br><em>'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.'</em><br><br> Both of these from <a href='https://www.nap.edu/read/9853/chapter/5'>How People Learn - Chapter: 2 How Experts Differ from Novices</a>" %}.
+You need to be able to comprehend an entire system to be able to categorize things effectively[experts].
+
+[^experts]: It seems there's a fair amount of academic research that backs this up and I found these great quotes: *'Experts notice features and meaningful patterns of information that are not noticed by novices.'* and *'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.'* Both of these from [How People Learn - Chapter: 2 How Experts Differ from Novices](https://www.nap.edu/read/9853/chapter/5)
 
 **A categorization in turn can embed and scale your expertise across an organization**.
 
@@ -248,7 +270,9 @@ Here’s an example from a few years ago - in the middle of an exec strategy rea
 
 In truth - this was my fault. I’d had a longer strategy deck I’d prepared that got slimmed down and I’d left in the reference to the framework without the explanation of how it would work in application for that client.
 
-The fallout was that the “hub, hero, habit” framework was referenced by the leadership team in repeated ways but without any real directive, causing confusion for the teams. I don’t think any meaningful action happened as a result {% include tufte-sn.html id="empty" content="It occurs to me that almost every CEO has a set of ‘empty directives’ - ideas and language that they repeatedly reference which the rest of the organization has learned to mostly ignore or deflect..." %}.
+The fallout was that the “hub, hero, habit” framework was referenced by the leadership team in repeated ways but without any real directive, causing confusion for the teams. I don’t think any meaningful action happened as a result[empty].
+
+[^empty]: It occurs to me that almost every CEO has a set of ‘empty directives’ - ideas and language that they repeatedly reference which the rest of the organization has learned to mostly ignore or deflect...
 
 ## How do you get better at this? Doodling & Diagrams.
 
@@ -316,7 +340,9 @@ Giving your framework a strong name is essential to the spread of the concept - 
 
 > “There will come a day when you'll come up with some brilliant theory or concept and want it to spread and stick. You want to lay claim to that idea. It's then that you'll want to set aside some time to state it distinctively, even if you're not a gifted rhetorician. A memorable turn of phrase need not incorporate sophisticated techniques like parataxis or polysyndeton. Most everyone in tech is familiar with Marc Andreessen's "software is eating the world" and Stewart Brand's "information wants to be free." Often mere novelty is enough to elevate the mundane. You've spent all that time cooking your idea, why not spend an extra few moments plating it? It all tastes the same in your mouth but one dish will live on forever in an Instagram humblebrag pic.”
 
-So… do as Eugene says - spend a few minutes plating the framework{% include tufte-sn.html id="naming" content="In his post Eugene references the idea that every year at Amazon there's a named 'theme'. I wonder if naming client engagements is an untapped area of opportunity to frame the work..." %}.
+So… do as Eugene says - spend a few minutes plating the framework[^naming].
+
+[^naming]: In his post Eugene references the idea that every year at Amazon there's a named 'theme'. I wonder if naming client engagements is an untapped area of opportunity to frame the work...
 
 This is an area that I’m deliberately trying to get better at (note how all of my above examples lacked good naming… ). Naming is not a strong suit of mine but I think studying language, poetry and memes is a good start…
 
