@@ -5,7 +5,7 @@ subtitle: The struggle to define who you are as an independent and the promise o
 tags: strategy
 ---
 
-*Co-authored by Tom Critchlow & Toby Shorin*{% include tufte-sn.html id="toby" content="Thanks to Toby Shorin of <a href='https://subpixel.space/'>Subpixel Space</a> for helping put this piece together. Toby's comments are <span class='contributor'>marked in purple</span> throughout the piece." %}
+*Co-authored by Tom Critchlow & [Toby Shorin](https://subpixel.space/). Toby's edits are <span class='contributor'>marked in purple</span>.*
 
 The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do. 
 
@@ -59,7 +59,9 @@ As you head into the unknown of independent work you should worry less about thi
 
 As you journey through the independent adventure you'll have to invent your own labels. Maybe many labels! As you try them out you'll likely wrestle with them and lose sleep over them (I know I did!).
 
-Again - labels have the dual property of being external and internal. They’re external in the sense that you’ll use them on your website{% include tufte-sn.html id="website" content="As an independent - <em>putting your website together</em> is like a rite of passage. Everyone struggles with it and you will always have a vague unease with what your personal site says about yourself." %}, your twitter bio and in conversation. But from my own experience this external nature of labels takes a backseat to the inner hand-wringing and discomfort that comes with trying to describe who you are and what you do.
+Again - labels have the dual property of being external and internal. They’re external in the sense that you’ll use them on your website[^website], your twitter bio and in conversation. But from my own experience this external nature of labels takes a backseat to the inner hand-wringing and discomfort that comes with trying to describe who you are and what you do.
+
+[^website]: As an independent - <em>putting your website together</em> is like a rite of passage. Everyone struggles with it and you will always have a vague unease with what your personal site says about yourself.
 
 This inner angst of labels comes in three ways:
 
@@ -70,7 +72,9 @@ Secondly, **you imagine that you have to earn** your label. That somehow others 
 
 <span class="contributor">TS: In contemporary society, we are rarely given the opportunity to define for ourself who we are. Schooling and employment are at their essence a series of “gates,” an exercise in conditional label-granting. As youth we are told, with terrorizing frequency, that we cannot do things without first obtaining a title, that we are valueless without some authority giving it to us. As a result of this training, suddenly having the opportunity to define and own one’s own label can be piercingly uncomfortable. We ask “who am I?”—but there is nobody there to answer us. Faced with this profound discomfort of unboundedness, we instinctively seek limits and obstacles. We project gatekeepers in front of us, to protect us from responsibility for our own identities.</span> 
 
-Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity. {% include tufte-sn.html id="whitman" content="As Walt Whitman said in <a href='https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version'>Song of Myself</a> 'I am large, I contain multitudes!'" %} 
+Thirdly, you have to reconcile your **personal and professional identities**. Choose a label too whimsical and you'll worry that people won't take you seriously, but choose a label too corporate or commercial and people will think you're too boring. Striking a balance here is necessary and will vary wildly from industry to industry. Remember you can have multiple labels just like you have a multi-faceted identity[^whitman].
+
+[^whitman]: As Walt Whitman said in [Song of Myself](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version) 'I am large, I contain multitudes!'
 
 <span class="contributor">TS: Just as becoming independent challenges the distinction between work time and personal time, it also challenges the distinction between your professional and personal self-perception. When are you acting as a “consultant” or “freelancer,” and when are you acting as “father” or “partner?” Lines between networking and making friends blur, and it becomes necessary to get comfortable with these overlapping labels.</span>
 
@@ -78,7 +82,9 @@ Thirdly, you have to reconcile your **personal and professional identities**. Ch
 
 Making labels is not just aspirational and emotional - there's one key functional benefit: **helping you charge more money for your work**.
 
-I'll tell you a secret: every time I send an invoice to a client I want to throw up{% include tufte-sn.html id="vomit" content="File this one under 'things people don't tell you when you go independent' as well" %}.
+I'll tell you a secret: every time I send an invoice to a client I want to throw up[^vomit].
+
+[^vomit]: File this one under 'things people don't tell you when you go independent' as well
 
 If you Google around everyone will tell you to "raise your rates" or "charge more". They're right. But it's also not so easy!
 
@@ -100,11 +106,15 @@ This is from the excellent piece [On what it takes to sustain a creative life fi
 
 This quote resonates with me because I went through the exact same journey - struggling to charge well for my time when I viewed myself as a freelancer or self-employed. Once I started using the word consultant (and started to actually believe it!) I felt more comfortable charging more for my work.
 
-For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice{% include tufte-sn.html id="yesand" content="I wrestled with a professional identity a while back in this post <a href='https://tomcritchlow.com/2016/08/01/brand/'>Why I've decided not to launch a brand for my consulting work</a>. While I decided not to create a website and ‘branding’ for this agency called Yes, and… I did end up forming an LLC and use that construct on all my invoices." %}.
+For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice[^yesand].
+
+[^yesand]: I wrestled with a professional identity a while back in this post [Why I've decided not to launch a brand for my consulting work](https://tomcritchlow.com/2016/08/01/brand/). While I decided not to create a website and ‘branding’ for this agency called Yes, and… I did end up forming an LLC and use that construct on all my invoices.
 
 How do you develop your own capitalist construct? It will vary from industry to industry. For me, it’s as simple as leaning on the word “consultant”. For others, creating a “studio” branding might be the construct needed to charge well.
 
-The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use){% include tufte-sn.html id="timemoney" content="Interestingly, <a href='https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html'>studies have shown</a> that trading your time for money leads to taking less pleasure in leisure activity. I think a professional label and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better." %}.
+The worst thing to do is to let your personal identity be the thing that does the billing (regardless of whether it comes from “your name LLC” or not, don’t let your **personal identity** be the construct you use)[^timemoney].
+
+[^timemoney]: Interestingly, [studies have shown](https://www.thecut.com/2019/02/why-freelancing-creates-anxiety-about-money.html) that trading your time for money leads to taking less pleasure in leisure activity. I think a professional label and construct can help alleviate this problem slightly. Also a good reminder to not charge hourly! Day rates are better.
 
 <span class="contributor">TS: Note that even within our professional construct, different situations call for different behaviors. It can be helpful to think of each of these as a micro-label: the me who deals with difficult client stakeholders; the me who can ask to raise my rates; the me who is good at networking; the me who can give a great sales pitch.</span>
 
@@ -116,7 +126,9 @@ Sooner or later when you're independent a client will offer you a full time role
 
 I've been faced with this question no fewer than 5 times in my consulting life and every single time it throws me for an emotional rollercoaster.
 
-Talking to others I get the same sense - that even when it's a company, a role or a salary that is unattractive full-time your mind can't stop thinking about taking the role{% include tufte-sn.html id="fulltime" content="To be clear not all full-time roles are bad! And there are legitimate reasons you might want or need to take the role (security, salary, health insurance etc." %}.
+Talking to others I get the same sense - that even when it's a company, a role or a salary that is unattractive full-time your mind can't stop thinking about taking the role[^fulltime].
+
+[^fulltime]: To be clear not all full-time roles are bad! And there are legitimate reasons you might want or need to take the role (security, salary, health insurance etc.
 
 The reason this question is able to throw you for a loop is because it challenges your self-made identity. It directly confronts and questions your ability to stand behind the labels you’ve chosen - by placing them in contrast to the “authoritative” and “well-understood” and “recognizable” label that they’re offering you.
 
@@ -130,7 +142,9 @@ Firstly, Don't let their label over-rule your label. You have a seat at the tabl
 
 Secondly, remember that you can retain your identity as a consultant *and* take a full-time role. Offer to take the role but still bill through your LLC. While this option isn't exactly viable for many situations it can help your perspective by thinking through this lens.
 
-I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director{% include tufte-sn.html id="cd" content="Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends…." %} at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
+I remember a few years ago when my consulting work slowed down slightly and I took a job interview via a friend. I ended up with a job offer to become Creative Director[^cd] at a digital innovation studio. Despite  the fact that the salary they offered me was half what I earned that year, I almost took the job! I think it would have been a huge mistake but wow do those identity questions make you lose some sleep.
+
+[^cd]: Notice how I’m still using the label here! I’m using the story and their perceived authority to help position myself as part Creative Director. This emotional journey never ends….
 
 ## Poetry over Power
 
@@ -138,7 +152,9 @@ Many times titles and labels are a show of power. Some display of strength over 
 
 I’d encourage you to think of poetry instead of power. No one has claims on anyone else and part of the freedom of being independent is breaking free from some of those traditional power structures.
 
-Use language and labels as a texture to provide as much psychological safety and identity as you need. If you feel less secure - choose labels that are well-understood. If you need to feel like an outsider - choose labels that are unique and unusual{% include tufte-sn.html id="weird" content="A few labels I love: <a href='http://natepyper.com/'>Alphabet Artist</a>, <a href='https://vimeo.com/63008757'>Media Inventor</a>! Also see this wonderful talk from Sara Hendren on <em><a href='https://vimeo.com/179040817'>Design for Know-Nothings, Dilettantes, and Melancholy Interlopers</a></em>." %}. If you want to be weird, be weird. You can hold a poetry over your own identity this way. Bewitching yourself is completely allowed.
+Use language and labels as a texture to provide as much psychological safety and identity as you need. If you feel less secure - choose labels that are well-understood. If you need to feel like an outsider - choose labels that are unique and unusual[^weird]. If you want to be weird, be weird. You can hold a poetry over your own identity this way. Bewitching yourself is completely allowed.
+
+[^weird]: A few labels I love: [Alphabet Artist](http://natepyper.com/), [Media Inventor](https://vimeo.com/63008757)! Also see this wonderful talk from Sara Hendren on [Design for Know-Nothings, Dilettantes, and Melancholy Interlopers](https://vimeo.com/179040817).
 
 From the book *Finite & Infinite Games*:
 
