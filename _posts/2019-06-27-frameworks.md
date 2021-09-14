@@ -196,7 +196,7 @@ But as an expert you can't simply force your expertise on the client. Instead yo
 
 We’ve shown that we want to make our own frameworks, they should be true and they should often be simple categorizations. Now, I want to show you how co-creating them with clients is the ultimate key to allowing them to be socialized, adopted, referenced and ultimately drive change in an organization sometimes for years to come.
 
-This is the IKEA effect - the idea that you’re much more invested in cheap furniture that you built with your own hands than fancy furniture that comes pre-assembled[^ikea]{% include tufte-sn.html id="ikea" content="" %}.
+This is the IKEA effect - the idea that you’re much more invested in cheap furniture that you built with your own hands than fancy furniture that comes pre-assembled[^ikea].
 
 [^ikea]: This is a real thing by the way - look it up: [the IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect)
 
