@@ -8,7 +8,7 @@ Location: Brooklyn, NY.
 
 Here's what I'm up to right now.
 
-- I run an independent consulting studio. I work directly with the C-suite to guide, shape content and marketing projects. Increasingly this work starts with positioning - a narrative strategy that then drives through a variety of org design, innovation, content, editorial and marketing projects.
+- I run an independent consulting studio. I work directly with the C-suite to guide and shape new initiatives. Increasingly this work starts with positioning - a narrative strategy that then drives through a variety of org design, innovation, content, editorial and marketing projects.
 - I'm writing a book about independent consulting: The Strategic Independent. It's almost done! [Read the book online here](https://tomcritchlow.com/strategy/). Currently researching printing and fulfillment options - specifically to be able to generate an [algorithmic unique cover for each copy sold](https://twitter.com/tomcritchlow/status/1336416202495705088)...
 - I started a new email newsletter in 2021 called the [SEO MBA](https://seomba.com/). Teaching business and leadership skills for SEO professionals. I'm knee deep in designing and creating an online course version too.
 - My daughter is 5 and just started kindergarten. OMG. My son is almost 2 and loves the color purple.
