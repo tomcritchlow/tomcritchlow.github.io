@@ -114,3 +114,7 @@ From Will:
 - 4dx
 - Five dysfunctions of a team
 - How to avoid a climate disaster
+
+<https://austinkleon.com/2021/09/28/an-act-of-perpetual-self-authorization/>
+
+<https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>

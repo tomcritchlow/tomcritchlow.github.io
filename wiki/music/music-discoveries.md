@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Loom Dream
+   author: Leif
+   image: https://f4.bcbits.com/img/a2133169630_16.jpg
+   notes: Electronic magic. Epiphany in Public Records.
+   href: https://leifsounds.bandcamp.com/album/loom-dream
  - title: "Talkin' Verve: Roots Of Acid Jazz"
    author: Jimmy Smith
    image: https://lh3.googleusercontent.com/vjcxU5m-4odT_akdYdt6dEjl6MbXCyhvBg1rsjYXKdHy3UrRoxRAexS9Lz3Gvw4drdpGbXl9vYjIhrDW=w544-h544-l90-rj

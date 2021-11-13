@@ -147,3 +147,7 @@ Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/m
 <http://www.xplaner.com/visual-thinking-school/>
 
 <https://twitter.com/nicolasnova/status/1376581318637670400>
+
+<https://davidhoang.substack.com/p/sketching-as-a-strategy?ref=uxdesignweekly>
+
+<https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>
