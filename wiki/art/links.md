@@ -22,3 +22,5 @@ Collage Art:
 --
 
 [The Critical Internet Atlas](http://internet-atlas.net/)
+
+<https://www.johnwhitlock.tv/>
