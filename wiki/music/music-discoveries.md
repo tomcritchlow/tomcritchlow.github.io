@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Yefikir Engurguro
+   author: Hailu Mergia
+   image: https://img.youtube.com/vi/Fg2HqVCeOIE/sddefault.jpg
+   notes: Soulful african piano jazz. Sublime.
+   href: https://www.youtube.com/watch?v=Fg2HqVCeOIE
  - title: Loom Dream
    author: Leif
    image: https://f4.bcbits.com/img/a2133169630_16.jpg
