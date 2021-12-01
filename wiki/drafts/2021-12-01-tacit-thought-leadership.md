@@ -94,5 +94,12 @@ This all seems quite cumbersome and heavy handed - going through an ACTA knowled
 - **Step 1:** You first need to start creating content (writing, podcasting, slide decks etc) that allows you to expose your thinking. Thick data - rich in context. Don't focus on tightly polished and absolute statements and "how-to" but focus on questions, context and musings. What you want is less "5 ways to run a remote workshop" and more "Unanswered questions and thoughts about zoom workshops". Some inspiration:
  - [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
  - [a pre-history of weeknotes](https://interconnected.org/home/2018/07/24/weeknotes)
-- **Step 2:** Once you have this 
+ - [lead with some thinking](https://gilest.org/thought-leadership.html)
+- **Step 2:** Small group feedback! Once you're producing this kind of rich context content you should be getting input and feedback from a small group of peers / respected contacts / prospective clients etc. The key idea here is that you don't need distribution, you just need to listen! Simply email 5-10 people and ask them what they think - have conversations with people about the ideas. This will begin to expose the shape of your tacit knowledge - the things you're writing about and the way you're framing your thinking will naturally start to expose where the real insights and expertise lies. This will build confidence that you "have something to say" and might even begin to point out some areas of tacit expertise.
+- **Step 3:** Commit to deliberate conversations on the topics you're writing about. This can be with peers, friends, co-workers etc. Personally I find that podcasts have been great at helping me articulate and talk around subjects - repeatedly touching on key ideas helps you find clear ways of talking about them but also helps you realize which bits are "aha!" moments for your audience.
+- **Step 4:** Run an ACTA workshop! Find someone who knows a bit about your field - ideally a peer - and have them run through an ACTA workshop with you - formally extracting, shaping and articulating the tacit knowledge.
+
+I think this process would be very effective - both in building a public presence and in building confidence. You can see how if you follow this process you will begin to build an audience (albeit very small!) and you'll get more confident and articulate at writing and thinking in public - and eventually you'll reach the output from the ACTA workshops that will give you a clear outline for producing world class content - world class thought leadership that matches your world class expertise.
+
+
 
