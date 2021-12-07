@@ -14,8 +14,6 @@ body{
 
 .tcblack{color: #212121;}
 
-brand{color: #212121;}
-
 .tomgreen{color: #00ff00}
 
 
@@ -32,10 +30,8 @@ brand{color: #212121;}
   border-color:#02AD28;
 }
 
-
-header{
-    border-left:8px solid #00ff00;
-    border-bottom:1px dotted grey;
+.ibmplexmono{
+  font-family:"IBM plex mono";
 }
 
 /*brand:after{
