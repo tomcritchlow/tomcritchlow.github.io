@@ -428,6 +428,6 @@ pre{
   
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
   
-  #searchResults { visibility: inherit; display: inline-block; width: 100%; padding:0px; }
+  #searchResults { visibility: inherit; display: inline-block; width: 100%; padding:0px; margin:0px}
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
   #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3;  }

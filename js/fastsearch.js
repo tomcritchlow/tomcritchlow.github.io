@@ -167,7 +167,7 @@ function executeSearch(term) {
       }else{
         var date = "";
       };
-      searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,90) + '</em></a></li>';
+      searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,150) + '</em></a></li>';
     }
     resultsAvailable = true;
   }
