@@ -5,7 +5,7 @@ title: Latest Writing
 
 <h2>Start Here</h2>
 
-<div class="flex f5">
+<div class="flex-l f5">
 
 <div class="w-100 w-50-l pr3-l">
 
