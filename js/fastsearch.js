@@ -130,9 +130,15 @@ function fetchJSONFile(path, callback) {
 function loadSearch() { 
   fetchJSONFile('/index.json', function(data){
 
+    // I think I should be able to merge site search and microblog search here
+    // https://techtutorialsx.com/2020/09/06/javascript-merge-json-objects/
+    // https://notes.tomcritchlow.com/archive/index.json
+    // https://tomcritchlow.com/index.json
+    // reformat my own index file to match microblog and then merge files then search across them
+
     var options = { // fuse.js options; check fuse.js website for details
       shouldSort: true,
-      location: 0,
+      ignoreLocation: true,
       distance: 100,
       threshold: 0.4,
       minMatchCharLength: 2,
