@@ -20,6 +20,7 @@ title: Latest Writing
   <div class="bb b--newgreen ibmplexmono ttu f5">Blogging</div>
   <ul>
     <li><a class="link" href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small b blogging</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2019/05/17/blogpunk/">Blogpunk</a></li>
     <li><a class="link" href="https://tomcritchlow.com/2020/12/17/side-notes/">Filtered for... margin notes</a></li>
     <li><a class="link" href="https://tomcritchlow.com/2020/07/23/thinking-in-public/">Thinking in Public</a></li>
     <li>Blogchain: <a class="link" href="https://tomcritchlow.com/blogchains/digital-gardens/">Digital Gardens</a></li>
@@ -31,11 +32,17 @@ title: Latest Writing
 
 <div class="w-100 w-50-l pr2-l">
 
-  <div class="bb b--newgreen ibmplexmono ttu f5">Content Strategy</div>
+  <div class="bb b--newgreen ibmplexmono ttu f5">Content & Media</div>
   <ul>
     <li><a class="link" href="https://tomcritchlow.com/2020/02/20/narrative-strategy/">Narrative Strategy</a></li>
-    <li><a class="link" href="https://tomcritchlow.com/2020/12/17/side-notes/">Filtered for... margin notes</a></li>
-    <li><a class="link" href="https://tomcritchlow.com/2020/07/23/thinking-in-public/">Thinking in Public</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2019/10/22/brand-worlding/">Understanding Marketing Realities</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2017/10/03/how-do-you-measure-good-content/">How do you measure good content?</a></li>
+  </ul>  
+
+  <div class="bb b--newgreen ibmplexmono ttu f5">Coding as Bricolage</div>
+  <ul>
+    <li><a class="link" href="https://tomcritchlow.com/2021/01/14/new-browsers/">Why Can't I Code In My Browser?</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2021/03/29/open-scraping-database/">Notes on an Open Scraping Database</a></li>
   </ul>  
 
 </div>
