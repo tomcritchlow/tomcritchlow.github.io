@@ -9,15 +9,35 @@ title: Latest Writing
 
 <div class="w-100 w-50-l pr2-l">
 
-  <div class="bb b--newgreen ibmplexmono ttu f5">Consulting</div>
+  <div class="bb b--newgreen ibmplexmono ttu f5">Independent Consulting</div>
   <ul>
-    <li><a class="link">The Contrary Consultant</a></li>
-    <li><a class="link">The Contrary Consultant</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2019/04/04/the-strategic-independent/">The Strategic Independent</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2018/10/29/ways-of-seeing/">Ways of Seeing</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2021/01/26/kairos/">Chronos & Kairos</a></li>
+    <li>Blogchain: <a class="link" href="https://tomcritchlow.com/blogchains/on-the-road/">On the Road</a></li>
   </ul>
+
+  <div class="bb b--newgreen ibmplexmono ttu f5">Blogging</div>
+  <ul>
+    <li><a class="link" href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">Small b blogging</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2020/12/17/side-notes/">Filtered for... margin notes</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2020/07/23/thinking-in-public/">Thinking in Public</a></li>
+    <li>Blogchain: <a class="link" href="https://tomcritchlow.com/blogchains/digital-gardens/">Digital Gardens</a></li>
+  </ul>  
+
+  
 
 </div>
 
 <div class="w-100 w-50-l pr2-l">
+
+  <div class="bb b--newgreen ibmplexmono ttu f5">Content Strategy</div>
+  <ul>
+    <li><a class="link" href="https://tomcritchlow.com/2020/02/20/narrative-strategy/">Narrative Strategy</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2020/12/17/side-notes/">Filtered for... margin notes</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2020/07/23/thinking-in-public/">Thinking in Public</a></li>
+  </ul>  
+
 </div>
 </div>
 
