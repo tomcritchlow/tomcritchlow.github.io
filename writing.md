@@ -37,6 +37,7 @@ title: Latest Writing
     <li><a class="link" href="https://tomcritchlow.com/2020/02/20/narrative-strategy/">Narrative Strategy</a></li>
     <li><a class="link" href="https://tomcritchlow.com/2019/10/22/brand-worlding/">Understanding Marketing Realities</a></li>
     <li><a class="link" href="https://tomcritchlow.com/2017/10/03/how-do-you-measure-good-content/">How do you measure good content?</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2017/04/20/context-collapse/">Context Collapse, Brands & Content</a></li>
   </ul>  
 
   <div class="bb b--newgreen ibmplexmono ttu f5">Coding as Bricolage</div>
