@@ -59,28 +59,9 @@
             $hamburger.on("click", function(e) {
 
               $hamburger.toggleClass("is-active");
-              //hamburger is for search & menu now...
-              if($('.tommenu').is(':visible')){
-                $('.tommenu').hide();
-                $("body").removeClass('noscroll');
-              }
-              else if($("#searchmenu").is(":visible")){
-                $("#searchmenu").hide();
-                searchVisible = false;
-              }
-              else{
-                $('.tommenu').show();
-                $("body").addClass('noscroll');
-              }
-            });
-           
-
-            if($('.tommenu').is(':visible')){
-                $('body').addClass("fixedPosition");
-            }
-            else{
-                $('body').removeClass("fixedPosition");
-            }  
+              $("#mobilenav").toggleClass("dn");
+   
+            }); 
           
           </script>
 
