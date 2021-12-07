@@ -173,10 +173,6 @@ blockquote {
     line-height:1.6em !important;
 }
 
-.postcontainer p, .postcontainer ul, .postcontainer ol{
-  font-family:"open sans";
-}
-
 .postcontainer li{
 padding:5px;
 }
