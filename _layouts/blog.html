@@ -17,15 +17,15 @@
 
 {% endif %}
 
-  <div class="pt4 pt5-l w-two-thirds-ns">
+  <div class="pt4 pt5-l pb2 w-two-thirds-ns">
   
-<div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb4" datetime="{{ page.date}}">
+<div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb5" datetime="{{ page.date}}">
   {% if page.date %}
   {{ page.date | date: "%B %-d, %Y" }}
     {% endif %}
 </div>
 
-      <h1 class="f2 f1-l fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
+      <h1 class="f2 fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
 
     {% if page.subtitle %}
     <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary i">{{page.subtitle}}</h2>
