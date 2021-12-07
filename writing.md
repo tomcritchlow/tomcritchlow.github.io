@@ -40,10 +40,11 @@ title: Latest Writing
     <li><a class="link" href="https://tomcritchlow.com/2017/04/20/context-collapse/">Context Collapse, Brands & Content</a></li>
   </ul>  
 
-  <div class="bb b--newgreen ibmplexmono ttu f5">Coding as Bricolage</div>
+  <div class="bb b--newgreen ibmplexmono ttu f5">Digital Bricolage</div>
   <ul>
     <li><a class="link" href="https://tomcritchlow.com/2021/01/14/new-browsers/">Why Can't I Code In My Browser?</a></li>
     <li><a class="link" href="https://tomcritchlow.com/2021/03/29/open-scraping-database/">Notes on an Open Scraping Database</a></li>
+    <li><a class="link" href="https://tomcritchlow.com/2020/04/15/library-json/">Library JSON - A Proposal for a Decentralized Goodreads</a></li>
   </ul>  
 
 </div>
