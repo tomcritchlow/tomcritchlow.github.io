@@ -7,7 +7,7 @@ title: Latest Writing
 
 <div class="flex">
 
-<div class="w-50-l pr2-l">
+<div class="w-100 w-50-l pr2-l">
 
   <div class="bb b--newgreen ibmplexmono ttu f5">Consulting</div>
   <ul>
@@ -17,7 +17,7 @@ title: Latest Writing
 
 </div>
 
-<div class="w-50-l pr2-l">
+<div class="w-100 w-50-l pr2-l">
 </div>
 </div>
 
