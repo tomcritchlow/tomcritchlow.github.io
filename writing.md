@@ -3,6 +3,28 @@ layout: page
 title: Latest Writing
 ---
 
+<h2>Start Here</h2>
+
+<div class="flex">
+
+<div class="w-50-l pr2-l">
+
+  <div class="bb b--newgreen ibmplexmono ttu f5">Consulting</div>
+  <ul>
+    <li><a class="link">The Contrary Consultant</a></li>
+    <li><a class="link">The Contrary Consultant</a></li>
+  </ul>
+
+</div>
+
+<div class="w-50-l pr2-l">
+</div>
+</div>
+
+
+
+
+
 {% for post in site.posts  %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
