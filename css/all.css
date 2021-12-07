@@ -407,7 +407,7 @@ pre{
   #fastSearch input { 
     width: 100%;
     height: 31px;
-    color: #white;
+    color: white;
     font-weight: bold;
     box-sizing: border-box;
     outline: none;
