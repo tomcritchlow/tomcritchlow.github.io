@@ -2,6 +2,36 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Golden Fool
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707218W
+   image: https://covers.openlibrary.org/b/id/5206-L.jpg
+   date_finished: 12/01/2021
+   notes: WHAT! So many mysteries unraveling, starting, crossing. Such emotionally charged scenes. Not giving anything away but this book is a big one.
+ - title: Fool's Errand
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707194W
+   image: https://covers.openlibrary.org/b/id/373090-L.jpg
+   date_finished: 11/09/2021
+   notes: LOVE returning to Fitz and the Fool. I'm so deep in the Robin Hobb world now....
+ - title: Ship of Destiny
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL20084374W
+   image: https://covers.openlibrary.org/b/id/8753566-L.jpg
+   date_finished: 10/07/2021
+   notes: Wow! Another trilogy down. I love the callbacks and hints for the original series. Onwards!
+ - title: The Mad Ship
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707227W
+   image: https://covers.openlibrary.org/b/id/1180-L.jpg
+   date_finished: 08/09/2021
+   notes: Now things are getting interesting! Love the origin story for the live ships - what an incredible dark backdrop to the whole saga.
+ - title: Ship of Magic
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707209W
+   image: https://covers.openlibrary.org/b/id/372583-L.jpg
+   date_finished: 06/26/2021
+   notes: Onwards into the Robin Hobb cinematic universe! This series starts somewhat slowly but I love the all new (or is it!) version of live ships and their unique "magic".
  - title: Assassin's Quest
    author: Robin Hobb
    link: https://openlibrary.org/works/OL2707231W
