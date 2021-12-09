@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Fool's fate
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL2707195W
+   image: https://covers.openlibrary.org/b/id/374007-L.jpg
+   date_finished: In progress
+   notes: 
  - title: The Golden Fool
    author: Robin Hobb
    link: https://openlibrary.org/works/OL2707218W
