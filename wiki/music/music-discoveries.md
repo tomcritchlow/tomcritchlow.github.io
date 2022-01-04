@@ -5,7 +5,7 @@ pinned: true
 books:
  - title: Colly Year in Music 2021
    author: Simon Colly
-   image: 
+   image: https://colly.com/assets/images/favicon-194x194.png
    notes: Just a great roundup of music to explore
    href: https://colly.com/articles/twenty-twentyone-in-music
  - title: Yefikir Engurguro
