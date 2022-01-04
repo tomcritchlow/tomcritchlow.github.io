@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Colly Year in Music 2021
+   author: Simon Colly
+   image: 
+   notes: Just a great roundup of music to explore
+   href: https://colly.com/articles/twenty-twentyone-in-music
  - title: Yefikir Engurguro
    author: Hailu Mergia
    image: https://img.youtube.com/vi/Fg2HqVCeOIE/sddefault.jpg
