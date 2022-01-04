@@ -4,7 +4,7 @@ subtitle: Consulting and blogging - what's not to like?
 layout: blog
 ---
 
-My friend Johnathan Baillie Strong has a new podcast dedicated to independent consultants called [Leaders of Consulting](https://spotlightpodcasting.com/leaders-of-consulting/) and I was one of the first few guests - I love the focus of the podcast, there's very little directly for indies!
+My friend Jonathan Baillie Strong has a new podcast dedicated to independent consultants called [Leaders of Consulting](https://spotlightpodcasting.com/leaders-of-consulting/) and I was one of the first few guests - I love the focus of the podcast, there's very little directly for indies!
 
 Here's our chat about thinking in public, consulting work and more:
 
