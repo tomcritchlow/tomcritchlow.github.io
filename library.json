@@ -35,6 +35,11 @@
           "notes": {{ book.notes | jsonify}}
         }{% unless forloop.last %},{% endunless %}{% endfor %}]
       }    
+  ],
+  "following":[
+    {"url": "https://www.dustinsenos.com/books/library.json"},
+    {"url": "https://benjamincongdon.me/books/index.json"},
+    {"url": "https://zylstra.org/opml/books/books.opml"}
   ]
   }
   
