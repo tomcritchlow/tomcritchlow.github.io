@@ -15,7 +15,7 @@ books:
  - title: The Sleep Consultant
    author: Robin Sloan
    link: https://desert.glass/archive/sleep-consultant/#text
-   image: /images/sleepconsultant.jpg
+   image: https://tomcritchlow.com/images/sleepconsultant.jpg
    notes: A one-off print run zine fiction from Robin Sloan. The corporate sleep consultant asleep for 5 years. <a href='https://desert.glass/archive/sleep-consultant/#text'>Now online!</a>
  - title: The Art of Gig
    author: Venkatesh Rao
