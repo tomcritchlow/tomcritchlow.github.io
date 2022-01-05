@@ -2,12 +2,18 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Dragon Keeper
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL24710497W
+   image: https://covers.openlibrary.org/b/olid/OL32800595M-L.jpg
+   date_finished: In progress
+   notes: 
  - title: Fool's fate
    author: Robin Hobb
    link: https://openlibrary.org/works/OL2707195W
    image: https://covers.openlibrary.org/b/id/374007-L.jpg
-   date_finished: In progress
-   notes: 
+   date_finished: 12/22/2021
+   notes: Are there stronger characters than the Fitz and the Fool? What depth of emotion. This series is a magical climax and feels like it rivals the original assassin trilogy! Loved reading this series.
  - title: The Golden Fool
    author: Robin Hobb
    link: https://openlibrary.org/works/OL2707218W
