@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Dwig
+   author: Orange Evening
+   image: https://img.youtube.com/vi/0RXdd0pCJ9Q/sddefault.jpg
+   notes: Zomg that bass. head nodding delight.
+   href: https://www.youtube.com/watch?v=0RXdd0pCJ9Q
  - title: Colly Year in Music 2021
    author: Simon Colly
    image: https://colly.com/assets/images/favicon-194x194.png
