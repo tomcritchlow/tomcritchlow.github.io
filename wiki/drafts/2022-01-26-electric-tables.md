@@ -6,9 +6,15 @@ layout: blog
 
 I spend all day long slinging URLs around. Mostly, when I copy and paste a URL it's treated as a string of characters. But you and I know that a URL is **heavy**. A URL is a representation of a blog post, or a product I want to buy, or a hike I want to go on, or an Airbnb I'm going to book.
 
-What if we took this idea seriously?
+URLs are also **useful**. Opening tabs and browsing the web is also essential to task completion. Tab sprawl is a symptom of a basic task: web foraging[^foraging].
 
-Say hello to Electric Tables. It's a little research project and prototype to explore the idea of structured data, personal databases and web as texture.
+[^foraing]: I first learned of the term "web foraging" in [this great paper](https://joelbrandt.com/publications/brandt_chi2009_programmer_web_use.pdf)) where they asked programmers to build a PHP chat room and they spent 19% of their time on the web vs writing code! And that was in 2009!
+
+In short, I spend a lot of both professional and personal time on the web - grabbing, saving, sending, bookmarking URLs.
+
+What if we could be a bit smarter about managing URLs?
+
+Say hello to **⚡ Electric Tables**. It's a little research project and prototype to explore the idea of structured data, personal databases and web as texture.
 
 It's pretty simple. It looks something like this:
 
@@ -57,6 +63,14 @@ Note, because of technical reasons (content security polcies) some sites (e.g. T
 ## What Electric Tables Could Be
 
 Electric Tables V0.1 is really just a sketch. It's a working prototype but it's pretty rough around the edges. It still has bugs and doesn't really do all the things I'd want it to. But I wanted to release it early to get feedback and figure out what to do with it. Should I invest time in making it robust and polished? Would someone else who can actually code run with it and build a better version?
+
+There are a variety of solutions out there that do things a bit like Electric Tables but none of them seem quite right...
+
+- Spreadsheets are cumbersome and slow. I'll build a Google Doc to compare things but only when the stakes are high enough... And firing up a new spreadsheet is slooooow. Adding URLs to a spreadsheet is time consuming as you have to copy and paste fields one by one.
+- Airtable is perhaps the closest competitor to Eletric Tables - allowing for tables of data and some limited web extraction. But again - it feels too heavy for the kinds of lightweight uses I'm proposing...
+- Are.na is interesting - it's the perhaps a close cousin in terms of saving URLs to "tables" (channels in Arena language). Are.na does a little bit of the extraction pulling a screenshot, title etc from the page but doesn't go far enough (and the UI is clunky as you save over 10-20 URLs into a channel, it's not really designed for comparing and list making)
+- Rows.com is kind of like a supercharged spreadsheet (and I like how they have little tables in the UI vs one infinite canvas) but it's still too "spreadsheety" and is geared heavily to the enterprise (LinkedIn search, Crunchbase search etc). Still, I like the spirit.
+
 
 I'm not sure where it goes from here, but here are some directions I'd be excited about:
 
