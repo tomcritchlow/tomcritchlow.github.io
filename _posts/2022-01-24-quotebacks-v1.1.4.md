@@ -14,7 +14,7 @@ Anyway - we just pushed a new version live in the Chrome store with a few bits a
 
 ## Full Article Saving & Bug Fixing
 
-The chrome extension[^firefox] now saves both the highlighted quote AND the full text from the page you're on. You can toggle between them in a new "article view" in the dashboard:
+The chrome extension[^firefox] now saves both the highlighted quote AND the full text from the page you're on. You can toggle between them in a new "article view" in the dashboard (see the link "click me for article view"):
 
 [^firefox]: Firefox will be updated soon when I can figure out how to navigate their approvals process again. Soon hopefully.
 
