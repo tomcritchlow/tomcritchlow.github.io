@@ -65,7 +65,7 @@ I'm not sure where it goes from here, but here are some directions I'd be excite
 The data extraction component is always going to be fragile. Web pages change. Some pages (e.g. Amazon) are actively hostile to data extraction. And the web is vast and weird. I want Electric Tables to be a general purpose tool so it wouldn't be that hard to have a page where the user could define their own data extraction rules.
 
 I'm thinking you could set something like:
-- domain.com: "xpath | regex | CSS selector"
+- domain.com: "xpath / regex / CSS selector"
 
 Then when the bookmarklet grabs the data from the page it adds whatever data it can from the rule you set.
 
