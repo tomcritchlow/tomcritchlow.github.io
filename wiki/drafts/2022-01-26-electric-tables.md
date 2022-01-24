@@ -2,6 +2,7 @@
 title: Electric Tables V0.1
 subtitle: Experimenting with personal databases and the web as a texture
 layout: blog
+og: https://tomcritchlow.com/images/ee-og.png
 ---
 
 I spend all day long slinging URLs around. Mostly, when I copy and paste a URL it's treated as a string of characters. But you and I know that a URL is **heavy**. A URL is a representation of a blog post, or a product I want to buy, or a hike I want to go on, or an Airbnb I'm going to book.
