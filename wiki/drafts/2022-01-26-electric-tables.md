@@ -43,6 +43,8 @@ Try it yourself by dragging this bookmarklet to your bookmarks bar:
 
 <a href="javascript:(function(){ document.addEventListener(&quot;securitypolicyviolation&quot;, function(e) { var data = {}; data[&quot;url&quot;] = encodeURIComponent(window.location); data[&quot;title&quot;] = encodeURIComponent(document.title); if(window.getSelection().toString() != ''){ data[&quot;selection&quot;] = window.getSelection(); } var params_url = &quot;https://electric-tables.glitch.me/?&quot;; for (const [key, value] of Object.entries(data)){ params_url += key +&quot;=&quot;+ value+&quot;&amp;&quot;; }; window.open(params_url,&quot;electric tables&quot;); }); const zipripscript =  document.createElement('script'); zipripscript.src = &quot;https://electric-tables.glitch.me/ziprip-latest.min.js&quot;; zipripscript.setAttribute(&quot;id&quot;,&quot;electrictablesziprip&quot;); zipripscript.async = false; zipripscript.addEventListener('load', () => { zipriploaded = true; }); document.body.appendChild(zipripscript); document.body.appendChild(document.createElement('script')).src='https://electric-tables.glitch.me/bookmarklet.js'; })(); " id="bookmarklet_link">+ Electric</a>
 
+Then, view your tables here: <https://electric-tables.glitch.me/>
+
 ## Some Notes
 
 A few things to note:
