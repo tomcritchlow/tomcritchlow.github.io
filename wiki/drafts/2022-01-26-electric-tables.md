@@ -9,7 +9,7 @@ I spend all day long slinging URLs around. Mostly, when I copy and paste a URL i
 
 URLs are also **useful**. Opening tabs and browsing the web is also essential to task completion. Tab sprawl is a symptom of a basic task: web foraging[^foraging].
 
-[^foraing]: I first learned of the term "web foraging" in [this great paper](https://joelbrandt.com/publications/brandt_chi2009_programmer_web_use.pdf)) where they asked programmers to build a PHP chat room and they spent 19% of their time on the web vs writing code! And that was in 2009!
+[^foraging]: I first learned of the term "web foraging" in [this great paper](https://joelbrandt.com/publications/brandt_chi2009_programmer_web_use.pdf)) where they asked programmers to build a PHP chat room and they spent 19% of their time on the web vs writing code! And that was in 2009!
 
 In short, I spend a lot of both professional and personal time on the web - grabbing, saving, sending, bookmarking URLs.
 
