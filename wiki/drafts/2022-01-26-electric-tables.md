@@ -52,7 +52,6 @@ A few things to note:
 - You can add notes against every item in the table. Just click in the "notes" cell and type
 - You can move items from one table to another by editing the hidden "table_id" field
 - Don't use this for anything important (yet) - it's still being tinkered with...
-- If you're curious - all the code is here
 - Desktop only right now (because of the bookmarklet/localstorage)
 - [All the code is here if you want to poke around](https://glitch.com/edit/#!/electric-tables) (poorly documented right now, sorry! DM me and I can walk you through it)
 
