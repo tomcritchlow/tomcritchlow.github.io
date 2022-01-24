@@ -7,13 +7,13 @@ og: https://tomcritchlow.com/images/ee-og.png
 
 I spend all day long slinging URLs around. Mostly, when I copy and paste a URL it's treated as a string of characters. But you and I know that a URL is **heavy**. A URL is a representation of a blog post, or a product I want to buy, or a hike I want to go on, or an Airbnb I'm going to book.
 
-URLs are also **useful**. Opening tabs and browsing the web is also essential to task completion. Tab sprawl is a symptom of a basic task: web foraging[^foraging].
+URLs are also **useful**. Opening tabs and browsing the web is essential to task completion. Tab sprawl is a symptom of a basic task: web foraging[^foraging].
 
 [^foraging]: I first learned of the term "web foraging" in [this great paper](https://joelbrandt.com/publications/brandt_chi2009_programmer_web_use.pdf)) where they asked programmers to build a PHP chat room and they spent 19% of their time on the web vs writing code! And that was in 2009!
 
-In short, I spend a lot of both professional and personal time on the web - grabbing, saving, sending, bookmarking URLs.
+In short, I spend a lot of both professional and personal time on the web - grabbing, saving, sending and bookmarking URLs.
 
-What if we could be a bit smarter about managing URLs?
+What if we could work with URLs in a way that embraced their weight and was designed for web foraging?
 
 Say hello to **⚡ Electric Tables**. It's a little research project and prototype to explore the idea of structured data, personal databases and web as texture.
 
@@ -60,7 +60,7 @@ When a page is saved, it'll try and grab structured data from the page such as:
 - Schema data like: price, address, recipe ingredients
 - It'll also save any text you have highlighted on the page into a "selection" field!
 
-Note, because of technical reasons (content security polcies) some sites (e.g. Twitter, Airbnb) will add to Electric Tables, but in a new tab instead of using a pop-up and it won't grab much additional data..
+Note, because of technical reasons (content security policies) some sites (e.g. Twitter, Airbnb) will add to Electric Tables, but in a new tab instead of using a pop-up and it won't grab much additional data..
 
 ## What Electric Tables Could Be
 
@@ -69,7 +69,7 @@ Electric Tables V0.1 is really just a sketch. It's a working prototype but it's 
 There are a variety of solutions out there that do things a bit like Electric Tables but none of them seem quite right...
 
 - Spreadsheets are cumbersome and slow. I'll build a Google Doc to compare things but only when the stakes are high enough... And firing up a new spreadsheet is slooooow. Adding URLs to a spreadsheet is time consuming as you have to copy and paste fields one by one.
-- Airtable is perhaps the closest competitor to Eletric Tables - allowing for tables of data and some limited web extraction. But again - it feels too heavy for the kinds of lightweight uses I'm proposing...
+- Airtable is perhaps the closest comparison to Electric Tables - allowing for tables of data and some limited web extraction. But again - it feels too heavy for the kinds of lightweight uses I'm proposing...
 - Are.na is interesting - it's the perhaps a close cousin in terms of saving URLs to "tables" (channels in Arena language). Are.na does a little bit of the extraction pulling a screenshot, title etc from the page but doesn't go far enough (and the UI is clunky as you save over 10-20 URLs into a channel, it's not really designed for comparing and list making)
 - Rows.com is kind of like a supercharged spreadsheet (and I like how they have little tables in the UI vs one infinite canvas) but it's still too "spreadsheety" and is geared heavily to the enterprise (LinkedIn search, Crunchbase search etc). Still, I like the spirit.
 
