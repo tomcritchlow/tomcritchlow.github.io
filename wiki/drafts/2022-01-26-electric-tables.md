@@ -12,7 +12,7 @@ Say hello to Electric Tables. It's a little research project and prototype to ex
 
 It's pretty simple. It looks something like this:
 
-![](/images/electritables-asheville.png)
+![](/images/electrictables-asheville.png)
 
 Electric Tables works by taking a URL, extracting some key data and adding it to a table.
 
@@ -20,15 +20,15 @@ It works by using a bookmarklet and local storage. So there's no login and no da
 
 Simply click it on a page you want to save and you'll see something like this:
 
-![](/images/electritables-tomcritchlow.png)
+![](/images/electrictables-tomcritchlow.png)
 
 Notice how it automatically extracts basic information like title and image? Neat. When we try it on a Target page for example notice how it grabs the price and review score automatically?
 
-![](/images/electritables-target.png)
+![](/images/electrictables-target.png)
 
 Or when we try it on a recipe page it automatically extracts the ingredients into a list:
 
-![](/images/electritables-recipe.png)
+![](/images/electrictables-recipe.png)
 
 Try it yourself by dragging this bookmarklet to your bookmarks bar: <a href="javascript:(function(){ document.addEventListener(&quot;securitypolicyviolation&quot;, function(e) { var data = {}; data[&quot;url&quot;] = encodeURIComponent(window.location); data[&quot;title&quot;] = encodeURIComponent(document.title); if(window.getSelection().toString() != ''){ data[&quot;selection&quot;] = window.getSelection(); } var params_url = &quot;https://electric-tables.glitch.me/?&quot;; for (const [key, value] of Object.entries(data)){ params_url += key +&quot;=&quot;+ value+&quot;&amp;&quot;; }; window.open(params_url,&quot;electric tables&quot;); }); const zipripscript =  document.createElement('script'); zipripscript.src = &quot;https://electric-tables.glitch.me/ziprip-latest.min.js&quot;; zipripscript.setAttribute(&quot;id&quot;,&quot;electrictablesziprip&quot;); zipripscript.async = false; zipripscript.addEventListener('load', () => { zipriploaded = true; }); document.body.appendChild(zipripscript); document.body.appendChild(document.createElement('script')).src='https://electric-tables.glitch.me/bookmarklet.js'; })(); " id="bookmarklet_link">+ Electric</a>
 
