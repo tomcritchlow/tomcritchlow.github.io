@@ -28,9 +28,11 @@ In addition - there's a few minor bug fixes, most notably we've tweaked the mani
 
 ## The Future of Quotebacks?
 
-At this point I think it's fair to assume limited maintenance and releases from Toby and I. Everything works pretty well and I'm pleased we got it to this point. Given everything Toby and I have on our plates I think it's unlikely we'll extend Quotebacks into the more ambitious territory of hosting quotes in a centralized database or creating some kind of analytics layer...
+At this point I think it's fair to assume limited future releases from Toby and I. Everything works pretty well and I'm pleased we got it to this point. Given everything Toby and I have on our plates I think it's unlikely we'll extend Quotebacks into the more ambitious territory of hosting quotes in a centralized database or creating some kind of analytics layer...
 
-But  if you have ideas or suggestions we'd love to hear them. Are you using Quotebacks? What bugs are you finding? What did you wish it could do? Drop us a note.
+I'm going to keep maintaining the extension and you never know - if inspiration strikes I think there's potential for some interesting future directions. But for now let's not expect those any time soon!
+
+But - if you have ideas or suggestions we'd love to hear them. Are you using Quotebacks? What bugs are you finding? What did you wish it could do? Drop us a note.
 
 
 
