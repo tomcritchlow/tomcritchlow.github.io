@@ -13,7 +13,7 @@ URLs are also **useful**. Opening tabs and browsing the web is essential to task
 
 In short, I spend a lot of both professional and personal time on the web - grabbing, saving, sending and bookmarking URLs.
 
-What if we could work with URLs in a way that embraced their weight and was designed for web foraging?
+What if we could work with URLs in a way that embraced their weight. That was designed for web foraging?
 
 Say hello to **⚡ Electric Tables**. It's a little research project and prototype to explore the idea of structured data, personal databases and web as texture.
 
@@ -52,7 +52,7 @@ A few things to note:
 - You can add notes against every item in the table. Just click in the "notes" cell and type
 - You can move items from one table to another by editing the hidden "table_id" field
 - Don't use this for anything important (yet) - it's still being tinkered with...
-- Desktop only right now (because of the bookmarklet/localstorage)
+- Desktop only right now (because of the bookmarklet/localstorage constraint)
 - [All the code is here if you want to poke around](https://glitch.com/edit/#!/electric-tables) (poorly documented right now, sorry! DM me and I can walk you through it)
 
 When a page is saved, it'll try and grab structured data from the page such as:
@@ -61,6 +61,14 @@ When a page is saved, it'll try and grab structured data from the page such as:
 - It'll also save any text you have highlighted on the page into a "selection" field!
 
 Note, because of technical reasons (content security policies) some sites (e.g. Twitter, Airbnb) will add to Electric Tables, but in a new tab instead of using a pop-up and it won't grab much additional data..
+
+In addition to this (for power users only!) there's an options page where you can write your own custom selectors:
+
+![](/images/ee-selectors.png)
+
+These are rules that map domain filters to custom extractors. This is useful because data extraction is always going to be fragile. Web pages change. Some pages (e.g. Amazon) are actively hostile to data extraction. And the web is vast and weird. I want Electric Tables to be a general purpose tool. This options page provides a quick and easy-ish way to write your own custom extractors on a domain by domain basis...
+
+Maybe in the future you could imagine sharing / uploading custom extraction lists. Kind of like an [open scraping database](https://tomcritchlow.com/2021/03/29/open-scraping-database/)!
 
 ## What Electric Tables Could Be
 
@@ -73,19 +81,7 @@ There are a variety of solutions out there that do things a bit like Electric Ta
 - Are.na is interesting - it's the perhaps a close cousin in terms of saving URLs to "tables" (channels in Arena language). Are.na does a little bit of the extraction pulling a screenshot, title etc from the page but doesn't go far enough (and the UI is clunky as you save over 10-20 URLs into a channel, it's not really designed for comparing and list making)
 - Rows.com is kind of like a supercharged spreadsheet (and I like how they have little tables in the UI vs one infinite canvas) but it's still too "spreadsheety" and is geared heavily to the enterprise (LinkedIn search, Crunchbase search etc). Still, I like the spirit.
 
-
 I'm not sure where it goes from here, but here are some directions I'd be excited about:
-
-### Customizable
-
-The data extraction component is always going to be fragile. Web pages change. Some pages (e.g. Amazon) are actively hostile to data extraction. And the web is vast and weird. I want Electric Tables to be a general purpose tool so it wouldn't be that hard to have a page where the user could define their own data extraction rules.
-
-I'm thinking you could set something like:
-- domain.com: "xpath / regex / CSS selector"
-
-Then when the bookmarklet grabs the data from the page it adds whatever data it can from the rule you set.
-
-Not only would this make Electric Tables customizable but it would also make it very easy to fix if one of the scrapers stopped working in the future (this is also where an [open scraping database](https://tomcritchlow.com/2021/03/29/open-scraping-database/) would be useful!).
 
 ### Hosted & Collaborative
 
