@@ -97,7 +97,7 @@ This is all technically very feasible - but requires a lot more infrastructure t
 
 Finally - what if Electric Tables wasn't just about saving, but about publishing too?
 
-It's frustrating to me that most CMSs don't really handle tabluated data. I'm using a static site so it's even worse but even on this site I do things like maintain a list of books in a YAML file format:
+It's frustrating to me that most CMSs don't really handle tabluated data. I'm using a static site so it's even worse but even on this site I do things like maintain a list of [books](https://tomcritchlow.com/wiki/books/books-read/) or [music](https://tomcritchlow.com/wiki/music/music-discoveries/) in a YAML file format:
 
 ![](/images/yaml-ugh.png)
 
