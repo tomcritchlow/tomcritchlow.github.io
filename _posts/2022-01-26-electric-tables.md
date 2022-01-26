@@ -41,9 +41,13 @@ You can change which table it saves to in the dropdown at the top (it defaults t
 
 Try it yourself by dragging this bookmarklet to your bookmarks bar:
 
-<a href="javascript:(function(){ document.addEventListener(&quot;securitypolicyviolation&quot;, function(e) { var data = {}; data[&quot;url&quot;] = encodeURIComponent(window.location); data[&quot;title&quot;] = encodeURIComponent(document.title); if(window.getSelection().toString() != ''){ data[&quot;selection&quot;] = window.getSelection(); } var params_url = &quot;https://electric-tables.glitch.me/?&quot;; for (const [key, value] of Object.entries(data)){ params_url += key +&quot;=&quot;+ value+&quot;&amp;&quot;; }; window.open(params_url,&quot;electric tables&quot;); }); const zipripscript =  document.createElement('script'); zipripscript.src = &quot;https://electric-tables.glitch.me/ziprip-latest.min.js&quot;; zipripscript.setAttribute(&quot;id&quot;,&quot;electrictablesziprip&quot;); zipripscript.async = false; zipripscript.addEventListener('load', () => { zipriploaded = true; }); document.body.appendChild(zipripscript); document.body.appendChild(document.createElement('script')).src='https://electric-tables.glitch.me/bookmarklet.js'; })(); " id="bookmarklet_link">+ Electric</a>
+<a href="javascript:(function(){ document.addEventListener(&quot;securitypolicyviolation&quot;, function(e) { var data = {}; data[&quot;url&quot;] = encodeURIComponent(window.location); data[&quot;title&quot;] = encodeURIComponent(document.title); if(window.getSelection().toString() != ''){ data[&quot;selection&quot;] = window.getSelection(); } var params_url = &quot;https://electric-tables.glitch.me/?&quot;; for (const [key, value] of Object.entries(data)){ params_url += key +&quot;=&quot;+ value+&quot;&amp;&quot;; }; window.open(params_url,&quot;electric tables&quot;); }); var markup = document.documentElement.innerHTML; var outerdiv = document.createElement(&quot;div&quot;); outerdiv.setAttribute( &quot;style&quot;, &quot;position:fixed;width:450px;top:30px;right:30px;background-color:white;z-index:2147483647;border-radius:10px;box-shadow:2px 2px 8px 0 rgb(0 0 0 / 20%);&quot; ); outerdiv.setAttribute(&quot;id&quot;, &quot;electrictables&quot;); var closebutton = document.createElement(&quot;button&quot;); closebutton.setAttribute( &quot;style&quot;, &quot;all:revert;position:fixed;top:40px;right:40px;margin:10px;padding:5px;border:1px solid white;border-radius:5px;color:white;background-color:#35092C&quot; ); closebutton.innerHTML = &quot;close&quot;; closebutton.setAttribute(&quot;href&quot;, &quot;#&quot;); closebutton.onclick = function () { document.getElementById(&quot;electrictables&quot;).remove(); }; var iframe = document.createElement(&quot;iframe&quot;); iframe.src = &quot;https://electric-tables.glitch.me/add-v0.1.html?url=&quot;+encodeURIComponent(window.location); iframe.setAttribute(&quot;id&quot;, &quot;myiframe&quot;); iframe.setAttribute(&quot;style&quot;, &quot;width:100%;height:600px;border:none&quot;); outerdiv.appendChild(iframe); outerdiv.appendChild(closebutton); document.body.appendChild(outerdiv); const myInterval = setInterval(myTimer, 1000); function myTimer() { var myIframe = document.getElementById('myiframe'); var isLoaded = myIframe.getAttribute('data-isloaded'); if(isLoaded != '1'){ console.log('iframe failed to load'); } else { console.log('iframe loaded'); iframe.contentWindow.postMessage({call:'sendValue', value: markup}, '*'); myStopFunction(); }}; function myStopFunction() { clearInterval(myInterval); }; window.addEventListener(&quot;message&quot;, receiveMessage, false); function receiveMessage(event){ var myMsg = event.data; if(myMsg == '1'){ document.getElementById(&quot;myiframe&quot;).setAttribute(&quot;data-isloaded&quot;,&quot;1&quot;); }; }; })(); " id="bookmarklet_link">+ Electric Tables</a>
 
 Then, view your tables here: <https://electric-tables.glitch.me/>
+
+Or watch the 3 minute demo here:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/ckyvuwb44000109jn6z1ogh3e/embed" allowfullscreen allowtransparency></iframe></div>
 
 ## Some Notes
 
@@ -108,6 +112,8 @@ Or, maintain a list of RSS feeds in a spreadsheet:
 What if both of these could be powered by Electric Tables? After all what I really want is for them to be my own little table of structured data. I want them to be web native and addressable.
 
 Maybe you can publish any Electric Table as a JSON endpoint?
+
+(What if you could import JSON into an Electric Table endpoint?!)
 
 ## What's Interesting? (Is this interesting?)
 
