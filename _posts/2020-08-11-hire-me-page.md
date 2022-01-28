@@ -28,7 +28,7 @@ This can be as simple as a list of client names that people recognize - or could
 
 *Provocation: what are the signals your client looks for, not what are the things you're proudest of*
 
-## Show you thinking
+## Show your thinking
 
 Good clients for indie consultants often look like sparring partners and thought partners (to steal Patrick's phrase) - so how can you expose the way you think?
 
