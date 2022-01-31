@@ -431,3 +431,10 @@ pre{
   #searchResults { visibility: inherit; display: inline-block; width: 100%; padding:0px; margin:0px}
   #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
   #searchResults a:hover, a:focus { outline: 0; background-color: #f3f3f3;  }
+
+  /* Hack for mobile hypothesis iframe */
+  #hypbox iframe{
+    width:100%;
+    max-width:600px;
+    height:100%;
+  }
