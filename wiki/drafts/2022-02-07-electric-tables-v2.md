@@ -21,7 +21,9 @@ It looks something like this:
 
 ![](/images/ee-2-sheet.png)
 
-And the pop-up is almost the same (though a little less polished):
+And the pop-up is almost the same (though a little less polished)[^etsy]:
+
+[^etsy]: That's [Erin's Etsy page](https://www.etsy.com/shop/ErinprzArt) in the screenshot by the way. Shameless plug in case you want some art of kids picture books!
 
 ![](/images/ee-2-popup.png)
 
