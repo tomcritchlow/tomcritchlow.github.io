@@ -1,6 +1,6 @@
 ---
 title: Electric Tables V0.2
-subtitle: Experiments in web to spreadsheet
+subtitle: From the web to spreadsheets and back again
 layout: blog
 og: https://tomcritchlow.com/images/ee-og-2.png
 ---
@@ -37,9 +37,11 @@ So, a list of books that I maintain in [Electric Tables here](https://docs.googl
 
 ![](/images/ee-2-glitch.png)
 
+This opens up a bunch of interesting possibilities I think around collaborative publishing, lightweight list making and so on.. Once you have the data as JSON you can do whatever you want with it...
+
 ## Some Notes
 
-Under the hood I'm using a Google Script - you can publish it to the web as a macro with a unique URL. Posting to the URL triggers a little cloud function that then crawls the URL, extracts the info and adds it to your spreadhseet.
+Under the hood I'm using a [Google Script](https://script.google.com/) - you can publish it to the web as a macro with a unique URL. Posting to the URL triggers a little cloud function that then crawls the URL, extracts the info and adds it to your spreadhseet.
 
 [All the code is here in this Gist](https://gist.github.com/tomcritchlow/cbb06a9298fb6cc0804372552fda1f96)
 
