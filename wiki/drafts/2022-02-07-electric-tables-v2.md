@@ -33,7 +33,7 @@ Here's a full demo video explaining how it works:
 
 The interesting thing is because every Google Doc can be used as a JSON endpoint you can **publish** your data from Electric Tables V0.2 as well!
 
-So, a list of books that I maintain in [Electric Tables here](https://docs.google.com/spreadsheets/d/1sYkskNmUEbGbkhaq4IRS6U8g4ZoHXJZi1aHtilkCc9s/edit#gid=286485334) becomes a [formatted web-page here](https://grizzled-glass-color.glitch.me/):
+So, a list of books that I collect and maintain in [Electric Tables here](https://docs.google.com/spreadsheets/d/1sYkskNmUEbGbkhaq4IRS6U8g4ZoHXJZi1aHtilkCc9s/edit#gid=286485334) becomes a [formatted web-page here](https://grizzled-glass-color.glitch.me/):
 
 ![](/images/ee-2-glitch.png)
 
