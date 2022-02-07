@@ -47,6 +47,8 @@ Under the hood I'm using a [Google Script](https://script.google.com/) - you can
 
 [All the code is here in this Gist](https://gist.github.com/tomcritchlow/cbb06a9298fb6cc0804372552fda1f96)
 
+Because it's using the Google Script as an endpoint you can use this on mobile too with a simple mobile-optimized page with a form. Just enter the URL and hit submit and it posts the URL to the script. Much easier on mobile than a bookmarklet...
+
 I've tested this with friends and it works as a multiplayer bookmarklet where we can each add to the same spreadsheet and collaborate! But unfortunately I don't quite feel comfortable turning it into a bookmarklet that you can just grab and go because I'm not sure what the limitations are for opening up my Google Script endpoint free for all... (and because it uses eval() to execute the custom extractors....)
 
 ## What Next?
