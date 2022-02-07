@@ -23,7 +23,7 @@ It looks something like this:
 
 And the pop-up is almost the same (though a little less polished)[^etsy]:
 
-[^etsy]: That's [Erin's Etsy page](https://www.etsy.com/shop/ErinprzArt) in the screenshot by the way. Shameless plug in case you want some art of kids picture books!
+[^etsy]: That's [Erin's Etsy page](https://www.etsy.com/shop/ErinprzArt) in the screenshot by the way. Shameless plug in case you want some art or kids picture books!
 
 ![](/images/ee-2-popup.png)
 
