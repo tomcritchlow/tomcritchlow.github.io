@@ -3,12 +3,12 @@ layout: page
 title: Latest Writing
 ---
 
-Subscribe: [via email](https://tinyletter.com/tomcritchlow) / [via RSS](https://tomcritchlow.com/feed)
+*Subscribe: [via email](https://tinyletter.com/tomcritchlow) / [via RSS](https://tomcritchlow.com/feed)*
 
 <details class="pv4">
 <summary class="pointer"><strong>Start Here</strong></summary>
 
-<div class="flex-l f5">
+<div class="flex-l f5 pt4">
 
 <div class="w-100 w-50-l pr3-l">
 
