@@ -3,8 +3,8 @@ layout: page
 title: Latest Writing
 ---
 
-<details>
-<summary><strong>Start Here</strong></summary>
+<details class="pv4">
+<summary class="pointer"><strong>Start Here</strong></summary>
 
 <div class="flex-l f5">
 
