@@ -126,3 +126,7 @@ Do you have ideas for where this could go?
 Drop me a note - I'd love to hear your ideas and feedback.
 
 [@tomcritchlow](https://twitter.com/tomcritchlow) (DMs open) or tjcritchlow@gmail.com
+
+--
+
+*Update #1:* If you liked this post, check out my next prototype [Electric Tables V0.2](https://tomcritchlow.com/2022/02/07/electric-tables-v2/)
