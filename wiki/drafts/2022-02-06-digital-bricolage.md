@@ -9,7 +9,7 @@ I recently tried to map out the various lines of inquiry - to connect the dots a
 Digital what?
 
 Bricolage:
-
+https://blog.cjeller.site/a-great-diversity-of-relationships
 
 When I look back at my work with the web I've *always* been remixing, hacking and tinkering with the web. Trying to ask questions like what does the web feel like? How do you treat the web as a texture? What can you do with the web?
 
@@ -26,6 +26,7 @@ Education Trails
 Tap-poetry
 
 Google apps scripts (RSS, annotations)
+https://www.zylstra.org/blog/2022/02/building-my-own-microsub-client-for-feed-reading/
 
 Digital Gardens & Wiki
 
