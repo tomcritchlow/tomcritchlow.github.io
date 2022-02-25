@@ -151,3 +151,5 @@ Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/m
 <https://davidhoang.substack.com/p/sketching-as-a-strategy?ref=uxdesignweekly>
 
 <https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>
+
+<https://syllabusproject.org/diagrams/>
