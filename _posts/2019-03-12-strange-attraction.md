@@ -208,7 +208,7 @@ Trying to build a CRM and lead-management tool for a solo independent business t
 
 ## In closing
 
-Remember - all of this is my perspective, and there’s as many different ways of running a consulting business as there are varieties of butterflies. The key points are :
+Remember - all of this is my perspective, and there’s as many different ways of running a consulting business as there are varieties of butterflies. The key points are:
 
 - Warm leads power well-paid strategic work
 - Cultivating warm leads requires working with, and understanding humans

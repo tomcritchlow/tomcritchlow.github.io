@@ -153,3 +153,5 @@ Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/m
 <https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>
 
 <https://syllabusproject.org/diagrams/>
+
+<https://www.oarplatform.com/response/cartography-research-process-visual-essay/>
