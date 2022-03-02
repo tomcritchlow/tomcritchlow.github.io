@@ -122,7 +122,7 @@ function executeSearch(term) {
       };
       //searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,150) + '</em></a></li>';
       
-      searchitems = searchitems + `<div class="f5 pv2">
+      searchitems = searchitems + `<div class="f5 pv2 overflow-hidden">
       <a href="${results[item].url}" tabindex="0" class="link black dim">
       <span>
       <strong>${results[item].title}</strong> <span>${date}</span><br>
