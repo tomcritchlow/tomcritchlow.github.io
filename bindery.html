@@ -33,10 +33,14 @@ html{
   position:absolute;
   top:0px;
   text-transform:uppercase;
-  color:#00AB1B;
+  color:#00991F;
   font-family:Arial, Helvetica, sans-serif;
   font-size:13px;
   font-weight:bold;
+}
+
+.bookgreen{
+  color:#00991F !important
 }
 
 .post-content h2{
@@ -80,7 +84,7 @@ img{max-width:100%}
 
 .📖-footer:not(:empty){
  padding-top:5px;
-  border-top:1px solid #00AB1B;
+  border-top:1px solid #00991F;
   font-size:10px;
 }
 
@@ -100,6 +104,19 @@ img{max-width:100%}
   width:100px;
   margin:auto;
   margin-top:calc(50vh - 50px);
+}
+
+.sectiontitle{
+  font-size:45px;
+}
+
+.tocsubtitle{
+  font-size:0.8em;
+  
+}
+
+.toc-row{
+  padding-bottom:20px;
 }
 
 </style>
@@ -122,7 +139,7 @@ img{max-width:100%}
       {% for chapter in section.chapters %}
         {% if chapter.url%}
         <span><a href="#section{{chapterindex}}chapter{{forloop.index}}">{{chapter.title}}</a></span>
-        <span>{{chapter.subtitle}}</span>
+        <span class="tocsubtitle"><em>{{chapter.subtitle}}</em></span>
         {% endif %}
       {% endfor %}
 
@@ -140,7 +157,7 @@ img{max-width:100%}
 
 <section>
 
-    <h3 class="sectiontitle" id="section{{forloop.index}}">{{section.title}}</h3>
+    <h2 class="sectiontitle bookgreen" id="section{{forloop.index}}">{{section.title}}</h2>
     <p><em>{{section.blurb}}</em></p>
         
         {% assign chapterindex = forloop.index %}
