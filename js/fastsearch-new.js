@@ -13,74 +13,16 @@ var maininput = document.getElementById('searchInput'); // input box for search
 var resultsAvailable = false; // Did we get any search results?
 
 maininput.focus();
+loadSearch();
 
-
-
-// ==========================================
-// The main keyboard event listener running the show
-//
-
-//add search box click option
-maininput.onclick = function(){
-  if(firstRun) {
-    loadSearch(); // loads our json data and builds fuse.js search index
-    firstRun = false; // let's never do this again
-  }
-
-  // Toggle visibility of search box
-  if (!searchVisible) {
-    document.getElementById("searchmenu").style.display = "block"; // show search box
-    document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
-    // document.getElementById("hamburger").classList.add("is-active");
-    searchVisible = true; // search visible
-  }
-  else {
-    document.getElementById("searchmenu").style.display = "none"; // hide search box
-    document.activeElement.blur(); // remove focus from search box 
-    // document.getElementById("hamburger").classList.remove("is-active");
-    searchVisible = false; // search not visible
-  }
-}
+// add microblog https://notes.tomcritchlow.com/archive/index.json
+// add arena channels?
 
 document.addEventListener('keydown', function(event) {
 
-  // CMD-/ to show / hide Search
-  if (event.metaKey && event.which === 191) {
-      // Load json search index if first time invoking search
-      // Means we don't load json unless searches are going to happen; keep user payload small unless needed
-      if(firstRun) {
-        loadSearch(); // loads our json data and builds fuse.js search index
-        firstRun = false; // let's never do this again
-      }
-
-      // Toggle visibility of search box
-      if (!searchVisible) {
-        document.getElementById("searchmenu").style.display = "block"; // show search box
-        document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
-        document.getElementById("hamburger").classList.add("is-active");
-        searchVisible = true; // search visible
-      }
-      else {
-        document.getElementById("searchmenu").style.display = "none"; // hide search box
-        document.activeElement.blur(); // remove focus from search box 
-        document.getElementById("hamburger").classList.remove("is-active");
-        searchVisible = false; // search not visible
-      }
-  }
-
-  // Allow ESC (27) to close search box
-  if (event.keyCode == 27) {
-    if (searchVisible) {
-      document.getElementById("searchmenu").style.display = "none";
-      document.getElementById("hamburger").classList.remove("is-active");
-      document.activeElement.blur();
-      searchVisible = false;
-    }
-  }
-
   // DOWN (40) arrow
   if (event.keyCode == 40) {
-    if (searchVisible && resultsAvailable) {
+    if (resultsAvailable) {
       console.log("down");
       event.preventDefault(); // stop window from scrolling
       if ( document.activeElement == maininput) { first.focus(); } // if the currently focused element is the main input --> focus the first <li>
@@ -91,7 +33,7 @@ document.addEventListener('keydown', function(event) {
 
   // UP (38) arrow
   if (event.keyCode == 38) {
-    if (searchVisible && resultsAvailable) {
+    if (resultsAvailable) {
       event.preventDefault(); // stop window from scrolling
       if ( document.activeElement == maininput) { maininput.focus(); } // If we're in the input box, do nothing
       else if ( document.activeElement == first) { maininput.focus(); } // If we're at the first item, go to input box
@@ -132,7 +74,7 @@ function fetchJSONFile(path, callback) {
 // on first call of search box (CMD-/)
 //
 function loadSearch() { 
-  fetchJSONFile('/index.json', function(data){
+  fetchJSONFile('https://tomcritchlow.com/index.json', function(data){
 
     // I think I should be able to merge site search and microblog search here
     // https://techtutorialsx.com/2020/09/06/javascript-merge-json-objects/
@@ -143,8 +85,9 @@ function loadSearch() {
     var options = { // fuse.js options; check fuse.js website for details
       shouldSort: true,
       ignoreLocation: true,
-      distance: 100,
-      threshold: 0.4,
+      distance: 5000,
+      threshold: 0.6,
+      fieldNormWeight: 2.0,
       minMatchCharLength: 2,
       keys: [
         'title',
@@ -170,19 +113,28 @@ function executeSearch(term) {
     resultsAvailable = false;
     searchitems = '';
   } else { // build our html 
-    for (let item in results.slice(0,8)) { // only show first 5 results
+    for (let item in results.slice(0,10)) { // only show first 5 results
       
       if(results[item].date){ //wiki pages have no date
           var date = results[item].date;
       }else{
         var date = "";
       };
-      searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,150) + '</em></a></li>';
+      //searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,150) + '</em></a></li>';
+      
+      searchitems = searchitems + `<div class="f5 pv2">
+      <a href="${results[item].url}" tabindex="0" class="link black dim">
+      <span>
+      <strong>${results[item].title}</strong> <span>${date}</span><br>
+      <em class="f6">${results[item].content.substring(0,200)}</em>
+      </span></a></div>`;
+      
     }
     resultsAvailable = true;
   }
 
-  document.getElementById("searchResults").innerHTML = searchitems;
+  list.innerHTML = searchitems;
+  list.style.display = "block";
   if (results.length > 0) {
     first = list.firstChild.firstElementChild; // first result container — used for checking against keyboard up/down location
     last = list.lastChild.firstElementChild; // last result container — used for checking against keyboard up/down location
