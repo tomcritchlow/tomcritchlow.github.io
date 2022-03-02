@@ -250,16 +250,22 @@ $( document ).ready(function() {
     }
     });
 
-  let sectionbreak = Bindery.PageBreak({
+  let beforesectionbreak = Bindery.PageBreak({
+  selector: '.sectiontitle',
+  position: 'before',
+  continue: 'left'
+  })
+  
+  let aftersectionbreak = Bindery.PageBreak({
   selector: '.sectiontitle',
   position: 'after',
   continue: 'left'
-  })    
+  })  
 
 
     Bindery.makeBook({
       content: '#content',
-      rules: [tableContents, sectionbreak, firstPage, imprintPage, linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
+      rules: [tableContents, beforesectionbreak, aftersectionbreak, firstPage, imprintPage, linksAsFootnotes,breakRule,headerRule, breakHeaders, marginFootnotes],
       pageSetup: {
         size: { width: '6in', height: '9in' },
         margin: { top: '1in', inner: '1in', outer: '0.8in', bottom: '1in' },
