@@ -52,3 +52,5 @@ Digital bookshelves that I admire:
 <https://amandapinsker.com/reading>
 
 <https://highlights.melanie-richards.com/>
+
+<https://davidklaing.com/books-read-in-2022/>
