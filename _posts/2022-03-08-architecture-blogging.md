@@ -8,7 +8,14 @@ A personal site, or a blog, is more than just a collection of writing. It's a ki
 
 I've talked before about [streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/). But what about digital homes?
 
-Frank Chimero's piece on building a digital homestead always resonates with me:
+"Home" has a certain kind of emotion. I love Winnie Lim's meditation on a website feeling like home:
+
+<blockquote class="quoteback" darkmode="" data-title="envisioning%20my%20homepage%20as%20an%20online%20therapeutic%20space" data-author="Winnie Lim" cite="https://winnielim.org/experiments/website/envisioning-my-homepage-as-an-online-therapeutic-space/">
+I would like this to be a space where I primarily – other people too if they want to – can retreat to, sip a cup of tea, immerse in the content or browse lightly for a bit, an online space where people can slow down and breathe. There is almost no one else here, no social signalling or noise, no sense of competition or completion, almost nothing and yet everything.
+<footer>Winnie Lim<cite> <a href="https://winnielim.org/experiments/website/envisioning-my-homepage-as-an-online-therapeutic-space/">https://winnielim.org/experiments/website/envisioning-my-homepage-as-an-online-therapeutic-space/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+And homes are built - Frank Chimero's piece on building a digital homestead always resonates with me:
 
 <blockquote class="quoteback" darkmode="" data-title="Frank%20Chimero%20%C3%97%20Blog%20%C3%97%20Homesteading%202014" data-author="Frank Chimero" cite="https://archive.ph/2013.12.27-041357/http://frankchimero.com/blog/2013/12/homesteading-2014/">
 Have you ever visited an architect’s house, one they designed themselves? It’s fun to walk through it with them. They have so many things, arranged so thoughtfully, and share the space with such pride because of the personal reflection the house required to design (not to mention the effort it took to build). It’s really quite special. I think there’s a pleasure to having everything under one roof. You feel together, all of you at once. In a way, building your own house is the ultimate project for a creative person: you’re making a home for what you think is important, done in the way you think is best.
