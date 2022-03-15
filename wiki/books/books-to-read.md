@@ -118,3 +118,5 @@ From Will:
 <https://austinkleon.com/2021/09/28/an-act-of-perpetual-self-authorization/>
 
 <https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>
+
+<https://www.amazon.com/Water-Spirit-Initiation-African-Compass/dp/0140194967> - recc by Toby Shorin
