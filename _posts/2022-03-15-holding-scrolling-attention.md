@@ -49,3 +49,7 @@ Of course some kind of prior art exists here. Two come to mind:
 Anyway. I don't have a grand point except to shine a light on something well executed that manages to resist the doomscrolling experience....
 
 Does an open source version of the NYTimes Close Read format exist? What other digital formats can hold your attention in this way? @-me! [@tomcritchlow](https://twitter.com/tomcritchlow)
+
+--
+
+*Update #1*: Reading around I found [this overview of Scrollama.js](https://metadrop.net/en/articles/scrollytelling-using-scrollamajs-css-and-best-practices) and it seems like some new browser standards have enabled some fundamental advances in "scrollytelling" which this kind of format is... Now to fire up some experiments!
