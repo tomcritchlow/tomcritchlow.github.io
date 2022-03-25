@@ -1,6 +1,6 @@
 ---
 title: Narrative Logs
-subtitle: Making the SEO MBA log
+subtitle: "Carrier bags and courses: Making the SEO MBA log"
 layout: blog
 ---
 
