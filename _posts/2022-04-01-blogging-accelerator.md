@@ -71,8 +71,8 @@ People aspire to be go on more walks and spend more time in nature and instead w
 
 ---
 
-Would this be a more effective vehicle for getting people to start blogging? I don't know but.. maybe?
+Would this be a more effective vehicle for getting people to start blogging? I don't know but.. maybe? Seems like fun either way.
 
 If I get enough time I'd love to get these projects off the ground. I'm blogging them here as a way to perhaps create some interest and kickstart some serendipity. Maybe I was too obvious about the sneaky trojan horse blogging thing?
 
-In the meantime, I've been collecting some links related to pixel poets and [digital walkers](https://www.are.na/tom-critchlow/digital-walkers) over on Are.na. If you have cool resources, essays and links for either interest send them to me, I wanna explore these spaces more!
+In the meantime, I've been collecting some links related to [pixel poets](https://www.are.na/tom-critchlow/poetry-pixels) and [digital walkers](https://www.are.na/tom-critchlow/digital-walkers) over on Are.na. If you have cool resources, essays and links for either interest send them to me, I wanna explore these spaces more!
