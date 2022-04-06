@@ -6,6 +6,6 @@ Now: {{nowunix}}
 
 {% for post in site.posts %}
 
-{{post.title}} - {{post.date | date: '%s'}} - {{post.date | date: '%s'}}
+{{post.title}} - {{post.date | date: '%s'}}
 
 {% endfor %}
