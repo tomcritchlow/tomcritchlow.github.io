@@ -6,7 +6,7 @@
 
 <script>
 
-var dates = [{% for post in site.posts %}{{post.date | date: '%s'}}{% if forloop.last %}{% else %},{% endif %}{% endfor %}];
+var dates = [{% for post in site.posts %}{{post.date | date: '%s'}}{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}];
 
 </script>
 
