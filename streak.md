@@ -31,9 +31,9 @@ for (let i = 0; i < (weeknumbers.length); i++) {
   }
 }
 
-
-
-
+if(streak > 0){
+  streak += 1;
+};
 
 </script>
 
