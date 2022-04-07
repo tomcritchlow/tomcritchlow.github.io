@@ -15,6 +15,8 @@ var stringdates = [{% for post in site.posts %}"{{post.date | date: "%Y-%m-%d"}}
 
 var weeknumbers = []
 
+weeknumbers.push(Math.floor(((today - firstmonday)/msPerDay) / 7) + 1)
+
 for (let i = 0; i < (stringdates.length); i++) {
   weeknumbers.push(Math.floor(((Date.parse(stringdates[i]) - firstmonday)/msPerDay) / 7) + 1);
 }
@@ -23,7 +25,7 @@ var streak = 0;
 
 for (let i = 0; i < (weeknumbers.length); i++) {
   if(weeknumbers[i] - weeknumbers[i+1] < 2){
-    streak = weeknumbers[i] - weeknumbers[i+1];
+    streak += weeknumbers[i] - weeknumbers[i+1];
   }else{
     break;
   }
