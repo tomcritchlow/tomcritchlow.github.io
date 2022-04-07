@@ -6,7 +6,8 @@
 
 <script>
 var now = Math. round((new Date()). getTime() / 1000);
-var dates = [{% for post in site.posts %}{{post.date | date: '%s'}}{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}];
+var unixdates = [{% for post in site.posts %}{{post.date | date: '%s'}}{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}];
+var stringdates = [{% for post in site.posts %}{{post.date | date: "%Y-%m-%d"}}{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}];
 
 var streak = 0;
 
@@ -28,6 +29,6 @@ Now: {{nowunix}}
 
 {% for post in site.posts %}
 
-{{post.title}} - {{post.date | date: '%s'}}
+{{post.title}} - {{post.date | date: "%Y-%m-%d"}} - {{post.date | date: '%s'}}
 
 {% endfor %}
