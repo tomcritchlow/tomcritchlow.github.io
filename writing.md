@@ -65,7 +65,7 @@ title: Latest Writing
 
 {% if post.draft == true %}
 {% else %}
-<div class="pv1">
+<div class="pv1 f5">
 <span class="f6 ttu black-70">{{ post.date | date: "%-d %B" }}</span> {% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> {% endif %}<a href="{{ post.url }}">{{ post.title }}</a> <span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span><span class="f5 black-50 i">{{post.subtitle}}</span><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span>
 </div>
 {% endif %}
