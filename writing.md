@@ -58,6 +58,9 @@ title: Latest Writing
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
+{% capture this_month %}{{ post.date | date: "%M" }}{% endcapture %}
+{% capture next_month %}{{ post.previous.date | date: "%M" }}{% endcapture %}
+
 {% if forloop.first %}
 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
 
@@ -66,9 +69,14 @@ title: Latest Writing
 {% if post.draft == true %}
 {% else %}
 
-<div class="pv1 f5">
-<span class="f6 ttu black-70">{{ post.date | date: "%-d %B" }}</span>
-{% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> {% endif %}<p class="pv0 mv0"><a href="{{ post.url }}">{{ post.title }}</a> <span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span><span class="f5 black-50 i">{{post.subtitle}}</span><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span></p>
+{% if forloop.first %}
+<span class="f6 ttu black-70">{{ this_month }}</span>
+{% elsif this_month != next_monthj %}
+<span class="f6 ttu black-70">{{ this_month }}</span>
+{% endif %}
+
+
+<div class="pv1 f5">{% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/> {% endif %}<p class="pv0 mv0"><a href="{{ post.url }}">{{ post.title }}</a> <span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span><span class="f5 black-50 i">{{post.subtitle}}</span><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span></p>
 </div>
 {% endif %}
 
