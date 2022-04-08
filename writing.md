@@ -59,7 +59,7 @@ title: Latest Writing
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
 {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-{% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+{% capture next_month %}{{ post.next.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
@@ -72,7 +72,7 @@ title: Latest Writing
 {% if forloop.first %}
 <span class="f6 ttu black-70">{{ this_month }}</span>
 {% elsif this_month != next_month %}
-<span class="f6 ttu black-70">{{ next_month }}</span>
+<span class="f6 ttu black-70">{{ this_month }}</span>
 {% endif %}
 
 
