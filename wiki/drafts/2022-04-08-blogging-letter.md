@@ -47,6 +47,12 @@ Buttondown
 Medium
 *Growth in github pages projects?*
 
+--
+
+Sidebar case study: Not Boring: from write of passage to substack to investment firm
+
+--
+
 ## Twitter as infrastructure
 
 Mastodon, Microblog, Indieblogging
