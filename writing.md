@@ -58,8 +58,8 @@ title: Latest Writing
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-{% capture this_month %}{{ post.date | date: "%M" }}{% endcapture %}
-{% capture next_month %}{{ post.previous.date | date: "%M" }}{% endcapture %}
+{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+{% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
