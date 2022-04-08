@@ -71,7 +71,7 @@ title: Latest Writing
 
 {% if forloop.first %}
 <span class="f6 ttu black-70">{{ this_month }}</span>
-{% elsif this_month != next_monthj %}
+{% elsif this_month != next_month %}
 <span class="f6 ttu black-70">{{ this_month }}</span>
 {% endif %}
 
