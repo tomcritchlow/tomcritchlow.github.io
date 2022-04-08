@@ -70,9 +70,9 @@ title: Latest Writing
 {% else %}
 
 {% if forloop.first %}
-<span class="f6 ttu black-70">{{ this_month }}</span>
+<div class="f6 ttu black-70">{{ this_month }}</div>
 {% elsif this_month != next_month %}
-<span class="f6 ttu black-70">{{ this_month }}</span>
+<div class="f6 ttu black-70">{{ this_month }}</div>
 {% endif %}
 
 
