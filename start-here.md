@@ -3,6 +3,8 @@ layout: blog-sidebar-nav
 title: New? Start Here
 ---
 
+Hey, welcome! I'm an independent consultant and blogger. I recently launched an online course. I write about all kinds of things. Some of my best pieces are below:
+
 <div class="flex-l f5 pt4">
 
 <div class="w-100 w-50-l pr3-l">
