@@ -403,3 +403,11 @@ pre{
     max-width:600px;
     height:100%;
   }
+
+  .greendot {
+    height: 12px;
+    width: 12px;
+    background-color: #02AD28;
+    border-radius: 50%;
+    display: inline-block;
+  }
