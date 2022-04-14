@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog-sidebar-nav
 title: Latest Writing
 ---
 
