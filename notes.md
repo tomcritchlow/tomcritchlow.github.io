@@ -3,10 +3,17 @@ layout: blog-sidebar-nav
 title: Notes
 ---
 
+My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/).
+
 <script type="text/javascript" src="https://micro.blog/sidebar.js?username=tomcritchlow&count=100"></script>
 
 <script>
 
+fetch("https://notes.tomcritchlow.com/feed.json")
+    .then((response) => {return response.json()})
+    .then((data) => {
+        console.log(data);
+    }
 
 </script>
 
