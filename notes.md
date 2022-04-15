@@ -16,7 +16,7 @@ fetch("https://notes.tomcritchlow.com/feed.json")
     .then((data) => {
         for(var i = 0; i <data.items.length; i++){
             var div = document.createElement("div");
-            div.innerHTML = `<div class="bt bb b--black-20 pv4"><div>${data.items[i].date_published}</div><div>${data.items[i].content_html}</div></div>`;
+            div.innerHTML = `<div class="bt bb b--black-20 pv4"><div class="f6 black-40"><a href="${data.items[i].url}">${data.items[i].date_published}</a></div><div>${data.items[i].content_html}</div></div>`;
             document.getElementById("microblog").appendChild(div);
             //trigger a domcontentloaded to force Quotebacks JS to work
         window.document.dispatchEvent(new Event("DOMContentLoaded", {
