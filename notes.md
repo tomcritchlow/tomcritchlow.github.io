@@ -7,6 +7,8 @@ My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcrit
 
 <div id="microblog"></div>
 
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 <script>
 
 fetch("https://notes.tomcritchlow.com/feed.json")
@@ -19,11 +21,13 @@ fetch("https://notes.tomcritchlow.com/feed.json")
         }
         console.log(data);
         
-        //trigger a domcontentloaded to force Quotebacks JS to work
-        window.document.dispatchEvent(new Event("DOMContentLoaded", {
-            bubbles: true,
-            cancelable: true
-        }));
+
     });
+
+//trigger a domcontentloaded to force Quotebacks JS to work
+window.document.dispatchEvent(new Event("DOMContentLoaded", {
+    bubbles: true,
+    cancelable: true
+}));
 
 </script>
