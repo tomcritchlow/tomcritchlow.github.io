@@ -5,16 +5,23 @@ title: Notes
 
 My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/).
 
+<div id="microblog"></div>
+
 <script type="text/javascript" src="https://micro.blog/sidebar.js?username=tomcritchlow&count=100"></script>
 
 <script>
-/*
-fetch("https://notes.tomcritchlow.com/feed.json", {mode: 'no-cors'})
+
+fetch("https://notes.tomcritchlow.com/feed.json")
     .then((response) => {return response.json()})
     .then((data) => {
+        for(var i = 0; i <data.items.length; i++){
+            var div = document.createElement("div");
+            div.innerHTML = `<div>${data.items[i].date_published}</div><div>${data.items[i].content_html}</div>`;
+            document.getElementById("microblog").appendChild(div);
+        }
         console.log(data);
     });
-*/
+
 </script>
 
 <style>
