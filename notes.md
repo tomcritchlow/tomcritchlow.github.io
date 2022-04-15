@@ -22,12 +22,15 @@ fetch("https://notes.tomcritchlow.com/feed.json")
         console.log(data);
         
 
-    });
+    })
+    .then( => {
+        //trigger a domcontentloaded to force Quotebacks JS to work
+        window.document.dispatchEvent(new Event("DOMContentLoaded", {
+            bubbles: true,
+            cancelable: true
+        }));)
+    };
 
-//trigger a domcontentloaded to force Quotebacks JS to work
-window.document.dispatchEvent(new Event("DOMContentLoaded", {
-    bubbles: true,
-    cancelable: true
-}));
+
 
 </script>
