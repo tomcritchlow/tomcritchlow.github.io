@@ -22,7 +22,7 @@ fetch("https://notes.tomcritchlow.com/feed.json")
         window.document.dispatchEvent(new Event("DOMContentLoaded", {
             bubbles: true,
             cancelable: true
-        }));)
+        }));
         }
                 
         console.log(data);
