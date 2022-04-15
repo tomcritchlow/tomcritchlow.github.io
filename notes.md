@@ -18,18 +18,17 @@ fetch("https://notes.tomcritchlow.com/feed.json")
             var div = document.createElement("div");
             div.innerHTML = `<div>${data.items[i].date_published}</div><div>${data.items[i].content_html}</div>`;
             document.getElementById("microblog").appendChild(div);
-        }
-        console.log(data);
-        
-
-    })
-    .then( => {
-        //trigger a domcontentloaded to force Quotebacks JS to work
+            //trigger a domcontentloaded to force Quotebacks JS to work
         window.document.dispatchEvent(new Event("DOMContentLoaded", {
             bubbles: true,
             cancelable: true
         }));)
-    };
+        }
+                
+        console.log(data);
+        
+
+    });
 
 
 
