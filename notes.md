@@ -8,13 +8,13 @@ My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcrit
 <script type="text/javascript" src="https://micro.blog/sidebar.js?username=tomcritchlow&count=100"></script>
 
 <script>
-
-fetch("https://notes.tomcritchlow.com/feed.json")
+/*
+fetch("https://notes.tomcritchlow.com/feed.json", {mode: 'no-cors'})
     .then((response) => {return response.json()})
     .then((data) => {
         console.log(data);
     });
-
+*/
 </script>
 
 <style>
