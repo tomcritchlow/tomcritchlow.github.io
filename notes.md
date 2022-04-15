@@ -3,8 +3,6 @@ layout: blog-sidebar-nav
 title: Notes
 ---
 
-<script src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
 My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/).
 
 <div id="microblog"></div>
@@ -20,6 +18,9 @@ fetch("https://notes.tomcritchlow.com/feed.json")
             document.getElementById("microblog").appendChild(div);
         }
         console.log(data);
+        var my_awesome_script = document.createElement('script');
+        my_awesome_script.setAttribute('src','https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js');
+        document.head.appendChild(my_awesome_script);
     });
 
 </script>
