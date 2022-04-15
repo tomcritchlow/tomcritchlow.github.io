@@ -18,9 +18,12 @@ fetch("https://notes.tomcritchlow.com/feed.json")
             document.getElementById("microblog").appendChild(div);
         }
         console.log(data);
-        var my_awesome_script = document.createElement('script');
-        my_awesome_script.setAttribute('src','https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js');
-        document.head.appendChild(my_awesome_script);
+        
+        //trigger a domcontentloaded to force Quotebacks JS to work
+        window.document.dispatchEvent(new Event("DOMContentLoaded", {
+            bubbles: true,
+            cancelable: true
+        }));
     });
 
 </script>
