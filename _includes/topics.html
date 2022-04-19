@@ -1,10 +1,8 @@
 {% for essay in page.blog-posts %}
 
-{{ essay }}
-
 {% assign post = site.posts | where:"url", essay  | first %}
 
-{{post}}
+{{post.title}}
 
 {% endfor %}
 
