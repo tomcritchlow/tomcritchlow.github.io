@@ -1,5 +1,15 @@
 Some HTML here.
 
+{% for essay in blog-posts %}
+
+{% assign post = site.post | where:"name", essay  | first %}
+
+{{post}}
+
+{% endfor %}
+
+
+
 {% for channel in page.arena-channels %}
 Arena channel: {{channel}}
 {% endfor %}
