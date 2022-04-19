@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav.html
+layout: blog-sidebar-nav
 title: Digital Annotations & Marginalia
 blog-posts:
 - the-500-meteor-doodle
