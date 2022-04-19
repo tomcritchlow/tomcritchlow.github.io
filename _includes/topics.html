@@ -6,15 +6,19 @@
 
 {% endfor %}
 
-
-
 {% for channel in page.arena-channels %}
 Arena channel: {{channel}}
 {% endfor %}
 
+<div id="arenaoutput"></div>
+
 <script>
 
 var channels = {{ page.arena-channels | jsonify }};
+
+for(var i = 0; i < channels.length ; i++){
+    arenaChannel(channels[i]);
+}
 
 function arenaChannel(channel){
   var decodechannel = decodeURIComponent(channel);
@@ -27,11 +31,9 @@ function arenaChannel(channel){
   <h1>${data.title}</h1>
   <div class="black-50 f6">Created by ${data.owner.username}, with ${data.length} blocks</div>
   `;
-  document.getElementById("metadiv").appendChild(metadiv);  
+  document.getElementById("arenaoutput").appendChild(metadiv);  
   
-    
-  var output = document.getElementById("output");  
-  var output2 = document.getElementById("output2");  
+  var output2 = document.getElementById("arenaoutput");  
   for(var i = 0; i < data.contents.length; i++){
     console.log("trying forllop");
     var div = document.createElement("div");
