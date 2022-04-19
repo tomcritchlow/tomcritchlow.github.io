@@ -11,3 +11,69 @@
 {% for channel in page.arena-channels %}
 Arena channel: {{channel}}
 {% endfor %}
+
+<script>
+
+var channels = {{ page.arena-channels | jsonify }};
+
+function arenaChannel(channel){
+  var decodechannel = decodeURIComponent(channel);
+  fetch('https://api.are.na/v2/channels/'+decodechannel+"?per=100")
+    .then((response) => {return response.json()})
+    .then((data) => {
+    console.log(data);
+  var metadiv = document.createElement("div");
+  metadiv.innerHTML = `
+  <h1>${data.title}</h1>
+  <div class="black-50 f6">Created by ${data.owner.username}, with ${data.length} blocks</div>
+  `;
+  document.getElementById("metadiv").appendChild(metadiv);  
+  
+    
+  var output = document.getElementById("output");  
+  var output2 = document.getElementById("output2");  
+  for(var i = 0; i < data.contents.length; i++){
+    console.log("trying forllop");
+    var div = document.createElement("div");
+    var div2 = document.createElement("div");
+    
+    var sourceurl = "";
+    var domain = "";
+    var title = "";
+    var thumbnail = "";
+    
+    try{
+      sourceurl = data.contents[i].source.url;
+      domain = (new URL(sourceurl));
+      domain = domain.hostname;
+    }catch{}
+    
+    try{
+      title = data.contents[i].title;
+    }catch{}
+    
+    try{
+      thumbnail = data.contents[i].image.thumb.url;
+    }catch{}    
+
+    div2.innerHTML = `<a class="db w4 center black link dim pr4" href="${sourceurl || "#"}">
+<img class="db ba b--black-10"/ src="${thumbnail || "https://via.placeholder.com/150"}">
+<div class="f6 pv2 overflow-x-hidden">${truncateString(title,50) || "empty"}</div>
+<div class="f7 black-50 i pv2 overflow-x-hidden">${domain || ""}</div>
+</a>`;      
+    
+    output2.appendChild(div2);
+};
+  }).catch(err => {
+  // Catch fetch error here
+});
+};
+
+function truncateString(str, num) {
+  if (str.length > num) {
+    return str.slice(0, num) + "...";
+  } else {
+    return str;
+  }
+};
+</script>
