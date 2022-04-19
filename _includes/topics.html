@@ -2,7 +2,7 @@ Some HTML here.
 
 {% for essay in blog-posts %}
 
-{% assign post = site.post | where:"name", essay  | first %}
+{% assign post = site.posts | where:"name", essay  | first %}
 
 {{post}}
 
