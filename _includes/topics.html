@@ -1,10 +1,8 @@
-Some HTML here.
-
 {% for essay in page.blog-posts %}
 
 {{ essay }}
 
-{% assign post = site.posts | where:"name", essay  | first %}
+{% assign post = site.posts | where:"url", essay  | first %}
 
 {{post}}
 
