@@ -5,16 +5,10 @@
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 Page name is {{page.name}}
 
-{{topicposts}}
-
-
-{% for essay in page.blog-posts %}
-
-{% assign post = site.posts | where:"url", essay  | first %}
-
-{{post.title}}
-
+{% for posts in topicposts %}
+<a href="{{post.url}}">{{post.title}}</a>
 {% endfor %}
+
 
 {% for channel in page.arena-channels %}
 Arena channel: {{channel}}
