@@ -1,3 +1,9 @@
+
+{% assign topicposts = site.posts | where_exp: "item" , "item.topics contains page.name" | sort:"path" %}
+
+{{topicposts}}
+
+
 {% for essay in page.blog-posts %}
 
 {% assign post = site.posts | where:"url", essay  | first %}

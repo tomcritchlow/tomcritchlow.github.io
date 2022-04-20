@@ -2,6 +2,7 @@
 layout: blog
 title: The 500 Year Old Meteor Doodle
 blogchain: annotations
+topics: annotations
 ---
 
 In 1543 Copernicus published **De Revolutionibus Orbium Coelestium** (On the Revolutions of the Heavenly Spheres) in which he reasoned that the Earth orbits the Sun. 400 copies were printed. It didn’t sell out.
