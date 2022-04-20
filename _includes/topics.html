@@ -1,8 +1,9 @@
 
-{% assign topicposts = site.posts | where_exp: "item" , "item.topics contains page.name" | sort:"path" %}
 
+
+{% assign topic = page.name | remove: ".md" %}
+{% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 Page name is {{page.name}}
-Page id is {{page.id}}
 
 {{topicposts}}
 
