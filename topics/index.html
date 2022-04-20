@@ -1,5 +1,12 @@
 ---
 layout: blog-sidebar-nav
+title: Topics
 ---
 
-This section is highly experimental!
+<em>Warning: This section is highly experimental!</em>
+
+{% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'"  %}
+
+{% for page in topics %}
+<a href="{{page.url}}">{{page.title}}</a>
+{% endfor %}
