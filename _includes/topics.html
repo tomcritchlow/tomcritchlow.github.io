@@ -30,6 +30,10 @@ function arenaChannel(channel){
     .then((response) => {return response.json()})
     .then((data) => {
     console.log(data);
+  var outlinediv = document.createElement("div"); 
+  outlinediv.classList.add("pv2");
+  outlinediv.classList.add("overflow-x-scroll");
+  outlinediv.classList.add("flex");
   var metadiv = document.createElement("div");
   metadiv.innerHTML = `
   <h1>${data.title}</h1>
@@ -67,8 +71,9 @@ function arenaChannel(channel){
 <div class="f6 pv2 overflow-x-hidden">${truncateString(title,50) || "empty"}</div>
 <div class="f7 black-50 i pv2 overflow-x-hidden">${domain || ""}</div>
 </a>`;      
-    
-    output2.appendChild(div2);
+    outlinediv.appendChild(metadiv);
+    outlinediv.appendChild(div2);
+    output2.appendChild(outlinediv);
 };
   }).catch(err => {
   // Catch fetch error here
