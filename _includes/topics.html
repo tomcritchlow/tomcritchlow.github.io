@@ -2,6 +2,7 @@
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains page.name" | sort:"path" %}
 
 Page name is {{page.name}}
+Page id is {{page.id}}
 
 {{topicposts}}
 
