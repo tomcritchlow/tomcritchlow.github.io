@@ -42,6 +42,7 @@ function arenaChannel(channel){
   document.getElementById("arenaoutput").appendChild(metadiv);  
   
   var output2 = document.getElementById("arenaoutput");  
+  outlinediv.appendChild(metadiv);
   for(var i = 0; i < data.contents.length; i++){
     console.log("trying forllop");
     var div = document.createElement("div");
@@ -71,10 +72,11 @@ function arenaChannel(channel){
 <div class="f6 pv2 overflow-x-hidden">${truncateString(title,50) || "empty"}</div>
 <div class="f7 black-50 i pv2 overflow-x-hidden">${domain || ""}</div>
 </a>`;      
-    outlinediv.appendChild(metadiv);
+    
     outlinediv.appendChild(div2);
-    output2.appendChild(outlinediv);
+    
 };
+output2.appendChild(outlinediv);
   }).catch(err => {
   // Catch fetch error here
 });
