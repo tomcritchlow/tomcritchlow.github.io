@@ -36,7 +36,7 @@ But there's a nice benefit to running my blog through Github - I accidentally ge
 2. Github creates a robust version, complete with version history
 3. The web at tomcritchlow.com (where all kinds of spiders crawl all over it)
 
-There's no export button - everything is automatically replicated in all three places.
+There's no export button - everything is automatically replicated in all three places and you could probably replicate this blog from any of the three copies.
 
 This feels like some kind of resilience. I think there might even be a snapshot of my site [buried 250 meters deep in the permafrost of an Arctic mountain](https://archiveprogram.github.com/arctic-vault/)...
 
@@ -90,7 +90,7 @@ Talking of libraries and decentralized social media... Maybe *actual* libraries 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These are the five core principles of the Brooklyn Public Library. Feels like you could certainly support these efforts with some kind of social space... <a href="https://t.co/XGU789dawe">pic.twitter.com/XGU789dawe</a></p>&mdash; Tom Critchlow (@tomcritchlow) <a href="https://twitter.com/tomcritchlow/status/1519032093233270785?ref_src=twsrc%5Etfw">April 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Maybe the library of the future need to think about creating and consuming content? From a lovely paper in 2006 (!): “In the new digital libraries, users are not only consumers but also producers of information”:
+Maybe the library of the future need to think about creating and consuming content? From a lovely paper in 2006 (!): **“In the new digital libraries, users are not only consumers but also producers of information”**:
 
 <blockquote class="quoteback" darkmode="" data-title="(PDF) Digital Libraries of the Future - and the Role of Libraries" data-author="Donatella Castelli" cite="https://www.researchgate.net/publication/28804446_Digital_Libraries_of_the_Future_-_and_the_Role_of_Libraries">
 New DLs are also required to offer a much richer set of services to their
