@@ -72,6 +72,8 @@ This is a model of decentralization that still involves servers. Yes, yes I know
 
 But what happens when writing server-side code is as easy as writing front end code? What happens if - maybe! - there's a model of decentralization that feels more like a bunch of weird Replits networking with each other. Some kind of richer, smaller, messier mesh. A kind of decentralization that doesn't require so many people to maintain a bunch of servers...?
 
+(*Something like [Gossips Cafe](https://gossips.cafe/) or [Special Fish](https://special.fish/) perhaps?*)
+
 🔢
 
 Here's a real example. A while back I posted up some thoughts about a decentralized Goodreads: [Library JSON - A Proposal for a Decentralized Goodreads](https://tomcritchlow.com/2020/04/15/library-json/).
