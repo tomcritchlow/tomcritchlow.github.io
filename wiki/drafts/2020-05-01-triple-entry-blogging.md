@@ -6,7 +6,7 @@ layout: blog
 
 A monk in 1494 called Luca Pacioli invented double entry accounting. It's a kind of business infrastructure that enabled modern finance to emerge. By recording changes in two places you create a much more robust and error-resistant system of accounting:
 
-<blockquote class="quoteback" darkmode="" data-title="How%20double-entry%20bookkeeping%20changed%20the%20world%20%E2%80%94%20MATH%20VALUES" data-author="Keith%20Devlin" cite="https://www.mathvalues.org/masterblog/2019/4/26/how-double-entry-bookkeeping-changed-the-world">
+<blockquote class="quoteback" darkmode="" data-title="How%20double-entry%20bookkeeping%20changed%20the%20world%20%E2%80%94%20MATH%20VALUES" data-author="Keith Devlin" cite="https://www.mathvalues.org/masterblog/2019/4/26/how-double-entry-bookkeeping-changed-the-world">
 Looking back, we see that Venetian bookkeeping proved to be an ideal system for generating the financial statements that were required for the modern industrialized world. It could accurately record capital and income (as required by law and investors), it could distinguish between private expenses and corporate costs, and it could produce data that helped to evaluate past investment decisions.
 <footer> <cite><a href="https://www.mathvalues.org/masterblog/2019/4/26/how-double-entry-bookkeeping-changed-the-world">https://www.mathvalues.org/masterblog/2019/4/26/how-double-entry-bookkeeping-changed-the-world</a></cite></footer>
 </blockquote>
