@@ -54,7 +54,7 @@ Or perhaps you wanted to create a search index on top of a bunch of blogs - agai
 
 Another nice thing enabled by triple entry blogging is the ability to have a version history and changelog for every blog post. This is something I've been meaning to implement for a while. Here's a how to: [Including Git History in a Jekyll Post](https://ryanjduffy.github.io/blog/2016/01/08/including-git-history-in-a-jekyll-post.html).
 
-What new kinds of things could we build on top of this idea of tripe entry blogging?
+What new kinds of things could we build on top of this idea of triple entry blogging?
 
 🔢
 
