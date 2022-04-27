@@ -29,3 +29,6 @@ This is why posts like this are useful - they represent an appreciative mental m
 https://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/
 
 Copy and paste slack convo directly in
+
+https://commoncog.com/blog/how-note-taking-can-help-you-become-an-expert/
+Note taking also allows you to capture thick data. Helps you cement reference stories, not just the data and facts.
