@@ -6,11 +6,11 @@ layout: blog
 
 Why are executive dashboards so bad?
 
-In my consulting work, almost every company has lackluster reporting and dashboards. These days it's less a case of completely missing reporting (though that still happens) but rather the things the executive team are looking at regularly are poorly implemented and lack any real insight into the business.
+In my consulting work, almost every company has lackluster reporting and dashboards. These days it's less a case of completely missing reporting (though that still happens) but rather the things the executive team are looking at regularly lack any real insight into the business.
 
-Most of my consulting work revolves around putting together some kind of strategic plan. It usually boils down to a kind of basic equation, something like this:
+Most of my consulting work revolves around putting together some kind of strategic plan. It usually boils down to a kind of basic equation, something like:
 
-"If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$"
+*"If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$"*
 
 You secure buy-in from the key players, grab the money and get to work.
 
@@ -26,11 +26,11 @@ Unfortunately in my consulting work most companies don't have any kind of measur
 
 📈📈📈
 
-Maybe there's a blind spot in my consulting. When you put a plan together that says "If you invest $$ into activities X, Y and Z then over 2 years we can achieve $$$" - then there's some kind of assumption, either explicit or implicit that activities X, Y and Z will produce results.
+Maybe there's a blind spot in my consulting. When you put a plan together that says "If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$" - then there's some kind of assumption, either explicit or implicit that activities X, Y and Z will produce results.
 
 It's kind of obvious that you have to find evidence for this *historically* - I like to show how investing in these activities has paid off previously, or how a similar situation worked out for a similar business.
 
-But perhaps I could better articulate how this *future* investment will play out. Linking to investing to clear outputs that will lead to results. Hmm..
+But perhaps I could better articulate how this *future* investment will play out. Not just a business model showing X, Y and Z with revenue potential but actually showing how you would measure progress on each initiative. Linking the investment to clear outputs that will lead to results. Hmm..
 
 📈📈📈
 
@@ -62,123 +62,114 @@ Output metrics feel more neutral. They're observations about what happened - so 
 
 Input metrics on the other hand are more opinionated - as we just saw they're not perfect measures or predictors of future revenue and in fact you might iterate and refine them over time. You might disagree with them!
 
-This bring a power dynamic into play that I find interesting. Senior executives - perhaps CEOs or founders even - who feel unable (or unwilling) to impose new dashboards and metrics on the business. I think it's because they
-
-Metrics as control vs metrics as discovery. 
-
-Per working backwards, metrics are expected to change as you learn what is the best input metric to achieve your goal.
-
-Here's some 
-
+This brings a power dynamic into play that I find interesting. Senior executives - CEOs or founders even - who feel unable (or unwilling) to impose new dashboards and metrics on the business. Everyone is scared of micro-managing. Perhaps also senior executives don't feel confident understanding the mechanics of the actual work well enough to oversee the creation of input metrics?
 
 📈📈📈
 
-Dashboards are a power struggle.
+Dashboards are a battleground for power in other ways too.
 
-I see teams frustrated that dashboards don't accurately reflect effort / care. So change the dashboard.
+I often see teams frustrated that the way they're measured doesn't accurately reflect the effort / nuance / expertise / care that they feel is necessary for their work to succeed.
 
-Example: Reviews content grading project. Allows you to score content in a measurably subjective way. Allows you to embed expertise in your model. 
+But I rarely see teams advocating to change the measure.
 
+This is the metrics mindset that only measures concrete outputs. But you have the freedom to make your own measures. I recall working with a content publishing business (think someone like Wirecutter) where we were trying to nail down some measure of "quality content". Not a simple problem - and certainly one that's hard to find an objective metric for. But eventually we got a few senior people around the table, created a simple 5 point scale on a few key areas and then asked everyone to rate content subjectively on that 5 point scale.
 
-Real examples:
-- Early stage startup putting a data studio dashboard together. Not just metrics, but measures. e.g. volume of content produced us vs competitors
-- International content business with tons of data but without a good single source of truth. How to incorporate some form of explanatory power in there? Not just "what has happened" but also "what is happening"
+If I remember correctly it was questions like:
 
-We think of dashboards and scoreboards as being a form of command and control. A way to create legibility for the organization for the exeuctives. But.. in my experiuence, especially for abstract work like SEO
+*"Is the summary of the page clear within 30 seconds?"*
+*"Can you immediately tell that it's written by experts?"*
+*"Have we demonstrated that we did hands-on testing of the products?"*
+
+Everyone scores the content, you average the scores and create a blended "quality score" for content. This in turn creates a metric that you can use to measure some of the intangible "content quality" ideas that the team felt was important, but wasn't reflected in the existing dashbaords and metrics.
+
+Once we got this quality score added to the dashboards it wasn't long before the CEO was demanding that we increase the average content quality of our pages.
+
+You manage what you measure. So think carefully about how to measure what you want to be managed by.
 
 📈📈📈
 
-I love the phrase "player scorebaord vs coach scoreboard". It reminds me that every single dashboard is, implicitly, an exercise in incentive design. By choosing what goes into the dashboard you're emphasizing what's important and what's not.
+I'm very interested in what [Doubleloop](https://doubleloop.app/) is building. They're basically a kind of strategy canvas where you can plug various input metrics into output metrics and measure them with live data. Here's a quick overview:
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/1d17b1eff11942129ad5e541f75d65d9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+It's like a strategy canvas where you can make explicit the various strategy dependencies, all with live data.
+
+📈📈📈
+
+I'm also interested in what [Variance](https://www.variance.com/) is building. Starting with the opinionated thesis that Product-Led Growth should enable prospects to engage, sign-up, set up billing and then actually use the product they are building a reporting product that allows you to see prospects on an account by account basis as they move through various "milestones" of user action:
+
+![Variance milestones screenshot](https://assets.website-files.com/5e5af55b2c0cd951836b9715/61b270ab02e1c372bd9b4517_Ca6A0P95OfOwDSakqbhdcJzdXAErLuGwcPxKV8SCs_-RrgfVOXw8xUNaLKYEHBKgaX3ShECc0wW67w5gf2wk_ATv-2yaXsSC0O324O0ok6Uolpl-PE_5C3qsZr9QeQ5jr1f35QK7.png)
+
+I'm interested in this because I think it's smart and useful - but also because it's building software around an embedded thesis or ideology. IF product-led growth, THEN here's the CRM product for you... I think we'll see more of this kind of opinionated software in B2B emerging.
+
+📈📈📈
+
+My brother is raving about the book Four Disciplines of Execution ([summary](https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102)). The book has a similar notion to Amazon's around leading indicator vs lagging indicators. But they also have this idea of scoreboards.
+
+<blockquote class="quoteback" darkmode="" data-title="The%20Four%20Disciplines%20of%20Execution" data-author="Julius Reizen" cite="https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102">
+<h2 id="b2ec" class="so sp jv bn sq oi sr oj ol om ss on op lt st oq os lx su ot ov mb sv ow oy sw gi" data-selectable-paragraph="">Discipline Three: Keep a Compelling Scoreboard</h2><p id="5238" class="pw-post-body-paragraph lk ll jv lm b ln sx kw lp lq sy kz ls lt sz lv lw lx ta lz ma mb tb md me mf iz gi" data-selectable-paragraph="">To remain engaged, the team should know at all times if they are winning. People play more seriously when they are keeping score. Without knowing the score, staff will be distracted by the whirlwind. A visible scoreboard helps the team to work out how to move forward.</p><p id="7f34" class="pw-post-body-paragraph lk ll jv lm b ln lo kw lp lq lr kz ls lt lu lv lw lx ly lz ma mb mc md me mf iz gi" data-selectable-paragraph="">There is a big difference between a manager’s scoreboard and a team’s scoreboard. The team’s scoreboard should be simple, visible, show both lead and lag measures (actions and results), and show at-a-glance if the team is winning. It can be motivating for the team to physically create their own board.</p>
+<footer>Julius Reizen <cite><a href="https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102">https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Mmm. I like this notion of "Player scoreboards" vs "Coach Scoreboards". It reminds me that every single dashboard is, implicitly, an exercise in incentive design. By choosing what goes into the dashboard you're emphasizing what's important, and what's not.
 
 The medium is the message, you manage what you measure etc etc.
 
-So I guess you need to be careful
+📈📈📈
+
+Talking of the "medium of dashboards" - I've been spending a lot of time in Google Data Studio recently and I really appreciate the idea of a blank canvas to design layout and reporting on top of. It implicitly encourages *layout* as a primary activity.
+
+It's technically possible to do all kinds of fancy design in a spreadsheet too - but any design or styling work you do is more fragile in a spreadsheet and, mostly, people don't bother.
+
+I mean - like any design tool I see plenty of Google Data Studio reports that make my eyes bleed too! But on balance I like the notion of starting with a blank canvas. A data studio report *feels* very different to a spreadsheet report. It forces me to more clearly make tradeoffs between visual hierarchy, position and relation.
 
 📈📈📈
 
-One of the things I love most about Google Data Studio is that it implicitly encourages *layout* as a primary activity. Yes you can style a spreadsheet but people rarely do (at least not well) whereas Data Studio is kind of saying - look this is a blank canvas and you get to say what's important and how things should be in relation to each other.
+Another nice thing about Google Data Studio - it allows you to separate access to the dashboard from access to the underlying data source. So you can safely circulate a data studio report to various stakeholders. This can be handy since a dashboard is only as powerful as it's a shared object.
+
+The more teams use dashboards and rely on them the more they become cemented as powerful.
+
+I've written before about the age of [permeable organizations](https://littlefutures.substack.com/p/lf12-permeable-organizations?s=w): the idea that organizations increasingly have a series of orbital stakeholders with a blurring of the boundaries between "inside" and "outside" the organization.
+
+Maybe DAOs are relevant here?
+
+If quarterly reports are the traditional way of exposing data outside the organization - a realtime dashboard is the web3 way of doing it? DAOs are (optimistically) the modern business structure designed for orbital stakeholders.
+
+And maybe (maybe!) a DAO that tokenizes input will naturally have a leg up - their dashboard by default will show input metrics and output metrics...
 
 📈📈📈
 
-Narrative dashboards. When I worked at the Google Creative Lab there was a weekly business review. Every project had to submit a 140-character status update. The executive team then scanned the list of project status updates and decided where to focus from there. Clicking on a status update opened up the full project view.
+But maybe dashboards don't even need metrics or numbers on them at all! As we move towards an oral and visual culture with video, memes and social media, maybe dashboards need more rich context? Again, from Amazon:
 
-For a set of projects entirely divorced from metrics (no one cared about timeline, budget or hours at Google...) narrative dashboards created a sense of "what's going on" for the executive team.
-
-
-
-📈📈📈
-
-Let's take some examples for content based businesses:
-
-- Doesn't give you cohort analysis for your content. Ideally you'd be able to view content performance normalized to "days since published" so you can see whether a piece of content is over/under perfomring
-- Doesn't naturally give you content segemnetation (except via URL folder). 
-- 
-
---
-
-https://www.eugenewei.com/blog/2017/11/13/remove-the-legend
-https://commoncog.com/blog/working-backwards/#controllable-input-metrics
-https://www.holistics.io/blog/how-amazon-measures/
-
---
-
-https://doubleloop.app/
-
-Strategy articulated as a set of dependencies
-
---
-
-They look at metrics, but not 
-
-
-Curious case of lacking dashboards.
-
-They look at metrics but very little 
-
-Quote from seeing like a state
-Quote from working backwards (input metrics)
-
-https://www.franklincovey.com/the-4-disciplines/discipline-3-scoreboard/
-Players scoreboard vs Coach scoreboard
-
----
-
-Orbital stakeholders and permeable organizations - more dashboards are going to become public by default?
-
-If quarterly earning reports are the tradfi way of doing things, a realtime dashboard is the defi way of doing it? Verified public transactions and data. Though of course that's going to measure what has happened - what would a public dashboard of input metrics look like?
-
-DAOs that tokenize input metrics will have a leg up - they'll naturally be able to create dashboards that combine input and output metrics. Reality might not be so easy of course.
-
-📈📈📈
-
-User quotes / user research as a dashbaord vs as a one-time activity.
-
-Amazon combines data with anecdotes to tell the whole story. The most interesting aspect of Amazon’s metrics deck, however, is their use of anecdotes. The authors write:
-
+<blockquote class="quoteback" darkmode="" data-title="This%20is%20How%20Amazon%20Measures%20Itself" data-author="@holistics_bi" cite="https://www.holistics.io/blog/how-amazon-measures/">
 Amazon employs many techniques to ensure that anecdotes reach the teams that own and operate a service. One example is a program called the Voice of the Customer. The customer service department routinely collects and summarizes customer feedback and presents it during the WBR, though not necessarily every week. The chosen feedback does not always reflect the most commonly received complaint, and the CS department has wide latitude on what to present. When the stories are read at the WBR, they are often painful to hear because they highlight just how much we let customers down. But they always provide a learning experience and an opportunity for us to improve.
+<footer>@holistics_bi <cite><a href="https://www.holistics.io/blog/how-amazon-measures/">https://www.holistics.io/blog/how-amazon-measures/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+This tracks nicely to what I see inside organizations. Too often user research is a one-time activity, and often buried deep inside the product or marketing org. It's not a *strategic* activity. What would it look like to structure user research at a strategic, executive dashbaordlevel? Maybe something like Amazon's voice of the customer.
 
 📈📈📈
 
-So, to sum up some meanderings - here's some tensions of executive level dashboards. None are right or wrong, but useful ways to think about how you're setting up your dashbaords:
+So, I know that every client I work with needs help setting up better dashboards. But I also know that a dashboard is a powerful object. Changing it requires bravery and nuance. To recap these ideas - here's some ways to interrogate your own reporting setup to see how you might change:
 
-### 1. Qualitative / Quantitative
+### 1. Qualitative vs Quantitative
 
 Is your dashboard raw data or is there some post-processing? Are you using expertise to create gradings or analysis on top of the data? Is there a voice of the customer segment for your reporting?
 
-### 2. Input / Output
+### 2. Input vs Output
 
-Are you reporting only on what has already happened or are you showing what's happening now also? Obviously you need both, but in my experience companies rely too heavily on output metrics.
+Are you reporting only on what has already happened or are you showing what's happening now? Obviously you need both, but in my experience companies rely too heavily on output metrics.
 
-### 3. Flexible / Fixed
+### 3. Flexible vs Fixed
 
-How often do you update the metrics you're reporting on? Are you explicitly *designing* your metrics to be updated? What's your feedback loop for checking that inputs lead to the right outputs?
+How often do you update the metrics you're reporting on? Are you explicitly *designing* your metrics to be updated? What's your feedback loop for checking that inputs actually lead to the right outputs?
 
-### 4. Open / Closed
+### 4. Open vs Closed
 
 Who gets to see the dashboard? How do you ensure that everyone is on the same page? Are you capturing the potential value in a world of orbital stakeholders from opening up the dashboard to a wider set of people?
 
 📈📈📈
 
-One thing I'm confused about: the power dynamics around dashboards. Executives I work with are often frustrated at not being to see what's going on inside their own organization. And yet they also don't invest the time to improve their own dashbaords. A curious juxtaposition and one I'm still trying to untangle - are executives afraid that imposing new dashboards will be seen as new forms of surveillance or micromangging? Is it that executives don't really understand what actually moves the needle - i.e. what a good input metric would be?
-
-I think maybe dashboards are a representation of power, so people like to keep them neutral. Maybe there's something to that.
+Maybe dashboards and strategic plans need to be more closely entwined?
