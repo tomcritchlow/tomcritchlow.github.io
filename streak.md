@@ -5,6 +5,7 @@
 
 
 <script>
+
 var firstmonday = Date.parse("2000-02-14"); // from matt webb code? https://gist.github.com/genmon/c75480d3e525b43c2e1e135d7cbb697f
 const msPerDay = 24 * 60 * 60 * 1000;
 
@@ -56,4 +57,18 @@ Now: {{nowunix}}
 
 {{post.title}} - {{post.date | date: "%Y-%m-%d"}} - {{post.date | date: '%s'}}
 
+{% endfor %}
+
+--
+
+{% assign postsByDay = 
+site.posts | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
+
+{% for day in postsByDay %}
+  <h1>{{ day.name }}</h1>
+    <ul>
+      {% for post in day.items %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
 {% endfor %}
