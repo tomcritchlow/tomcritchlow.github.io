@@ -173,3 +173,9 @@ Who gets to see the dashboard? How do you ensure that everyone is on the same pa
 📈📈📈
 
 Maybe dashboards and strategic plans need to be more closely entwined?
+
+--
+
+*Update #1*: Some good links posted on twitter:
+- Daniel Schmidt, CEO of Doubleloop wrote about ["Flat metrics dashboards"](https://www.linkedin.com/feed/update/urn:li:activity:6922587274954125313/)
+- Consultant Andrew Bartholomew wrote [Good Dashboard, Bad Dashboard](https://www.abartholomew.com/writing/good-dashboard-bad-dashboard)
