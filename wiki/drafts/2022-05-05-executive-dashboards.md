@@ -10,7 +10,7 @@ In my consulting work, almost every company has lackluster reporting and dashboa
 
 Most of my consulting work revolves around putting together some kind of strategic plan. It usually boils down to a kind of basic equation, something like this:
 
-"If you invest $$ into activities X, Y and Z then over 2 years we can achieve $$$"
+"If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$"
 
 You secure buy-in from the key players, grab the money and get to work.
 
@@ -51,6 +51,18 @@ When we realized that the teams had chosen the wrong input metric—which was re
 <footer>@holistics_bi <cite><a href="https://www.holistics.io/blog/how-amazon-measures/">https://www.holistics.io/blog/how-amazon-measures/</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+I think the basic working model for people is that metrics measure the business, when in fact input metrics help you *learn about* the business. By iterating and refining your input metrics you actually become a stronger operator - you learn more specifically what levers actually get results. Dive into the [full post from Cedric Chin](https://www.holistics.io/blog/how-amazon-measures/) here for a bit more.
+
+📈📈📈
+
+But, there's something deeper here. Over the last few years I basically only work with the C-suite of organizations. Supposedly the "people in charge". But time and time again my point of contact is frustrated at the state of reporting internally. So why not fix it?
+
+Output metrics feel more neutral. They're observations about what happened - so it's hard to argue with them.
+
+Input metrics on the other hand are more opinionated - as we just saw they're not perfect measures or predictors of future revenue and in fact you might iterate and refine them over time. You might disagree with them!
+
+This bring a power dynamic into play that I find interesting. Senior executives - perhaps CEOs or founders even - who feel unable (or unwilling) to impose new dashboards and metrics on the business. I think it's because they
 
 Metrics as control vs metrics as discovery. 
 
