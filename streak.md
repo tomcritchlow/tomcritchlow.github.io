@@ -62,17 +62,6 @@ Now: {{nowunix}}
 
 --
 
-{% assign postsByDay = site.posts | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
-
-{% for day in postsByDay %}
-<h1>{{ day.name }}</h1>
-<ul>
-{% for post in day.items %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-{% endfor %}
-
 {% assign postsByWeek = site.posts | group_by_exp:"post", "post.date | date: '%W, %Y' " %}
 
 {% for week in postsByWeek %}
@@ -90,7 +79,7 @@ var posts = [];
 
 {% for post in site.posts %}
 var object = {};
-posts.append({"title":{{post.title}}});
+posts.append({"title":"{{post.title}}"});
 {% endfor %}
 
 
