@@ -83,3 +83,15 @@ Now: {{nowunix}}
 {% endfor %}
 </ul>
 {% endfor %}
+
+<script>
+
+var posts = [];
+
+{% for post in site.posts %}
+var object = {};
+posts.append({"title":{{post.title}}});
+{% endfor %}
+
+
+</script>
