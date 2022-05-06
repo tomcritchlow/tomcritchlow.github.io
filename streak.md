@@ -2,7 +2,7 @@
 ---
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
-
+<div id="streak"></div>
 
 <script>
 
@@ -34,6 +34,7 @@ for (let i = 0; i < (weeknumbers.length); i++) {
 
 if(streak > 0){
   streak += 1;
+  document.getElementById("streak").innerHTML = streak;
 };
 
 </script>
@@ -61,14 +62,24 @@ Now: {{nowunix}}
 
 --
 
-{% assign postsByDay = 
-site.posts | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
+{% assign postsByDay = site.posts | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
 
 {% for day in postsByDay %}
-  <h1>{{ day.name }}</h1>
-    <ul>
-      {% for post in day.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+<h1>{{ day.name }}</h1>
+<ul>
+{% for post in day.items %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+{% assign postsByWeek = site.posts | group_by_exp:"post", "post.date | date: '%W' " %}
+
+{% for week in postsByWeek %}
+<h1>{{ week.name }}</h1>
+<ul>
+{% for post in week.items %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 {% endfor %}
