@@ -26,11 +26,11 @@ Unfortunately in my consulting work most companies don't have any kind of measur
 
 📈📈📈
 
-Maybe there's a blind spot in my consulting. When you put a plan together that says "If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$" - then there's some kind of assumption, either explicit or implicit that activities X, Y and Z will produce results.
+Maybe there's a blind spot in my consulting. When you put a plan together that says *"If you invest \$$ into activities X, Y and Z then over 2 years we can achieve \$$$"* - then there's some kind of assumption, either explicit or implicit that activities X, Y and Z will produce results.
 
 It's kind of obvious that you have to find evidence for this *historically* - I like to show how investing in these activities has paid off previously, or how a similar situation worked out for a similar business.
 
-But perhaps I could better articulate how this *future* investment will play out. Not just a business model showing X, Y and Z with revenue potential but actually showing how you would measure progress on each initiative. Linking the investment to clear outputs that will lead to results. Hmm..
+But perhaps I could better articulate how this *future* investment will play out. Not just a business model showing X, Y and Z with revenue potential, but actually showing how you would measure *progress* on each initiative. It always feel implied to me that when you invest in a plan you need to measure progress but I think I could be more proactive in bundling the measurement plan with the pitch... Hmm.
 
 📈📈📈
 
@@ -44,7 +44,7 @@ The simple answer is that <em>we are not taught to think like this</em>. When pe
 
 Input metrics are like measuring the left hand side of the equation! You're measuring the things that supposedly impact the revenue. Today's measure of revenue is not a good measure of tomorrow's revenue - input metrics are better.
 
-Interestingly - it's quite hard to find the right input metrics, it's not always obvious exactly what input metrics *actually influence future revenue*.
+Interestingly - it's quite hard to find the right input metrics, it's not always obvious exactly which input metrics *actually influence future revenue*.
 
 <blockquote class="quoteback" darkmode="" data-title="This%20is%20How%20Amazon%20Measures%20Itself" data-author="@holistics_bi" cite="https://www.holistics.io/blog/how-amazon-measures/">
 When we realized that the teams had chosen the wrong input metric—which was revealed via the WBR process—we changed the metric to reflect consumer demand instead. Over multiple WBR meetings, we asked ourselves, “If we work to change this selection metric, as currently defined, will it result in the desired output?” As we gathered more data and observed the business, this particular selection metric evolved over time from<br><br>- number of detail pages, which we refined to<br><br>- number of detail page views (you don't get credit for a new detail page if customers don't view it), which then became<br><br>- the percentage of detail page views where the products were in stock (you don't get credit if you add items but can't keep them in stock), which was ultimately finalized as<br><br>- the percentage of detail page views where the products were in stock and immediately ready for two-day shipping, which ended up being called 'Fast Track In Stock'.
@@ -52,15 +52,15 @@ When we realized that the teams had chosen the wrong input metric—which was re
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-I think the basic working model for people is that metrics measure the business, when in fact input metrics help you *learn about* the business. By iterating and refining your input metrics you actually become a stronger operator - you learn more specifically what levers actually get results. Dive into the [full post from Cedric Chin](https://www.holistics.io/blog/how-amazon-measures/) here for a bit more.
+I think the basic working model for people is that metrics measure the business, when in fact input metrics help you *learn about* the business. By iterating and refining your input metrics you actually become a stronger operator - you learn more specifically which levers actually get results. Dive into the [full post from Cedric Chin](https://www.holistics.io/blog/how-amazon-measures/) here for a bit more.
 
 📈📈📈
 
-But, there's something deeper here. Over the last few years I basically only work with the C-suite of organizations. Supposedly the "people in charge". But time and time again my point of contact is frustrated at the state of reporting internally. So why not fix it?
+But, there's something deeper here. Over the last few years I basically only work with the C-suite of organizations. Supposedly the "people in charge". But time and time again my point of contact is frustrated at the state of reporting internally, while also not doing anything about it. So why not fix it?
 
-Output metrics feel more neutral. They're observations about what happened - so it's hard to argue with them.
+Output metrics feel neutral. They're observations about what happened - so it's hard to argue with them.
 
-Input metrics on the other hand are more opinionated - as we just saw they're not perfect measures or predictors of future revenue and in fact you might iterate and refine them over time. You might disagree with them!
+Input metrics, on the other hand, are more opinionated - as we just saw they're not perfect measures or predictors of future revenue and in fact you might iterate and refine them over time. You might disagree with them!
 
 This brings a power dynamic into play that I find interesting. Senior executives - CEOs or founders even - who feel unable (or unwilling) to impose new dashboards and metrics on the business. Everyone is scared of micro-managing. Perhaps also senior executives don't feel confident understanding the mechanics of the actual work well enough to oversee the creation of input metrics?
 
@@ -70,17 +70,17 @@ Dashboards are a battleground for power in other ways too.
 
 I often see teams frustrated that the way they're measured doesn't accurately reflect the effort / nuance / expertise / care that they feel is necessary for their work to succeed.
 
-But I rarely see teams advocating to change the measure.
+But I rarely see teams advocating to change the measure!
 
-This is the metrics mindset that only measures concrete outputs. But you have the freedom to make your own measures. I recall working with a content publishing business (think someone like Wirecutter) where we were trying to nail down some measure of "quality content". Not a simple problem - and certainly one that's hard to find an objective metric for. But eventually we got a few senior people around the table, created a simple 5 point scale on a few key areas and then asked everyone to rate content subjectively on that 5 point scale.
+This is the metrics mindset that only measures concrete outputs. But you have the freedom to make your own measures. I recall working with a content publishing business (think someone like Wirecutter) where we were trying to nail down some measure of "quality content". Not a simple problem - and certainly one that's hard to find an objective metric for. But eventually we got a few senior people around the table, created a simple 5 point scale on a few key areas, and then asked everyone to rate content subjectively on that 5 point scale.
 
 If I remember correctly it was questions like:
 
-*"Is the summary of the page clear within 30 seconds?"*
-*"Can you immediately tell that it's written by experts?"*
-*"Have we demonstrated that we did hands-on testing of the products?"*
+- *"Is the summary of the page clear within 30 seconds?"*
+- *"Can you immediately tell that it's written by experts?"*
+- *"Have we demonstrated that we did hands-on testing of the products?"*
 
-Everyone scores the content, you average the scores and create a blended "quality score" for content. This in turn creates a metric that you can use to measure some of the intangible "content quality" ideas that the team felt was important, but wasn't reflected in the existing dashbaords and metrics.
+Everyone scores the content, you average the scores and create a blended "quality score" for content. This in turn creates a metric that you can use to measure some of the intangible "content quality" ideas that the team felt was important, but wasn't reflected in the existing dashboards.
 
 Once we got this quality score added to the dashboards it wasn't long before the CEO was demanding that we increase the average content quality of our pages.
 
@@ -92,11 +92,11 @@ I'm very interested in what [Doubleloop](https://doubleloop.app/) is building. T
 
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/1d17b1eff11942129ad5e541f75d65d9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-It's like a strategy canvas where you can make explicit the various strategy dependencies, all with live data.
+I like this idea - that we should be questioning and exploring the dependencies of our strategic plan directly! We make a bunch of assumptions in the initial strategy pitch and then.... never go back and check whether we were right? Seems kinds of nuts.
 
 📈📈📈
 
-I'm also interested in what [Variance](https://www.variance.com/) is building. Starting with the opinionated thesis that Product-Led Growth should enable prospects to engage, sign-up, set up billing and then actually use the product they are building a reporting product that allows you to see prospects on an account by account basis as they move through various "milestones" of user action:
+I'm also interested in what [Variance](https://www.variance.com/) is building. Starting with the opinionated thesis that Product-Led Growth should enable prospects to engage, sign-up, set up billing and then actually use the product - Variance is building a reporting product that allows you to see prospects on an account by account basis as they move through various "milestones" of user action:
 
 ![Variance milestones screenshot](https://assets.website-files.com/5e5af55b2c0cd951836b9715/61b270ab02e1c372bd9b4517_Ca6A0P95OfOwDSakqbhdcJzdXAErLuGwcPxKV8SCs_-RrgfVOXw8xUNaLKYEHBKgaX3ShECc0wW67w5gf2wk_ATv-2yaXsSC0O324O0ok6Uolpl-PE_5C3qsZr9QeQ5jr1f35QK7.png)
 
@@ -104,7 +104,7 @@ I'm interested in this because I think it's smart and useful - but also because 
 
 📈📈📈
 
-My brother is raving about the book Four Disciplines of Execution ([summary](https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102)). The book has a similar notion to Amazon's around leading indicator vs lagging indicators. But they also have this idea of scoreboards.
+[My brother](https://twitter.com/willcritchlow) is raving about the book Four Disciplines of Execution ([summary](https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102)). The book has a similar notion to Amazon's around leading indicator vs lagging indicators. But they also have this idea of scoreboards.
 
 <blockquote class="quoteback" darkmode="" data-title="The%20Four%20Disciplines%20of%20Execution" data-author="Julius Reizen" cite="https://medium.com/swlh/the-four-disciplines-of-execution-295d6c2ec102">
 <h2 id="b2ec" class="so sp jv bn sq oi sr oj ol om ss on op lt st oq os lx su ot ov mb sv ow oy sw gi" data-selectable-paragraph="">Discipline Three: Keep a Compelling Scoreboard</h2><p id="5238" class="pw-post-body-paragraph lk ll jv lm b ln sx kw lp lq sy kz ls lt sz lv lw lx ta lz ma mb tb md me mf iz gi" data-selectable-paragraph="">To remain engaged, the team should know at all times if they are winning. People play more seriously when they are keeping score. Without knowing the score, staff will be distracted by the whirlwind. A visible scoreboard helps the team to work out how to move forward.</p><p id="7f34" class="pw-post-body-paragraph lk ll jv lm b ln lo kw lp lq lr kz ls lt lu lv lw lx ly lz ma mb mc md me mf iz gi" data-selectable-paragraph="">There is a big difference between a manager’s scoreboard and a team’s scoreboard. The team’s scoreboard should be simple, visible, show both lead and lag measures (actions and results), and show at-a-glance if the team is winning. It can be motivating for the team to physically create their own board.</p>
@@ -120,9 +120,9 @@ The medium is the message, you manage what you measure etc etc.
 
 Talking of the "medium of dashboards" - I've been spending a lot of time in Google Data Studio recently and I really appreciate the idea of a blank canvas to design layout and reporting on top of. It implicitly encourages *layout* as a primary activity.
 
-It's technically possible to do all kinds of fancy design in a spreadsheet too - but any design or styling work you do is more fragile in a spreadsheet and, mostly, people don't bother.
+Yes, it's technically possible to do all kinds of fancy design in a spreadsheet too - but any design or styling work you do is more fragile in a spreadsheet and, mostly, people don't bother.
 
-I mean - like any design tool I see plenty of Google Data Studio reports that make my eyes bleed too! But on balance I like the notion of starting with a blank canvas. A data studio report *feels* very different to a spreadsheet report. It forces me to more clearly make tradeoffs between visual hierarchy, position and relation.
+I mean - like any design tool I see plenty of Google Data Studio reports that make my eyes bleed! But on balance I like the notion of starting with a blank canvas. A data studio report *feels* very different to a spreadsheet report. It forces me to more clearly make tradeoffs between visual hierarchy, position and relation.
 
 📈📈📈
 
@@ -148,7 +148,7 @@ Amazon employs many techniques to ensure that anecdotes reach the teams that own
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-This tracks nicely to what I see inside organizations. Too often user research is a one-time activity, and often buried deep inside the product or marketing org. It's not a *strategic* activity. What would it look like to structure user research at a strategic, executive dashbaordlevel? Maybe something like Amazon's voice of the customer.
+This tracks nicely to what I see inside organizations. Too often user research is a one-time activity, and often buried deep inside the product or marketing org. It's not a *strategic* activity. What would it look like to structure user research at a strategic, executive dashboard level? Maybe something like Amazon's voice of the customer.
 
 📈📈📈
 
