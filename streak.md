@@ -73,7 +73,7 @@ Now: {{nowunix}}
 </ul>
 {% endfor %}
 
-{% assign postsByWeek = site.posts | group_by_exp:"post", "post.date | date: '%W' " %}
+{% assign postsByWeek = site.posts | group_by_exp:"post", "post.date | date: '%W, %Y' " %}
 
 {% for week in postsByWeek %}
 <h1>{{ week.name }}</h1>
