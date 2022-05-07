@@ -79,7 +79,7 @@ var posts = [];
 
 {% for post in site.posts %}
 var object = {};
-posts.append({"title":"{{post.title | escape}}"});
+posts.push({"title":"{{post.title | escape}}","week":"{{post.date | date: '%W'}}"});
 {% endfor %}
 
 
