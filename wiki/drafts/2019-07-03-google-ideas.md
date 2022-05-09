@@ -4,13 +4,18 @@ title: Reflecting on things I failed to get done at Google
 subtitle: And what I can learn going forward about pitching new things
 ---
 
+I'm kind of obsessed with how to get buy-in for your ideas.
+
+Exhibit A: book on independent consulting
+Exhibit B: SEO MBA online course in executive presence
+
 I worked at Google sometime 2012-2014 and I got nostalgic for the projects I never managed to get off the ground.
 
 I wanted to preserve these ideas on my blog but while I was thinking through them I realized there's also some interesting lessons to be learned about how not to pitch innovative ideas.
 
 All of these were ideated and pitched sometime 2012-2014 while I was working at Google Creative Lab or as part of the Google Jamboard team.
 
-## 1 - Work Teams
+## 1 - Google Workspace
 
 The idea: a workspace for Google teams, combining Google+ streams, Gmail and Drive into one unified experience. This was before Slack was "a thing" and frankly ahead of it's time.
 
