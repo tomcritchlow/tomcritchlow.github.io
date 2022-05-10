@@ -74,8 +74,16 @@ Now: {{nowunix}}
 {% endfor %}
 
 <script>
+var firstmonday = Date.parse("2022-01-03");
 
 var today = new Date();
+
+function getWeekNum(date){
+  var days_mon = Math.floor((Date.parse(date) - firstmonday) / 8.64e7);
+  var week_num = Math.floor(days_mon / 7) + 1;
+  return week_num;
+}
+
 var posts = [];
 
 {% for post in site.posts %}
@@ -83,32 +91,50 @@ var object = {};
 posts.push({"title":"{{post.title | escape}}","date":"{{post.date | date: "%Y-%m-%d"}}","week":"{{post.date | date: '%W'}}","year":"{{post.date | date: '%Y'}}"});
 {% endfor %}
 
-if(getWeekNumber(today)[1] - posts[0].week < 2){
-  console.log("Week numbers within one");
-  for(var i = 0; i < posts.length; i++){
-    console.log(getWeekNumber(today)[1] - posts[i].week);
-  }
+var today_week_num = getWeekNum(today);
+var latest_week_num = getWeekNum(posts[0].date);
+
+var streak = 0;
+
+if (today_week_num - latest_week_num < 2){
+
+  for (var i = 0; i < posts.length ; i++){
+    if(getWeekNum(posts[i].date) - getWeekNum(posts[i+1].date) == 0){
+
+    }else if(getWeekNum(posts[i].date) - getWeekNum(posts[i+1].date) == 1){
+      streak++;
+    }else{
+      break
+    }
+  };
+
 }
 
+console.log("Streak "+streak)
 
-var result = getWeekNumber(new Date());
-console.log('It\'s currently week ' + result[1] + ' of ' + result[0]);
+/*
+var latest_days_mon = Math.floor((Date.parse(posts[0].date) - firstmonday) / 8.64e7);
+var latest_week_num = Math.floor(latest_days_mon / 7) + 1;
+var today_days_mon = Math.floor((Date.parse(today) - firstmonday) / 8.64e7);
+var today_week_num = Math.floor(today_days_mon / 7) + 1;
 
 
-
-
-// From here: https://stackoverflow.com/questions/6117814/get-week-of-year-in-javascript-like-in-php
-function getWeekNumber(d) {
-    // Copy date so don't modify original
-    d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
-    // Set to nearest Thursday: current date + 4 - current day number
-    // Make Sunday's day number 7
-    d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
-    // Get first day of year
-    var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
-    // Calculate full weeks to nearest Thursday
-    var weekNo = Math.ceil(( ( (d - yearStart) / 86400000) + 1)/7);
-    // Return array of year and week number
-    return [d.getUTCFullYear(), weekNo];
+for (var i = 0; i < posts.length ; i++){
+    var days_since_mon = Math.floor((Date.parse(posts[i].date) - firstmonday) / 8.64e7);
+    var week_num = Math.floor(days_since_mon / 7) + 1;
+    console.log(days_since_mon);
+    console.log(week_num);
+    console.log(Math.floor((Date.parse(posts[i].date) - firstmonday) / 7) + 1)
 }
+
+*/
+
+
+
+
 </script>
+
+
+
+
+
