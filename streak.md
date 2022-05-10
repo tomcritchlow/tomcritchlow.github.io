@@ -83,8 +83,11 @@ var object = {};
 posts.push({"title":"{{post.title | escape}}","date":"{{post.date | date: "%Y-%m-%d"}}","week":"{{post.date | date: '%W'}}","year":"{{post.date | date: '%Y'}}"});
 {% endfor %}
 
-if(posts[0].week - getWeekNumber(today)[1] < 2){
+if(getWeekNumber(today)[1] - posts[0].week < 2){
   console.log("Week numbers within one");
+  for(var i = 0; i < posts.length; i++){
+    console.log(getWeekNumber(today)[1] - posts[i].week);
+  }
 }
 
 
