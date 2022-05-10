@@ -1,8 +1,4 @@
----
----
-
-
-<div id="streak"></div>
+<div id="streak" class="black-50"></div>
 
 
 <script>
@@ -44,14 +40,9 @@ if (today_week_num - latest_week_num < 2){
 console.log("Streak "+streak)
 
 if(streak > 0){
-  document.getElementById("streak").innerHTML = streak;
+  document.getElementById("streak").innerHTML = "<span class='ttu newgreen ibmplexmono'>STREAK</span> New posts for "+streak+" consecutive weeks";
 };
 
 
 
 </script>
-
-
-
-
-
