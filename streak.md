@@ -75,12 +75,24 @@ Now: {{nowunix}}
 
 <script>
 
+var today = Date.parse(new Date());
 var posts = [];
 
 {% for post in site.posts %}
 var object = {};
-posts.push({"title":"{{post.title | escape}}","week":"{{post.date | date: '%W'}}","year":"{{post.date | date: '%Y'}}"});
+posts.push({"title":"{{post.title | escape}}","date":"{{post.date | date: "%Y-%m-%d"}}","week":"{{post.date | date: '%W'}}","year":"{{post.date | date: '%Y'}}"});
 {% endfor %}
+
+if(posts[0].week == getWeekNumber(today)[1]){
+  console.log("Week numbers match");
+}
+
+
+var result = getWeekNumber(new Date());
+console.log('It\'s currently week ' + result[1] + ' of ' + result[0]);
+
+
+
 
 // From here: https://stackoverflow.com/questions/6117814/get-week-of-year-in-javascript-like-in-php
 function getWeekNumber(d) {
@@ -96,8 +108,4 @@ function getWeekNumber(d) {
     // Return array of year and week number
     return [d.getUTCFullYear(), weekNo];
 }
-
-var result = getWeekNumber(new Date());
-console.log('It\'s currently week ' + result[1] + ' of ' + result[0]);
-
 </script>
