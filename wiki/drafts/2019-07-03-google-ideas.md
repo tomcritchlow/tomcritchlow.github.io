@@ -25,6 +25,8 @@ This was *obviously* a good idea - for teams "all in" on Google Docs / Drive / G
 
 I think it was so *obviously* a good idea. Google has since launched Google WorkSpaces that achieve some of the same goals but frankly 
 
+There were some nice touches I remember. For example: every project would have it's own email alias - which would be a full gmail account that any member can send/receive from. Creating a kind of transparent-by-default email address. Not only useful for transparency within the team, but also useful for collaborating with external teams / partners. I guess this is like an over-engineered version of shared slack channels ha! Overall I think this was a clunky - not chat focused enough version of Slack, with Google docs / drive embedded at it's core.
+
 **How I pitched it**: hallway conversations with execs (I recall one SVP pulling me aside and telling me to work on this instead of everything else, but.. not to tell anyone).
 
 **Why it failed**: Well, aside from the loooooong history of Google fumbling the ball with real-time chat products.... I think there's two reasons it failed. Firstly I was pitching it inside the Google Creative Lab and the lab hated working on anything that wasn't consumer facing (this was mostly before the consumerization of the B2B landscape - remember Slack kind of pioneered that movement).
