@@ -4,74 +4,6 @@
 
 <div id="streak"></div>
 
-<script>
-
-var firstmonday = Date.parse("2000-02-14"); // from matt webb code? https://gist.github.com/genmon/c75480d3e525b43c2e1e135d7cbb697f
-const msPerDay = 24 * 60 * 60 * 1000;
-
-var today = Date.parse(new Date());
-
-
-var stringdates = [{% for post in site.posts %}"{{post.date | date: "%Y-%m-%d"}}"{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}];
-
-var weeknumbers = []
-
-weeknumbers.push(Math.floor(((today - firstmonday)/msPerDay) / 7) + 1)
-
-for (let i = 0; i < (stringdates.length); i++) {
-  weeknumbers.push(Math.floor(((Date.parse(stringdates[i]) - firstmonday)/msPerDay) / 7) + 1);
-}
-
-var streak = 0;
-
-for (let i = 0; i < (weeknumbers.length); i++) {
-  if(weeknumbers[i] - weeknumbers[i+1] < 2){
-    streak += weeknumbers[i] - weeknumbers[i+1];
-  }else{
-    break;
-  }
-}
-
-if(streak > 0){
-  streak += 1;
-  document.getElementById("streak").innerHTML = streak;
-};
-
-</script>
-
-Visualize blogging streak somehow like this?
-
-⬜⬜⬜⬜⬜⬜⬜
-⬜⬜🟩⬜⬜⬜⬜
-⬜🟩🟩⬜⬜⬜⬜
-⬜🟩🟩⬜⬜⬜⬜
-🟩🟩🟩⬜⬜⬜⬜
-🟩🟩🟩⬜🟩⬜⬜
-⬜⬜⬜⬜⬜⬜⬜
-⬜⬜🟨⬜⬜⬜⬜
-
-
-
-Now: {{nowunix}}
-
-{% for post in site.posts %}
-
-{{post.title}} - {{post.date | date: "%Y-%m-%d"}} - {{post.date | date: '%s'}}
-
-{% endfor %}
-
---
-
-{% assign postsByWeek = site.posts | group_by_exp:"post", "post.date | date: '%W, %Y' " %}
-
-{% for week in postsByWeek %}
-<h1>{{ week.name }}</h1>
-<ul>
-{% for post in week.items %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-{% endfor %}
 
 <script>
 var firstmonday = Date.parse("2022-01-03");
@@ -94,10 +26,9 @@ posts.push({"title":"{{post.title | escape}}","date":"{{post.date | date: "%Y-%m
 var today_week_num = getWeekNum(today);
 var latest_week_num = getWeekNum(posts[0].date);
 
-var streak = 0;
 
 if (today_week_num - latest_week_num < 2){
-
+  var streak = 1;
   for (var i = 0; i < posts.length ; i++){
     if(getWeekNum(posts[i].date) - getWeekNum(posts[i+1].date) == 0){
 
@@ -112,23 +43,10 @@ if (today_week_num - latest_week_num < 2){
 
 console.log("Streak "+streak)
 
-/*
-var latest_days_mon = Math.floor((Date.parse(posts[0].date) - firstmonday) / 8.64e7);
-var latest_week_num = Math.floor(latest_days_mon / 7) + 1;
-var today_days_mon = Math.floor((Date.parse(today) - firstmonday) / 8.64e7);
-var today_week_num = Math.floor(today_days_mon / 7) + 1;
-
-
-for (var i = 0; i < posts.length ; i++){
-    var days_since_mon = Math.floor((Date.parse(posts[i].date) - firstmonday) / 8.64e7);
-    var week_num = Math.floor(days_since_mon / 7) + 1;
-    console.log(days_since_mon);
-    console.log(week_num);
-    console.log(Math.floor((Date.parse(posts[i].date) - firstmonday) / 7) + 1)
-}
-
-*/
-
+if(streak > 0){
+  streak += 1;
+  document.getElementById("streak").innerHTML = streak;
+};
 
 
 
