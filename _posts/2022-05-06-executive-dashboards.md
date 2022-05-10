@@ -179,3 +179,9 @@ Maybe dashboards and strategic plans need to be more closely entwined?
 *Update #1*: Some good links posted on twitter:
 - Daniel Schmidt, CEO of Doubleloop wrote about ["Flat metrics dashboards"](https://www.linkedin.com/feed/update/urn:li:activity:6922587274954125313/)
 - Consultant Andrew Bartholomew wrote [Good Dashboard, Bad Dashboard](https://www.abartholomew.com/writing/good-dashboard-bad-dashboard)
+
+--
+
+*Update #2*: Some great links here, Clare's talk is great:
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">It’s an emotional need rather than a functional one. I call it the executive safety blanket. <a href="https://t.co/rwoRZcjsrg">https://t.co/rwoRZcjsrg</a><br><br>Clare Gollnick’s talk about dashboards points to why:<a href="https://t.co/YTUDED0Ibn">https://t.co/YTUDED0Ibn</a></p>&mdash; Chris Butler (@chrizbot) <a href="https://twitter.com/chrizbot/status/1522654386404556800?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
