@@ -75,7 +75,7 @@ Now: {{nowunix}}
 
 <script>
 
-var today = Date.parse(new Date());
+var today = new Date();
 var posts = [];
 
 {% for post in site.posts %}
@@ -83,8 +83,8 @@ var object = {};
 posts.push({"title":"{{post.title | escape}}","date":"{{post.date | date: "%Y-%m-%d"}}","week":"{{post.date | date: '%W'}}","year":"{{post.date | date: '%Y'}}"});
 {% endfor %}
 
-if(posts[0].week == getWeekNumber(today)[1]){
-  console.log("Week numbers match");
+if(posts[0].week - getWeekNumber(today)[1] < 2){
+  console.log("Week numbers within one");
 }
 
 
