@@ -106,9 +106,9 @@ Still, even today I think if Google launched a serious real-time collaborative d
 
 **The idea:** Ok, this one might not have been very practical but weirdly was perhaps my most promising idea. Basically it was a little device (we sketched it as a little black cube) that could sit on your kitchen table - it had voice commands and it had a tiny short throw projector so that it could project light onto the surface around it. Combined with vision recognition this allowed the device to project a basic UI onto a surface and let you speak and tap to interact with it.
 
-This was heavily inspired by the work [Berg had just done for Google on smart lamps](http://berglondon.com/blog/2012/12/19/lamps/).
+This was heavily inspired by the work [Berg had just done for Google on smart lamps](http://berglondon.com/blog/2012/12/19/lamps/). In some sense adding the voice & document scanning was just a practical application that allowed all of the cool Berg work to come to life.
 
-Honestly in hindsight I'm not quite sure how I missed the idea of a speaker. I'm an idiot I guess - when Alexa launched a few months later I was like "oooooh right of course you just want to talk to it, that's 95% of the value". Still, I still like the idea of projecting light onto a surface. Some things this device could do beyond respond to audio controls:
+Honestly in hindsight I'm not quite sure how I missed the idea of a speaker. I'm an idiot I guess - when Alexa launched a few months later I was like *"oooooh right of course you just want to talk to it, and play music, that's 95% of the value"*. Still, I still like the idea of projecting light onto a surface. Some things this device could do beyond respond to audio controls:
 
 - Scan documents (projecting light to the corners of the document so you know it's capturing correctly)
 - Project UI controls onto a surface so you don't need to talk to it all the time
