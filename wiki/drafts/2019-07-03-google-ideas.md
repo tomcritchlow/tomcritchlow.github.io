@@ -15,7 +15,9 @@ This is one part nostalgia, and one part recording the ideas on my blog for hist
 
 [^lawyers]: Hopefully enough time has passed that no Gogole lawyers come after me...
 
-Note that I worked on a bunch of other stuff while I was at Google, and my job was not to come up with novel Google products all day long (which probably explains most of why these all went nowhere!) - but these were ideas that were mine and I tried to get them off the ground.
+Note that I worked on a bunch of other stuff while I was at Google[^dayjob] but these were ideas that were mine and I tried to get them off the ground.
+
+[^dayjob]: Worth noting also that it wasn't my job to sit around all day and dream up new products which probably explains a lot of why I had a hard time convincing people to care about them...
 
 ## Idea 1 - Google Workspace
 
