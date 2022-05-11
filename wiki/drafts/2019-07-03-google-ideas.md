@@ -4,7 +4,10 @@ title: Reflecting on things I failed to get done at Google
 subtitle: A meditation on corporate frustration & autonomy
 ---
 
-I'm kind of obsessed with how to get buy-in for your ideas.
+I'm kind of obsessed with how to get buy-in for your ideas[^exhibit].
+
+[^exhibit]: - Exhibit A: My [book on independent consulting](https://tomcritchlow.com/strategy/)
+- Exhibit B: My [SEO MBA online course in executive communication](https://seomba.com/executive-presence/)
 
 - Exhibit A: My [book on independent consulting](https://tomcritchlow.com/strategy/)
 - Exhibit B: My [SEO MBA online course in executive communication](https://seomba.com/executive-presence/)
@@ -17,7 +20,7 @@ All of these were ideated and pitched internally sometime 2012-2014 while I was 
 
 ## Idea 1 - Google Workspace
 
-### *Collaborate on projects, not just docs*
+*"Collaborate on projects, not just docs"*
 
 **The idea**: A workspace for Google teams, combining Google+ streams, Gmail and Drive into one unified experience. Somewhere between Basecamp and Slack. This was *just* before Slack launched (Slack launched in 2013) and frankly I think it was a bit ahead of it's time.
 
@@ -39,7 +42,7 @@ If you look at Google Workspaces - it's actually a fairly faithful execution of 
 
 ## Idea 2 - Google Maps Search 2.0
 
-### *Use maps to search, not just directions*
+*"Use maps to search, not just directions"*
 
 **The idea**: let you search for "things" on Google maps, not just places. Still today in 2019 when you search on Google Maps for something like "HDMI cable" or "Lamb Tagine" or "Comedy night" you get businesses and places as results - not the objects, events or information you were looking for. This is a self-fulfilling prophecy because if those searches don't work then people don't search for them and so on.
 
@@ -60,7 +63,7 @@ I actually wish I'd pitched this more strongly *outside* the Creative Lab. WIth 
 
 ## Idea 3 - Google Illustrator
 
-### *A Google design tool with real time collaboration in your browser*
+*"A Google design tool with real time collaboration in your browser"*
 
 A vector based canvas model. This was before the collaborative design tools like invision, figma etc.
 
@@ -77,7 +80,7 @@ In hindsight the pitch goes something like:
 
 ## Idea 4 - Google Cube
 
-### *A physical assistant that can project light and scan docs*
+*"A physical assistant that can project light and scan docs"*
 
 Ok ok, this one might not have been the most practical based on Lamps http://berglondon.com/blog/2012/12/19/lamps/ it was a little cute cube that would sit on your kitchen / living counter in your home and would do two things. Scan paperwork that you put next to it and also project information onto a surface. Basically a short throw projector combined with camera.
 
