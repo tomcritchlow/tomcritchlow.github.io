@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Reflecting on things I failed to get done at Google
-subtitle: And what I can learn going forward about pitching new things
+subtitle: A meditation on corporate frustration & autonomy
 ---
 
 I'm kind of obsessed with how to get buy-in for your ideas.
@@ -16,6 +16,8 @@ This is one part nostalgia, and one part recording the ideas on my blog (now tha
 All of these were ideated and pitched internally sometime 2012-2014 while I was working at Google Creative Lab or as part of the Google Jamboard team.
 
 ## Idea 1 - Google Workspace
+
+### *Collaborate on projects, not just docs*
 
 **The idea**: A workspace for Google teams, combining Google+ streams, Gmail and Drive into one unified experience. Somewhere between Basecamp and Slack. This was *just* before Slack launched (Slack launched in 2013) and frankly I think it was a bit ahead of it's time.
 
@@ -37,7 +39,11 @@ If you look at Google Workspaces - it's actually a fairly faithful execution of 
 
 ## Idea 2 - Google Maps Search 2.0
 
+### *Use maps to search, not just directions*
+
 **The idea**: let you search for "things" on Google maps, not just places. Still today in 2019 when you search on Google Maps for something like "HDMI cable" or "Lamb Tagine" or "Comedy night" you get businesses and places as results - not the objects, events or information you were looking for. This is a self-fulfilling prophecy because if those searches don't work then people don't search for them and so on.
+
+You could argue that Google Maps isn't really designed to be used that way? But I think that's a stupid argument - I bet a TON of people search like that and expect Google to just figure it out - AND my argument is that IF you encouraged people to search this way you'd open up a TON more commercial search intent inside Google Maps - thus driving more Google Maps ad spend.
 
 **How I pitched it**: I pitched it in two ways. Firstly by building an actual MVP. I'm still surprised I pulled this off but I built a working prototype in Google Sheets using scripts to basically first run a Google Maps search, then find all the websites for the listings and then search each of the websites for the keyword used and then filter the results. It actually worked pretty well which I was amazed by and the underlying technology was simple - just combining the Google Maps places info with the Google Search crawl info of what was available. The second way I pitched it was by a very rough market sizing of the ad opportunity on Google Maps and how that would be dramatically expanded if we could shift consumer behaviour from searching for places (where relevance for ads is low) to searching for things (where relevance for ads is high).
 
@@ -54,6 +60,8 @@ I actually wish I'd pitched this more strongly *outside* the Creative Lab. WIth 
 
 ## Idea 3 - Google Illustrator
 
+### *A Google design tool with real time collaboration in your browser*
+
 A vector based canvas model. This was before the collaborative design tools like invision, figma etc.
 
 Figma wouldn't launch for another 4 years and 
@@ -68,6 +76,8 @@ In hindsight the pitch goes something like:
 2. Imagine how much a *design* tool inside Google Docs suite would have improved the image and reputation for Google Docs? 
 
 ## Idea 4 - Google Cube
+
+### *A physical assistant that can project light and scan docs*
 
 Ok ok, this one might not have been the most practical based on Lamps http://berglondon.com/blog/2012/12/19/lamps/ it was a little cute cube that would sit on your kitchen / living counter in your home and would do two things. Scan paperwork that you put next to it and also project information onto a surface. Basically a short throw projector combined with camera.
 
