@@ -17,7 +17,7 @@ This is one part nostalgia, and one part recording the ideas on my blog for hist
 
 Note that I worked on a bunch of other stuff while I was at Google[^dayjob] but these were ideas that were mine and I tried to get them off the ground.
 
-[^dayjob]: Worth noting also that it wasn't my job to sit around all day and dream up new products which probably explains a lot of why I had a hard time convincing people to care about them...
+[^dayjob]: It's worth noting that while it wasn't my job explicitly to come up with new ideas, it wasn't NOT my job either. In both roles there was a culture that encouraged "anyone to have ideas" - and I saw first hand lots of projects that started as a simple idea from a colleague or peer.
 
 ## Idea 1 - Google Workspace
 
@@ -47,9 +47,9 @@ If you look at what Google Workspaces is today - it's actually a fairly faithful
 
 ## Idea 2 - Google Maps Search 2.0
 
-*"Use maps to search, not just directions"*
+*"Use maps to search, not just navigate"*
 
-**The idea**: I remember one night at 9pm asking myself "where can I get a HDMI cable right now". Searching Google didn't give me the answer. Searching Google told me I had to walk a mile to best buy. But the next day I noticed that Rite Aid 100 yards from my apartment sold them. Huh. This was the kernel of an idea - that Google Maps could be a far more powerful search engine, especially for non-navigational queries - driving consumer adoption of commercial queries in Google Maps would in turn unlock a huge revenue potential in Google Maps ads (something that's still anemic in Google today).
+**The idea**: I remember one night at 9pm asking myself "where can I get a HDMI cable right now". Searching Google didn't give me the answer. Searching Google Maps told me I had to walk a mile to best buy. But the next day I noticed that Rite Aid 100 yards from my apartment sold them. Huh. This was the kernel of an idea - that Google Maps could be a far more powerful search engine, especially for non-navigational queries - driving consumer adoption of commercial queries in Google Maps would in turn unlock a huge revenue potential in Google Maps ads (something that's still anemic in Google today).
 
 The idea I mocked up was basically a reverse web-index, indexing not just the local businesses but indexing their websites too and letting you do keyword search across it. So e.g. if you search for "lamb tagine" Google Maps should find that item on the restaurant menu (they do that a little bit today, but didn't do this at all in 2012).
 
@@ -61,7 +61,7 @@ Now, you could argue that people don't search Google Maps that way - that people
 
 It actually worked pretty well which I was amazed by and the underlying technology was simple - just combining the Google Maps places info with the Google Search crawl info of what was available.
 
-**Why it failed**: The MVP worked remarkably well, but I *wish* I'd built a pretty front end on the prototype... Especially trying to get this idea through the stakeholders within the Creative Lab - every time I showed my spreadsheet prototype everyone laughed at me. The lab was so used to world class design output that they simply didn't know what to do with a spreadsheet prototype.
+**Why it failed**: The MVP worked remarkably well, but I *wish* I'd built a pretty front end on the prototype... Especially trying to get this idea through the stakeholders within the Creative Lab - every time I showed my spreadsheet prototype everyone laughed at me. The lab was so used to world class design that they simply didn't know what to do with a spreadsheet prototype.
 
 Today - I have the skills to build a front end design on top of the data but back then I didn't have the skills...
 
@@ -132,3 +132,5 @@ Anyway. I'm still wistful for what could have been. I think all these ideas had 
 4. Google Cube, pitched early 2014, Alexa launched Nov 2014
 
 I'm not really sure what to make of all that. Maybe my timing was just terrible? Or maybe my timing was amazing. Either way I certainly could have pitched some of these more strongly - it's a good reminder to actually put some conviction behind your ideas. At the time getting resistance felt like it shut the whole idea down but now, looking back I can see how I could have easily built out much more robust pitches and business cases for each of these.
+
+Anyway, thanks for coming to my therapy session.
