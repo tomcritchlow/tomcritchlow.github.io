@@ -3,7 +3,7 @@ layout: blog-sidebar-nav
 title: Notes
 ---
 
-*My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/).*
+*My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/). Quotes are styled using [Quotebacks](https://quotebacks.net/).*
 
 <div id="microblog"></div>
 
