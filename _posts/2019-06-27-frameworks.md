@@ -182,7 +182,7 @@ But it’s not obvious exactly why these dimensions were chosen on which to cate
 
 **The answer is that categorization is an expert skill**.
 
-You need to be able to comprehend an entire system to be able to categorize things effectively[experts].
+You need to be able to comprehend an entire system to be able to categorize things effectively[^experts].
 
 [^experts]: It seems there's a fair amount of academic research that backs this up and I found these great quotes: *'Experts notice features and meaningful patterns of information that are not noticed by novices.'* and *'Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is 'conditionalized' on a set of circumstances.'* Both of these from [How People Learn - Chapter: 2 How Experts Differ from Novices](https://www.nap.edu/read/9853/chapter/5)
 
