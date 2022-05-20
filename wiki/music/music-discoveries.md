@@ -4,8 +4,8 @@ layout: wikibook
 pinned: true
 books:
  
- - title: Dwig
-   author: Epic Dream
+ - title: Epic Dream
+   author: Vega Trails
    image: https://img.youtube.com/vi/dsmL-C19ebw/sddefault.jpg
    notes: Melodic saxophone and bass. In a church. Beautiful and haunting.
    href: https://www.youtube.com/watch?v=dsmL-C19ebw
