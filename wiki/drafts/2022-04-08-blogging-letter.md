@@ -4,6 +4,24 @@ subtitle: A letter
 layout: blog
 ---
 
+What is the annual GDP of blogging? That sounds like a studid question but let's take it seriously for a second.
+
+Blogging is this strange economic engine - specifically providing individuals economic freedom.
+
+How does the US government segment the economy?
+
+I would invest seriously, with a straight face into the blogging ecosystem. The blogging economic idea machine.
+
+
+
+
+https://nadia.xyz/idea-machines
+Substack creates visible succes as well as tech infrastructure.
+
+The (economic) idea machine of blogging 
+
+
+
 In response to: https://stripe.com/files/stripe-2021-update.pdf
 
 Blogging and internet writing powers economic freedom and optionality.

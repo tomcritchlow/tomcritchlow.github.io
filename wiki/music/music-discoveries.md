@@ -3,6 +3,12 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ 
+ - title: Dwig
+   author: Epic Dream
+   image: https://img.youtube.com/vi/dsmL-C19ebw/sddefault.jpg
+   notes: Melodic saxophone and bass. In a church. Beautiful and haunting.
+   href: https://www.youtube.com/watch?v=dsmL-C19ebw
  - title: Dwig
    author: Orange Evening
    image: https://img.youtube.com/vi/0RXdd0pCJ9Q/sddefault.jpg
