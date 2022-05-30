@@ -4,18 +4,18 @@ subtitle: Visible and invisible feedback loops
 layout: blog
 ---
 
-We think of blogging as being performative and public. It's easy to think that you can see what's happening - you read the posts, can see a feed of what's being written and so on.
+We think of blogging as being performative and public. It's easy to think that you can see what's happening - you read the posts, you can see a feed of what's being written and so on.
 
 But I'd argue that most of the value of blogging is invisible.
 
-In an age where comments have moved to social media, it's hard to see which posts are getting engagement, or who they're engaging.
+In an age where comments have moved to social media, it's hard to see which posts are getting engagement, or who they're getting engagement from.
 
 Take some of my latest posts for example:
 
 * [Reflecting on things I failed to get done at Google](https://tomcritchlow.com/2022/05/12/google-ideas/) has one comment on Commento and one annotation on Hypothesis. Not much to grapple with.
 * [Some Notes on Executive Dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) has a single comment on Commento.
 
-Both posts though have generated lots of fascinating discussions and connections. But it's all sub-surface.
+Both posts were big outliers though - one was on the homepage of Hacker News and one was re-shared in lots of design email lists. More than that - they both generated lots of fascinating discussions and connections. But it's all sub-surface.
 
 Yes, some of the conversation happens in semi-public spaces - places like Twitter or Hacker News. And there are tools that might help you uncover discussion and comments across the web, tools like:
 
