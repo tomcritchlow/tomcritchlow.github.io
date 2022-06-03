@@ -8,6 +8,8 @@ I've got a few friends on the cusp of independent life, either just about to lea
 
 So here's a half-baked thesis and possible blueprint for navigating indie life.
 
+🧭 🗺️ 🧭
+
 First, some core assumptions and insights:
 
 ## 1. Consulting can build cash freedom
@@ -58,7 +60,7 @@ Your first instinct is to think about capacity - to try and ask "how much work c
 
 Time, energy and money are three forces in constant tension. But energy is a stronger force than you think. Now that you're out on your own you need to build your own mix of projects, only some of which will be revenue generating. Feed your soul with the right balance and you'll be able to achieve so much more than narrowing your work too tightly. Importantly - don't judge your projects by "how cool they sound" or "how creative they seem" - focus specifically on what the work looks like day to day. Nourish yourself and cash and calendar freedom will follow.
 
-🗺️🗺️🗺️
+🧭 🗺️ 🧭
 
 Ok, so with those assumptions out the way, here's a map. It's not THE map, it's mostly MY map. But it's A map. And there aren't enough of those for indie careers so let's sketch this out together.
 
@@ -174,6 +176,6 @@ I'd love to tell you how this story ends but I'm at the edge of my own map. I'm 
 
 I think you steer in phase 5 by building sustainable wealth. Beyond cashflow, is your total wealth (physical, mental, family, economic) growing over time? Maybe in this phase you need to actually measure those things directly....
 
-🗺️🗺️🗺️
+🧭 🗺️ 🧭
 
 As I said up top - this isn't THE map. It's probably not even MY OWN - I probably fictionalized and mis-remembered my own experience. But I hope it's useful. Remember that change is a continuous process - and you have to look after yourself, because there's no safety net.
