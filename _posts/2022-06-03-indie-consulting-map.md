@@ -4,7 +4,7 @@ subtitle: Phase by phase, one foot in front of the other
 layout: blog
 ---
 
-I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit they're and trying to figure it out.
+I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit and they're and trying to figure it out.
 
 So here's a half-baked thesis and possible blueprint for navigating indie life.
 
@@ -60,7 +60,7 @@ Time, energy and money are three forces in constant tension. But energy is a str
 
 --
 
-Ok, so with those assumptions out the way, here's a map. It's not THE map, it's mostly MY map. But it's A map. And there aren't enough of those for indie careers so let's sketch this out together. It's a sketch and work in progress so I'm sure I'll figure out a better version but here we are for now.
+Ok, so with those assumptions out the way, here's a map. It's not THE map, it's mostly MY map. But it's A map. And there aren't enough of those for indie careers so let's sketch this out together.
 
 There's phases.
 
