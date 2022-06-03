@@ -64,6 +64,8 @@ Ok, so with those assumptions out the way, here's a map. It's not THE map, it's 
 
 There's phases.
 
+If I had to guess each phase is 9-18 months? But I bet that varies greatly.
+
 ## Phase 1: Making the leap, zero to one
 
 This phase typically starts just before you actually quit your job. Starting to think about going independent, trying to line up work for when you quit. This phase is defined by doing whatever it takes to send your first invoice without shattering your self-confidence and identity.
