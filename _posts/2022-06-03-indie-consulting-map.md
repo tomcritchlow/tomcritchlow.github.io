@@ -4,7 +4,7 @@ subtitle: Phase by phase, one foot in front of the other
 layout: blog
 ---
 
-I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit and they're and trying to figure it out.
+I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit and they're trying to figure it out.
 
 So here's a half-baked thesis and possible blueprint for navigating indie life.
 
