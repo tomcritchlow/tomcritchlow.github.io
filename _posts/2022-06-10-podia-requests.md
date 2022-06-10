@@ -68,4 +68,8 @@ This is a minor quibble but affiliate codes only work if you send traffic to a P
 
 Right now, you can bundle access to a course for people that buy access to a community. But you can't do the reverse. I'd like the ability to have a community hosted on Podia that is open to everyone who's purchased one of the courses. But right now I can't do that.
 
+## 9. DMCA & Scraper Support
+
+There's a bunch of platforms that scrape courses and re-sell them on the black market. I'd love some kind of automated detection of scraped course content and maybe like an easy copy/paste DMCA letter or something that you can send out. Would make playing whack-a-mole with these folks easier....
+
 Anyway - despite all that I've had a great experience with Podia, I'd def recommend them.

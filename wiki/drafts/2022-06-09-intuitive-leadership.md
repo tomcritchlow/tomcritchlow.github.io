@@ -36,3 +36,5 @@ So you need to strengthen your point of view and your "strategic leadership". Ho
 Some ideas:
 
 ## 1. 
+
+https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at?s=r
