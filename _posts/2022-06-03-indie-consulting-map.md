@@ -166,13 +166,13 @@ I'd love to tell you how this story ends but I'm at the edge of my own map. I'm 
 
 **Below the surface:**
 - What do you *really* want to spend your cash/calendar freedom on? Family? A startup? What kind of equity do you need to continue this for the next 15-20 years?
-- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://tomcritchlow.com/strategy/!). Remember to embed your real self in it.
+- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://tomcritchlow.com/strategy/!)). Remember to embed your real self in it.
 
 **Potential failure modes:**
 - Given your publishing and point of view you might feel comfortable adding new brands and deliberate products / consulting offerings. I think you have to be careful here. Early success isn't necessarily the same thing as launching something you can sustain.
 - If you're spending a lot of your calendar freedom on something totally unrelated to your consulting work then you will feel disconnected from the work. I'm guessing the right answer is to deliberately dive into a specific area/topic and understand it more deeply than anyone else. What can you be a world class expert in? Be sure to include things you're *actually* interested in here.
 - Can you legitimately say no to phase 4 work? What does phase 5 work look like? Don't know the answer to this.
-- If you bite off a big creative / ego project like writing a book, be careful of stalling out. Investing a significnt amount of time into something that doesn't see the light of day can cripple your self confidence.
+- If you bite off a big creative / ego project like writing a book, be careful of stalling out. Investing a significant amount of time into something that doesn't see the light of day can cripple your self confidence.
 
 I think you steer in phase 5 by building sustainable wealth. Beyond cashflow, is your total wealth (physical, mental, family, economic) growing over time? Maybe in this phase you need to actually measure those things directly....
 
