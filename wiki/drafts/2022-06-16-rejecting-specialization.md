@@ -124,9 +124,10 @@ Instead, what senior clients want from a consulting engagement is not just skill
 Earlier I referenced that great positioning is hard and that you’re more likely to arrive at a mediocre positioning. It’s worth acknowledging that great positioning can actually be generative and open doors to senior, ambiguous work. But it’s very much the exception, not the rule.
 
 <div class="example" markdown="1">
-Example: Andy Raskin is a consultant specializing in “strategic narrative”. His website says:
+Example: [Andy Raskin](https://andyraskin.com/) is a consultant specializing in “strategic narrative”. His website says:
 
 > CEO ENGAGEMENTS: ALIGN YOUR LEADERSHIP TEAM AROUND A STRATEGIC NARRATIVE
+
 > In these engagements, I help venture-backed CEOs and their leadership teams align around a high-level story that powers success—in sales, marketing, fundraising, product development and recruiting—by getting everyone on the same page about strategy and differentiation.
 
 This is a rare breed of specializing - that allows you to both define your audience and your work while still leaving room to drive a bus through in terms of how this work is actually delivered.
@@ -135,12 +136,12 @@ You easily imagine how this specialization allows for senior, ambiguous work tha
 
 But - you have to ask yourself carefully if you’re able to create this kind of senior and ambiguous specialization… Most can’t.
 
-(And as we’ll see later much of Andy’s success is due to his strong opinions, not just his positioning)
+(And as we’ll see later much of Andy’s success is due to his [strong opinions](https://www.linkedin.com/posts/andyraskin_i-peg-2015-as-the-tipping-point-for-strategic-activity-6874789767184289792-fOLl), not just his positioning)
 </div>
 
 So, if we’re rejecting specialization and mediocre narrow positioning - how do we generate clients? Getting a steady pipeline of clients still requires trust and visibility - but we can understand it better through this lens of ambiguous, senior work.
 
-Specifically, clients need trust that you can navigate the ambiguity reliably without close supervision. And you need to be visible, not just publicly but inside their inner circles. After all this senior ambiguous work often flows through dark leads in cozy spaces.
+Specifically, clients need trust that you can navigate the ambiguity reliably without close supervision. And you need to be visible, not just publicly but inside their inner circles. After all this senior ambiguous work often flows through [dark leads in cozy spaces](https://tomcritchlow.com/2020/12/10/weak-ties-strong-intros/).
 
 In the rest of this piece we’ll look at how strong opinions create the kind of trust and visibility required for senior, ambiguous work.
 
@@ -156,12 +157,13 @@ It turns out that having strong opinions with a distinctive vibe works remarkabl
 
 But, unlike specialization, strong opinions don’t narrow down your options or grind against your identity as a generalist. Strong opinions allow for divergent, generative futures.
 
-Example: My friend and fellow independent Behzod has a background in user research and instead of creating a strong specialization he covers all kinds of work related to user research under his studio moniker Yet Another Studio
+<div class="example" markdown="1">
+Example: My friend and fellow independent Behzod has a background in user research and instead of creating a strong specialization he covers all kinds of work related to user research under his studio moniker [Yet Another Studio](https://yetanother.studio/).
 
-He has strong opinions. He has developed a point of view on a contentious topic within the user research community - whether or not to democratize research. He takes a stand with a strong opinion: Democratization is our job.
+He has strong opinions. He has developed a point of view on a contentious topic within the user research community - whether or not to democratize research. He takes a stand with a strong opinion: [Democratization is our job](https://yetanother.studio/blog/democratization-is-our-job).
 
 This single piece (which started as a podcast talk, became a conference talk and then a blog post) has generated a ton of client work for him - leads that come to him well primed not for him to “do user research” but to “create a user research practice” - specifically the kind of senior, ambiguous work that is better paid and longer term than simply executing on a user research project.
-
+</div>
 
 Let’s take a closer look at how this works:
 
@@ -169,21 +171,23 @@ Let’s take a closer look at how this works:
 
 This might seem obvious but it’s important to restate it: strong opinions are what distribution is made of. Every independent consultant should be working in public in some form - it’s how you generate awareness, clients and visibility.
 
-But working in public is more than just publishing content - it’s about creating connections. We’ve explored before how working in public leads to expanded connections and how content drives leads even from weak ties. Working in public, producing content is about creating connections. About shaping your image in other people’s eyes. It’s how you build friends, collaborators, advocates and clients.
+But working in public is more than just publishing content - it’s about creating connections. We’ve explored before how [working in public leads to expanded connections](https://tomcritchlow.com/2019/03/12/strange-attraction/) and how [content drives leads even from weak ties](https://tomcritchlow.com/2020/12/10/weak-ties-strong-intros/). Working in public, producing content is about creating connections. About shaping your image in other people’s eyes. It’s how you build friends, collaborators, advocates and clients.
 
 The key of course is to make content that’s memorable and distinctive. In short: content that has a point of view. Whether it’s a clearly articulated point of view with a rational argument or just an aesthetic and vibe.
 
-Not sure how to start? Small-b blogging and blogpunk make a powerful combination.
+Not sure how to start? [Small-b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/) and [blogpunk](https://tomcritchlow.com/2019/05/17/blogpunk/) make a powerful combination.
 
-How do you tell if you’re doing it right? As you build your publishing practice the only measure is connections. How many conversations are you having because of the things you publish? Forget audience size, forget pageviews - focus on crafting your voice. Focus on building a voice that makes people want to have a dialogue.
+How do you tell if you’re doing it right? As you build your publishing practice the only measure is connections. How many conversations are you having because of the things you publish? Forget audience size, forget pageviews - focus on crafting your voice. **Focus on building a voice that makes people want to have a dialogue**.
 
 When you make the leap from full time employment to being independent you leave behind a lot of the traditional forms of authority - platforms are harder to access. When I worked for Distilled, an SEO agency I was speaking at 20-30 conferences a year. Since being independent I’ve spoken at… 4 conferences in 8 years? 
 
 Once the labels, platforms and access are taken away it’s much harder to create an audience, you need to create a voice for yourself.
 
+<div class="example" markdown="1">
 Example: Lindsey Slaby is an independent consultant working on ambiguous and senior level consulting projects in the ad agency world. Lindsey specifically works at the messy areas that others shy away from: contracts, pricing, contracting, agency roster selection and more.
 
-Over the years Lindsey has developed strong opinions about how the industry works, unafraid to shine a light on uncomfortable topics or take contrary positions. For example this piece on RFPs and why companies should be pitching agencies (when the received wisdom is that agencies should be pitching companies!)
+Over the years Lindsey has developed strong opinions about how the industry works, unafraid to shine a light on uncomfortable topics or take contrary positions. For example [this piece on RFPs](https://www.linkedin.com/posts/lindseyslaby_advertising-procurement-agencymanagement-activity-6760586187645296640-Ib4E/) and why companies should be pitching agencies (when the received wisdom is that agencies should be pitching companies!)
+</div>
 
 ## Consultant/Vibe Fit and Trust in Navigating Ambiguity
 
@@ -207,9 +211,9 @@ So prospective clients need to trust that you get not just how the industry work
 
 In short, vibe is how you find a good client/consultant fit.
 
-Building vibes is a different kind of work from specializing. You’re not just demonstrating expertise and competence but compatibility.
+Building vibes is a different kind of work from specializing. You’re not just demonstrating expertise and competence but ***compatibility***.
 
-In optimism as an operating system we explore the human side of consulting and the common trap of the negative consultant. As you think about exposing your vibe you need to think carefully about how to develop opinions that have a point of view without positioning yourself with the wrong kind of destabilizing energy.
+In [optimism as an operating system](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) we explore the human side of consulting and the common trap of the negative consultant. As you think about exposing your vibe you need to think carefully about how to develop opinions that have a point of view without positioning yourself with the wrong kind of destabilizing energy.
 
 So we’ve covered why specializing can be the wrong move, explored why having a point of view is useful for generating senior, ambiguous consulting work and why publishing and writing in public is the way to create a vibe that a client can trust and be compatible with.
 
@@ -219,7 +223,7 @@ But how do you develop a point of view? And in particular how do you do it authe
 
 Developing opinions is hard. Translating opinions into a credible point of view is even harder. Doing it without pissing people off is harder still!
 
-The good news is that, unlike specializing, developing opinions and crafting a point of view is an iterative, generative process - once you start trying out your voice there’s a feedback loop that helps you develop your voice and strengthen your point of view.
+The good news is that, unlike specializing, developing opinions and crafting a point of view is an **iterative, generative process** - once you start trying out your voice there’s a feedback loop that helps you develop your voice and strengthen your point of view.
 
 It’s hard to see which parts of your experience and opinions are distinctive and resonate without sharing them. In my experience, it’s rarely the big grand vision that people are attracted to but rather something more mundane and grounded - something that has a clarity and weight about it that is distinctive.
 
@@ -229,58 +233,58 @@ Let’s explore two different approaches to finding your voice and point of view
 
 This is a concept that Venkatesh created in his email newsletter Art of Gig. I’m quoting liberally from it because it’s no longer online (with Venkat’s permission):
 
-The top 3 articles of the hundreds I’ve written, in terms of how much they drove cold inbound leads for consulting gigs, are the following. What feature do you think they have in common?
+> The top 3 articles of the hundreds I’ve written, in terms of how much they drove cold inbound leads for consulting gigs, are the following. What feature do you think they have in common?
 
-The Gervais Principle (2009): A dark/satirical take on office politics and corporate sociopathy that went hugely viral back in the day.
-Entrepreneurs are the New Labor (2012): A cynical take on heroic valorization of founders, arguing that VCs are to founders as management to labor.
-Fat thinking and Economies of Variety (2016): A post arguing for fat startups and messy, wasteful, play-like innovation over “lean” thinking.
+>* The Gervais Principle (2009): A dark/satirical take on office politics and corporate sociopathy that went hugely viral back in the day.
+>* Entrepreneurs are the New Labor (2012): A cynical take on heroic valorization of founders, arguing that VCs are to founders as management to labor.
+> *Fat thinking and Economies of Variety (2016): A post arguing for fat startups and messy, wasteful, play-like innovation over “lean” thinking.
 
-It’s not that they are dark and satirical or contrarian. I’ve written other dark/satirical or contrarian things that led to no gigs.
+> It’s not that they are dark and satirical or contrarian. I’ve written other dark/satirical or contrarian things that led to no gigs.
 
-It’s not that they showcase deep expertise in a subject. They don’t. In fact they largely showcase my shallow, self-taught amateurishness on the underlying topics.
+> It’s not that they showcase deep expertise in a subject. They don’t. In fact they largely showcase my shallow, self-taught amateurishness on the underlying topics.
 
-It’s not that they offer step-by-step playbooks to solving the problems they frame. They don’t.
+> It’s not that they offer step-by-step playbooks to solving the problems they frame. They don’t.
 
-The correct answer is that they each pick a beef worth picking, but not too strongly.
+> The correct answer is that they each pick a beef worth picking, but not too strongly.
 
-The Gervais Principle picks a beef against feel-good “nice” management thinking that dominated the pop-business literature at the time (I helped drive the surge of interest in darker understandings of business circa 2009-12 I think).
+> The Gervais Principle picks a beef against feel-good “nice” management thinking that dominated the pop-business literature at the time (I helped drive the surge of interest in darker understandings of business circa 2009-12 I think).
 Entrepreneurs are the New Labor picks a beef against people in the tech sector shilling what has come to be known as “hustle porn” and flattering founders with a Hero self-image that blinds them to industry dynamics and debilitating behaviors.
 Fat Thinking picked a beef with the lean six-sigma crowd in big corporations, and the lean startup crowd in the startup scene.
 
-But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
+> But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
 
-They are what you might call “20% beef.” Where the starting point is rejecting some core sacred-cow axiom of a prevailing orthodoxy, and then building something new and interesting, based on additional ideas and novel elements, on that foundation of principled dissent. It is something like rejecting Euclid’s parallel line postulate and going out on a limb to see if you can build a non-Euclidean geometry.
+> They are what you might call “20% beef.” Where the starting point is rejecting some core sacred-cow axiom of a prevailing orthodoxy, and then building something new and interesting, based on additional ideas and novel elements, on that foundation of principled dissent. It is something like rejecting Euclid’s parallel line postulate and going out on a limb to see if you can build a non-Euclidean geometry.
 
-For example, the assumptions I rejected in my 3 articles above are:
+> For example, the assumptions I rejected in my 3 articles above are:
 
-Executives are nice and managers know what they’re doing (Gervais Principle)
-Entrepreneurs/founders are heroes (New Labor)
-Efficiency and optimization are good things (Fat Thinking)
+> * Executives are nice and managers know what they’re doing (Gervais Principle)
+> * Entrepreneurs/founders are heroes (New Labor)
+> * Efficiency and optimization are good things (Fat Thinking)
 
-So one good answer to how to bootstrap from 0 to 1 is: indie consultants bootstrap with beefs. It’s not the only way, and it’s certainly not the safest way, but it’s a fun way that is very intellectually satisfying and validating when it works, and is the opposite of soul-destroying and dehumanizing.
+> So one good answer to how to bootstrap from 0 to 1 is: indie consultants bootstrap with beefs. It’s not the only way, and it’s certainly not the safest way, but it’s a fun way that is very intellectually satisfying and validating when it works, and is the opposite of soul-destroying and dehumanizing.
 
 Venkatesh goes on to outline a bit of a “how-to”:
 
-Discovering and developing a genuine beef into an artful calling card that lands you gigs is hard work. That’s why it’s a costly signal. You can’t fake it by simple bullshitting.
+> Discovering and developing a genuine beef into an artful calling card that lands you gigs is hard work. That’s why it’s a costly signal. You can’t fake it by simple bullshitting.
 
-You have to put in the work of:
+> You have to put in the work of:
 
-Spotting a widespread pattern of disillusionment in the margins
-Identifying the prevailing orthodoxy driving the disillusionment
-Analyzing its foundations
-Rejecting one or more flawed premises driving the disillusionment
-Adding imaginative alternative premises
-Running with it to see where the whole thing can take you
-Becoming conscious of what and who you’re for and against
-Articulating it out there in public and standing behind it.
+> 1. Spotting a widespread pattern of disillusionment in the margins
+> 2. Identifying the prevailing orthodoxy driving the disillusionment
+> 3. Analyzing its foundations
+> 4. Rejecting one or more flawed premises driving the disillusionment
+> 5. Adding imaginative alternative premises
+> 6. Running with it to see where the whole thing can take you
+> 7. Becoming conscious of what and who you’re for and against
+> 8. Articulating it out there in public and standing behind it.
 
-[...] The work is hard not because it takes effort or time. None of those articles took me more than a couple of days to write. The work is hard because it takes a certain amount of courage and a good deal of taste. If you don’t feel a bit of an adrenaline rush, a sense of a fight-or-flight, a sense of burning bridges, while working on them, you’re not doing it right.
+> [...] The work is hard not because it takes effort or time. None of those articles took me more than a couple of days to write. The work is hard because it takes a certain amount of courage and a good deal of taste. If you don’t feel a bit of an adrenaline rush, a sense of a fight-or-flight, a sense of burning bridges, while working on them, you’re not doing it right.
 
-20% beefs are like proof of experience - you can’t properly beef with an established way of thinking without first deeply understanding the orthodoxy. And I think this is the root of the power of 20% beefs - they demonstrate taste, point of view and experience all in one.
+20% beefs are like **proof of experience** - you can’t properly beef with an established way of thinking without first deeply understanding the orthodoxy. And I think this is the root of the power of 20% beefs - they demonstrate taste, point of view and experience all in one.
 
 You can see how this recipe from Venkatesh is literally a playbook that you can follow - first through observing your own consulting work and the disillusionment that exists in the margins (from clients, fellow consultants etc) and then later from trying out some light rejections of the orthodoxy - both in private (with clients and potential clients) and in public (by blogging).
 
-This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to play the fool and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
+This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to [play the fool](https://tomcritchlow.com/2020/08/18/the-fool/) and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
 
 ## The Industry/Reality Gap
 20% beef is a recipe for developing a strong opinion - but it doesn’t really give you much insight into where to look. What kind of orthodoxy should you be analyzing and rejecting?
