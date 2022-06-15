@@ -64,10 +64,9 @@ Example: The obvious and “correct” positioning for my own consulting work sh
 But I also saw the SEO industry as a dead end for me personally. Not that SEO is doomed or irrelevant but it wasn’t the path I wanted to follow to ensure I was challenging myself, broadening my horizons and working on new creative challenges.
 
 This led to a lot of internal angst. Should I follow the standard path and do the work that I’m well known for and can comfortably deliver? Ultimately I decided to iterate my way out of SEO - to take the familiar SEO work to pay the bills in the early days but to aggressively pursue bigger, more strategic and more creative kinds of work. It took me 1-2 years to feel like I’d really “escaped SEO” and was on a new path to new kinds of work.
-</div>
 
 This kind of internal angst is very common - there’s a clear path to follow but it’s known and well understood. And you didn’t set out as an independent to follow paths you’ve already walked…
-
+</div>
 
 The biggest fear of independent consultants when specializing is not just that it will narrow your options - but that will take you down a path you already know.
 
@@ -86,13 +85,13 @@ You can separate most work into two buckets: well-defined and ambiguous.
 
 ![](/images/tight-positioning-triangles.svg)
 
-**Ambiguous work** on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like “how do I expand my business into a new country?” but an unclear solution. Or perhaps they have a problem “growth has stalled for our agency” and lack clarity about both what is causing the problem AND what a solution would look like.
+**Ambiguous work** on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like *“how do I expand my business into a new country?”* but an unclear solution. Or perhaps they have a problem *“growth has stalled for our agency”* and lack clarity about both what is causing the problem AND what a solution would look like.
 
 ![](/images/ambiguous-positioning-blob.svg)
 
 This distinction between well-defined and ambiguous work has a lot of implications…
 
-| Well Defined Work | Messy Ambiguous Work |
+| Well Defined Work | Ambiguous Work |
 |---|---|
 | Client has clarity of problem and solution | Client lacks clarity on problem and/or solution |
 | Requires strong positioning to capture | Requires vibes and point of view to capture |
@@ -107,21 +106,28 @@ This distinction between well-defined and ambiguous work has a lot of implicatio
 
 
 In short, not only is ambiguous work more fun and interesting - but it’s more senior. If you want to push into more senior work with long term well paid retainers, then you need to push into ambiguous work.
-All Senior Work is Ambiguous
+
+### All Senior Work is Ambiguous
+
 A VP of product or a CMO doesn’t get that role just because they are an expert in product management or an expert in marketing. They get that role because in addition to some product or marketing expertise they also have a blend of senior skills - across communication, leadership, management, vision and the ability to get things done.
 
 As you get more senior, the focus and emphasis on narrow domain skills gets replaced with a more ambiguous blend of skills and expertise, a kind of executive presence.
 
-The problem with a carefully crafted positioning is that it typically makes the wrong part efficient - it makes it easier for clients to hire you for well defined work. It allows greater legibility, trust and expertise around work which is well defined.
+The problem with a carefully crafted positioning is that it typically makes the wrong part efficient - it makes it easier for clients to hire you for well defined work. It allows greater legibility, trust and expertise around **work which is well defined**.
 
 This is a trap that I see many indie consultants back themselves into - through creating a narrow positioning they end up optimizing for lower quality client work. They increase their dealflow for clients, but only for smaller, less valuable and less senior clients. This results in ending up delivering a lot of routine work. It can fill your pipeline but leave your soul empty.
 
-Instead, what senior clients want from a consulting engagement is not just skills or expertise, it’s experience and momentum. They need to move their org in a direction that it’s currently resisting - and so they look to outside help to kickstart a new direction and provide fresh energy and momentum to get something new off the ground. (This is capacity building consulting like I’ve talked about before).
-Great positioning, if you can pull it off, can lead to ambiguous work
+Instead, what senior clients want from a consulting engagement is not just skills or expertise, it’s experience and momentum. They need to move their org in a direction that it’s currently resisting - and so they look to outside help to kickstart a new direction and provide fresh energy and momentum to get something new off the ground. (This is [capacity building consulting](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) like I’ve talked about before).
+
+### Great positioning, if you can pull it off, can lead to ambiguous work
+
 Earlier I referenced that great positioning is hard and that you’re more likely to arrive at a mediocre positioning. It’s worth acknowledging that great positioning can actually be generative and open doors to senior, ambiguous work. But it’s very much the exception, not the rule.
 
+<div class="example" markdown="1">
 Example: Andy Raskin is a consultant specializing in “strategic narrative”. His website says:
 
+> CEO ENGAGEMENTS: ALIGN YOUR LEADERSHIP TEAM AROUND A STRATEGIC NARRATIVE
+> In these engagements, I help venture-backed CEOs and their leadership teams align around a high-level story that powers success—in sales, marketing, fundraising, product development and recruiting—by getting everyone on the same page about strategy and differentiation.
 
 This is a rare breed of specializing - that allows you to both define your audience and your work while still leaving room to drive a bus through in terms of how this work is actually delivered.
 
@@ -130,7 +136,7 @@ You easily imagine how this specialization allows for senior, ambiguous work tha
 But - you have to ask yourself carefully if you’re able to create this kind of senior and ambiguous specialization… Most can’t.
 
 (And as we’ll see later much of Andy’s success is due to his strong opinions, not just his positioning)
-
+</div>
 
 So, if we’re rejecting specialization and mediocre narrow positioning - how do we generate clients? Getting a steady pipeline of clients still requires trust and visibility - but we can understand it better through this lens of ambiguous, senior work.
 
@@ -159,7 +165,7 @@ This single piece (which started as a podcast talk, became a conference talk and
 
 Let’s take a closer look at how this works:
 
-## 1. Publishing Strong Opinions Gives You Visibility
+## Publishing Strong Opinions Gives You Visibility
 
 This might seem obvious but it’s important to restate it: strong opinions are what distribution is made of. Every independent consultant should be working in public in some form - it’s how you generate awareness, clients and visibility.
 
@@ -179,7 +185,7 @@ Example: Lindsey Slaby is an independent consultant working on ambiguous and sen
 
 Over the years Lindsey has developed strong opinions about how the industry works, unafraid to shine a light on uncomfortable topics or take contrary positions. For example this piece on RFPs and why companies should be pitching agencies (when the received wisdom is that agencies should be pitching companies!)
 
-## 2. Consultant/Vibe Fit and Trust in Navigating Ambiguity
+## Consultant/Vibe Fit and Trust in Navigating Ambiguity
 
 More than raw distribution though, exposing your style and sensibility is important. Not just for standing out in the networks and generating dialogue and discussion - but also because senior, ambiguous consulting work relies on navigating a trust gap like no other.
 
@@ -191,7 +197,7 @@ For ambiguous work it’s not so easy. In this case the client is relying on the
 
 So trust is essential - but more than that you need to trust that the consultant will make the right decisions even faced with unknown unknowns. This kind of taste is hard to signal with a positioning statement. To develop this trust in someone without actively working with them before requires a strong understanding of the person’s point of view, which is why sharing your point of view in depth matters.
 
-## 3. Vibes & Destabilizing Energy
+## Vibes & Destabilizing Energy
 
 More than just trust however, ambiguous work requires a specific kind of energy. Consulting is about changing clients. You’re often an outsider, brought in to catalyze some kind of change that the client has been unable to change on their own. Playing this role of catalyst (or, said more strongly: destabilizer) is challenging. Push in the wrong direction and clients will reject you. Push too hard and the client will collapse into chaos.
 
@@ -299,9 +305,7 @@ Here’s a simple example to illustrate the point. In the SEO industry the commo
 
 Not only has every sufficiently large organization already received several SEO audits in the past from a variety of agencies and vendors but an SEO audit is also not the most effective way to drive change and achieve SEO goals. You can see how you could construct a 20% beef perspective for the SEO industry via rejecting SEO audits as a way of delivering work.
 
-
-
-Conclusion
+# Conclusion
 The short version of this post says that most indie consultants would be better off developing a vibe and a voice instead of trying to niche down. But obviously, to understand my vibe I needed a few thousand words to articulate it properly. Maybe you understand my perspective and vibe more clearly now?
 
 Developing a point of view is a long journey, and it’s not easy. But it’s a more forgiving path than specializing. Recently I’ve been toying with the idea of phases for indie consulting and you can see how the various phases align with how you notice, develop and share your point of view:
