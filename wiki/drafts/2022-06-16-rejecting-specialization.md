@@ -75,7 +75,8 @@ Instead, especially in the early days of consulting, you’re chasing the greate
 And it’s not just paying clients you’re chasing - you’re chasing senior clients paying good money for interesting work.
 
 ## The Hidden Price Ceiling of Specializing
-The problem with specializing is that if you do it wrong and create a mediocre positioning then you end up optimizing for well-defined work that’s less senior and less well paid.
+
+Good specializing is hard, because if you do it wrong you can end up trapping yourself. By creating a narrow positioning or specialization you make yourself more legible and understandable - you're essentially optimizing for well-defined work. And well-defined work is less senior, less well paid and less interesting.
 
 You can separate most work into two buckets: well-defined and ambiguous.
 
@@ -102,8 +103,7 @@ This distinction between well-defined and ambiguous work has a lot of implicatio
 | Clients can come from “cold” channels | Clients require warm intros and personal introductions |
 | Able to be decomposed into tasks that a team can tackle (i.e. agency is a good fit) | Hard to decompose into tasks so a good fit for a single individual (i.e. consultant is a good fit) |
 
-
-In short, not only is ambiguous work more fun and interesting - but it’s more senior. If you want to push into more senior work with long term well paid retainers, then you need to push into ambiguous work.
+In short, not only is ambiguous work more fun and interesting - but crucially, it’s more senior. If you want to push into more senior work with long term well paid retainers, then you need to push into ambiguous work.
 
 ### All Senior Work is Ambiguous
 
@@ -119,7 +119,7 @@ Instead, what senior clients want from a consulting engagement is not just skill
 
 ### Great positioning, if you can pull it off, can lead to ambiguous work
 
-Earlier I referenced that great positioning is hard and that you’re more likely to arrive at a mediocre positioning. It’s worth acknowledging that great positioning can actually be generative and open doors to senior, ambiguous work. But it’s very much the exception, not the rule.
+Let's acknowledge that great positioning and specialization *can* lead to ambiguous work. It's very rare to see this kind of specialization - it's very much the exception, not the rule. But let's take a look at an example.
 
 <div class="example" markdown="1">
 Example: [Andy Raskin](https://andyraskin.com/) is a consultant specializing in “strategic narrative”. His website says:
@@ -128,11 +128,9 @@ Example: [Andy Raskin](https://andyraskin.com/) is a consultant specializing in 
 
 > In these engagements, I help venture-backed CEOs and their leadership teams align around a high-level story that powers success—in sales, marketing, fundraising, product development and recruiting—by getting everyone on the same page about strategy and differentiation.
 
-This is a rare breed of specializing - that allows you to both define your audience and your work while still leaving room to drive a bus through in terms of how this work is actually delivered.
+This is a rare breed of specializing - that allows you to both define a senior audience and define the work, while still leaving room to drive a bus through in terms of how this work is actually delivered. Note that Andy's use of "strategic narrative" is essentially defining a proprietary approach and type of work.
 
-You easily imagine how this specialization allows for senior, ambiguous work that leads to ongoing retainers - I can imagine how this strategic narrative impacts every part of the organization so it could easily lead to all kinds of work.
-
-But - you have to ask yourself carefully if you’re able to create this kind of senior and ambiguous specialization… Most can’t.
+You easily imagine how this specialization allows for senior, ambiguous work that leads to ongoing retainers - I can imagine how this strategic narrative impacts every part of the organization so it could easily lead to all kinds of work. But - you have to ask yourself carefully if you’re able to create this kind of senior and ambiguous specialization… Most can’t.
 
 (And as we’ll see later much of Andy’s success is due to his [strong opinions](https://www.linkedin.com/posts/andyraskin_i-peg-2015-as-the-tipping-point-for-strategic-activity-6874789767184289792-fOLl), not just his positioning)
 </div>
