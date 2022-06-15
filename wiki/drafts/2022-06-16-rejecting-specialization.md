@@ -235,9 +235,9 @@ This is a concept that Venkatesh created in his email newsletter Art of Gig. I�
 
 > The top 3 articles of the hundreds I’ve written, in terms of how much they drove cold inbound leads for consulting gigs, are the following. What feature do you think they have in common?
 
->* The Gervais Principle (2009): A dark/satirical take on office politics and corporate sociopathy that went hugely viral back in the day.
->* Entrepreneurs are the New Labor (2012): A cynical take on heroic valorization of founders, arguing that VCs are to founders as management to labor.
-> *Fat thinking and Economies of Variety (2016): A post arguing for fat startups and messy, wasteful, play-like innovation over “lean” thinking.
+> * [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) (2009): A dark/satirical take on office politics and corporate sociopathy that went hugely viral back in the day.
+> * [Entrepreneurs are the New Labor](https://www.forbes.com/sites/venkateshrao/2012/09/03/entrepreneurs-are-the-new-labor-part-i/?sh=32d956774eab) (2012): A cynical take on heroic valorization of founders, arguing that VCs are to founders as management to labor.
+> * [Fat thinking and Economies of Variety](https://www.ribbonfarm.com/2016/07/28/fat-thinking-and-economies-of-variety/) (2016): A post arguing for fat startups and messy, wasteful, play-like innovation over “lean” thinking.
 
 > It’s not that they are dark and satirical or contrarian. I’ve written other dark/satirical or contrarian things that led to no gigs.
 
@@ -247,11 +247,10 @@ This is a concept that Venkatesh created in his email newsletter Art of Gig. I�
 
 > The correct answer is that they each pick a beef worth picking, but not too strongly.
 
-> The Gervais Principle picks a beef against feel-good “nice” management thinking that dominated the pop-business literature at the time (I helped drive the surge of interest in darker understandings of business circa 2009-12 I think).
-Entrepreneurs are the New Labor picks a beef against people in the tech sector shilling what has come to be known as “hustle porn” and flattering founders with a Hero self-image that blinds them to industry dynamics and debilitating behaviors.
+> * The Gervais Principle picks a beef against feel-good “nice” management thinking that dominated the pop-business literature at the time (I helped drive the surge of interest in darker understandings of business circa 2009-12 I think).
+> * Entrepreneurs are the New Labor picks a beef against people in the tech sector shilling what has come to be known as “hustle porn” and flattering founders with a Hero self-image that blinds them to industry dynamics and debilitating behaviors.
 Fat Thinking picked a beef with the lean six-sigma crowd in big corporations, and the lean startup crowd in the startup scene.
-
-> But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
+> * But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
 
 > They are what you might call “20% beef.” Where the starting point is rejecting some core sacred-cow axiom of a prevailing orthodoxy, and then building something new and interesting, based on additional ideas and novel elements, on that foundation of principled dissent. It is something like rejecting Euclid’s parallel line postulate and going out on a limb to see if you can build a non-Euclidean geometry.
 
