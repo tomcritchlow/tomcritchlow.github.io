@@ -138,14 +138,15 @@ Specifically, clients need trust that you can navigate the ambiguity reliably wi
 
 In the rest of this piece we’ll look at how strong opinions create the kind of trust and visibility required for senior, ambiguous work.
 
-Part 1: Strong Opinions
+# Part 1: Strong Opinions
+
 Let’s return to the goal: sustainable client leads for well paid work without sacrificing our personal identity or narrowing our focus.
 
 It turns out that having strong opinions with a distinctive vibe works remarkably well. Specifically:
 
-Strong opinions travel well - they’re designed for distribution and visibility in our networked age
-Strong opinions allow you to get good client/consultant fit for senior, ambiguous projects
-Strong opinions signal a creative energy that clients are looking for to catalyze change in their organization
+* Strong opinions travel well - they’re designed for distribution and visibility in our networked age
+* Strong opinions allow you to get good client/consultant fit for senior, ambiguous projects
+* Strong opinions signal a creative energy that clients are looking for to catalyze change in their organization
 
 But, unlike specialization, strong opinions don’t narrow down your options or grind against your identity as a generalist. Strong opinions allow for divergent, generative futures.
 
@@ -157,7 +158,9 @@ This single piece (which started as a podcast talk, became a conference talk and
 
 
 Let’s take a closer look at how this works:
-1. Publishing Strong Opinions Gives You Visibility
+
+## 1. Publishing Strong Opinions Gives You Visibility
+
 This might seem obvious but it’s important to restate it: strong opinions are what distribution is made of. Every independent consultant should be working in public in some form - it’s how you generate awareness, clients and visibility.
 
 But working in public is more than just publishing content - it’s about creating connections. We’ve explored before how working in public leads to expanded connections and how content drives leads even from weak ties. Working in public, producing content is about creating connections. About shaping your image in other people’s eyes. It’s how you build friends, collaborators, advocates and clients.
@@ -176,8 +179,8 @@ Example: Lindsey Slaby is an independent consultant working on ambiguous and sen
 
 Over the years Lindsey has developed strong opinions about how the industry works, unafraid to shine a light on uncomfortable topics or take contrary positions. For example this piece on RFPs and why companies should be pitching agencies (when the received wisdom is that agencies should be pitching companies!)
 
+## 2. Consultant/Vibe Fit and Trust in Navigating Ambiguity
 
-2. Consultant/Vibe Fit and Trust in Navigating Ambiguity
 More than raw distribution though, exposing your style and sensibility is important. Not just for standing out in the networks and generating dialogue and discussion - but also because senior, ambiguous consulting work relies on navigating a trust gap like no other.
 
 Having an opinion is like having taste. It demonstrates a sensibility and way of thinking that is key when a senior client is considering a consultant for a project.
@@ -187,7 +190,9 @@ As we outlined in the defined/ambiguous section - ambiguous work requires an ext
 For ambiguous work it’s not so easy. In this case the client is relying on the consultant to both diagnose the problem AND provide potential solutions. It’s often the case that the client is operating in unfamiliar territory and needs to simply trust the consultant in all kinds of ways. There’s no easy way to replace the consultant or verify the advice being given. Simply put, oftentimes the client (and sometimes consultant!) are operating outside of normal boundaries.
 
 So trust is essential - but more than that you need to trust that the consultant will make the right decisions even faced with unknown unknowns. This kind of taste is hard to signal with a positioning statement. To develop this trust in someone without actively working with them before requires a strong understanding of the person’s point of view, which is why sharing your point of view in depth matters.
-3. Vibes & Destabilizing Energy
+
+## 3. Vibes & Destabilizing Energy
+
 More than just trust however, ambiguous work requires a specific kind of energy. Consulting is about changing clients. You’re often an outsider, brought in to catalyze some kind of change that the client has been unable to change on their own. Playing this role of catalyst (or, said more strongly: destabilizer) is challenging. Push in the wrong direction and clients will reject you. Push too hard and the client will collapse into chaos.
 
 This delicate balance means that senior leaders need to know that you can put yourself in their shoes. Less like a vendor where they tell you what to do, and more like a peer that they can spar with.
@@ -204,8 +209,8 @@ So we’ve covered why specializing can be the wrong move, explored why having a
 
 But how do you develop a point of view? And in particular how do you do it authentically without resorting to cheap shots and portraying the wrong kind of negative destabilizing energy for potential clients?
 
+# Part 2: How to cultivate a point of view
 
-Part 2: How to cultivate a point of view
 Developing opinions is hard. Translating opinions into a credible point of view is even harder. Doing it without pissing people off is harder still!
 
 The good news is that, unlike specializing, developing opinions and crafting a point of view is an iterative, generative process - once you start trying out your voice there’s a feedback loop that helps you develop your voice and strengthen your point of view.
@@ -214,7 +219,7 @@ It’s hard to see which parts of your experience and opinions are distinctive a
 
 Let’s explore two different approaches to finding your voice and point of view: “20% beefs” and the gap between industry and practice.
 
-1. 20% Beefs
+## 1. 20% Beefs
 
 This is a concept that Venkatesh created in his email newsletter Art of Gig. I’m quoting liberally from it because it’s no longer online (with Venkat’s permission):
 
@@ -271,7 +276,7 @@ You can see how this recipe from Venkatesh is literally a playbook that you can 
 
 This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to play the fool and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
 
-2. The Industry/Reality Gap
+## 2. The Industry/Reality Gap
 20% beef is a recipe for developing a strong opinion - but it doesn’t really give you much insight into where to look. What kind of orthodoxy should you be analyzing and rejecting?
 
 Looking at successful examples of 20% beef we see that there’s a common theme of analyzing the gap between theory and industry. The unique vantage point that the consultant has is the vantage point across multiple clients - sometimes across multiple industries too.
