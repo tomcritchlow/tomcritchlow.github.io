@@ -1,10 +1,12 @@
 ---
 layout: tsi-chapter
 title: Rejecting Specialization
-subtitle: Developing vibes and voice to attract the right clients as an indie consultant
+subtitle: Developing vibes and voice to attract the right clients
 tags: strategy
 og: NBED
 ---
+
+
 
 NBED: There are broadly speaking two kinds of indie consultants that I respect. The first kind are well defined, tightly crafted where the work is clear and they seem successful. The second kind are weird, spikey and it’s not at all clear what kind of work they do.
 
@@ -14,18 +16,16 @@ Despite the first kind being capable of earning large sums of money it’s the s
 
 If you look around at common advice for indie consultants you’ll get told to specialize: to create a narrow definition of who you’re serving and what you offer. 
 
-You might think something like: “If only I could clearly articulate WHO my ideal clients are and WHAT they want, then I could figure out how to drive leads”.
+You might think something like: *“If only I could clearly articulate WHO my ideal clients are and WHAT they want, then I could figure out how to drive leads”*. There’s plenty of conventional wisdom that supports the idea that positioning and specialization are the keys to getting clients. As Philip Morgan says in his book [The Positioning Manual for Indie Consultants](https://philipmorganconsulting.com/positioning-manual/):
 
-There’s plenty of conventional wisdom that supports the idea that positioning and specialization are the keys to getting clients. As Philip Morgan says in his book The Positioning Manual for Indie Consultants:
-
-To get ahead with your consulting business, you need to create visibility in the market and earn enough trust to make selling easier. These two things, visibility and trust, are much easier to get if you SPECIALIZE in something, in some way.
+> To get ahead with your consulting business, you need to create visibility in the market and earn enough trust to make selling easier. These two things, visibility and trust, are much easier to get if you SPECIALIZE in something, in some way.
 
 Philip is right about trust and visibility being important. Trust is important because we want senior clients primed for strategy work. Visibility is important because we need clients to know us and find us.
 
-Philip isn’t exactly wrong about specializing - in theory specializing is the most viable way to create a steady stream of clients. But, in practice, I often see this path being the wrong option. The problem is that good specialization is exceptionally hard. And mediocre specialization has two core problems:
+Philip isn’t exactly wrong about specializing - in theory specializing is the most viable way to create a steady stream of clients. But, in practice, I often see this path being the **wrong option**. The problem is that good specialization is exceptionally hard. And mediocre specialization has two core problems:
 
-It attracts lower seniority, more clearly defined work that traps you in a mode of repeatable execution work
-It puts you in a well defined box that grinds against your identity
+1. It attracts lower seniority, more clearly defined work that traps you in a mode of repeatable execution work
+2. It puts you in a well defined box that grinds against your identity
 
 We think that the primary function of positioning is for the market - for clients to better discover and hire you. But I’d argue that positioning is primarily for the ego. It’s an inner game of figuring out who you feel comfortable being.
 
@@ -35,12 +35,12 @@ This anxiety is real. Feeling the peer pressure and established wisdom pushing y
 
 I’d like to reject the established wisdom and offer an alternative path.
 
-Yes, specializing is a viable path to generating clients. But only if you can stomach the tradeoffs and you can execute well. I’d argue that for most indie consultants, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
+Yes, specializing is a viable path to generating clients. But only if you can stomach the tradeoffs and you can execute well. I’d argue that ***for most indie consultants***, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
 
 
 I’m going to argue that taking a position - having a strong vibe and being opinionated - is equally effective at driving visibility and trust - and therefore clients. And unlike specializing it doesn’t require you to narrow your work but instead expands your possible futures.
 
-Why is Specializing Hard?
+## Why is Specializing Hard?
 The problem with the advice to specialize is that it’s not even wrong! The advice is correct - IF you can create a narrow positioning, if you can become a visible, trusted expert in a particular niche then you will attract clients. It will solve your problems.
 
 But it’s a big if…
@@ -58,11 +58,13 @@ You also have to navigate your personal identity and sense of self.
 
 This third hidden question is why specializing is so hard and even impossible for many independent consultants. Even if you can choose a specialization that meets the top two circles - something that you are good at that the market wants - can you reconcile that with your sense of identity? Can you craft an identity that you feel comfortable with, that gives you energy? Are you comfortable with who you might become?
 
+<div class="example" markdown="1">
 Example: The obvious and “correct” positioning for my own consulting work should have been some variation of SEO consulting. My history in the SEO industry meant that I had visibility and trust. I’d spoken at conferences all around the world, I’d worked with big brands.
 
 But I also saw the SEO industry as a dead end for me personally. Not that SEO is doomed or irrelevant but it wasn’t the path I wanted to follow to ensure I was challenging myself, broadening my horizons and working on new creative challenges.
 
 This led to a lot of internal angst. Should I follow the standard path and do the work that I’m well known for and can comfortably deliver? Ultimately I decided to iterate my way out of SEO - to take the familiar SEO work to pay the bills in the early days but to aggressively pursue bigger, more strategic and more creative kinds of work. It took me 1-2 years to feel like I’d really “escaped SEO” and was on a new path to new kinds of work.
+</div>
 
 This kind of internal angst is very common - there’s a clear path to follow but it’s known and well understood. And you didn’t set out as an independent to follow paths you’ve already walked…
 
