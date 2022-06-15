@@ -249,8 +249,9 @@ This is a concept that Venkatesh created in his email newsletter Art of Gig. I�
 
 > * The Gervais Principle picks a beef against feel-good “nice” management thinking that dominated the pop-business literature at the time (I helped drive the surge of interest in darker understandings of business circa 2009-12 I think).
 > * Entrepreneurs are the New Labor picks a beef against people in the tech sector shilling what has come to be known as “hustle porn” and flattering founders with a Hero self-image that blinds them to industry dynamics and debilitating behaviors.
-Fat Thinking picked a beef with the lean six-sigma crowd in big corporations, and the lean startup crowd in the startup scene.
-> * But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
+> * Fat Thinking picked a beef with the lean six-sigma crowd in big corporations, and the lean startup crowd in the startup scene.
+
+> But importantly, none of these is what you might call “pure beef” where the fight and criticism of an opposed perspective are the main focus or content.
 
 > They are what you might call “20% beef.” Where the starting point is rejecting some core sacred-cow axiom of a prevailing orthodoxy, and then building something new and interesting, based on additional ideas and novel elements, on that foundation of principled dissent. It is something like rejecting Euclid’s parallel line postulate and going out on a limb to see if you can build a non-Euclidean geometry.
 
