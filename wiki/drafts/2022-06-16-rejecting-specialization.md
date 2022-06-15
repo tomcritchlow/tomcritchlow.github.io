@@ -6,13 +6,13 @@ tags: strategy
 og: NBED
 ---
 
-There are two categories of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
+There are two types of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
 
-Then there are those who are... weirder. Less legible, harder to define. Folks who's website doesn't have a tight *"I do X for Y"*. These folks likely project a weird sensibility via their online writing and persona, building a body of work that points to a kind of vibe.
+Then there are those who are... weirder, less legible, harder to define. Folks who's website doesn't have a tight *"I do X for Y"*. These folks likely project a weird sensibility via their online writing and persona, building a body of work that points to a kind of vibe.
 
 It's easier to see from the outside when the first group is successful, and it's fairly easy to imagine what the work looks like. The second group is much less legible. Are they successful? What kind of work do they even do?
 
-There are plenty of success stories for the first group - lots of books, articles, podcasts and case studies. If you read around you might think that you follow in their footsteps, that this path is both more successful and easier.
+There are plenty of success stories for the first group - lots of books, articles, podcasts and case studies. If you read around you might think that you should follow in their footsteps, that this path is both more successful and easier.
 
 But I don't buy it. I've been an indie consultant for 8 years and have built a network and community of fellow indies. I've had many open and honest private conversations with indies about money, success and anxiety. Through these conversations I've come to two realizations:
 
@@ -25,36 +25,28 @@ So in this post I'm going to reject the commonly accepted wisdom and look at why
 
 If you look around at common advice for indie consultants you’ll get told to specialize: to create a narrow definition of who you’re serving and what you offer. 
 
-You might think something like: *“If only I could clearly articulate WHO my ideal clients are and WHAT they want, then I could figure out how to drive leads”*. There’s plenty of conventional wisdom that supports the idea that positioning and specialization are the keys to getting clients. As Philip Morgan says in his book [The Positioning Manual for Indie Consultants](https://philipmorganconsulting.com/positioning-manual/):
+You might think something like: *“If only I could clearly articulate WHO my ideal clients are and WHAT they want, then I could figure out how to drive leads”*. There’s plenty of conventional wisdom that supports this idea. As Philip Morgan says in his book [The Positioning Manual for Indie Consultants](https://philipmorganconsulting.com/positioning-manual/):
 
 > To get ahead with your consulting business, you need to create visibility in the market and earn enough trust to make selling easier. These two things, visibility and trust, are much easier to get if you SPECIALIZE in something, in some way.
 
 Philip is right about trust and visibility being important. Trust is important because we want senior clients primed for strategy work. Visibility is important because we need clients to know us and find us.
 
-Philip isn’t exactly wrong about specializing - in theory specializing is the most viable way to create a steady stream of clients. But, in practice, I often see this path being the **wrong option**. The problem is that good specialization is exceptionally hard. And mediocre specialization has two core problems:
+But specializing? Philip isn’t exactly wrong about specializing - in theory specializing is the most viable way to create a steady stream of clients. But, in practice, I often see this path being the **wrong option**. The problem is that good specialization is exceptionally hard. And mediocre specialization has two core problems:
 
 1. It attracts less senior, more tightly defined work that traps you in a mode of repeatable execution work
 2. It puts you in a well defined box that grinds against your identity
 
-We think that the primary function of positioning is for the market - for clients to better discover and hire you. But I’d argue that positioning is primarily for the ego. It’s an inner game of figuring out who you feel comfortable being.
+We think that the primary function of positioning is for the market - for clients to better discover and hire you. But I’d argue that positioning is primarily for your own ego. It’s an inner game of figuring out who you feel comfortable being, more than a driver of clients.
 
-Specifically, many independent consultants are generalists - trying to find interesting, more senior work. They crave an escape from the narrow confines of 9-5. And it’s incredibly difficult to reconcile a narrow positioning with your quest to be a senior generalist. This is a classic failure mode that I see time and time again: generalist indie consultants trying to fit themselves into a narrow positioning just to try and manufacture clients and in the process causing themselves stress, anxiety and ultimately burn out.
+Specifically, many independent consultants are generalists - trying to find interesting,  senior work. They crave an escape from the narrow confines of 9-5. And it’s incredibly difficult to reconcile a narrow specialization with your quest to be a senior generalist. This is a classic failure mode that I see time and time again: generalist indie consultants trying to fit themselves into a narrow positioning just to try and manufacture clients and in the process causing themselves stress, anxiety and ultimately burn out.
 
-This anxiety is real. Feeling the peer pressure and established wisdom pushing you down a path to specialize - despite the fact that it grinds against your identity. You feel like you “should” do it.
+This anxiety is real. Feeling the peer pressure and established wisdom pushing you down a path to specialize - despite the fact that it grinds against your identity. You feel like you “should” do it. But I’d argue that ***for most indie consultants***, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
 
-I’d like to reject the established wisdom and offer an alternative path.
-
-Yes, specializing is a viable path to generating clients. But only if you can stomach the tradeoffs and you can execute well. I’d argue that ***for most indie consultants***, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
-
-
-I’m going to argue that taking a position - having a strong vibe and being opinionated - is equally effective at driving visibility and trust - and therefore clients. And unlike specializing it doesn’t require you to narrow your work but instead expands your possible futures.
-
-## Why is Specializing Hard?
 The problem with the advice to specialize is that it’s not even wrong! The advice is correct - IF you can create a narrow positioning, if you can become a visible, trusted expert in a particular niche then you will attract clients. It will solve your problems.
 
-But it’s a big if…
+But it’s a big IF…
 
-The advice is not even wrong because most independent consultants can’t create a narrow positioning. The problem is that we think choosing a specialization and positioning is based on looking at the intersection of work we’re good at and what the market wants.
+The advice is not even wrong because most independent consultants ***can’t*** create a narrow positioning. The problem is that we think choosing a specialization and positioning is based on looking at the intersection of work we’re good at and what the market wants.
 
 
 
@@ -297,7 +289,7 @@ The trick is to look for advice that is “not even wrong” - advice that is co
 
 The consultant occupies a unique position being able to see both across multiple clients AND to see further inside client organizations than agencies can. By embedding yourself deeply inside client organizations and working with senior leaders you can see the real challenges they face and how they behave - you can get underneath the surface of “good sounding but useless” advice.
 
-
+![](/images/consultant-frame.svg)
 
 Here’s a simple example to illustrate the point. In the SEO industry the commonly accepted way of delivering SEO work is via SEO audits. It doesn’t take a genius to observe these SEO audits in practice to see that they’re commonly less than worthless.
 
