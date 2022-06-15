@@ -8,7 +8,7 @@ og: NBED
 
 There are two types of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
 
-Then there are those who are... weirder, less legible, harder to define. Folks who's website doesn't have a tight *"I do X for Y"*. These folks likely project a weird sensibility via their online writing and persona, building a body of work that points to a kind of vibe.
+Then there are those who are... weirder, less legible, harder to define. Folks who's website doesn't have a tight *"I do X for Y"*. These people likely project a weird sensibility via their online writing and persona, building a body of work that points to a kind of vibe.
 
 It's easier to see from the outside when the first group is successful, and it's fairly easy to imagine what the work looks like. The second group is much less legible. Are they successful? What kind of work do they even do?
 
@@ -38,7 +38,7 @@ But specializing? Philip isn’t exactly wrong about specializing - in theory sp
 
 We think that the primary function of positioning is for the market - for clients to better discover and hire you. But I’d argue that positioning is primarily for your own ego. It’s an inner game of figuring out who you feel comfortable being, more than a driver of clients.
 
-Specifically, many independent consultants are generalists - trying to find interesting,  senior work. They crave an escape from the narrow confines of 9-5. And it’s incredibly difficult to reconcile a narrow specialization with your quest to be a senior generalist. This is a classic failure mode that I see time and time again: generalist indie consultants trying to fit themselves into a narrow positioning just to try and manufacture clients and in the process causing themselves stress, anxiety and ultimately burn out.
+Specifically, many independent consultants are generalists - trying to find interesting,  senior work. They crave an escape from the narrow confines of 9-5, and it’s incredibly difficult to reconcile a narrow specialization with your quest to be a senior generalist. This is a classic failure mode that I see time and time again: generalist indie consultants trying to fit themselves into a narrow positioning just to try and manufacture clients and in the process causing themselves stress, anxiety and ultimately burn out.
 
 This anxiety is real. Feeling the peer pressure and established wisdom pushing you down a path to specialize - despite the fact that it grinds against your identity. You feel like you “should” do it. But I’d argue that ***for most indie consultants***, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
 
@@ -50,9 +50,7 @@ The advice is not even wrong because most independent consultants ***can’t*** 
 
 ![](/images/product-market-venn.svg)
 
-This is hard enough to do - especially in the early days of consulting when you don’t have enough work yet to really understand what you’re good at or what the market wants. And even once you start to figure out some kind of product/market fit for your consulting you start to uncover a third, hidden agenda.
-
-You also have to navigate your personal identity and sense of self.
+This is hard enough to do - especially in the early days of consulting when you don’t have enough work yet to really understand what you’re good at or what the market wants. But once you start to figure out some kind of product/market fit for your consulting you start to uncover a third, hidden agenda:
 
 ![](/images/product-market-true-venn.svg)
 
@@ -293,9 +291,9 @@ Looking at successful examples of 20% beef we see that there’s a common theme 
 
 Through the nature of being embedded inside organizations, consultants often get a richer, closer look at how things are actually working. This enables you to develop a more realistic view of “how things work” than either in-house folks (who get to see inside a limited number of companies) and agencies (who only get to see the surface level of their clients).
 
-Behzod’s example of “democratization is our job” was developed from first seeing how research operated inside Facebook and Slack and then from consulting with a range of other startups. It’s this view of “how things actually are” that allowed him to develop a beef.
+Behzod’s example of *“democratization is our job”* was developed from first seeing how research operated inside Facebook and Slack and then from consulting with a range of other startups. It’s this view of “how things actually are” that allowed him to develop a beef.
 
-Similarly, Lindsay Slaby’s perspective of “clients should pitch agencies” was developed from deep experience seeing how pitches actually work, and how much clients struggle to attract top quality talent - directly straddling the client/in-house divide and seeing the challenges from both sides.
+Similarly, Lindsay Slaby’s perspective of *“clients should pitch agencies”* was developed from deep experience seeing how pitches actually work, and how much clients struggle to attract top quality talent - directly straddling the client/in-house divide and seeing the challenges from both sides.
 
 In every industry there’s typically some kind of received wisdom that sounds like good rational advice but simply doesn’t hold up when faced with the realities of how companies operate.
 
@@ -312,7 +310,7 @@ Not only has every sufficiently large organization already received several SEO 
 # Conclusion
 The short version of this post says that most indie consultants would be better off developing a vibe and a voice instead of trying to niche down. But obviously, to understand my vibe I needed a few thousand words to articulate it properly. Maybe you understand my perspective and vibe more clearly now?
 
-Developing a point of view is a long journey, and it’s not easy. But it’s a more forgiving path than specializing. Recently I’ve been toying with the idea of phases for indie consulting and you can see how the various phases align with how you notice, develop and share your point of view:
+Developing a point of view is a long journey, and it’s not easy. But it’s a more forgiving path than specializing. Recently I’ve been toying with the idea of [phases for indie consulting](https://tomcritchlow.com/2022/06/03/indie-consulting-map/) and you can see how the various phases align with how you notice, develop and share your point of view:
 
 | Year | Phase  | Steer by | Find clients by | Point of view |
 |---|---|---|---|---|
