@@ -82,13 +82,13 @@ The problem with specializing is that if you do it wrong and create a mediocre p
 
 You can separate most work into two buckets: well-defined and ambiguous.
 
-Well defined work is the kind of recognizable work where the client has clarity around both the problem and solution. This is the kind of standardized work that you see agencies pitch - things like “content strategy”, “user research”, “SEO audit” or “website design”. Well defined work has clear naming and down this path you see work that has an RFP and multiple competing vendors.
+**Well defined work** is the kind of recognizable work where the client has clarity around both the problem and solution. This is the kind of standardized work that you see agencies pitch - things like “content strategy”, “user research”, “SEO audit” or “website design”. Well defined work has clear naming and down this path you see work that has an RFP and multiple competing vendors.
 
+![](/images/tight-positioning-triangles.svg)
 
+**Ambiguous work** on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like “how do I expand my business into a new country?” but an unclear solution. Or perhaps they have a problem “growth has stalled for our agency” and lack clarity about both what is causing the problem AND what a solution would look like.
 
-Ambiguous work on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like “how do I expand my business into a new country?” but an unclear solution. Or perhaps they have a problem “growth has stalled for our agency” and lack clarity about both what is causing the problem AND what a solution would look like.
-
-
+![](/images/ambiguous-positioning-blob.svg)
 
 This distinction between well-defined and ambiguous work has a lot of implications…
 
