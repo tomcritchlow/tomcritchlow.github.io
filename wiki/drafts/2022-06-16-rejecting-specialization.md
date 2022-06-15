@@ -6,13 +6,22 @@ tags: strategy
 og: NBED
 ---
 
+There are two categories of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
 
+Then there are those who are... weirder. Less legible, harder to define. Folks who's website doesn't have a tight *"I do X for Y"*. These folks likely project a weird sensibility via their online writing and persona, building a body of work that points to a kind of vibe.
 
-NBED: There are broadly speaking two kinds of indie consultants that I respect. The first kind are well defined, tightly crafted where the work is clear and they seem successful. The second kind are weird, spikey and it’s not at all clear what kind of work they do.
+It's easier to see from the outside when the first group is successful, and it's fairly easy to imagine what the work looks like. The second group is much less legible. Are they successful? What kind of work do they even do?
 
-Despite the first kind being capable of earning large sums of money it’s the second group I aspire to follow.
+There are plenty of success stories for the first group - lots of books, articles, podcasts and case studies. If you read around you might think that you follow in their footsteps, that this path is both more successful and easier.
 
+But I don't buy it. I've been an indie consultant for 8 years and have built a network and community of fellow indies. I've had many open and honest private conversations with indies about money, success and anxiety. Through these conversations I've come to two realizations:
 
+1. For many indie consultants who have deliberately rejected the 9-5 of full-time employment, trying to specialize and box yourself in is a path to burnout and failure
+2. This second group of weird indie consultants is often just as successful as the first group (if not more so) - they're just less vocal about it
+
+So in this post I'm going to reject the commonly accepted wisdom and look at why specializing is hard, why it fails and what an alternative path looks like. The answer lies in developing strong opinions and a distinctive vibe.
+
+## Why is Specializing Hard?
 
 If you look around at common advice for indie consultants you’ll get told to specialize: to create a narrow definition of who you’re serving and what you offer. 
 
@@ -24,7 +33,7 @@ Philip is right about trust and visibility being important. Trust is important b
 
 Philip isn’t exactly wrong about specializing - in theory specializing is the most viable way to create a steady stream of clients. But, in practice, I often see this path being the **wrong option**. The problem is that good specialization is exceptionally hard. And mediocre specialization has two core problems:
 
-1. It attracts lower seniority, more clearly defined work that traps you in a mode of repeatable execution work
+1. It attracts less senior, more tightly defined work that traps you in a mode of repeatable execution work
 2. It puts you in a well defined box that grinds against your identity
 
 We think that the primary function of positioning is for the market - for clients to better discover and hire you. But I’d argue that positioning is primarily for the ego. It’s an inner game of figuring out who you feel comfortable being.
@@ -77,7 +86,7 @@ Instead, especially in the early days of consulting, you’re chasing the greate
 
 And it’s not just paying clients you’re chasing - you’re chasing senior clients paying good money for interesting work.
 
-The Hidden Price Ceiling of Specializing
+## The Hidden Price Ceiling of Specializing
 The problem with specializing is that if you do it wrong and create a mediocre positioning then you end up optimizing for well-defined work that’s less senior and less well paid.
 
 You can separate most work into two buckets: well-defined and ambiguous.
