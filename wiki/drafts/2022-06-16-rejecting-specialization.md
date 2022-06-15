@@ -219,7 +219,7 @@ It’s hard to see which parts of your experience and opinions are distinctive a
 
 Let’s explore two different approaches to finding your voice and point of view: “20% beefs” and the gap between industry and practice.
 
-## 1. 20% Beefs
+## 20% Beefs
 
 This is a concept that Venkatesh created in his email newsletter Art of Gig. I’m quoting liberally from it because it’s no longer online (with Venkat’s permission):
 
@@ -276,7 +276,7 @@ You can see how this recipe from Venkatesh is literally a playbook that you can 
 
 This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to play the fool and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
 
-## 2. The Industry/Reality Gap
+## The Industry/Reality Gap
 20% beef is a recipe for developing a strong opinion - but it doesn’t really give you much insight into where to look. What kind of orthodoxy should you be analyzing and rejecting?
 
 Looking at successful examples of 20% beef we see that there’s a common theme of analyzing the gap between theory and industry. The unique vantage point that the consultant has is the vantage point across multiple clients - sometimes across multiple industries too.
