@@ -48,14 +48,13 @@ But it’s a big IF…
 
 The advice is not even wrong because most independent consultants ***can’t*** create a narrow positioning. The problem is that we think choosing a specialization and positioning is based on looking at the intersection of work we’re good at and what the market wants.
 
-
+![](/images/product-market-venn.svg)
 
 This is hard enough to do - especially in the early days of consulting when you don’t have enough work yet to really understand what you’re good at or what the market wants. And even once you start to figure out some kind of product/market fit for your consulting you start to uncover a third, hidden agenda.
 
 You also have to navigate your personal identity and sense of self.
 
-
-
+![](/images/product-market-true-venn.svg)
 
 This third hidden question is why specializing is so hard and even impossible for many independent consultants. Even if you can choose a specialization that meets the top two circles - something that you are good at that the market wants - can you reconcile that with your sense of identity? Can you craft an identity that you feel comfortable with, that gives you energy? Are you comfortable with who you might become?
 
