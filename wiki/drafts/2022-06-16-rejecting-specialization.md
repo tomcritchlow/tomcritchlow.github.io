@@ -298,7 +298,7 @@ Behzod’s example of *“democratization is our job”* was developed from firs
 
 Similarly, Lindsay Slaby’s perspective of *“clients should pitch agencies”* was developed from deep experience seeing how pitches actually work, and how much clients struggle to attract top quality talent - directly straddling the client/in-house divide and seeing the challenges from both sides.
 
-In every industry there’s typically some kind of received wisdom that sounds like good rational advice but simply doesn’t hold up when faced with the realities of how companies operate.
+In every industry there’s typically some kind of received wisdom that sounds like good rational advice but simply doesn’t hold up when faced with reality.
 
 The trick is to look for advice that is “not even wrong” - advice that is correct in a certain sense but fundamentally unhelpful when applied to reality.
 
