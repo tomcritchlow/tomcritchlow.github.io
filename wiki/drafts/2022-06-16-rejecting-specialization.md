@@ -1,9 +1,9 @@
 ---
 layout: tsi-chapter
 title: Rejecting Specialization
-subtitle: Developing vibes and voice to attract the right clients
+subtitle: Using vibes and voice to attract the right clients
 tags: strategy
-og: NBED
+og: https://tomcritchlow.com/images/specialization-og.png
 ---
 
 There are two types of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
@@ -16,12 +16,12 @@ There are plenty of success stories for the first group - lots of books, article
 
 But I don't buy it. I've been an indie consultant for 8 years and have built a network and community of fellow indies. I've had many open and honest private conversations with indies about money, success and anxiety. Through these conversations I've come to two realizations:
 
-1. For many indie consultants who have deliberately rejected the 9-5 of full-time employment, trying to specialize and box yourself in is a path to burnout and failure
+1. For many indie consultants who have rejected the 9-5 of full-time employment, trying to specialize and box yourself in is a path to burnout and failure
 2. This second group of weird indie consultants is often just as successful as the first group (if not more so) - they're just less vocal about it
 
 So in this post I'm going to reject the commonly accepted wisdom and look at why specializing is hard, why it fails and what an alternative path looks like. The answer lies in developing strong opinions and a distinctive vibe.
 
-## Why is Specializing Hard?
+## Specializing is "not even wrong"
 
 If you look around at common advice for indie consultants you’ll get told to specialize: to create a narrow definition of who you’re serving and what you offer. 
 
@@ -42,6 +42,8 @@ Specifically, many independent consultants are generalists - trying to find inte
 
 This anxiety is real. Feeling the peer pressure and established wisdom pushing you down a path to specialize - despite the fact that it grinds against your identity. You feel like you “should” do it. But I’d argue that ***for most indie consultants***, you’d be better off leaning into your uniqueness and point of view as a way to generate senior clients consistently.
 
+## Why is Specializing Hard?
+
 The problem with the advice to specialize is that it’s not even wrong! The advice is correct - IF you can create a narrow positioning, if you can become a visible, trusted expert in a particular niche then you will attract clients. It will solve your problems.
 
 But it’s a big IF…
@@ -54,7 +56,7 @@ This is hard enough to do - especially in the early days of consulting when you 
 
 ![](/images/product-market-true-venn.svg)
 
-This third hidden question is why specializing is so hard and even impossible for many independent consultants. Even if you can choose a specialization that meets the top two circles - something that you are good at that the market wants - can you reconcile that with your sense of identity? Can you craft an identity that you feel comfortable with, that gives you energy? Are you comfortable with who you might become?
+This third agenda is why specializing can lead to burnout. We're not just looking for product/market fit for our consulting work - but our consulting work is deeply tied to our identity and we need a way to make it sustainable. This third hidden question is why specializing is so hard and even impossible for many independent consultants. Even if you can choose a specialization that meets the top two circles - something that you are good at that the market wants - can you reconcile that with your sense of identity? Can you craft an identity that you feel comfortable with, that gives you energy? Are you comfortable with who you might become?
 
 <div class="example" markdown="1">
 Example: The obvious and “correct” positioning for my own consulting work should have been some variation of SEO consulting. My history in the SEO industry meant that I had visibility and trust. I’d spoken at conferences all around the world, I’d worked with big brands.
@@ -76,15 +78,15 @@ And it’s not just paying clients you’re chasing - you’re chasing senior cl
 
 ## The Hidden Price Ceiling of Specializing
 
-Good specializing is hard, because if you do it wrong you can end up trapping yourself. By creating a narrow positioning or specialization you make yourself more legible and understandable - you're essentially optimizing for well-defined work. And well-defined work is less senior, less well paid and less interesting.
+Good specializing is hard, because if you don't do it well, you can end up trapping yourself. By creating a narrow positioning or specialization you make yourself more legible and understandable - you're essentially optimizing for well-defined work. And well-defined work is less senior, less well paid and less interesting.
 
 You can separate most work into two buckets: well-defined and ambiguous.
 
-**Well defined work** is the kind of recognizable work where the client has clarity around both the problem and solution. This is the kind of standardized work that you see agencies pitch - things like “content strategy”, “user research”, “SEO audit” or “website design”. Well defined work has clear naming and down this path you see work that has an RFP and multiple competing vendors.
+**Well defined work** is the kind of recognizable work where the client has clarity around both the problem and solution. This is the kind of standardized work that you see agencies pitch - things like “content strategy”, “user research”, “SEO audit” or “website design”. Well defined work has clear naming and down this path you see work that has an RFP and multiple competing vendors. Well define work is won by tight positioning.
 
 ![](/images/tight-positioning-triangles.svg)
 
-**Ambiguous work** on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like *“how do I expand my business into a new country?”* but an unclear solution. Or perhaps they have a problem *“growth has stalled for our agency”* and lack clarity about both what is causing the problem AND what a solution would look like.
+**Ambiguous work** on the other hand is where either the problem or solution are not fully formed. Perhaps the client has a goal like *“how do I expand my business into a new country?”* but an unclear solution. Or perhaps they have a problem *“growth has stalled for our agency”* and lack clarity about both what is causing the problem AND what a solution would look like. Here the client doesn't even know the shape of the work - so they need to rely on a kind of vibe to select the right consultant.
 
 ![](/images/ambiguous-positioning-blob.svg)
 
@@ -94,7 +96,7 @@ This distinction between well-defined and ambiguous work has a lot of implicatio
 |---|---|
 | Client has clarity of problem and solution | Client lacks clarity on problem and/or solution |
 | Requires strong positioning to capture | Requires vibes and point of view to capture |
-| Feels like freelancing vs consulting | Feels like a blend of coaching, consulting and advising |
+| Feels like freelancing | Feels like a blend of coaching, consulting and advising |
 | Standardized work with multiple competing vendors / agencies | Non-standard work often in non-competitive pitching situations |
 | Lower hourly price point  | Higher hourly price point |
 | Less senior | More senior |
@@ -145,11 +147,11 @@ In the rest of this piece we’ll look at how strong opinions create the kind of
 
 Let’s return to the goal: sustainable client leads for well paid work without sacrificing our personal identity or narrowing our focus.
 
-It turns out that having strong opinions with a distinctive vibe works remarkably well. Specifically:
+It turns out that having strong opinions with a distinctive vibe works remarkably well. Strong opinions:
 
-* Strong opinions travel well - they’re designed for distribution and visibility in our networked age
-* Strong opinions allow you to get good client/consultant fit for senior, ambiguous projects
-* Strong opinions signal a creative energy that clients are looking for to catalyze change in their organization
+* Travel well - they’re designed for distribution and visibility in our networked age
+* Allow you to get good client/consultant fit for senior, ambiguous projects
+* Signal a creative energy that clients are looking for to catalyze change in their organization
 
 But, unlike specialization, strong opinions don’t narrow down your options or grind against your identity as a generalist. Strong opinions allow for divergent, generative futures.
 
@@ -185,7 +187,7 @@ Example: Lindsey Slaby is an independent consultant working on ambiguous and sen
 Over the years Lindsey has developed strong opinions about how the industry works, unafraid to shine a light on uncomfortable topics or take contrary positions. For example [this piece on RFPs](https://www.linkedin.com/posts/lindseyslaby_advertising-procurement-agencymanagement-activity-6760586187645296640-Ib4E/) and why companies should be pitching agencies (when the received wisdom is that agencies should be pitching companies!)
 </div>
 
-## Consultant/Vibe Fit and Trust in Navigating Ambiguity
+## Vibe Fit and Trust in Navigating Ambiguity
 
 More than raw distribution though, exposing your style and sensibility is important. Not just for standing out in the networks and generating dialogue and discussion - but also because senior, ambiguous consulting work relies on navigating a trust gap like no other.
 
@@ -195,7 +197,7 @@ As we outlined in the defined/ambiguous section - ambiguous work requires an ext
 
 For ambiguous work it’s not so easy. In this case the client is relying on the consultant to both diagnose the problem AND provide potential solutions. It’s often the case that the client is operating in unfamiliar territory and needs to simply trust the consultant in all kinds of ways. There’s no easy way to replace the consultant or verify the advice being given. Simply put, oftentimes the client (and sometimes consultant!) are operating outside of normal boundaries.
 
-So trust is essential - but more than that you need to trust that the consultant will make the right decisions even faced with unknown unknowns. This kind of taste is hard to signal with a positioning statement. To develop this trust in someone without actively working with them before requires a strong understanding of the person’s point of view, which is why sharing your point of view in depth matters.
+So trust is essential - but more than that, you need to trust that the consultant will make the right decisions even faced with unknown unknowns. This kind of taste is hard to signal with a positioning statement. To develop this trust in someone without actively working with them before requires a strong understanding of the person’s point of view and vibe, which is why sharing your point of view in depth matters.
 
 ## Vibes & Destabilizing Energy
 
@@ -219,7 +221,7 @@ But how do you develop a point of view? And in particular how do you do it authe
 
 Developing opinions is hard. Translating opinions into a credible point of view is even harder. Doing it without pissing people off is harder still!
 
-The good news is that, unlike specializing, developing opinions and crafting a point of view is an **iterative, generative process** - once you start trying out your voice there’s a feedback loop that helps you develop your voice and strengthen your point of view.
+The good news is that, unlike specializing, developing opinions, crafting a point of view and building a vibe is an **iterative, generative process** - once you start trying out your voice there’s a feedback loop that helps you develop your voice and strengthen your point of view.
 
 It’s hard to see which parts of your experience and opinions are distinctive and resonate without sharing them. In my experience, it’s rarely the big grand vision that people are attracted to but rather something more mundane and grounded - something that has a clarity and weight about it that is distinctive.
 
@@ -227,7 +229,7 @@ Let’s explore two different approaches to finding your voice and point of view
 
 ## 20% Beefs
 
-This is a concept that Venkatesh created in his email newsletter Art of Gig. I’m quoting liberally from it because it’s no longer online (with Venkat’s permission):
+This is a concept that [Venkatesh](https://venkateshrao.com/) created in his email newsletter Art of Gig. I’m quoting liberally from it because it’s no longer online (with Venkat’s permission):
 
 > The top 3 articles of the hundreds I’ve written, in terms of how much they drove cold inbound leads for consulting gigs, are the following. What feature do you think they have in common?
 
@@ -278,16 +280,19 @@ Venkatesh goes on to outline a bit of a “how-to”:
 
 20% beefs are like **proof of experience** - you can’t properly beef with an established way of thinking without first deeply understanding the orthodoxy. And I think this is the root of the power of 20% beefs - they demonstrate taste, point of view and experience all in one.
 
-You can see how this recipe from Venkatesh is literally a playbook that you can follow - first through observing your own consulting work and the disillusionment that exists in the margins (from clients, fellow consultants etc) and then later from trying out some light rejections of the orthodoxy - both in private (with clients and potential clients) and in public (by blogging).
+You can see how this recipe from Venkatesh is literally a playbook that you can follow - first through observing your own consulting work and the disillusionment that exists in the margins (from clients, agencies, fellow consultants etc) and then later from trying out some light rejections of the orthodoxy - both in private (with clients and potential clients) and in public (by blogging).
 
 This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to [play the fool](https://tomcritchlow.com/2020/08/18/the-fool/) and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
 
 ## The Industry/Reality Gap
+
 20% beef is a recipe for developing a strong opinion - but it doesn’t really give you much insight into where to look. What kind of orthodoxy should you be analyzing and rejecting?
 
 Looking at successful examples of 20% beef we see that there’s a common theme of analyzing the gap between theory and industry. The unique vantage point that the consultant has is the vantage point across multiple clients - sometimes across multiple industries too.
 
 Through the nature of being embedded inside organizations, consultants often get a richer, closer look at how things are actually working. This enables you to develop a more realistic view of “how things work” than either in-house folks (who get to see inside a limited number of companies) and agencies (who only get to see the surface level of their clients).
+
+![](/images/consultant-frame.svg)
 
 Behzod’s example of *“democratization is our job”* was developed from first seeing how research operated inside Facebook and Slack and then from consulting with a range of other startups. It’s this view of “how things actually are” that allowed him to develop a beef.
 
@@ -299,14 +304,24 @@ The trick is to look for advice that is “not even wrong” - advice that is co
 
 The consultant occupies a unique position being able to see both across multiple clients AND to see further inside client organizations than agencies can. By embedding yourself deeply inside client organizations and working with senior leaders you can see the real challenges they face and how they behave - you can get underneath the surface of “good sounding but useless” advice.
 
-![](/images/consultant-frame.svg)
-
+<div class="example" markdown="1">
 Here’s a simple example to illustrate the point. In the SEO industry the commonly accepted way of delivering SEO work is via SEO audits. It doesn’t take a genius to observe these SEO audits in practice to see that they’re commonly less than worthless.
 
 Not only has every sufficiently large organization already received several SEO audits in the past from a variety of agencies and vendors but an SEO audit is also not the most effective way to drive change and achieve SEO goals. You can see how you could construct a 20% beef perspective for the SEO industry via rejecting SEO audits as a way of delivering work.
+</div>
 
 # Conclusion
-The short version of this post says that most indie consultants would be better off developing a vibe and a voice instead of trying to niche down. But obviously, to understand my vibe I needed a few thousand words to articulate it properly. Maybe you understand my perspective and vibe more clearly now?
+
+In conclusion, while the commonly accepted wisdom is to choose a niche and specialize, for many indie consultants it can be the wrong choice because:
+
+1. Specializing often optimizes for well defined work, which is less senior, less well paid and less interesting
+2. Specializing can grind against your identity as a generalist
+
+Because of this, I've seen many indie consultants burn out trying too hard to fit themselves into a niche. Instead, developing a point of view and signaling a vibe can be more effective because:
+
+1. It optimizes for ambiguous, senior, well-paid work that is more interesting
+2. It doesn't box you into a single identity
+3. You can iterate and explore your way towards a point of view
 
 Developing a point of view is a long journey, and it’s not easy. But it’s a more forgiving path than specializing. Recently I’ve been toying with the idea of [phases for indie consulting](https://tomcritchlow.com/2022/06/03/indie-consulting-map/) and you can see how the various phases align with how you notice, develop and share your point of view:
 
@@ -316,6 +331,5 @@ Developing a point of view is a long journey, and it’s not easy. But it’s a 
 | 1-2 | Getting started  | Experimentation, figuring out your product / market / identity fit | Being visible, starting a newsletter/blog, joining networks | Notice what parts of your work and opinions make clients pay attention |
 | 3-4 | Finding stability | Cash freedom, number of good clients | Beginning of POV development, writing around your topics, finding peers | Writing consistently in public on topics you’re energized by |
 | 5+ | Finding freedom | Cash AND calendar freedom | Direct POV development, starting communities | 2,000 word essays on POV |
-
 
 And don’t forget to stay weird and foolish.
