@@ -77,7 +77,7 @@ books:
  - title: Ship of Magic
    author: Robin Hobb
    link: https://openlibrary.org/works/OL2707209W
-   image: https://covers.openlibrary.org/b/id/372583-L.jpg
+   image: https://covers.openlibrary.org/b/olid/OL32335046M-L.jpg
    date_finished: 06/26/2021
    notes: Onwards into the Robin Hobb cinematic universe! This series starts somewhat slowly but I love the all new (or is it!) version of live ships and their unique "magic".
  - title: Assassin's Quest
