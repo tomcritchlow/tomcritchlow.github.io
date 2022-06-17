@@ -103,6 +103,7 @@ ul a:hover, ol a:hover, p a:hover {
 
 ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
     color: #02AD28;
+    text-decoration:none;
     font-weight:bold;
     transition: ease-in .05s border-bottom;
 }
