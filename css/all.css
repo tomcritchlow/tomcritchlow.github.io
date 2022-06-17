@@ -103,6 +103,7 @@ ul a:hover, ol a:hover, p a:hover {
 
 ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
     color: #02AD28;
+    font-weight:bold;
     transition: ease-in .05s border-bottom;
 }
 
@@ -113,7 +114,7 @@ ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
 }
 
 blockquote{
-border-left: 1px solid #00ff00;
+border-left: 1px solid #02AD28;
     padding-left: 10px;
     margin-left: 10px;
     font-style: italic;
