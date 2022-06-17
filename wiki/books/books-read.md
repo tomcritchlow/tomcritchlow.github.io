@@ -2,11 +2,47 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Assassin's Fate
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL19098683W
+   image: https://covers.openlibrary.org/b/id/8417258-L.jpg
+   date_finished: 06/11/2022
+   notes: 
+ - title: Fool's quest
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL20005636W
+   image: https://covers.openlibrary.org/b/olid/OL32221420M-L.jpg
+   date_finished: 05/02/2022
+   notes: 
+ - title: Fool's Assassin
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL17268025W
+   image: https://covers.openlibrary.org/b/olid/OL27933228M-L.jpg
+   date_finished: 04/11/2022
+   notes: 
+ - title: Blood of Dragons
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL24788835W
+   image: https://covers.openlibrary.org/b/id/11548993-L.jpg
+   date_finished: 03/11/2022
+   notes: 
+ - title: City of dragons
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL16442335W
+   image: https://covers.openlibrary.org/b/olid/OL26704388M-L.jpg
+   date_finished: 02/24/2022
+   notes: 
+ - title: Dragon Haven
+   author: Robin Hobb
+   link: https://openlibrary.org/works/OL14962810W
+   image: https://covers.openlibrary.org/b/id/6298448-L.jpg
+   date_finished: 02/08/2022
+   notes: 
  - title: Dragon Keeper
    author: Robin Hobb
    link: https://openlibrary.org/works/OL24710497W
    image: https://covers.openlibrary.org/b/olid/OL32800595M-L.jpg
-   date_finished: In progress
+   date_finished: 01/17/2021
    notes: 
  - title: Fool's fate
    author: Robin Hobb
