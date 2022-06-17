@@ -102,9 +102,7 @@ ul a:hover, ol a:hover, p a:hover {
     box-shadow: inset 0 -24px 0 rgba(0,255,0,0.4);}
 
 ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
-    text-decoration: none;
-    color: #212121;
-    box-shadow: inset 0 -6px 0 rgba(0,255,0,0.4);
+    color: #02AD28;
     transition: ease-in .05s border-bottom;
 }
 
