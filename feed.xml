@@ -6,8 +6,8 @@
   <channel>
     <title>tomcritchlow.com</title>
     <description>Tom Critchlow's blog</description>
-    <link>{{site.url}}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://tomcritchlow.com</link>
+    <atom:link href="https://tomcritchlow.com/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
     {% if post.draft == true %}
     {% else %}
@@ -22,8 +22,8 @@
           <description>{{ post.content | xml_escape }}</description>
         {% endif %}
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <link>https://tomcritchlow.com{{ post.url }}</link>
+        <guid isPermaLink="true">https://tomcritchlow.com{{ post.url }}</guid>
       </item>
       {% endif %}
     {% endfor %}
