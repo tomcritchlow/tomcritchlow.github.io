@@ -1,18 +1,19 @@
 ---
 ---
 {% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:libraryRSS="https://tomcritchlow.com/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:libraryRSS="https://tomcritchlow.com/libraryspec/">
  <channel>
   <title>Tom's Library</title>
   <link>https://tomcritchlow.com/wiki/books/books-read/</link>
   {% for book in bookshelf.books %}
    <item>
     <title>{{book.title}}</title>
-    <description>{{book.notes}}</description>
+    <description>{{book.notes | xml_escape}}</description>
     <libraryRSS:author>{{book.author}}</libraryRSS:author>
     <libraryRSS:title>{{book.title}}</libraryRSS:title>
-    <libraryRSS:id>{{book.url}}</libraryRSS:id>
+    <libraryRSS:id>{{book.link}}</libraryRSS:id>
     <libraryRSS:image>{{book.image}}</libraryRSS:image>
+    <libraryRSS:dateFinished>{{book.date_finished}}</libraryRSS:dateFinished>
    </item>
   {% endfor %}
  </channel>
