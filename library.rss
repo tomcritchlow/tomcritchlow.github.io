@@ -1,0 +1,18 @@
+---
+---
+{% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
+ <rss version="2.0"
+     xmlns="http://backend.userland.com/rss2"
+     xmlns:libraryRSS="https://tomcritchlow.com/">
+ <channel>
+  <title>Tom's Library</title>
+  <link>https://tomcritchlow.com/wiki/books/books-read/</link>
+  {% for book in bookshelf.books %}
+   <item>
+    <title>{{book.title}}</title>
+    <description>{{book.notes}}</description>
+    <libraryRSS:author>{{book.author}}</libraryRSS:author>
+   </item>
+  {% endfor %}
+ </channel>
+ </rss>
