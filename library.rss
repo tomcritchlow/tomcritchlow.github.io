@@ -5,6 +5,15 @@
  <channel>
   <title>Tom's Library</title>
   <link>https://tomcritchlow.com/wiki/books/books-read/</link>
+  
+  <libraryRSS:list>https://tomcritchlow.com/wiki/books/books-read/</libraryRSS:list>
+  <libraryRSS:list>https://tomcritchlow.com/wiki/books/stories-about-consultants/</libraryRSS:list>
+  <libraryRSS:list>https://tomcritchlow.com/wiki/books/7bks-maths-books/</libraryRSS:list>
+
+  <libraryRSS:following>https://aworkinglibrary.com/feed/index.xml</libraryRSS:following>
+  <libraryRSS:following>https://highlights.melanie-richards.com/</libraryRSS:following>
+  <libraryRSS:following>https://sive.rs/book</libraryRSS:following>
+
   {% for book in bookshelf.books %}
    <item>
     <title>{{book.title}}</title>
@@ -14,6 +23,7 @@
     <libraryRSS:id>{{book.link}}</libraryRSS:id>
     <libraryRSS:image>{{book.image}}</libraryRSS:image>
     <libraryRSS:dateFinished>{{book.date_finished}}</libraryRSS:dateFinished>
+    <guid>https://tomcritchlow.com/wiki/books/books-read/</guid>
    </item>
   {% endfor %}
  </channel>
