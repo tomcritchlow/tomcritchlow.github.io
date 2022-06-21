@@ -166,7 +166,7 @@ I'd love to tell you how this story ends but I'm at the edge of my own map. I'm 
 
 **Below the surface:**
 - What do you *really* want to spend your cash/calendar freedom on? Family? A startup? What kind of equity do you need to continue this for the next 15-20 years?
-- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://tomcritchlow.com/strategy/!)). Remember to embed your real self in it.
+- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://tomcritchlow.com/strategy/)!). Remember to embed your real self in it.
 
 **Potential failure modes:**
 - Given your publishing and point of view you might feel comfortable adding new brands and deliberate products / consulting offerings. I think you have to be careful here. Early success isn't necessarily the same thing as launching something you can sustain.
