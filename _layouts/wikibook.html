@@ -47,7 +47,7 @@
 </div>
 
 <div class="w-75 fl pa4-l pl3">
-  <h2 class="ma0">{{book.title}}</h2>
+  <h2 class="ma0">{{book.title}} <a href="/#{{book.title | append: book.author | slugify }}">🔗</a></h2>
   <h3 class="ma0">by {{book.author}}</h3>
   {% if book.date_finished %}<div class="gray f5 mt2 mb2">Finished on {{book.date_finished}}</div>{% endif %}
   <p class="">{{book.notes}}</p>
