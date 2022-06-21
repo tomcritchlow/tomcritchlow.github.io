@@ -16,10 +16,10 @@
 
   {% for book in bookshelf.books %}
    <item>
-    <title>{{book.title}}</title>
+    <title>{{book.title | xml_escape}}</title>
     <description>{{book.notes | xml_escape}}</description>
-    <libraryRSS:author>{{book.author}}</libraryRSS:author>
-    <libraryRSS:title>{{book.title}}</libraryRSS:title>
+    <libraryRSS:author>{{book.author | xml_escape}}</libraryRSS:author>
+    <libraryRSS:title>{{book.title | xml_escape}}</libraryRSS:title>
     <libraryRSS:id>{{book.link}}</libraryRSS:id>
     <libraryRSS:image>{{book.image}}</libraryRSS:image>
     <libraryRSS:dateFinished>{{book.date_finished}}</libraryRSS:dateFinished>
