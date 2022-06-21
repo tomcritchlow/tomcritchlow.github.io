@@ -13,6 +13,12 @@
   <libraryRSS:following>https://aworkinglibrary.com/feed/index.xml</libraryRSS:following>
   <libraryRSS:following>https://highlights.melanie-richards.com/</libraryRSS:following>
   <libraryRSS:following>https://sive.rs/book</libraryRSS:following>
+  <libraryRSS:following>https://zylstra.org/opml/books/books.opml</libraryRSS:following>
+  <libraryRSS:following>https://maggieappleton.com/library</libraryRSS:following>
+  <libraryRSS:following>https://macwright.com/reading/rss.xml</libraryRSS:following>
+  
+  
+  
 
   {% for book in bookshelf.books %}
    <item>
