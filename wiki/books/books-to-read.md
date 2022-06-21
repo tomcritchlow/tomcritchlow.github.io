@@ -120,3 +120,5 @@ From Will:
 <https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/>
 
 <https://www.amazon.com/Water-Spirit-Initiation-African-Compass/dp/0140194967> - recc by Toby Shorin
+
+<https://sive.rs/book/PlayfulParenting>
