@@ -1,0 +1,17 @@
+{% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://zylstra.org/opml/books/test.xsl"?>
+<opml version="2.0">
+<head>
+<title>Tom Critchlow: Books Read</title>
+<url>https://tomcritchlow.com/library/books-read.opml</url>
+<ownerName>Tom Critchlow</ownerName>
+<ownerId>https://tomcritchlow.com</ownerId>
+</head>
+<body>
+<outline type="collection" text="Books Read" author="Tom Critchlow" url="https://tomcritchlow.com/library/books-read.opml" comment="Books I've read.">
+{% for book in bookshelf.books %}
+<outline type="book" text="{{book.title}} by {{book.author}}" name="{{book.title}}" author="{{book.author}}" isbn="" url="{{book.link}}" comment="{{book.notes | xml_escape}}" />
+{% endfor %}
+</body>
+</opml>
