@@ -1,7 +1,7 @@
 ---
 ---
 {% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/library-opml.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tomcritchlow.com/library-opml.xsl"?>
 <opml version="2.0">
 <head>
 <title>Tom Critchlow: Books Read</title>
