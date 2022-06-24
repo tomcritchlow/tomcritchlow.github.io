@@ -3,17 +3,17 @@
 {% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://tomcritchlow.com/library-opml.xsl"?>
 <opml version="2.0">
-<head>
-<title>Tom Critchlow: Books Read</title>
-<url>https://tomcritchlow.com/library/books-read.opml</url>
-<ownerName>Tom Critchlow</ownerName>
-<ownerId>https://tomcritchlow.com</ownerId>
-</head>
-<body>
-<outline type="collection" text="Books Read" author="Tom Critchlow" url="https://tomcritchlow.com/library/books-read.opml" comment="Books I've read.">
-{% for book in bookshelf.books %}
-<outline type="book" text="{{book.title | xml_escape}} by {{book.author | xml_escape}}" name="{{book.title | xml_escape}}" author="{{book.author | xml_escape}}" isbn="" url="{{book.link | xml_escape}}" comment="{{book.notes | xml_escape}}" />
-{% endfor %}
-</outline>
-</body>
+    <head>
+        <title>Tom Critchlow: Books Read</title>
+        <url>https://tomcritchlow.com/library/books-read.opml</url>
+        <ownerName>Tom Critchlow</ownerName>
+        <ownerId>https://tomcritchlow.com</ownerId>
+    </head>
+    <body>
+        <outline type="collection" text="Books Read" author="Tom Critchlow" url="https://tomcritchlow.com/library/books-read.opml" comment="Books I've read.">
+        {% for book in bookshelf.books %}
+            <outline type="book" text="{{book.title | xml_escape}} by {{book.author | xml_escape}}" name="{{book.title | xml_escape}}" author="{{book.author | xml_escape}}" isbn="" url="{{book.link | xml_escape}}" comment="{{book.notes | xml_escape}}" />
+        {% endfor %}
+        </outline>
+    </body>
 </opml>
