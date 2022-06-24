@@ -1,7 +1,6 @@
 ---
 ---
-{% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
-<?xml version="1.0" encoding="UTF-8"?>
+{% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://zylstra.org/opml/books/test.xsl"?>
 <opml version="2.0">
 <head>
