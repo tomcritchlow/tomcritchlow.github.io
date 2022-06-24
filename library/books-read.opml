@@ -15,5 +15,6 @@
 {% for book in bookshelf.books %}
 <outline type="book" text="{{book.title | xml_escape}} by {{book.author | xml_escape}}" name="{{book.title | xml_escape}}" author="{{book.author | xml_escape}}" isbn="" url="{{book.link | xml_escape}}" comment="{{book.notes | xml_escape}}" />
 {% endfor %}
+</outline>
 </body>
 </opml>
