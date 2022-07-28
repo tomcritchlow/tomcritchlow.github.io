@@ -185,3 +185,9 @@ Maybe dashboards and strategic plans need to be more closely entwined?
 *Update #2*: Some great links here, Clare's talk is great:
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">It’s an emotional need rather than a functional one. I call it the executive safety blanket. <a href="https://t.co/rwoRZcjsrg">https://t.co/rwoRZcjsrg</a><br><br>Clare Gollnick’s talk about dashboards points to why:<a href="https://t.co/YTUDED0Ibn">https://t.co/YTUDED0Ibn</a></p>&mdash; Chris Butler (@chrizbot) <a href="https://twitter.com/chrizbot/status/1522654386404556800?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--
+
+*Update #3*: I recorded a podcast episode with my friend Nigel talking all about exec level dashboards:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6OBEWLisOKbdmVCK3D4Zgn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
