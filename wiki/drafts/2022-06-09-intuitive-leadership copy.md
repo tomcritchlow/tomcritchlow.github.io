@@ -4,6 +4,28 @@ subtitle: Examining the lived experience of strategy work
 layout: blog
 ---
 
+An ethnography of senior executives might uncover a specific gap between the language of planning and strategy, and the day to day reality of operating.
+
+The perception / idea of leadership looks like 
+
+
+There's this kind of waterfall idea of leadership:
+1. Set a mission & vision
+2. Create a 5 year strategy
+3. Set goals
+4. Hire teams
+5. Operate
+
+But there's a few things wrong with this. Firstly running through this whole process takes a long time (and the average CMO tenure is only 18 months! how much of this can you execute in 18 months?!). But also you need to be showing results immediately.
+
+So you start leading with intuition. Intuition is a kind of "middle out" approach.
+
+
+Waterfall vs agile leadership? Agile has it's own proble
+
+
+Imagine you just joined a new company as CMO. There's this kin
+
 An ethnography of senior leaders might uncover a specific gap between "accepted wisdom" and "how things really work".
 
 That is, that 
@@ -35,6 +57,20 @@ So you need to strengthen your point of view and your "strategic leadership". Ho
 
 Some ideas:
 
-## 1. 
+## 1. Don't focus on mission/vision/strategy - focus on the diagnosis.
+
+Good strategy starts with diagnosis and guiding principle.
+
+## 2. Shift from targets to input/output metrics
+
+You'll be handed goals. But goals are kind of meaningless
+
+## 3. Focus on projects that prove something
+
+
+
+## 4. Spin up research, quickly
+
+The raw ingredients of a good strategy, of insights, of making decisions. Before you have data / evidence etc you want little vignettes and stories of real customers.
 
 https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at?s=r

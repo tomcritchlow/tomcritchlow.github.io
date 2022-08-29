@@ -4,6 +4,22 @@ subtitle: A letter
 layout: blog
 ---
 
+What is the annual GDP of blogging?
+
+That sounds like a ridiculous question but bear with me for a second. Stripe's mission is to "increase the GDP of the internet". And it strikes
+
+Networked writing & blogging is kind of like the pre-revenue phase of economic engines.
+
+Writing on the internet 
+
+Open questions:
+
+- With the blogging discussion moving to Twitter, how would you rekindle a blogging "scene"?
+- Is the economic engine stronger if you do it as part of a niche or group? What would happen if you helped a neighborhood / city / industry move into blogging all at once?
+- Thinking about Squad Wealth - maybe the real economic engine for squads is squad blogging? The tools for running group writing projects is terrible (still!). New forms of squad publishing would unlock new forms of squad wealth.
+
+
+
 What is the annual GDP of blogging? That sounds like a studid question but let's take it seriously for a second.
 
 Blogging is this strange economic engine - specifically providing individuals economic freedom.
