@@ -1,6 +1,6 @@
 ---
 title: Generating Agency Through Blogging
-subtitle: Teaching a sense of agency
+subtitle: Blogging as economic and social opportunity
 layout: blog
 ---
 
@@ -23,7 +23,7 @@ The Web 2.0 era created a lot of rich bloggers. But it also cemented this view t
 I only know a handful of people directly making money from blogging (via ads, subscriptions etc) but I know many more who:
 
 * Got a better career because of blogging (new job, better pay etc)
-* Negotiated better contracts (e.g. with a publisher) because they had "an audience"
+* Negotiated better contracts (e.g. with a publisher or platform) because they had "an audience"
 * Sold their own courses / ebooks / books / merchandise / music 
 
 Blogging is this kind of engine that opens up economic opportunity and advantage. Being visible in the networked economy has real value.
@@ -38,11 +38,11 @@ But blogging is more than economic opportunity - it's an engine for social conne
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-It's common to think of blogging as "building an audience", but this can sound negative, self-serving, sleazy and promotional. Instead we can think of blogging as "finding your people, which sounds much more wholesome, generative and positive.
+It's common to think of blogging as *"building an audience"*, but this can sound negative, self-serving, sleazy and promotional. Instead we can think of blogging as *"finding your people"*, which sounds much more wholesome, generative and positive.
 
 The truth is that maybe it's a bit of both - but that increasing your social surface area can have real positive effects. From finding peers to building friendships to, yes, influence and audience.
 
-So if Blogging is a real force for economic and social opportunity, why don't more people do it?
+So if blogging is a real force for economic and social opportunity, why don't more people do it?
 
 ## What is the GDP of blogging?
 
@@ -75,4 +75,4 @@ Maybe, for squad wealth, for squad ***agency***, we need squad publishing?
 
 Even in today's hyper-media environment almost all acts of creation are 1:1 between author and work. Publishing on the internet is inherently an individual act - there are vanishingly few examples (though they do exist in oddball corners of the internet!) of squad publishing.
 
-We used to use the term *blogosphere* - an organic sounding term. But what if we took the idea of ecosystem seriously. How might we enable our digital gardens to commingle and run wild? How can we build shared community gardens?
+We used to use the term *blogosphere* - an organic sounding term. But what if we took the idea of ecosystem seriously. How might we enable our digital gardens to commingle and run wild? How can we build shared community gardens, with co-authors and shared ownership?
