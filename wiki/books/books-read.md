@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: The Book of Form and Emptiness
+   author: Ruth Ozeki
+   link: https://openlibrary.org/works/OL24197713W
+   image: https://covers.openlibrary.org/b/olid/OL35354576M-L.jpg
+   date_finished: 08/28/2022
+   notes: While at times Ruth Ozeki's writing is lyrical and magical, mostly this book felt kind of sterile. Neither of the main characters feel deeply explored and the most interesting characters (the aleph and the bottleman) are really only side events. Overall the book tasted like it had been aged in steel barrels and I was left wanting something more full bodied, more lyrical, more vivid.
  - title: Assassin's Fate
    author: Robin Hobb
    link: https://openlibrary.org/works/OL19098683W
