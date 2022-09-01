@@ -3,7 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
- 
+ - title: Erratic Texting Behavior
+   author: Jason Kolar
+   image: https://f4.bcbits.com/img/a1753706577_16.jpg
+   notes: Beautiful ambient droplets of sound. Heard this deep and loud over the Public Records sound system and it moved me.
+   href: https://stroomtv.bandcamp.com/track/erratic-texting-behavior
  - title: Epic Dream
    author: Vega Trails
    image: https://img.youtube.com/vi/dsmL-C19ebw/sddefault.jpg
