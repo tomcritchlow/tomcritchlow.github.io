@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Popisho
+   author: Leone Ross
+   link: https://openlibrary.org/works/OL20849886W
+   image: https://covers.openlibrary.org/b/olid/OL28229066M-L.jpg
+   date_finished: In progress
+   notes: 
  - title: The Book of Form and Emptiness
    author: Ruth Ozeki
    link: https://openlibrary.org/works/OL24197713W
