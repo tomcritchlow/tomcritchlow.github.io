@@ -191,3 +191,13 @@ Maybe dashboards and strategic plans need to be more closely entwined?
 *Update #3*: I recorded a podcast episode with my friend Nigel talking all about exec level dashboards:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6OBEWLisOKbdmVCK3D4Zgn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+--
+
+*Update #4*: Love this post from the head of data at Reforge, looking at the data(!) around which executives look at which dashboards, and how often:
+
+<blockquote class="quoteback" darkmode="" data-title="Analyzing%20Metabase%20Usage" data-author="@danwolch" cite="https://www.danwolch.com/2022/09/analyzing-metabase-usage/">
+For this report, I wanted to know what the exec team was looking at in the past week. I want to know how much they’re looking at the metrics and whether they’re looking at the dashboards I think they should be looking at.
+<footer>@danwolch <cite><a href="https://www.danwolch.com/2022/09/analyzing-metabase-usage/">https://www.danwolch.com/2022/09/analyzing-metabase-usage/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
