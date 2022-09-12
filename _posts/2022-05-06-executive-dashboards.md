@@ -30,7 +30,7 @@ Maybe there's a blind spot in my consulting. When you put a plan together that s
 
 It's kind of obvious that you have to find evidence for this *historically* - I like to show how investing in these activities has paid off previously, or how a similar situation worked out for a similar business.
 
-But perhaps I could better articulate how this *future* investment will play out. Not just a business model showing X, Y and Z with revenue potential, but actually showing how you would measure *progress* on each initiative. It always feel implied to me that when you invest in a plan you need to measure progress but I think I could be more proactive in bundling the measurement plan with the pitch... Hmm.
+But perhaps I could better articulate how this *future* investment will play out. Not just a business model showing X, Y and Z with revenue potential, but actually showing how you would measure *progress* on each initiative. It always feels implied to me that when you invest in a plan you need to measure progress, but I think I could be more proactive in bundling the measurement plan with the pitch... Hmm.
 
 📈📈📈
 
@@ -92,7 +92,7 @@ I'm very interested in what [Doubleloop](https://doubleloop.app/) is building. T
 
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/1d17b1eff11942129ad5e541f75d65d9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-I like this idea - that we should be questioning and exploring the dependencies of our strategic plan directly! We make a bunch of assumptions in the initial strategy pitch and then.... never go back and check whether we were right? Seems kinds of nuts.
+I like this idea - that we should be questioning and exploring the dependencies of our strategic plan directly! We make a bunch of assumptions in the initial strategy pitch and then.... never go back and check whether we were right? Seems kind of nuts.
 
 📈📈📈
 
