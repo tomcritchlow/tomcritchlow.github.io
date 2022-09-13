@@ -1,6 +1,6 @@
 ---
 title: Slouching Towards Innovation
-subtitle: The Streams & Artifacts of Innovation Work
+subtitle: The Streams, Feeds & Artifacts of Innovation Work
 layout: blog
 ---
 
@@ -12,13 +12,13 @@ Maybe what's needed are fewer shiny objects and more trails. Fewer artifacts and
 
 The first innovation project I worked on at Google Creative Lab was a 5-year vision for "The future of search". We ended up creating the shiniest of shiny artifacts - a 15 minute live action video showing a day in the life of this future search world. We filmed some segments at the Museum of Natural History in New York. I almost broke a dinosaur bone carrying a lighting stand. We used the same special effects company as the Star Trek movie.
 
-The Google Creative Lab knows a thing or two about failed innovation. When I worked there in 2012 it seemed like the majority if their innovation projects failed. There was a lot of work that never became more than a slick video and a beautiful presentation. I can only think how many projects have been concepted and shelved in the decade since.
+The Google Creative Lab knows a thing or two about failed innovation. When I worked there in 2012 it seemed like the majority of their innovation projects failed. There was a lot of work that never became more than a slick video and a beautiful presentation. I can only think how many projects have been concepted and shelved in the decade since.
 
 I can't speak to how the Creative Lab is now but back in 2012 it was very disconnected from the rest of Google. Sat in an ivory tower (almost literally!) this distance and separation was, I think, part of what enabled the team to work on weird and wonderful projects without oversight. But it was also the downfall of many of the projects that tried to bridge the gap and inform the main corporate strategy of Google proper.
 
 From new kinds of shopping ads to a vision for the future of search - things that tried to influence the core direction of Google products inevitably "failed".
 
-But I put quotes around the word "failed" though because innovation is a funny kind of work.
+But I put quotes around the word "failed" because innovation is a funny kind of work.
 
 💡
 
@@ -50,7 +50,7 @@ At the time I don't think I understood how powerful narrative is inside large or
 
 One of the most interesting innovation projects I was part of was with my friends at [Part+Sum](https://www.partandsum.com/). I was part of a week-long innovation workshop with P+S employees, external advisors, client team members and customers. Essentially, this brings the client *into* the innovation work for a week[^partandsum].
 
-[^partandsum]: Watch a [quick recap video of how this innovation sprint worked here](https://www.youtube.com/watch?v=NszPjjQxLBQ).
+[^partandsum]: Watch a [quick recap video of the innovation sprint  here](https://www.youtube.com/watch?v=NszPjjQxLBQ).
 
 Inviting the client into the innovation work itself (vs just showing the shiny object at the end of the sprint) I believe makes the work better but also means the client is more invested in the end result.
 
@@ -82,7 +82,7 @@ How do you adapt innovation work in a post-document / post-shiny-object culture?
 
 💡
 
-Talking of the "space of flows", two new approaches to feeds that caught my eye:
+Talking about the "space of flows"... two new approaches to feeds that caught my eye:
 
 [Campsite.design](https://www.campsite.design/) from Brian Lovin - "The home for your design team’s work-in-progress". Essentially a feed for your design team. Interesting.
 
