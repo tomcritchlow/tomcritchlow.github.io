@@ -1,44 +1,57 @@
 ---
-title: Streams & Artifacts of Innovation Work
-subtitle: An ecology of ideas
+title: Slouching Towards Innovation
+subtitle: The Streams, feeds & artifacts of innovation work
 layout: blog
 ---
 
-Innovation projects tend to focus on creating shiny artifacts. But maybe they should focus on the components, archives and iterations of their work instead?
+A lot of innovation work revolves around shiny objects. Maybe a slick interactive prototype, or a concept video. But a lot of innovation projects never see the light of day.
+
+Maybe what's needed are fewer shiny objects.  and more musty libraries. Less high concept innovation and more cabinet of curios.
 
 --
 
-The first innovation project I worked on at Google Creative Lab was a 5-year vision for "The future of search". No big deal. We ended up creating the shiniest of shiny artifacts - a 15 minute live action video showing a day in the life of this future search world. We filmed some segments at the Museum of Natural History in New York. I almost broke a dinosaur bone carrying a lighting stand.
+The first innovation project I worked on at Google Creative Lab was a 5-year vision for "The future of search". We ended up creating the shiniest of shiny artifacts - a 15 minute live action video showing a day in the life of this future search world. We filmed some segments at the Museum of Natural History in New York. I almost broke a dinosaur bone carrying a lighting stand. We used the same special effects company as the Star Trek movie.
 
-The Google Creative Lab knows a thing or two about failed innovation. 
+The Google Creative Lab knows a thing or two about failed innovation. When I worked there in 2012 it seemed like the majority if their innovation projects failed. There was a lot of work that never became more than a slick video and a beautiful presentation. I can only think how many projects have been concepted and shelved in the decade since.
 
+I can't speak to how the Creative Lab is now but back in 2012 it was very disconnected from the rest of Google. Sat in an ivory tower (almost literally!) this distance and separation was, I think, part of what enabled the team to work on weird and wonderful projects without oversight. But it was also the downfall of many of the projects that tried to bridge the gap and inform the main corporate strategy of Google proper.
 
+From new kinds of shopping ads to a vision for the future of search - things that tried to influence the core direction of Google products inevitably "failed".
 
-
-
-I know a bit about failed innovation. I worked with the Google Creative Lab back in 2012-2014 and it seemed like 90% of the innovation projects "failed" in many classical definitions.
-
-I can't speak to how the Creative Lab is now but back in 2012 it was very disconnected from the rest of Google. Sat in an ivory tower (quite literally) this distance and separation was, I think, part of what enabled the team to work on weird and wonderful projects without oversight. But it was also the downfall of many of the projects that tried to bridge the gap and inform the main corporate strategy of big-G Google proper.
-
-From new kinds of shopping ads to a vision to the future of search - things that tried to influence the core direction of Google products inevitably "failed".
-
-I put quotes around the word "failed" though because innovation is a funny kind of work.
+But I put quotes around the word "failed" though because innovation is a funny kind of work.
 
 --
 
-I worked on an NYT R&D project - all about launching a brand new approach to travel content. We pitched the project in Feb 2020. Not a great time for a travel project in hindsight...
+As a consultant, I worked on an NYT R&D project - I was part of a team that researched, scoped and designed some new travel verticals for the Times. We pitched the project in Feb 2020. Not a great time for a travel project in hindsight...
 
 Like I said, I know a bit about failed innovation.
 
 --
 
-But innovation is a funny kind of work.
+I think a lot of people who work in innovation get frustrated. Frustrated that their ideas don't get absorbed by the main business. Frustrated that their prototypes don't get funding. Frustrated that their ideas aren't heard.
+
+The further you are from the core business the more freedom you have, but at the expense of influence. The closer you are to the core business the less freedom and creativity you have, but the more influence you have. Dammed if you do, dammed if you don't.
+
+Is innovation work just a game of percentages? Take a bunch of swings and eventually some of the ideas might stick? Is your "hit rate" even the right metric for an innovation lab?
 
 --
 
 Managing innovation work is about controlling narrative as much as it's about controlling cost/timing/project management.
 
-We had a custom-built solution at the Creative Lab called OTIS. It basically stripped away any kind of 
+We had a custom-built project management solution at the Creative Lab (I think it was called OTIS?). It basically stripped away any of the kinds of features that you might expect in a project management tool and reduced every project to a weekly 100-character status update, paired with a link to the latest creative work (presentation, design, video, etc). Every Monday morning the Creative Lab leadership team would huddle around and review the status updates for each project.
+
+At the time I don't think I understood how powerful narrative is inside large organizations. I thought building a business case, modeling out impact and so on were how you got buy-in and budget. 
+
+
+--
+
+One of the most interesting innovation projects I was part of was with my friends at [Part+Sum](https://www.partandsum.com/). I was part of a week-long innovation workshop with P+S employees, external advisors, client team members and customers. Essentially, this brings the client *into* the innovation work for a week[^partandsum].
+
+[^partandsum]: Watch a [quick recap video of how this innovation sprint worked here](https://www.youtube.com/watch?v=NszPjjQxLBQ).
+
+Inviting the client into the innovation work itself (vs just showing the shiny object at the end of the sprint) I believe makes the work better but also means the client is more invested in the end result.
+
+Innovation work that fits the client's business model and constraints. And that the client is invested in bringing to life.
 
 --
 
@@ -50,43 +63,38 @@ The <b>space of flows</b> is a high-level cultural abstraction of <a href="https
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-I think this phrase is a great concept for innovation work - it's not the work itself. It's about the space of flows.s
-
-It feels almost quaint to observe that everything is moving to streams and feeds. That's been happening for some time now. We've moved from a Koolhaas theory of Junk-space to a Castells theory of Junk-feeds.
+I like this framing. And I think it fits innovation work well. What if we placed less emphasis on the shiny object and more on the "space of flows"? 
 
 --
 
-And professional work is no different. We're almost a decade into the stream-ification of work. Slack heralded an era of realtime notifications, channels (as virtual spaces to work in). 
+Professional work is all about streams and flows - we're almost a decade into the stream-ification of work. Slack heralded an era of realtime notifications, channels (as virtual spaces to work in) and flows of work.
 
+And shiny objects aren't really designed for flows. Once they're gone, they're gone.
 
---
+So a lot of companies are trying to figure out how to adapt their work to flows and streams. How to remember things for longer periods of time. How to capture learnings that compound instead of getting washed away.
 
-Streaming content on the consumer side though is looking very differnet. Algorithmic feeds and livestreams.
-
-
-
-
-
-Slack changed the view of work from document to stream. THe flow of information.
+How do you adapt innovation work in a post-document / post-shiny-object culture?
 
 --
 
-https://videos.theconference.se/vaughn-tan-how-to-organise
+Talking of the "space of flows", two new approaches to feeds that caught my eye:
+
+[Campsite.design](https://www.campsite.design/) from Brian Lovin - "The home for your design team’s work-in-progress". Essentially a feed for your design team. Interesting.
+
+[Constellate](https://www.constellate.team/) from Brie Wolfson - "Treating organizations like the (mostly) online communities they now are". This is early days but I love how Brie articulates the challenges and opportunities for knowledge production and knowledge consumption inside organizations:
+
+I think we're entering the stream 2.0 era of professional work. Video feeds. Algorithmic feeds. Social feeds. Stock and flow. The next era will feel different from the last - and it's not just a feeling, the format, approach and narrative for work will change. And it'll happen fastest for the types of work that are already narrative based. Like innovation.
 
 --
 
-Otis and Creative Lab
+Here's a thesis I'm toying with:
+
+**Innovation work should start with narrative**. Create a perspective on the world and from there develop a set of research / data / prototypes / experiments that all ladder back to your narrative.
+
+This narrative-first approach to innovation feels designed for a professional world that is increasingly a "space of flows".
+
+Of course, it's harder. Because most innovation teams don't have a perspective on the world. They don't have a thesis or core insight about how the world is changing or where things are headed. Instead they get obsessed with new shiny things.
 
 --
 
-https://www.campsite.design/
-
-What would an innovation version of this look like?
-
---
-
-People who work in innovation labs tend to be highly disillusioned. I was joking with someone the other day about the "innovation trauma" scene. Trauma of course is no laughing matter, but the idea 
-
---
-
-Corporate librarians. https://littlefutures.substack.com/p/lf05-strategy-is-memory
+Anyway, I've always been interested in innovation work that straddles the venn diagram of business impact, creativity and narrative. Get in touch if you want to chat.
