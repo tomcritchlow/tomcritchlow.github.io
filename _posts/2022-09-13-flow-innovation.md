@@ -30,7 +30,7 @@ Like I said, I know a bit about failed innovation.
 
 I think a lot of people who work in innovation get frustrated. Frustrated that their ideas don't get absorbed by the main business. Frustrated that their prototypes don't get funding. Frustrated that their ideas aren't heard.
 
-The further you are from the core business the more freedom you have, but at the expense of influence. The closer you are to the core business the less freedom and creativity you have, but the more influence you have. Dammed if you do, dammed if you don't.
+The further you are from the core business the more freedom you have, but at the expense of influence. The closer you are to the core business the less freedom and creativity you have, but the more influence you have. Damned if you do, damned if you don't.
 
 Is innovation work just a game of percentages? Take a bunch of swings and eventually some of the ideas might stick? Is your "hit rate" even the right metric for an innovation lab?
 
