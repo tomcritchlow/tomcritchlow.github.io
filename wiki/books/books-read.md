@@ -6,8 +6,8 @@ books:
    author: Leone Ross
    link: https://openlibrary.org/works/OL20849886W
    image: https://covers.openlibrary.org/b/olid/OL28229066M-L.jpg
-   date_finished: In progress
-   notes: 
+   date_finished: 09/21/2022
+   notes: What a magical lush book. Ugly, raw, squelchy. The opposite of the Ruth Ozeki book I just read... Popisho is full of exquisite descriptions, magical realism, surreal nonsense and raw, bloody, colorful magic. Full of gods and humans at their best and worst I absolutely loved this book. If you're looking for something that is a riot of color, emotion and humanity then this is it.
  - title: The Book of Form and Emptiness
    author: Ruth Ozeki
    link: https://openlibrary.org/works/OL24197713W
