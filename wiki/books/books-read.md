@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Suitcase Clone
+   author: Robin Sloan
+   link: https://openlibrary.org/works/OL28456044W
+   image: https://m.media-amazon.com/images/I/41fKV2xVOCL.jpg
+   date_finished: 09/28/2022
+   notes: A lovely novella from Robin Sloan that builds on the Robin Sloan Cinematic Universe...! Fast pasted and full of intrigue. Definitely left me wanting more!
  - title: Popisho
    author: Leone Ross
    link: https://openlibrary.org/works/OL20849886W

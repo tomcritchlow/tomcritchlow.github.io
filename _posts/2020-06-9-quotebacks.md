@@ -6,7 +6,7 @@ layout: blog
 
 Networked writing (aka *blogging*) has become increasingly important as a part of my identity. It's the framework for creating lifelong friendships, finding rewarding client work and experimenting with ideas as a personal creative outlet.
 
-So, [Toby Shorin](https://subpixel.space/) and I have created a small tool called **Quotebacks**. The ultimate goal is to encourage and activate a deeper cross-blogger discusson space. To promote diverse voices and encourage *networked writing* to flourish.
+So, [Toby Shorin](https://subpixel.space/) and I have created a small tool called **Quotebacks**. The ultimate goal is to encourage and activate a deeper cross-blogger discussion space. To promote diverse voices and encourage *networked writing* to flourish.
 
 But, while that's a lofty goal the tool is small and simple. Quotebacks is three things:
 
