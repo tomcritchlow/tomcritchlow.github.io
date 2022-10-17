@@ -1,5 +1,5 @@
 ---
-layout: page-wide
+layout: pagewide
 metatitle: Digital Strategy Consulting from Tom Critchlow
 title: Executive Consulting
 clients:
