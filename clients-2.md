@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-wide
 metatitle: Digital Strategy Consulting from Tom Critchlow
 title: Executive Consulting
 clients:
@@ -16,14 +16,14 @@ clients:
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
         <tr>
-          <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Client</th>
-          <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Project</th>
-          <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Length</th>
-          <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">ID</th>
+          <th class="fw6 bb b--black-20 tl pb3 pr3 ">Client</th>
+          <th class="fw6 bb b--black-20 tl pb3 pr3 ">Project</th>
+          <th class="fw6 bb b--black-20 tl pb3 pr3">Length</th>
+          <th class="fw6 bb b--black-20 tl pb3 pr3">ID</th>
         </tr>
       </thead>
       <tbody class="lh-copy">
-      {% for cleint in page.clients %}
+      {% for client in page.clients %}
         <tr>
           <td class="pv3 pr3 bb b--black-20">{{client.name}}</td>
           <td class="pv3 pr3 bb b--black-20">{{client.description}}</td>

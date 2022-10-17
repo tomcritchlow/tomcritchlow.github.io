@@ -1,0 +1,28 @@
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include header.html %}
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
+    
+  
+        <h1 class="f2  fw8 lh-solid mv1 posttitle">{{page.title}}</h1>
+  
+      {% if page.subtitle %}
+      <h2 class="f3 fw3 lh-copy mv1 subtitle i">{{page.subtitle}}</h2>
+        {% endif %}
+  
+    
+    
+    
+    
+  
+  {{content}}
+                                    
+
+
+</div>
+
+
+{% include footer.html %}
