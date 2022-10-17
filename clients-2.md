@@ -3,15 +3,12 @@ layout: pagewide
 metatitle: Digital Strategy Consulting from Tom Critchlow
 title: Executive Consulting
 clients:
- - name: Client one
-    description: How to
-    length: 13 months
- - name: Client two
-    description: A client
-    length: 3 months
- - name: Client three
-    description: A client
-    length: 2 months    
+ - name: Suitcase Clone
+   description: Robin Sloan  
+   length: 12 months
+ - name: Suitcase Clone
+   description: Robin Sloan     
+   length: Some months
 ---
 
 <div class="pa4">
