@@ -27,7 +27,7 @@ clients:
       </thead>
       <tbody class="lh-copy">
       {% for client in page.clients %}
-      {% if client.year == 2022 %}
+      {% if client.year == "2022" %}
         <tr>
           <td class="pv3 pr3 bb b--black-20">{{client.name}}</td>
           <td class="pv3 pr3 bb b--black-20">{{client.description}}</td>
