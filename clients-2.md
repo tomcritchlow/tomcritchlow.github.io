@@ -39,6 +39,7 @@ clients:
       </tbody>
     </table>
   </div>
+  </div>
 
 <h3>2022</h3>
 <div class="pa4">
@@ -64,3 +65,4 @@ clients:
       </tbody>
     </table>
   </div>  
+  </div>
