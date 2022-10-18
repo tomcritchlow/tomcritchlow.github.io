@@ -34,6 +34,7 @@ clients:
           <td class="pv3 pr3 bb b--black-20">{{client.length}}</td>
           <td class="pv3 pr3 bb b--black-20">14419232532474</td>
         </tr>
+        {% endif %}
         {% endfor %}
       </tbody>
     </table>
