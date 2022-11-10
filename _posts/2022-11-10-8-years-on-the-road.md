@@ -37,7 +37,7 @@ All these things are true.
 
 But on the other hand I feel this 50/50 split very keenly. I've clutched to the identity and narrative of "independent consultant" so strongly over the last 8 years that to suddenly find myself split between these identities has caused more internal anguish than I'd like to admit. Well, ok actually let me just admit it. It's been hard. I've felt stuck. Paralyzed. Weirdly conflicted about simple things.
 
-I don't have the solution yet. But before we think about that let's dig stick with the recap a little further.
+I don't have the solution yet. But before we think about that let's stick with the recap a little further.
 
 ## Consulting Work Recap
 
@@ -54,7 +54,7 @@ In terms of the actual client work - I've done some of my best, and perhaps wors
 * How do we invest in growth, while maintaining positive EBITDA? Let's sequence the growth initiatives and make sure the payback period aligns with 
 * How do I get clarity on this business? Well, let's ensure the executive team's dashboard is closer to profit and margin and combines input and output metrics.
 
-I'm not sure if I'm getting more of this kind of work because I'm routinely interfacing with executive teams, or whether I've become better more interested in this kind of work because of the time spent teaching these skills as part of the SEO MBA? Or, or! Maybe there's a recession going on and everyone is now concerned about top line *and* bottom line....?
+I'm not sure if I'm getting more of this kind of work because I'm routinely interfacing with executive teams, or whether I've become better at this kind of work because of the time spent teaching these skills as part of the SEO MBA? Or, or! Maybe there's a recession going on and everyone is now concerned about top line *and* bottom line....?
 
 Probably some combination of the above.
 
@@ -136,8 +136,7 @@ Here's about all I know:
 * There is a bunch of relatively basic growth work to be done for the SEO MBA (email funnels, that kind of thing). Tune in next year to see if I can motivate myself to do them.
 * The SEO MBA "as is" has been a wonderful first step into teaching. Deeply rewarding (and lucrative!) but the next phase and evolution has to make teaching feel a bit more electric if it's going to compete with my consulting work.
 * I'm going to pull myself out of this identity slump by sheer force of will. Watch me (tune in next year to see how that goes).
-* 
-* Writing writing writing. Bloggy blog blog!
+* I'm excited to keep up the writing habit! Bloggy-blog-blog!
 
 And finally, a big shout out to Paul Millerd. Fellow indie consultant, fellow course creator, fellow book author! Watching from afar I get the sense that Paul is just hitting his stride this year and it's amazing to see. I love seeing other indie consultants thrive and come alive.
 
@@ -149,6 +148,6 @@ I'll leave you with this piece from Paul on ambition:
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-While I relearn how to steer and orient myself on this independent journey, perhaps a shit to illegible ambition is required...
+While I relearn how to steer and orient myself on this independent journey, perhaps a shift to illegible ambition is required...
 
-As ever, I sense the winds of change a blowing.
+As ever, I sense the winds of change a-blowing.
