@@ -2,6 +2,7 @@
 title: 8 Years on the Road
 subtitle: Getting lost and learning to steer by a new compass
 layout: blog
+blogchain: on-the-road
 ---
 
 *Being self-employed feels a bit like being on an extended road trip. Untethered and free, but lonely and unsupported too. Ultimate freedoms combined with shallow roots. Every year I write a recap, around the anniversary of quitting my last job (Oct 24th, 2014). Here's my recap of year 8.*
