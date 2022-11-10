@@ -25,9 +25,9 @@ But let me back up. First, some highlights:
 
 ## Consultant, or.....?
 
-Almost exactly a year ago I launched the first [SEO MBA](https://seomba.com/) course. I knew it was broadly speaking a good idea and I knew there was demand for it but it's still rewarding to look at this chart and see how quickly it dominated my revenue:
+Almost exactly a year ago I launched the first [SEO MBA](https://seomba.com/) course. I knew it was broadly speaking a good idea and I knew there was demand for it but it's still rewarding to look at this chart and see how quickly it dominated my revenue (consulting revenue in blue, course revenue in red):
 
-![](/images/8-years-revneue.png)
+![](/images/8-years-revenue.png)
 
 But/and this came with some psychological cost. I launched the SEO MBA without much of a plan - I just knew there was demand for it and I knew that teaching was something I wanted to do more of.
 
