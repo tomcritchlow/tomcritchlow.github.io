@@ -13,6 +13,8 @@ clients:
    year: 2019
 ---
 
+I work with CEOs and executive teams to build new capabilities. Whether it's a new growth team or creating an innovation function
+
 <h3>2022</h3>
 <div class="pa4">
   <div class="overflow-auto">

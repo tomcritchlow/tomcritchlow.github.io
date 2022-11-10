@@ -76,3 +76,7 @@ Maybe, for squad wealth, for squad ***agency***, we need squad publishing?
 Even in today's hyper-media environment almost all acts of creation are 1:1 between author and work. Publishing on the internet is inherently an individual act - there are vanishingly few examples (though they do exist in oddball corners of the internet!) of squad publishing.
 
 We used to use the term *blogosphere* - an organic sounding term. But what if we took the idea of ecosystem seriously. How might we enable our digital gardens to commingle and run wild? How can we build shared community gardens, with co-authors and shared ownership?
+
+--
+
+*Update #1* - Lovely response from CJ Eller: [Being the Cause of a Blog](https://blog.cjeller.site/being-the-cause-of-a-blog). This one nicely examines the raw primal desire to affect the world around you. Blogging is digital but still feels like *doing something* in a way that tweeting isn't.
