@@ -51,7 +51,7 @@ In terms of the actual client work - I've done some of my best, and perhaps wors
 
 * What should our SEO strategy be? Let's see what size of SEO team we can fit inside this P&L. 
 * Which direction should we grow in? Let's take a look at which business units are high margin/low margin and model out some assumptions about TAM and growth rate.
-* How do we invest in growth, while maintaining positive EBITDA? Let's sequence the growth initiatives and make sure the payback period aligns with 
+* How do we invest in growth, while maintaining positive EBITDA? Let's sequence the growth initiatives and make sure we're realizing growth as we go.
 * How do I get clarity on this business? Well, let's ensure the executive team's dashboard is closer to profit and margin and combines input and output metrics.
 
 I'm not sure if I'm getting more of this kind of work because I'm routinely interfacing with executive teams, or whether I've become better at this kind of work because of the time spent teaching these skills as part of the SEO MBA? Or, or! Maybe there's a recession going on and everyone is now concerned about top line *and* bottom line....?
@@ -64,7 +64,7 @@ It's fun though to be able to stretch across a client organization to touch prod
 
 I'll probably write a proper post-mortem at some point but in essence I got the balance between strategy and stewardship wrong. The client pushed me to create a strategy, when they didn't have the team in place to execute on it. The client told me that the strategy was still necessary since they were going to raise money soon. Foolishly I took them at their word - partly because I was excited to roll out my content strategy approach again - when in reality I should have pushed harder for the next most useful thing (which would likely have been a 2-3 slide version of the strategy for their VC investor deck to secure the funds combined with a focus on hiring their marketing team).
 
-I've been using this phrase "the next most useful thing" as a guiding light for my consulting work - I''m obsessed with being *useful* not just right. I've *always* rejected the fancy presentation in favor of the next most useful thing, and I simply took my eye off the ball with this one. I'm not even sure the client views this project as a real disappointment, there was still some value in it, but I'm mad at myself personally for this one. A good reminder not to take your eye off the ball. And to push your clients beyond what they tell you the right answer is.
+I've been using this phrase "the next most useful thing" as a guiding light for my consulting work - I'm obsessed with being *useful* not just right. I've *always* rejected the fancy presentation in favor of the next most useful thing, and I simply took my eye off the ball with this one. I'm not even sure the client views this project as a real disappointment, there was still some value in it, but I'm mad at myself personally for this one. A good reminder not to take your eye off the ball. And to push your clients beyond what they tell you the right answer is.
 
 Anyway, while consulting work over the past year has been very patchy I just signed 3 new clients this week and I'm gonna be busy for a little bit. Feels good to get back into the consulting flow. Let's crack open some P&Ls.
 
