@@ -70,7 +70,7 @@ Anyway, while consulting work over the past year has been very patchy I just sig
 
 ## SEO MBA Recap
 
-I'm going to write a separate full recap for the SEO MBA because there's a whole world there - but let's look at some key pieces:
+I'm going to write a separate full recap for the SEO MBA [[live now!](https://newsletter.seomba.com/p/the-seo-mba-year-1-recap)] because there's a whole world there - but let's look at some key pieces:
 
 * The email list launched early 2021 and is now 8,000+ subscribers. Unfortunately I think that number is a little off since Substack has been juicing growth aggressively in the last 6 months and I'm not sure those users are high quality. Still, this number is bigger than I would have guessed!
 * The first course, [Executive Presence](https://seomba.com/executive-presence/) is truly the flagship course. It's the most differentiated in the market and has sustained more demand than the second course [The Art of Client Management](https://seomba.com/client-management/). I'm super proud of both courses and think both are deeply valuable, but people want to learn executive presence more than they want to learn client management. One is aspirational in nature, where one is more functional.
