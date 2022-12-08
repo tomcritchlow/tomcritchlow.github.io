@@ -9,3 +9,5 @@ Strategy & stewardship
 The work is always in service of the next action
 
 Gives you license to push back on clients (they ask for legible work, not useful work)
+
+Quotes from trusted advisor

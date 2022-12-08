@@ -155,3 +155,5 @@ Source: [Sketching Science in the 17th Century](https://www.princeton.edu/~hos/m
 <https://syllabusproject.org/diagrams/>
 
 <https://www.oarplatform.com/response/cartography-research-process-visual-essay/>
+
+<https://syllabusproject.org/diagrams/>

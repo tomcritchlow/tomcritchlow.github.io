@@ -4,6 +4,13 @@ subtitle: Examining the lived experience of strategy work
 layout: blog
 ---
 
+https://twitter.com/gibsonbiddle/status/1596759005396750339
+
+CMO approach - mission/vision -> positioning -> brand campaign
+But your avg tenure is 18 months! You run out of time
+
+
+
 An ethnography of senior executives might uncover a specific gap between the language of planning and strategy, and the day to day reality of operating.
 
 The perception / idea of leadership looks like 
