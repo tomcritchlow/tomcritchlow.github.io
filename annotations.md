@@ -24,7 +24,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       domain = domain.hostname;
       div.innerHTML = `<div class="annotation">
         <div class="annotation-comment">
-        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsmall.jpg" >@tomcritchlow ${data.rows[i].created}</div>
+        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsquare.jpg" >@tomcritchlow ${data.rows[i].created}</div>
         <p>${data.rows[i].text}</p></div>
         <div class="portal-container">
         <div class="portal-head">
@@ -52,12 +52,13 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
 <style>
     .annotation{
         border:1px solid #f3f3f3;
-
+        padding:15px;
     }
 
     .annotation-author img{
         border-radius:100%;
         width:20px;
+        vertical-align:middle;
     }
 
     .annotation-comment{
