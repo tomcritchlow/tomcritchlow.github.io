@@ -51,7 +51,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
 
 <style>
     .annotation{
-        border:1px solid #f3f3f3;
+        border:1px solid #C2DFE3;
         padding:15px;
     }
 
