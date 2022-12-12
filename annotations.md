@@ -28,10 +28,10 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         <div class="portal-metadata">
         <div class="portal-title">
         <div class="portal-author"></div>
-        <div class="title-wrapper"><span class="portal-text-title">${data.rows[i].document.title}</span> ${domain}</div>
+        <div class="title-wrapper"><span class="portal-text-title">${data.rows[i].document.title}</span></div>
         </div>              
         </div>
-        <div class="portal-backlink"><a target="_blank" href="${data.rows[i].links.incontext}" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+        <div class="portal-backlink"><a target="_blank" href="${data.rows[i].links.incontext}" class="portal-arrow">${domain} <span class="right-arrow"><img style="height:14px;display:inline-block;padding-left:2px; vertical-align:bottom" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/External_link_font_awesome.svg" /></span></a></div>
         </div>
         <div id="portal-parent-{{include.anchor}}" class="portal-parent">
         <div class="portal-content">${data.rows[i].target[0].selector[2].exact}
