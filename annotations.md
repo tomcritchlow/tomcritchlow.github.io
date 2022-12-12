@@ -22,9 +22,10 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       var url = data.rows[i].uri;
       let domain = (new URL(url));
       domain = domain.hostname;
+      var timestamp = new Date(data.rows[i].created).toLocaleDateString('en-us', {year:"numeric", month:"short", day:"numeric"});
       div.innerHTML = `<div class="annotation">
         <div class="annotation-comment">
-        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsquare.jpeg" >@tomcritchlow ${data.rows[i].created}</div>
+        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsquare.jpeg" >@tomcritchlow ${timestamp}</div>
         <p>${data.rows[i].text}</p></div>
         <div class="portal-container">
         <div class="portal-head">
@@ -53,6 +54,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
     .annotation{
         border:1px solid #C2DFE3;
         padding:15px;
+        margin-top:15px;
     }
 
     .annotation-author img{
