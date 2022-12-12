@@ -41,9 +41,9 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         <div id="portal-parent-{{include.anchor}}" class="portal-parent">
         <div class="portal-content">${data.rows[i].target[0].selector[2].exact}
         </div>       
-        <p>${data.rows[i].text}</p>
         </div>    
         </div>
+        <p>${data.rows[i].text}</p>
         </div>
       `
       document.getElementById("annotations").appendChild(div);  
