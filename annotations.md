@@ -25,8 +25,9 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       var timestamp = new Date(data.rows[i].created).toLocaleDateString('en-us', {year:"numeric", month:"short", day:"numeric"});
       div.innerHTML = `<div class="annotation">
         <div class="annotation-comment">
-        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsquare.jpeg" >@tomcritchlow ${timestamp}</div>
-        <p>${data.rows[i].text}</p></div>
+        <div class="annotation-author"><img src="https://tomcritchlow.com/images/tomsquare.jpeg" >@tomcritchlow <span class="f6">${timestamp}</span></div>
+        <p>${data.rows[i].text}</p>
+        </div>
         <div class="portal-container">
         <div class="portal-head">
         <div class="portal-metadata">
@@ -61,6 +62,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         border-radius:100%;
         width:20px;
         vertical-align:middle;
+        padding-right:5px;
     }
 
     .annotation-comment{
