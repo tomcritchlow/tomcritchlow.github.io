@@ -20,7 +20,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       if(quotetext){
       var div = document.createElement("div");
       div.innerHTML = `<p>${data.rows[i].text}</p>
-      <blockquote class="quoteback" data-title="${encodeURIComponent(data.rows[i].document.title)}" data-author="" cite="${data.rows[i].uri}">
+      <blockquote class="quoteback" data-title="${encodeURIComponent(data.rows[i].document.title)}" data-author="" cite="${data.rows[i].link.incontext}">
       ${data.rows[i].target[0].selector[2].exact}
       <footer></footer>
       </blockquote>`
@@ -34,4 +34,4 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       cancelable: true
     }));
   });
-<script>
+</script>
