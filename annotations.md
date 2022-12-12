@@ -62,7 +62,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         border-radius:100%;
         width:20px;
         vertical-align:middle;
-        padding-right:5px;
+        margin-right:5px;
     }
 
     .annotation-comment{
