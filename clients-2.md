@@ -13,7 +13,10 @@ clients:
    year: 2019
 ---
 
-I work with CEOs and executive teams to build new capabilities. Whether it's a new growth team or creating an innovation function
+I work with CEOs and executive teams to gain strategic clarity and build the capabilities to deliver on it. 
+
+Whether it's the 
+
 
 <h3>2022</h3>
 <div class="pa4">
