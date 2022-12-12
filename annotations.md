@@ -26,7 +26,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
       div.innerHTML = `<div class="annotation">
         <div class="annotation-comment">
         <div class="annotation-author f6"><img src="https://tomcritchlow.com/images/tomsquare.jpeg" >@tomcritchlow <span class="f7 black-50">${timestamp}</span></div>
-        <p>${data.rows[i].text}</p>
+        
         </div>
         <div class="portal-container">
         <div class="portal-head">
@@ -41,6 +41,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         <div id="portal-parent-{{include.anchor}}" class="portal-parent">
         <div class="portal-content">${data.rows[i].target[0].selector[2].exact}
         </div>       
+        <p>${data.rows[i].text}</p>
         </div>    
         </div>
         </div>
