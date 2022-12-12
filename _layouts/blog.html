@@ -141,16 +141,7 @@
         });   
         $(".footnotes").hide()
     });    
-    
-document.addEventListener('hypothesis.ready', function() {
-  var ps = document.getElementsByTagName("p");
-  for(var i = 0; i < ps.length; i++){
-  if(ps[i].querySelector("hypothesis-highlight") !== null){
-    var clone = commentdiv.cloneNode(true);
-    ps[i].prepend(clone);
-    }
-  }
-});    
+       
 
     </script>
 
@@ -201,7 +192,16 @@ commentdiv.classList = "dn db-l";
 commentdiv.style.cssText = "float: right;clear: right;margin-right: -60%;width: 50%;margin-top: 20px;margin-bottom: 0;vertical-align: baseline;position: relative;";
 commentdiv.innerHTML += commenticon;
 
-
+// chatGPT thinks this hypothesis.ready event exists. I'm not so sure.
+document.addEventListener('hypothesis.ready', function() {
+  var ps = document.getElementsByTagName("p");
+  for(var i = 0; i < ps.length; i++){
+  if(ps[i].querySelector("hypothesis-highlight") !== null){
+    var clone = commentdiv.cloneNode(true);
+    ps[i].prepend(clone);
+    }
+  }
+}); 
 
 
 
