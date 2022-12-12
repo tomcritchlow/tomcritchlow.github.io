@@ -9,7 +9,7 @@ layout: blog
 Every website should have doorknobs. Or maybe they're more like secret closets that only me and my friends know about? Either way is fine with me.
 
 
-
+https://docdrop.org/pdf/Hypothesis_deck_22Aug-4b7ys.pdf/
 
 https://www.robinsloan.com/lab/new-avenues/
 
