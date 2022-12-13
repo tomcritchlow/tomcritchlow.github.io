@@ -43,7 +43,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         </div>       
         </div>    
         </div>
-        <div class="flex items-center"><img class="h2 mr2" src="https://tomcritchlow.com/images/tomsquare.jpeg" > <p>${data.rows[i].text}</p></div>
+        <div class="flex items-center"><img class="h2 mr2 br-100" src="https://tomcritchlow.com/images/tomsquare.jpeg" > <p class="bg-moon-gray pa3 br4">${data.rows[i].text}</p></div>
         </div>
       `
       document.getElementById("annotations").appendChild(div);  
