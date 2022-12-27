@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Captains of the sands
+   author: Jorge Amado
+   link: https://openlibrary.org/works/OL19709950W
+   image: https://covers.openlibrary.org/b/olid/OL26923104M-L.jpg
+   date_finished: 12/27/2022
+   notes: Love the style and sense of wonder that Jorge writes with. Perhaps I should read the other Bahia books in the series... 
  - title: Suitcase Clone
    author: Robin Sloan
    link: https://openlibrary.org/works/OL28456044W

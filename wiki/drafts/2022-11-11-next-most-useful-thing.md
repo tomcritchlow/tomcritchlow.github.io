@@ -36,3 +36,7 @@ Some foundational ideas:
 
 
 If you like this idea, read the deep dive: [The Consultant Out of Time: Chronos & Kairos - a framework for just-in-time consulting](https://tomcritchlow.com/2021/01/26/kairos/)
+
+https://hbr.org/2023/01/how-frank-gehry-delivers-on-time-and-on-budget
+
+To work on the next most useful thing you need a north star in mind. What's the ultimate objective? This kind of clarity is extremely useful. However client's don't give that to you - you have to ask good questions.
