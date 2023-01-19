@@ -10,8 +10,6 @@ I run the [SEO MBA](https://seomba.com/) an online course to teach SEO professio
 
 Together we're cooking up a new project - and we're going to build it in public. Why? Why not!
 
-Our first working in public session is tomorrow - Thurs Jan 12th at 3pm ET.
-
 **Update: the weekly recurring working session is here: <https://lu.ma/figma-for-kw>**
 
 The project is very early but the basic pitch is this:
