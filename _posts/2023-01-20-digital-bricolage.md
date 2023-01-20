@@ -68,4 +68,6 @@ Robin Sloan is a big fan of cloud functions:
 
 I need to play around here. Cloudflare workers, cloud functions and Github Actions all feel like Google Appscript but better maybe?
 
+--
+
 Anyway. There's no real point here. But isn't the web amazing?
