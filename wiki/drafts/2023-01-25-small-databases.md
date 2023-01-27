@@ -6,11 +6,11 @@ layout: blog
 
 ## Introduction
 
-Imagine you care very much about Japanese woodblock prints, and you love the web. So you decide as an interested amateur to build a website to house your library of 200k+ prints. This of course is a thing that the internet has: <https://ukiyo-e.org/> - Japanese Woodblock Print Search.
+Imagine you care very much about Japanese woodblock prints, and you love the web. So you decide as an interested amateur to build a website to house your library of 200k+ prints. This of course is a thing that the internet has: [ukiyo-e.org](https://ukiyo-e.org/) - Japanese Woodblock Print Search, created by John Resig.
 
-Now, imagine that you're not also John Resig, world class web developer and founder of Jquery.
+Now, imagine that you're not THE John Resig, world class web developer and founder of Jquery.
 
-We've built many tools for publishing to the web - but I want to make the claim that we have underdeveloped the tools and platforms for publishing collections, indexes and small databases. It's too hard to build these kinds of experiences, too hard to maintain them and a lack 
+We've built many tools for publishing to the web - but I want to make the claim that we have underdeveloped the tools and platforms for publishing collections, indexes and small databases. It's too hard to build these kinds of experiences, too hard to maintain them and a lack of collaborative tools.
 
 Here's the thesis:
 1. Independently published and maintained collections are interesting and valuable
@@ -28,7 +28,7 @@ Sari (building a community index Startupy) has a nice piece exploring this tensi
 
 There ARE tools that allow you to manage collections and indexes, for specialist use cases. Ecommerce is the most obvious example. The core needs of creating a database of products, adding metadata, enabling search and creating collections are all well served by a range of tools (Shopify, Squarespace, etc etc).
 
-Meanwhile, there are many tools that allow independent authors to create content (Wordpress, Substack, Squarespace, Ghost, Webflow etc etc). But these tools place a heavy emphasis on documents and pages and less of an emphasis on collections of objects and links.
+Meanwhile, there are many tools that allow independent authors to create content (Wordpress, Substack, Squarespace, Ghost, Webflow etc etc). But these tools place a heavy emphasis on documents and pages and less of an emphasis on collections of objects, links and metadata.
 
 To highlight this tension, consider a couple of examples:
 
@@ -37,6 +37,14 @@ To highlight this tension, consider a couple of examples:
 * Jarrett Fuller publishes a lovely collection of readings for people interested in design [readings.design](https://readings.design/) that has 251 resources but what appear to be manually created tags and no search.
 
 To be clear I'm not being critical of these resources! I very much enjoy them all and love that they exist. But I think they highlight a kind of under-served need.
+
+These are all individuals - personal things. But this challenge applies to institutions too. Here's the digital art foundation Rhizome on building their archive of digital art projects Artbase:
+
+<blockquote class="quoteback" darkmode="" data-title="The%20ArtBase%20Relaunches%3A%20Welcome%20to%20Linked%20Open%20Data%C2%A0" data-author="" cite="https://rhizome.org/editorial/2021/apr/26/the-artbase-relaunches-welcome-to-linked-open-data/">
+With so many tools available for cataloguing digital archives, it may seem startling that Rhizome would have invested so much time in developing a new approach. We did so because we believe that technical infrastructure shapes the way in which knowledge about cultural heritage is created and captured, organized and shared, and that existing software infrastructure is poorly suited to born-digital cultural archives.
+<footer> <cite><a href="https://rhizome.org/editorial/2021/apr/26/the-artbase-relaunches-welcome-to-linked-open-data/">https://rhizome.org/editorial/2021/apr/26/the-artbase-relaunches-welcome-to-linked-open-data/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 ## What do we need?
 
@@ -117,3 +125,13 @@ Startupy
 Depending on your mental model of the world, the shape of the data you want to work with, and your technical aptitude you will likely have strong reactions to this post. Things like "no way!" or "This is missing the point" but 
 
 Empowering more individuals to publish, maintain and collaborate on small indexes I think would be a positive.
+
+
+--
+People to reach out to:
+
+https://lozanarossenova.com/about/
+Geoffy Lit
+Electric Tables folks
+Arc
+Chia
