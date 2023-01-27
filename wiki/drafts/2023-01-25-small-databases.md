@@ -32,11 +32,13 @@ Meanwhile, there are many tools that allow independent authors to create content
 
 To highlight this tension, consider a couple of examples:
 
-* For example, the personal website of Rob Giampietro [lined and unlined](https://linedandunlined.com/) has a lovely index-view of content but defaults to a site: search in Google to handle search.
-* The Cyberfeminismindex is an amazing collection of 828  which is a single file with 100k lines of code
+* The personal website of Rob Giampietro [lined and unlined](https://linedandunlined.com/) has a lovely index-view of content but defaults to a site: search in Google to handle search.
+* The [Cyberfeminism Index](https://cyberfeminismindex.com/) is an amazing collection of 828 resources, each with notes and quotes. Although the site has search the whole thing is a single HTML file with 100k+ lines of code.
 * Jarrett Fuller publishes a lovely collection of readings for people interested in design [readings.design](https://readings.design/) that has 251 resources but what appear to be manually created tags and no search.
 
-To be clear I'm not being critical of these resources! I very much enjoy them all and love that they exist. But I think they highlight a kind of under-served need.
+To be clear, I'm not being critical of these resources! I very much enjoy them all and love that they exist. Indie web creators will use [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) to use whatever tools they have to build things and that's great. The Cyberfeminism Index even has an explict focus on long-term maintainability and lack of dependencies which is great.
+
+But it shows some of the potential use cases where people are looking for "database publishing".
 
 These are all individuals - personal things. But this challenge applies to institutions too. Here's the digital art foundation Rhizome on building their archive of digital art projects Artbase:
 
@@ -48,47 +50,50 @@ With so many tools available for cataloguing digital archives, it may seem start
 
 ## What do we need?
 
-Let's think through the kinds of needs
+Let's think through the kinds of use cases and functionality that is important. I'd say that the core features are:
 
+1. Creating collections of objects
+2. Adding and updating metadata for the objects (ideally in bulk if needed)
+3. Creating collections, relationships and pathways through the data
+4. Collaborating on these with others
+5. Publishing to the web in an easy to consume way, with stable URLs, search etc
+6. Open standard file formats for export / import / desktop editing
 
-
-We've created excellent tools for managing specialist databases - the most obvious example is ecommerce stores. Uploading, managing, tagging, creating collections etc etc.
-
-But there is a gap I believe in the tools between publishing "pieces of content" and "creating a database" that is worth exploring.
-
-
-Core problems:
-1. Lack of standard file formats means exporting / archiving data is not simple (there's no standard format like a CSV)
-2. Publshing tools are heavy, difficult to setup and maintain
-3. Hard to collaborate on datasets (tools like Notion are easy to collab on but not to publish)
-4. Search
-
-
-
-
+I think the last point is key to building an ecosystem of this stuff. We have CSV files as a kind of open standard for any kind of data - possible to open it in all kinds of applications (or even edit directly with a text editor) and yet we have no standard concept for a database file that you can just open and edit in a range of applications?
 
 ## Cybernetic Indexes
 
-In an era of chatGPT, cheap search, web-crawlers and more.
+Let's go beyond the simple use cases though - I'm excited about building extensions and automations for these small databases. The magic of the web is that automations (via chrome extensions, bookmarklets, zapier, cloud functions, github actions, replits etc) are becoming simple, easy to build and accessible to hobby-coders, not just professional developers.
 
-Here's an example of a site I want to create:
+In an era of chat GPT, cheap search & web-crawlers how can we make any small database come alive?
 
-Brooklyn artists. A complete database. Searchable and taggable. This doesn't exist today. How would you make it?
+Here's an example of cybernetic database I want to build: I'd like to build an index of all the artists in Brooklyn[^fiercely]. This would be a resource for seeing a ton of local artists and their work all in one place. A database that's searchable, taggable. This doesn't exist today. How would you build it?
 
-Interestingly one of the ingredients would be some kind of crawler - both for indexing a site to add to the database and for crawling existing sites to gather updated metadata etc. Web crawling and database maintenance of course are no easy tasks.
+[^fiercely]: Erin and I still run [Fiercely Curious](https://www.fiercelycurious.com/), which is a small-scale, curated version of this.
+
+And importantly - after you've built it, how would you bring it to life? I'm thinking things like:
+
+* Image machine learning to auto-extract tags and classifications around color, medium etc
+* Web-scrapers that can periodically re-crawl the artist's websites and update the database with new works and new info
+
+I could probably build this myself if I was really motivated but it would require building an *actual* database. There's no readily available solution (that I know of) that would enable this kind of thing...
 
 ## A review of the tools
 
-Google Docs
-Datasette
-Dataview obsidian
-Notion
-Airtable
-Jekyll YAML
-Jekyll front-matter
-Jekyll + Github actions (https://katydecorah.com/code/build-your-metadata-library/)
-Jekyll + Airtable (https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
-Datatables (https://cloudtables.com/)
+I'm not an expert (surprise!) so I'm sure I'm missing plenty of potential tools but here's some that I've considered or seem like they fit the bill:
+
+*Google Sheets
+* Datasette
+* Dataview obsidian
+* Notion
+* Airtable
+* Jekyll YAML
+* Jekyll front-matter
+* Jekyll + Github actions (https://katydecorah.com/code/build-your-metadata-library/)
+* Jekyll + Airtable (https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
+* Datatables / https://cloudtables.com/
+
+*See below for an airtable with links and updated 
 
 ## Examples of small-indexes
 
@@ -104,9 +109,20 @@ https://www.are.na/gemma-copeland/list-view
 https://www.are.na/chia/www-index-list
 https://www.are.na/sam-saruhan/ref-archival-websites
 
-<details class="ba b--black-20">
+<style>
+#airtableframe{
+width:150%;
+}
+@media screen and (min-width: 30em){
+#airtableframe{
+width:100%
+}   
+}
+</style>
+
+<details class="ba b--black-20 pa2 bg-light-green" style="width:150%">
 <summary>An airtable of resources</summary>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrYY94GrqVB4HUsi?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed pv2" src="https://airtable.com/embed/shrYY94GrqVB4HUsi?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </details>
 
 ## Market-making Databases
