@@ -1,6 +1,6 @@
 ---
-title: Notes on working with small indexes, databases and community resources
-subtitle: Working with databases, lists and collections
+title: The Magic of Small Databases
+subtitle: Notes on personal libraries, collections and small indexes on the web
 layout: blog
 ---
 
@@ -35,6 +35,7 @@ To highlight this tension, consider a couple of examples:
 * The personal website of Rob Giampietro [lined and unlined](https://linedandunlined.com/) has a lovely index-view of content but defaults to a site: search in Google to handle search.
 * The [Cyberfeminism Index](https://cyberfeminismindex.com/) is an amazing collection of 828 resources, each with notes and quotes. Although the site has search the whole thing is a single HTML file with 100k+ lines of code.
 * Jarrett Fuller publishes a lovely collection of readings for people interested in design [readings.design](https://readings.design/) that has 251 resources but what appear to be manually created tags and no search.
+* My friend Jonah Dragan has been documenting amazing kids picture books, both popular and obscure. He has [over 900 archived on his Instagram](https://www.instagram.com/jonahdragan/?hl=en). How might this archive become, well, an archive?
 
 To be clear, I'm not being critical of these resources! I very much enjoy them all and love that they exist. Indie web creators will use [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) to use whatever tools they have to build things and that's great. The Cyberfeminism Index even has an explict focus on long-term maintainability and lack of dependencies which is great.
 
@@ -125,13 +126,3 @@ Yes, you could assemble this exact business model today using a combination of M
 Depending on your mental model of the world, the shape of the data you want to work with, and your technical aptitude you might have strong reactions to this post. Things like "just use a real database!" or "no way!" or "This is missing the point" but I sincerely believe there is a whole set of publishing use cases waiting in the wings that are underserved today.
 
 I want to empower more individuals to publish, maintain and collaborate on small indexes. To build a million tiny libraries, community databases, weird collections and indie indexes.
-
-
---
-People to reach out to:
-
-https://lozanarossenova.com/about/
-Geoffy Lit
-Electric Tables folks
-Arc
-Chia
