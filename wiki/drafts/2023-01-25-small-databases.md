@@ -78,36 +78,9 @@ And importantly - after you've built it, how would you bring it to life? I'm thi
 
 I could probably build this myself if I was really motivated but it would require building an *actual* database. There's no readily available solution (that I know of) that would enable this kind of thing...
 
-## A review of the tools
+## Tools & Examples
 
-I'm not an expert (surprise!) so I'm sure I'm missing plenty of potential tools but here's some that I've considered or seem like they fit the bill:
-
-*Google Sheets
-* Datasette
-* Dataview obsidian
-* Notion
-* Airtable
-* Jekyll YAML
-* Jekyll front-matter
-* Jekyll + Github actions (https://katydecorah.com/code/build-your-metadata-library/)
-* Jekyll + Airtable (https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
-* Datatables / https://cloudtables.com/
-
-*See below for an airtable with links and updated 
-
-## Examples of small-indexes
-
-https://beta.startupy.world/
-https://ukiyo-e.org/
-https://blackmusiclibrary.com/Library
-https://apod.li/
-https://readings.design/
-https://cyberfeminismindex.com/
-https://philippinecassettearchive.com/
-
-https://www.are.na/gemma-copeland/list-view
-https://www.are.na/chia/www-index-list
-https://www.are.na/sam-saruhan/ref-archival-websites
+I'm still actively researching the best tools out there for this kind of work but in the meantime I've created an Airtable database for tools, examples of small databases and interesting reading. Take a look (or [load the file directly here](https://airtable.com/shrYY94GrqVB4HUsi/tblHPrdomiPbLpod6/viwxizssDJMsGqhg9?backgroundColor=green&blocks=hide))
 
 <style>
 #airtableframe{
@@ -124,6 +97,20 @@ width:100%
 <summary>An airtable of resources</summary>
 <iframe class="airtable-embed pv2" src="https://airtable.com/embed/shrYY94GrqVB4HUsi?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </details>
+
+If you have suggestions and additions - email me!
+
+## Datasette
+
+I'd like to call out [Datasette](https://datasette.io/) in particular. Datasette is "An open source multi-tool for exploring and publishing data" created and maintained by Simon Wilson.
+
+Of all the projects I've come across Datasette feels so closely ideologically aligned to what I want. It's open source, Simon really cares about helping non-developers use it (via a cloud product, a desktop product etc) - it's even building out web-scraping functionality! Datasette is a tool for exploring data but also allows you to publish that data to the web.
+
+Everything about Datasette feels great - the only problem is that it still feels slightly too far out of reach for your average enthusiast / indie publisher. There are still a lot of command line prompts around... This is not criticism of Simon - he's an indie developer building the whole thing!
+
+Anyway - my point is that I think Datasette is going to get easier over time and may, if you're more technical than me, be a good tool for this *today*.
+
+
 
 ## Market-making Databases
 
