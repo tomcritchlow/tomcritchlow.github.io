@@ -4,6 +4,11 @@ subtitle: Notes on personal libraries, collections and small indexes on the web
 layout: blog
 ---
 
+<div class="ba b--black-10 bg-washed-green br2 pa2">
+<div class="ttu f5">summary</div>
+Publishing documents to the web is a well-served use case but publishing small indexes, databases and collections to the web is still an incredibly frustrating and under-served use case. Here I outline why I think it matters and a variety of approaches to solving it.
+</div>
+
 ## Introduction
 
 Imagine you care very much about Japanese woodblock prints, and you love the web. So you decide as an interested amateur to build a website to house your library of 200k+ prints. This of course is a thing that the internet has: [ukiyo-e.org](https://ukiyo-e.org/) - Japanese Woodblock Print Search, created by John Resig.
