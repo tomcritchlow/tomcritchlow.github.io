@@ -86,7 +86,7 @@ I'm still actively researching the best tools out there for this kind of work bu
 #airtableframe{
 width:150%;
 }
-@media screen and (min-width: 30em){
+@media screen and (max-width: 30em){
 #airtableframe{
 width:100%
 }   
@@ -104,30 +104,27 @@ If you have suggestions and additions - email me!
 
 I'd like to call out [Datasette](https://datasette.io/) in particular. Datasette is "An open source multi-tool for exploring and publishing data" created and maintained by Simon Wilson.
 
-Of all the projects I've come across Datasette feels so closely ideologically aligned to what I want. It's open source, Simon really cares about helping non-developers use it (via a cloud product, a desktop product etc) - it's even building out web-scraping functionality! Datasette is a tool for exploring data but also allows you to publish that data to the web.
+Of all the projects I've come across Datasette feels so closely ideologically aligned to what I want. It's open source, Simon really cares about helping non-developers use it (via a cloud product, a [desktop product](https://datasette.io/desktop) etc) - it's even building out [web-scraping functionality](https://github.com/cldellow/datasette-scraper/releases/tag/0.5)! Datasette is like a swiss army knife tool for exploring data but also allows you to publish that data to the web.
 
 Everything about Datasette feels great - the only problem is that it still feels slightly too far out of reach for your average enthusiast / indie publisher. There are still a lot of command line prompts around... This is not criticism of Simon - he's an indie developer building the whole thing!
 
 Anyway - my point is that I think Datasette is going to get easier over time and may, if you're more technical than me, be a good tool for this *today*.
 
+## Market-making Small Databases
 
+Actually - maybe this isn't a real technology problem. Or at least not completely a technology problem. I think Substack is a good analogy here. Substack's innovation comes in two flavors: firstly it is a lovely UX for creating, publishing and maintaining a paid email list. But secondly it's also creating social validation and educating people that running a paid email list is a viable business.
 
-## Market-making Databases
+I think there might be a similar market-making innovation here for small databases.
 
-Two ideas:
+Imagine a Substack for databases - an easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions. Maybe even roll in some of the data-cleanup and data-collection magic that machine learning and web scraping offers.
 
-1) Creating a database creates a market (I'm sure there's some theory that a market IS a database). Consider the Brooklyn artist database example I mentioned earlier. If we imagine this exists and 
+Yes, you could assemble this exact business model today using a combination of Memberful and Airtable and Substack but.... it's clunky. And there isn't the market-awareness that running a business like this is viable, though there are some examples (e.g. [2pmlinks](https://2pml.com/) which is a paid email newsletter but has a set of small-databases attached to it called their Executive Library with collections of things like indie media businesses or an agency index).
 
-2) Substack for databases. What if there was a simple tool for creating and maintaining databases. Pair this with a pay-wall so people have to pay to access the database and pair it with a weekly update/email tool that let's you . Yes, you could assemble this together using memberful and airtable or something but.... it's clunky and doesn't have a nice UI.
+## Conclusion: Let a thousand small libraries bloom
 
-https://2pml.com/publishers/
-Startupy
+Depending on your mental model of the world, the shape of the data you want to work with, and your technical aptitude you might have strong reactions to this post. Things like "just use a real database!" or "no way!" or "This is missing the point" but I sincerely believe there is a whole set of publishing use cases waiting in the wings that are underserved today.
 
-## Conclusion
-
-Depending on your mental model of the world, the shape of the data you want to work with, and your technical aptitude you will likely have strong reactions to this post. Things like "no way!" or "This is missing the point" but 
-
-Empowering more individuals to publish, maintain and collaborate on small indexes I think would be a positive.
+I want to empower more individuals to publish, maintain and collaborate on small indexes. To build a million tiny libraries, community databases, weird collections and indie indexes.
 
 
 --
