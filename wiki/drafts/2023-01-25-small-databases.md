@@ -120,7 +120,7 @@ width:100%
 }
 </style>
 
-<details class="ba b--black-20 pa2 bg-light-green" style="width:150%">
+<details class="ba b--black-20 pa2 bg-light-green" id="airtableframe">
 <summary>An airtable of resources</summary>
 <iframe class="airtable-embed pv2" src="https://airtable.com/embed/shrYY94GrqVB4HUsi?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </details>
