@@ -126,7 +126,7 @@ Imagine a Substack for databases - an easy tool for creating, maintaining and pu
 
 Yes, you could assemble this exact business model today using a combination of Memberful and Airtable and Substack but.... it's clunky. And there isn't the market-awareness that running a business like this is viable, though there are some examples (e.g. [2pmlinks](https://2pml.com/) which is a paid email newsletter but has a set of small-databases attached to it called their Executive Library with collections of things like indie media businesses or an agency index).
 
-## Conclusion: Let a thousand small libraries bloom
+## Conclusion: How can we let a thousand small libraries bloom?
 
 Depending on your mental model of the world, the shape of the data you want to work with, and your technical aptitude you might have strong reactions to this post. Things like "just use a real database!" or "no way!" or "This is missing the point" but I sincerely believe there is a whole set of publishing use cases waiting in the wings that are underserved today.
 
