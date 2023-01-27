@@ -42,7 +42,7 @@ To highlight this tension, consider a couple of examples:
 * Jarrett Fuller publishes a lovely collection of readings for people interested in design [readings.design](https://readings.design/) that has 251 resources but what appear to be manually created tags and no search.
 * My friend Jonah Dragan has been documenting amazing kids picture books, both popular and obscure. He has [over 900 archived on his Instagram](https://www.instagram.com/jonahdragan/?hl=en). How might this archive become, well, an archive?
 
-To be clear, I'm not being critical of these resources! I very much enjoy them all and love that they exist. Indie web creators will use [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) to use whatever tools they have to build things and that's great. The Cyberfeminism Index even has an explict focus on long-term maintainability and lack of dependencies which is great.
+To be clear, I'm not being critical of these resources! I very much enjoy them all and love that they exist. Indie web creators will use [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) to use whatever tools they have to build things and that's great. The Cyberfeminism Index even has an explicit focus on long-term maintainability and lack of dependencies which is great.
 
 But it shows some of the potential use cases where people are looking for "database publishing".
 
@@ -108,7 +108,7 @@ If you have suggestions and additions - email me!
 
 ## Datasette
 
-I'd like to call out [Datasette](https://datasette.io/) in particular. Datasette is "An open source multi-tool for exploring and publishing data" created and maintained by Simon Wilson.
+I'd like to call out [Datasette](https://datasette.io/) in particular. Datasette is "An open source multi-tool for exploring and publishing data" created and maintained by Simon Willison.
 
 Of all the projects I've come across Datasette feels so closely ideologically aligned to what I want. It's open source, Simon really cares about helping non-developers use it (via a cloud product, a [desktop product](https://datasette.io/desktop) etc) - it's even building out [web-scraping functionality](https://github.com/cldellow/datasette-scraper/releases/tag/0.5)! Datasette is like a swiss army knife tool for exploring data but also allows you to publish that data to the web.
 
