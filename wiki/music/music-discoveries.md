@@ -3,6 +3,16 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: 6’s to 9’s (feat. Rationale)
+   author: Big Wild
+   image: https://f4.bcbits.com/img/a2914013555_16.jpg
+   notes: Happy funky electro grooves
+   href: https://www.youtube.com/watch?v=vH-9n4Zc26A
+ - title: Ali
+   author: Vieux Farka Touré & Khruangbin
+   image: https://f4.bcbits.com/img/a3694575922_16.jpg
+   notes: West African guitar, mixed with dub and electronics. Lovely, groovy and warm.
+   href: https://khruangbin.bandcamp.com/album/ali
  - title: Erratic Texting Behavior
    author: Jason Kolar
    image: https://f4.bcbits.com/img/a1753706577_16.jpg
