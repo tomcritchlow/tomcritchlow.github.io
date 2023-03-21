@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Tomorrow, and Tomorrow, and Tomorrow
+   author: Gabrielle Zevin
+   link: https://openlibrary.org/works/OL26004554W
+   image: https://covers.openlibrary.org/b/id/12859975-L.jpg
+   date_finished: 03/21/2023
+   notes: What a fun read! Poignant, fun and really engrossing. It reminded me of hints of Kavalier and Clay by Michael Chabon at times though I don't think it had quite the same depth. Recommended though!
  - title: Captains of the sands
    author: Jorge Amado
    link: https://openlibrary.org/works/OL19709950W
