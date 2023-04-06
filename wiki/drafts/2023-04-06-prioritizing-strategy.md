@@ -34,11 +34,24 @@ This in turn leads us to question the current state of the business in a new lig
 
 The first insight is that prioritization is often actually not that hard - clients roughly already know what they should be doing, and they roughly 
 
+
+
 ## Sequencing is more interesting & more useful
 
 I think sequencing is more interesting and more useful 
 
 https://caseyaccidental.com/chief-product-officer-first-year
+
+
+Here's an example output from one of these workshops with a business that sells online courses:
+
+![](/images/strategy-roadmap.png)
+
+## Tradeoffs and Revealed Values
+
+https://vaughntan.org/unpacking-boris
+
+Revealed values are really important - especially in small teams. 
 
 ## Identifying the engagement trigger
 
@@ -49,14 +62,30 @@ Clients come to me with some broad ask "help us with our strategy" but it's ofte
 
 Answering the specific question of course never feels very satisfying - partly because there are no answers. There is only a sense of understanding with clarity the situation and the opportunities.
 
+An engagement trigger is a great way to situate the engagement (why now) and to ensure that at least one portion of the output points directly to this trigger.
+
+## A sketch of an offering: Giving Clients New Ways of thinking
 
 
-https://vaughntan.org/unpacking-boris
+Ways for an exec team to upgrade their thinking - no one is going to buy that directly, but I think it's the secret job to be done for this kind of workshop.
+
+So with that frame, and reviewing the previous work I've done and seeing where the most value is it typically comes in four ways:
+
+1. Dashboards are a way of seeing more clearly how the business works
+2. Sequencing is a way of thinking through tradeoffs
+3. Narratives are ways to think through direction
+4. Process and capabiliteis are a way to think through what's possible
+
+
+![](/images/business-workshops.svg)
+
+Dashboards are ways of thinking: https://tomcritchlow.com/2022/05/06/executive-dashboards/
 
 
 
 
-![](/images/strategy-roadmap.png)
+
+
 
 
 I think this is useful. But... I think perhaps the client 
@@ -72,20 +101,8 @@ e.g. "Google is comfortable with holding companies operating multiple sites for 
 
 4. Models (if we improve conversion by X% then that's $YYYk in revenue)
 
-## Giving Clients New Ways of thinking
-
-Ways for an exec team to upgrade their thinking - no one is going to buy that directly, but I think it's the secret job to be done for this kind of workshop.
-
-So with that frame, and reviewing the previous work I've done and seeing where the most value is it typically comes in four ways:
-
-1. Dashboards are a way of seeing more clearly how the business works
-2. Sequencing is a way of thinking through tradeoffs
-3. Narratives are ways to think through direction
-4. Process and capabiliteis are a way to think through what's possible
 
 
-
-Dashboards are ways of thinking: https://tomcritchlow.com/2022/05/06/executive-dashboards/
 
 
 ## Summary
