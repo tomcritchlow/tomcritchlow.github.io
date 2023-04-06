@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Esja
+   author: Hania Rani
+   image: https://f4.bcbits.com/img/a1351551068_16.jpg
+   notes: Mesmerizing piano, reminiscent of phillip glass
+   href: https://haniarani.bandcamp.com/album/esja
  - title: 6’s to 9’s (feat. Rationale)
    author: Big Wild
    image: https://f4.bcbits.com/img/a2914013555_16.jpg
