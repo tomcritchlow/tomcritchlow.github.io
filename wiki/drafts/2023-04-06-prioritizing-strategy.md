@@ -92,7 +92,7 @@ Small teams are just humans (spoiler alert: so are large teams) and their biases
 
 ## Identifying the engagement trigger
 
-Clients come to me with some broad ask "help us with our strategy" but it's often a specific trigger. Two that recently happneed:
+Clients come to me with some broad ask "help us with our strategy" but it's often a specific trigger. Two that recently happened:
 
 1. A very small team hired a new full-time role so they suddenly had more resources. How should they deploy these resources? How should they evolve their business as a result?
 2. A business feeling uncertain about the rise of chatGPT and how it impacts their business
@@ -110,9 +110,8 @@ So with that frame, and reviewing the previous work I've done and seeing where t
 
 1. Dashboards are a way of seeing more clearly how the business works
 2. Sequencing is a way of thinking through tradeoffs
-3. Narratives are ways to think through direction
-4. Process and capabiliteis are a way to think through what's possible
-
+3. Narratives are ways to think through principles and values
+4. Capabilities (and process) are a way to think through what's possible
 
 ![](/images/business-workshops.svg)
 
