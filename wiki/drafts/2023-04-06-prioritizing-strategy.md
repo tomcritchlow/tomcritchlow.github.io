@@ -4,7 +4,7 @@ subtitle: Notes on sequencing, strategy maps and knowledge
 layout: blog
 ---
 
-Recently I've done a few consulting projects that look like a "business review" where I work with a team on strategy, but explicitly putting the whole business on the table as context. As I think about scaling up and formalizing this offering I've been thinking about where the value is for these sessions, what clients want, and where clients get stuck.
+I've done a few consulting projects recently that look like a "full business review" where I work with a team on strategy, but explicitly putting the whole business on the table as context. I'm thinking about scaling up and formalizing this offering so I've been musing about where the value is for these sessions, what clients want, and where clients get stuck.
 
 The format for these business review sessions today is:
 - Initial exploratory kickoff to align on objectives
@@ -12,9 +12,9 @@ The format for these business review sessions today is:
 - Two-day workshop (in a remote world typically spread over 3-4 sessions)
 - A summary presentation that captures the key ideas from the workshop
 
-Given my background these sessions typically focus on growth, but the nice thing about expanding the frame from a typical consulting engagement is we deliberately put everything on the table: operations, process, people, funding etc. It's nice to try and look at the business as a whole so that when we get into the weeds with a particular channel or problem (which we inevitably do) we can keep the broader business context in mind.
+Given my background, these sessions typically focus on growth, but the nice thing about expanding the frame from a typical consulting engagement is we deliberately put everything on the table: operations, process, people, funding etc. It's nice to try and look at the business as a whole so that when we get into the weeds with a particular problem (which we inevitably do) we can keep the broader business context in mind.
 
-It's surprising how useful this broader company context is - I get the impression that most leadership teams really don't give themselves permission to zoom in and out from the macro to the micro in the same session and this causes a lot of bad decision making.
+It's surprising how useful this broader company context is - I get the impression that most leadership teams really don't give themselves permission to zoom in and out from the macro to the micro in the same session - and this causes a lot of bad decision making.
 
 The tension of course with these workshop sessions is that "strategy" and "roadmaps" are abstract concepts and not particularly useful. What can you accomplish in a two-day session that has real value for a client?
 
@@ -24,34 +24,71 @@ But is prioritization really that useful?
 
 ## Prioritization sounds concrete but isn't actually that interesting
 
-While clients often ask for a "prioritized roadmap" I don't think it's actually that useful. Clients already know roughly what to do, and the prioritization is often also fairly straightforward. Instead, there's typically some underlying feeling that what is currently on the roadmap won't prepare them correctly for the 18-month+ time horizon.
+While clients often ask for a "prioritized roadmap" I don't think it's actually that useful. Clients already know roughly what to do, and the prioritization is often also fairly straightforward. Instead, there's typically some underlying feeling that what is currently on the roadmap won't prepare them correctly for the medium/long term future.
 
-So then we dig a little deeper to explore the question "given belief X about the future, why are we not doing anything about it on our roadmap?".
+So then we dig a little deeper to explore the question *"given belief X about the future, why are we not doing anything about it on our roadmap?"*.
 
-THIS question starts to get a little more interesting - the first thing you realize is that we often don't have enough clarity around the 18-month future state. 
-
-This in turn leads us to question the current state of the business in a new light. 
-
-The first insight is that prioritization is often actually not that hard - clients roughly already know what they should be doing, and they roughly 
-
+THIS question starts to get a little more interesting - the first thing you realize is that we often don't have enough clarity around the future state - there is an abstract vision for the future, but no concrete clarity.
 
 
 ## Sequencing is more interesting & more useful
 
 I think sequencing is more interesting and more useful 
 
-https://caseyaccidental.com/chief-product-officer-first-year
+<blockquote class="quoteback" darkmode="" data-title="What%20Type%20of%20Job%20is%20This%3A%20My%20First%20Year%20as%20Chief%20Product%20Officer" data-author="Casey Winters" cite="https://caseyaccidental.com/chief-product-officer-first-year">
+One dirty secret behind the work of many executives and product leaders is that our strategies aren’t that innovative. There are a few playbooks we generally run to improve performance in companies depending on the business situation after we’ve gathered the right insight.
+<footer> <cite><a href="https://caseyaccidental.com/chief-product-officer-first-year">https://caseyaccidental.com/chief-product-officer-first-year</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+Casey goes on to talk about not making a new strategy, but enforcing better sequencing:
 
-Here's an example output from one of these workshops with a business that sells online courses:
+![](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM.png)
+
+I see this a lot in the clients I work with - a sense that they want to do everything at once, without any sense of 
+
+I've done this kind of sequencing myself, this is an example from a consulting engagement with a business that sells online courses (with key details removed obviously):
 
 ![](/images/strategy-roadmap.png)
 
+This isn't really a prioritization (it doesn't tell us what to do first) and isn't really a roadmap (it doesn't tell us when things will happen) but it still adds some clarity by ensuring the various opportunities in front of us are connected and dependent in various ways.
+
 ## Tradeoffs and Revealed Values
 
-https://vaughntan.org/unpacking-boris
+Of course you're still left with some choice - which things do we pursue first? Well this starts to become a matter 
+
+<blockquote class="quoteback" darkmode="" data-title="Unpacking%20Boris" data-author="Vaughn Tan" cite="https://vaughntan.org/unpacking-boris">
+<p>Second, your tradeoff pattern shows more about your values than the goals you’re trying to achieve. A clothing company demonstrates different values if it is willing to use cheaper high-pesticide, water-intensive cotton than if it insists on only using low-input cotton in its products. What you choose to do and not do reveals what is and isn’t important. This is another way of saying that what a person or organization implicitly believes is valuable (or good, or moral, or worthwhile) determines the tradeoffs that are made.</p>
+<p>Different people and organizations have different tradeoff patterns because they have different values, different resources, or different constraints. Usually, all three forms of difference are at work.</p>
+<footer> <cite><a href="https://vaughntan.org/unpacking-boris">https://vaughntan.org/unpacking-boris</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 Revealed values are really important - especially in small teams. 
+
+
+
+## Gaining clarity on the principles
+
+Just like values, where there is surface level alignment but once you dig it unravels, there is also principles. Independent of the specific initiatives and measured goals, what are we trying to do?
+
+Most clients cheerfully say something like: we're trying to grow!
+
+But when you start to unpack that, trouble starts - growth at all costs? No, of course not. Growth via raising capital? Oh lord no.
+
+It turns out there often isn't a well articulated higher level objective. Nathan articulates that well in his piece on [problems with prioritization](https://every.to/divinations/how-to-prioritize-a-roadmap):
+
+<blockquote class="quoteback" darkmode="" data-title="How%20to%20Prioritize%20a%20Roadmap" data-author="Nathan Baschez" cite="https://every.to/divinations/how-to-prioritize-a-roadmap">
+<h2>9. Define an organizing principle</h2><p>When anything goes, it’s impossible to choose between competing alternatives. There must be some strategic frame against which to measure ideas. But too often, the framing of this goal is taken for granted. Startups obsess over weekly growth rates, and public companies obsess over margins—but these are goals, not strategies. The best companies choose narrative frames in addition to measurable goals that help them stay focused.</p><p>For example, at Substack we cared about week-over-week growth like everyone else, but we also had organizing principles like “attract quality writers who are ready to go full-time on paid newsletters” that helped us organize our roadmap. For Lex, our current organizing principle is to build the best “first draft” writing experience in the world. If we only thought about the metrics we would be lost.</p>
+<footer> <cite><a href="https://every.to/divinations/how-to-prioritize-a-roadmap">https://every.to/divinations/how-to-prioritize-a-roadmap</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+## Product/Market/Founder Fit
+
+This probably deserves it's own post but suffice to say, for small teams it's much less about what the right answer is, but what the right answer is, *given the biases of the founding team*.
+
+Small teams are just humans (spoiler alert: so are large teams) and their biases show through in very obvious ways. Perhaps distrustful of sales, or holding onto the notion of product led growth because that's what worked at the last place. The way the founding team biases 
 
 ## Identifying the engagement trigger
 
