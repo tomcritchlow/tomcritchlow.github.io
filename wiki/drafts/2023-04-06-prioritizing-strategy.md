@@ -4,7 +4,18 @@ subtitle: Notes on sequencing, strategy maps and knowledge
 layout: blog
 ---
 
-I've done a few consulting projects recently that look like a "full business review" where I work with a team on strategy, but explicitly putting the whole business on the table as context. I'm thinking about scaling up and formalizing this offering so I've been musing about where the value is for these sessions, what clients want, and where clients get stuck.
+Most of my consulting work connects to "marketing strategy" in some way - clients come wanting to talk about growing their business. But the funny thing about growth and marketing is that each component is like a thread that, once pulled, unravels the whole spool.
+
+* Struggling with distribution? How's your analytics?
+* Struggling with SEO? How's your product?
+* Struggling with content? How's your narrative?
+* Struggling with margin? How's your sales?
+
+Every question seems to open up an interconnected mess.
+
+It's why I start every consulting engagement asking 1,000 questions. I'm trying to understand the context of the client environment, trying to see how all the threads are interconnected.
+
+So it's been fun recently to do a few projects that look like a "full business review" where I work with a team on strategy, but **explicitly putting the whole business on the table as context**. I'm thinking about scaling up and formalizing this offering so I've been musing about where the value is for these sessions, what clients want, and where clients get stuck.
 
 The format for these business review sessions today is:
 - Initial exploratory kickoff to align on objectives
@@ -12,63 +23,90 @@ The format for these business review sessions today is:
 - Two-day workshop (in a remote world typically spread over 3-4 sessions)
 - A summary presentation that captures the key ideas from the workshop
 
-Given my background, these sessions typically focus on growth, but the nice thing about expanding the frame from a typical consulting engagement is we deliberately put everything on the table: operations, process, people, funding etc. It's nice to try and look at the business as a whole so that when we get into the weeds with a particular problem (which we inevitably do) we can keep the broader business context in mind.
+Given my background, these sessions typically focus on growth, but the nice thing about expanding the frame from a typical consulting engagement is we deliberately put everything on the table: operations, process, people, funding etc. It's useful to try and look at the business as a whole so that when we get into the weeds with a particular problem (which we inevitably do) we can keep the broader business context in mind.
 
-It's surprising how useful this broader company context is - I get the impression that most leadership teams really don't give themselves permission to zoom in and out from the macro to the micro in the same session - and this causes a lot of bad decision making.
+It's surprising how useful this broader company context is - I get the impression that most leadership teams really don't give themselves permission to zoom in and out from macro to micro in the same session - and this causes a lot of bad decision making.
 
 The tension of course with these workshop sessions is that "strategy" and "roadmaps" are abstract concepts and not particularly useful. What can you accomplish in a two-day session that has real value for a client?
 
-In my conversations with clients we often settle on "prioritization" as the output. As in we'll come out of the two days with "a prioritized roadmap" or a "set of strategic priorities".
+In early conversations with clients we usually settle on "prioritization" as the tangible output. As in - we'll come out of the two days with "a prioritized roadmap" or a "set of strategic priorities".
 
-But is prioritization really that useful?
+The reality is a bit messier than that - the value from the session typically ends up a mixture of clarity around the big picture and which direction we're headed, combined with a few very specific key breakthroughs which unlock immediate action on projects.
 
-## Prioritization sounds concrete but isn't actually that interesting
+This could be a useful insight around content distribution, or an insight about SEO success, or an insight around job responsibility for an upcoming hire, or a key way to separate or integrate different business units.
 
-While clients often ask for a "prioritized roadmap" I don't think it's actually that useful. Clients already know roughly what to do, and the prioritization is often also fairly straightforward. Instead, there's typically some underlying feeling that what is currently on the roadmap won't prepare them correctly for the medium/long term future.
+In the end, prioritization isn't really the useful thing.
 
-So then we dig a little deeper to explore the question *"given belief X about the future, why are we not doing anything about it on our roadmap?"*.
+## The roadmap is not the territory
 
-THIS question starts to get a little more interesting - the first thing you realize is that we often don't have enough clarity around the future state - there is an abstract vision for the future, but no concrete clarity.
+Prioritization sounds concrete but isn't actually that interesting. Clients already know roughly what to do - and have a prioritized roadmap. So what's the problem?
 
+The challenge facing the client is typically some underlying feeling that what is currently on the roadmap today won't prepare them correctly for tomorrow's future. There's a belief that they need to **do things differently** or **do new things** to prepare for the changing future.
 
-## Sequencing is more interesting & more useful
+The real challenge typically ends up being **"how do we invest in doing NEW things, given our existing prioritized roadmap?"**. The client is looking at an existing roadmap, trying to add brand new things to it and so imagines that a new version of the prioritized roadmap is what they need.
 
-I think sequencing is more interesting and more useful 
+But the challenge runs deeper. Doing things differently, or doing brand new things is HARD for organizations. You have to fight against existing roadmaps, existing biases, existing goals, existing routines and processes.
+
+And, crucially, it's not about a well defined roadmap where we understand the variables. It's impossible to forecast and roadmap a future for activities we don't understand yet. How much will it cost to invest in this new channel? How fast can we see success doing this new thing? How many pieces of content can we create using the new process?
+
+## Management is prediction, and it's hard to predict new things
+
+Businesses are learning engines and management is prediction. Cedric Chin is writing a wonderful series right now on management as prediction and what that actually means in practice:
+
+<blockquote class="quoteback" darkmode="" data-title="Becoming%20Data%20Driven%20in%20Business%3A%20A%20Series" data-author="Cedric Chin" cite="https://commoncog.com/becoming-data-driven-in-business/">
+What does it mean to be data driven in business? Most people think being data driven means looking at charts on a daily basis. Or they attempt to use data in their orgs, and then fall into one of the many traps that come with the territory. How do you <em>actually get good at using data for your operations?</em> And how do you build the mindset and the organisational capabilities necessary to do it?
+<footer>@commoncog <cite><a href="https://commoncog.com/becoming-data-driven-in-business/">https://commoncog.com/becoming-data-driven-in-business/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+The key here is that for a business that wants to do new things - you need to, well DO THINGS before you really understand how they work or what the effects are. They're new after all!
+
+So here we start to realize that maybe a prioritized roadmap isn't the real goal here - what we need is something that can guide is, but has plenty of room for learning, refinement and experimentation along the way.
+
+## Sequencing is like prioritization with more unknowns
+
+While not explicitly asked for, during these business review consulting sessions I often end up creating a kind of sequencing view of their roadmap. If you think of strategy as the most abstract, and a roadmap as the most detailed - then a sequence is somewhere in the middle.
+
+I really like this diagram from Casey Winters' post on the realities of a CPO role:
 
 <blockquote class="quoteback" darkmode="" data-title="What%20Type%20of%20Job%20is%20This%3A%20My%20First%20Year%20as%20Chief%20Product%20Officer" data-author="Casey Winters" cite="https://caseyaccidental.com/chief-product-officer-first-year">
-One dirty secret behind the work of many executives and product leaders is that our strategies aren’t that innovative. There are a few playbooks we generally run to improve performance in companies depending on the business situation after we’ve gathered the right insight.
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-1798" src="https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM.png" alt="" width="1392" height="712" srcset="https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM.png 1392w, https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM-300x153.png 300w, https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM-1024x524.png 1024w, https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM-768x393.png 768w, https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM-624x319.png 624w" sizes="(max-width: 1392px) 100vw, 1392px"></p>
 <footer> <cite><a href="https://caseyaccidental.com/chief-product-officer-first-year">https://caseyaccidental.com/chief-product-officer-first-year</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Casey goes on to talk about not making a new strategy, but enforcing better sequencing:
+Casey goes on to talk about not making a new strategy, but enforcing better sequencing of their existing strategy. We know what to do, but enforcing some sequencing can bring a sense of clarity to what we're doing NOW and what we're doing NEXT. Something weirdly missing from a lot of strategy (which often comes down to 5 things we should be doing right now).
 
-![](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/10/Screen-Shot-2021-10-03-at-2.26.18-PM.png)
-
-I see this a lot in the clients I work with - a sense that they want to do everything at once, without any sense of 
-
-I've done this kind of sequencing myself, this is an example from a consulting engagement with a business that sells online courses (with key details removed obviously):
+Here's an example of a sequencing that came out of a consulting engagement with a business that sells online courses (with key details removed obviously):
 
 ![](/images/strategy-roadmap.png)
+
+There's a lot here - mostly because what this diagram shows us is what NOT to do. It allows us to choose a lane and focus.
 
 This isn't really a prioritization (it doesn't tell us what to do first) and isn't really a roadmap (it doesn't tell us when things will happen) but it still adds some clarity by ensuring the various opportunities in front of us are connected and dependent in various ways.
 
 ## Tradeoffs and Revealed Values
 
-Of course you're still left with some choice - which things do we pursue first? Well this starts to become a matter 
+Of course you're still left with some choice - which things do we pursue first? How do we choose between the various paths we could follow? Once you really start to explore this idea you realize that there's far more individual belief and values work going on than you might assume for "the world of business".
+
+I love how Vaughn Tan breaks this down in the description of his Boris workshops:
 
 <blockquote class="quoteback" darkmode="" data-title="Unpacking%20Boris" data-author="Vaughn Tan" cite="https://vaughntan.org/unpacking-boris">
-<p>Second, your tradeoff pattern shows more about your values than the goals you’re trying to achieve. A clothing company demonstrates different values if it is willing to use cheaper high-pesticide, water-intensive cotton than if it insists on only using low-input cotton in its products. What you choose to do and not do reveals what is and isn’t important. This is another way of saying that what a person or organization implicitly believes is valuable (or good, or moral, or worthwhile) determines the tradeoffs that are made.</p>
+<p>Your tradeoff pattern shows more about your values than the goals you’re trying to achieve. A clothing company demonstrates different values if it is willing to use cheaper high-pesticide, water-intensive cotton than if it insists on only using low-input cotton in its products. What you choose to do and not do reveals what is and isn’t important. This is another way of saying that what a person or organization implicitly believes is valuable (or good, or moral, or worthwhile) determines the tradeoffs that are made.</p>
 <p>Different people and organizations have different tradeoff patterns because they have different values, different resources, or different constraints. Usually, all three forms of difference are at work.</p>
 <footer> <cite><a href="https://vaughntan.org/unpacking-boris">https://vaughntan.org/unpacking-boris</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Revealed values are really important - especially in small teams. 
+Revealed values are really important - especially in small teams.
 
+It's why I've started referring to product/market/founder fit instead of product/market fit. Again, the problem with most clients is not that they don't know what to do - they know what to do, but they don't really understand why they're not doing it. This leads to personal frustration and burnout. So it's key to try and design a strategy that isn't an abstract ideal but actually aligns with the capabilities, values and beliefs of the team that is going to have to execute them...!
 
+In a two-day workshop, how much can you change beliefs and values? You can't. But you can help with alignment between team members.
 
 ## Gaining clarity on the principles
+
+When I was more junior in my career I never really understood the idea behind creating a list of principles for a project or team. It all seemed too abstract and management-speak. 
 
 Just like values, where there is surface level alignment but once you dig it unravels, there is also principles. Independent of the specific initiatives and measured goals, what are we trying to do?
 
@@ -83,12 +121,6 @@ It turns out there often isn't a well articulated higher level objective. Nathan
 <footer> <cite><a href="https://every.to/divinations/how-to-prioritize-a-roadmap">https://every.to/divinations/how-to-prioritize-a-roadmap</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-## Product/Market/Founder Fit
-
-This probably deserves it's own post but suffice to say, for small teams it's much less about what the right answer is, but what the right answer is, *given the biases of the founding team*.
-
-Small teams are just humans (spoiler alert: so are large teams) and their biases show through in very obvious ways. Perhaps distrustful of sales, or holding onto the notion of product led growth because that's what worked at the last place. The way the founding team biases 
 
 ## Identifying the engagement trigger
 
@@ -128,14 +160,6 @@ I think this is useful. But... I think perhaps the client
 
 Clients ask for prioritization, but in fact a formal sequencing or rigid roadmap are less useful than:
 
-1. Relationships (if we do X, then it drives Y)
-
-2. Assumptions & mental models (ah, but you don't need to merge these sites, you can )
-e.g. "Google is comfortable with holding companies operating multiple sites for the same keywords"
-
-3. Guiding principles / positioning ("Become the most trusted brand")
-
-4. Models (if we improve conversion by X% then that's $YYYk in revenue)
 
 
 
