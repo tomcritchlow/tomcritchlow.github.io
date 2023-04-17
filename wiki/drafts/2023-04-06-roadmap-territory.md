@@ -1,6 +1,6 @@
 ---
-title: How to Prioritize a Strategy Roadmap
-subtitle: Notes on sequencing, strategy maps and knowledge
+title: The roadmap is not the territory
+subtitle: Notes on sequencing, strategy maps and business knowledge
 layout: blog
 ---
 
@@ -85,6 +85,8 @@ There's a lot here - mostly because what this diagram shows us is what NOT to do
 
 This isn't really a prioritization (it doesn't tell us what to do first) and isn't really a roadmap (it doesn't tell us when things will happen) but it still adds some clarity by ensuring the various opportunities in front of us are connected and dependent in various ways.
 
+Maybe the real value for a sequencing map like this is to help us understand how to get started with new things, and what we can expect to learn along the way. It's making the unit of progress *learning*, not time. 
+
 ## Tradeoffs and Revealed Values
 
 Of course you're still left with some choice - which things do we pursue first? How do we choose between the various paths we could follow? Once you really start to explore this idea you realize that there's far more individual belief and values work going on than you might assume for "the world of business".
@@ -106,8 +108,6 @@ In a two-day workshop, how much can you change beliefs and values? You can't. Bu
 
 ## Gaining clarity on the principles
 
-When I was more junior in my career I never really understood the idea behind creating a list of principles for a project or team. It all seemed too abstract and management-speak. 
-
 Just like values, where there is surface level alignment but once you dig it unravels, there is also principles. Independent of the specific initiatives and measured goals, what are we trying to do?
 
 Most clients cheerfully say something like: we're trying to grow!
@@ -122,58 +122,30 @@ It turns out there often isn't a well articulated higher level objective. Nathan
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-## Identifying the engagement trigger
+When I was more junior in my career I never really understood the idea behind creating a list of principles for a project or team. It all seemed too abstract and management-speak. Of course it IS management-speak. Principles are essentially a compression of a strategy so that they can survive contact with different teams and different team members.
 
-Clients come to me with some broad ask "help us with our strategy" but it's often a specific trigger. Two that recently happened:
+As Nathan mentions here - a narrative frame for a project can be a powerful guiding force as you navigate the unknown roadmap of doing new things.
 
-1. A very small team hired a new full-time role so they suddenly had more resources. How should they deploy these resources? How should they evolve their business as a result?
-2. A business feeling uncertain about the rise of chatGPT and how it impacts their business
+## In conclusion: Giving Clients New Ways of thinking
 
-Answering the specific question of course never feels very satisfying - partly because there are no answers. There is only a sense of understanding with clarity the situation and the opportunities.
+Ok, so this post is far too long and rambling but here's the reveal - maybe (maybe!) the real value for these workshops is helping clients find new ways of looking at their business reality.
 
-An engagement trigger is a great way to situate the engagement (why now) and to ensure that at least one portion of the output points directly to this trigger.
+If we accept the premise that strategy is a fluid, evolving thing - what is the most useful outcome from a moment-in-time intervention? For it to have enduring value I think it must allow us to think through situations we have not yet encountered. New tools for thinking through problems and situations.
 
-## A sketch of an offering: Giving Clients New Ways of thinking
+Ways for an executive team to upgrade their thinking. Of course, no one is going to buy that directly, but I think it's the secret job to be done for this kind of workshop.
 
+So, with that frame in mind the focus for this kind of "total business review" workshop is some combination of these four dimensions:
 
-Ways for an exec team to upgrade their thinking - no one is going to buy that directly, but I think it's the secret job to be done for this kind of workshop.
+**1) New dashboards embed new ways of seeing the world.** A dashboard[^dashboard] is essentially an embedded mental model for how the business works - and if you can help the client create a new dashboard you can help them see the world in new ways. This is often a precursor to doing new things and doing things in new ways - because they suddenly have a measurement framework for it. You manage what you measure after all.
 
-So with that frame, and reviewing the previous work I've done and seeing where the most value is it typically comes in four ways:
+[^dashboard]: See [my post here on executive dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) and why I find them so interesting.
 
-1. Dashboards are a way of seeing more clearly how the business works
-2. Sequencing is a way of thinking through tradeoffs
-3. Narratives are ways to think through principles and values
-4. Capabilities (and process) are a way to think through what's possible
+**2) Sequencing is about what NOT to do, and what we need to learn.** Roadmaps imbue a false sense of confidence in the future but the reality is that if we want to do new things, or do things in new ways we need to DO things so that we can learn. Learning how they work, learning whether we're able to pull them off, learning how resources intensive they are. So a sequencing is a middle ground between abstract strategy and detailed roadmap.
 
-![](/images/business-workshops.svg)
+**3) New narrative frames**. Operating within the context of the individuals, beliefs, cultures and biases of the team you're working with it's about seeking new principles, new clarity and new naming for ideas that seem important but hard to gain consensus on.
 
-Dashboards are ways of thinking: https://tomcritchlow.com/2022/05/06/executive-dashboards/
+**4) Capabilities & process insights**. There's often a few key insights that come out of the two day session that help unlock next steps on key projects. Putting this through the lens of learning - these tend to function a bit like accelerated knowledge - you get to skip a few loops of do -> learn -> do by working with someone who knows the space, or has done it before.
 
+Maybe, after all that the real value add is clarity.
 
-
-
-
-
-
-
-I think this is useful. But... I think perhaps the client 
-
-Clients ask for prioritization, but in fact a formal sequencing or rigid roadmap are less useful than:
-
-
-
-
-
-
-## Summary
-
-Ok, so if we accept the premise that strategy is a fluid, evolving thing - what is the most useful outcome from a moment-in-time intervention? For it to have enduring value I think it must allow us to think through situations we have not yet encountered. Which is why I focus the output on:
-Dashboards
-Sequencing
-Narratives
-Process and capabilities
-
-
-Maybe after all the real value-add here is clarity. Clarity workshops. 
-
-https://twitter.com/round/status/1417540024782843906
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“ambiguity is the psychological malaise in which both mediocrity and evil thrive – an imperceptible sludge surrounding any endeavor defined by quality and vision<br><br>the most potent antidote to the toxicity of those unable, or unwilling, to offer leadership will always be: clarity”</p>&mdash; Maxim Leyzerovich (@round) <a href="https://twitter.com/round/status/1417540024782843906?ref_src=twsrc%5Etfw">July 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
