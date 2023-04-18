@@ -64,7 +64,7 @@ footer{
     <form class="" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
       <fieldset class="cf bn ma0 pa0">
         <div class="cf f5 helvetica">
-          <div class="red i pb2">Sign up to get notified of new chapters</div>
+          
           <label class="clip" for="email-address">Email Address</label>
           <input class="input-reset ba b--black-10 fl black-80 bg-white pa2 pv3 lh-solid w-70 w-75-m w-70-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email" value="" id="email-address">
           <input type="hidden" value="1" name="embed">
@@ -72,6 +72,19 @@ footer{
         </div>
       </fieldset>
     </form>
+
+    <form
+  action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://newsletter.tomcritchlow.com', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+<div class="red i pb2">Sign up to get notified of new chapters</div>
+  <input type="email" name="email" id="bd-email" class="input-reset ba b--black-10 fl black-80 bg-white pa2 pv3 lh-solid w-70 w-75-m w-70-l br2-ns br--left-ns"/>
+  <input type="submit" value="Subscribe" class="button-reset fl pv3 tc ba b--black-10 bg-animate bg-green hover-bg-dark-green white pointer w-30 w-25-m w-30-l br2-ns br--right-ns"/>
+  
+</form>
                       
   
   </div>
