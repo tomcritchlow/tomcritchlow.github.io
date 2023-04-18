@@ -29,9 +29,9 @@ It's surprising how useful this broader company context is - I get the impressio
 
 The tension of course with these workshop sessions is that "strategy" and "roadmaps" are abstract concepts and not particularly useful. What can you accomplish in a two-day session that has real value for a client?
 
-In early conversations with clients we usually settle on "prioritization" as the tangible output. As in - we'll come out of the two days with "a prioritized roadmap" or a "set of strategic priorities".
+In early conversations with clients we usually settle on "prioritization" as the tangible output, as in - we'll come out of the two days with "a prioritized roadmap" or a "set of strategic priorities".
 
-The reality is a bit messier than that - the value from the session typically ends up a mixture of clarity around the big picture and which direction we're headed, combined with a few very specific key breakthroughs which unlock immediate action on projects.
+The reality is a bit messier than that - the value from the session typically ends up a mixture of: clarity around the big picture, combined with a few very specific key breakthroughs which unlock immediate action on projects.
 
 This could be a useful insight around content distribution, or an insight about SEO success, or an insight around job responsibility for an upcoming hire, or a key way to separate or integrate different business units.
 
@@ -39,7 +39,7 @@ In the end, prioritization isn't really the useful thing.
 
 ## The roadmap is not the territory
 
-Prioritization sounds concrete but isn't actually that interesting. Clients already know roughly what to do - and have a prioritized roadmap. So what's the problem?
+Prioritization sounds concrete but isn't actually that interesting. Clients already know roughly what to do - and have a prioritized roadmap already. So what's the problem?
 
 The challenge facing the client is typically some underlying feeling that what is currently on the roadmap today won't prepare them correctly for tomorrow's future. There's a belief that they need to **do things differently** or **do new things** to prepare for the changing future.
 
@@ -61,11 +61,11 @@ What does it mean to be data driven in business? Most people think being data dr
 
 The key here is that for a business that wants to do new things - you need to, well DO THINGS before you really understand how they work or what the effects are. They're new after all!
 
-So here we start to realize that maybe a prioritized roadmap isn't the real goal here - what we need is something that can guide is, but has plenty of room for learning, refinement and experimentation along the way.
+So here we start to realize that maybe a prioritized roadmap isn't the real goal - what we need is something that can guide us, but has plenty of room for learning, refinement and experimentation along the way.
 
 ## Sequencing is like prioritization with more unknowns
 
-While not explicitly asked for, during these business review consulting sessions I often end up creating a kind of sequencing view of their roadmap. If you think of strategy as the most abstract, and a roadmap as the most detailed - then a sequence is somewhere in the middle.
+While not explicitly asked for, during these workshops I often end up creating a kind of sequencing view of their roadmap. If you think of strategy as the most abstract, and a roadmap as the most detailed - then a sequence is somewhere in the middle.
 
 I really like this diagram from Casey Winters' post on the realities of a CPO role:
 
@@ -104,7 +104,7 @@ Revealed values are really important - especially in small teams.
 
 It's why I've started referring to product/market/founder fit instead of product/market fit. Again, the problem with most clients is not that they don't know what to do - they know what to do, but they don't really understand why they're not doing it. This leads to personal frustration and burnout. So it's key to try and design a strategy that isn't an abstract ideal but actually aligns with the capabilities, values and beliefs of the team that is going to have to execute them...!
 
-In a two-day workshop, how much can you change beliefs and values? You can't. But you can help with alignment between team members.
+In a two-day workshop, how much can you change beliefs and values? You can't. But you CAN help with alignment between team members.
 
 ## Gaining clarity on the principles
 
@@ -132,9 +132,9 @@ Ok, so this post is far too long and rambling but here's the reveal - maybe (may
 
 If we accept the premise that strategy is a fluid, evolving thing - what is the most useful outcome from a moment-in-time intervention? For it to have enduring value I think it must allow us to think through situations we have not yet encountered. New tools for thinking through problems and situations.
 
-Ways for an executive team to upgrade their thinking. Of course, no one is going to buy that directly, but I think it's the secret job to be done for this kind of workshop.
+Ways for an executive team to upgrade their thinking. Of course, no one is going to buy that directly, but I think it's the real job to be done for this kind of workshop.
 
-So, with that frame in mind the focus for this kind of "total business review" workshop is some combination of these four dimensions:
+So, with that frame in mind the outcome for this kind of "total business review" workshop is some combination of these four dimensions:
 
 **1) New dashboards embed new ways of seeing the world.** A dashboard[^dashboard] is essentially an embedded mental model for how the business works - and if you can help the client create a new dashboard you can help them see the world in new ways. This is often a precursor to doing new things and doing things in new ways - because they suddenly have a measurement framework for it. You manage what you measure after all.
 
@@ -149,3 +149,5 @@ So, with that frame in mind the focus for this kind of "total business review" w
 Maybe, after all that the real value add is clarity.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“ambiguity is the psychological malaise in which both mediocrity and evil thrive – an imperceptible sludge surrounding any endeavor defined by quality and vision<br><br>the most potent antidote to the toxicity of those unable, or unwilling, to offer leadership will always be: clarity”</p>&mdash; Maxim Leyzerovich (@round) <a href="https://twitter.com/round/status/1417540024782843906?ref_src=twsrc%5Etfw">July 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+If you're interested in one of these workshops - get in touch.
