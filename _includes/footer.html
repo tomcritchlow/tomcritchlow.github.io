@@ -46,11 +46,17 @@
         <p class="f4 fw6 mb2 f6 mt0">
           Sign up for my tinyletter:
         </p>
-        <form action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tomcritchlow', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-            <input placeholder="Email Address" id="tlemail" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box">
-            <input type="hidden" value="1" name="embed"/>
-            <input type="submit" value="subscribe" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray">
-        </form>
+  
+        <form
+  action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://newsletter.tomcritchlow.com', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" name="email" id="bd-email" placeholder="Email Address" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box"/>
+  <input type="submit" value="Subscribe" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray"/>
+</form>
       </div>
     </section>
 
