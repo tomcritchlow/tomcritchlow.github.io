@@ -2,6 +2,18 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Night heron
+   author: Adam Brookes
+   link: https://openlibrary.org/works/OL19980021W
+   image: https://covers.openlibrary.org/b/olid/OL27160171M-L.jpg
+   date_finished: 04/17/2023
+   notes: Loved this! I don't read spy novels very often but Robin Sloan recommended it and I loved the story and the fast paced action. Fun change of pace - and there's some great writing in there. Recommended. 
+ - title: Mountain in the Sea
+   author: Ray Nayler
+   link: https://openlibrary.org/works/OL27172785W
+   image: https://covers.openlibrary.org/b/olid/OL38001523M-L.jpg
+   date_finished: 04/05/2023
+   notes: Fun to read this against the backdrop of GPT3/GPT4! I enjoyed the book but found it kind of fizzled out at the end. I was hoping it was going to work towards some kind of crescendo but found the ending just kind of weak. But I still enjoyed the read.
  - title: Tomorrow, and Tomorrow, and Tomorrow
    author: Gabrielle Zevin
    link: https://openlibrary.org/works/OL26004554W
