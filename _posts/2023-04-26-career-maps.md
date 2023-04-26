@@ -1,6 +1,6 @@
 ---
 title: What would a map of your career look like?
-subtitle: It only makes in hindsight
+subtitle: It only makes sense in hindsight
 layout: blog
 ---
 
