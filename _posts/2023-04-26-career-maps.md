@@ -35,6 +35,21 @@ Will writes one of my favorite management blogs and posted this piece a while ba
 
 ![](/images/career-map-3.png)
 
+# 4) Venkatesh Rao
+
+In Venkat's excellent book Art of Gig he outlines the idea of leverage curves:
+
+<blockquote class="quoteback" darkmode="" data-title="Leverage Curves vs. Career Paths" data-author="Venkatesh Rao" cite="https://artofgig.com/">
+<p>For people in paycheck careers, the “career path” is a familiar and useful long-term planning artifact. For free agents on the other hand, there is no such convenient construct, which makes meaningful long-term comparisons between paycheck and free-agent careers hard.</p><p>Worse, the lack&nbsp;<span class="il">of</span>&nbsp;such a construct means free agents often fail to even&nbsp;<em>imagine</em>&nbsp;meaningful progression in the work lives, leading to increasing disenchantment through lack&nbsp;<span class="il">of</span>&nbsp;growth.</p><p>So they do the same thing in Year 10 as they did in Year 1, not because they&nbsp;<em>want&nbsp;</em>to (which is a fine thing), but because they can’t imagine alternatives. Often, they end up rationalizing this lack&nbsp;<span class="il">of</span>&nbsp;imagination (a bad thing) as lack&nbsp;<span class="il">of</span>&nbsp;ambition (which can be piously spun as a holier-than-thou “good thing,” as in quitting the rat race and feeling superior to paycheck types).</p>
+<footer>Venkatesh Rao<cite> <a href="https://artofgig.com/">https://artofgig.com/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+And this great diagram:
+
+![](/images/career-map-4.png)
+
+If you're on the indie path - you gotta buy these books!
+
 ## Permissionless Identities
 
 All of these point to a kind of "career possibility space". Who could you become? I wrote a Little Futures essay on the coming age of permissionless identities that touches on careers, identities and more: 
