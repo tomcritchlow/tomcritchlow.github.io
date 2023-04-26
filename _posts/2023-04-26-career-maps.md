@@ -4,6 +4,8 @@ subtitle: It only makes in hindsight
 layout: blog
 ---
 
+I've been on a maps kick recently writing about [blog maps](https://tomcritchlow.com/2023/04/03/blog-maps/) and [roadmaps](https://tomcritchlow.com/2023/04/18/roadmap-territory/)! Let's talk about career maps...
+
 Careers only make sense in hindsight. And for indie consultants it's even worse - there are no well trodden paths. You have to kind of make it up as you go.
 
 So I really love it when people show their messy, meandering careers. Three visualizations struck me recently:
@@ -18,7 +20,7 @@ Read more about it and grab the Miro template to make your own here: <https://el
 
 ## 2) Michael Sklar
 
-Michael Sklar [posted this great career map](https://twitter.com/michaelsklar/status/1649036269115121664) that some great "maybes" for the future too:
+Michael Sklar [posted this great career map](https://twitter.com/michaelsklar/status/1649036269115121664) complete with paths NOT taken and pregnant with some great "maybes" for future possibilities:
 
 ![](/images/career-map-1.jpeg)
 
@@ -43,7 +45,17 @@ All of these point to a kind of "career possibility space". Who could you become
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-If you had to visualize your career, how would you do it?
+## Navigating by an internal compass
 
+One of my all time favorite Venkatesh posts fits this theme - how do you navigate a career, not by external factors but internal factors?
 
+<blockquote class="quoteback" darkmode="" data-title="The%20Calculus%20of%20Grit" data-author="@ribbonfarm" cite="https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/">
+If it isn’t crystal clear, I am advocating the view that if you find that what you are doing is ridiculously hard for <em>you, </em>it is the wrong thing for you to be doing.&nbsp; I maintain that you should <em>not </em>have to work significantly harder or faster to succeed today than you had to 50 years ago. A little harder perhaps. Mainly, you just have to drop external frames of reference and trust your internal navigation on a landscape of your own strengths.&nbsp; It may look like superhuman grit to an outsider, but if it feels like that inside to you, you’re doing something wrong.
+<footer>@ribbonfarm <cite><a href="https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/">https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+So, two ideas to ponder:
+
+1. How do you visualize your career past, present and future?
+2. What logic have you used to navigate by and how might you navigate the unknowns of your career futures?
