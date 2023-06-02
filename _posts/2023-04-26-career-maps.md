@@ -74,3 +74,17 @@ So, two ideas to ponder:
 
 1. How do you visualize your career past, present and future?
 2. What logic have you used to navigate by and how might you navigate the unknowns of your career futures?
+
+--
+
+Update 06/02/23:
+
+Love this career map from artist René Block via Ton Zylstra:
+
+<blockquote class="quoteback" darkmode="" data-title="Projects%20and%20Interlinkages%20%E2%80%93%20Interdependent%20Thoughts" data-author="" cite="https://www.zylstra.org/blog/2023/05/projects-and-interlinkages/">
+<p>During our visit to the Neues Museum in Neuremberg last week, this mind map stood out to me. Art collector, dealer and curator René Block (1942) made it as a sort of work autobiography for the period 1964-2014.</p>
+<p><a href="https://www.flickr.com/photos/tonz/52849988531/in/datetaken/" target="_blank" rel="noopener"><img decoding="async" src="https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock-640x427.jpg" alt="" width="640" height="427" class="aligncenter size-large wp-image-23109" srcset="https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock-640x427.jpg 640w, https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock-300x200.jpg 300w, https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock-768x512.jpg 768w, https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock-668x446.jpg 668w, https://www.zylstra.org/wp/wp-content/uploads/2023/05/projectsReneBlock.jpg 799w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>It stood out to me because it shows the evolution of his work, the connections between major phases and individual projects.</p>
+<footer> <cite><a href="https://www.zylstra.org/blog/2023/05/projects-and-interlinkages/">https://www.zylstra.org/blog/2023/05/projects-and-interlinkages/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
