@@ -18,11 +18,11 @@ There's a wonderful blog post called "Reality has a surprising amount of detail"
 
 It turns out there are no "simple" concepts. There's a surprising amount of detail all around us.
 
-I'd argue that this is a useful mental model for consultants working with clients. (Is the client changing? Sort of? It doesn't really *look* like they're changing): clients have a surprising amount of detail.
+I'd argue that this is a useful mental model for consultants working with clients. (Is the client changing? Sort of? It doesn't really *look* like they're changing): **clients have a surprising amount of detail**.
 
-The idea of providing "recommendations" to a client is like saying "now boil some water" - sometimes this is fine, but often times you'll find that day to day the devil is in the details.
+The idea of providing "recommendations" to a client is like saying "now boil some water" - sometimes this is fine, but oftentimes you'll find that this advice is insufficient to handle the day to day ambiguity and complexity of tiny streams of bubbles and sort of, kind of boiling water...
 
-But how do you create a strategy when there are infinite details? Well, spoiler alert, it's hard! It's why the model of "strategy and stewardship" from the Helsinki Design Lab has been so foundational for my own consulting practice:
+So how do you create a strategy when there are infinite details? Well, spoiler alert, it's hard! It's why the model of "strategy and stewardship" from the Helsinki Design Lab has been so foundational for my own consulting practice:
 
 <blockquote class="quoteback" darkmode="" data-title="Legible Practices" data-author="Helsinki Design Lab" cite="http://helsinkidesignlab.rip/peoplepods/themes/hdl/downloads/Legible_Practises.pdf">
 We invoke stewardship in place of words like “implement” and “execute” out of recognition that the latter imply a cleanliness or linear progression which is rarely found when working on a shared proposition in a complex environment. Inside a factory plans can be executed, orders implemented, and outcomes delivered, but innovations that engage with the messy reality of the social sphere do not happen so neatly.<div><br></div><div>What we describe also goes well beyond “facilitation,” which suggests that others do the important work. Stewardship
