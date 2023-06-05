@@ -38,3 +38,11 @@ Instead the goal is to find a way to get involved in the strategy AND the stewar
 A good reminder any time, but especially in these economic times, clients want consultants that will actually DO something. Consultants that will help ideas, strategy and recommendations actually come to life.
 
 Remember: clients have a surprising amount of detail.
+
+---
+
+This is an idea I've written about in a few different ways. Some further reading:
+
+* [The Strategic Independent: how to do better work for more money](https://tomcritchlow.com/2019/04/04/the-strategic-independent/)
+* [Strategy & Stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
+* [High Fidelity Consulting](https://tomcritchlow.com/2018/07/10/high-fidelity-consulting/)
