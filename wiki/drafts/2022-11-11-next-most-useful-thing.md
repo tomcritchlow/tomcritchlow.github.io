@@ -4,6 +4,8 @@ subtitle: Exploring the tension between being right and being useful
 layout: blog
 ---
 
+Insert quotes from Effective Executive? Has some relevant ideas I think.
+
 > “It is not enough for a professional to be right: An advisor’s job is to be helpful."
 
 I think about this quote often. It's from the book The Trusted Advisor, which is well worth a read.

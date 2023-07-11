@@ -132,6 +132,37 @@ And I could wish my days to be
           
 [Ode Intimations of Immortality from Recollections of Early Childhood](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood)
 
+--
+
+A Winter Night
+Tomas Transtromer
+
+The storm puts its mouth to the house
+and blows to get a tone.
+I toss and turn, my closed eyes
+reading the storm's text.
+
+The child's eyes grow wide in the dark
+and the storm howls for him.
+Both love the swinging lamps;
+both are halfway towards speech.
+
+The storm has the hands and wings of a child.
+Far away, travellers run for cover.
+The house feels its own constellation of nails
+holding the walls together.
+
+The night is calm in our rooms,
+where the echoes of all footsteps rest
+like sunken leaves in a pond,
+but the night outside is wild.
+
+A darker storm stands over the world.
+It puts its mouth to our soul
+and blows to get a tone. We are afraid
+the storm will blow us empty.
+
+<https://www.npr.org/2012/01/09/144904447/a-winter-night>
 
 <script>
 	
