@@ -3,6 +3,11 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+ - title: Oldtoy
+   author: French Gardens
+   image: https://i1.sndcdn.com/artworks-000165536428-88z7gc-t500x500.jpg
+   notes: Looping summer vibes like a cross between future loop foundation and four tet
+   href: https://soundcloud.com/oldtoy/french-gardens
  - title: Esja
    author: Hania Rani
    image: https://f4.bcbits.com/img/a1351551068_16.jpg
