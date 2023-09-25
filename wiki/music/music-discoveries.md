@@ -3,6 +3,12 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
+
+ - title: Ólafur Arnalds live from Hafursey, in Iceland for Cercle
+   author: Ólafur Arnalds
+   image: 
+   notes: Magnificent live video performance in Iceland
+   href: https://www.youtube.com/watch?v=bMCiAKNUpTY&ab_channel=Cercle
  - title: Oldtoy
    author: French Gardens
    image: https://i1.sndcdn.com/artworks-000165536428-88z7gc-t500x500.jpg
