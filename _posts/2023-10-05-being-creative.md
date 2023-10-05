@@ -8,13 +8,13 @@ I just launched a new thing (the [NEW MBA](https://newmba.co)) so starting and l
 
 ## If you want to be a writer, you should be writing
 
-The wonderful Ze Frank - *"The first piece of advice is pretty simple, it's just if you want to be something, start being it. If you want to be a writer, you should be writing, not tomorrow, but today."*:
+The wonderful Ze Frank - *"The first piece of advice is pretty simple, it's just if you want to be something, start being it. If you want to be a writer, you should be writing, not tomorrow, but today."*: (6 mins)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G9RN-Uf1rBY?si=mH_A9ijkR7YdNlVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Everyone is an artist, if you notice the world
 
-This powerful Creative Mornings talk about creativity, who gets to be an artist and who gets to be creative:
+This powerful Creative Mornings talk about creativity, who gets to be an artist and who gets to be creative: (90 mins)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6xAdLLTtRc?si=uiBLpj8JjvPRuPKu&amp;start=241" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
