@@ -4,6 +4,10 @@ subtitle: Exploring the tension between being right and being useful
 layout: blog
 ---
 
+https://hbr.org/2004/06/what-makes-an-effective-executive
+
+> What made them all effective is that they followed the same eight practices: They asked, “What needs to be done?”
+
 Insert quotes from Effective Executive? Has some relevant ideas I think.
 
 > “It is not enough for a professional to be right: An advisor’s job is to be helpful."
