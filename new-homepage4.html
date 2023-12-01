@@ -11,21 +11,23 @@
   <div class="w-100 tcgrey center pv4">
     <div class="flex mw8 center items-center">
     <div class="w-40 pa4 dn db-l">
-      <img src="/images/tomsmall.jpg" class="br4 shadow-4"/>
+      <img src="/images/tomsmall.jpg" class="br2 shadow-4"/>
     </div>
     <div class="w-60-l pa4 f4 lh-copy">
       <p>Welcome to my digital garden.</p>
-      <p>I'm an independent consultant, helping clients do new things. I mostly work with content & media businesses and function as an interim CMO or senior advisor. <a href="https://tomcritchlow.com/consulting/">Learn more about that here</a>.</p>
-      <p class="f6"><em>Emails ~monthly:</em></p>
-      <form class="" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
-        <fieldset class="cf bn ma0 ph0 pv2">
-          <div class="cf f5 helvetica">
-            <label class="clip" for="email-address">Email Address</label>
-            <input class="input-reset ba b--black-10 fl black-80 bg-white pa3 pv3 lh-solid w-70 w-75-m w-70-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email" value="" id="email-address">
-            <input type="hidden" value="1" name="embed">
-            <input class="button-reset fl pv3 tc ba b--black-10 bg-animate bg-newgreen hover-bg-dark-green white pointer w-30 w-25-m w-30-l br2-ns br--right-ns" type="submit" value="Subscribe">
-          </div>
-        </fieldset>
+      <p>I run a consulting practice helping management teams create new growth capabilities, align on strategy and resource allocation. With 15 years experience in content and media I work with a lot of known brands like Google, The New York Times, Dotdash, Angi and more.</p>
+      <p><a href="https://tomcritchlow.com/consulting/">Learn more about that here</a></p>
+      <p class="f6"><em>Join my newsletter:</em></p>
+      <form
+      action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')"
+      class="embeddable-buttondown-form flex items-center w-100 f4-l f5"
+    >
+      <input placeholder="Email Address" type="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv3 ph4 border-box br2 br--left">
+      <input type="hidden" name="metadata__cta" value="homepage">
+      <input type="submit" value="Subscribe" class="input-reset w-auto-ns bg-newgreen white pv3 ph4 ba b--newmba-green bg-hover-mid-gray br2 br--right pointer">
       </form>
     </div>
   </div>
