@@ -24,11 +24,11 @@ Michael Sklar [posted this great career map](https://twitter.com/michaelsklar/st
 
 ![](/images/career-map-1.jpeg)
 
-## 3) Will Lethain
+## 3) Will Larson
 
 Will writes one of my favorite management blogs and posted this piece a while back exploring the idea of a [forty-year career](https://lethain.com/forty-year-career/):
 
-<blockquote class="quoteback" darkmode="" data-title="A%20forty-year%20career." data-author="Will Lethain" cite="https://lethain.com/forty-year-career/">As you invest into your pace, the people you know, the prestige you build, the profits to fuel financial security, and your deep and broad learning, something magical starts to happen: each of these makes the others easier. This to me is the joy of a forty year career: things that seem hard early on become easy a decade in, and I can only imagine what it will look like two or three decades in.
+<blockquote class="quoteback" darkmode="" data-title="A%20forty-year%20career." data-author="Will Larson" cite="https://lethain.com/forty-year-career/">As you invest into your pace, the people you know, the prestige you build, the profits to fuel financial security, and your deep and broad learning, something magical starts to happen: each of these makes the others easier. This to me is the joy of a forty year career: things that seem hard early on become easy a decade in, and I can only imagine what it will look like two or three decades in.
 <footer> <cite><a href="https://lethain.com/forty-year-career/">https://lethain.com/forty-year-career/</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
