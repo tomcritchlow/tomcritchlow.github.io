@@ -14,21 +14,23 @@
       <img src="/images/tomsmall.jpg" class="br2 shadow-4"/>
     </div>
     <div class="w-60-l pa4-l pv4 ph3 f4 lh-copy">
-      <p>Welcome to my digital garden.</p>
-      <p>I run a consulting practice helping management teams create new growth capabilities, align on strategy and resource allocation. With 15 years experience in content and media I work with a lot of known brands like Google, The New York Times, Dotdash, Angi and more.</p>
-      <p><a href="https://tomcritchlow.com/consulting/">Learn more about that here</a></p>
-      <p class="f6"><em>Join my newsletter:</em></p>
-      <form
-      action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
-      method="post"
-      target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')"
-      class="embeddable-buttondown-form flex items-center w-100 f4-l f5"
-    >
-      <input placeholder="Email Address" type="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv3 ph4 border-box br2 br--left">
-      <input type="hidden" name="metadata__cta" value="homepage">
-      <input type="submit" value="Subscribe" class="input-reset w-auto-ns bg-newgreen white pv3 ph4 ba b--black-20 bg-hover-mid-gray br2 br--right pointer">
-      </form>
+      <p class="b">Welcome to my digital garden.</p>
+      <p>I run a consulting practice helping management teams <span class="br-pill ba green pa1">create new growth capabilities</span>, <span class="br-pill ba green pa1">create strategic clarity</span> and <span class="br-pill ba green pa1">launch practical innovation</span>. For 15+ years I've helped companies build strength amidst change.</p>
+      
+      <div class="h3 flex">
+        <div class="pr2">
+          <img alt="The New York Times" src="https://static01.nyt.com/images/icons/t_logo_291_black.png" class="br-100 h2">
+        </div>
+        <div class="pr2">
+          <img alt="Angi" src="https://media.angi.com/s3fs-public/apple-touch-icon.png" class="br-100 h2">
+        </div>        
+      </div>
+
+      <div class="flex">
+      <a class="ba">Book an Intro Call</a>
+      <a class="ba">Book an Intro Call</a>
+    </div>
+      
     </div>
   </div>
   </div>
@@ -53,8 +55,8 @@
           Near futures provocations</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l"  style="scroll-snap-align: center;">
-            <a href="https://fiercelycurious.com"><img class="br2 shadow-1" src="/images/homepage_newmba.png" /></a>
-            <a href="https://fiercelycurious.com" class="link black"><h2 class="f5 mt3 mb0">The NEW MBA</h2>
+            <a href="https://newmba.co"><img class="br2 shadow-1" src="/images/homepage_newmba.png" /></a>
+            <a href="https://newmba.co" class="link black"><h2 class="f5 mt3 mb0">The NEW MBA</h2>
             A new kind of online business school</a>
         </div>
         <div class="w-20-l w-80 pa3 db-l dib ws-normal-l"  style="scroll-snap-align: center;">
@@ -77,6 +79,19 @@
             <div class="w-20-l w-75 b f4">Latest Writing</div>
             <div class="bt b--newgreen bw1 w-80"></div>
         </div>
+
+        <p class="f6"><em>Join my newsletter:</em></p>
+      <form
+      action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')"
+      class="embeddable-buttondown-form flex items-center w-100 f4-l f5"
+    >
+      <input placeholder="Email Address" type="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv3 ph4 border-box br2 br--left">
+      <input type="hidden" name="metadata__cta" value="homepage">
+      <input type="submit" value="Subscribe" class="input-reset w-auto-ns bg-newgreen white pv3 ph4 ba b--black-20 bg-hover-mid-gray br2 br--right pointer">
+      </form>
         
         
             {% for post in site.posts  limit:10%}
