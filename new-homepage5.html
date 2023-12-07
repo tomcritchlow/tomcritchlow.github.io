@@ -32,10 +32,6 @@
 
     </div>
   
-
-
-    </div>
-
     <div class="mw6 pl5 pv2 f7">
       Latest posts:
       {% for post in site.posts  limit:3%}
@@ -44,6 +40,8 @@
       <div class=""><span class="ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> {{post.title}}</div>
       {% endif %}
       {% endfor %}
+    </div>
+
     </div>
   </div>
 
