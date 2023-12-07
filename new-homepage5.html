@@ -25,21 +25,21 @@
             <a class="f6 link dim br2 ph3 pv2 mb2 dib newgreen underline" href="/consulting">Learn more about my consulting practice</a>
           </div>
 
-          <div class="absolute">
-            <img src="/images/arrow.svg" />
-
-          </div>
-
     </div>
   
+    <div class="absolute" style="right:-100px">
+      <img src="/images/arrow.svg" />
+
     </div>
+
+    </div>
+
     <div class="mw6 pl5 pv2 f7">
       Latest posts:
       {% for post in site.posts  limit:3%}
       {% if post.draft == true %}
       {% else %}
-      <span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span>
-      <div class="">{{post.title}}</div>
+      <div class=""><span class="ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> {{post.title}}</div>
       {% endif %}
       {% endfor %}
     </div>
