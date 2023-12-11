@@ -198,10 +198,10 @@
 <div class="center mv5 ph4">
   <div class="center flex items-center justify-center">
     <div class="ba b--newgreen b--dashed pa2 b">
-      Latest Writing
+      <a class="link black" class="mapnav" onclick="toggleDiv('writing')">Latest Writing</a>
     </div>
     <div class="ba b--newgreen b--dashed pa2">
-      Blog Map
+      <a class="link black" class="mapnav" onclick="toggleDiv('map')">Blog Map</a>
     </div>
     <div class="ba b--newgreen b--dashed pa2">
       Topics
@@ -210,9 +210,7 @@
 
   <div class="ba b--dashed b--newgreen pa4">
 
-    <div class="mw8" id="writing">
-
-    
+    <div class="mw8 blogbox" id="writing">
 
         {% for post in site.posts  limit:10%}
         {% if post.draft == true %}
@@ -235,7 +233,7 @@
 
       </div>
 
-<div class="dn mw9" id="map">
+<div class="dn mw9 blogbox" id="map">
 
   <svg width="1114" height="806" viewBox="0 0 1114 806" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="Group 5">
@@ -344,6 +342,20 @@
 
               </div>  
 
+
+<script>
+function toggleDiv(divId) {
+    var allDivs = document.getElementsByClassName('blogbox');
+    for (var i = 0; i < allDivs.length; i++) {
+        allDivs[i].classList.remove = 'db'; // Hide all divs
+        allDivs[i].classList.add = 'dn'; // Hide all divs
+    }
+
+    var targetDiv = document.getElementById(divId);
+    targetDiv.classList.remove("dn");
+    targetDiv.classList.add("db");
+}
+</script>
 
 
 {% include footer.html %}
