@@ -153,6 +153,50 @@
   </form>
     
     
+<div class="mw8 center mv5 ph4">
+  <div class="center flex items-center">
+    <div class="ba b--newgreen b--dashed pa2">
+      Latest Writing
+    </div>
+    <div class="ba b--newgreen b--dashed pa2">
+      Blog Map
+    </div>
+    <div class="ba b--newgreen b--dashed pa2">
+      Topics
+    </div>        
+  </div>
+
+  <div class="ba b--dashed b--newgreen pa4">
+        {% for post in site.posts  limit:10%}
+        {% if post.draft == true %}
+        {% else %}
+        <div class="flex-l w-100 pv4">
+          <div class="w-100 w-20-l">
+              <span class="f6 ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span>
+              <br><span class="ttu f6 red">{% for tag in post.tags %}{{tag}} {% endfor %}</span>
+          </div>
+          <div class="w-100 w-80-l">
+                <div class="">
+                {% if post.reply %}<img class="dib h2 v-mid" style="padding-top:0px;padding-bottom:0px" src="https://img.icons8.com/cute-clipart/64/000000/response.png"/>{% endif %}<a class="black link dim b f4 pb2" href="{{ post.url }}">{{ post.title }}</a> 
+                <div class="f4 pb3 pt2">{{post.subtitle}}</div>
+                <div class="lh-copy">{{ post.content | strip_html | truncatewords: 50 }}</div>
+                </div>  
+        </div>
+      </div>
+        {% endif %}
+        {% endfor %}
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
         {% for post in site.posts  limit:10%}
         {% if post.draft == true %}
         {% else %}
