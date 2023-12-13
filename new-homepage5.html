@@ -32,9 +32,9 @@
               onMouseOver="this.style.filter='saturate(1)'"
               onMouseOut="this.style.filter='saturate(0)'"
               title="The New York Times" src="https://www.google.com/s2/favicons?domain=nytimes.com&sz=256" class="br-100 h2">
-              <span class="db absolute z-1 w4 w5-m w5-l bg-white ba br2 b--moon-gray pa2 shadow-5 child" style="left:-25px;top:40px">
-                <p class="f6 lh-copy near-black ma0">R&D and GTM for a new vertical</p>
-                <span class="absolute top-0 left-2 nt2 w1 h1 bg-white bl bt b--moon-gray rotate-45"></span>
+              <span class="db absolute z-1 w4 w5-m w5-l bg-light-gray ba br2 b--newgreen pa2 shadow-5 child" style="left:-25px;top:40px">
+                <div class="">Client: The New York Times</div>
+                <p>Assembling a research team to ideate and prototype new digital products</p>
               </span>
             </div>
             <div class="pr2 relative hide-child">
@@ -153,7 +153,7 @@
       </a>
     </div>
     <div class="w-third-l w-100">
-      <a class="bg-white ma3 br2 pa3 flex items-center ba b--newgreen link" style="background-color:#F9F5F1" href="https://seomba.com">
+      <a class="bg-white ma3 br2 pa3 flex items-center ba b--newgreen black link" style="background-color:#F9F5F1" href="https://seomba.com">
         <div class="pr2"><img class="h2" src="https://seomba.com/images/icon.png"></div>
         <div>
           <div class="b">The SEO MBA</div>
@@ -162,7 +162,7 @@
       </a>
     </div>
     <div class="w-third-l w-100">
-      <a class="bg-white ma3 br2 pa3 flex items-center ba b--newgreen link" style="background-color:#F9FEFF" href="https://quotebacks.net">
+      <a class="bg-white ma3 br2 pa3 flex items-center ba b--newgreen black link" style="background-color:#F9FEFF" href="https://quotebacks.net">
         <div class="pr2"><img class="h2" src="https://quotebacks.net/favicon-32x32.png"></div>
         <div>
           <div class="b">Quotebacks</div>
@@ -210,7 +210,7 @@
 
   <div class="ba b--dashed b--newgreen pa4">
 
-    <div class="mw8 blogbox" id="writing">
+    <div class="mw8 blogbox center" id="writing">
 
         {% for post in site.posts  limit:10%}
         {% if post.draft == true %}
@@ -233,8 +233,9 @@
 
       </div>
 
-<div class="dn mw9 blogbox" id="map">
+<div class="dn mw9 blogbox tc" id="map">
 
+  <div class="db-l dn">
   <svg width="1114" height="806" viewBox="0 0 1114 806" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="Group 5">
     <g id="Group 3">
@@ -274,6 +275,7 @@
     <path id="Vector 71" d="M155.1 304.709C155.161 303.899 154.709 291.051 156.823 290.926C159.483 290.77 161.961 291.788 164.623 291.788C173.107 291.788 181.744 290.357 190.227 290.065C194.558 289.916 194.725 288.724 194.725 293.606C194.725 308.633 193.982 323.591 193.864 338.592C193.83 342.914 193.003 347.108 193.003 351.418C193.003 352.903 192.205 356.363 193.481 353.811C194.478 351.816 197.67 345.738 197.501 346.058C197.032 346.944 193.897 355.575 192.141 353.38C190.337 351.125 188.236 348.583 186.973 346.058" stroke="#02AD28" stroke-width="2" stroke-linecap="round"/>
     </g>
     </svg>
+  </div>
 </div>
 
 <div class="dn-l w-100 pa2 center tc">
