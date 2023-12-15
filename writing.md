@@ -3,8 +3,6 @@ layout: blog-sidebar-nav
 title: Latest Writing
 ---
 
-{% include partykitcursors.html %}
-
 {% include streak.html %}
 
 {% for post in site.posts  %}
