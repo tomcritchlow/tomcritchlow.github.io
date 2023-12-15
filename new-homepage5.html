@@ -16,12 +16,6 @@
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
  
   /* Position the tooltip text - see examples below! */
   position: absolute;
@@ -54,12 +48,12 @@
 
           <div class="flex flex-wrap items-center f5 pt2">
             <div class="h2 v-mid pr2">Clients:</div>
-            <div class="pr2 relative hide-child">
+            <div class="pr2 relative tooltip">
               <img
               onMouseOver="this.style.filter='saturate(1)'"
               onMouseOut="this.style.filter='saturate(0)'"
               src="https://www.google.com/s2/favicons?domain=nytimes.com&sz=256" class="br-100 h2">
-              <span class="db absolute z-1 w4 w5-m w5-l bg-light-gray ba br2 b--newgreen pa2 shadow-5 child" style="left:-25px;top:40px">
+              <span class="db absolute z-1 w4 w5-m w5-l bg-light-gray ba br2 b--newgreen pa2 shadow-5 tooltiptext" style="left:-25px;top:40px">
                 <div class="">Client: The New York Times</div>
                 <p>Assembling a research team to ideate and prototype new digital products</p>
               </span>
