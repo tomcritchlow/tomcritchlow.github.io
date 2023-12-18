@@ -1,31 +1,29 @@
 {
   "main": {
-    "id": "9bd195449bad9951",
+    "id": "0580fd7ce54c565c",
     "type": "split",
     "children": [
       {
-        "id": "b79e359e64826816",
+        "id": "edb9e032c78b7103",
         "type": "tabs",
         "children": [
           {
-            "id": "b917d2a2c16f9942",
+            "id": "9a74fd11f955ed11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "251ed1e5d5ae0c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/drafts/2023-01-24-working-in-maps.md",
+                "file": "2023-11-15-9-years.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd3d9083423196c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
               }
             }
           }
@@ -36,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c441690d1c5ac47d",
+    "id": "a3cf0863dbe4d064",
     "type": "split",
     "children": [
       {
-        "id": "d438ee984337a25c",
+        "id": "8e07e9ee038868ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0d70882c11d3a87a",
+            "id": "15ec0cd7e948fcdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +52,7 @@
             }
           },
           {
-            "id": "b906d92df19a775b",
+            "id": "2ddea43837dc1f26",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +67,7 @@
             }
           },
           {
-            "id": "6fcca7fced833259",
+            "id": "eb8e23d0ba4cc22d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "98eab05491e8f97c",
+    "id": "0e804bbcc0177ea6",
     "type": "split",
     "children": [
       {
-        "id": "edfd83472f942cb9",
+        "id": "b123aada9f7834cc",
         "type": "tabs",
         "children": [
           {
-            "id": "bd23589f96e03349",
+            "id": "d3c7aa62d092c988",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/drafts/2023-01-24-working-in-maps.md",
+                "file": "2023-11-15-9-years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +102,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a301fbccd02c12ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-11-15-9-years.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c31731493a790d2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcd1239408a4241a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-11-15-9-years.md"
               }
             }
           }
@@ -120,23 +151,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6bd3d9083423196c",
+  "active": "251ed1e5d5ae0c44",
   "lastOpenFiles": [
-    "wiki/drafts/Testing Obsidian.md",
-    "wiki/drafts/Untitled.md",
-    "wiki/drafts/2023-01-24-working-in-maps.md",
-    "wiki/drafts/2021-10-09-narrative-strategy.md",
-    "wiki/glitch-gowanus/notes.md",
-    "2021-07-16.md",
-    "notes/diagrams notes.md",
-    "notes/current interests.md",
-    "notes/testing obsidian.md",
-    "notes/Untitled.md",
-    "testing obsidian.md",
-    "Untitled.md"
+    "2023-12-13-sawdust.md",
+    "Testing Obsidian.md",
+    "2020-11-10-6-years.md",
+    "Pasted image 20201109092809.png",
+    "2020-10-09-content-ops.md"
   ]
 }
