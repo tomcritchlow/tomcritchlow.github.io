@@ -43,7 +43,7 @@
   {% include blogchain-nav-bottom.html %}
 
   <div class="w-100 mv3 pa3 ba b--newgreen br2 f5 bg-near-white">
-    <div class="b">More blog posts:</div>
+    <div class="b pv1">More blog posts:</div>
     {% for post in site.posts % | limit:3 %}
     <div class="flex w-100">
       <p class="pv0 mv1"><a href="{{ post.url }}">{{ post.title }}</a></p>
