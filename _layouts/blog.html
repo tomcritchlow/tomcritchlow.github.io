@@ -63,70 +63,24 @@
 
   {% endif %}
 
-<div class="f5 i">
-  This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in the comments or sign up for my <a href="https://newsletter.tomcritchlow.com/">newsletter</a>.
-</div>
-
-<div class="pv4">
-  <input readonly
-    value="http://tomcritchlow.com{{page.url}}"
-    title ="{{page.title}}"
-    id="pageurl"
-    class="mw-100 w-100 w5-ns f6 input-reset ba b--black-20 pv2 ph2 border-box silver"
-  />
-  <button
-    id="copyurl"
-    class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4 ba b--black-80 bg-hover-mid-gray pointer"
-  >
-    Copy
-  </button>
-  <button
-    id="webshare"
-    class="input-reset w-40 w-auto-ns bg-black-80 white f5 pv2 pv2-ns ph4  b--black-80 bg-hover-mid-gray"
-  >Share</button>
-</div>
+  <div class="w-100 mv3 pa3 ba b--newgreen br2 f5 bg-near-white">
+    <div>More blog posts:</div>
+    {% for post in site.posts % | limit:3 %}
+    <p class="pv0 mv0"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endfor %}
+        
+    <div class="bt b--black-10">
+      <p>This post was written by Tom Critchlow - blogger and independent consultant. Subscribe to join my occassional newsletter:</p>
+        <form action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')" class="embeddable-buttondown-form flex items-center w-100 f5">
+            <input placeholder="Email Address" type="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv2 ph3 border-box br2 br--left">
+            <input type="hidden" name="metadata__cta" value="homepage">
+            <input type="submit" value="Subscribe" class="input-reset w-auto-ns pv2 ph3 ba b--newgreen bg-hover-mid-gray br2 br--right pointer">
+            </form>
+    </div>
+        
+    </div>
 
 
-
-<script>
-  if (!navigator.share) {
-    document.getElementById("webshare").style.display = "none";
-  }
-
-  var $copyurl = $("#copyurl");
-  $copyurl.on("click", function(e) {
-    var copyText = document.getElementById("pageurl");
-
-    /* Select the text field */
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-    /* Copy the text inside the text field */
-    document.execCommand("copy");
-
-    $copyurl.html("Copied!");
-      setTimeout(function() {
-        $copyurl.html("Copy");
-      }, 2000);
-
-  });
-
-  var $webshare = $("#webshare");
-  $webshare.on("click", function(e) {
-    if (navigator.share) {
-      navigator
-        .share({
-          title: "{{page.title}}",
-          text: "{{page.title}}",
-          url: "http://tomcritchlow.com{{page.url}}"
-        })
-        .then(() => console.log("Successful share"))
-        .catch(error => console.log("Error sharing", error));
-    } else {
-      console.log("Web Share API is not supported in your browser.");
-    }
-  });
-</script>
 
 <hr class="w3 mv5">
 
