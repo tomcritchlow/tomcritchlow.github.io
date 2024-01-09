@@ -68,7 +68,7 @@
     {% for post in site.posts % | limit:3 %}
     <div class="flex w-100">
       <p class="pv0 mv1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-      <p class="f6 black-50 ml-auto w-20-l w-40 tr pv0 mv1">{{ page.date | date: "%B %-d, %Y" }}</p>
+      <p class="f6 black-50 ml-auto w-20-l w-40 tr pv0 mv1">{{ post.date | date: "%B %-d, %Y" }}</p>
     </div>
     
     {% endfor %}
