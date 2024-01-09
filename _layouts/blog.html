@@ -42,27 +42,6 @@
 
   {% include blogchain-nav-bottom.html %}
 
-  {% if page.blogchain %}
-
-  {% else %}
-
-  <div class="Previous-next f6 cf pb4">
-    {% if page.previous.url %}
-    <div class="fl w-40">
-    <span class="ttu tracked">⇜ PREVIOUS</span><br>
-      <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
-    </div>
-    {% endif %}
-    {% if page.next.url %}
-    <div class="fr w-40 tr">
-    <span class="ttu tracked">NEXT ⇝</span><br>
-      <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
-    </div>
-    {% endif %}
-  </div>
-
-  {% endif %}
-
   <div class="w-100 mv3 pa3 ba b--newgreen br2 f5 bg-near-white">
     <div class="b">More blog posts:</div>
     {% for post in site.posts % | limit:3 %}
@@ -75,10 +54,10 @@
         
     <div class="bt b--black-10 mt3">
       <p>This post was written by Tom Critchlow - blogger and independent consultant. Subscribe to join my occassional newsletter:</p>
-        <form action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')" class="embeddable-buttondown-form flex items-center w-100 w-80-l f5">
+        <form action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')" class="embeddable-buttondown-form flex items-center w-100 f5">
             <input placeholder="Email Address" type="email" name="email" id="bd-email" class="bg-light-gray w-100 input-reset ba b--black-20 pv2 ph3 border-box br2 br--left">
             <input type="hidden" name="metadata__cta" value="homepage">
-            <input type="submit" value="Subscribe" class="input-reset w-auto-ns pv2 ph3 ba b--newgreen bg-hover-mid-gray br2 br--right pointer">
+            <input type="submit" value="Subscribe" class="input-reset w-auto-ns pv2 ph3 ba b--newgreen bg-light-gray br2 br--right pointer">
             </form>
     </div>
         
