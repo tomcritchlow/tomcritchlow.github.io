@@ -64,11 +64,11 @@
   {% endif %}
 
   <div class="w-100 mv3 pa3 ba b--newgreen br2 f5 bg-near-white">
-    <div class="b"></div>>More blog posts:</div>
+    <div class="b">More blog posts:</div>
     {% for post in site.posts % | limit:3 %}
     <div class="flex w-100">
       <p class="pv0 mv1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-      <p class="f6 black-50 ml-auto">{{ page.date | date: "%B %-d, %Y" }}</p>
+      <p class="f6 black-50 ml-auto w-20 tr">{{ page.date | date: "%B %-d, %Y" }}</p>
     </div>
     
     {% endfor %}
