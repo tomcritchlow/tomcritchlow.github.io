@@ -8,7 +8,7 @@ og: https://tomcritchlow.com/images/compound-narrative-og.png
 
 > *“I read in a book once that a rose by any other name would smell as sweet, but I've never been able to believe it. I don't believe a rose WOULD be as nice if it was called a thistle or a skunk cabbage.” ― L.M. Montgomery, Anne of Green Gables*
 
-We looked at how powerful labels are and what we use them for, now we turn our focus to tending our labels. They’re not fixed but they sure do seem to carry some mystical weight. If we go around calling ourselves a UX designer one week and a storyteller in residence another week we’re going to suffer a kind of internal angst, or vertigo.
+The identity and labels you create for yourself as an independent consultant are tricky things. They’re not fixed but they sure do seem to carry some mystical weight. If we go around calling ourselves a UX designer one week and a storyteller in residence another week we’re going to suffer a kind of internal angst, or vertigo.
 
 When you have a job - your work label is given to you. Anyone can go see it on your LinkedIn page. *“Product manager at Salesforce”* or *“Head of marketing at Etsy”*. These labels are very clearly defined - and they mean something - “product manager” and “head of marketing” are legible and transferable between companies, they convey a shared sense of knowledge, expertise, seniority, salary and more.
 
