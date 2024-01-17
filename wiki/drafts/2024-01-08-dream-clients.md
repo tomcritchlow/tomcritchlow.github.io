@@ -36,7 +36,7 @@ I'm such a fanboy that I'd work with Figma on anything ha. But here's a few idea
 * How can we do more interesting, adventurous editorial projects? Inspired by [Stripe press](https://press.stripe.com/) and [Figma essays](https://www.figma.com/file/IV5AGF2aV75vau327SUKSy/CRYPTO-PHILANTHROPY?node-id=0%3A1&utm_source=figmathinkers&utm_medium=email&utm_campaign=figma-thinkers-week-8-creative-figma-uses). How might we explore a wider, more creative range of publishing and editorial projects to show off what Figma can do?
 * From an SEO perspective, Canva has done a masterful job with templates, tools and content designed for SEO and gets... *checks notes*... about 3400% more Google traffic[^figma]. What would the Figma equivalent SEO play be here?
 
-[^figma]: See [screenshot](![](/images/2024-01-17-13-33-19.png)){:target="_blank"}
+[^figma]: See [screenshot](![](https://tomcritchlow.com/images/2024-01-17-13-33-19.png)){:target="_blank"}
 
 ## Replit
 
@@ -82,36 +82,58 @@ How might we work together? Some thoughts:
 
 ## LinkedIn
 
+Actually, LinkedIn is a great social network. People hate on the quality of the feed at LinkedIn but I believe this is largely because most people never deliberately built their feed, they just connected with random co-workers and industry friends over the last 15 years...
+
+Once you take the time to intentionally craft your feed 
+
+Beyond just the feed though, LinkedIn is a social product that actually has a core utility! The value of a professional profile actually has value, distinct from other social sites.
+
+* Positioning around LinkedIn as a personal learning environment. Not just "LinkedIn learning" though that's part of it - but actually everything on LinkedIn culminates in learning - the feed, your network, education content and more. There's so much unexplored possibility around social learning environments, just-in-time learning, credentialing and more.
+* 
+
 A personal learning environment for all. Ping me if you want a copy of the deck!
+
+## Perplexity & AI-search
+
+There are a bunch of people like [Perplexity](https://www.perplexity.ai/), [Metaphor](https://metaphor.systems/) and [Elicit](https://elicit.com/) building AI-powered search engines. I'm not an expert in the AI technology but after working in search for almost 20 years there are a bunch of things that I think we can learn about how people search and searcher behavior that would be relatively easy to build and would help turn these from niche, single-purpose search engines into more complete general-purpose search engines.
+
+Maybe:
+
+* User research studies that focus on people's searching behavior. Since we're building something new this isn't straightforward but I still believe that grounding in user research is useful and would uncover some smaller things that might change user adoption and retention.
+* Benchmarking the user experience of key user journeys against other search tools to better understand where the product excels. One of the defining ideas is that *teams don't know what they've built* - as Matt Webb says with AI we're in a [capability overhang](https://interconnected.org/home/2023/11/24/digestion). Or to say another way, we're in a product marketing overhang - we don't even know how good the product is that we've built! 
+* Brand exploration and user messaging to figure out how to educate and convert people into a new daily behavior. Based on the above I think there are some fun and interesting ways that we might build awareness and adoption of the new tools.
 
 ## More Weird Indie Collabs
 
-I learned to love Figma because of my collaboration with Toby. I learned to love brand because of my collaboration with Elan. Collaborating with other indies are some of my most generative and growth projects I've worked on.
+I learned how to use Figma because of a client collaboration with [Toby Shorin](https://tobyshorin.com/). I learned to love brand positioning because of working with [Elan Miller](https://www.off-menu.com/). 
 
-## University Collabs
+I've realized that working with other indie consultants isn't always the most lucrative way to do consulting - but these projects are the best learning opportunities and periods of personal growth. So, more please.
 
-I've taught at a b-school and I've taught at ITP. ITP was far more fun haha.
+Some ideas:
 
-I'd love to teach innovation, business, management.
+* Right now I'm collaborating with some tech-heads who are pitching AI-content solutions where I can be the marketing and strategy lead in the room. That's fun.
+* I've been tangentially involved in a bunch of M&A projects over the last few years but I'd love to get more formally integrated into M&A workflows, private equity valuation projects and more.
+* I've thought a lot about [executive dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) and built a monthly business review packet for one of my clients. If you're working in this area holler at me, let's share notes!
+* Same for [executive offsites](https://tomcritchlow.com/2022/10/06/exec-offsites/) - why are they so broken? If you're working on fixing these give me a shout and let's work together.
+* For established, perhaps older, consultants a collaboration around knowledge sharing, publishing and blogging would be super fun. 
+* More broadly - if you're coming at strategy from the creative and brand perspective I can make a great bridge to the more data-driven and technical end of marketing and business strategy.
+
+## Academic and Educational Collabs
+
+I've been really digging the [practice of teaching](https://tomcritchlow.com/2022/04/06/teaching/) and would love to get involved in more academic and educational work. I've done a small amount of this in the past - I taught a class at a business school and I was an advisor for an ITP summer program.
+
+So I guess management theory and innovation are the two areas I get most excited about?
+
+If you're in academia (in the broadest sense) and follow my writing maybe drop me a note. I'd love to chat.
 
 ## More Strategic Advisor Roles
 
-I spoke with a fellow indie consultant - their default engagement model involved being chair of the weekly management meeting and then running the quarterly planning sessions. I've been touching on a lot more of this kind of work and would love to formalize it with a few clients.
+For bigger clients I typically play a marketing or growth role. The work itself is varied but I typically get a seat at the table because of my content and marketing background.
 
+For smaller and mid-size clients though, I'm increasingly finding myself playing a generalist role - shaping strategy and supporting executives in all kinds of functions (including a small amount of executive coaching too). I talked about that a bit here: [The roadmap is not the territory](https://tomcritchlow.com/2023/04/18/roadmap-territory/). I'd like to do more of this work - supporting business growth from first principles and looking at improving management performance more generally.
 
+Challenge #1 I suppose is how to describe this work. The best I've come up with is "strategic advisor"...
 
-But I thougt 
+---
 
-Figma - expanding the idea of use cases outside of design. New ideas around consultants, canvas based thinking and more.
-
-Replit - solving their search problem. I think there are some big ambitious ideas here like what if they auto-generate 10,000 pages for the top github projects to check compatability? How do they prevent spam and low-quality replits being indexed by Google? How do you build the right feedback loops between community and content to ensure a growing high quality index of replits?
-
-An RSS institution - is this Automattic? Mozilla? NYPL? Always dreamed of kickstarting an RSS revival - a set of work and funding around RSS because it's inherently decentralzied and uncommercial but there's lots of innovation left to do!
-
-LinkedIn - content / learning / education, the network with the most potential is LinkedIn, I have a vision for a personal learning network and how LinkedIn could transform education AND social media.
-
-B-school collab
-
-Stripe
-
-Remarkable
+Let's manifest at least one or two of these in 2024! If you want to get in touch [click here](https://tomcritchlow.com/consulting/).
