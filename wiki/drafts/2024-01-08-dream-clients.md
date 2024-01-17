@@ -36,7 +36,7 @@ I'm such a fanboy that I'd work with Figma on anything ha. But here's a few idea
 * How can we do more interesting, adventurous editorial projects? Inspired by [Stripe press](https://press.stripe.com/) and [Figma essays](https://www.figma.com/file/IV5AGF2aV75vau327SUKSy/CRYPTO-PHILANTHROPY?node-id=0%3A1&utm_source=figmathinkers&utm_medium=email&utm_campaign=figma-thinkers-week-8-creative-figma-uses). How might we explore a wider, more creative range of publishing and editorial projects to show off what Figma can do?
 * From an SEO perspective, Canva has done a masterful job with templates, tools and content designed for SEO and gets... *checks notes*... about 3400% more Google traffic[^figma]. What would the Figma equivalent SEO play be here?
 
-[^figma]: See: ![](/images/2024-01-17-13-33-19.png)
+[^figma]: See [screenshot](![](/images/2024-01-17-13-33-19.png)){:target="_blank"}
 
 ## Replit
 
@@ -76,6 +76,9 @@ And they have beautiful web-design! and they have a writing culture! and they ha
 How might we work together? Some thoughts:
 
 * Stripe press is incredible in terms of their brand but still fairly limited in scope. I'd love to get involved with Stripe and see what their focus on writing culture can do for the web.
+* I'd love to work with Stripe on training around their internal culture of writing. I don't have any insight into how this writing is organized, shared or produced today but I'd love to work with the team on internal strategy and knowledge sharing. I'm [kind of a geek](https://newsletter.seomba.com/p/how-to-write-an-amazon-style-narrative) when it comes to [executive communication](https://newsletter.seomba.com/p/presenting-to-the-ceo-in-5-slides)...
+
+
 
 ## LinkedIn
 
