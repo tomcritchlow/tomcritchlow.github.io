@@ -38,27 +38,44 @@ I'm such a fanboy that I'd work with Figma on anything ha. But here's a few idea
 
 [^figma]: See: ![](/images/2024-01-17-13-33-19.png)
 
-
-
-
-
 ## Replit
 
+Tinkering with the web is a foundational part of my identity. I've called this [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) before. I'm not a real developer, just like I'm not a real designer and yet I build things on Replit all the time!
 
+I'm a huge advocate for tools that lower the bar to entry for more users and help people expand what they think is possible. Couple that with a deep frustration at how most developer tools on board users (see: [why can't I code inside my browser](https://tomcritchlow.com/2021/01/14/new-browsers/)) and Replit is a dream client.
+
+I recently build a little bookmarklet and app for a client using Replit that gave an x-ray vision overlay on their website with a bunch of custom analysis and stats - took me a few hours to prototype and opened up a bunch of interesting conversations! I love that kind of thing.
+
+So how might we work together? Some ideas:
+
+* Replit has a real search problem - if you search for examples and templates on Google you get stuck in a list of Replit pages that look the same, with many of them being low-quality. There's a crawling, architecture and internal linking strategy here to dramatically improve the ability for people to find high quality Replit examples and templates.
+* You can import Github repos directly into Replit which feels like magic when it works! Except it's very hard to know if it's going to work ahead of time. I think there are opportunities here around better messaging / workflows / community standards to help people better understand whether a github repo can be imported directly into Replit, and if so how to do it.
+* The education play on Replit seems very successful with the 100 days of code in particular. I'd love to expand this idea into potentially more cohort-based models of building projects. Less "learn to code" and more "build something interesting, together".
 
 ## Remarkable
 
-I've been circling the tools for thought space for a long time. But I love my remarkable tablet. They 
+I bought a Remarkable tablet last year and it really changed my daily knowledge work. It's a beautiful product that feels like a joy to use. It's also directly led to me reading a *lot* more PDFs and academic papers - it's such a perfect form factor for loading up a PDF and reading/annotating - deep focus work away from my other screens.
 
-They've found incredible success with Instagram but have almost zero traffic on their website. Content strategy and SEO could be foundational to them.
+At the same time - it's clearly still early in the "e-ink screen" world, it feels kind of like when I got my first Sonos product 12 years ago. Such a leap forward ahead of everything else but also kind of clunky, we're still working our way through what this technology can and should do and how we interact with it.
 
-"remarkable 2 calendar" is the top keyword to the blog (it doesn't have a calendar...)
+Some things I'd love to work with Remarkable on:
 
-Also - would love to run some product innovation ideas. Readwise integration, better website integration, calendar notebooks and more.
+* They've done a great job with Instagram content - it's polished, engaging and clearly converts for them. But remarkable.com is somewhat neglected in terms of content. There's a big opportunity to really take the web seriously and build an evergreen content library - both to show off the product and to do a better job on the product education and support side.
+* When I'm working on my laptop I keep my Remarkable right next to me but this "passive second screen" use case is completely unexplored. I'd love to work through how you could enable new modes of working - what could you use your e-ink second screen for? There are all kinds of [kindle jailbreak](https://github.com/dennisreimann/kindle-display) and [raspberry pi examples](https://github.com/speedyg0nz/MagInkCal) of second-screens and displays that I think the Remarkable would be perfect for.
+* While generally the Remarkable UX and interactions are well thought through there are a variety of things that would be fun to prototype and play with for example double-tap the power button to take a screenshot, or an "send this" action when you select a region.
+* I'd love to explore different workflows and innovations around web <--> remarkable workflows for saving, reading, sharing content between the browser and the device. There's lots of unexplored uses here.
+
+Oh, and when are we getting a Google Calendar integration? :)
 
 ## Stripe
 
-Stripe press is incredible in terms of their brand but still fairly limited in scope. I'd love to get involved with Stripe and see what their focus on writing culture can do for the web.
+I use Stripe almost every day. Both as a consumer and as someone who sells things on the internet. Stripe is an astonishing service that has no right to be as polished, playful and fun to work with as they are.
+
+And they have beautiful web-design! and they have a writing culture! and they have a whole experimental content/publishing approach!
+
+How might we work together? Some thoughts:
+
+* Stripe press is incredible in terms of their brand but still fairly limited in scope. I'd love to get involved with Stripe and see what their focus on writing culture can do for the web.
 
 ## LinkedIn
 
