@@ -59,7 +59,7 @@ Tinkering with the web is a foundational part of my identity. I've called this [
 
 I'm a huge advocate for tools that lower the bar to entry for more users and help people expand what they think is possible. Couple that with a deep frustration at how most developer tools on board users (see: [why can't I code inside my browser](https://tomcritchlow.com/2021/01/14/new-browsers/)) and Replit is a dream client.
 
-I recently build a little bookmarklet and app for a client using Replit that gave an x-ray vision overlay on their website with a bunch of custom analysis and stats - took me a few hours to prototype and opened up a bunch of interesting conversations! I love that kind of thing.
+I recently built a little bookmarklet and app for a client using Replit that gave an x-ray vision overlay on their website with a bunch of custom analysis and stats - took me a few hours to prototype and opened up a bunch of interesting conversations! I love that kind of thing.
 
 So how might we work together? Some ideas:
 
