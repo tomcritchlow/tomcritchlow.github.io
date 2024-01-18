@@ -1,14 +1,17 @@
 ---
 title: Manifesting my Dream Clients & Projects for 2024
-subtitle: Worth a shot
+subtitle: Let's do good work together
 layout: blog
+og: https://tomcritchlow.com/images/dream-clients-og.png
 ---
 
 New year, new me, new clients am I right?
 
 I don't work with many clients. In 2023 I worked with 6 clients. In 2022 it was 4.
 
-This is partly because I have the luxury to choose and partly because I really like to work with clients in a deep, transformational way.
+This is partly because I have the luxury to choose and partly because I really like to work with clients in a deep, transformational way[^retention].
+
+[^retention]: Last time I calculated it, the *average* length for a client retainer was over 2 years.
 
 One of my active clients I've been working with for 7 years.
 
@@ -17,6 +20,18 @@ Right now though I have some capacity for new clients and I'm trying to be thoug
 How do I find the next 7-year client?
 
 Well, if you don't ask you don't get right so here's some brands and projects I've love to work with in 2024:
+
+Quick links:
+
+* [Figma](/#figma)
+* [Replit](/#replit)
+* [Figma](/#remarkable)
+* [Stripe](/#stripe)
+* [LinkedIn](/#LinkedIn)
+* [Perplexity & AI Search](/#perplexity--ai-search)
+* [Weird Indie Collabs](/#more-weird-indie-collabs)
+* [Academic & Educational Collabs](/#academic-and-educational-collabs)
+* [More Strategic Advisor Roles](/#more-strategic-advisor-roles)
 
 ## Figma
 
@@ -36,7 +51,7 @@ I'm such a fanboy that I'd work with Figma on anything ha. But here's a few idea
 * How can we do more interesting, adventurous editorial projects? Inspired by [Stripe press](https://press.stripe.com/) and [Figma essays](https://www.figma.com/file/IV5AGF2aV75vau327SUKSy/CRYPTO-PHILANTHROPY?node-id=0%3A1&utm_source=figmathinkers&utm_medium=email&utm_campaign=figma-thinkers-week-8-creative-figma-uses). How might we explore a wider, more creative range of publishing and editorial projects to show off what Figma can do?
 * From an SEO perspective, Canva has done a masterful job with templates, tools and content designed for SEO and gets... *checks notes*... about 3400% more Google traffic[^figma]. What would the Figma equivalent SEO play be here?
 
-[^figma]: See [screenshot](![](https://tomcritchlow.com/images/2024-01-17-13-33-19.png)){:target="_blank"}
+[^figma]: See [screenshot](https://tomcritchlow.com/images/2024-01-17-13-33-19.png){:target="_blank"}
 
 ## Replit
 
@@ -69,29 +84,28 @@ Oh, and when are we getting a Google Calendar integration? :)
 
 ## Stripe
 
-I use Stripe almost every day. Both as a consumer and as someone who sells things on the internet. Stripe is an astonishing service that has no right to be as polished, playful and fun to work with as they are.
+I use Stripe almost every day. Both as a consumer and as someone who [sells things on the internet](https://seomba.com/). Stripe is an astonishing service that has no right to be as polished, playful and fun to work with as they are.
 
 And they have beautiful web-design! and they have a writing culture! and they have a whole experimental content/publishing approach!
+
+Ever since they talked about increasing the GDP of the internet and linked to Craig Mod in their annual letter I've been a huge fan. (I think there's actually a real economic argument to be said that blogging raises the GDP of the internet btw.)
 
 How might we work together? Some thoughts:
 
 * Stripe press is incredible in terms of their brand but still fairly limited in scope. I'd love to get involved with Stripe and see what their focus on writing culture can do for the web.
 * I'd love to work with Stripe on training around their internal culture of writing. I don't have any insight into how this writing is organized, shared or produced today but I'd love to work with the team on internal strategy and knowledge sharing. I'm [kind of a geek](https://newsletter.seomba.com/p/how-to-write-an-amazon-style-narrative) when it comes to [executive communication](https://newsletter.seomba.com/p/presenting-to-the-ceo-in-5-slides)...
 
-
-
 ## LinkedIn
 
 Actually, LinkedIn is a great social network. People hate on the quality of the feed at LinkedIn but I believe this is largely because most people never deliberately built their feed, they just connected with random co-workers and industry friends over the last 15 years...
 
-Once you take the time to intentionally craft your feed 
+Once you take the time to intentionally craft your feed it's perhaps the most wholesome social feed on the web right now (?!)
 
 Beyond just the feed though, LinkedIn is a social product that actually has a core utility! The value of a professional profile actually has value, distinct from other social sites.
 
-* Positioning around LinkedIn as a personal learning environment. Not just "LinkedIn learning" though that's part of it - but actually everything on LinkedIn culminates in learning - the feed, your network, education content and more. There's so much unexplored possibility around social learning environments, just-in-time learning, credentialing and more.
-* 
+I'd love to work with LinkedIn on:
 
-A personal learning environment for all. Ping me if you want a copy of the deck!
+* Positioning LinkedIn as a personal learning environment. Not just "LinkedIn learning" though that's part of it - but actually everything on LinkedIn culminates in learning - the feed, your network, education content and more. There's so much unexplored possibility around social learning environments, just-in-time learning, credentialing and more. I've got a deck pre-built about this if you want to take a peek just ping me :)
 
 ## Perplexity & AI-search
 
