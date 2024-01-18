@@ -13,7 +13,6 @@ title: Latest Writing
 {% capture next_month %}{{ post.next.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
-<div class="flex items-start">
 <div id="{{ this_year }}-ref" class="b f4">{{this_year}}</div>
 
 {% endif %}
@@ -22,11 +21,9 @@ title: Latest Writing
 {% else %}
 
 {% if forloop.first %}
-<div class="flex items-start">
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
 <div>
 {% elsif this_month != next_month %}
-<div class="flex items-start">
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
 <div>
 {% endif %}
@@ -36,16 +33,12 @@ title: Latest Writing
 </div>
 {% endif %}
 
-{% if this_month != next_month %}
-</div>
-</div>
-{% endif %}
+
 
 {% if forloop.last %}
-</div>
+
 {% else %}
 {% if this_year != next_year %}
-</div>
 <div class="flex items-start">
 <div id="{{ next_year }}-ref" class="b f4">{{next_year}}</div>
 
