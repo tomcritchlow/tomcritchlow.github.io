@@ -40,6 +40,7 @@ title: Latest Writing
 {% if this_year != next_year %}
 </div>
 </div>
+</div>
 <div class="flex items-start">
 <div id="{{ next_year }}-ref" class="b f4">{{next_year}}</div>
 
