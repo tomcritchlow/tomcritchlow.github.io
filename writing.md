@@ -13,7 +13,7 @@ title: Latest Writing
 {% capture next_month %}{{ post.next.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
-<div id="{{ this_year }}-ref" class="b f4">{{this_year}}</div>
+<div id="{{ this_year }}-ref" class="b f4 pv2">{{this_year}}</div>
 
 {% endif %}
 
@@ -39,7 +39,7 @@ title: Latest Writing
 
 {% else %}
 {% if this_year != next_year %}
-<div id="{{ next_year }}-ref" class="b f4">{{next_year}}</div>
+<div id="{{ next_year }}-ref" class="b f4 pv2">{{next_year}}</div>
 
 {% endif %}
 {% endif %}
