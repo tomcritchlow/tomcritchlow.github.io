@@ -22,9 +22,11 @@ title: Latest Writing
 {% else %}
 
 {% if forloop.first %}
+<div class="flex items-start">
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
 <div>
 {% elsif this_month != next_month %}
+<div class="flex items-start">
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
 <div>
 {% endif %}
@@ -35,6 +37,7 @@ title: Latest Writing
 {% endif %}
 
 {% if this_month != next_month %}
+</div>
 </div>
 {% endif %}
 
