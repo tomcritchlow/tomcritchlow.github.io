@@ -25,9 +25,9 @@ Quick links:
 
 * [Figma](#figma)
 * [Replit](#replit)
-* [Figma](#remarkable)
+* [Remarkable](#remarkable)
 * [Stripe](#stripe)
-* [LinkedIn](#LinkedIn)
+* [LinkedIn](#linkedin)
 * [Perplexity & AI Search](#perplexity--ai-search)
 * [Weird Indie Collabs](#more-weird-indie-collabs)
 * [Academic & Educational Collabs](#academic-and-educational-collabs)
