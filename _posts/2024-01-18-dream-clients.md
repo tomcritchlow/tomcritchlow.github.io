@@ -1,5 +1,5 @@
 ---
-title: Manifesting my Dream Clients & Projects for 2024
+title: Manifesting My Dream Clients & Projects for 2024
 subtitle: Let's do good work together
 layout: blog
 og: https://tomcritchlow.com/images/dream-clients-og.png
@@ -7,7 +7,7 @@ og: https://tomcritchlow.com/images/dream-clients-og.png
 
 New year, new me, new clients am I right?
 
-I don't work with many clients. In 2023 I worked with 6 clients. In 2022 it was 4.
+I don't work with many clients. In 2023 I worked with six clients. In 2022 it was four.
 
 This is partly because I have the luxury to choose and partly because I really like to work with clients in a deep, transformational way[^retention].
 
@@ -23,15 +23,15 @@ Well, if you don't ask you don't get right so here's some brands and projects I'
 
 Quick links:
 
-* [Figma](/#figma)
-* [Replit](/#replit)
-* [Figma](/#remarkable)
-* [Stripe](/#stripe)
-* [LinkedIn](/#LinkedIn)
-* [Perplexity & AI Search](/#perplexity--ai-search)
-* [Weird Indie Collabs](/#more-weird-indie-collabs)
-* [Academic & Educational Collabs](/#academic-and-educational-collabs)
-* [More Strategic Advisor Roles](/#more-strategic-advisor-roles)
+* [Figma](#figma)
+* [Replit](#replit)
+* [Figma](#remarkable)
+* [Stripe](#stripe)
+* [LinkedIn](#LinkedIn)
+* [Perplexity & AI Search](#perplexity--ai-search)
+* [Weird Indie Collabs](#more-weird-indie-collabs)
+* [Academic & Educational Collabs](#academic-and-educational-collabs)
+* [More Strategic Advisor Roles](#more-strategic-advisor-roles)
 
 ## Figma
 
