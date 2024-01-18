@@ -22,10 +22,8 @@ title: Latest Writing
 
 {% if forloop.first %}
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
-<div>
 {% elsif this_month != next_month %}
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
-<div>
 {% endif %}
 
 
