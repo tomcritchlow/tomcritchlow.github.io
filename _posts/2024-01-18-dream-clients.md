@@ -88,7 +88,7 @@ I use Stripe almost every day. Both as a consumer and as someone who [sells thin
 
 And they have beautiful web-design! and they have a writing culture! and they have a whole experimental content/publishing approach!
 
-Ever since they talked about increasing the GDP of the internet and linked to Craig Mod in their annual letter I've been a huge fan. (I think there's actually a real economic argument to be said that blogging raises the GDP of the internet btw.)
+Ever since they talked about increasing the GDP of the internet and linked to Craig Mod in their annual letter I've been a huge fan. (I think there's actually a real economic argument to be said that [blogging raises the GDP of the internet](https://tomcritchlow.com/2022/08/29/blogging-agency/) btw.)
 
 How might we work together? Some thoughts:
 
