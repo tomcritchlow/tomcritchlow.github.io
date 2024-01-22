@@ -8,6 +8,7 @@ Calendar mockup
 Double-click home button
 Quick-send action on selection
 Daily notes (like obsidian / diary)
+Wardly maps?
 
 What's wrong with this set of ideas?
 
