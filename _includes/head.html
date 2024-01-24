@@ -51,7 +51,7 @@
 {% if page.og %}
 <meta property="twitter:image"  content="{{page.og}}" />
 {% else %}
-<meta name="twitter:image" content="https://tomcritchlow.com/images/green.png">
+<meta name="twitter:image" content="https://tomcritchlow-tom_og.web.val.run/?headline={{page.title}}&subheadline={{page.subtitle}}&date={{ page.date | date: "%B %-d, %Y" }}">
 {% endif %}
 
 {% endif %}
