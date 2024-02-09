@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.5"
               }
             }
+          },
+          {
+            "id": "ebe88fcdd72885d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +116,18 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "56c18a63aae9b420",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -124,7 +146,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6bd3d9083423196c",
+  "active": "ebe88fcdd72885d0",
   "lastOpenFiles": [
     "wiki/drafts/Testing Obsidian.md",
     "wiki/drafts/Untitled.md",
