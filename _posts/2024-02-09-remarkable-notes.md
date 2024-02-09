@@ -2,6 +2,7 @@
 title: Notes on my Remarkable Tablet
 subtitle: Some notes on my note taking device
 layout: blog
+og: https://tomcritchlow.com/images/remarkable-og.png
 ---
 
 I love my [Remarkable 2](https://remarkable.com/store/remarkable-2). I've been using it pretty heavily for almost a year now. It's my every day companion device. Here's some notes and ideas.
@@ -18,19 +19,19 @@ Core, daily usage:
 
 * Taking notes, capturing ideas, jotting down the day's todo list. All of the kinds of things that a notebook does for you.
 * Doodling, diagramming and constructing more involved elaborate ideas. The kind of thing that is hard to do on a notebook because it involves zooming in and out, erasing sections, using straight lines etc.
-* [Reading PDFs](https://twitter.com/tomcritchlow/status/1754690464156946652) (and annotating with notes) - what a perfect form factor for reading PDFs! I've read so many more academic papers over the last directly because of my Remarkable.
+* [Reading PDFs](https://twitter.com/tomcritchlow/status/1754690464156946652) (and annotating with notes) - what a perfect form factor for reading PDFs! I've read so many more academic papers over the last year directly because of my Remarkable.
 * I've been working with a client to make a Monthly Business Review packet - it's 50+ pages of charts and data, Amazon-style, and on a whim I loaded it onto my Remarkable as a PDF and it's a great way to read all the data (and add little annotations!). Now I load each month on there and sit down and read it front to back.
 
 Fun, quirky uses:
 
-* Helping my daughter Roxy with her maths homework! I find that explaining things like mathematical concepts in a space where you can easily erase, switch pages etc is useful. Roxy and I did that last night as I was helping her understand place value.
+* Helping my daughter Roxy with her maths homework! I find that explaining things like mathematical concepts in a space where you can easily erase, switch pages etc is useful. Roxy and I did that last night as I was helping her understand place value for tens and hundreds.
 * There are various game templates for the Remarkable that you can buy but I prefer to play something like [drawing wars](https://athriftymom.com/pencil-wars-drawing-game/) with my kids!
 
 And here's a recent usage that I'm really digging - constructing a custom project tracker for my book writing project:
 
 ![](/images/2024-02-09-11-09-19.png)
 
-The base layer is a PDF I made in Figma that then let's me track editing progress as I work through my [Winter of Word Craft](https://buttondown.email/winterwordcraft) book sprint.
+The base layer is a PDF I made in Figma that then lets me track editing progress as I work through my [Winter of Word Craft](https://buttondown.email/winterwordcraft) book sprint.
 
 ✍️✍️✍️
 
@@ -40,7 +41,7 @@ I've also been playing around recently with some fun remarkable templates - thin
 
 ![](/images/2024-02-09-11-17-56.png)
 
-And Zenko maps:
+And [Zenko maps](https://smithery.com/2020/12/01/starting-with-zenko-mapping/):
 
 ![](/images/2024-02-09-11-18-19.png)
 
