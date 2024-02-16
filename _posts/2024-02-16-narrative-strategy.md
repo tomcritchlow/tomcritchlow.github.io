@@ -82,8 +82,7 @@ This frame of narratives as engines of change is, I suspect, why Jan Chipchase i
 <blockquote class="quoteback" darkmode="" data-title="Strategic%20Narratives" data-author="Jan Chipchase" cite="https://studiodradiodurans.com/blogs/radar/strategic-narratives">
 Over the last two years I’ve been researching my next book on human and organisational sensemaking. Aside from the depth of themes covered—from the origins of speech systems and writing, to theories that seek to explain organisational decision making—I’ve taken a meta-view&nbsp;that looks at narrative formats.&nbsp;The analysis&nbsp;probed&nbsp;what drives engagement in the workplace, why certain ideas gain widespread traction, and which (sometimes excellent) ideas fall by the wayside. These themes keep circling back to organisational purpose: its mission, vision and core values—that manages to bridge its history with its idealised future—and which is communicated through a strategically&nbsp;positioned narrative.
 <footer> <cite><a href="https://studiodradiodurans.com/blogs/radar/strategic-narratives">https://studiodradiodurans.com/blogs/radar/strategic-narratives</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 (If you're into this kind of thing don't sleep on his recently announced [Strategic Narratives Masterclass](https://studiodradiodurans.com/pages/strategic-narratives-masterclass))
 
@@ -115,7 +114,3 @@ Narrative loops that inform how companies show up in the world but also inform h
 ✎ᝰ
 
 Perhaps one day I'll capture the essence of narrative strategy in something more tangible and concrete. The irony is not lost on me.
-
-✎ᝰ
-
-How do you use narratives as tools, texture and thinking in your consulting work?
