@@ -45,7 +45,15 @@ Could this be described more like "strategic narratives" than "narrative strateg
 
 ## A Company Story is Powerful
 
-My buddy Elan Miller who runs [Off-Menu](https://www.off-menu.com/) does exceptional brand strategy work. The best, truly. We've worked together on a number of projects and one thing I love is Elan's ability to beyond the brand to the actual company story.
+My buddy Elan Miller who runs [Off-Menu](https://www.off-menu.com/) does exceptional brand strategy work. The best, truly. We've worked together on a number of projects and one thing I love is Elan's ability to go beyond the brand to the actual company story.
+
+<blockquote class="quoteback" darkmode="" data-title="The%20%22why%22%20and%20%22how%22%20behind%20Off-Menu%20(which%20might%20surprise%20you)%20" data-author="Elan Miller" cite="https://offmenu.substack.com/p/the-why-and-how-behind-off-menu-which-22-08-18">
+<p>That’s what we aspire to do for our clients. To get to know them better than they know themselves. To make them feel seen. So we can help them express what makes them uniquely memorable across every touchpoint of the brand.&nbsp;</p><p>What makes Off-Menu uniquely memorable is how we help teams figure out &amp; tell their story. We custom design every engagement to unpack a team’s vision &amp; understand their customer’s aspirations through ways they could never imagine.&nbsp;</p><p>For example, this one time we gave travel agents polaroid cameras to capture their definition of luxury to better articulate what makes them uniquely special.&nbsp;</p><p>We specialize in surfacing unspoken human truths from unexpected places; the kind that once experienced, you can’t unsee.</p><p>We then use everything we learn to provoke you with new opportunities that change the trajectory of your business.</p><p>All before packaging everything together seamlessly into a differentiated narrative; one that gives your team shared direction for how to build a brand people fall madly in love with.&nbsp;</p><p>We call this <strong>narrative-driven design</strong>.</p>
+<footer>Elan Miller <cite><a href="https://offmenu.substack.com/p/the-why-and-how-behind-off-menu-which-22-08-18">https://offmenu.substack.com/p/the-why-and-how-behind-off-menu-which-22-08-18</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Elan is the GOAT of brand strategy. Go hire him.
 
 ✎ᝰ
 
@@ -59,13 +67,15 @@ Meanwhile, there's a different kind of company story. Not a brand story, but an 
 <footer>@humanenterprise<cite> <a href="https://www.onhumanenterprise.com/internal-logic-business">https://www.onhumanenterprise.com/internal-logic-business</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+How does this internal logic seep into external narratives?
+
 ✎ᝰ
 
 ## Narrative as Engines of Change
 
 Ok so far we have three different flavors of narrative strategy: the "strategic narrative", the "company story" and the "internal logic". Now let's introduce another flavor: narratives as engines of change:
 
-<blockquote class="quoteback" darkmode="" data-title="Exploring%20narrative%20strategy%3A%20the%20role%20of%20narratives%20in%20the%20strategic%20positioning%20of%20organizational%20change" data-author="" cite="https://www.tandfonline.com/doi/full/10.1080/13511610.2022.2062303">Narratives play a crucial role in the strategy to address and resolve narrative discrepancies, combine and moderate stakeholder expectations from differing fields and clarify an organization’s positioning regarding broader social narratives. We propose that the use of narratives in a strategy goes well beyond the phenomenon of corporate storytelling. As contextual factors, narratives serve different goals than the mediation and dissemination of strategic decisions. We argue that this strategic use of narratives plays a particular role in organizational change situations.<footer> <cite><a href="https://www.tandfonline.com/doi/full/10.1080/13511610.2022.2062303">https://www.tandfonline.com/doi/epdf/10.1080/13511610.2022.2062303?needAccess=true</a></cite></footer>                      </blockquote>                      <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+<blockquote class="quoteback" darkmode="" data-title="Exploring%20narrative%20strategy%3A%20the%20role%20of%20narratives%20in%20the%20strategic%20positioning%20of%20organizational%20change" data-author="" cite="https://www.tandfonline.com/doi/full/10.1080/13511610.2022.2062303">Narratives play a crucial role in the strategy to address and resolve narrative discrepancies, combine and moderate stakeholder expectations from differing fields and clarify an organization’s positioning regarding broader social narratives. We propose that the use of narratives in a strategy goes well beyond the phenomenon of corporate storytelling. As contextual factors, narratives serve different goals than the mediation and dissemination of strategic decisions. We argue that this strategic use of narratives plays a particular role in organizational change situations.<footer> <cite><a href="https://www.tandfonline.com/doi/full/10.1080/13511610.2022.2062303">https://www.tandfonline.com/doi/epdf/10.1080/13511610.2022.2062303?needAccess=true</a></cite></footer></blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 This frame of narratives as engines of change is, I suspect, why Jan Chipchase is writing a book about corporate sense making:
 
@@ -81,15 +91,14 @@ Over the last two years I’ve been researching my next book on human and organi
 
 ## Narratives are Little Universes
 
-Marcin Wichary has a lovely little riff on the feeling of *finishing* a book. In it he describes the book as a world:
+Marcin Wichary has a lovely little riff on the feeling of *finishing* writing a book. In it he describes the book as a world:
 
 <blockquote class="quoteback" darkmode="" data-title="The%20worst%20thing%20about%20writing%20a%20book%20is%20that%20one%20day%20you%E2%80%99ll%20be%20done" data-author="@buttondown" cite="https://newsletter.shifthappens.site/archive/the-worst-thing-about-writing-a-book/">
 <p>A few sentences of dialogue from a 1968 sci-fi book changed the way I look at writing.</p>
 <p>The book is called <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Tales_of_Pirx_the_Pilot"><em>Tales of Pirx the Pilot</em></a> and written by someone who’d become my favourite author –&nbsp;Stanisław Lem.</p>
 <p>Lem was a masterful literary world builder, and Pirx stories were no exception. The opening paragraphs weren’t wasted on clunky exposition or establishing shots. No, you were thrown straight into Pirx’s universe, without an onramp and without a warning. The explanations would come in due time, in between the lines, or never at all.</p>
 <footer>@buttondown <cite><a href="https://newsletter.shifthappens.site/archive/the-worst-thing-about-writing-a-book/">https://newsletter.shifthappens.site/archive/the-worst-thing-about-writing-a-book/</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 As Marcin goes on to say:
 
