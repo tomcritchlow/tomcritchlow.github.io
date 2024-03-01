@@ -7,9 +7,9 @@ layout: blog
 <div class="ba b--black-10 bg-washed-green br3 pa3 f5">
 <div class="ttu black-50 pb2">summary</div>
 After consulting with ~40 companies across a wide range of industries and sizes, I ask the question: what have I observed about the most successful companies?<br><br>
-The answer is that the most successful companies have a key executive who is customer-centric: they have a rich mental model for what customers want and how customers behave.
+The answer is that the most successful companies have a key executive who is customer-centric - someone who has a rich mental model for what customers want and is able to step into the customer's shoes.
 <br><br>
-In the post I look at various ideas about what it means for a company to be customer-centric and how you might enable customer-centric thinking in executives.</div>
+I theorize that beyond a culture of being customer-centric it's the ability to make key decisions with a customer-centric mindset that is important. But how do you cultivate this perspective for executives?</div>
 
 > "Many companies describe themselves as customer-focused, but few walk the walk. Most big technology companies are competitor focused. They see what others are doing, and then work to fast follow. In contrast, 90 to 95% of what we build in AWS is driven by what customers tell us they want." - [Jeff Bezos](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm)
 
@@ -62,7 +62,7 @@ Working with Neil he was always able to prioritize and talk about the customer e
 
 Andy Berndt is another executive I worked with at Google's Creative Lab and was perhaps the most singularly brilliant executive I've ever worked with at being able to channel customer's perspective[^andy]. This manifested in projects like unifying Google's visual language, redesigning the Google logo, standardizing the login experience and more.
 
-[^andy]: Andy was [not without his flaws of course](https://techsupport.substack.com/p/where-does-workplace-trauma-go).
+[^andy]: Andy is [not without his flaws of course](https://techsupport.substack.com/p/where-does-workplace-trauma-go).
 
 Andy doesn't have much stuff online but there's a good example of his ability [around 17:02 in this video](https://youtu.be/7oGsTQ7t1jc?si=E828-AA23h2zgC-c&t=1024) where he talks about someone knocking on your day to "check the motors" and how ridiculous that would be. The ability to ground analogies, concepts and frustrations for users in simple ideas like this is very powerful and Andy would this this all day long.
 
