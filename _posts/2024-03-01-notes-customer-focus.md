@@ -2,6 +2,7 @@
 title: How do You Cultivate Customer-Centric Executives?
 subtitle: Thinking about deep perspective change in executives
 layout: blog
+og: https://tomcritchlow.com/images/customer-centric-og.png
 ---
 
 <div class="ba b--black-10 bg-washed-green br3 pa3 f5">
