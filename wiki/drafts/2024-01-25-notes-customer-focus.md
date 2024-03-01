@@ -140,12 +140,23 @@ So what might an executive intervention look like? Well, much like a Wardly map 
 
 Clearly Brian Chesky has the ability to channel the customer.
 
+Unfortunately, while this Airbnb example feels interesting - if you look around at the literature of customer journey maps you quickly realize that they're not the right tool for changing an executives perspective...
+
 👟👟👟
 
+When I think about the most successful consulting engagements over the last 10 years, it's the ones where I could help (in some small way) key executives view the world around them in a different light. To help them become slightly more attuned to the reality of customer experience and to be slightly better at putting themselves in the customer's shoes.
 
+This rarely happens in a single moment, but rather through a gradual ongoing process of introspection, discussion and surprise. The surprise is key to jolting executives out of their established ways of looking and ways of thinking to consider things anew, to look at things with fresh eyes.
 
-When I think about consulting engagements, it's the ability for executives to 
+👟👟👟
 
+Let's wrap this up. I want to keep exploring this idea of customer-centric thinking, so here's some open questions I have right now:
 
+1. What is the distinction between a customer-centric culture and a single customer-centric executive? How are they different and the same? Is it possible for a bottoms-up approach to being customer-centric or can this only happen top down?
+2. What are the systemic forces inside an organization that prevent executives from being customer-centric? Why is this a rare skill?
+3. What metrics should businesses be measuring around customer experience? In a world where customers look at 3x the competitors they used to, how do you create a customer-first view of the alternatives and options that users have?
+4. How might you build a training program like the disney institute designed to create new perspectives for executives, but designed for URL experiences, not IRL experiences?
 
-Have thoughts and opinions? This topic started [over on the Commoncog forums](https://forum.commoncog.com/t/thoughts-on-being-customer-centric/1774/11) so come join in over there.
+I'd love to hear your perspective!
+
+Want to continue the discussion? This idea started [over on the Commoncog forums](https://forum.commoncog.com/t/thoughts-on-being-customer-centric/1774/11) so come join in over there (you'll need a paid Commoncog membership which I highly recommend anyway).
