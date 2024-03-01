@@ -1,13 +1,13 @@
 ---
 title: How do You Cultivate Customer-Centric Executives?
-subtitle: Notes on how companies become customer-centric
+subtitle: Thinking about deep perspective change in executives
 layout: blog
 ---
 
 <div class="ba b--black-10 bg-washed-green br3 pa3 f5">
 <div class="ttu black-50 pb2">summary</div>
-After consulting with ~40 companies across a wide range of industries and sizes, I ask the question: what have I observed about the most succesful companies?<br><br>
-The answer is that the most successful companies have a key executive who is customer-centric: they have the a rich mental model for what customers want and how customers behave.
+After consulting with ~40 companies across a wide range of industries and sizes, I ask the question: what have I observed about the most successful companies?<br><br>
+The answer is that the most successful companies have a key executive who is customer-centric: they have a rich mental model for what customers want and how customers behave.
 <br><br>
 In the post I look at various ideas about what it means for a company to be customer-centric and how you might enable customer-centric thinking in executives.</div>
 
