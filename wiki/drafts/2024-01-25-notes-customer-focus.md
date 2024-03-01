@@ -128,6 +128,20 @@ But something about this makes me feel uneasy - internal satisfaction surveys? I
 
 My lived experience working with founders, CEOs and executives is that the power is in something more personal. It's not about a company-wide culture of being customer-centric as much as a singular vision, passion and voice for being customer centric that comes from a key executive that enables customer-centric decision making.
 
+👟👟👟
+
+## Building Customer Journey Maps
+
+Here's something that I know doesn't work: telling executives that they have a blind spot. Sure, every executive will pretend to be self aware enough to invite this kind of feedback but... spoiler alert: very few actually are.
+
+So what might an executive intervention look like? Well, much like a Wardly map is non-confrontational tool to critically discuss strategy, maybe a **customer service map** is a non-confrontational tool to critically discuss customer-centric ideas. Here's Aibnb's customer service map (and [tweet thread](https://twitter.com/bchesky/status/1654137863007612930?lang=en)):
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We created a blueprint of the Airbnb experience and used it to improve our service end-to-end <a href="https://t.co/KrDfZRbr0f">pic.twitter.com/KrDfZRbr0f</a></p>&mdash; Brian Chesky (@bchesky) <a href="https://twitter.com/bchesky/status/1654137863007612930?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Clearly Brian Chesky has the ability to channel the customer.
+
+👟👟👟
+
 
 
 When I think about consulting engagements, it's the ability for executives to 
