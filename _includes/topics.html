@@ -4,10 +4,10 @@
 {% assign topic = page.name | remove: ".md" %}
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 
-<div class="ttu f5 newgreen b pv4">WRITING</div>
+<div class="ttu f5 newgreen b pt4 pb2">WRITING</div>
 {% for post in topicposts %}
-<div class="flex w-100 bb b--black-10 pv3 justify-between items-center dim">
-  <div>
+<div class="flex flex-wrap w-100 bb b--black-10 pv3 justify-between items-center dim">
+  <div class="w-100 w-50-l">
     <a href="{{post.url}}" class="link black f5 b">{{post.title}}</a>
     <br>{{post.subtitle}}
   </div>
@@ -43,10 +43,7 @@ function arenaChannel(channel){
   
   var metadiv = document.createElement("div");
   metadiv.innerHTML = `
-  <div class="black-50 f6"><a href="https://www.are.na/tom-critchlow/${data.slug}" class="link black-50">Are.na / Tom Critchlow / ${data.title}</a></div>
-  <h1>${data.title}</h1>
-  <div class="black-50 f6">Created by ${data.owner.username}, with ${data.length} blocks</div>
-  `;
+  <div class="black-50 f6"><a href="https://www.are.na/tom-critchlow/${data.slug}" class="link black-50">Are.na / Tom Critchlow / ${data.title}</a></div>`;
   document.getElementById("arenaoutput").appendChild(metadiv);  
   
   var output2 = document.getElementById("arenaoutput");  
