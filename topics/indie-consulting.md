@@ -5,7 +5,8 @@ arena-channels:
 - consulting-books
 ---
 
-<div>
+<div class="bg-near-white br2 pa3">
+Introduction goes here.
 </div>
 
 
