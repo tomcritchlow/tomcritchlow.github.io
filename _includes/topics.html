@@ -8,7 +8,7 @@
 
 {% for post in topicposts | sort:date | reverse %}
 <div>
-<a href="{{post.url}}" class="flex flex-wrap w-100 bb b--black-10 pv4 justify-between dim db black link">
+<a href="{{post.url}}" class="flex flex-wrap w-100 bb b--black-10 pv3 justify-between dim db black link">
 <div class="w-100 w-50-l"><div class="link black f5 b">{{post.title}}</div><div class="f5">{{post.subtitle}}</div></div>
 <div class="black-50 f6 ibmplexmono ttu">{{ post.date | date: "%B %-d, %Y" }}</div>
 </a>
