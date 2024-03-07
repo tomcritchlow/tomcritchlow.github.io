@@ -3,29 +3,16 @@ layout: blog-sidebar-nav
 title: Sustainable Independent Consulting
 arena-channels:
 - consulting-books
+objective: Support 1000s of independent consultants to build a sustainable practice, on their own terms
+key-question: How do you build a sustainable practice on your own terms for 10+ years?
 ---
 
-<div class="bg-near-white br2 pa3 b--newgreen">
-
-
-Every independent consultant and freelancer takes a unique path. There's no blueprint to follow. But some of the challenges are shared: how to find clients? how to create your own identity? how to make a sustainable life out of being independent?
-
-I've been an independent consultant for almost 10 years (more about me) and I'm writing this book in public, free online. It's filled with ideas and concepts that helped me, and might help you too.
-<div class="flex">
-<div class="w-50-l w-100">
-<div class="ttu newgreen">
-Objective
-</div>
-Support 1000s of independent consultants to build a sustainable practice, on their own terms
-</div>
-<div class="w-50-l w-100">
-<div class="ttu newgreen">
-Key Question
-</div>
-How do you build a sustainable practice on your own termss for 10+ years?
+<div class="bg-near-white br2 pa3 ba b--newgreen">
+I've been working as an independent consultant for almost 10 years and I love the journey! But as you build your own practice you realize that there are many strange ideas and that assembling an independent life and practice requires thoughtful self-reflection. 
+<div class="flex pv2">
+<div class="w-50-l w-100"><div class="ttu newgreen f5">Objective</div>{{page.objective}}</div>
+<div class="w-50-l w-100"><div class="ttu newgreen f5">Key Question</div>{{page.key-question}}</div>
 </div>
 </div>
-
-
 
 {% include topics.html %}

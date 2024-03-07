@@ -6,7 +6,7 @@
 
 <div class="ttu f5 pv2 newgreen">WRITING</div>
 {% for post in topicposts %}
-<div class="flex w-100 bb b--black-10 pv3 justify-between items-center">
+<div class="flex w-100 bb b--black-10 pv3 justify-between items-center dim">
   <div>
     <a href="{{post.url}}" class="link black f5 b">{{post.title}}</a>
     <br>{{post.subtitle}}
@@ -18,10 +18,6 @@
 
 {% endfor %}
 
-
-{% for channel in page.arena-channels %}
-Arena channel: {{channel}}
-{% endfor %}
 
 <div id="arenaoutput" class="w-100"></div>
 
@@ -47,6 +43,7 @@ function arenaChannel(channel){
   
   var metadiv = document.createElement("div");
   metadiv.innerHTML = `
+  <div class="black-50 f6"><a href="https://www.are.na/tom-critchlow/${data.slug}" class="link black-50">Are.na / Tom Critchlow / ${data.title}</a></div>
   <h1>${data.title}</h1>
   <div class="black-50 f6">Created by ${data.owner.username}, with ${data.length} blocks</div>
   `;
