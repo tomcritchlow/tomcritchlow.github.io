@@ -4,11 +4,14 @@
 {% assign topic = page.name | remove: ".md" %}
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 
-<div class="ttu f5 newgreen b pt4 pb2">WRITING</div>
+{% if page.key-links %}
+<div class="ttu f5 newgreen b pt4 pb2">KEY LINKS</div>
 {% for link in page.key-links %}
+
 <div class="bg-near-white br2 pa2 ba b--newgreen f4 w-100"><img class="h2 dib v-mid" src="https://www.google.com/s2/favicons?domain={{link.url}}&sz=256" /><a class="link black" href="{{link.url}}">{{link.title}}</a></div>
 
 {% endfor %}
+{% endif %}
 
 <div class="ttu f5 newgreen b pt4 pb2">WRITING</div>
 
