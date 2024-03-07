@@ -3,6 +3,7 @@ title: Narrative Aircover & Compound Narrative
 subtitle: The narratives that nourish and sustain you as an independent consultant
 layout: tsi-chapter
 tags: strategy
+topics: indie-consulting
 og: https://tomcritchlow.com/images/compound-narrative-og.png
 ---
 

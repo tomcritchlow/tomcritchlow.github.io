@@ -6,15 +6,15 @@
 
 <div class="ttu f5 newgreen b pt4 pb2">WRITING</div>
 {% for post in topicposts %}
-<div class="flex flex-wrap w-100 bb b--black-10 pv3 justify-between items-center dim">
+<a href="{{post.url}}" class="flex flex-wrap w-100 bb b--black-10 pv3 justify-between items-center dim db black">
   <div class="w-100 w-50-l">
-    <a href="{{post.url}}" class="link black f5 b">{{post.title}}</a>
+    <div>class="link black f5 b">{{post.title}}</div>
     <br>{{post.subtitle}}
   </div>
   <div class="black-50 f6 ibmplexmono ttu">
     {{ post.date | date: "%B %-d, %Y" }}
   </div>
-</div>
+</a>
 
 {% endfor %}
 
@@ -72,7 +72,7 @@ function arenaChannel(channel){
       thumbnail = data.contents[i].image.thumb.url;
     }catch{}    
 
-    div2.innerHTML = `<a class="db w4 center black link dim pr4" href="${sourceurl || "#"}">
+    div2.innerHTML = `<a class="db w4 center black link dim pr4" href="${sourceurl || "https://www.are.na/block/"&data.contents[i].id}">
 <img class="db ba b--black-10"/ src="${thumbnail || "https://via.placeholder.com/150"}">
 <div class="f6 pv2 overflow-x-hidden">${truncateString(title,50) || "empty"}</div>
 <div class="f7 black-50 i pv2 overflow-x-hidden">${domain || ""}</div>

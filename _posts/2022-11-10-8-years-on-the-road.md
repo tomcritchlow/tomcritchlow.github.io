@@ -2,6 +2,7 @@
 title: 8 Years on the Road
 subtitle: Getting lost and learning to steer by a new compass
 layout: blog
+topics: indie-consulting
 blogchain: on-the-road
 ---
 
