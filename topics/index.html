@@ -10,16 +10,21 @@ title: Topics
 {% for page in topics %}
 {% assign topic = page.name | remove: ".md" %}
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
-<a href="{{page.url}}" class="bg-near-white br2 pa4 b--newgreen db mv4 link black dim">
+<a href="{{page.url}}" class="bg-near-white br2 pa4 ba b--newgreen db mv4 link black dim">
     <div class="pb2 f3 fw6">{{page.title}}</div>
     <div class="flex flex-wrap pt4">
         <div class="w-50-l w-100"><div class="ttu newgreen f5 b">Objective</div><div class="i">{{page.objective}}</div></div>
         <div class="w-50-l w-100"><div class="ttu newgreen f5 b">Key Question</div><div class="i">{{page.key-question}}</div></div>
     </div>
     <div class="bt b--black-50 f6 ttu mt4">
+       <span class="pr4">
+        <img src="/images/edit-2.svg"/ class="h1 dib v-mid pr2"> {{topicposts | size}} blog posts
+       </span> 
+       <span>
+        <span class="pr2">✶✶</span> {{page.arena-channels | size}} are.na channels
+       </span>
         
-       <img src="/images/edit-2.svg"/ class="h1 dib v-mid pr2" style="filter:opacity(0.5)"> {{topicposts | size}} blog posts / <span class="pr2">✶✶</span> {{page.arena-channels | size}} are.na channels
     </div>
         
-</da>
+</div>
 {% endfor %}
