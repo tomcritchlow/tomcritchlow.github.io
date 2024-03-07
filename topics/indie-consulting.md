@@ -3,6 +3,7 @@ layout: blog-sidebar-nav
 title: Sustainable Independent Consulting
 arena-channels:
 - consulting-books
+- independent-consulting-academic-research
 objective: Support 1000s of independent consultants to build a sustainable practice, on their own terms
 key-question: How do you build a sustainable practice on your own terms for 10+ years?
 ---
