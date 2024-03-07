@@ -5,13 +5,14 @@
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 Page name is {{page.name}}
 
-<div class="ttu f5 pv2">WRITING</div>
+<div class="ttu f5 pv2 newgreen">WRITING</div>
 {% for post in topicposts %}
-<div class="flex w-100 bt b--black-10 pv3">
+<div class="flex w-100 bt bb b--black-10 pv3 justify-between items-center">
   <div>
-    <a href="{{post.url}}">{{post.title}}</a>
+    <a href="{{post.url}}" class="link black f5 b">{{post.title}}</a>
+    <br>{{post.subtitle}}
   </div>
-  <div>
+  <div class="black-50 f6 ibmplexmono ttu">
     {{ post.date | date: "%B %-d, %Y" }}
   </div>
 </div>
