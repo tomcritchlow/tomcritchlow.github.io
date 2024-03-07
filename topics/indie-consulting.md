@@ -1,11 +1,16 @@
 ---
 layout: blog-sidebar-nav
 title: Sustainable Independent Consulting
+objective: Support 1000s of independent consultants to build a sustainable practice, on their own terms
+key-question: How do you build a sustainable practice on your own terms for 10+ years?
 arena-channels:
 - consulting-books
 - independent-consulting-academic-research
-objective: Support 1000s of independent consultants to build a sustainable practice, on their own terms
-key-question: How do you build a sustainable practice on your own terms for 10+ years?
+key-links:
+ - title: The Strategic Independent
+   url: https://tomcritchlow.com/strategy
+ - title: On The Road Blogchain
+   url: https://tomcritchlow.com/blogchains/on-the-road
 ---
 
 <div class="bg-washed-green br2 pa4 ba b--newgreen">
@@ -15,5 +20,6 @@ I've been working as an independent consultant for almost 10 years and I love th
 <div class="w-50-l w-100 pb2 f5"><div class="ttu newgreen b pb2">Key Question</div><div class="i">{{page.key-question}}</div></div>
 </div>
 </div>
+
 
 {% include topics.html %}
