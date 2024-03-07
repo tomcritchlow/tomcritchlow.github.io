@@ -3,7 +3,6 @@
 
 {% assign topic = page.name | remove: ".md" %}
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
-Page name is {{page.name}}
 
 <div class="ttu f5 pv2 newgreen">WRITING</div>
 {% for post in topicposts %}
