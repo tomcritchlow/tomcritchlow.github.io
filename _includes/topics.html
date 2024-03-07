@@ -72,7 +72,7 @@ function arenaChannel(channel){
       thumbnail = data.contents[i].image.thumb.url;
     }catch{}    
 
-    div2.innerHTML = `<a class="db w4 center black link dim pr4" href="${sourceurl || "https://www.are.na/block/"&data.contents[i].id}">
+    div2.innerHTML = `<a class="db w4 center black link dim pr4" href="${sourceurl || "https://www.are.na/block/"+data.contents[i].id}">
 <img class="db ba b--black-10"/ src="${thumbnail || "https://via.placeholder.com/150"}">
 <div class="f6 pv2 overflow-x-hidden">${truncateString(title,50) || "empty"}</div>
 <div class="f7 black-50 i pv2 overflow-x-hidden">${domain || ""}</div>
