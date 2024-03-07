@@ -6,11 +6,14 @@
 
 {% if page.key-links %}
 <div class="ttu f5 newgreen b pt4 pb2">KEY LINKS</div>
+
+<div class="flex flex-wrap f5">
 {% for link in page.key-links %}
 
-<div class="bg-near-white br2 ph2 pv0 mv2 ba b--black-50 f4 w-100"><img class="h1 dib v-mid pl2" src="https://www.google.com/s2/favicons?domain={{link.url}}&sz=256" /><a class="link black" href="{{link.url}}">{{link.title}}</a></div>
+<div class=" w-50-l w-100 bg-near-white br2 ph2 pv0 mv2 ba b--black-50 f4 w-100"><img class="h1 dib v-mid pr2" src="https://www.google.com/s2/favicons?domain={{link.url}}&sz=256" /><a class="link black" href="{{link.url}}">{{link.title}}</a></div>
 
 {% endfor %}
+</div>
 {% endif %}
 
 <div class="ttu f5 newgreen b pt4 pb2">WRITING</div>
