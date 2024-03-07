@@ -4,7 +4,7 @@
 {% assign topic = page.name | remove: ".md" %}
 {% assign topicposts = site.posts | where_exp: "item" , "item.topics contains topic" | sort:"path" %}
 
-<div class="ttu f5 pv2 newgreen">WRITING</div>
+<div class="ttu f5 newgreen b pv4">WRITING</div>
 {% for post in topicposts %}
 <div class="flex w-100 bb b--black-10 pv3 justify-between items-center dim">
   <div>
@@ -18,7 +18,7 @@
 
 {% endfor %}
 
-
+<div class="ttu f5 newgreen b pv4">RESEARCH</div>
 <div id="arenaoutput" class="w-100"></div>
 
 <script>
