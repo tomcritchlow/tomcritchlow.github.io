@@ -10,7 +10,7 @@
 <div class="flex flex-wrap f5">
 {% for link in page.key-links %}
 
-<article class="center mw5 mw6-ns hidden ba mv4">
+<article class="center mw5 mw6-ns hidden ba mv4 w-50 mr2-l">
   <h1 class="f4 bg-newgreen white mv0 pv2 ph3"><a class="link white" href="{{link.url}}">{{link.title}}</a>
     <div class="white-50 f7 i"><img class="h1 dib pr2" src="/images/external-link-white.svg" /> {{link.url}}</div></h1>
   <div class="pa3 bt">
@@ -19,8 +19,6 @@
     </p>
   </div>
 </article>
-
-<div class=" w-50-l w-100 bg-near-white br2 ph2 pv0 mv2 ba b--black-50 f4 w-100"><img class="h1 dib v-mid pr2" src="https://www.google.com/s2/favicons?domain={{link.url}}&sz=256" /><a class="link black" href="{{link.url}}">{{link.title}}</a></div>
 
 {% endfor %}
 </div>
