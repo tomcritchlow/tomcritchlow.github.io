@@ -5,7 +5,9 @@ title: Topics
 
 <em>Warning: This section is highly experimental!</em>
 
-{% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'"  %}
+{% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'" %}
+{% assign topics = topics | sort: "key-links.size" %}
+{% assign topics = topics | reverse %}
 
 {% for page in topics %}
 {% assign topic = page.name | remove: ".md" %}
