@@ -2,7 +2,7 @@
 layout: blog
 title: Small b blogging
 subtitle: Network topology and the ghost of the digg homepage
-topic: small-b-blogging
+topics: small-b-blogging
 ---
 
 There's an idea that starting a blog is harder than it used to be. That there used to be a way to write a few words, slap it online and wait for the traffic to roll in.
