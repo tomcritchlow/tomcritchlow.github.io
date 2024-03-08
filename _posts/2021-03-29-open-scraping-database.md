@@ -2,6 +2,7 @@
 title: Notes on an Open Scraping Database
 subtitle: Exposing the web's data texture
 layout: blog
+topics: digital-bricolage
 ---
 
 I'm no developer, but I've been using spreadsheets to query, extract and fiddle with the web for [over a decade now](https://web.archive.org/web/20110129014147/http://www.distilled.co.uk/blog/seo/how-to-build-agile-seo-tools-using-google-docs/).

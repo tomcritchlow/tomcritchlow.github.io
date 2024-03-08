@@ -2,6 +2,7 @@
 title: Digital Bricolage & Web Foraging
 subtitle: An ongoing journey in using the web in new ways
 layout: blog
+topics: digital-bricolage
 ---
 
 When I reflect on the various lines of inquiry that light me up, there's one consistent theme: digital bricolage. Bricolage is "the skill of using whatever is at hand and recombining them to create something new."

@@ -3,6 +3,7 @@ title: Electric Tables V0.2
 subtitle: From the web to spreadsheets and back again
 layout: blog
 og: https://tomcritchlow.com/images/ee-og-2.png
+topics: digital-bricolage
 ---
 
 Hey, so [Electric Tables V0.1](https://tomcritchlow.com/2022/01/26/electric-tables/) is a working prototype experimenting with a kind of personal database. Taking the idea of web foraging seriously. Giving URLs some *weight* - not just treating them as strings of characters but as *objects* and *actions*.

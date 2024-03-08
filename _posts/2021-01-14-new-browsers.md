@@ -2,6 +2,7 @@
 layout: blog
 title: Why can't I write code inside my browser?
 subtitle: Notes on rethinking browsers
+topics: digital-bricolage
 ---
 
 **So I can write code inside my spreadsheet, but not inside my browser? WTF.**
