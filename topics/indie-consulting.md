@@ -13,6 +13,6 @@ key-links:
    url: https://tomcritchlow.com/blogchains/on-the-road
 ---
 
-{% include topic-intro.html intro="I've been working as an independent consultant for almost 10 years and I love the journey! But as you build your own practice you realize that there are many strange ideas and that assembling an independent life and practice requires thoughtful self-reflection. " %}
+{% include topic-summary.html intro="I've been working as an independent consultant for almost 10 years and I love the journey! But as you build your own practice you realize that there are many strange ideas and that assembling an independent life and practice requires thoughtful self-reflection." %}
 
 {% include topics.html %}
