@@ -7,6 +7,8 @@ arena-channels:
 - blogging-changed-my-life
 ---
 
+{% include topic-summary.html intro="I've been writing on the internet for 15+ years and it's so nourishing! But people's idea for how and why to write on the internet is ruined by ideas of cringe and self-promotion. I want to show alternative  " %}
+
 <div class="bg-washed-green br2 pa4 ba b--newgreen">
 Writing online is a magical super-power. 
 <div class="flex flex-wrap pt4">
