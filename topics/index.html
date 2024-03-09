@@ -5,6 +5,12 @@ title: Topics
 
 <em>Warning: This section is highly experimental!</em>
 
+{% assign all_topics = site.pages | map: "topics" %}
+
+{% for item in all_topics %}
+- {{ item }}
+{% endfor %}
+
 {% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'" %}
 
 {% for page in topics %}
