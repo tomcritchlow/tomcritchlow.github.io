@@ -5,7 +5,7 @@ title: Topics
 
 <em>Warning: This section is highly experimental!</em>
 
-{% assign all_topics = site.pages | map: "topics" %}
+{% assign all_topics = site.posts | map: "topics" %}
 
 {% for item in all_topics %}
 - {{ item }}
