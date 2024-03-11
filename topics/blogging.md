@@ -6,8 +6,7 @@ arena-channels:
 - blogchains
 ---
 
-Questions:
-- How do you get more people blogging?
-- How to create more interaction between blogs?
+{% include topic-summary.html intro="Bricolage is “the skill of using whatever is at hand and recombining them to create something new.” The web is an incredible fabric for making, playing, art, creative. And you don't need to be "technical" to take advantage." %}
+
 
 {% include topics.html %}
