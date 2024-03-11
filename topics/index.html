@@ -20,7 +20,7 @@ title: Topics
 
 <em>Warning: This section is highly experimental!</em>
 
-{% assign all_topics = site.posts | map: "topics" %}
+{% assign all_topics = site.posts | map: "topics" | compact%}
 
 {% for item in all_topics %}
 {{ item }}
