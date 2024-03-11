@@ -3,6 +3,7 @@ title: Exploring the UX of web-annotations
 subtitle: Looking at Hypothesis, Genius and Google Docs
 layout: blog
 blogchain: annotations
+topics: annotation
 ---
 
 In my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in networked writing. In particular, I have a theory that the comments are actually the interesting unit of the blog, not the post.

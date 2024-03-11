@@ -3,6 +3,7 @@ layout: blog
 title: Integrating Annotations into a Static Blog
 subtitle: Custom CSS, alerts and more
 blogchain: annotations
+topics: annotation
 ---
 
 So I've been on and off experimenting with using annotations on this site for the last few years. My most recent post explored the UX of annotations - specifically because the mobile UX is probably the main thing preventing me from integrating annotations everywhere on my site.

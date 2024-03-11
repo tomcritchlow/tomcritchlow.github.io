@@ -6,7 +6,7 @@ title: Topics
 {% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'" %}
 
 <div class="sans-serif f6 fw6 ttu tracked">
-    <div class="pa3 dib bg-white hide-child relative-m relative-l w-100 w-auto-ns br2 ph5">
+    <div class="pa3 dib bg-white hide-child relative w-100 w-auto-ns br2 ph5">
         Choose Topic <img class="pl2 h1 dib v-mid" src="/images/chevron-down-green.svg"/>
         <div class="child absolute w-100 bg-near-white left-0 mt3 pa2 br2">
             {% for topic in topics %}
@@ -17,16 +17,6 @@ title: Topics
         </div>
     </div>
 </div>
-
-<em>Warning: This section is highly experimental!</em>
-
-{% assign all_topics = site.posts | map: "topics" | compact | uniq %}
-
-{% for item in all_topics %}
-{{ item }}
-{% endfor %}
-
-
 
 {% for page in topics %}
 {% assign topic = page.name | remove: ".md" %}
