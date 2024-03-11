@@ -2,6 +2,7 @@
 layout: blog
 title: Narrative Strategy
 subtitle: Thoughts on an emerging indie consulting style
+topics: narrative-strategy
 ---
 
 It's no surprise that a single narrative can shape a company's fate.

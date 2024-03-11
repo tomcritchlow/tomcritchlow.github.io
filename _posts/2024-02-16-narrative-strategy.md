@@ -3,6 +3,7 @@ title: (Another) Quick Riff on Narrative Strategy
 subtitle: The logic of narratives, narratives as worlds
 layout: blog
 og: https://tomcritchlow.com/images/narrative-og.png
+topics: narrative-strategy
 ---
 
 I've been ruminating on the idea of **narrative strategy** for a while now. The last time I wrote about it was [in 2020](https://tomcritchlow.com/2020/02/20/narrative-strategy/).

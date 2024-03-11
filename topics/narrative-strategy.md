@@ -1,19 +1,12 @@
 ---
 layout: blog-sidebar-nav
 title: Narrative Strategy
-objective: 
-key-question: 
+objective: Define and document a new kind of corporate strategy called narrative strategy.
+key-question: How do you distill this idea down to something understandable and compelling that doesn't look like simple positioning work.
 arena-channels:
 - narrative-strategy-h47jw9ypyfe
-key-links:
- - title: The Strategic Independent
-   url: https://tomcritchlow.com/strategy
-   description: I'm writing a book, serialized online, about the practice of independent consulting. Focused on how you build a rewarding, sustainable indie consulting practice.
- - title: On The Road Blogchain
-   url: https://tomcritchlow.com/blogchains/on-the-road
-   description: A series of annual posts documenting my journey as an independent consultant.
 ---
 
-{% include topic-summary.html intro="Narrative strategy" %}
+{% include topic-summary.html intro="The more companies I work with the more convinced I am that there is a new field of narrative strategy required. One part positioning, one part communications, one part strategic change. How do you create new narratives for companies that cross the divide from inside to outside and drive change at a fundamental level?" %}
 
 {% include topics.html %}

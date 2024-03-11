@@ -2,6 +2,7 @@
 layout: blog
 title: Library JSON - A Proposal for a Decentralized Goodreads
 subtitle: V0.1 for an experimental open bookshelf spec
+topics: digital-bricolage
 ---
 
 There's been a lot of discussion around a "better" GoodReads and at some point almost every side-project-slinger has tried their hand at building a "books website". Myself included.
