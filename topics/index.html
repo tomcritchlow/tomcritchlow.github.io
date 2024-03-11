@@ -3,16 +3,17 @@ layout: blog-sidebar-nav
 title: Topics
 ---
 
+{% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'" %}
+
 <div class="sans-serif f6 fw6 ttu tracked">
     <div class="pa3 dib bg-white hide-child relative-m relative-l w-100 w-auto-ns br2">
         Topic: Small b blogging
-        <div class="child absolute w-100 left-0 mt1 shadow-4 pa2">
+        <div class="child absolute w-100 bg-white left-0 mt1 shadow-4 pa2">
+            {% for topic in topics %}
             <div class="bg-white mt1 pa2 f6 w-100 br2">
-                <a class="link newgreen" href="/topics/blogging/">blogging</a>
+                <a class="link newgreen" href="/topics/{{topic.url}}/">{{topic.title}}</a>
             </div>
-            <div class="bg-white mt1 pa2 f6 top-100-m w-100 br2">
-                <a class="link" href="/topics/blogging/">Sustainable Independent Consulting</a>
-            </div>
+            {% endfor %}
         </div>
     </div>
 </div>
@@ -25,7 +26,7 @@ title: Topics
 - {{ item }} & {{item.size}}
 {% endfor %}
 
-{% assign topics = site.pages | where_exp: "item" , "item.path contains 'topics'" | where_exp: "item" , "item.path contains '.md'" %}
+
 
 {% for page in topics %}
 {% assign topic = page.name | remove: ".md" %}
