@@ -7,11 +7,11 @@ title: Topics
 
 <div class="sans-serif f6 fw6 ttu tracked">
     <div class="pa3 dib bg-white hide-child relative-m relative-l w-100 w-auto-ns br2">
-        Topic: Small b blogging
-        <div class="child absolute w-100 bg-white left-0 mt1 shadow-4 pa2">
+        Choose Topic
+        <div class="child absolute w-100 bg-near-white left-0 mt3 pa2 br2">
             {% for topic in topics %}
-            <div class="bg-white mt1 pa2 f6 w-100 br2">
-                <a class="link newgreen" href="/topics/{{topic.url}}/">{{topic.title}}</a>
+            <div class="bg-white mt1 pa2 mv2 f6 w-100 shadow-4 br2">
+                <a class="link newgreen" href="{{topic.url}}/">{{topic.title}}</a>
             </div>
             {% endfor %}
         </div>
