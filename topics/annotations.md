@@ -1,13 +1,13 @@
 ---
 layout: blog-sidebar-nav
 title: Digital Annotations & Marginalia
-objective: Support 1000s of independent consultants to build a sustainable practice, on their own terms
-key-question: How do you build a sustainable practice on your own terms for 10+ years?
+objective: Build alternative forms of comments and enable close-reading and discussion for the independent web.
+key-question: How do we foster discussion, dialogue and close-reading for small independent websites?
 arena-channels:
 - annotations-marginalia
 ---
 
-{% include topic-summary.html intro="Annotations better than comments" %}
+{% include topic-summary.html intro="No website feels as alive as a Google Doc covered in comments. I've experimented with Hypothesis on my site for years but still feel like we can go further in enabling and encouraging discussion and dialogue across, with and between websites and bloggers." %}
 
 
 {% include topics.html %}

@@ -2,6 +2,7 @@
 title: "Introducing: Quotebacks"
 subtitle: A chrome extension to quote the web
 layout: blog
+topics: annotations
 ---
 
 Networked writing (aka *blogging*) has become increasingly important as a part of my identity. It's the framework for creating lifelong friendships, finding rewarding client work and experimenting with ideas as a personal creative outlet.
