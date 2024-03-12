@@ -2,6 +2,7 @@
 title: The roadmap is not the territory
 subtitle: Notes on sequencing, strategy maps and business knowledge
 layout: blog
+topics: narrative-strategy
 ---
 
 Most of my consulting work connects to "marketing strategy" in some way - clients come wanting to talk about growing their business. But the funny thing about growth and marketing is that each component is like a thread that, once pulled, unravels the whole spool.
