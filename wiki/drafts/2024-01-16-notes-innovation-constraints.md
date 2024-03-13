@@ -1,6 +1,6 @@
 ---
-title: Writing notes for consultants
-subtitle: thinking in public
+title: Innovation vs Constraints
+subtitle: ways through
 layout: blog
 ---
 
@@ -15,4 +15,4 @@ Is the point of innovation to reveal constraints?
 Can this pair with strategic design?
 
 
-
+Growth often requires a delicate tradeoff of value. e.g. two sided marketplace
