@@ -1,0 +1,16 @@
+ - main_links:
+   - name: home
+     feathericon: home
+     url: "/"
+   - name: writing
+     feathericon: rss
+     url: "/writing"
+ - groups:
+    - group_name: Blog
+    - links:
+     - name: start here
+       feathericon: play-cirlce
+       url: "/start-here"
+     - name: latest
+       feathericon: calendar
+       url: "/writing"

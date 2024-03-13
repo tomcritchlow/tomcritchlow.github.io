@@ -10,6 +10,13 @@
         TOM CRITCHLOW
       </a>
     
+{% for link in site.data.nav.main_links %}
+<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="{{link.url}}">
+    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
+  </a>
+{% endfor %}
+
+
       <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
         <i data-feather="home" class="h1 pr3"></i> Home
       </a>
