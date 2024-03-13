@@ -7,10 +7,10 @@
      url: "/writing"
  - groups:
     - group_name: Blog
-    - links:
-     - name: start here
-       feathericon: play-cirlce
-       url: "/start-here"
-     - name: latest
-       feathericon: calendar
-       url: "/writing"
+      links:
+       - name: start here
+         feathericon: play-cirlce
+         url: "/start-here"
+       - name: latest
+         feathericon: calendar
+         url: "/writing"
