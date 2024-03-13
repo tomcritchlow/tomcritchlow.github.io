@@ -24,9 +24,9 @@
 
 <div class="flex">
   
-<div class="dn-l db">show nav</div>
+<div class="dn-l db" id="mobilemenu">show nav</div>
 
-    <div id="nav" class="w5 bg-near-white f7 fw6 br b--black-10 fixed-l dn top-0 left-0 overflow-y-scroll">
+    <div id="nav" class="w5 bg-near-white f7 fw6 br b--black-10 fixed-l dn db-l top-0 left-0 overflow-y-scroll">
       
       
       
@@ -54,7 +54,19 @@
 {% endfor %}
       
       </div>
-    
+
+<script>
+    document.getElementById('mobilemenu').addEventListener('click', function() {
+    var div = document.getElementById('nav');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    } else {
+        div.style.display = 'block';
+    }
+});
+
+</script>
+
     <div class="w-100" id="maincontent">
       <div class="mw8 center">
         <div class="pt4 pt5-l pb2 w-two-thirds-ns center">
