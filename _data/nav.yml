@@ -2,15 +2,46 @@ main_links:
   - name: home
     feathericon: home
     url: "/"
-  - name: writing
+  - name: About me
+    feathericon: user
+    url: "/about"    
+  - name: Writing
     feathericon: rss
     url: "/writing"
+  - name: Newsletter
+    feathericon: mail
+    url: "/newsletter"    
+  - name: search
+    feathericon: search
+    url: "/search"        
 groups:
   - group_name: Blog
     links:
       - name: start here
-        feathericon: play-cirlce
+        feathericon: play-circle
         url: "/start-here"
       - name: latest
         feathericon: calendar
         url: "/writing"
+      - name: topics
+        feathericon: folder
+        url: "/topics"        
+  - group_name: Hire me
+    links:
+      - name: consulting
+        feathericon: git-merge
+        url: "/consulting"
+      - name: advisor
+        feathericon: git-pull-request
+        url: "/advisor"
+  - group_name: Elsewhere
+    links:
+      - name: Twitter
+        feathericon: twitter
+        url: "https://twitter.com/tomcritchlow/"
+      - name: LinkedIn
+        feathericon: linkedin
+        url: "https://www.linkedin.com/in/tomcritchlow/"                     
+      - name: Are.na
+        feathericon: linkedin
+        url: "https://www.are.na/tom-critchlow/index"                             
