@@ -20,7 +20,7 @@
 <div class="mv4">
     <div class="newgreen mh3 ph2 mv2">{{group.group_name}}</div>
 
-{% for link in group %}
+{% for link in group.links %}
 <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="{{link.url}}">
     <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
   </a>
