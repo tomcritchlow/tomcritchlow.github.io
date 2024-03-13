@@ -16,71 +16,17 @@
   </a>
 {% endfor %}
 
+{% for group in site.data.nav.groups %}
+<div class="mv4">
+    <div class="newgreen mh3 ph2 mv2">{{group.group_name}}</div>
 
-      <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-        <i data-feather="home" class="h1 pr3"></i> Home
-      </a>
-      
-      <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-        <i data-feather="user" class="h1 pr3"></i> About Me
-      </a>
-    
-      <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-        <i data-feather="rss" class="h1 pr3"></i> Writing
-      </a>
-      
-      <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-        <i data-feather="mail" class="h1 pr3"></i> Newsletter
-      </a>
-    
-      <div class="mv4">
-        <div class="newgreen mh3 ph2 mv2">Blog</div>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="play-circle" class="h1 pr3"></i> Start here
-        </a>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="calendar" class="h1 pr3"></i> Latest Writing
-        </a>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="folder" class="h1 pr3"></i> Topics
-        </a>
-      </div>
-    
-      <div class="mv4">
-        <div class="newgreen mh3 ph2 mv2">Hire me</div>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="play-circle" class="h1 pr3"></i> Consulting
-        </a>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="calendar" class="h1 pr3"></i> Advisor
-        </a>
-      </div>
-    
-      <div class="mv4">
-        <div class="newgreen mh3 ph2 mv2">Elsewhere</div>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="twitter" class="h1 pr3"></i> Twitter
-        </a>
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="linkedin" class="h1 pr3"></i> LinkedIn</a>
-    
-    
-        <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="#">
-          <i data-feather="calendar" class="h1 pr3"></i> Are.na</a>
-      </div>
-    
-      
-        
-      
-      
-    
+{% for link in group %}
+<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="{{link.url}}">
+    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
+  </a>
+{% endfor %}
+</div>
+{% endfor %}
       
       </div>
     
