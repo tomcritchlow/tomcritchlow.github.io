@@ -86,7 +86,7 @@ function addClassBasedOnUrlWithSwitch() {
   const url = window.location.href;
   
   switch (true) {
-    case "https://tomcritchlow.com/":
+    case url == "https://tomcritchlow.com/":
       const div1 = document.getElementById("Home");
       if (div1) {
         div1.classList.add('bg-white');

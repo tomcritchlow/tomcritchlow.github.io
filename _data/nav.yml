@@ -1,5 +1,5 @@
 main_links:
-  - name: home
+  - name: Home
     feathericon: home
     url: "/"
   - name: About me
