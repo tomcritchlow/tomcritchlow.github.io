@@ -13,12 +13,11 @@
 
 <div class="postcontainer f4 ph3 pb4 ph0-l lh-copy">
 
+  {% if page.date %}
 <div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb5" datetime="{{ page.date}}">
-    {% if page.date %}
     {{ page.date | date: "%B %-d, %Y" }}
-      {% endif %}
   </div>
-  
+  {% endif %}
         <h1 class="f2 fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
   
       {% if page.subtitle %}
