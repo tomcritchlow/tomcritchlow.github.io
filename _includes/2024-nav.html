@@ -50,7 +50,7 @@
       </a>
     
 {% for link in site.data.nav.main_links %}
-<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="{{link.url}}">
+<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
     <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
   </a>
 {% endfor %}
@@ -78,6 +78,33 @@ var $hamburger = $("#hamburger");
               $("#nav").toggleClass("dn");
    
             }); 
+
+function addClassBasedOnUrlWithSwitch() {
+
+  const url = window.location.href;
+  
+  switch (true) {
+    case url.includes("/about/"):
+      const div1 = document.getElementById("about");
+      if (div1) {
+        div1.classList.add('bg-white');
+      }
+      break;
+    case url.includes("string2"):
+      const div2 = document.getElementById("string2");
+      if (div2) {
+        div2.classList.add('class-for-string2');
+      }
+      break;
+    // Add more cases as needed
+    default:
+      // Code to run if none of the above cases are true
+      break;
+  }
+}
+
+// Call the function
+addClassBasedOnUrlWithSwitch();
 
 </script>
 
