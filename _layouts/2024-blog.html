@@ -9,6 +9,8 @@
 
 {% include blogchain-nav-top.html %}
 
+<div class="postcontainer f4 lh-copy">
+
 <div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb5" datetime="{{ page.date}}">
     {% if page.date %}
     {{ page.date | date: "%B %-d, %Y" }}
@@ -117,4 +119,5 @@ if ($(window).width()<600){
       
 </div>
 
+</div>
 {% include 2024-footer.html %}
