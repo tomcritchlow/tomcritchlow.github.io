@@ -22,7 +22,7 @@
 </style>
 
 
-<div class="dn-l db w-100 pa3">
+<div class="dn-l db w-100 pa3" style="position:sticky;top:0px">
     <a class="link dim dark-gray f6 f5-l dib ttu pt2 pt0-l dtc-l v-mid newgreen b" href="/" title="Home">TOM CRITCHLOW</a>
     <div class="fr dib dn-l pt1">    
         <div id="hamburger" class="hamburger hamburger--squeeze">
@@ -50,6 +50,7 @@
       </a>
     
 {% for link in site.data.nav.main_links %}
+
 <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
     <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
   </a>
@@ -60,7 +61,7 @@
     <div class="newgreen mh3 ph2 mv2">{{group.group_name}}</div>
 
 {% for link in group.links %}
-<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" href="{{link.url}}">
+<a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
     <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
   </a>
 {% endfor %}
@@ -79,8 +80,9 @@ var $hamburger = $("#hamburger");
    
             }); 
 
-function addClassBasedOnUrlWithSwitch() {
 
+function addClassBasedOnUrlWithSwitch() {
+  // Get the current URL
   const url = window.location.href;
   
   switch (true) {
@@ -90,25 +92,37 @@ function addClassBasedOnUrlWithSwitch() {
         div1.classList.add('bg-white');
       }
       break;
-    case url.includes("https://tomcritchlow.com/?"):
-      const div1 = document.getElementById("Home");
-      if (div1) {
-        div1.classList.add('bg-white');
-      }
-      break;
     case url.includes("/about/"):
-      const div1 = document.getElementById("About me");
-      if (div1) {
-        div1.classList.add('bg-white');
-      }
-      break;
-    case url.includes("string2"):
-      const div2 = document.getElementById("string2");
+      const div2 = document.getElementById("About me");
       if (div2) {
-        div2.classList.add('class-for-string2');
+        div2.classList.add('bg-white');
       }
       break;
-    // Add more cases as needed
+    case url.includes("/writing/"):
+      const div3 = document.getElementById("Writing");
+      if (div3) {
+        div3.classList.add('bg-white');
+      }
+      break;
+    case url.includes("/newsletter"):
+      const div4 = document.getElementById("Newsletter");
+      if (div4) {
+        div4.classList.add('bg-white');
+      }
+      break;
+    case url.includes("/search"):
+      const div5 = document.getElementById("Search");
+      if (div5) {
+        div5.classList.add('bg-white');
+      }
+      break;
+    case url.includes("/start-here"):
+      const div6 = document.getElementById("Start here");
+      if (div6) {
+        div6.classList.add('bg-white');
+      }
+      break;                        
+    
     default:
       // Code to run if none of the above cases are true
       break;
@@ -117,6 +131,8 @@ function addClassBasedOnUrlWithSwitch() {
 
 // Call the function
 addClassBasedOnUrlWithSwitch();
+
+
 
 </script>
 
