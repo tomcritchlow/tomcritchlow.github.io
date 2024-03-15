@@ -8,6 +8,9 @@ main_links:
   - name: Writing
     feathericon: rss
     url: "/writing"
+  - name: Wiki
+    feathericon: layers
+    url: "/wiki"    
   - name: Newsletter
     feathericon: mail
     url: "/newsletter"    
@@ -25,7 +28,10 @@ groups:
         url: "/writing"
       - name: topics
         feathericon: folder
-        url: "/topics"        
+        url: "/topics" 
+      - name: map
+        feathericon: compass
+        url: "/map"                
   - group_name: Hire me
     links:
       - name: consulting
