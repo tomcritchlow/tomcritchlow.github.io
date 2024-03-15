@@ -4,9 +4,13 @@ subtitle: Getting back on the stage
 layout: blog
 ---
 
-I used to 
+I used to speak at conferences all the time. I think my most active period was 2011/2012 when I spoke at about 18 different confrences and meetups all around the world including Seattle, Brazil, Europe and the US.
 
-Much like my list of startups I'd like to work with. Don't ask don't tell eh?
+Then I went to go work at Google and spoke at zero conferences.
+
+Then I went out on my own and in the last 10 years I've spoken at 4 conferences.
+
+I miss it. So, much like my list of startups I'd like to work with. Don't ask don't tell eh?
 
 ## SEO Professional Development
 
@@ -20,6 +24,7 @@ I gave a presentation years ago at ianno about using hypothesis as a blogger and
 
 Hacking, making things etc.
 
-## How To be Indie
+## How To be Indie Consulting Sustainable aka what I've learned over 10 years
 
 No idea what kind of conference this would be 
+
