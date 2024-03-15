@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav
+layout: blog
 title: Digital Education Experiences
 objective: Develop new approaches to using the web for learning and education
 key-question: How do you build deep attention, focus and learning outcomes - not just feel good learning experiences?

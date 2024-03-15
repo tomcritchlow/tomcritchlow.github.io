@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav
+layout: blog
 title: Narrative Strategy
 objective: Define and document a new kind of corporate strategy called narrative strategy.
 key-question: How do you distill this idea down to something understandable and compelling that doesn't look like simple positioning work.

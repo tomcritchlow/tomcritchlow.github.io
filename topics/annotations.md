@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav
+layout: blog
 title: Digital Annotations & Marginalia
 objective: Build alternative forms of comments and enable close-reading and discussion for the independent web.
 key-question: How do we foster discussion, dialogue and close-reading for small independent websites?

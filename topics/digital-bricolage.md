@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav
+layout: blog
 title: Digital Bricolage
 objective: Show people what's possible using the web as a creative platform, without deep tech skills
 key-question: How do we make it even easier for folks to be creative on the web?

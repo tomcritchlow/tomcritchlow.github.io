@@ -1,5 +1,5 @@
 ---
-layout: blog-sidebar-nav
+layout: blog
 title: Small-b Blogging
 objective: Get more people writing online in ways that nourish and sustain them.
 key-question: How do you support people as they start publishing online?
