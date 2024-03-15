@@ -4,6 +4,8 @@ subtitle: Getting back on the stage
 layout: blog
 ---
 
+I used to 
+
 Much like my list of startups I'd like to work with. Don't ask don't tell eh?
 
 ## SEO Professional Development
