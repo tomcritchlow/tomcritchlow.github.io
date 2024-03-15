@@ -87,11 +87,17 @@ function addClassBasedOnUrlWithSwitch() {
   
   switch (true) {
     case url == "https://tomcritchlow.com/":
+      const div0 = document.getElementById("Home");
+      if (div0) {
+        div0.classList.add('bg-white');
+      }
+      break;
+    case url.includes("https://tomcritchlow.com/?"):
       const div1 = document.getElementById("Home");
       if (div1) {
         div1.classList.add('bg-white');
       }
-      break;
+      break;      
     case url.includes("/about/"):
       const div2 = document.getElementById("About me");
       if (div2) {
