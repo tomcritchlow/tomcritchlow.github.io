@@ -53,11 +53,11 @@ I'm based in Brooklyn and love the web, blogging and digital bricolage.
 </div>
 
 <div class="pv4">
-  <div class="ttu f6 newgreen tracked b pb3">Writing</div>
+  <div class="ttu f5 newgreen tracked b pb3">Latest Writing</div>
 
   {% for post in site.posts | limit:5 %}
-  <div class="flex w-100 pv2 justify-between">
-    <div><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
+  <div class="flex flex-wrap w-100 pv2 justify-between">
+    <div class="w-100 w-auto-l"><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
     <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
   </div>
   {% endfor %}
