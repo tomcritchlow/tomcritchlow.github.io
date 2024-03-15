@@ -27,7 +27,9 @@
 
     {{content}}
 
+    {% if page.date %}
     <hr class="w3 mv5">
+    {% endif %}
 
   {% include blogchain-nav-bottom.html %}
 
@@ -55,8 +57,9 @@
     {% endif %}
 
 
-
+{% if page.date %}
 <hr class="w3 mv5">
+{% endif %}
 
 <script>
 
