@@ -1,7 +1,7 @@
 ---
 title: The Active Advisor
 subtitle: Creating momentum
-layout: blog
+layout: 2024-blog
 ---
 
 There are many situations where companies don't have the budget or the bandwidth for a full consulting engagement. In these situations it's tempting to reach for a coaching or advisor model. Something like "a one hour phone call every other week".

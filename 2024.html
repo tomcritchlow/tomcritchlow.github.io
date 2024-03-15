@@ -8,7 +8,7 @@
 {% include 2024-nav.html %}
 
 <div class="f5 lh-copy mv5">
-<div class="pv4">
+<div class="pv4 f4">
 Hi, I'm Tom Critchlow and this is my digital garden 🌱
 <br><br>
 I'm working as a strategy consultant and growth advisor to media and technology companies. Learn more about that here.
@@ -19,28 +19,28 @@ I'm based in Brooklyn and love the web, blogging and digital bricolage.
 <div class="pv4">
 <div class="ttu f5 newgreen tracked b pb3">Projects</div>
 
-<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-near-white items-center" href="https://quotebacks.net">
+<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://quotebacks.net">
   <div class="flex mr3 pa2 bg-white ba b--black-10 br-100">
   <img class="h1" src="https://www.google.com/s2/favicons?domain=quotebacks.net&sz=256">
 </div>
   <div>Quotebacks - embedded blogging technology</div>
 </a>
 
-<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-near-white items-center" href="https://seomba.com">
+<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://seomba.com">
   <div class="flex mr3 pa2 bg-white ba b--black-10 br-100">
     <img class="h1" src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256">
   </div>
   <div>The SEO MBA - professional development for SEO professionals</div>
 </a>
 
-<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-near-white items-center" href="https://newmba.co">
+<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://newmba.co">
   <div class="flex mr3 pa2 bg-white ba b--black-10 br-100">
     <img class="h1" src="https://www.google.com/s2/favicons?domain=newmba.co&sz=256">
   </div>
   <div>NEW MBA - a digital executive accelerator</div>
 </a>
 
-<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-near-white items-center" href="https://fiercelycurious.com">
+<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://fiercelycurious.com">
   <div class="flex mr3 pa2 bg-white ba b--black-10 br-100">
     <img class="h1" src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256">
   </div>
@@ -51,16 +51,16 @@ I'm based in Brooklyn and love the web, blogging and digital bricolage.
 </div>
 
 <div class="pv4">
-  <div class="ttu f6 newgreen tracked b pb3">Projects</div>
+  <div class="ttu f6 newgreen tracked b pb3">Writing</div>
 
-  {% for post in site.posts | limit:10 %}
+  {% for post in site.posts | limit:5 %}
   <div class="flex w-100 pv2 justify-between">
-    <div><a class="link newgreen b" href="https://tomcritchlow.com{{post.title}}">{{post.title}}</a></div>
+    <div><a class="link black b" href="https://tomcritchlow.com{{post.title}}">{{post.title}}</a></div>
     <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
   </div>
   {% endfor %}
 
-  <div class="fr pv2"><a href="/writing">Read more <i data-feather="arrow-right" class="h1 pl3"></i></div>
+  <div class="fr pv2"><a class="link black" href="/writing">See all <i data-feather="arrow-right" class="h1 v-mid"></i></div>
 
   </div>
 
