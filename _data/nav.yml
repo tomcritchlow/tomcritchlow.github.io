@@ -14,30 +14,30 @@ main_links:
   - name: Newsletter
     feathericon: mail
     url: "/newsletter"    
-  - name: search
+  - name: Search
     feathericon: search
     url: "/search"        
 groups:
   - group_name: Blog
     links:
-      - name: start here
+      - name: Start here
         feathericon: play-circle
         url: "/start-here"
-      - name: latest
+      - name: Latest
         feathericon: calendar
         url: "/writing"
-      - name: topics
+      - name: Topics
         feathericon: folder
         url: "/topics" 
-      - name: map
+      - name: Map
         feathericon: compass
         url: "/map"                
   - group_name: Hire me
     links:
-      - name: consulting
+      - name: Consulting
         feathericon: git-merge
         url: "/consulting"
-      - name: advisor
+      - name: Advisor
         feathericon: git-pull-request
         url: "/advisor"
   - group_name: Elsewhere

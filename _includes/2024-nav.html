@@ -121,7 +121,13 @@ function addClassBasedOnUrlWithSwitch() {
       if (div6) {
         div6.classList.add('bg-white');
       }
-      break;                        
+      break;
+    case url.includes("/topics/"):
+      const div7 = document.getElementById("Topics");
+      if (div7) {
+        div7.classList.add('bg-white');
+      }
+      break;                              
     
     default:
       // Code to run if none of the above cases are true
