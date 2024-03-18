@@ -22,7 +22,7 @@ z-index:-1
 </style>
 
 <div class="flex items-stretch">
-<div class="w-20 relative ">
+<div class="relative ">
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
@@ -34,7 +34,7 @@ z-index:-1
 </div>
 
 <div class="flex items-stretch">
-<div class="w-20 relative">
+<div class="relative">
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
@@ -46,7 +46,7 @@ z-index:-1
 </div>
 
 <div class="flex items-stretch">
-<div class="w-20 relative">
+<div class="relative">
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
@@ -58,7 +58,7 @@ z-index:-1
 </div>
 
 <div class="flex items-stretch">
-<div class="w-20 relative">
+<div class="relative">
 <div class="greentimeline"></div>
 <img src="/images/7books-favicon.ico" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
@@ -70,7 +70,7 @@ z-index:-1
 </div>
 
 <div class="flex items-stretch">
-<div class="w-20 relative">
+<div class="relative">
 <div class="greentimeline"></div>
 <img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
