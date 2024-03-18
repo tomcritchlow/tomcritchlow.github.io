@@ -10,7 +10,7 @@
 <div class="pt4 pt5-l pb2 w-two-thirds-ns ph3 ph0-l center">
 
 <div class="flex flex-wrap bg-washed-green shadow-4 pa4 lh-copy f4 br2 mv4">
-  <img class="w-25-l w-100 br2" src="https://newmba.co/images/tom.jpg">
+  <img class="w-25-l w-100 br2" style="transform:rotate(-6deg)" src="https://newmba.co/images/tom.jpg">
   <div class="w-75-l pl4-l">
     <strong class="f3">Hi, I'm Tom Critchlow 👋</strong>
     <br><br>
@@ -20,19 +20,39 @@
 </div>
 
 <div class="pv4">
-  <div class="ttu f5 newgreen tracked b pb3">WORK</div>
+  <div class="ttu f4 newgreen tracked b pb3">WORK</div>
   <p class="lh-copy">I work as an independent consultant and growth advisor for media and technology companies. My expertise is in building sustainable growth programs focused on content and SEO. On every project I focus on providing clarity and momentum.</p>
-  <div class="fr pv2"><a class="link black" href="/writing">Read more <i data-feather="arrow-right" class="h1 v-mid"></i></div>
+  <div class="fr pv2"><a class="link black" href="/consulting">Read more <i data-feather="arrow-right" class="h1 v-mid"></i></div>
   </div>
+
+  <div class="pv4">
+    <div class="ttu f5 newgreen tracked b pb3">Latest Writing</div>
+  
+    {% for post in site.posts | limit:5 %}
+    <div class="flex flex-wrap w-100 pv2 justify-between">
+      <div class="w-100 w-auto-l"><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
+      <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
+    </div>
+    {% endfor %}
+  
+    <div class="fr pv2"><a class="link black" href="/writing">See all <i data-feather="arrow-right" class="h1 v-mid"></i></div>
+  
+    </div>
 
 <div class="pv4">
 <div class="ttu f5 newgreen tracked b pb3">Projects</div>
 
-<a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://tomcritchlow.com/strategy/">
-  <div class="flex mr3 pa2 bg-white ba b--black-10 br-100">
+<a class="link black-90 flex w-100 pv3 mv2 items-center" href="https://tomcritchlow.com/strategy/">
+  <div class="flex mr3 pa3 bg-white ba b--black-10 br-100">
   <img class="h1" src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256">
 </div>
-  <div>The Strategic Independent - a book about indie consulting</div>
+  <div>
+    <strong>The Strategic Independent</strong>
+    <br>A book about sustainable indie consulting
+  </div>
+  <div class="black-50 f6 ml-auto">
+    tomcritchlow.com
+  </div>  
 </a>
 
 <a class="link black-90 flex w-100 pa3 mv2 ba b--black-10 br2 bg-washed-green items-center" href="https://quotebacks.net">
@@ -66,19 +86,7 @@
 
 </div>
 
-<div class="pv4">
-  <div class="ttu f5 newgreen tracked b pb3">Latest Writing</div>
 
-  {% for post in site.posts | limit:5 %}
-  <div class="flex flex-wrap w-100 pv2 justify-between">
-    <div class="w-100 w-auto-l"><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
-    <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
-  </div>
-  {% endfor %}
-
-  <div class="fr pv2"><a class="link black" href="/writing">See all <i data-feather="arrow-right" class="h1 v-mid"></i></div>
-
-  </div>
 
 
 {% include 2024-footer.html %}
