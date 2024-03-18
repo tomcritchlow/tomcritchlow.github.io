@@ -7,6 +7,16 @@ Hi there, I’m currently helping businesses define and build digital marketing 
 
 Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritchlow](http://twitter.com/tomcritchlow) 
 
+<div class="ttu f4 newgreen tracked b pb3">Timeline</div>
+
+<div class="flex">
+<div class="w-10 bl b--newgreen h-100">
+Event here
+</div>
+<div class="">Something here</div>
+</div>
+
+
 ## How I Got Here
 
 In 2007 I joined my brother’s small digital agency, [Distilled](http://www.distilled.net), and made tinkering with SEO, content and digital strategy a business. 1 office turned into 3, NYC became home base, the business became what is known as “known.” 
