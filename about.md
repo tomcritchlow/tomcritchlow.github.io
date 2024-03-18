@@ -104,7 +104,9 @@ I'm currently obsessed with the media landscape and how startups, agencies and m
 
 A consistent theme across my work has been sharing knowledge and helping to teach others. I wrote some [guides to crawling the web using Google Docs](https://www.distilled.net/blog/distilled/guide-to-google-docs-importxml/) back in 2011 and get very excited about new ways for non-technical folks to engage with the web in a deeper way.
 
-Maybe because of my british accent I've been a mentor for various startup accelerators and incubators and spoken at conferences on 4 continents. More on my [speaking here](http://tomcritchlow.com/speaking).
+More recently I launched the [SEO MBA](https://seomba.com) which is an online education platform for SEO professionals to level up their business and management skills.
+
+Maybe because of my British accent, I've been a mentor for various startup accelerators and incubators and spoken at conferences all around the world. More on my [speaking here](http://tomcritchlow.com/speaking).
  
 ## Get in touch
 
