@@ -17,13 +17,14 @@ top:0px;
 left:50%;
 width:50%;
 height:100%;
+z-index:-1
 }
 </style>
 
 <div class="flex items-stretch">
 <div class="w-20 relative ">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h1"></div>
+<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
 <div class="pl3 pb4">
 <strong>Independent Consultant</strong>
 <div class="black-50 f6">2014 - Present</div>
@@ -32,12 +33,12 @@ height:100%;
 </div>
 
 <div class="flex items-stretch">
-<div class="w-10 relative ml2">
+<div class="w-20 relative">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt1" fill="#02AD28"></i>
+<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
 </div>
 <div class="pl3 pb4">
-<strong><img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="mr2 v-mid dib bg-white pa1 b--black-10 h1">Google: PMM Special Projects</strong>
+<strong>Google: PMM Special Projects</strong>
 <div class="black-50 f6">2012 - 2014</div>
 <div class="lh-copy">Working with internal innovation teams like the Creative Lab, Google Cardboard, Jamboard and BizOps I helped to ideate, develop and bring to market new products and services. With one foot in creative and one foot in business I helped to add rigor to creative ideas and creativity to spreadsheets.</div>
 </div>
@@ -46,10 +47,10 @@ height:100%;
 <div class="flex items-stretch">
 <div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt1" fill="#02AD28"></i>
+<img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
 </div>
 <div class="pl3 pb4">
-<strong><img src="/images/distilled-favicon.jpeg" class="mr2 v-mid dib bg-white pa1 b--black-10 h1">Distilled: VP Operations, NYC</strong>
+<strong>Distilled: VP Operations, NYC</strong>
 <div class="black-50 f6">2007 - 2012</div>
 <div class="lh-copy">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
 </div>
