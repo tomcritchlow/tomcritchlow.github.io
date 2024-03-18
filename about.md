@@ -28,31 +28,31 @@ height:100%;
 <div class="pl3 pb4">
 <strong>Independent Consultant</strong>
 <div class="black-50 f6">2014 - Present</div>
-<div class="lh-copy">Helping companies build strategic growth capabilities across product, marketing, SEO and content. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
+<div class="lh-copy">Helping media and technology companies build new growth capabilities through product innovation, SEO programs, content marketing and brand. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
 </div>
 </div>
 
 <div class="flex items-stretch">
 <div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt1"></i>
+<i data-feather="circle" class="newgreen pt1" fill="#02AD28"></i>
 </div>
 <div class="pl3 pb4">
-<strong>Google: PMM Special Projects</strong>
+<strong><img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="pr2 h1">Google: PMM Special Projects</strong>
 <div class="black-50 f6">2012 - 2014</div>
-<div class="lh-copy">Working with internal teams like the Creative Lab and Google Cardboard I helped to develop, prototype and launch various special projects including Maker Camp, Google Cardboard and Jamboard.</div>
+<div class="lh-copy">Working with internal innovation teams like the Creative Lab, Google Cardboard, Jamboard and BizOps I helped to ideate, develop and bring to market new products and services. With one foot in creative and one foot in business I helped to add rigor to creative ideas and creativity to spreadsheets.</div>
 </div>
 </div>
 
 <div class="flex items-stretch">
 <div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt1"></i>
+<i data-feather="circle" class="newgreen pt1" fill="#02AD28"></i>
 </div>
 <div class="pl3 pb4">
-<strong>Distilled: VP Operations, NYC</strong>
+<strong><img src="/images/distilled-favicon.jpeg" class="pr2 h1">Distilled: VP Operations, NYC</strong>
 <div class="black-50 f6">2008 - 2012</div>
-<div class="lh-copy">Working with internal teams like the Creative Lab and Google Cardboard I helped to develop, prototype and launch various special projects including Maker Camp, Google Cardboard and Jamboard.</div>
+<div class="lh-copy">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
 </div>
 </div>
 
