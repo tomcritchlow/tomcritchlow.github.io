@@ -26,7 +26,7 @@ z-index:-1
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
-<div class="pl3 pb4">
+<div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
 <div class="black-50 f6">2014 - Present</div>
 <div class="lh-copy">Helping media and technology companies build new growth capabilities through product innovation, SEO programs, content marketing and brand. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
@@ -38,7 +38,7 @@ z-index:-1
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
-<div class="pl3 pb4">
+<div class="pl3 pb4 w-90">
 <strong>Launched the SEO MBA</strong>
 <div class="black-50 f6">2021 - Present</div>
 <div class="lh-copy">Launched a professional development platform for SEO professionals.  </div>
@@ -50,7 +50,7 @@ z-index:-1
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
-<div class="pl3 pb4">
+<div class="pl3 pb4 w-90">
 <strong>Google: PMM Special Projects</strong>
 <div class="black-50 f6">2012 - 2014</div>
 <div class="lh-copy">Working with internal innovation teams like the Creative Lab, Google Cardboard, Jamboard and BizOps I helped to ideate, develop and bring to market new products and services. With one foot in creative and one foot in business I helped to add rigor to creative ideas and creativity to spreadsheets.</div>
@@ -62,7 +62,7 @@ z-index:-1
 <div class="greentimeline"></div>
 <img src="/images/7books-favicon.ico" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
-<div class="pl3 pb4">
+<div class="pl3 pb4 w-90">
 <strong>Launched 7books</strong>
 <div class="black-50 f6">2011-2013</div>
 <div class="lh-copy">Launched my first python project 7books, playlists for bookworms. Grew to over 6,000 users.</div>
@@ -74,7 +74,7 @@ z-index:-1
 <div class="greentimeline"></div>
 <img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
-<div class="pl3 pb4">
+<div class="pl3 pb4 w-90">
 <strong>Distilled: VP Operations, NYC</strong>
 <div class="black-50 f6">2007 - 2012</div>
 <div class="lh-copy">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
