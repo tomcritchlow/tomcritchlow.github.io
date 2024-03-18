@@ -51,7 +51,7 @@ height:100%;
 </div>
 <div class="pl3 pb4">
 <strong><img src="/images/distilled-favicon.jpeg" class="pr2 h1">Distilled: VP Operations, NYC</strong>
-<div class="black-50 f6">2008 - 2012</div>
+<div class="black-50 f6">2007 - 2012</div>
 <div class="lh-copy">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
 </div>
 </div>
