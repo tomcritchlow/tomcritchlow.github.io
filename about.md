@@ -36,6 +36,18 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="w-20 relative">
 <div class="greentimeline"></div>
+<img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
+<div class="pl3 pb4">
+<strong>Launched the SEO MBA</strong>
+<div class="black-50 f6">2021 - Present</div>
+<div class="lh-copy">Launched a professional development platform for SEO professionals.  </div>
+</div>
+</div>
+
+<div class="flex items-stretch">
+<div class="w-20 relative">
+<div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4">
@@ -52,7 +64,7 @@ z-index:-1
 </div>
 <div class="pl3 pb4">
 <strong>Launched 7books</strong>
-<div class="black-50 f6">2011</div>
+<div class="black-50 f6">2011-2013</div>
 <div class="lh-copy">Launched my first python project 7books, playlists for bookworms. Grew to over 6,000 users.</div>
 </div>
 </div>
