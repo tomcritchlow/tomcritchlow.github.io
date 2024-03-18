@@ -59,7 +59,7 @@
     <div class="newgreen mh3 ph2 mv2">{{group.group_name}}</div>
 
 {% for link in group.links %}
-<a class="{% if page.date AND link.name = 'Writing' %}bg-white{% endif %} db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
+<a class="{% if page.date and link.name == 'Writing' %}bg-white{% endif %} db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
     <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
   </a>
 {% endfor %}
