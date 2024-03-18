@@ -24,7 +24,8 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="w-20 relative ">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
+<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
 <div class="pl3 pb4">
 <strong>Independent Consultant</strong>
 <div class="black-50 f6">2014 - Present</div>
@@ -35,7 +36,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="w-20 relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
+<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4">
 <strong>Google: PMM Special Projects</strong>
@@ -47,7 +48,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100"></div>
+<img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4">
 <strong>Distilled: VP Operations, NYC</strong>
