@@ -11,9 +11,12 @@ Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritc
 
 <div class="flex">
 <div class="w-10 bl b--newgreen h-100">
-Event here
+<i data-feather="circle"></i>
 </div>
-<div class="">Something here</div>
+<div class="">
+<h3>Something here</h3>
+Working on something.
+</div>
 </div>
 
 
