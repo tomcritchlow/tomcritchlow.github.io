@@ -50,6 +50,18 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
+<img src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
+<div class="pl3 pb4 w-90">
+<strong>Launched Fiercely Curious</strong>
+<div class="black-50 f6">2013 - Present</div>
+<div class="lh-copy f5">Created Fiercely Curious, a Brooklyn art collective with pop-up art shows around Brooklyn and custom art installations for private and corporate clients.</div>
+</div>
+</div>
+
+<div class="flex items-stretch">
+<div class="relative">
+<div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
