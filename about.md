@@ -9,13 +9,22 @@ Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritc
 
 <div class="ttu f4 newgreen tracked b pb3">Timeline</div>
 
+<style>
+.greentimeline{
+position:absolute;
+border-left:1px solid #02AD28;
+top:0px;
+left:50%;
+}
+</style>
+
 <div class="flex">
 <div class="w-10 bl b--newgreen h-100">
-<i data-feather="circle"></i>
+<div class="greentimeline"></div>
+<i data-feather="circle" class="b--newgreen"></i>
 </div>
 <div class="">
-<h3>Something here</h3>
-Working on something.
+Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. 
 </div>
 </div>
 
