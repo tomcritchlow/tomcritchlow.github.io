@@ -23,7 +23,7 @@ height:100%;
 <div class="flex items-stretch">
 <div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt1"></i>
+<i data-feather="circle" class="newgreen pt1" fill="#02AD28"></i>
 </div>
 <div class="pl3 pb4">
 <strong>Independent Consultant</strong>
