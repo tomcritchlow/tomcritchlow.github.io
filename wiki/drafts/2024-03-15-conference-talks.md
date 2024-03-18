@@ -4,7 +4,7 @@ subtitle: Getting back on the stage
 layout: blog
 ---
 
-I used to speak at conferences all the time. I think my most active period was 2011/2012 when I spoke at about 18 different confrences and meetups all around the world including Sao Paolo, Seattle, Vegas, Munich, London, NYC and more.
+I used to speak at conferences all the time. I think my most active period was 2011/2012 when I spoke at about 18 different conferences and meetups all around the world including Sao Paolo, Seattle, Vegas, Munich, London, NYC and more.
 
 Then I went to go work at Google and spoke at zero conferences.
 
@@ -28,3 +28,6 @@ Hacking, making things etc.
 
 No idea what kind of conference this would be 
 
+## Executive Presentation Skills
+
+This is probably less of a conference talk and more of a training session but 
