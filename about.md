@@ -3,9 +3,11 @@ layout: blog
 title: About Me
 ---
 
-Hi there, I’m currently helping businesses define and build digital marketing capabilities as an independent consultant. I’m also championing Brooklyn artists as co-founder of art startup [Fiercely Curious](http://www.fiercelycurious.com).
+Hi there, I'm based in Brooklyn, NY and currently do independent consulting work for media and technology companies. I also run the SEO MBA. I'm always happy to grab a coffee or a zoom!
 
 Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritchlow](http://twitter.com/tomcritchlow) 
+
+---
 
 <div class="ttu f4 newgreen tracked b pb3">Timeline</div>
 
@@ -29,7 +31,7 @@ z-index:-1
 <div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
 <div class="black-50 f6">2014 - Present</div>
-<div class="lh-copy">Helping media and technology companies build new growth capabilities through product innovation, SEO programs, content marketing and brand. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
+<div class="lh-copy f5">Helping media and technology companies build new growth capabilities through product innovation, SEO programs, content marketing and brand. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
 </div>
 </div>
 
@@ -41,7 +43,7 @@ z-index:-1
 <div class="pl3 pb4 w-90">
 <strong>Launched the SEO MBA</strong>
 <div class="black-50 f6">2021 - Present</div>
-<div class="lh-copy">Launched a professional development platform for SEO professionals.  </div>
+<div class="lh-copy f5">Launched a professional development platform for SEO professionals.  </div>
 </div>
 </div>
 
@@ -53,7 +55,7 @@ z-index:-1
 <div class="pl3 pb4 w-90">
 <strong>Google: PMM Special Projects</strong>
 <div class="black-50 f6">2012 - 2014</div>
-<div class="lh-copy">Working with internal innovation teams like the Creative Lab, Google Cardboard, Jamboard and BizOps I helped to ideate, develop and bring to market new products and services. With one foot in creative and one foot in business I helped to add rigor to creative ideas and creativity to spreadsheets.</div>
+<div class="lh-copy f5">Working with internal innovation teams like the Creative Lab, Google Cardboard, Jamboard and BizOps I helped to ideate, develop and bring to market new products and services. With one foot in creative and one foot in business I helped to add rigor to creative ideas and creativity to spreadsheets.</div>
 </div>
 </div>
 
@@ -65,7 +67,7 @@ z-index:-1
 <div class="pl3 pb4 w-90">
 <strong>Launched 7books</strong>
 <div class="black-50 f6">2011-2013</div>
-<div class="lh-copy">Launched my first python project 7books, playlists for bookworms. Grew to over 6,000 users.</div>
+<div class="lh-copy f5">Launched my first python project 7books, playlists for bookworms. Grew to over 6,000 users.</div>
 </div>
 </div>
 
@@ -77,7 +79,7 @@ z-index:-1
 <div class="pl3 pb4 w-90">
 <strong>Distilled: VP Operations, NYC</strong>
 <div class="black-50 f6">2007 - 2012</div>
-<div class="lh-copy">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
+<div class="lh-copy f5">Working alongside my brother I helped build Distilled from a team of 3 into a team of 50+ across three offices. I built the SEO capability for Distilled from the ground up, built the NYC office and client base and spoke at conferences across the world.</div>
 </div>
 </div>
 
