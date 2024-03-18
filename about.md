@@ -21,12 +21,24 @@ height:100%;
 </style>
 
 <div class="flex items-stretch">
-<div class="w-10 relative">
+<div class="w-10 relative ml2">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="newgreen pt2"></i>
+<i data-feather="circle" class="newgreen pt1"></i>
 </div>
 <div class="pl3">
-Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. 
+<strong>2014 - Present: Independent Consultant</strong>
+<div class="lh-copy">Helping companies build strategic growth capabilities across product, marketing, SEO and content. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
+</div>
+</div>
+
+<div class="flex items-stretch">
+<div class="w-10 relative ml2">
+<div class="greentimeline"></div>
+<i data-feather="circle" class="newgreen pt1"></i>
+</div>
+<div class="pl3">
+<strong>2012 - 2014: Google: PMM Special Projects</strong>
+<div class="lh-copy">Working with internal teams like the Creative Lab and Google Cardboard I helped to develop, prototype and launch various special projects including Maker Camp, Google Cardboard and Jamboard.</div>
 </div>
 </div>
 
