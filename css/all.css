@@ -30,6 +30,10 @@ body{
   border-color:#02AD28;
 }
 
+.bg-newgreen-light{
+  background-color:#e6f4ea;
+}
+
 .ibmplexmono{
   font-family:"IBM plex mono";
 }
