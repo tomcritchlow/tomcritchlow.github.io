@@ -21,11 +21,11 @@ height:100%;
 </style>
 
 <div class="flex items-stretch">
-<div class="w-10 bl b--newgreen relative">
+<div class="w-10 relative">
 <div class="greentimeline"></div>
-<i data-feather="circle" class="b--newgreen"></i>
+<i data-feather="circle" class="newgreen pt2"></i>
 </div>
-<div class="">
+<div class="pl3">
 Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. Working on something. 
 </div>
 </div>
