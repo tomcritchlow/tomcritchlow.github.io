@@ -15,11 +15,13 @@ position:absolute;
 border-left:1px solid #02AD28;
 top:0px;
 left:50%;
+width:50%;
+height:100%;
 }
 </style>
 
-<div class="flex">
-<div class="w-10 bl b--newgreen h-100">
+<div class="flex items-stretch">
+<div class="w-10 bl b--newgreen relative">
 <div class="greentimeline"></div>
 <i data-feather="circle" class="b--newgreen"></i>
 </div>
