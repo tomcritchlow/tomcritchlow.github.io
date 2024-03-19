@@ -5,8 +5,8 @@ layout: blog
 og: https://tomcritchlow.com/images/customer-centric-og.png
 ---
 
-<div class="ba b--black-10 bg-washed-green br3 pa3 f5">
-<div class="ttu black-50 pb2">summary</div>
+<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
+<div class="ttu black-50 pb2 b tracked">summary</div>
 After consulting with ~40 companies across a wide range of industries and sizes, I ask the question: what have I observed about the most successful companies?<br><br>
 The answer is that the most successful companies have a key executive who is customer-centric - someone who has a rich mental model for what customers want and is able to step into the customer's shoes.
 <br><br>

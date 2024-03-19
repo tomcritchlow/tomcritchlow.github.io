@@ -26,7 +26,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative ">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
@@ -38,7 +38,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched the SEO MBA</strong>
@@ -50,7 +50,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched Fiercely Curious</strong>
@@ -62,7 +62,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Google: PMM Special Projects</strong>
@@ -74,7 +74,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="/images/7books-favicon.ico" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="/images/7books-favicon.ico" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched 7books</strong>
@@ -86,7 +86,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="/images/distilled-favicon.jpeg" class="v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="/images/distilled-favicon.jpeg" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Distilled: VP Operations, NYC</strong>
