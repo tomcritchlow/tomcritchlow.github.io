@@ -7,7 +7,7 @@ Hi there, I'm based in Brooklyn, NY and currently do independent consulting work
 
 Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritchlow](http://twitter.com/tomcritchlow) 
 
-<hr class="pv3">
+<hr class="mv4">
 
 <div class="ttu f4 newgreen tracked b pb3">Timeline</div>
 
