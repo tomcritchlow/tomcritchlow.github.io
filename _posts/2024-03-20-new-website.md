@@ -2,7 +2,7 @@
 title: A Lil' Website Refresh
 subtitle: New design, new pages and more
 layout: blog
-og: 
+og: https://tomcritchlow.com/images/new-website-og.png
 ---
 
 Welcome to tomcritchlow.com version.... 19? 25? Honestly there have been so many iterations over the years who even knows. The point is there's a new coat of paint.
