@@ -91,6 +91,10 @@ This is the north star for LinkedIn - to be a place where networks and learning 
 
 ### 2.2 Learning is More Than Skills
 
+L&D has a low NPS (where did I read that?)
+
+https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79
+
 https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf
 
 We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
@@ -139,6 +143,7 @@ A go to market strategy for LinkedIn to reach students and a younger demographic
 6. Supporting inclusive spaces for non-white, non-male thinkbros.
 7. Instead of AI-generated UGC articles, how about AI-generated UGC curriculums. 
 8. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
+9. Within this brand idea [LinkedIn Games](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/) actually makes sense since games are powerful vehicles for learning.
 
 ## Conclusion
 
