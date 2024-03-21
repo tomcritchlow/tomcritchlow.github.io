@@ -1,10 +1,10 @@
 ---
-title: LinkedIn, not a social network, not a professional network but a Learning Network
+title: LinkedIn, not a social network or a professional network but a Learning Network
 subtitle: The world of work needs a fresh POV
 layout: blog
 ---
 
-<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5 mt3">
+<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5 mt4">
 <div class="ttu black-50 pb2 b tracked">Summary</div>
 <ul>
 <li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network.</li>
