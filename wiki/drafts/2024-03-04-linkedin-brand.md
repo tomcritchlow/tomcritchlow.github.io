@@ -5,7 +5,7 @@ layout: blog
 ---
 
 <div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
-<div class="ttu black-50 pb2 b tracked">summary</div>
+<div class="ttu black-50 pb2 b tracked" markdown="1">Summary</div>
 * Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.
 * Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.
 * This is a north star for everything LinkedIn does: from brand marketing to product development to new products.
@@ -17,7 +17,7 @@ There's three shifts in the world right now:
 2. We're realizing that social media is bad for your health
 3. Online education is *still* just getting started
 
-Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world:
+We need a new vision for work and LinkedIn is primed. Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world:
 
 ## LinkedIn, not a social network but a ***Learning Network***
 
@@ -47,11 +47,13 @@ People don't want to lean in, they want to sit down. Everyone everywhere tired a
 
 https://snowbird.substack.com/p/the-culture-of-work-13-never-not?r=qgyn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true
 
-Summary: positioning LinkedIn as a *professional network* doesn't feel right in 2024.
+
+
+Summary: In a world of quiet quitting, positioning LinkedIn as a *professional network* doesn't feel right.
 
 ### 1.2 Social Media
 
-Summary: positioning LinkedIn as a *social network* doesn't feel right in 2024.
+Summary: In a world of addictive social media, positioning LinkedIn as a *social network* doesn't feel right.
 
 ### 1.3 Online Education is *still* just getting started
 
@@ -111,7 +113,11 @@ This brand idea is cohesive across everything LinkedIn does *today* but what abo
 7. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
 8. 
 
+## Conclusion
 
+Here's something bananas. A performance improvement plan is a *negative* thing! WTF. Performance. Improvement. Plan. That's the thing you do so that you can fire someone right? No. Let's reclaim the performance improvement plan. It's a vision for personal growth and transformation **through work**.
+
+Instead of learning coming last, what if it came first.
 
 ---
 
