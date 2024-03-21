@@ -11,7 +11,6 @@ layout: blog
 * This is a north star for everything LinkedIn does: from brand marketing to product development to new products.
 </div>
 
-
 There's three shifts in the world right now:
 
 1. The employer / employee relationship is weakening

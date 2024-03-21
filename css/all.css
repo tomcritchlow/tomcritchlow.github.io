@@ -162,14 +162,16 @@ blockquote {
 
 .postcontainer h2, .postcontainer h3{
     padding-top: 2rem;
+    margin-bottom:0px;
 }
 
 .subtitle{
     padding-top:0px !important;
 }
 
-.postcontainer p{
+.postcontainer p, .postcontainer li, .postcontainer blockquote{
     line-height:1.6em !important;
+    font-size:1.1rem;
 }
 
 .postcontainer li{
