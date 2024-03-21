@@ -60,17 +60,15 @@ Summary: In a world where we're experiencing the biggest transformation of workp
 
 ### 2.1 Learning Happens in Communities
 
-> “Learning, in other words, occurs in communities, where the practice of learning is the participation in the community. A learning activity is, in essence, a conversation undertaken between the learning and other members of the community."
+> “Learning, in other words, occurs in communities, where the practice of learning is the participation in the community. A learning activity is, in essence, a conversation undertaken between the learning and other members of the community." - [Learning networks in practice, Stephen Downes](https://www.downes.ca/files/Learning_Networks_In_Practice.pdf)
 
 This is the positive reframe of "networking". Networking is useful, but distasteful to many
 
 > “In modern working life, professionals need to perform flexibly and independently in ever–changing environments. To be able to do this effectively, they depend on various lifelong learning skills, among others autonomous and self–directed learning.
 > 
-> As they are partly supported in their learning by interaction with their peers, an essential life–long learning skill they need to develop, is the ability to find and to connect with relevant others, i.e., professional networking.”
-> 
-> Rajagopal, K., Joosten-ten Brinke, D., Van Bruggen, J., & Sloep, P. (2012). Understanding personal learning networks: Their structure, content and the networking skills needed to optimally use them.
+> As they are partly supported in their learning by interaction with their peers, an essential life–long learning skill they need to develop, is the ability to find and to connect with relevant others, i.e., professional networking.” - [Understanding personal learning networks: Their structure, content and the networking skills needed to optimally use them](https://www.researchgate.net/publication/220167767_Understanding_personal_learning_networks_Their_structure_content_and_the_networking_skills_needed_to_optimally_use_them)
 
-This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice.
+This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice. Enabling everyone to use LinkedIn as a personal learning network.
 
 ![](/images/2024-03-21-14-23-12.png)
 
@@ -78,15 +76,19 @@ This is the north star for LinkedIn - to be a place where networks and learning 
 
 L&D has a low NPS (where did I read that?)
 
-https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf
-
-
-
 https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79
 
 https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf
 
 We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
+
+### 2.3 Learning is Great for Employers
+
+Not only is it obvious that companies need their workforce to be learning new skills, but it's also good for the bottom line. 
+
+https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf
+
+https://www.guild.com/why-now/
 
 ## Part 3: A New Brand for LinkedIn
 
@@ -112,6 +114,7 @@ It's good for everyone:
 * Good for employers: employers who invest in employee learning do better: https://www.guild.com/why-now/
 * Good for employees: a positive vision of social media and professional networking
 
+*Note: yes I am aware that LinkedIn Learning is a thing but it's somewhat marginalized. It's not in the app navigation and I never see it in my feed. This is a vision for all of LinkedIn, that includes LinkedIn Learning but is more than just that*.
 
 ### 3.2 How This Comes to Life
 
