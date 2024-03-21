@@ -85,6 +85,17 @@ Summary: In a world where we're experiencing the biggest transformation of workp
 
 > “Learning, in other words, occurs in communities, where the practice of learning is the participation in the community. A learning activity is, in essence, a conversation undertaken between the learning and other members of the community."
 
+This is the positive reframe of "networking". Networking is useful, but distasteful to many
+
+> “In modern working life, professionals need to perform flexibly and independently in ever–changing environments. To be able to do this effectively, they depend on various lifelong learning skills, among others autonomous and self–directed learning.
+> 
+> As they are partly supported in their learning by interaction with their peers, an essential life–long learning skill they need to develop, is the ability to find and to connect with relevant others, i.e., professional networking.”
+> 
+> Rajagopal, K., Joosten-ten Brinke, D., Van Bruggen, J., & Sloep, P. (2012). Understanding personal learning networks: Their structure, content and the networking skills needed to optimally use them.
+
+This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice.
+
+![](/images/2024-03-21-14-23-12.png)
 
 ### 2.2 
 
@@ -123,13 +134,13 @@ LinkedIn feed: anchored around curriculums
 This brand idea is cohesive across everything LinkedIn does *today* but what about future concepts? Here's five:
 
 1. A new platform for L&D budgets, learning pathways and connecting the gap between learning and company L&D budgets.
-2. Research and data on career paths (if I want to become a product manager, what do I do? If I want to work in climate tech what path could i take?)
-3. Editorial focus on "how they got there" - less career dysmorphia and more transparency about the journeys people went on to get where they did.
-4. A new approach to job ads that encourage companies to list "what you'll learn" as a core part of the job description
-5. Supporting inclusive spaces for non-white, non-male thinkbros.
-6. Instead of AI-generated UGC articles, how about AI-generated UGC curriculums. 
-7. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
-8. 
+2. A new platform for companies to nurture and incubate communities of practice
+3. Research and data on career paths (if I want to become a product manager, what do I do? If I want to work in climate tech what path could i take?)
+4. Editorial focus on "how they got there" - less career dysmorphia and more transparency about the journeys people went on to get where they did.
+5. A new approach to job ads that encourage companies to list "what you'll learn" as a core part of the job description
+6. Supporting inclusive spaces for non-white, non-male thinkbros.
+7. Instead of AI-generated UGC articles, how about AI-generated UGC curriculums. 
+8. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
 
 ## Conclusion
 
