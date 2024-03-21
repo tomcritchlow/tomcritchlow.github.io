@@ -7,14 +7,15 @@ layout: blog
 <div class="ba b--black-10 bg-newgreen-light br2 pa3 f5 mt3">
 <div class="ttu black-50 pb2 b tracked">Summary</div>
 <ul>
-<li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.</li>
+<li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network.</li>
+<li>Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.</li>
 <li>Instead, what if LinkedIn is a Learning network - a space for employee and employer growth through communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.</li>
 <li>This is a north star for everything LinkedIn does: from brand marketing to product development to new products.</li>
 <li>We need a new vision for work and LinkedIn is primed. Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world.</li>
 </ul>
 </div>
 
-## LinkedIn, not a social network but a ***Learning Network***
+First, let's dive into how the world is changing.
 
 ## Part 1: Changes in the World of Work
 
