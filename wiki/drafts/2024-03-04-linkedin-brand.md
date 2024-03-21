@@ -4,6 +4,14 @@ subtitle: A proposal for LinkedIn
 layout: blog
 ---
 
+<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
+<div class="ttu black-50 pb2 b tracked">summary</div>
+* Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.
+* Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.
+* This is a north star for everything LinkedIn does: from brand marketing to product development to new products.
+</div>
+
+
 There's three shifts in the world right now:
 
 1. The employer / employee relationship is weakening
@@ -65,11 +73,20 @@ Summary: online education is going to become much bigger than it is
 
 ### 3.1 The Brand Concept: LinkedIn as a Learning Network
 
+Learning is the one thing that your employer can't take away from you.
+
+If anyone has the opportunity to come to the table with a fresh POV on the future of work it's LinkedIn. We need a new idea for what work can be that energizes people and also prepares for the biggest skills shift we've ever seen.
+
 LinkedIn: not a social network, not a professional network - a learning network.
 
-If anyone has the opportunity to come to the table with a fresh POV on the future of work it's LinkedIn. We need a new idea for what work can be.
+Why this works: Leverages LinkedIn's advantage of real networks and real utility.
 
-Leverages LinkedIn's advantage of real networks and real utility.
+It's good for everyone:
+
+* Good for LinkedIn: stronger brand position
+* Good for employers: employers who invest in employee learning do better: https://www.guild.com/why-now/
+* Good for employees: a positive vision of social media and professional networking
+
 
 ### 3.2 How This Comes to Life
 
@@ -97,7 +114,11 @@ This brand idea is cohesive across everything LinkedIn does *today* but what abo
 
 
 
+---
 
+*About me: as an outsider to the corporate world I get to observe many different environments. And with a background in brand, product and education I can see how this might come to life in the world.*
+
+> "If a man could only see himself as a younger man that grew" - Shirley Bassey
 
 
 How this might come to life:
