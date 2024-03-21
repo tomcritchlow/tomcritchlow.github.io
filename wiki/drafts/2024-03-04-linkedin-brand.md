@@ -93,6 +93,10 @@ This is the north star for LinkedIn - to be a place where networks and learning 
 
 L&D has a low NPS (where did I read that?)
 
+https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf
+
+
+
 https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79
 
 https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf
@@ -103,13 +107,19 @@ We need a complete re-thinking of education, courses and learning. It's as much 
 
 ### 3.1 The Brand Concept: LinkedIn as a Learning Network
 
+Ok so the world of work is changing. We need a new model and a new voice for LinkedIn. To recap: we need a brand idea for LinkedIn that works for consumers, employers, job seekers and advertisers.
+
+
+
 Learning is the one thing that your employer can't take away from you.
 
 If anyone has the opportunity to come to the table with a fresh POV on the future of work it's LinkedIn. We need a new idea for what work can be that energizes people and also prepares for the biggest skills shift we've ever seen.
 
-LinkedIn: not a social network, not a professional network - a learning network.
+LinkedIn: not a social network, not a professional network - a ***learning network***.
 
-Why this works: Leverages LinkedIn's advantage of real networks and real utility.
+In an age of meaningless meetings and doomscrolling, LinkedIn is the antidote. A fresh, thoughtful approach for everyone (employers, employees, advertisers) to re-engage with the world of work in a way that empowers the individual and prepares everyone for the AI-future that is looming.
+
+Why it works: Leverages LinkedIn's advantage of real networks and real utility.
 
 It's good for everyone:
 
@@ -143,7 +153,7 @@ A go to market strategy for LinkedIn to reach students and a younger demographic
 6. Supporting inclusive spaces for non-white, non-male thinkbros.
 7. Instead of AI-generated UGC articles, how about AI-generated UGC curriculums. 
 8. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
-9. Within this brand idea [LinkedIn Games](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/) actually makes sense since games are powerful vehicles for learning.
+9. Within this brand idea [LinkedIn Games](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/) actually makes sense since games are powerful vehicles for learning (though I'd rather see this look more like duolingo and less like wordle)
 
 ## Conclusion
 
