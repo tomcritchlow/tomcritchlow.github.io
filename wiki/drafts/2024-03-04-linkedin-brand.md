@@ -45,23 +45,39 @@ Here's the outline:
 
 ### 1.1 The Employer / Employee Relationship is Weakening
 
-People don't want to lean in, they want to sit down. Everyone everywhere tired all the time.
+People don't want to lean in, they want to sit down. Everyone everywhere is tired all the time. Gautam has an incredibly insightful series connecting work memes to employee engagement stats to take a close look at "what's going on" and the vibe shift in the world of work:
 
-https://snowbird.substack.com/p/the-culture-of-work-13-never-not?r=qgyn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true
-
-
+<blockquote class="quoteback" darkmode="" data-title="The%20culture%20of%20work%20%7C%20(1%2F3)%20never%20not%20tired" data-author="Gautam Ramdurai" cite="https://snowbird.substack.com/p/the-culture-of-work-13-never-not?utm_campaign=post&showWelcomeOnShare=true">
+<p>The final reason for our collective discontent is the <strong>dissonance between what we see in the economy and our lives.</strong> I am not here to debate if there is an actual connection in any of these examples - it’s about the perception that drives emotions of disengagement. In Vietnam, a booming economy didn’t translate into paychecks. The country’s economic gains haven’t been felt among the young - and housing has gotten worse. How is it that the S&amp;P in the West and Nikkei in the East have been smashing records but we’re yet to contain the layoff contagion? When Google laid off people last year, the biggest head-scratcher for my peers was ‘how could a company sitting on $100B in cash need layoffs?’ </p><p>It didn’t matter what the (however logical) explanation was, it made them change how they <strong>felt</strong> about their work.</p>
+<footer>Gautam Ramdurai <cite><a href="https://snowbird.substack.com/p/the-culture-of-work-13-never-not?utm_campaign=post&showWelcomeOnShare=true">https://snowbird.substack.com/p/the-culture-of-work-13-never-not?utm_campaign=post&showWelcomeOnShare=true</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 Summary: In a world of quiet quitting, positioning LinkedIn as a *professional network* doesn't feel right.
 
 ### 1.2 Social Media
 
+Meanwhile, social media is the new tobacco. Last year the surgeon general issues a stark warning for social media companies about 
+
+<blockquote class="quoteback" darkmode="" data-title="Social%20media%20can%20put%20young%20people%20in%20danger%2C%20U.S.%20surgeon%20general%20warns" data-author="@NPR" cite="https://www.npr.org/2023/05/23/1177626373/u-s-surgeon-general-vivek-murthy-warns-about-the-dangers-of-social-media-to-kids">
+<p>Social media can present a real risk to the mental health of children and teenagers because of the ways their brains are affected by the amount of time they spend using it, the U.S. surgeon general warns in a new advisory released Tuesday. </p>   <p>"Teens who use social media for more than three hours a day face double the risk of depression and anxiety symptoms, which is particularly concerning given that the average amount of time that kids use social media is 3 1/2 hours a day," the Surgeon General Dr. Vivek Murthy told <em>Morning Edition</em> host Steve Inskeep.</p>
+<footer>@NPR <cite><a href="https://www.npr.org/2023/05/23/1177626373/u-s-surgeon-general-vivek-murthy-warns-about-the-dangers-of-social-media-to-kids">https://www.npr.org/2023/05/23/1177626373/u-s-surgeon-general-vivek-murthy-warns-about-the-dangers-of-social-media-to-kids</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Spoiler alert: it's not just about teens. We're all spending too much time on social media and while the effects are blended - we suffer the same downsides of depression and anxiety.
+
 Summary: In a world of addictive social media, positioning LinkedIn as a *social network* doesn't feel right.
 
 ### 1.3 Online Education is *still* just getting started
 
-Masterclass, Reforge, Maven, 
+Online education absolutely exploded in the immediate aftermath of the pandemic. The subsequent pullback is *not* a bearish sign but merely a renormalization of growth. I believe we're still just getting started with online eduction.
 
-Summary: online education is going to become much bigger than it is
+
+Look at Masterclass, Reforge, Maven and more. We are living in an explosion of online education. But it's not just courses, it's real work examples (reforge artefacts), mentorship (https://adplist.org/), and more.
+
+
+Summary: In a world where we're experiencing the biggest transformation of workplace skills ever - we're just getting started with online education.
 
 ## Part 2: Communities of Practice
 
