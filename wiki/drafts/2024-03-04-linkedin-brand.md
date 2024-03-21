@@ -6,9 +6,11 @@ layout: blog
 
 <div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
 <div class="ttu black-50 pb2 b tracked" markdown="1">Summary</div>
+
 * Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.
 * Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.
 * This is a north star for everything LinkedIn does: from brand marketing to product development to new products.
+
 </div>
 
 There's three shifts in the world right now:
@@ -124,6 +126,11 @@ Instead of learning coming last, what if it came first.
 *About me: as an outsider to the corporate world I get to observe many different environments. And with a background in brand, product and education I can see how this might come to life in the world.*
 
 > "If a man could only see himself as a younger man that grew" - Shirley Bassey
+
+---
+
+*An addendum for brands: for anyone feeling the vibe shift in the world of work everything above applies at the employer level too. You don't need LinkedIn to do anything to re-orient your employer brand around learning and growth. It's good for you and good for your people.*
+
 
 
 How this might come to life:
