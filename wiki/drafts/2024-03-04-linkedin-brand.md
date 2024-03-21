@@ -4,26 +4,17 @@ subtitle: A proposal for LinkedIn
 layout: blog
 ---
 
-<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
+<div class="ba b--black-10 bg-newgreen-light br2 pa3 f5 mt3">
 <div class="ttu black-50 pb2 b tracked">Summary</div>
 <ul>
 <li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.</li>
 <li>Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.</li>
 <li>This is a north star for everything LinkedIn does: from brand marketing to product development to new products.</li>
+<li>We need a new vision for work and LinkedIn is primed. Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world.</li>
 </ul>
 </div>
 
-There's three shifts in the world right now:
-
-1. The employer / employee relationship is weakening
-2. We're realizing that social media is bad for your health
-3. Online education is *still* just getting started
-
-We need a new vision for work and LinkedIn is primed. Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world:
-
 ## LinkedIn, not a social network but a ***Learning Network***
-
-Let's back up.
 
 Here's the outline:
 
@@ -32,8 +23,8 @@ Here's the outline:
     * Social media is bad for your health
     * Online education is *still* just getting started
 2. Communities of practice
-    * Communities are 
-    * Learning is a doing word
+    * Networks are spaces for learning
+    * Learning is more than skills
 3. A new brand for LinkedIn
     * The brand concept
     * How it comes to life across brand, product and marketing
@@ -41,7 +32,7 @@ Here's the outline:
 4. Summary & Conclusion
 
 
-## 1. Changes in the World
+## Part 1: Changes in the World of Work
 
 ### 1.1 The Employer / Employee Relationship is Weakening
 
@@ -73,6 +64,7 @@ Summary: In a world of addictive social media, positioning LinkedIn as a *social
 
 Online education absolutely exploded in the immediate aftermath of the pandemic. The subsequent pullback is *not* a bearish sign but merely a renormalization of growth. I believe we're still just getting started with online eduction.
 
+Sure E-learning is a $200B+ market but that doesn't even account for the variety of different types of online learning that happen.
 
 Look at Masterclass, Reforge, Maven and more. We are living in an explosion of online education. But it's not just courses, it's real work examples (reforge artefacts), mentorship (https://adplist.org/), and more.
 
@@ -124,7 +116,7 @@ It's good for everyone:
 
 ### 3.2 How This Comes to Life
 
-Brand marketing:
+Brand marketing: don't become a product manager, become better at building mobile platforms. Don't become a marketing manager, become someone who knows how to conduct market research.
 For employers: ways to show off their learning opportunities
 For workers: provides positive ways to engage deeply with the LinkedIn platform
 For gig workers: a reason to engage 
@@ -137,8 +129,10 @@ LinkedIn feed: anchored around curriculums
 
 This brand idea is cohesive across everything LinkedIn does *today* but what about future concepts? Here's five:
 
+A go to market strategy for LinkedIn to reach students and a younger demographic as they enter the workforce
 1. A new platform for L&D budgets, learning pathways and connecting the gap between learning and company L&D budgets.
 2. A new platform for companies to nurture and incubate communities of practice
+3. A new platform for companies to create RCBs (role capabilities databases - yes I just made that up) that allow them to make more informed hiring and development decisions in a more adaptive and flexible ways.
 3. Research and data on career paths (if I want to become a product manager, what do I do? If I want to work in climate tech what path could i take?)
 4. Editorial focus on "how they got there" - less career dysmorphia and more transparency about the journeys people went on to get where they did.
 5. A new approach to job ads that encourage companies to list "what you'll learn" as a core part of the job description
