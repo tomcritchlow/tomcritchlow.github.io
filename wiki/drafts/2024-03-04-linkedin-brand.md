@@ -5,12 +5,11 @@ layout: blog
 ---
 
 <div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
-<div class="ttu black-50 pb2 b tracked" markdown="1">Summary</div>
-
-* Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.
-* Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.
-* This is a north star for everything LinkedIn does: from brand marketing to product development to new products.
-
+<div class="ttu black-50 pb2 b tracked">Summary</div>
+<ul>
+<li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.</li>
+<li>Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.</li>
+<li>This is a north star for everything LinkedIn does: from brand marketing to product development to new products.</li>
 </div>
 
 There's three shifts in the world right now:
