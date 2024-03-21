@@ -97,7 +97,11 @@ This is the north star for LinkedIn - to be a place where networks and learning 
 
 ![](/images/2024-03-21-14-23-12.png)
 
-### 2.2 
+### 2.2 Learning is More Than Skills
+
+https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf
+
+We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
 
 ## Part 3: A New Brand for LinkedIn
 
