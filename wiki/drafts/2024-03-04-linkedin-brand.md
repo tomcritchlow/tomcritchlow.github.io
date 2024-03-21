@@ -1,6 +1,6 @@
 ---
-title: LinkedIn as Learning Network
-subtitle: A proposal for LinkedIn
+title: LinkedIn, not a social network, not a professional network but a Learning Network
+subtitle: The world of work needs a fresh POV
 layout: blog
 ---
 
@@ -8,29 +8,13 @@ layout: blog
 <div class="ttu black-50 pb2 b tracked">Summary</div>
 <ul>
 <li>Layoffs, AI and WFH have weakened the social contract between employers and employees - people don’t want to engage with a Professional Network. Meanwhile, social media is the new tobacco. People don’t want to engage with another Social Network.</li>
-<li>Instead, what if LinkedIn is a Learning network - a space for personal growth through genuine connection and communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.</li>
+<li>Instead, what if LinkedIn is a Learning network - a space for employee and employer growth through communities of practice. This leverages LinkedIn’s unique advantage of real networks and real utility.</li>
 <li>This is a north star for everything LinkedIn does: from brand marketing to product development to new products.</li>
 <li>We need a new vision for work and LinkedIn is primed. Here's a proposal for a little big idea that would completely re-shape LinkedIn's brand and place in the world.</li>
 </ul>
 </div>
 
 ## LinkedIn, not a social network but a ***Learning Network***
-
-Here's the outline:
-
-1. Changes in the world
-    * The employer / employee relationship is weakening
-    * Social media is bad for your health
-    * Online education is *still* just getting started
-2. Communities of practice
-    * Networks are spaces for learning
-    * Learning is more than skills
-3. A new brand for LinkedIn
-    * The brand concept
-    * How it comes to life across brand, product and marketing
-    * Future product development
-4. Summary & Conclusion
-
 
 ## Part 1: Changes in the World of Work
 
@@ -46,7 +30,7 @@ People don't want to lean in, they want to sit down. Everyone everywhere is tire
 
 Summary: In a world of quiet quitting, positioning LinkedIn as a *professional network* doesn't feel right.
 
-### 1.2 Social Media
+### 1.2 Social Media is the new tobacco
 
 Meanwhile, social media is the new tobacco. Last year the surgeon general issues a stark warning for social media companies about 
 
