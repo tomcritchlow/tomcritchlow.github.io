@@ -11,7 +11,7 @@
 
 <div class="pt4 pt5-l pb2 w-two-thirds-ns center">
 
-<div class="postcontainer f4 ph3 pb4 ph0-l lh-copy">
+<div class="f4 ph3 pb4 ph0-l lh-copy">
 
   {% if page.date %}
 <div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb5" datetime="{{ page.date}}">
@@ -24,8 +24,9 @@
       <h2 class="f3 fw3 lh-copy mt1 subtitle p-summary i">{{page.subtitle}}</h2>
         {% endif %}
     
-
+    <div class="postcontainer">
     {{content}}
+  </div>
 
     {% if page.date %}
     <hr class="w3 mv5">
