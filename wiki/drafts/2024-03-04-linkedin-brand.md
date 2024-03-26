@@ -209,17 +209,8 @@ Instead of learning coming last, what if it came first.
 
 ---
 
-If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
-
-Also if anyone from LinkedIn is reading this I'd love to come present this idea to you.
-
----
-
 *An addendum for brands: for anyone feeling the vibe shift in the world of work everything above applies at the employer level too. You don't need LinkedIn to do anything to re-orient your employer brand around learning and growth. It's good for you and good for your people.*
 
 ---
 
-<details>
-<summary>Considerations & Open Questions</summary>
-Here's some potential 
-</details>
+If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
