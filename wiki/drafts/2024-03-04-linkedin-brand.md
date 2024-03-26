@@ -32,7 +32,7 @@ If the stability of jobs is at risk - why care about that promotion or getting a
 
 Summary: In a world of quiet quitting, positioning LinkedIn as a *professional network* just doesn't feel right.
 
-### 1.2 Social Media is the new tobacco
+### 1.2 Social Media is the new Tobacco
 
 Meanwhile, social media is the new tobacco. Last year the surgeon general issues a stark warning for social media companies about the risks of social media and mental health.
 
@@ -128,38 +128,49 @@ Employees want to grow, learn and develop. Companies want engaged, capable worke
 
 ### 3.1 The Brand Concept: LinkedIn as a Learning Network
 
-Ok so the world of work is changing. We need a new model and a new voice for LinkedIn. To recap: we need a brand idea for LinkedIn that works for consumers, employers, job seekers and advertisers.
-
-
-
-Learning is the one thing that your employer can't take away from you.
-
 If anyone has the opportunity to come to the table with a fresh POV on the future of work it's LinkedIn. We need a new idea for what work can be that energizes people and also prepares for the biggest skills shift we've ever seen.
 
-LinkedIn: not a social network, not a professional network - a ***learning network***.
+And we need a model that energizes and speaks to employers, employees, gig workers and advertisers.
 
-In an age of meaningless meetings and doomscrolling, LinkedIn is the antidote. A fresh, thoughtful approach for everyone (employers, employees, advertisers) to re-engage with the world of work in a way that empowers the individual and prepares everyone for the AI-future that is looming.
+> LinkedIn: not a social network, not a professional network - a ***learning network***.
 
-Why it works: Leverages LinkedIn's advantage of real networks and real utility.
+In an age of meaningless meetings and doomscrolling, LinkedIn is the antidote. A fresh, thoughtful approach for everyone (employers, employees, advertisers) to re-engage with the world of work in a way that empowers the individual, frames personal growth as engaging and valuable and prepares everyone for the AI-future that is looming.
+
+The magic here is that LinkedIn is already the best place for learning. I took the time to re-orient my feed from old connections to people I actually wanted to follow and now my LinkedIn feed is higher signal to noise than Twitter, Threads, Bluesky and the rest of em.
+
+And this leverages LinkedIn's advantage - they're a network centered around real people, and providing real utility. This is the reason to believe.
 
 It's good for everyone:
 
-* Good for LinkedIn: stronger brand position
-* Good for employers: employers who invest in employee learning do better: https://www.guild.com/why-now/
+* Good for LinkedIn: stronger brand position, clearer unified purpose across feed, profile, recruiting and learning
+* Good for employers: employers who invest in employee learning do better
 * Good for employees: a positive vision of social media and professional networking
 
-*Note: yes I am aware that LinkedIn Learning is a thing but it's somewhat marginalized. It's not in the app navigation and I never see it in my feed. This is a vision for all of LinkedIn, that includes LinkedIn Learning but is more than just that*.
+*Note: this is more than a vision for LinkedIn Learning, this is a vision for LinkedIn as a whole. It elevates learning as a thing that happens in and with your community whether you're in the feed, in groups, applying for jobs or engaging with learning.*
 
 ### 3.2 How This Comes to Life
 
-Brand marketing: don't become a product manager, become better at building mobile platforms. Don't become a marketing manager, become someone who knows how to conduct market research.
-For employers: ways to show off their learning opportunities
-For workers: provides positive ways to engage deeply with the LinkedIn platform
-For gig workers: a reason to engage 
-Recruiting product:
-LinkedIn learning: 
-LinkedIn Groups:
-LinkedIn feed: anchored around curriculums
+The best narrative strategy drives more than just marketing - it creates a north star for the whole organization. 
+
+Here's how I could see this coming to life:
+
+Marketing:
+* A new brand marketing campaign centered around LinkedIn as a learning network.
+* A marketing campaign centered around learning journeys, not careers (*"Don't become a marketing manager, become someone who knows how to run user research"*)
+* A GTM motion that leverages communities of practice - not building your audience, but finding your people
+* Show the magic: show the most transformative posts in the feed and frame them as learning moments
+
+Product:
+* A north star for the LinkedIn feed around what a "good" post is. Centering value around learning.
+* New ways for people to share their courses and learning journeys on their profile
+* New tools for course providers and education platforms to hook into LinkedIn
+* 
+
+Revenue:
+*
+* 
+
+Ultimately I think this gives a positive frame for people to engage with LinkedIn and a positive frame for companies to engage with LinkedIn.
 
 ### 3.3 Future Concepts
 
@@ -188,6 +199,8 @@ Instead of learning coming last, what if it came first.
 *About me: as an outsider to the corporate world I get to observe many different environments. And with a background in brand, product and education I can see how this might come to life in the world.*
 
 > "If a man could only see himself as a younger man that grew" - Shirley Bassey
+
+Err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
 
 ---
 
