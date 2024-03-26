@@ -1,6 +1,6 @@
 ---
 title: LinkedIn is not a social or professional network, it's a learning network
-subtitle: The world of work needs a fresh POV
+subtitle: The world of work needs a new script
 layout: blog
 ---
 
@@ -163,30 +163,17 @@ Marketing:
 Product:
 * A north star for the LinkedIn feed around what a "good" post is. Centering value around learning.
 * New ways for people to share their courses and learning journeys on their profile
-* New tools for course providers and education platforms to hook into LinkedIn
-* 
-
-Revenue:
-*
-* 
-
-Ultimately I think this gives a positive frame for people to engage with LinkedIn and a positive frame for companies to engage with LinkedIn.
+* New tools for course providers and education platforms to hook into LinkedIn 
 
 ### 3.3 Future Concepts
 
 This brand idea is cohesive across everything LinkedIn does *today* but what about future concepts? Here's five:
 
-A go to market strategy for LinkedIn to reach students and a younger demographic as they enter the workforce
-1. A new platform for L&D budgets, learning pathways and connecting the gap between learning and company L&D budgets.
-2. A new platform for companies to nurture and incubate communities of practice
-3. A new platform for companies to create RCBs (role capabilities databases - yes I just made that up) that allow them to make more informed hiring and development decisions in a more adaptive and flexible ways.
-3. Research and data on career paths (if I want to become a product manager, what do I do? If I want to work in climate tech what path could i take?)
-4. Editorial focus on "how they got there" - less career dysmorphia and more transparency about the journeys people went on to get where they did.
-5. A new approach to job ads that encourage companies to list "what you'll learn" as a core part of the job description
-6. Supporting inclusive spaces for non-white, non-male thinkbros.
-7. Instead of AI-generated UGC articles, how about AI-generated UGC curriculums. 
-8. A platform like Reforge Artefacts that allows for the real texture of work to emerge (remember you own Slideshare right LinkedIn?)
-9. Within this brand idea [LinkedIn Games](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/) actually makes sense since games are powerful vehicles for learning (though I'd rather see this look more like duolingo and less like wordle)
+1. A new L&D platform from LinkedIn that deeply integrates learning and skills with the individual benefit - allowing companies to invest in skills and better understand their employees learning journeys.
+2. A go to market strategy for LinkedIn to reach students and a younger demographic as they enter the workforce, centered around learning opportunities.
+3. A new approach to job ads that encourage companies to list "what you'll learn" as a core part of the job description
+4. An evolution of [collaborative articles](https://www.theverge.com/2023/3/4/23624241/linkedin-collaborative-articles-ai-prompts-content) designed around collaborative curriculums
+5. Within this brand idea [LinkedIn Games](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/) actually makes sense since games are powerful vehicles for learning (though I'd rather see this look more like duolingo and less like wordle)
 
 ## Conclusion
 
@@ -196,34 +183,10 @@ Instead of learning coming last, what if it came first.
 
 ---
 
-*About me: as an outsider to the corporate world I get to observe many different environments. And with a background in brand, product and education I can see how this might come to life in the world.*
+If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
 
-> "If a man could only see himself as a younger man that grew" - Shirley Bassey
-
-Err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
+Also if anyone from LinkedIn is reading this I'd love to come present this idea to you.
 
 ---
 
 *An addendum for brands: for anyone feeling the vibe shift in the world of work everything above applies at the employer level too. You don't need LinkedIn to do anything to re-orient your employer brand around learning and growth. It's good for you and good for your people.*
-
-
-
-How this might come to life:
-* Job postings that allow employers to highlight what you'll learn in your role
-* Launching a new platform for employees to spend their learning budgets
-* LinkedIn learning 2.0 with much stronger integration into the feed and your profile, with a focus on communities of practice
-* Re-energized LinkedIn groups with a focus on communities of practice
-* Brand marketing campaigns. LinkedIn. Not a social network, but a learning network.
-* Re-invigorated SEO efforts - not community generated articles but community generated *curriculums*
-* Reforge Artefacts
-
-Here's a brand idea for LinkedIn. Make it all about learning.
-
-https://www.lrft.institute/
-Circles of learning
-
-Pitch deck.
-
-The whole value prop (for consumers) is about a personal learning network.
-
-https://www.are.na/teal/newer-circles-of-learning
