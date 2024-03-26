@@ -192,6 +192,7 @@ Marketing:
 * A marketing campaign centered around learning journeys, not careers (*"Don't become a marketing manager, become someone who knows how to run user research"*)
 * A GTM motion that leverages communities of practice - not building your audience, but finding your people
 * Show the magic: show the most transformative posts in the feed and frame them as learning moments
+* A deeper and expanded partnership with [the paper ceiling](https://www.tearthepaperceiling.org/)
 
 Product:
 * A north star for the LinkedIn feed around what a "good" post is. Centering value around learning
@@ -215,10 +216,4 @@ Here's something bananas. A performance improvement plan is a *negative* thing! 
 
 Instead of learning coming last, what if it came first.
 
----
-
-*An addendum for brands: for anyone feeling the vibe shift in the world of work everything above applies at the employer level too. You don't need LinkedIn to do anything to re-orient your employer brand around learning and growth. It's good for you and good for your people.*
-
----
-
-If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?
+*If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?*
