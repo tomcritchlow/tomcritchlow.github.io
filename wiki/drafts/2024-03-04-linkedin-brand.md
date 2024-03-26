@@ -68,9 +68,11 @@ Summary: In a world where we're experiencing the biggest transformation of workp
 
 ## Part 2: Communities of Practice
 
-### 2.1 Learning Happens in Communities
+### 2.1 Learning Happens in Networks
 
-Learning is a doing word (to paraphrase Massive Attack). We know that learning happens best in communities:
+Learning is a doing word[^mezzanine]. We know that learning happens best in networks and communities:
+
+[^mezzanine]: To paraphrase Massive Attack: [Love, love is a verb / Love is a doing word](https://www.youtube.com/watch?v=u7K72X4eo_s)
 
 <blockquote class="quoteback" darkmode="" data-title="Learning networks in practice" data-author="Stephen Downes" cite="https://nrc-publications.canada.ca/eng/view/accepted/?id=fa5f5f4d-b6c8-4dac-ab6e-49b75570f988">
 <span>Learning, in other words, occurs in communities, where the practice of learning is the participation in the community. A learning activity is, in essence, a conversation undertaken between the learning and other members of the community.</span>
@@ -84,7 +86,7 @@ This is the positive reframe of "networking". Networking is useful, but distaste
 <footer>Kamakshi Rajagopal, Peter B. Sloep<cite> <a href="https://www.researchgate.net/publication/220167767_Understanding_personal_learning_networks_Their_structure_content_and_the_networking_skills_needed_to_optimally_use_them">https://www.researchgate.net/publication/220167767_Understanding_personal_learning_networks_Their_structure_content_and_the_networking_skills_needed_to_optimally_use_them</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice. Enabling everyone to use LinkedIn as a personal learning network:
+This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice. Enabling everyone to use LinkedIn to create a personal learning network:
 
 ![](/images/2024-03-21-14-23-12.png)
 
