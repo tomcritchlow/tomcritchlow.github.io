@@ -107,13 +107,22 @@ The report argues that the convergence of these trends will likely result in a w
 
 We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
 
-### 2.3 Learning is Great for Employers
+### 2.3 Learning is What Employees AND Employers Want
 
-Not only is it obvious that companies need their workforce to be learning new skills, but it's also good for the bottom line. 
+Learning is the thing that both sides want:
 
-https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf
+<blockquote class="quoteback" darkmode="" data-title="Why%20You%20Need%20to%20Reskill%20Your%20Employees%20%7C%20Guild" data-author="" cite="https://www.guild.com/why-now/">
+In today’s high-pressure labor market, a lack of advancement opportunities was the <a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-great-attrition-is-making-hiring-harder-are-you-searching-the-right-talent-pools" target="_blank" rel="noopener">number one</a> reason employees left their jobs last year.
+<footer> <cite><a href="https://www.guild.com/why-now/">https://www.guild.com/why-now/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-https://www.guild.com/why-now/
+Employees want to grow, learn and develop. Companies want engaged, capable workers. It's a win win. LinkedIn agrees obviously:
+
+<blockquote class="quoteback" darkmode="" data-title="Workplace Learning Report 2024" data-author="" cite="https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf">
+<img src="/images/2024-03-26-10-57-21.png">
+<footer><cite> <a href="https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf">https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/wlr-2024/LinkedIn-Workplace-Learning-Report-2024.pdf</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 ## Part 3: A New Brand for LinkedIn
 
