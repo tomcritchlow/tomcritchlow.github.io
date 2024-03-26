@@ -46,7 +46,9 @@ Spoiler alert: it's not just about teens. We're all spending too much time on so
 
 Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and "thought leadership". When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
 
-This enshittification is a natural cycle for social networks, but LinkedIn can buck the trend.
+The laws of enshittification[^wiki] for social networks says that the most profitable thing would probably be for LinkedIn to just turn up the dials on engagement farming - but how is that working for X and Facebook? What we need is a vision for a social network that has actual utility, not doomscrolling.
+
+[^wiki]: Interestingly, LinkedIn is one of the only major social networks *not* mentioned on the [wikipedia page for Enshittification](https://en.wikipedia.org/wiki/Enshittification).
 
 Summary: In a world of addictive social media, positioning LinkedIn as a *social network* just doesn't feel right.
 
