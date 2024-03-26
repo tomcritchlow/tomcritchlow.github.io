@@ -4,15 +4,17 @@ subtitle: The world of work needs a new script
 layout: blog
 ---
 
-The world of work is changing. AI, WFH & layoffs. WTF. The social contract between employers and employees is weakened. In this world of work - people don't want to engage with a *professional network*.
+The world of work is changing.
+
+AI, WFH & layoffs. WTF. The social contract between employers and employees is weakened. In this world of work - people don't want to engage with a *professional network*.
 
 Meanwhile, in a world of doomscrolling, algorithmic feeds and fake news - social media is the new tobacco. People don't want to engage with another *social network*.
 
 So we need a new script for the world of work. Maybe the future is... LinkedIn?
 
-I think LinkedIn sits in a unique space - a culture moment around work, coupled with a unique proposition: real networks and real utility.
+I think LinkedIn sits in a unique space - a cultural moment around work, coupled with a unique proposition: real networks and real utility.
 
-What if LinkedIn positioned itself not as a professional or social network but as a **learning network**. A personal learning network for every user - centered on their personal development.
+What if LinkedIn positioned itself not as a professional network or social network but as a **learning network**. A personal learning network for every user - centered on their personal development.
 
 First, let's dive into how the world is changing.
 
