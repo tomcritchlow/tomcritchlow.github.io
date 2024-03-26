@@ -46,7 +46,7 @@ Meanwhile, social media is the new tobacco. Last year the surgeon general issues
 
 Spoiler alert: it's not just about teens. We're all spending too much time on social media and while the effects are blended - we suffer the same downsides of depression and anxiety. Comparing ourselves to others, feeding dissociation and angering us.
 
-Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and "thought leadership". When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
+Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and "thought leadership" and crying CEOs. When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
 
 The laws of enshittification[^wiki] for social networks says that the most profitable thing would probably be for LinkedIn to just turn up the dials on engagement farming - but how is that working for X and Facebook? What we need is a vision for a social network that has actual utility, not doomscrolling.
 
@@ -90,7 +90,7 @@ This is the north star for LinkedIn - to be a place where networks and learning 
 
 ![](/images/2024-03-21-14-23-12.png)
 
-### 2.2 L&D is Broken and Learning is More Than Skills
+### 2.2 L&D is Broken
 
 Companies invest billions in "L&D" but *learning* is rarely the outcome:
 
@@ -107,6 +107,10 @@ In fact L&D has a lower NPS than Verizon!
 <footer>Packy McCormick <cite><a href="https://www.notboring.co/p/per-my-last-e-mail-25-">https://www.notboring.co/p/per-my-last-e-mail-25-</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+You can sum up the typical approach to L&D as: [the answer is training! (what was the question?)](https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79). We need new ideas.
+
+### 2.3 Learning is More Than Skills
 
 The world of work needs radically new models for how we learn and *what* we learn. Not just because of AI, but that ain't gonna help for sure. We need new models of soft skills, interpersonal skills, creative skills and faster deployment of technical skills to keep up.
 
@@ -136,7 +140,7 @@ And a quote from Tomer Cohen, head of product at LinkedIn:
 
 We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
 
-### 2.3 Learning is What Employees AND Employers Want
+### 2.4 Learning is What Employees AND Employers Want
 
 Learning is the thing that both sides want:
 
