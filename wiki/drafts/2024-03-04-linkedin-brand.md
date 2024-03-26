@@ -42,7 +42,11 @@ Meanwhile, social media is the new tobacco. Last year the surgeon general issues
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Spoiler alert: it's not just about teens. We're all spending too much time on social media and while the effects are blended - we suffer the same downsides of depression and anxiety. Comparing ourselves to others, feeding dissociation and angering us.w
+Spoiler alert: it's not just about teens. We're all spending too much time on social media and while the effects are blended - we suffer the same downsides of depression and anxiety. Comparing ourselves to others, feeding dissociation and angering us.
+
+Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and "thought leadership". When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
+
+This enshittification is a natural cycle for social networks, but LinkedIn can buck the trend.
 
 Summary: In a world of addictive social media, positioning LinkedIn as a *social network* just doesn't feel right.
 
@@ -105,6 +109,25 @@ The report argues that the convergence of these trends will likely result in a w
 <footer> Joe Deegan & Nathan Martin<cite> <a href="https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf">https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/about-pearson/innovation/open-ideas/DDE_Pearson_Report_3.pdf</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+This is a path that LinkedIn is championing, here's a quote from LinkedIn CEO Ryan Roslansky
+
+<blockquote class="quoteback" darkmode="" data-title="Skills%20are%20the%20New%20Currency%20%7C%20LinkedIn" data-author="Ryan Roslansky" cite="https://www.linkedin.com/pulse/skills-new-currency-ryan-roslansky/?src=or-search&veh=www.google.com">
+A year ago we shared<a class="app-aware-link " target="_blank" href="https://www.linkedin.com/pulse/hiring-future-past-ryan-roslansky/" data-test-app-aware-link="" rel="noopener"> our aspiration</a> to help accelerate the shift to a skills-first approach to hiring.&nbsp;Since then, we helped more than 400,000 companies make a skills-first hire in 2021. Now, 40% of hirers on LinkedIn are&nbsp;using skills data to find talent, up 20% year-over-year. What’s more, these hirers are 60% more likely to find a successful hire than those not relying on skills as part of their hiring process. <strong>Simply put, a skills-first labor market is emerging all around us.</strong>
+<footer> <cite><a href="https://www.linkedin.com/pulse/skills-new-currency-ryan-roslansky/?src=or-search&veh=www.google.com">https://www.linkedin.com/pulse/skills-new-currency-ryan-roslansky/?src=or-search&veh=www.google.com</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+And a quote from Tomer Cohen, head of product at LinkedIn:
+
+<blockquote class="quoteback" darkmode="" data-title="%E2%80%9CWe%20might%20be%20wrong%2C%20but%20we%E2%80%99re%20not%20confused%E2%80%9D%3A%20how%20Tomer%20Cohen%2C%20chief%20product%20officer%20at%20LinkedIn%2C%20figures%20out%20what%20works%20best" data-author="Tomer Cohen" cite="https://www.theverge.com/23517319/tomer-cohen-linkedin-chief-product-officer-business-management">
+<p>For example, skills are becoming one of those tremendous behavior changes we’re seeing on the platform as well.</p>
+<p><strong>What do you mean by skills as a tremendous behavior change?</strong></p>
+<p>I think for many years we really believed in the notion that there was a primary focus for every professional, and believed in skill matching between an employer and employees. If I want to hire somebody on your team for a job, I would look first and foremost at their skills. For years, the industry has relied primarily on pedigree and which companies you work for. Now we’re seeing more and more that there is, in my opinion, a tremendous change towards focusing on the skills you have.</p>
+<p>For example, we have tools that we offer to recruiters, which are able to create a pipeline of candidates, to source, and to reach out. We’re seeing close to almost 50 percent of recruiters using skills right now to look for professionals. That’s a big deal. That wasn’t the case before, and it’s increasing a lot.</p>
+<footer>Nilay Patel <cite><a href="https://www.theverge.com/23517319/tomer-cohen-linkedin-chief-product-officer-business-management">https://www.theverge.com/23517319/tomer-cohen-linkedin-chief-product-officer-business-management</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 We need a complete re-thinking of education, courses and learning. It's as much mentorship and communities as it is courses and certificates.
 
 ### 2.3 Learning is What Employees AND Employers Want
@@ -161,7 +184,8 @@ Marketing:
 * Show the magic: show the most transformative posts in the feed and frame them as learning moments
 
 Product:
-* A north star for the LinkedIn feed around what a "good" post is. Centering value around learning.
+* A north star for the LinkedIn feed around what a "good" post is. Centering value around learning
+* A better experience for curating who you follow based on who you can learn from
 * New ways for people to share their courses and learning journeys on their profile
 * New tools for course providers and education platforms to hook into LinkedIn 
 
@@ -190,3 +214,10 @@ Also if anyone from LinkedIn is reading this I'd love to come present this idea 
 ---
 
 *An addendum for brands: for anyone feeling the vibe shift in the world of work everything above applies at the employer level too. You don't need LinkedIn to do anything to re-orient your employer brand around learning and growth. It's good for you and good for your people.*
+
+---
+
+<details>
+<summary>Considerations & Open Questions</summary>
+Here's some potential 
+</details>
