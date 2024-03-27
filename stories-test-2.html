@@ -1,0 +1,27 @@
+---
+---
+
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include 2024-nav.html %}
+
+<div class="w-10- h-100 overflow-x-scroll flex">
+
+    {% for post in site.posts | limit: 5 %}
+
+    <div class="w-25 mh3 h-100 ba b-newgreen br2 pa2">
+        {{post.title}}
+
+        {{post.content}}
+    </div>
+
+    {% endfor %}
+
+    
+
+
+</div>
+
+{% include 2024-footer.html %}
