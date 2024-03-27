@@ -16,6 +16,8 @@ I think LinkedIn sits in a unique space - a cultural moment around work, coupled
 
 What if LinkedIn positioned itself not as a professional network or social network but as a **learning network**. A personal learning network for every user - centered on their personal development.
 
+![](/images/linkedin-banner.png)
+
 First, let's dive into how the world is changing.
 
 ## Part 1: Changes in the World of Work

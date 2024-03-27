@@ -5,6 +5,8 @@ subtitle: Incoherence in the algorithms
 draft: true
 ---
 
+https://www.amazon.com/Geography-Nowhere-Americas-Man-Made-Landscape/dp/0671888250
+
 Rem Koolhaas provided context for modern space - for modern living - in his 2002 essay [Junkspace](https://www.readingdesign.org/junkspace). In the essay Rem provides a glimpse of the flattening, commercializing and colonizing of space:
 
 >"Junkspace is post-existential; it makes you uncertain where you are, obscures where you go, undoes where you were."
