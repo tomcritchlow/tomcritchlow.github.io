@@ -7,18 +7,24 @@
 
 {% include 2024-nav.html %}
 
+<style>
+    .blogstory{
+        width:300px;
+    }
+</style>
+
 <div class="w-10- h-100 overflow-x-scroll flex">
 
     {% for post in site.posts | limit: 5 %}
 
-    <div class="w-third mh4 h-100 ba b--newgreen br2 pa3 relative">
-        <h1>{{post.title}}</h1>
-        <h2>{{post.subtitle}}</h2>
+    <div class="blogstory ma3 h-100 ba b--newgreen br2 pa3 relative overflow-y-hidden">
+        <h1 class="f3 lh-title">{{post.title}}</h1>
+        <h2 class="f4 i">{{post.subtitle}}</h2>
         <div class="">
             {{post.content}}
         </div>
 
-        <div class="absolute bottom-0 bg-newgreen-light w-100 pv3 tc">
+        <div class="absolute bottom-0 left-0 bg-newgreen-light w-100 pv3 tc">
             <a href="{{post.url}}" class="link black">Read Post</a>
         </div>
     </div>
