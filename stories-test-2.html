@@ -15,12 +15,12 @@
 
 <div class="w-100 vh-100 overflow-x-scroll flex">
 
-    {% for post in site.posts | limit: 5 %}
+    {% for post in site.posts | limit: 10 %}
 
     <div class="blogstory ma4 h-90 ba b--newgreen br2 pa3 relative overflow-y-scroll shadow-4">
         <h1 class="f3 lh-title">{{post.title}}</h1>
         <h2 class="f4 i">{{post.subtitle}}</h2>
-        <div class="">
+        <div class="lh-copy postcontainer">
             {{post.content}}
         </div>
 
