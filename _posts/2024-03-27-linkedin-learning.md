@@ -219,4 +219,4 @@ Here's something bananas. A performance improvement plan is a *negative* thing! 
 
 Instead of learning coming last, what if it came first.
 
-*If you like this, err, I guess [follow me on LinkedIn](https://www.linkedin.com/in/tomcritchlow/)?*
+*If you like this, [continue the discussion on LinkedIn](https://www.linkedin.com/posts/tomcritchlow_linkedin-is-not-a-social-or-professional-activity-7178738086330204163-stBu)*
