@@ -11,10 +11,16 @@
 
     {% for post in site.posts | limit: 5 %}
 
-    <div class="w-25 mh3 h-100 ba b-newgreen br2 pa2">
-        {{post.title}}
+    <div class="w-third mh4 h-100 ba b--newgreen br2 pa3 relative">
+        <h1>{{post.title}}</h1>
+        <h2>{{post.subtitle}}</h2>
+        <div class="">
+            {{post.content}}
+        </div>
 
-        {{post.content}}
+        <div class="fixed bottom-0 bg-newgreen-light w-100 pv3 tc">
+            <a href="{{post.url}}" class="link black">Read Post</a>
+        </div>
     </div>
 
     {% endfor %}
