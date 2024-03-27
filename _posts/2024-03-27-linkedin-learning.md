@@ -12,7 +12,7 @@ Meanwhile, in a world of doomscrolling, algorithmic feeds and fake news - social
 
 So we need a new script for the world of work. Maybe the future is... LinkedIn?
 
-I think LinkedIn sits in a unique space - a cultural moment around work, coupled with a unique proposition: real networks and real utility.
+I think LinkedIn has a unique opportunity - a cultural moment around work, coupled with a unique proposition: real networks and real utility.
 
 What if LinkedIn positioned itself not as a professional network or social network but as a **learning network**. A personal learning network for every user - centered on their personal development.
 
@@ -38,7 +38,7 @@ Summary: In a world of quiet quitting, positioning LinkedIn as a *professional n
 
 ### 1.2 Social Media is the new Tobacco
 
-Meanwhile, social media is the new tobacco. Last year the surgeon general issues a stark warning for social media companies about the risks of social media and mental health.
+Meanwhile, social media is the new tobacco. Last year the surgeon general issued a stark warning for social media companies about the risks of social media and mental health.
 
 <blockquote class="quoteback" darkmode="" data-title="Social%20media%20can%20put%20young%20people%20in%20danger%2C%20U.S.%20surgeon%20general%20warns" data-author="@NPR" cite="https://www.npr.org/2023/05/23/1177626373/u-s-surgeon-general-vivek-murthy-warns-about-the-dangers-of-social-media-to-kids">
 <p>Social media can present a real risk to the mental health of children and teenagers because of the ways their brains are affected by the amount of time they spend using it, the U.S. surgeon general warns in a new advisory released Tuesday. </p>   <p>"Teens who use social media for more than three hours a day face double the risk of depression and anxiety symptoms, which is particularly concerning given that the average amount of time that kids use social media is 3 1/2 hours a day," the Surgeon General Dr. Vivek Murthy told <em>Morning Edition</em> host Steve Inskeep.</p>
@@ -48,7 +48,7 @@ Meanwhile, social media is the new tobacco. Last year the surgeon general issues
 
 Spoiler alert: it's not just about teens. We're all spending too much time on social media and while the effects are blended - we suffer the same downsides of depression and anxiety. Comparing ourselves to others, feeding dissociation and angering us.
 
-Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and "thought leadership" and crying CEOs. When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
+Every social network has chum content and LinkedIn is no different. Over the years we've seen the rise of bro-etry and cringe "thought leadership" and crying CEOs. When I scroll my feed I have to sidestep the clearly threadboi and #personalbrand engagement-farming posts and try and focus on the real content.
 
 The laws of enshittification[^wiki] for social networks says that the most profitable thing would probably be for LinkedIn to just turn up the dials on engagement farming - but how is that working for X and Facebook? What we need is a vision for a social network that has actual utility, not doomscrolling.
 
@@ -58,7 +58,7 @@ Summary: In a world of addictive social media, positioning LinkedIn as a *social
 
 ### 1.3 Online Education is *still* just getting started
 
-Online education absolutely exploded in the immediate aftermath of the pandemic. The subsequent pullback is *not* a bearish sign but merely a renormalization of growth. I believe we're still just getting started with online eduction.
+Online education absolutely exploded in the immediate aftermath of the pandemic. The subsequent pullback is *not* a bearish sign but merely a renormalization of growth. I believe we're still just getting started with online education.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some of the dryest stats are the most mind-blowing:<br><br>E-learning is a $214B market (project management software is a measly $6B, for comparison) with an expected compounded annual growth rate of over 20% between now and 2030.</p>&mdash; Kasey Klimes (@kaseyklimes) <a href="https://twitter.com/kaseyklimes/status/1770881114430730263?ref_src=twsrc%5Etfw">March 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -88,7 +88,7 @@ This is the positive reframe of "networking". Networking is useful, but distaste
 <footer>Kamakshi Rajagopal, Peter B. Sloep<cite> <a href="https://www.researchgate.net/publication/220167767_Understanding_personal_learning_networks_Their_structure_content_and_the_networking_skills_needed_to_optimally_use_them">https://www.researchgate.net/publication/220167767_Understanding_personal_learning_networks_Their_structure_content_and_the_networking_skills_needed_to_optimally_use_them</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice. Enabling everyone to use LinkedIn to create a personal learning network:
+This is the north star for LinkedIn - to be a place where networks and learning come together into communities of practice. Enabling everyone to use LinkedIn to create their own personal learning network:
 
 ![](/images/2024-03-21-14-23-12.png)
 
@@ -163,7 +163,7 @@ Employees want to grow, learn and develop. Companies want engaged, capable worke
 
 ### 3.1 The Brand Concept: LinkedIn as a Learning Network
 
-If anyone has the opportunity to come to the table with a fresh POV on the future of work it's LinkedIn. We need a new idea for what work can be that energizes people and also prepares for the biggest skills shift we've ever seen.
+If anyone has the opportunity to come to the table with a fresh point of view on the future of work it's LinkedIn. We need a new idea for what work can be that energizes people and also prepares for the biggest skills shift we've ever seen.
 
 And we need a model that energizes and speaks to employers, employees, gig workers and advertisers.
 
