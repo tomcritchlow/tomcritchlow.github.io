@@ -9,15 +9,15 @@
 
 <style>
     .blogstory{
-        width:300px;
+        min-width:350px;
     }
 </style>
 
-<div class="w-10- h-100 overflow-x-scroll flex">
+<div class="w-100 vh-100 overflow-x-scroll flex">
 
     {% for post in site.posts | limit: 5 %}
 
-    <div class="blogstory ma3 h-100 ba b--newgreen br2 pa3 relative overflow-y-hidden">
+    <div class="blogstory ma4 h-100 ba b--newgreen br2 pa3 relative overflow-y-hidden">
         <h1 class="f3 lh-title">{{post.title}}</h1>
         <h2 class="f4 i">{{post.subtitle}}</h2>
         <div class="">
