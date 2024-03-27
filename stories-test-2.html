@@ -17,15 +17,15 @@
 
     {% for post in site.posts | limit: 5 %}
 
-    <div class="blogstory ma4 h-90 ba b--newgreen br2 pa3 relative overflow-y-hidden">
+    <div class="blogstory ma4 h-90 ba b--newgreen br2 pa3 relative overflow-y-hidden shadow-4">
         <h1 class="f3 lh-title">{{post.title}}</h1>
         <h2 class="f4 i">{{post.subtitle}}</h2>
         <div class="">
             {{post.content}}
         </div>
 
-        <div class="absolute bottom-0 left-0 bg-newgreen-light w-100 pv3 tc">
-            <a href="{{post.url}}" class="link black">Read Post</a>
+        <div class="bottom-0 left-0 bg-newgreen w-100 pv3 tc" style="position:sticky">
+            <a href="{{post.url}}" class="link white b">Read Post</a>
         </div>
     </div>
 
