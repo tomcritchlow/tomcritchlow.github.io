@@ -2,6 +2,7 @@
 title: LinkedIn is not a social or professional network, it's a learning network
 subtitle: The world of work needs a new script
 layout: blog
+topics: education
 og: https://tomcritchlow.com/images/linkedin-og.png
 ---
 

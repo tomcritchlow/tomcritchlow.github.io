@@ -4,6 +4,10 @@ subtitle: Creating momentum
 layout: blog
 ---
 
+https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/
+
+Lead with a story about being uncomfortable as an advisor?
+
 There are many situations where companies don't have the budget or the bandwidth for a full consulting engagement. In these situations it's tempting to reach for a coaching or advisor model. Something like "a one hour phone call every other week".
 
 I don't like this model so I've built a new model that works better. It's called being an **active advisor**.
@@ -27,11 +31,22 @@ Here are the principles that I find works:
 2. Get close enough for context. One phone call a week doesn't give enough context and you don't want to spend the time 
 3. Room to ramp up and down. The engagement shouldn't be billed hourly to enable fluid ramp up/down for context
 
+Because of this:
+
+* Fixed price to enable burst / ramp up/down without negotation
+* Regular cadence (e.g. weekly meeting or weekly standup)
+* Access to slack or other chat platform for rapid async
 
 
 ## Example:
 
 What started with DoubleLoop as simple "advising" became much more hands on at critical moments e.g. bulding their new website in Framer.
+
+Epic
+
+Reviews.com
+
+
 
 ----
 
