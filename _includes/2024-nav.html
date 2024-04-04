@@ -50,17 +50,17 @@
 {% for link in site.data.nav.main_links %}
 
 <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
-    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
+    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> <span class="navname">{{link.name}}</span>
   </a>
 {% endfor %}
 
 {% for group in site.data.nav.groups %}
 <div class="mv4">
-    <div class="newgreen mh3 ph2 mv2">{{group.group_name}}</div>
+    <div class="newgreen mh3 ph2 mv2 navname">{{group.group_name}}</div>
 
 {% for link in group.links %}
 <a class="{% if link.name == 'Writing' and page.date %}bg-white{% endif %} db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="{{link.name}}" href="{{link.url}}">
-    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> {{link.name}}
+    <i data-feather="{{link.feathericon}}" class="h1 pr3"></i> <span class="navname">{{link.name}}</span>
   </a>
 {% endfor %}
 </div>

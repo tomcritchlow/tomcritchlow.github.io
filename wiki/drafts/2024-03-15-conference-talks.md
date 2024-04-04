@@ -31,3 +31,7 @@ No idea what kind of conference this would be
 ## Executive Presentation Skills
 
 This is probably less of a conference talk and more of a training session but 
+
+## A Rallying Cry for the SEO industry
+
+Ready to revisit this talk: https://www.youtube.com/watch?v=tsVY10ubnZo&t=292s

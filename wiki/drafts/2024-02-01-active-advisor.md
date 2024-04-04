@@ -4,6 +4,35 @@ subtitle: Creating momentum
 layout: blog
 ---
 
+"I like working with you" my client said, "because you're not afraid to roll up your sleeves"
+
+This moment was pivotal for my consulting journey. It's why 
+
+
+*"I think were we're at is looking for junior folks more on the execution level but can definitely keep thinking on how best to work together."*
+
+*Consulting* is a loaded term. And somet
+
+
+
+
+For startups:
+* GTM
+* Finding product market fit
+* Building growth loops
+* Positioning
+* Strategy planning, OKRs, building reporting internally
+* 
+
+For executives:
+* Articulation and positioning for key projects
+* Building businesses case for projects
+* Extending influence and the work around the work
+* Setting strategy, vision and communicating ideas
+* Sizing growth opportunities
+* BBuilding process
+* Assessing capabilities 
+
 https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/
 
 Lead with a story about being uncomfortable as an advisor?

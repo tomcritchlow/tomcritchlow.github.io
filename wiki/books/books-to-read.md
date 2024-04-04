@@ -126,3 +126,7 @@ From Will:
 <https://aworkinglibrary.com/reading/starfish>
 
 But Beautiful - recommended by Craig Mod: https://twitter.com/craigmod/status/1648326295443640320
+
+--
+
+Via Seb Chen: https://www.versobooks.com/products/3031-immediacy-or-the-style-of-too-late-capitalism?utm_source=sebchan&utm_medium=email&utm_campaign=94-mediation-and-some-art-things
