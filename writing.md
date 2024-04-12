@@ -37,8 +37,8 @@ Subscribe:
   <a class="link newgreen b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a>
   <br><span class="black-50 i">{{post.subtitle}}</span>
   </div>
-  <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}
-  <br><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a id="commentolink" href="{{ post.url }}#commento"></a></span></div>
+  <div class="black-50 f6 tr">{{ post.date | date: "%B %-d, %Y" }}
+  <br><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a class="link black-50" id="commentolink" href="{{ post.url }}#commento"></a></span></div>
 </div>
 
 <!--
@@ -65,9 +65,9 @@ window.commentoCustomText = function(count) {
   if(count === 0) {
     return "";
   } else if (count === 1) {
-    return " | ⚡ 1 comment";
+    return "⚡ 1 comment";
   } else {
-    return " | ⚡ "+ count + " comments";
+    return "⚡ "+ count + " comments";
   }
 }
 </script>
