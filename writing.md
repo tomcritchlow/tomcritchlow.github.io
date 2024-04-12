@@ -3,6 +3,12 @@ layout: blog
 title: Latest Writing
 ---
 
+Subscribe:
+<div class="flex">
+<div class="w-50 pa3 bg-newgreen-light">Email newsletter</div>
+<div class="w-50 pa3 bg-newgreen-light">RSS</div>
+</div>
+
 {% include streak.html %}
 
 {% for post in site.posts  %}
