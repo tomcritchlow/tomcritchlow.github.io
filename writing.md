@@ -26,8 +26,11 @@ title: Latest Writing
 <div class="f7 ttu black-70 b pt3">{{ this_month }}</div>
 {% endif %}
 
-<div class="flex flex-wrap w-100 pv2 justify-between">
-  <div class="w-100 w-auto-l"><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
+<div class="flex flex-wrap w-100 pv2 justify-between f5">
+  <div class="w-100 w-auto-l">
+  <a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a>
+  <br><span class="black-50">{{post.subtitle}}</span>
+  </div>
   <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
 </div>
 
