@@ -4,6 +4,11 @@ subtitle: Creating momentum
 layout: blog
 ---
 
+
+
+
+
+
 "I like working with you" my client said, "because you're not afraid to roll up your sleeves"
 
 This moment was pivotal for my consulting journey. It's why 
