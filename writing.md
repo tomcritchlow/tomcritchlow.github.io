@@ -5,8 +5,8 @@ title: Latest Writing
 
 Subscribe:
 <div class="flex">
-<div class="w-50 pa3 bg-newgreen-light">Email newsletter</div>
-<div class="w-50 pa3 bg-newgreen-light">RSS</div>
+<div class="w-50 pa3 bg-newgreen-light mr2"><i data-feather="mail" class="h1 pr3"></i> Email newsletter</div>
+<div class="w-50 pa3 bg-newgreen-light ml2"><i data-feather="rss" class="h1 pr3"></i> RSS</div>
 </div>
 
 {% include streak.html %}
