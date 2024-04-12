@@ -5,8 +5,8 @@ title: Latest Writing
 
 Subscribe:
 <div class="flex">
-<div class="w-50 pa3 bg-newgreen-light mr2"><i data-feather="mail" class="h1 pr3"></i> Email newsletter</div>
-<div class="w-50 pa3 bg-newgreen-light ml2"><i data-feather="rss" class="h1 pr3"></i> RSS</div>
+<div class="w-50 pa3 bg-newgreen-light mr2"><i data-feather="mail" class="h1 pr3"></i> <a href="https://newsletter.tomcritchlow.com/" class="link black">Email newsletter</a></div>
+<div class="w-50 pa3 bg-newgreen-light ml2"><i data-feather="rss" class="h1 pr3"></i> <a href="https://tomcritchlow.com/feed" class="link black">RSS</a></div>
 </div>
 
 {% include streak.html %}
@@ -27,9 +27,9 @@ Subscribe:
 {% else %}
 
 {% if forloop.first %}
-<div class="f7 ttu black-70 b pt3 tr">{{ this_month }}</div>
+<div class="f7 ttu black-70 b pt4">{{ this_month }}</div>
 {% elsif this_month != next_month %}
-<div class="f7 ttu black-70 b pt3 tr">{{ this_month }}</div>
+<div class="f7 ttu black-70 b pt4">{{ this_month }}</div>
 {% endif %}
 
 <div class="flex flex-wrap w-100 pv2 justify-between f5">
