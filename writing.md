@@ -5,8 +5,8 @@ title: Latest Writing
 
 Subscribe:
 <div class="flex f5">
-<div class="w-50 pa3 bg-newgreen-light mr2"><i data-feather="mail" class="h1 pr2"></i> <a href="https://newsletter.tomcritchlow.com/" class="link black">Email newsletter</a></div>
-<div class="w-50 pa3 bg-newgreen-light ml2"><i data-feather="rss" class="h1 pr2"></i> <a href="https://tomcritchlow.com/feed" class="link black">RSS</a></div>
+<div class="w-50 pa3 bg-newgreen-light mr2"><i data-feather="mail" class="h1 pr2 v-mid"></i> <a href="https://newsletter.tomcritchlow.com/" class="link black">Newsletter</a></div>
+<div class="w-50 pa3 bg-newgreen-light ml2"><i data-feather="rss" class="h1 pr2 v-mid"></i> <a href="https://tomcritchlow.com/feed" class="link black">RSS</a></div>
 </div>
 
 {% include streak.html %}
