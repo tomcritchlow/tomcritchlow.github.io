@@ -2,6 +2,7 @@
 title: Working With Founders Who Have Conviction and Taste
 subtitle: Opening up a few spots for my active advisory practice
 layout: blog
+og: https://tomcritchlow.com/images/active-advisor-og.png
 ---
 
 Consulting can be easy money. Fleecing clients for cheap tricks. Clients have problems, you have powerpoints. It’s easy to flip a few quick slides into a chunk of cash and cackle off into the mountains.
