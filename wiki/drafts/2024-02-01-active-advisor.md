@@ -1,153 +1,162 @@
 ---
-title: The Active Advisor
-subtitle: Creating momentum
+title: Working With Founders Who Have Conviction and Taste
+subtitle: Opening up a few spots for my active advisory practice
 layout: blog
 ---
 
+Consulting can be easy money. Fleecing clients for cheap tricks. Clients have problems, you have powerpoints. It’s easy to flip a few quick slides into a chunk of cash and cackle off into the mountains.
 
+But to really get stuck in….. to embrace the chaos of the daily flows of work - to grapple with and reconcile the messy reality of getting things out into the world and across the finish line. The combination of uncertainty, people, processes and power that exist in every organization. Ah. There’s the real work.
 
+I said once at a conference that *you can’t outsource giving a shit* - 15 years later I’m still trying to prove myself wrong! You **can** outsource giving a shit. Not to a consultant wielding a pack of slides. But to someone who’s going to get stuck in with you.
 
+My average client engagement is over two years. Average! I have some clients where I’ve been working with them longer than most of their full time employees.
 
+Is this giving a shit? I think so.
 
-"I like working with you" my client said, "because you're not afraid to roll up your sleeves"
+## Consulting vs Advising? They’re both scams.
 
-This moment was pivotal for my consulting journey. It's why 
+Consulting and advising both get a bad rep. They have negative reputations when people do the bare minimum. For consulting, that’s charging $2k / slide and walking away. For advisors that’s breezing into a phone call once a month and giving some generic advice.
 
+For the past 10 years I’ve focused on consulting, and I’ve always done more than the bare minimum. The language doesn’t really matter but what that means is that I’ve been focused on larger, more hands-on engagements. Typically for bigger companies like The New York Times, Garnter, Atlassian, Google.
 
-*"I think were we're at is looking for junior folks more on the execution level but can definitely keep thinking on how best to work together."*
+But over the last few years I’ve been building an advisory practice which is lighter touch, designed for earlier stage companies but still has that sense of me being useful and giving a shit about your business.
 
-*Consulting* is a loaded term. And somet
+Here’s the TL;DR:
 
+* **I work with founders who have conviction and taste, to reach your next phase of growth.**
+* Building audience and attention online requires a combination of market positioning, product and content and that’s the skillset I bring to every engagement.
+* I am equally comfortable delivering strategy and getting hands on in the weeds with you
+* I’ve got a broad skillset - equally comfortable building an investor presentation, a finance spreadsheet and a user research prototype.
+* Active Advisory work is typically a ~$6k / month 
+* I’ve got a few spots open starting later this year.
+* [Grab a time on my calendly](https://calendly.com/tomcritchlow) if you want to chat.
 
-
-
-For startups:
-* GTM
-* Finding product market fit
-* Building growth loops
-* Positioning
-* Strategy planning, OKRs, building reporting internally
-* 
-
-For executives:
-* Articulation and positioning for key projects
-* Building businesses case for projects
-* Extending influence and the work around the work
-* Setting strategy, vision and communicating ideas
-* Sizing growth opportunities
-* BBuilding process
-* Assessing capabilities 
-
-https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/
-
-Lead with a story about being uncomfortable as an advisor?
-
-There are many situations where companies don't have the budget or the bandwidth for a full consulting engagement. In these situations it's tempting to reach for a coaching or advisor model. Something like "a one hour phone call every other week".
-
-I don't like this model so I've built a new model that works better. It's called being an **active advisor**.
-
-A good advisor creates clarity and creates momentum.
-A bad advisor confuses and slows.
-
-Typically "ideas" is not what you want. You want clarity and momentum. The ability to get shit done, and to help everyone understand what needs to be done. Clarity and momentum.
-
-
-
-## Consulting Is Not Smooth
-
-Working with companies it's not linear, there are moments where lots happens. Chronos and Kairos.
-
-## The Model of Active Advising
-
-Here are the principles that I find works:
-
-1. Go to the work. Beyond just talk - open the doc, fire up analytics, get *in* the work.
-2. Get close enough for context. One phone call a week doesn't give enough context and you don't want to spend the time 
-3. Room to ramp up and down. The engagement shouldn't be billed hourly to enable fluid ramp up/down for context
-
-Because of this:
-
-* Fixed price to enable burst / ramp up/down without negotation
-* Regular cadence (e.g. weekly meeting or weekly standup)
-* Access to slack or other chat platform for rapid async
-
-
-## Example:
-
-What started with DoubleLoop as simple "advising" became much more hands on at critical moments e.g. bulding their new website in Framer.
-
-Epic
-
-Reviews.com
-
-
-
-----
-
-Anyway, I'm prototyping this kind of "active advisor" role for $6-8k / month. Ping me if you want to try it out.
-
-
-
-
-
-This is kind of a standard model but it doesn't work for me.
-
-But there are many si
-
-
-
-> “There are decades where nothing happens; and there are weeks where decades happen.”
-
-> “Poker is hours and hours of boredom, punctuated by moments of sheer terror.”
-
-
-
-I've been called many things: consultant, growth advisor, coach, partner, 
-
-As gig work gets more popular there is increasingly codified approaches to the types of gig work:
-
-Freelancer consultant advisor fractional interim
-
-<blockquote class="quoteback" darkmode="" data-title="What%20is%20a%20Fractional%20Executive%3F%2020%2B%20Leaders%20Share%20Examples%2C%20Pitfalls%2C%20and%20Benefits%20of%20Hiring%20One%20%E2%80%94%20Reforge" data-author="" cite="https://www.reforge.com/blog/leveraging-fractional-executives">
-<strong>The “Expertise as a Service” Spectrum</strong><p id="ec19cf9cbf05" class="m-0 p-0 text-rb-gray-400 mb-4 text-[14px] font-normal leading-[21px] sm:text-[16px] sm:leading-6">Fractional Executive roles fall somewhere between Advisors and Interim Executives — leaders who work at a company for a set duration of time. They are all former operators, founders, or executives with specific expertise, and often move along this spectrum.</p><picture><button class="block" tabindex="0"><img data-loaded="true" sizes="(min-width: 768px) 50vw, 100vw" decoding="async" alt="Advisors-vs-Interim-vs-Fractional-Executive" class="z-1 opacity-0 transition-opacity duration-400 ease-linear absolute left-1/2 top-1/2 block h-[calc(100%+1px)] w-[calc(100%+1px)] -translate-x-1/2 -translate-y-1/2 cursor-pointer opacity-100 object-cover" src="https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?q=80&amp;fit=max&amp;auto=format" srcset="https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?w=400&amp;h=225&amp;q=80&amp;fit=max&amp;auto=format 400w,https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?rect=0,1,2500,1404&amp;w=600&amp;h=337&amp;q=80&amp;fit=max&amp;auto=format 600w,https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?w=800&amp;h=450&amp;q=80&amp;fit=max&amp;auto=format 800w,https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?rect=0,1,2500,1405&amp;w=1000&amp;h=562&amp;q=80&amp;fit=max&amp;auto=format 1000w,https://cdn.sanity.io/images/pghoxh0e/production/57b881b244a538d58f1b2d2a78a7749ab16202de-2500x1406.jpg?w=1200&amp;h=675&amp;q=80&amp;fit=max&amp;auto=format 1200w"></button></picture>
-<footer> <cite><a href="https://www.reforge.com/blog/leveraging-fractional-executives">https://www.reforge.com/blog/leveraging-fractional-executives</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
-
-And here's a great interview with Elena Verna: https://medium.com/@s16vc/elena-verna-how-to-leverage-advising-for-the-growth-of-your-company-3662bcd6180e
-
-Let's complicate this a little more because I don't think it's so clear cut. Maybe the reality is something a bit more like this:
-
-2x2
-
-Actually - let's complicate this *even more* because a typical consulting project might span several years and vary across *all* of the map!!
-
-In one "consulting" engagement I might fluctuate between:
-
-- An hour long phone call once a week
-- 4 days in the office leading a team
-- Attending quarterly executive meetings
-- 
-
-Here's the rub though: these labels don't map very well to the lived experience of doing independent work for companies.
-
-There's more transition, more gray area more nuance and so on.
+Active Advisory is my version of advising work that makes a difference.
 
 ## Active Advising
 
-In my work I've floated across the whole spectrum 
+***"I like working with you"*** my client said, ***"because you're not afraid to roll up your sleeves"***.
 
-The active advisor.
+This phrase changed my whole approach to consulting. Before then, I’d always been concerned about being perceived as senior - trying hard to stay at the strategic level and not getting involved in the more junior work. Sometimes I would be afraid to do the straightforward tasks, even if they were the most useful thing.
 
-Where we don't just talk - we do.
+This stemmed from a kind of imposter syndrome - I was worried of becoming “just a freelancer” or low-level outsourced solution instead of being seen as a “consultant” and given permission and access to work on the more strategic, more interesting problems.
 
-Move the conversation to where the work is.
+But the truth is that clients value clarity and they value momentum. There’s real value in complexity taming. But there’s only so much strategy work that needs doing before you need to start getting your hands dirty (and the best strategy emerges from doing the work). This realization set me on the path to discovering [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/) as a model of working and my relentless focus on [being useful at all times](https://tomcritchlow.com/2024/01/23/advice/).
 
-Is there some analogy for how momentum doesn't happen eavenly?
+I’ve spent my career as typically the most creative person in a room of technologists or the most technical in a room full of creatives. This duality means that I can often create clarity and momentum in lots of situations that otherwise would be stuck. I can shortcut the design process or shortcut the scoping process to help teams move faster and get more clarity quickly.
 
-DoubleLoop -> advisory + spikey burst of videos etc
-Finder -> advisory + spikey projects
+## Example: Working with DoubleLoop
 
-(spike is an agile PM term?)
+Here’s a real example - I’ve been working with [DoubleLoop](https://doubleloop.app/) for about 6 months as an advisor. Initially we had structured this in a typical “growth advisory” capacity: I’ll charge an hourly rate for a phone call once every two weeks.
 
-Draw the visual
+This was…. fine? But consulting and advising is not smooth - like the poker adage it’s “hours of boredom followed by moments of sheer terror”.
+
+Our conversations would probe at useful growth mechanics and we were making progress but everything suddenly ratcheted up a notch when DoubleLoop suddenly dropped into fund-raising mode. All of a sudden the problems around positioning were concrete, immediate and urgent.
+
+So I dropped what I was doing and focused on matching their tempo - I helped [rework the positioning](https://www.linkedin.com/posts/danielfschmidt_doubleloop-demo-2024-activity-7158549229773197312-BYrc?utm_source=share&utm_medium=member_desktop), I learned framer and [rebuilt the homepage](https://www.linkedin.com/posts/danielfschmidt_doubleloop-develop-an-impact-oriented-strategy-activity-7164380304055488512-eylL?utm_source=share&utm_medium=member_desktop) and we overhauled the investor deck all in the space of about a week.
+
+Is this consulting? Is this advisory work? I think this is a great example of what I’m calling being an active advisor.
+
+## Running Towards The Real Problems
+
+Every (good) consultant has their own version of this “active advisor” model.
+
+Howard has his concept of “creative producer”:
+
+<blockquote class="quoteback" darkmode="" data-title="Crossing%20the%20chasm%20between%20Strategy%20%26%20Execution" data-author="@howardgray" cite="https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/">
+<img src="https://www.howardgray.net/content/images/size/w2000/2023/12/Strategy--Producer--Freelancer.jpg">
+<blockquote><strong><em>“I don’t want any more f***ing strategy decks.”</em></strong></blockquote><p>Being on the receiving end of this dressing down was not particularly enjoyable.</p><p>But they were right. I’d been hiding. Snuggled deep in the warm embrace of a slide deck - I was able to show insights, trends, and high level thinking, all with minimal execution risk. Safe from harm.</p><p>This client wanted action. Execution. Tangible, shipped work. Yet despite their exasperation, they also valued strategic thinking. They just didn’t want to get stuck in a loop of endless thought and no action.</p><p>So we turned around, using the insights from the deck and built out 10 mini learning games, 8 Instagram ads with their employees as the stars, and an accelerated leadership development program, all on a small budget. They were right - outputs needed to go with the thinking.</p>
+<footer>@howardgray <cite><a href="https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/">https://www.howardgray.net/2023/12/19/strategy-execution-the-creative-producer/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Vaughn Tan has his concept of “amorphous consulting” 
+
+<blockquote class="quoteback" darkmode="" data-title="Amorphous%20consulting" data-author="Vaughn Tan" cite="https://uncertaintymindset.substack.com/p/amorphousconsulting">
+<p>There are two types of consulting work. The first type is <strong>concrete consulting</strong>, which looks legible and accountable, and is clearly scoped from the beginning. Concrete consulting is when the client knows that it needs service X, the consultant is set up to provide service X, and service X is what is scoped and delivered. (For instance, hiring a consultant to evaluate and select a vendor for a new supply chain management system.) Corporate procurement systems love the straightforwardness of concrete consulting. </p><p>My type of consulting is the other type: <strong>Amorphous consulting</strong>. </p><p>Amorphous consulting starts out fuzzy, illegible, and hard to scope. The parameters of amorphous consulting are so uncertain that it may not appear to be consulting at first. In my experience, amorphous consulting often starts out with undirected conversations (or emails) with someone who may eventually become a client.</p>
+<footer>Vaughn Tan <cite><a href="https://uncertaintymindset.substack.com/p/amorphousconsulting">https://uncertaintymindset.substack.com/p/amorphousconsulting</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+The good consultants run towards value.
+
+They aren’t afraid of problems that are hard to define or challenges that require strategy and execution. It’s not about adhering too tightly to the scope of work and it’s not about polishing your work until it shines. It’s about running towards the most urgent, important problems for your clients to deliver tangible value.
+
+## It's What Clients Want
+
+Although this is the first time I’m calling it “active advising” my longest running and most impactful consulting work actually looks pretty similar to this. Some examples from client work:
+
+* Working with a private equity firm to incubate a new content business, soup to nuts content strategy, commercialization, positioning and more to help them grow from zero to > 150k visits / month and hundred of thousands of email subscribers.
+* Working with Reviews.com to support their growth in everything from hiring, operations, strategy and content workflows guiding them from early growth through to acquisition.
+* Working with Fundera in the early days to help them define brand positioning, GTM and SEO strategy
+* Working with a well-funded but pre-revenue startup to help them measure growth, understand resource allocation and position themselves in the market to add monetization.
+
+Growth is a connected system of product, brand, marketing and data and I’ve spent my career spanning across these disciplines. 
+
+People I’ve worked with include CEO, CPO, CMO or COO:
+
+> *“Tom is a CEO Whisperer. He is truly a world-class listener and mentor who knows how to knock down walls inside companies to get strategic projects delivered.”* - COO
+
+> *“Tom brings a unique mix of SEO, business strategy and executive presence. Working together we have successfully secured investment to build modern SEO programs, driven valuable revenue growth and transformed SEO into a strategic business lever with executive leadership at various enterprises.”* - CPO
+
+> *“Tom is one of the clearest business thinkers I’ve ever had the privilege of working with. His ability to synthesize complex and copious amounts of ideas and material into clear and operational strategy is unparalleled.”* - CMO
+
+> *"Tom Critchlow is one of the best I've worked with when it comes to SEO. We worked together on a startup and he has that amazing blend of seeing the big picture and being able to roll up his sleeves to get the work done. The results were fantastic, where we developed the building blocks for our key money pages and then executed the plan to dramatically increase the organic traffic to those pages."* - CEO
+
+## How Does Active Advising Work?
+
+Here are some of the principles that I’ve found necessary to make this active advising model work:
+
+* I need enough context to be useful. This typically means regular touchpoints, but also ideally access to the weekly report that, or the board meeting deck or whatever artifact is being created on a regular basis so that I can always have context of what’s going on right now.
+* We should go to the work. There’s only so much you can do by talking about the work - you need to actually get stuck in. If we’re talking about hiring, let’s jam on the job description together. If you’re trying to frame something for investors, let’s open up the pitch deck.
+* You have to challenge assumptions. This requires a degree of mutual trust and openness to be able to really re-think assumptions, challenge blindspots and help clients see things in new ways.
+* It requires unlimited access. No one wants to count the hours spent or think twice about reaching out because it might trigger a bill. The best work is done inside fast feedback loops and requires a kind of “always available” mentality.
+
+Because of this:
+
+* I’m usually in the client’s slack and/or whatsapp for fast async work.
+* We have a baseline of regular touchpoints, typically bi-weekly
+* We have a running set of notes that captures what the most important and urgent challenges and opportunities are
+
+All in the best way to price this is with a fixed fee. Typically something like $6k / month.
+
+## Who This Is For
+
+The two archetypes that I’ve done the most work with:
+
+For startups:
+* Supporting GTM and marketing strategy
+* Fund raising and developing a vision, thesis and TAM
+* Brand positioning and messaging
+* Hiring, processes and operations
+* Building growth loops, growth teams and growth processes
+* Analytics and reporting
+
+For executives:
+* Helping to build influence, communicate better and build buy-in across the org
+* Supporting clear strategy development that can be communicated across the company
+* Designing better executive dashboards or quarterly off-sites.
+* Being a sparring partner for the chaos of work
+* Vetting vendors, supporting resource allocation and developing an investment thesis for key channels
+
+## Why me?
+
+Some things that might be relevant:
+
+* Built Distilled an SEO agency into 50+ people across 3 locations
+* Led special projects at Google working with teams like the Creative Lab and BizOps
+* Developed multi-million dollar SEO strategies for brands
+* Hired, managed and led teams
+* Sold millions of dollars worth of professional services
+* Designed websites and product experiences
+* Led positioning and narrative strategy projects
+* Built creative technology that gets used by 1000s of people
+* Created award winning content campaigns
+
+So how about it? If you want to chat about working together grab some time or drop me an email: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com).
+
+Of course, the best leads come from my friends. If you’re reading this and think you know someone who would be a good fit, I’d love an intro!
+
+Much love,
+Tom 
