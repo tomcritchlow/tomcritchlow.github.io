@@ -88,17 +88,6 @@ I could probably build this myself if I was really motivated but it would requir
 
 I'm still actively researching the best tools out there for this kind of work but in the meantime I've created an Airtable database for tools, examples of small databases and interesting reading. Take a look (or [load the file directly here](https://airtable.com/shrYY94GrqVB4HUsi/tblHPrdomiPbLpod6/viwxizssDJMsGqhg9?backgroundColor=green&blocks=hide))
 
-<style>
-#airtableframe{
-width:150%;
-}
-@media screen and (max-width: 30em){
-#airtableframe{
-width:100%
-}   
-}
-</style>
-
 <details class="ba b--black-20 pa2 bg-light-green" id="airtableframe">
 <summary>An airtable of resources</summary>
 <iframe class="airtable-embed pv2" src="https://airtable.com/embed/shrYY94GrqVB4HUsi?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
