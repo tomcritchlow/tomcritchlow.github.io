@@ -8,11 +8,14 @@
 {% include 2024-nav.html %}
 
 
-<div class="w-90 center mw8">
+<div class="w-100 center mw8">
 
     <div class="flex pv4">
         <h2>Library</h2>
-        <div class="bg-white">Search</div>
+        <div class="flex relative" style="pointer-events: auto;">
+          <input type="text" id="searchBox" placeholder="Search items..." class="pa2 i br2" style="pointer-events: auto;">
+          <div id="closebox" class="pointer underline f7 dn pl2 right-0 top--1">clear</div>
+        </div>
     </div>
     
 
