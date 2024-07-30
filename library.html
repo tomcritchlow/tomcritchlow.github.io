@@ -10,13 +10,13 @@
 
 <div class="w-90 center mw8">
 
-    <div class="flex">
+    <div class="flex pv4">
         <h2>Library</h2>
         <div class="bg-white">Search</div>
     </div>
     
 
-    <div class="pa4">
+    <div class="pv4">
         <div class="overflow-auto">
           <table class="f6 w-100 mw8 center" cellspacing="0">
             <thead>
@@ -33,7 +33,7 @@
                 <tr>
                     <td class="pv3 pr3 bb b--black-20">{{item.title}}</td>
                     <td class="pv3 pr3 bb b--black-20">{{item.type}}</td>
-                    <td class="pv3 pr3 bb b--black-20">{{item.link}}</td>
+                    <td class="pv3 pr3 bb b--black-20"><div class="flex"><img class="mr2 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> <span class="black-70 i"><a class="link black" href="{{item.url}}">{{ item.link | split: "//" | last | split: "/" | first }}</a></span></div></div></td>
                     <td class="pv3 pr3 bb b--black-20">{{item.tags}}</td>
                     <td class="pv3 pr3 bb b--black-20">{{item.date_saved}}</td>
                   </tr>
