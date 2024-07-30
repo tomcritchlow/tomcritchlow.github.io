@@ -164,6 +164,41 @@ the storm will blow us empty.
 
 <https://www.npr.org/2012/01/09/144904447/a-winter-night>
 
+---
+
+Sometimes Writing
+-Pat Schneider-
+
+“Sometimes writing sits in you
+like a wild animal. Maybe
+you see its eyes.
+Maybe you don’t see it at all,
+but the hair on the back of your neck
+knows it is there
+where the deepest shadows lie.
+Often the shadows lie
+about what’s hiding in them.
+
+The panther that has stalked you
+since you were a child
+is old now. No longer wild,
+and tired of guarding the treasure
+you yourself left behind–
+blind and deaf, she will give it all to you
+if you just let her go.
+
+But how are you to know
+whether the fox on the hill
+in the cemetery carries your mother’s name
+or is the same fox you saw
+crossing your back yard in the snow
+
+unless you put your pen to paper
+and use it to release the animal
+that hides in the shadow of your hand.”
+
+
+
 <script>
 	
 $('p').each(function(){

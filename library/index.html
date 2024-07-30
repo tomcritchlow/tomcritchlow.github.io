@@ -1,0 +1,47 @@
+---
+---
+
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include 2024-nav.html %}
+
+
+<div class="w-90 center mw8">
+
+
+    <div class="pa4">
+        <div class="overflow-auto">
+          <table class="f6 w-100 mw8 center" cellspacing="0">
+            <thead>
+              <tr>
+                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Title</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Type</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Site</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Tags</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Date</th>
+              </tr>
+            </thead>
+            <tbody class="lh-copy">
+                {% for item in site.library}
+                <tr>
+                    <td class="pv3 pr3 bb b--black-20">{{item.title}}</td>
+                    <td class="pv3 pr3 bb b--black-20">{{item.type}}</td>
+                    <td class="pv3 pr3 bb b--black-20">{{item.link}}</td>
+                    <td class="pv3 pr3 bb b--black-20">{{item.tags}}</td>
+                    <td class="pv3 pr3 bb b--black-20">{{item.date_saved}}</td>
+                  </tr>
+                {% endfor %}
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+
+
+</div>
+
+
+{% include 2024-footer.html %}
