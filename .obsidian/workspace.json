@@ -16,7 +16,9 @@
                 "file": "wiki/drafts/2023-01-24-working-in-maps.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2023-01-24-working-in-maps"
             }
           },
           {
@@ -26,7 +28,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.4.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.4.5"
             }
           },
           {
@@ -36,11 +40,37 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.3"
+            }
+          },
+          {
+            "id": "4fe22b9cf22480f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
+            }
+          },
+          {
+            "id": "e07531b227b72b59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -75,7 +107,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -114,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2023-01-24-working-in-maps"
             }
           },
           {
@@ -126,7 +164,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -146,7 +186,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ebe88fcdd72885d0",
+  "active": "e07531b227b72b59",
   "lastOpenFiles": [
     "wiki/drafts/Testing Obsidian.md",
     "wiki/drafts/Untitled.md",
