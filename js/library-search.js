@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                 case 'url': // Search by URL
                     return libraryItems.filter(item =>
                         item.link.includes(value.toLowerCase())
-                    );                    
+                    );
                 default:
                     console.warn(`Unknown operator: ${operator}`);
                     return [];
@@ -37,10 +37,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         return null; // Return null if no operator is found
     };
 
-    // Event listener for search
-    searchBox.addEventListener("input", (event) => {
-        const query = event.target.value.trim();
-
+    // Function to perform a search
+    const performSearch = (query) => {
         if (query === "") {
             searchResults.innerHTML = "";
             mainContent.style.display = "block"; // Unhide main contents
@@ -51,7 +49,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         const customResults = processQuery(query);
 
         if (customResults) {
-            console.log("Custom operator results:", customResults);
             mainContent.style.display = "none"; // Hide main contents
             searchResults.innerHTML = customResults.map(item => {
                 const { title, url, date, content } = item;
@@ -67,14 +64,12 @@ document.addEventListener("DOMContentLoaded", async () => {
         }
 
         // Perform a regular Fuse.js search
-        console.log("searching for: " + query);
         const results = fuse.search(query);
-        console.log("Results: ", results);
 
         // Update the UI
         mainContent.style.display = "none"; // Hide main contents
         searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content } = result;
+            const { title, url, date, content } = result.item;
             return `
                 <li>
                     <a href="${url}" target="_blank"><strong>${title}</strong></a>
@@ -83,5 +78,27 @@ document.addEventListener("DOMContentLoaded", async () => {
                 </li>
             `;
         }).join("");
+    };
+
+    // Update URL with the query parameter
+    const updateURL = (query) => {
+        const newURL = new URL(window.location);
+        newURL.searchParams.set('query', query);
+        window.history.pushState({}, '', newURL);
+    };
+
+    // Event listener for search input
+    searchBox.addEventListener("input", (event) => {
+        const query = event.target.value.trim();
+        updateURL(query); // Update the URL with the search term
+        performSearch(query); // Perform the search
     });
+
+    // Check if a query parameter is present in the URL and perform a search
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialQuery = urlParams.get('query');
+    if (initialQuery) {
+        searchBox.value = initialQuery; // Populate the search box with the query
+        performSearch(initialQuery); // Perform the search
+    }
 });
