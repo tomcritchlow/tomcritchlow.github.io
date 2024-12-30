@@ -42,7 +42,7 @@
   </div>
 
 
-  <div class="pl3-l mb5">
+  <div class="pl4-l mb5">
 
     {% for item in site.library %}
     <div class="pv5 bb b--newgreen">
@@ -51,7 +51,7 @@
     <div class="pv2">
       {{item.content}}
     </div>
-    <div class="">{% for tag in item.tags %}<a href="" class="f6 dib pa2 bg-light-gray newgreen b br1">{{tag}}</a>{% endfor %}</div>
+    <div class="pv1">{% for tag in item.tags %}<a href="" class="f6 dib pa2 ml2 bg-light-gray newgreen b br1">{{tag}}</a>{% endfor %}</div>
     <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
     </div>
     {% endfor %}
