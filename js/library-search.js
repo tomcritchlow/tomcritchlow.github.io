@@ -9,8 +9,10 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Initialize Fuse.js
     const fuse = new Fuse(libraryItems, {
-        keys: ['title', 'content', 'tags'],
-        threshold: 0.4,
+        keys: ['title', 'content', 'link', 'tags'],
+        threshold: 0.6,
+        ignoreLocation: true,
+        useExtendedSearch: true
     });
 
     // Function to process custom operators
