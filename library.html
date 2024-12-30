@@ -8,6 +8,7 @@
 {% include 2024-nav.html %}
 
 <div class="w-100 center mw8">
+<div class="w-two-thirds-ns center">
 
 <h2>Library</h2>
 
@@ -23,12 +24,13 @@ Quick Links: Music, Books, Quotes, Links, All Tags
 <div>
 
   {% for item in site.library %}
+  <div class="pv3 bb b-black-50">
   <div class="b">{%if item.link %}<a class="link" href="{{item.link}}"><img class="mr2 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
-  <div class="black-50 f6">{{item.date_saved}}</div>
+  <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
   <div>
     {{item.content}}
   </div>
-
+  </div>
   {% endfor %}
 
 </div>
@@ -36,7 +38,7 @@ Quick Links: Music, Books, Quotes, Links, All Tags
 
 
 </div>
-
+</div>
 
 
 
