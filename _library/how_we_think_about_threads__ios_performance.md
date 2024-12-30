@@ -3,7 +3,7 @@ layout: libraryitem
 title: "How we think about Threads’ iOS performance"
 link: "https://engineering.fb.com/2024/12/18/ios/how-we-think-about-threads-ios-performance/"
 date_saved: 2024-12-30
-tags: [ "metrics, performance" ]
+tags: [ "metrics", "performance" ]
 author: ""
 image: "https://engineering.fb.com/wp-content/uploads/2024/12/Threads-iOS-Hero_crop2.png"
 description: "How did the Threads iOS team maintain the app’s performance during its incredible growth? Here’s how Meta’s Threads team thinks about performance, including the key metrics we mon…"

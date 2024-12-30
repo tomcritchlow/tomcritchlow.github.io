@@ -51,7 +51,7 @@
     <div>
       {{item.content}}
     </div>
-    <div class="">{% for tag in item.tags %}<a href="" class="pa2 bg-lightgrey newgreen b br1"></a>{% endfor %}</div>
+    <div class="">{% for tag in item.tags %}<a href="" class="pa2 bg-lightgrey newgreen b br1">{{tag}}</a>{% endfor %}</div>
     <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
     </div>
     {% endfor %}
