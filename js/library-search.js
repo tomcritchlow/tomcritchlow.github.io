@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Update the UI
         mainContent.style.display = "none";
         searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content } = result.item;
+            const { title, url, date, content } = result;
             return `
                 <li>
                     <a href="${url}" target="_blank"><strong>${title}</strong></a>
