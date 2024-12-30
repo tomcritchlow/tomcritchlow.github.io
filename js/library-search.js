@@ -13,7 +13,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         threshold: 0.4,
         ignoreLocation: true,
         useExtendedSearch: true,
-        ignoreFieldNorm: true
+        ignoreFieldNorm: true,
+        findAllMatches: true
     });
 
     // Function to process custom operators
