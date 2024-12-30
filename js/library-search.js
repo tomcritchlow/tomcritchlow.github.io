@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     const searchBox = document.getElementById("search-box");
     const mainContent = document.getElementById("main-content");
     const searchResults = document.getElementById("search-results");
-    const defaultContent = document.getElementById("default-content");
 
     // Fetch the data
     const response = await fetch('/library-items.json');
@@ -38,7 +37,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
         if (query === "") {
             searchResults.innerHTML = "";
-            defaultContent.style.display = "block";
             mainContent.style.display = "block"; // Unhide main contents
             return;
         }
