@@ -23,8 +23,8 @@ Quick Links: Music, Books, Links
 <div>
 
   {% for item in site.library %}
-  <div class="b">{{item.title}}</div>
-  <div class="black-50 f6">((item.date_saved}}</div>
+  <div class="b">{{item.title}} <a class="link newgreen b" href="{{item.link}}">#</a></div>
+  <div class="black-50 f6">{{item.date_saved}}</div>
   <div>
     {{item.content}}
   </div>
