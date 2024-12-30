@@ -24,8 +24,8 @@ Quick Links: Music, Books, Quotes, Links, All Tags
 <div>
 
   {% for item in site.library %}
-  <div class="pv3 bb b-black-50">
-  <div class="b">{%if item.link %}<a class="link" href="{{item.link}}"><img class="mr2 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
+  <div class="pv4 bb b-newgreen">
+  <div class="f4 b">{%if item.link %}<a class="link black u" href="{{item.link}}"><img class="mr1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
   <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
   <div>
     {{item.content}}
