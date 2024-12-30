@@ -12,7 +12,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         keys: ['title', 'content', 'link', 'tags'],
         threshold: 0.4,
         ignoreLocation: true,
-        useExtendedSearch: true
+        useExtendedSearch: true,
+        ignoreFieldNorm: true
     });
 
     // Function to process custom operators
