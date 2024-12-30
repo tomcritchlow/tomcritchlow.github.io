@@ -23,11 +23,11 @@ document.addEventListener("DOMContentLoaded", async () => {
             switch (operator.toLowerCase()) {
                 case 'tag':
                     return libraryItems.filter(item =>
-                        item.tags.some(tag => tag.toLowerCase().includes(value.toLowerCase()))
+                        Array.isArray(item.tags) && item.tags.some(tag => tag.toLowerCase().includes(value.toLowerCase()))
                     );
                 case 'url': // Search by URL
                     return libraryItems.filter(item =>
-                        item.link.includes(value.toLowerCase())
+                        item.link && item.link.toLowerCase().includes(value.toLowerCase())
                     );
                 default:
                     console.warn(`Unknown operator: ${operator}`);
@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Update the UI
         mainContent.style.display = "none"; // Hide main contents
         searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content } = result.item;
+            const { title, url, date, content } = result;
             return `
                 <li>
                     <a href="${url}" target="_blank"><strong>${title}</strong></a>
