@@ -14,6 +14,24 @@ document.addEventListener("DOMContentLoaded", async () => {
         threshold: 0.4,
     });
 
+    // Function to process custom operators
+    const processQuery = (query) => {
+        const operatorMatch = query.match(/^(\w+):(.+)/); // Match "operator:value"
+        if (operatorMatch) {
+            const [, operator, value] = operatorMatch;
+            switch (operator.toLowerCase()) {
+                case 'tag':
+                    return libraryItems.filter(item =>
+                        item.tags.some(tag => tag.toLowerCase().includes(value.toLowerCase()))
+                    );
+                default:
+                    console.warn(`Unknown operator: ${operator}`);
+                    return [];
+            }
+        }
+        return null; // Return null if no operator is found
+    };
+
     // Event listener for search
     searchBox.addEventListener("input", (event) => {
         const query = event.target.value.trim();
@@ -21,17 +39,36 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (query === "") {
             searchResults.innerHTML = "";
             defaultContent.style.display = "block";
+            mainContent.style.display = "block"; // Unhide main contents
             return;
         }
 
-        // Perform the search
-        console.log("searching for: " + query)
+        // Check for custom operators
+        const customResults = processQuery(query);
+
+        if (customResults) {
+            console.log("Custom operator results:", customResults);
+            mainContent.style.display = "none"; // Hide main contents
+            searchResults.innerHTML = customResults.map(item => {
+                const { title, url, date, content } = item;
+                return `
+                    <li>
+                        <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                        <p><small>${date}</small></p>
+                        <p>${content}</p>
+                    </li>
+                `;
+            }).join("");
+            return;
+        }
+
+        // Perform a regular Fuse.js search
+        console.log("searching for: " + query);
         const results = fuse.search(query);
-        console.log("Results: ");
-        console.log(results);
+        console.log("Results: ", results);
 
         // Update the UI
-        mainContent.style.display = "none";
+        mainContent.style.display = "none"; // Hide main contents
         searchResults.innerHTML = results.map(result => {
             const { title, url, date, content } = result;
             return `

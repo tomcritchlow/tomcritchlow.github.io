@@ -44,9 +44,10 @@
 
   </div>
 
-  <ul id="search-results"></ul>
-  <div class="pl4-l mb5" id="main-content">
-    
+  
+  <div class="pl4-l mb5">
+    <ul id="search-results"></ul>
+    <div id="main-content">
     {% for item in site.library %}
     <div class="pv5 bb b--newgreen">
     <div class="f4 b">{%if item.link %}<a class="link black u" href="{{item.link}}"><img class="mr1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
@@ -58,7 +59,7 @@
     <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
     </div>
     {% endfor %}
-  
+    </div>  
   </div>
   
   

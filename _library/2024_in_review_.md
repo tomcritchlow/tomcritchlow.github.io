@@ -3,8 +3,7 @@ layout: libraryitem
 title: "2024 in review."
 link: "https://lethain.com/2024-in-review/"
 date_saved: 2024-12-30
-tags: [ "music, jazz, funk" ]
-author: ""
+tags: [ "music", "jazz", "funk" ]
 image: "https://lethain.com/static/author.png"
 description: "A lot happened for me this year.
 I continued learning the details of fund accounting at Carta,
