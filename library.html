@@ -1,5 +1,6 @@
 ---
 ---
+{% assign tags = site.library | map: 'tags' | join: ',' | split: ',' | uniq %}
 
 {% include head.html %}
 
@@ -8,36 +9,66 @@
 {% include 2024-nav.html %}
 
 <div class="w-100 center mw8">
-<div class="w-two-thirds-ns center">
-
-<h2>Library</h2>
+  
+  <h2>Library</h2>
+  <div class="">
+    <input type="text" id="searchBox" placeholder="Search items..." class="pa2 i br2" style="pointer-events: auto;">
+  </div>
 
 <div class="flex">
-<div class="">
-Quick Links: Music, Books, Quotes, Links, All Tags
-</div>
-<div class="">
-  <input type="text" id="searchBox" placeholder="Search items..." class="pa2 i br2" style="pointer-events: auto;">
-</div>
-</div>
 
-<div>
+  <div class="">
+    
+    Pinned Views:
+    <ul>
+      <li>Music</li>
+      <li>Books</li>
+      <li>Links</li>
+    </ul>
 
-  {% for item in site.library %}
-  <div class="pv4 bb b-newgreen">
-  <div class="f4 b">{%if item.link %}<a class="link black u" href="{{item.link}}"><img class="mr1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
-  <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
+    Tags:
+    <ul>
+    {% for tag in tags %}
+      <li>{{tag}}</li>
+    {% endfor %}
+      <li>See All</li>
+    </ul>
+
+  </div>
+
+
   <div>
-    {{item.content}}
+
+    {% for item in site.library %}
+    <div class="pv4 bb b--newgreen">
+    <div class="f4 b">{%if item.link %}<a class="link black u" href="{{item.link}}"><img class="mr1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{item.title}}</a>{%else%}{{item.title}}{%endif%} <a class="link newgreen b" href="{{item.url}}">#</a></div>
+    <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}}</div>
+    <div>
+      {{item.content}}
+    </div>
+    </div>
+    {% endfor %}
+  
   </div>
-  </div>
-  {% endfor %}
+  
+  
+
 
 </div>
 
+  
 
 
-</div>
+
+  
+
+
+
+
+
+
+
+
 </div>
 
 
