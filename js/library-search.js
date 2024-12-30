@@ -25,7 +25,10 @@ document.addEventListener("DOMContentLoaded", async () => {
         }
 
         // Perform the search
+        console.log("searching for: " + query)
         const results = fuse.search(query);
+        console.log("Results: ");
+        console.log(results);
 
         // Update the UI
         mainContent.style.display = "none";
