@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     // Initialize Fuse.js
     const fuse = new Fuse(libraryItems, {
         keys: ['title', 'content', 'link', 'tags'],
-        threshold: 0.6,
+        threshold: 0.4,
         ignoreLocation: true,
         useExtendedSearch: true
     });
@@ -25,6 +25,10 @@ document.addEventListener("DOMContentLoaded", async () => {
                     return libraryItems.filter(item =>
                         item.tags.some(tag => tag.toLowerCase().includes(value.toLowerCase()))
                     );
+                case 'url': // Search by URL
+                    return libraryItems.filter(item =>
+                        item.link.includes(value.toLowerCase())
+                    );                    
                 default:
                     console.warn(`Unknown operator: ${operator}`);
                     return [];
