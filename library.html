@@ -7,49 +7,37 @@
 
 {% include 2024-nav.html %}
 
-
 <div class="w-100 center mw8">
 
-    <div class="flex pv4">
-        <h2>Library</h2>
-        <div class="flex relative" style="pointer-events: auto;">
-          <input type="text" id="searchBox" placeholder="Search items..." class="pa2 i br2" style="pointer-events: auto;">
-          <div id="closebox" class="pointer underline f7 dn pl2 right-0 top--1">clear</div>
-        </div>
-    </div>
-    
+<h2>Library</h2>
 
-    <div class="pv4">
-        <div class="overflow-auto">
-          <table class="f6 w-100 mw8 center" cellspacing="0">
-            <thead>
-              <tr>
-                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Title</th>
-                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Type</th>
-                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Site</th>
-                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Tags</th>
-                <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Date</th>
-              </tr>
-            </thead>
-            <tbody class="lh-copy">
-                {% for item in site.library %}
-                <tr>
-                    <td class="pv3 pr3 bb b--black-20">{{item.title}}</td>
-                    <td class="pv3 pr3 bb b--black-20">{{item.type}}</td>
-                    <td class="pv3 pr3 bb b--black-20"><div class="flex"><img class="mr2 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> <span class="black-70 i"><a class="link black" href="{{item.url}}">{{ item.link | split: "//" | last | split: "/" | first }}</a></span></div></div></td>
-                    <td class="pv3 pr3 bb b--black-20">{{item.tags}}</td>
-                    <td class="pv3 pr3 bb b--black-20">{{item.date_saved}}</td>
-                  </tr>
-                {% endfor %}
+<div class="flex">
+<div class="">
+Quick Links: Music, Books, Links
+</div>
+<div class="">
+  <input type="text" id="searchBox" placeholder="Search items..." class="pa2 i br2" style="pointer-events: auto;">
+</div>
+</div>
 
-            </tbody>
-          </table>
-        </div>
-      </div>
+<div>
+
+  {% for item in site.library %}
+  <div class="b">{{item.title}}</div>
+  <div class="black-50 f6">((item.date_saved}}</div>
+  <div>
+    {{item.content}}
+  </div>
+
+  {% endfor %}
+
+</div>
 
 
 
 </div>
+
+
 
 
 {% include 2024-footer.html %}
