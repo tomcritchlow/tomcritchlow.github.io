@@ -35,6 +35,12 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
 <head>
     <title>Bookmarklet Landing Page</title>
     <link rel="stylesheet" href="/css/tachyons.min.css">
+    <style>
+        #comments {
+            font-size: 1.2em; /* Makes the text larger */
+            height: 150px; /* Increases the height */
+        }
+    </style>
 </head>
 <body class="pa4 sans-serif mw8 center">
     <div class="flex mw8 center">
@@ -52,7 +58,6 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
                     <label for="comments" class="f6 b db mb2">Comments:</label>
                     <textarea id="comments" name="comments" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
                 </div>            
-    
             </form>
         </div>
         <div class="w-50 pa4 black-50 bg-light-gray">
@@ -60,7 +65,6 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
                 <label for="description" class="f6 b db mb2">Description:</label>
                 <textarea id="description" name="description" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
             </div>
-
             <div class="measure">
                 <label for="author" class="f6 b db mb2">Author:</label>
                 <input type="text" id="author" name="author" class="input-reset ba b--black-20 pa2 mb2 db w-100">
@@ -71,15 +75,12 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
             </div>
             <div class="measure">
                 <label for="tags" class="f6 b db mb2">Tags:</label>
-                <textarea id="tags" name="comments" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
+                <textarea id="tags" name="tags" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
             </div>            
-
-
         </div>
     </div>
     <input type="button" value="Generate .md File" onclick="generateMdFile()" class="fr input-reset ba b--black bg-transparent grow pointer f6 dib">
 
-    
     <script>
         // Parse the query string and populate the form
         var urlParams = new URLSearchParams(window.location.search);
@@ -97,7 +98,9 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
             var comments = document.getElementById('comments').value;
             var author = document.getElementById('author').value;
             var image = document.getElementById('image').value;
-            var tags = document.getElementById('tags').value;
+            var tags = document.getElementById('tags').value
+                .split(',')
+                .map(tag => tag.trim()); // Split tags by commas and trim whitespace
 
             var markdown = [
                 "---",
@@ -105,7 +108,7 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
                 "title: \"" + title + "\"",
                 "link: \"" + link + "\"",
                 "date_saved: " + new Date().toISOString().split('T')[0],
-                "tags: [ \"" + tags + "\" ]",
+                "tags: [" + tags.map(tag => `"${tag}"`).join(", ") + "]",
                 "author: \"" + author + "\"",
                 "image: \"" + image + "\"",
                 "description: \"" + description + "\"",
