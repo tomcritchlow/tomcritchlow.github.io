@@ -11,7 +11,7 @@
 <script src="/js/fuse.min.js"></script>
 <script src="/js/library-search.js"></script>
 
-<div class="w-100 center mw8">
+<div class="w-100 center mw8 ph0-l ph2">
   
 <div class="flex justify-between">
   <h2>Library</h2>
@@ -23,29 +23,9 @@
   
   
 
-<div class="flex-l">
-
-  <div class="top-1 self-start pr3 dn db-l" style="position:sticky">
-    
-    Pinned Views:
-    <ul>
-      <li>Music</li>
-      <li>Books</li>
-      <li>Links</li>
-    </ul>
-
-    Tags:
-    <ul>
-    {% for tag in tags %}
-      <li>{{tag}}</li>
-    {% endfor %}
-      <li>See All</li>
-    </ul>
-
-  </div>
-
+<div class="flex-l ">
   
-  <div class="pl4-l mb5">
+  <div class="pr4-l mb5">
     <ul id="search-results"></ul>
     <div id="main-content">
     {% for item in site.library %}
@@ -65,7 +45,25 @@
     </div>  
   </div>
   
-  
+
+  <div class="top-1 self-start pl4-l" style="position:sticky">
+    
+    Pinned Views:
+    <ul>
+      <li>Music</li>
+      <li>Books</li>
+      <li>Links</li>
+    </ul>
+
+    Tags:
+    <ul>
+    {% for tag in tags %}
+      <li>{{tag}}</li>
+    {% endfor %}
+      <li>See All</li>
+    </ul>
+
+  </div>
 
 
 </div>
