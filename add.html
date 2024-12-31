@@ -39,7 +39,7 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
 <body class="pa4 sans-serif mw8 center">
     <div class="flex mw8 center">
         <div class="w-50">
-            <form id="bookmarklet-form" class="pa4 black-80 bg-washed-green">
+            <form id="bookmarklet-form" class="pa4 black-80">
                 <div class="measure">
                     <label for="title" class="f6 b db mb2">Title:</label>
                     <input type="text" id="title" name="title" class="input-reset ba b--black-20 pa2 mb2 db w-100">
@@ -49,44 +49,31 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
                     <input type="text" id="link" name="link" class="input-reset ba b--black-20 pa2 mb2 db w-100">
                 </div>
                 <div class="measure">
-                    <label for="description" class="f6 b db mb2">Description:</label>
-                    <textarea id="description" name="description" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
-                </div>
-
-                <div class="measure">
-                    <label for="author" class="f6 b db mb2">Author:</label>
-                    <input type="text" id="author" name="author" class="input-reset ba b--black-20 pa2 mb2 db w-100">
-                </div>
-                <div class="measure">
-                    <label for="image" class="f6 b db mb2">Image URL:</label>
-                    <input type="text" id="image" name="image" class="input-reset ba b--black-20 pa2 mb2 db w-100">
-                </div>
-                <div class="measure">
-                    
-                </div>
+                    <label for="comments" class="f6 b db mb2">Comments:</label>
+                    <textarea id="comments" name="comments" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
+                </div>            
+    
             </form>
         </div>
-        <div class="w-50 pa4 black-80">
+        <div class="w-50 pa4 black-50 bg-light-gray">
             <div class="measure">
-                <label for="type" class="f6 b db mb2">Type:</label>
-                <select name="type" id="type">
-                    <option value="article">Article</option>
-                    <option value="paper">Paper</option>
-                    <option value="video">Video</option>
-                    <option value="podcast">Podcast</option>
-                    <option value="book">Book</option>
-                    <option value="course">Course</option>
-                    <option value="website">Website</option>
-                  </select>
+                <label for="description" class="f6 b db mb2">Description:</label>
+                <textarea id="description" name="description" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
+            </div>
+
+            <div class="measure">
+                <label for="author" class="f6 b db mb2">Author:</label>
+                <input type="text" id="author" name="author" class="input-reset ba b--black-20 pa2 mb2 db w-100">
+            </div>
+            <div class="measure">
+                <label for="image" class="f6 b db mb2">Image URL:</label>
+                <input type="text" id="image" name="image" class="input-reset ba b--black-20 pa2 mb2 db w-100">
             </div>
             <div class="measure">
                 <label for="tags" class="f6 b db mb2">Tags:</label>
                 <textarea id="tags" name="comments" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
             </div>            
-            <div class="measure">
-                <label for="comments" class="f6 b db mb2">Comments:</label>
-                <textarea id="comments" name="comments" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"></textarea>
-            </div>            
+
 
         </div>
     </div>
@@ -110,7 +97,6 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
             var comments = document.getElementById('comments').value;
             var author = document.getElementById('author').value;
             var image = document.getElementById('image').value;
-            var type = document.getElementById('type').value;
             var tags = document.getElementById('tags').value;
 
             var markdown = [
@@ -118,7 +104,6 @@ GPT thread: https://chat.openai.com/share/6b7b8b31-24ba-47be-8f4c-65d7d10aebb6
                 "layout: libraryitem",
                 "title: \"" + title + "\"",
                 "link: \"" + link + "\"",
-                "type: \"" + type + "\"",
                 "date_saved: " + new Date().toISOString().split('T')[0],
                 "tags: [ \"" + tags + "\" ]",
                 "author: \"" + author + "\"",
