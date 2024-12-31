@@ -11,72 +11,53 @@
 <script src="/js/fuse.min.js"></script>
 <script src="/js/library-search.js"></script>
 
-<div class="fixed bg-near-white h-100" style="margin-left:223px;width:223px">
-  Library
-</div>
-
-
-
 
 <div class="w-100 center mw8 ph0-l ph2">
-  
-<div class="flex justify-between">
-  <h2>Library</h2>
-  <div class="w-75 center">
-    <input type="text" id="search-box" placeholder="Search items..." class="w-100 center pa2 i br2 ma3" style="pointer-events: auto;">
-  </div>
+
+<div class="flex relative">
+
+<div class="fixed h-100 bg-light-gray" style="width:223px">
+  Library left nav
 </div>
 
-  
-  
+<div class="mr5-l mb5">
 
-<div class="flex-l ">
-  
-  <div class="mr5-l mb5">
-    <ul id="search-results"></ul>
-    <div id="main-content">
-    {% assign sortedlibrary = site.library | sort: 'date_saved' | reverse %}
-    {% for item in sortedlibrary %}
-    <div class="pv5 bb b--newgreen">
-    <div class="f4 b">{%if item.link %}<a class="black" href="{{item.link}}">{{item.title}}</a> <span class="pl2 fw4 f5 black-50">(<img class="mh1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{ item.link | split: "//" | last | split: "/" | first }})</span>{%else%}{{item.title}}{%endif%}</div>
-    
-    {%if item.content %}
-    <div class="pv2">
-      {{item.content}}
+  <div class="flex justify-between">
+    <h2>Library</h2>
+    <div class="w-75 center">
+      <input type="text" id="search-box" placeholder="Search items..." class="w-100 center pa2 i br2 ma3" style="pointer-events: auto;">
     </div>
-    {% endif %}
-
-    <div class="pv1">{% for tag in item.tags %}<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>{% endfor %}</div>
-    <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}} <a class="f6 pl2 newgreen b" href="{{item.url}}">#</a></div>
-    </div>
-    {% endfor %}
-    </div>  
-  </div>
-  
-
-  <div class="pt4-l top-1 self-start ml5-l" style="position:sticky">
-    
-    Pinned Views:
-    <ul>
-      <li>Music</li>
-      <li>Books</li>
-      <li>Links</li>
-    </ul>
-
-    Tags:
-    <ul>
-    {% for tag in tags %}
-      <li>{{tag}}</li>
-    {% endfor %}
-      <li>See All</li>
-    </ul>
-
   </div>
 
+  <ul id="search-results"></ul>
+  <div id="main-content">
+  {% assign sortedlibrary = site.library | sort: 'date_saved' | reverse %}
+  {% for item in sortedlibrary %}
+  <div class="pv5 bb b--newgreen">
+  <div class="f4 b">{%if item.link %}<a class="black" href="{{item.link}}">{{item.title}}</a> <span class="pl2 fw4 f5 black-50">(<img class="mh1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{ item.link | split: "//" | last | split: "/" | first }})</span>{%else%}{{item.title}}{%endif%}</div>
+  
+  {%if item.content %}
+  <div class="pv2">
+    {{item.content}}
+  </div>
+  {% endif %}
 
+  <div class="pv1">{% for tag in item.tags %}<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>{% endfor %}</div>
+  <div class="black-50 f6">{{item.date_saved | date: "%B %-d, %Y"}} <a class="f6 pl2 newgreen b" href="{{item.url}}">#</a></div>
+  </div>
+  {% endfor %}
+  </div>  
 </div>
 
+
+</div>  
+
+
+
+
   
+  
+
 
 
 
