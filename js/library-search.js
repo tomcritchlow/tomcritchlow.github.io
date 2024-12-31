@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Update the UI
         mainContent.style.display = "none"; // Hide main contents
         searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content } = result;
+            const { title, url, date, content } = result.item;
             return `
                 <li>
                     <a href="${url}" target="_blank"><strong>${title}</strong></a>
