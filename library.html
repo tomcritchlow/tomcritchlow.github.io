@@ -30,12 +30,16 @@
 
 <div class="flex relative">
 
-<div class="fixed h-100 bg-near-white navlinks br b--black-20">
+<div class="fixed h-100 bg-near-white navlinks br b--black-10 f7 fw6">
   Library left nav
 
   <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
     <i data-feather="music" class="h1 pr3"></i> <span class="navname">Music</span>
   </a>
+
+{% for tag in tags %}
+<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
+{% endfor %}
 
 </div>
 
