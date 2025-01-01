@@ -6,40 +6,60 @@ layout: none
 <html>
 <head>
   <title>Extracted Links</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+  </style>
 </head>
 <body>
-  <h1>Extracted Links from Posts</h1>
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <ul>
-          {% assign content = post.output %}
-          {% assign links = content | split:'href="' %}
-          {% for segment in links offset:1 %}
-            {% assign link = segment | split:'"' | first %}
-            <li><a href="{{ link }}">{{ link }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h1>Extracted Links from Library</h1>
-  <ul>
-    {% for post in site.library %}
-      <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <ul>
-          {% assign content = post.output %}
-          {% assign links = content | split:'href="' %}
-          {% for segment in links offset:1 %}
-            {% assign link = segment | split:'"' | first %}
-            <li><a href="{{ link }}">{{ link }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ul>
+  <h1>Extracted Links</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Link</th>
+        <th>Source Post</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.posts %}
+        {% assign content = post.output %}
+        {% assign links = content | split:'href="' %}
+        {% for segment in links offset:1 %}
+          {% assign link = segment | split:'"' | first %}
+          {% unless link contains 'http' %}
+          <tr>
+            <td><a href="{{ link }}">{{ link }}</a></td>
+            <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+            <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+          </tr>
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+      {% for post in site.library %}
+        {% assign content = post.output %}
+        {% assign links = content | split:'href="' %}
+        {% for segment in links offset:1 %}
+          {% assign link = segment | split:'"' | first %}
+          {% unless link contains 'http' %}
+          <tr>
+            <td><a href="{{ link }}">{{ link }}</a></td>
+            <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+            <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+          </tr>
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
 </body>
 </html>
