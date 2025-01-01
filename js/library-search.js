@@ -73,11 +73,11 @@ document.addEventListener("DOMContentLoaded", async () => {
         searchResults.innerHTML = results.map(result => {
             const { title, url, date, content } = result.item;
             return `
-                <li>
-                    <a href="${url}" target="_blank"><strong>${title}</strong></a>
-                    <p><small>${date}</small></p>
-                    <p>${content}</p>
-                </li>
+                <div class"bt bb bw1 b--black-10 pv2 w-100">
+                <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                <p><small>${date}</small></p>
+                <p>${content}</p>
+                </div>
             `;
         }).join("");
     };

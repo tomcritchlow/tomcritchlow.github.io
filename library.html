@@ -37,7 +37,7 @@
       <input type="text" id="search-box" placeholder="Search items e.g. tag:funk url:fb.com ..." class="w-100 center pa2 i br2 ma3 bw1 ba b--black-20" style="pointer-events: auto;">
     </div>
 
-  <ul id="search-results"></ul>
+  <div id="search-results"></div>
   <div id="main-content">
   {% assign sortedlibrary = site.library | sort: 'date_saved' | reverse %}
   {% for item in sortedlibrary %}
