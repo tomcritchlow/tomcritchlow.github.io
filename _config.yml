@@ -21,4 +21,4 @@ defaults:
   - scope:
       path: "/library/*"
     values:
-      layout: "library"      
+      layout: "libraryitem"      
