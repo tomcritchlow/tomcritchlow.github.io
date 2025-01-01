@@ -8,13 +8,14 @@ layout: none
   <title>Extracted Links</title>
   <style>
     table {
-      width: 100%;
+      width: 100vw;
       border-collapse: collapse;
     }
     th, td {
       border: 1px solid #ddd;
       padding: 8px;
-      width:30%;
+      width:200px;
+      text-overflow:ellipsis;
     }
     th {
       background-color: #f4f4f4;
@@ -54,6 +55,7 @@ layout: none
         {% assign links = content | split:'href="' %}
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
+          {% if link contains '://' %}
           {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link %}
                     <tr>
@@ -62,6 +64,7 @@ layout: none
             <td>{{ post.date | date: "%Y-%m-%d" }}</td>
           </tr>
           {% endunless %}
+          {% endif %}
         {% endfor %}
       {% endfor %}
     </tbody>
