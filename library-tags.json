@@ -1,0 +1,4 @@
+---
+---
+{% assign tags = site.library | map: 'tags' | join: ',' | split: ',' | uniq %}[{% for tag in tags %}{
+    "tag": {{tag | jsonify}}{% unless forloop.last %},{% endunless %}{% endfor %}]
