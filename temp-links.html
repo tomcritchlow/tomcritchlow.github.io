@@ -36,7 +36,8 @@ layout: none
         {% assign links = content | split:'href="' %}
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
-          {% unless link contains 'http' %}
+          {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
+{% unless link starts_with '/' or link contains 'tomcritchlow.com' or excluded_urls contains link %}
           <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
             <td><a href="{{ post.url }}">{{ post.title }}</a></td>
@@ -50,7 +51,8 @@ layout: none
         {% assign links = content | split:'href="' %}
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
-          {% unless link contains 'http' %}
+          {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
+          {% unless link starts_with '/' or link contains 'tomcritchlow.com' or excluded_urls contains link %}
           <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
             <td><a href="{{ post.url }}">{{ post.title }}</a></td>
