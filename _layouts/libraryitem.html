@@ -51,7 +51,7 @@
     {% endif %}
     
     <div class="pv1">{% for tag in page.tags %}<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
-    </div>
+    {% endfor %}</div>
     <div class="black-50 f6">{{page.date_saved | date: "%B %-d, %Y"}} <a class="f6 pl2 newgreen b" href="{{page.url}}">#</a></div>
     </div>
 
