@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     const mainContent = document.getElementById("main-content");
     const searchResults = document.getElementById("search-results");
 
-
     // Fetch the data
     const response = await fetch('/library-items.json');
     const libraryItems = await response.json();
@@ -17,6 +16,22 @@ document.addEventListener("DOMContentLoaded", async () => {
         ignoreFieldNorm: true,
         findAllMatches: true
     });
+
+    // Function to generate HTML for a single result item
+    const generateResultHTML = (item) => {
+        const { title, url, date, content, tags } = item;
+        const tagsHTML = tags && tags.length > 0
+            ? `<span class="tags">${tags.map(tag => `<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">${tag}</a>`).join(' ')}</span>`
+            : ''; // Generate HTML for tags, or leave empty if there are no tags
+
+        return `
+            <div class="pv2 w-100">
+                <a href="${url}"><strong>${title}</strong></a>
+                <div>${content}</div>
+                <div><small>${date}</small> ${tagsHTML}</div>
+            </div>
+        `;
+    };
 
     // Function to process custom operators
     const processQuery = (query) => {
@@ -51,18 +66,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Check for custom operators
         const customResults = processQuery(query);
 
+        mainContent.style.display = "none"; // Hide main contents
         if (customResults) {
-            mainContent.style.display = "none"; // Hide main contents
-            searchResults.innerHTML = customResults.map(item => {
-                const { title, url, date, content } = item;
-                return `
-                <div class"bt bb bw1 b--black-10 pv2 w-100">
-                <a href="${url}"><strong>${title}</strong></a>
-                <p><small>${date}</small></p>
-                <p>${content}</p>
-                </div>
-                `;
-            }).join("");
+            searchResults.innerHTML = customResults.map(generateResultHTML).join("");
             return;
         }
 
@@ -70,21 +76,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const results = fuse.search(query);
 
         // Update the UI
-        mainContent.style.display = "none"; // Hide main contents
-        searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content, tags } = result.item; // Destructure tags from the item
-            const tagsHTML = tags && tags.length > 0
-                ? `<span class="tags">${tags.map(tag => `<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">${tag}</a>`).join(' ')}</span>`
-                : ''; // Generate HTML for tags, or leave empty if there are no tags
-
-            return `
-                <div class="pv2 w-100">
-                    <a href="${url}"><strong>${title}</strong></a>
-                    <div>${content}</div>
-                    <div><small>${date}</small> ${tagsHTML}</div>
-                </div>
-            `;
-        }).join("");
+        searchResults.innerHTML = results.map(result => generateResultHTML(result.item)).join("");
     };
 
     // Update URL with the query parameter
