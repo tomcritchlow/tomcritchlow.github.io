@@ -14,53 +14,15 @@ layout: none
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <ul>
-          {% assign content = post.content %}
-          {% capture html_links %}{{ content | split:'href="' }}{% endcapture %}
-          {% for segment in html_links offset:1 %}
+          {% assign content = post.output %}
+          {% assign links = content | split:'href="' %}
+          {% for segment in links offset:1 %}
             {% assign link = segment | split:'"' | first %}
-            <li><a href="{{ link }}">{{ link }}</a> (HTML)</li>
-          {% endfor %}
-
-          {% capture markdown_links %}{{ content | split:'[' }}{% endcapture %}
-          {% for segment in markdown_links %}
-            {% if segment contains '](' %}
-              {% assign link_segment = segment | split:'](' | last %}
-              {% assign link = link_segment | split:')' | first %}
-              <li><a href="{{ link }}">{{ link }}</a> (Markdown)</li>
-            {% endif %}
+            <li><a href="{{ link }}">{{ link }}</a></li>
           {% endfor %}
         </ul>
       </li>
     {% endfor %}
   </ul>
-
-  <h1>Extracted Links from Posts</h1>
-  <ul>
-    {% for post in site.library %}
-      <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <ul>
-          {% assign content = post.content %}
-          {% capture html_links %}{{ content | split:'href="' }}{% endcapture %}
-          {% for segment in html_links offset:1 %}
-            {% assign link = segment | split:'"' | first %}
-            <li><a href="{{ link }}">{{ link }}</a> (HTML)</li>
-          {% endfor %}
-
-          {% capture markdown_links %}{{ content | split:'[' }}{% endcapture %}
-          {% for segment in markdown_links %}
-            {% if segment contains '](' %}
-              {% assign link_segment = segment | split:'](' | last %}
-              {% assign link = link_segment | split:')' | first %}
-              <li><a href="{{ link }}">{{ link }}</a> (Markdown)</li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ul>
-
-
-
 </body>
 </html>
