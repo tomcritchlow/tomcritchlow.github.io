@@ -74,15 +74,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         searchResults.innerHTML = results.map(result => {
             const { title, url, date, content, tags } = result.item; // Destructure tags from the item
             const tagsHTML = tags && tags.length > 0
-                ? `<div class="tags">${tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')}</div>`
+                ? `<span class="tags">${tags.map(tag => `<a href="" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">${tag}</a>`).join(' ')}</span>`
                 : ''; // Generate HTML for tags, or leave empty if there are no tags
 
             return `
                 <div class="pv2 w-100">
                     <a href="${url}" target="_blank"><strong>${title}</strong></a>
                     <div>${content}</div>
-                    <div><small>${date}</small></div>
-                    ${tagsHTML} <!-- Insert tags HTML here -->
+                    <div><small>${date}</small> ${tagsHTML}</div>
                 </div>
             `;
         }).join("");
