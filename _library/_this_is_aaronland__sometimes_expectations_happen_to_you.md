@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "[this is aaronland] sometimes expectations happen to you"
 link: "https://www.aaronland.info/weblog/2022/06/17/expectations/#usf"
 date_saved: 2024-12-31

@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "How the Light Gets In"
 link: "https://global.oup.com/academic/product/how-the-light-gets-in-9780199933983"
 date_saved: 2024-12-31

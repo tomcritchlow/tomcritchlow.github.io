@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "How we think about Threads’ iOS performance"
 link: "https://engineering.fb.com/2024/12/18/ios/how-we-think-about-threads-ios-performance/"
 date_saved: 2024-12-30

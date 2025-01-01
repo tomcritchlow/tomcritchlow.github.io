@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "2024 in review."
 link: "https://lethain.com/2024-in-review/"
 date_saved: 2024-12-30

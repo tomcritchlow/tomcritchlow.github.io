@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "Stories of Place as Regenerative Design Practice"
 link: "https://medium.com/colab-dudley/stories-of-place-as-regenerative-design-practice-5a3de58e7763"
 date_saved: 2024-12-31

@@ -1,5 +1,4 @@
 ---
-layout: libraryitem
 title: "Note to self: add bluesky comments to the blog"
 date_saved: 2024-12-30
 tags: [ "bsky", "comments" ]
