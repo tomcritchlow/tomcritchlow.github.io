@@ -37,13 +37,13 @@ layout: none
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
           {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
-
+          {% unless link contains 'tomcritchlow.com' or excluded_urls contains link %}
                     <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
             <td><a href="{{ post.url }}">{{ post.title }}</a></td>
             <td>{{ post.date | date: "%Y-%m-%d" }}</td>
           </tr>
-          
+          {% endunless %}
         {% endfor %}
       {% endfor %}
       {% for post in site.library %}
@@ -52,7 +52,7 @@ layout: none
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
           {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
-          {% unless link | slice: 0, 1 == '/' or link contains 'tomcritchlow.com' or excluded_urls contains link %}
+          {% unless link contains 'tomcritchlow.com' or excluded_urls contains link %}
                     <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
             <td><a href="{{ post.url }}">{{ post.title }}</a></td>
