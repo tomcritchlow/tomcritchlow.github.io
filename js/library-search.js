@@ -56,11 +56,11 @@ document.addEventListener("DOMContentLoaded", async () => {
             searchResults.innerHTML = customResults.map(item => {
                 const { title, url, date, content } = item;
                 return `
-                    <li>
-                        <a href="${url}" target="_blank"><strong>${title}</strong></a>
-                        <p><small>${date}</small></p>
-                        <p>${content}</p>
-                    </li>
+                <div class"bt bb bw1 b--black-10 pv2 w-100">
+                <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                <p><small>${date}</small></p>
+                <p>${content}</p>
+                </div>
                 `;
             }).join("");
             return;
@@ -72,12 +72,17 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Update the UI
         mainContent.style.display = "none"; // Hide main contents
         searchResults.innerHTML = results.map(result => {
-            const { title, url, date, content } = result.item;
+            const { title, url, date, content, tags } = result.item; // Destructure tags from the item
+            const tagsHTML = tags && tags.length > 0
+                ? `<div class="tags">${tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')}</div>`
+                : ''; // Generate HTML for tags, or leave empty if there are no tags
+
             return `
-                <div class"bt bb bw1 b--black-10 pv2 w-100">
-                <a href="${url}" target="_blank"><strong>${title}</strong></a>
-                <p><small>${date}</small></p>
-                <p>${content}</p>
+                <div class="pv2 w-100">
+                    <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                    <div>${content}</div>
+                    <div><small>${date}</small></div>
+                    ${tagsHTML} <!-- Insert tags HTML here -->
                 </div>
             `;
         }).join("");
