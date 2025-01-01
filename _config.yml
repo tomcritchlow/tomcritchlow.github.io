@@ -18,3 +18,7 @@ defaults:
       path: "/wiki/*"
     values:
       layout: "wiki"
+  - scope:
+      path: "/library/*"
+    values:
+      layout: "libraryitem"      
