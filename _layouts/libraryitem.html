@@ -47,6 +47,7 @@
         Page Description: {{page.description}}
     </div>
     {%endif%}
+
     {% if page.insights %}
     {% for insight in page.insights %}
     <blockquote class="quoteback" darkmode="" data-title="{{page.title}}" data-author="{% if page.author %}{{page.author}}{% endif %}" cite="{{page.link}}">
@@ -56,6 +57,11 @@
     {% endfor %}
     <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
     {% endif %}
+
+    {% if page.link contains "album.link" or page.link contains "song.link" %}
+    <iframe width="100%" height="150" src="https://embed.odesli.co/?url={{page.link}}" frameborder="0" allowtransparency allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox"></iframe>
+    {% endif %}
+
     {%if page.content %}
     <div class="pv2">
       {{page.content}}
