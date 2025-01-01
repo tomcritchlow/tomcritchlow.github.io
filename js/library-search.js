@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                 const { title, url, date, content } = item;
                 return `
                 <div class"bt bb bw1 b--black-10 pv2 w-100">
-                <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                <a href="${url}"><strong>${title}</strong></a>
                 <p><small>${date}</small></p>
                 <p>${content}</p>
                 </div>
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
             return `
                 <div class="pv2 w-100">
-                    <a href="${url}" target="_blank"><strong>${title}</strong></a>
+                    <a href="${url}"><strong>${title}</strong></a>
                     <div>${content}</div>
                     <div><small>${date}</small> ${tagsHTML}</div>
                 </div>

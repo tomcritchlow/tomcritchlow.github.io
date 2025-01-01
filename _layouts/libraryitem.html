@@ -47,6 +47,15 @@
         Page Description: {{page.description}}
     </div>
     {%endif%}
+    {% if page.insights %}
+    {% for insight in page.insights %}
+    <blockquote class="quoteback" darkmode="" data-title="{{page.title}}" data-author="{% if page.author %}{{page.author}}{% endif %}" cite="{{page.link}}">
+      {{insight}}
+      <footer><cite> <a href="{{page.link}}">{{page.link}}</a></cite></footer>
+      </blockquote>
+    {% endfor %}
+    <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+    {% endif %}
     {%if page.content %}
     <div class="pv2">
       {{page.content}}
