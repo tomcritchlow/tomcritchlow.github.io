@@ -2,15 +2,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const searchBox = document.getElementById("search-box");
     const mainContent = document.getElementById("main-content");
     const searchResults = document.getElementById("search-results");
-    
-    // Create the clear button
-    const clearButton = document.createElement("span");
-    clearButton.textContent = "X";
-    clearButton.style.display = "none"; // Initially hidden
-    clearButton.style.cursor = "pointer";
-    clearButton.style.marginLeft = "8px";
-    clearButton.style.fontWeight = "bold";
-    searchBox.parentNode.appendChild(clearButton);
+
 
     // Fetch the data
     const response = await fetch('/library-items.json');
@@ -107,15 +99,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         const query = event.target.value.trim();
         updateURL(query); // Update the URL with the search term
         performSearch(query); // Perform the search
-        clearButton.style.display = query ? "inline" : "none"; // Show or hide the clear button
-    });
-
-    // Event listener for clear button
-    clearButton.addEventListener("click", () => {
-        searchBox.value = ""; // Clear the search box
-        updateURL(""); // Remove the query from the URL
-        performSearch(""); // Clear the search results
-        clearButton.style.display = "none"; // Hide the clear button
     });
 
     // Check if a query parameter is present in the URL and perform a search
