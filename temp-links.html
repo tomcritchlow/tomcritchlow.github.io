@@ -43,7 +43,7 @@ layout: none
             <td><a href="{{ post.url }}">{{ post.title }}</a></td>
             <td>{{ post.date | date: "%Y-%m-%d" }}</td>
           </tr>
-          {% endunless %}
+          
         {% endfor %}
       {% endfor %}
       {% for post in site.library %}
