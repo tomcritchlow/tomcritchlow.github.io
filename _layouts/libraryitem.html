@@ -42,6 +42,11 @@
     <div class="pv5 bb b--newgreen">
     <div class="f4 b">{%if page.link %}<a class="black" href="{{page.link}}">{{page.title}}</a> <span class="pl2 fw4 f5 black-50">(<img class="mh1 v-mid" src="https://www.google.com/s2/favicons?domain={{page.link}}"> {{ page.link | split: "//" | last | split: "/" | first }})</span>{%else%}{{page.title}}{%endif%}</div>
     
+    {% if page.description %}
+    <div class="pv2 black-50 i">
+        Page Description: {{page.description}}
+    </div>
+    {%endif%}
     {%if page.content %}
     <div class="pv2">
       {{page.content}}
