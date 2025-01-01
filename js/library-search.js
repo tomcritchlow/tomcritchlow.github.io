@@ -111,6 +111,5 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (initialQuery) {
         searchBox.value = initialQuery; // Populate the search box with the query
         performSearch(initialQuery); // Perform the search
-        clearButton.style.display = "inline"; // Show the clear button
     }
 });
