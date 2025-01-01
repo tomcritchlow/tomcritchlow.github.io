@@ -24,5 +24,22 @@ layout: none
       </li>
     {% endfor %}
   </ul>
+
+  <h1>Extracted Links from Library</h1>
+  <ul>
+    {% for post in site.library %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <ul>
+          {% assign content = post.output %}
+          {% assign links = content | split:'href="' %}
+          {% for segment in links offset:1 %}
+            {% assign link = segment | split:'"' | first %}
+            <li><a href="{{ link }}">{{ link }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
 </body>
 </html>
