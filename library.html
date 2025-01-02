@@ -57,7 +57,7 @@
     <span class="dib dn-l">Tags: </span>
   {% for tag in tags | limit: 15 %}
   {% if tag != null and tag != "" %}
-  <a href="/library/?query=tag%3A{{tag}}" class="f6 dib db-l pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
+  <a href="/library/?query=tag%3A{{tag}}" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
   {% endif %}
   {% endfor %}
   </div>
