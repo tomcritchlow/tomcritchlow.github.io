@@ -33,7 +33,38 @@ layout: none
   </style>
 </head>
 <body>
-  <h1>Extracted Links</h1>
+    {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
+    {% assign all_links = "" | split: "" %}
+
+
+    {% for post in site.posts %}
+    {% assign content = post.output %}
+    {% assign links = content | split:'href="' %}
+    {% for segment in links offset:1 %}
+      {% assign link = segment | split:'"' | first %}
+      {% if link contains '://' %}
+      {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
+        {% assign all_links = all_links | push: link %}
+      {% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for post in site.library %}
+  {% assign content = post.output %}
+  {% assign links = content | split:'href="' %}
+  {% for segment in links offset:1 %}
+    {% assign link = segment | split:'"' | first %}
+    {% if link contains '://' %}
+    {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
+      {% assign all_links = all_links | push: link %}
+    {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+  <h1>Extracted Links ({{all_links.length}} links)</h1>
   <input type="text" id="searchBox" onkeyup="debouncedFilter()" placeholder="Search for links...">
   <table id="linksTable">
     <thead>
@@ -44,44 +75,17 @@ layout: none
       </tr>
     </thead>
     <tbody>
-      {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
-      {% assign all_links = "" | split: "" %}
-
-      {% for post in site.posts %}
-        {% assign content = post.output %}
-        {% assign links = content | split:'href="' %}
-        {% for segment in links offset:1 %}
-          {% assign link = segment | split:'"' | first %}
-          {% if link contains '://' %}
-          {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
-            {% assign all_links = all_links | push: link %}
-            <tr>
-              <td><a href="{{ link }}">{{ link }}</a></td>
-              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-              <td>{{ post.date | date: "%Y-%m-%d" }}</td>
-            </tr>
-          {% endunless %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-
-      {% for post in site.library %}
-        {% assign content = post.output %}
-        {% assign links = content | split:'href="' %}
-        {% for segment in links offset:1 %}
-          {% assign link = segment | split:'"' | first %}
-          {% if link contains '://' %}
-          {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
-            {% assign all_links = all_links | push: link %}
-            <tr>
-              <td><a href="{{ link }}">{{ link }}</a></td>
-              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-              <td>{{ post.date_saved | date: "%Y-%m-%d" }}</td>
-            </tr>
-          {% endunless %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
+   {% for link in all_links %}
+   <tr>
+    <td><a href="{{ link }}">{{ link }}</a></td>
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    {% if post.date_saved %}
+    <td>{{ post.date_saved | date: "%Y-%m-%d" }}</td>
+    {% else %}
+    <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+    {% endif %}
+  </tr>
+  {% endfor %}
     </tbody>
   </table>
 
