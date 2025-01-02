@@ -37,13 +37,13 @@
     </a>
   
     <div class="overflow-x-scroll">
-    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+    <a class="db-l flex-l items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
       <i data-feather="music" class="h1 pr3"></i> <span class="navname">Music</span>
     </a>
-    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+    <a class="db-l flex-l items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
       <i data-feather="book" class="h1 pr3"></i> <span class="navname">Books</span>
     </a>
-    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+    <a class="db-l flex-l items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
       <i data-feather="link-2" class="h1 pr3"></i> <span class="navname">Links</span>
     </a>
   </div>
@@ -54,14 +54,13 @@
       Tags
     </div>
   
-  <div class="pa3">
+  <div class="pa3 overflow-x-scroll nowrap">
   {% for tag in tags | limit: 15 %}
   {% if tag != null and tag != "" %}
   <a href="/library/?query=tag%3A{{tag}}" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
   {% endif %}
   {% endfor %}
   </div>
-  
   </div>
 
 <div class="mh5-l mb5 mainlinks w-100">
