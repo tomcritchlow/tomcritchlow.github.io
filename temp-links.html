@@ -72,29 +72,32 @@ layout: none
       {% endfor %}
     ];
 
-  // Initialize Grid.js
-new gridjs.Grid({
-  columns: [
-    {
-      name: 'Link',
-      formatter: (cell) =>
-        gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`),
-    },
-    {
-      name: 'Source Post',
-      formatter: (_, row) =>
-        gridjs.html(`<a href="${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
-    },
-    { name: 'Date' },
-  ],
-  data: tableData.map(row => [row[0], row[1], row[2], row[3]]).map(row => [row[0], row[1], row[3]]), // Adjusted to remove source URL from visible data
-  search: true,
-  pagination: {
-    enabled: true,
-    limit: 100,
-  },
-  sort: true,
-}).render(document.getElementById('grid'));
+ // Initialize Grid.js
+ new gridjs.Grid({
+      columns: [
+        {
+          name: 'Link',
+          formatter: (cell) =>
+            gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`),
+        },
+        {
+          name: 'Source Post',
+          formatter: (_, row) =>
+            gridjs.html(`<a href="${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
+        },
+        {
+          name: 'Date',
+          formatter: (_, row) => row.cells[3].data, // Explicitly use the date field
+        },
+      ],
+      data: tableData.map(row => [row[0], row[1], row[2], row[3]]), // Include all necessary data
+      search: true,
+      pagination: {
+        enabled: true,
+        limit: 100,
+      },
+      sort: true,
+    }).render(document.getElementById('grid'));
 
   </script>
 </body>
