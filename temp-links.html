@@ -100,10 +100,6 @@ layout: none
             const date = row.cells[3] && row.cells[3].data ? row.cells[3].data : 'No Date Available';
             return gridjs.html(`${date}`);
           },
-          sort: {
-              enabled: true,
-              direction: 'desc' // Default sort by descending order
-            }
         }
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
