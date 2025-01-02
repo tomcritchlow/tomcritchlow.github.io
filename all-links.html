@@ -1,11 +1,15 @@
 ---
-layout: none
 ---
+{% assign tags = site.library | map: 'tags' | join: ',' | split: ',' | uniq %}
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Extracted Links</title>
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include 2024-nav.html %}
+
+{% include library-header.html}
+
   <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet">
   <style>
@@ -22,8 +26,7 @@ layout: none
       width: 350px; /* Set desired max width */
     }
   </style>
-</head>
-<body>
+
   <h1>Extracted Links</h1>
   <div id="grid"></div>
 
@@ -111,5 +114,5 @@ layout: none
       sort: true,
     }).render(document.getElementById('grid'));
   </script>
-</body>
-</html>
+
+{% include 2024-footer.html %}
