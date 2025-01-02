@@ -41,12 +41,12 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            [
-              "{{ link }}",
-              "{{ post.title | escape }}",
-              "{{ post.url | absolute_url }}",
-              "{{ post.date | date: '%Y-%m-%d' }}"
-            ],
+            {
+              link: "{{ link }}",
+              sourcePost: "{{ post.title | escape }}",
+              sourceUrl: "{{ post.url | absolute_url }}",
+              date: "{{ post.date | date: '%Y-%m-%d' }}"
+            },
           {% endunless %}
           {% endif %}
         {% endfor %}
@@ -60,20 +60,20 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            [
-              "{{ link }}",
-              "{{ post.title | escape }}",
-              "{{ post.url | absolute_url }}",
-              "{{ post.date_saved | date: '%Y-%m-%d' }}"
-            ],
+            {
+              link: "{{ link }}",
+              sourcePost: "{{ post.title | escape }}",
+              sourceUrl: "{{ post.url | absolute_url }}",
+              date: "{{ post.date_saved | date: '%Y-%m-%d' }}"
+            },
           {% endunless %}
           {% endif %}
         {% endfor %}
       {% endfor %}
     ];
 
- // Initialize Grid.js
- new gridjs.Grid({
+    // Initialize Grid.js
+    new gridjs.Grid({
       columns: [
         {
           name: 'Link',
@@ -82,14 +82,12 @@ layout: none
         },
         {
           name: 'Source Post',
-          formatter: (_, row) =>
-            gridjs.html(`<a href="${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
+          formatter: (cell, row) =>
+            gridjs.html(`<a href="${row.cells[2]}" target="_blank">${cell}</a>`),
         },
-        {
-          name: 'Date',
-          formatter: (_, row) => row.cells[3].data, // Explicitly use the date field
-        },
+        { name: 'Date' },
       ],
+      data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
       search: true,
       pagination: {
         enabled: true,
@@ -97,7 +95,6 @@ layout: none
       },
       sort: true,
     }).render(document.getElementById('grid'));
-
   </script>
 </body>
 </html>
