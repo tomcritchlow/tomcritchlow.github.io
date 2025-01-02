@@ -12,6 +12,15 @@ layout: none
     #grid {
       margin: 20px;
     }
+    .gridjs-th, .gridjs-td {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .gridjs-td a {
+      display: block;
+      width: 250px; /* Set desired max width */
+    }
   </style>
 </head>
 <body>
@@ -69,6 +78,7 @@ layout: none
         { name: 'Date' }
       ],
       data: tableData,
+      fixedHeader: true,
       search: true,
       pagination: false,
       sort: true,
