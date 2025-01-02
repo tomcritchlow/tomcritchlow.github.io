@@ -85,7 +85,11 @@ layout: none
           formatter: (cell, row) =>
             gridjs.html(`<a href="${row.cells[2]}" target="_blank">${cell}</a>`),
         },
-        { name: 'Date' },
+        {
+          name: 'Date',
+          formatter: (cell, row) =>
+            gridjs.html(`${row.cells[4]}`),
+        },
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
       search: true,
