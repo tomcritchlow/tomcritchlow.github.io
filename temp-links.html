@@ -80,7 +80,10 @@ layout: none
       data: tableData,
       fixedHeader: true,
       search: true,
-      pagination: false,
+      pagination: {
+        enabled: true,
+        limit: 100
+      },
       sort: true,
     }).render(document.getElementById('grid'));
   </script>
