@@ -95,12 +95,12 @@ layout: none
             // Check if the cell exists and has valid data
             const date = row.cells[3] && row.cells[3].data ? row.cells[3].data : 'No Date Available';
             return gridjs.html(`${date}`);
-            sort: {
+          },
+          sort: {
               enabled: true,
               direction: 'desc' // Default sort by descending order
-            },
-          },
-        },
+            }
+        }
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
       search: true,
