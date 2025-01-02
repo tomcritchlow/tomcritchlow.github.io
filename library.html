@@ -49,12 +49,12 @@
     
     <hr class="mh2 mv4 b--black-10 dn db-l">
   
-    <div class="db flex items-center mh3 pa2 black br3 ttu">
+    <div class="dn db-l flex items-center mh3 pa2 black br3 ttu">
       Tags
     </div>
   
   <div class="pa3 overflow-x-scroll nowrap">
-    <span class="db dn-l">Tags: </span>
+    <span class="dib dn-l">Tags: </span>
   {% for tag in tags | limit: 15 %}
   {% if tag != null and tag != "" %}
   <a href="/library/?query=tag%3A{{tag}}" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
