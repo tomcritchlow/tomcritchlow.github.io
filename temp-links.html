@@ -6,46 +6,21 @@ layout: none
 <html>
 <head>
   <title>Extracted Links</title>
+  <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet">
   <style>
-    table {
-      width: 100vw;
-      border-collapse: collapse;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      width: 200px;
-      text-overflow: ellipsis;
-      word-break: break-all;
-    }
-    th {
-      background-color: #f4f4f4;
-    }
-    #searchBox {
-      margin-bottom: 10px;
-      padding: 8px;
-      width: 98%;
-      font-size: 16px;
-    }
-    .hidden {
-      display: none;
+    #grid {
+      margin: 20px;
     }
   </style>
 </head>
 <body>
-
-
   <h1>Extracted Links</h1>
-  <input type="search" id="searchBox" onkeyup="debouncedFilter()" placeholder="Search for links...">
-  <table id="linksTable">
-    <thead>
-      <tr>
-        <th>Link</th>
-        <th>Source Post</th>
-        <th>Date</th>
-      </tr>
-    </thead>
-    <tbody>
+  <div id="grid"></div>
+
+  <script>
+    // Collect data from Liquid-generated variables
+    const tableData = [
       {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
       {% assign all_links = "" | split: "" %}
 
@@ -57,11 +32,7 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            <tr>
-              <td><a href="{{ link }}">{{ link }}</a></td>
-              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-              <td>{{ post.date | date: "%Y-%m-%d" }}</td>
-            </tr>
+            ["{{ link }}", "{{ post.title }}", "{{ post.date | date: '%Y-%m-%d' }}"],
           {% endunless %}
           {% endif %}
         {% endfor %}
@@ -75,59 +46,28 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            <tr>
-              <td><a href="{{ link }}">{{ link }}</a></td>
-              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-              <td>{{ post.date_saved | date: "%Y-%m-%d" }}</td>
-            </tr>
+            ["{{ link }}", "{{ post.title }}", "{{ post.date_saved | date: '%Y-%m-%d' }}"],
           {% endunless %}
           {% endif %}
         {% endfor %}
       {% endfor %}
-    </tbody>
-  </table>
+    ];
 
-  <script>
-    let rows;
-
-    // Initialize rows and debounce the filter function
-    document.addEventListener('DOMContentLoaded', () => {
-      rows = Array.from(document.querySelectorAll('#linksTable tbody tr'));
-    });
-
-    function debounce(func, wait) {
-      let timeout;
-      return function (...args) {
-        clearTimeout(timeout);
-        timeout = setTimeout(() => func.apply(this, args), wait);
-      };
-    }
-
-    const debouncedFilter = debounce(filterTable, 200);
-
-    function filterTable() {
-      const input = document.getElementById('searchBox');
-      const filter = input.value.toLowerCase();
-      const batchSize = 100;
-      let index = 0;
-
-      function processBatch() {
-        const batch = rows.slice(index, index + batchSize);
-
-        batch.forEach(row => {
-          const cells = Array.from(row.getElementsByTagName('td'));
-          const matches = cells.some(cell => cell.innerText.toLowerCase().includes(filter));
-          row.classList.toggle('hidden', !matches);
-        });
-
-        index += batchSize;
-        if (index < rows.length) {
-          requestAnimationFrame(processBatch);
-        }
-      }
-
-      requestAnimationFrame(processBatch);
-    }
+    // Initialize Grid.js
+    new gridjs.Grid({
+      columns: [
+        { name: 'Link', formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`) },
+        { name: 'Source Post' },
+        { name: 'Date' }
+      ],
+      data: tableData,
+      search: true,
+      pagination: {
+        enabled: true,
+        limit: 10
+      },
+      sort: true,
+    }).render(document.getElementById('grid'));
   </script>
 </body>
 </html>
