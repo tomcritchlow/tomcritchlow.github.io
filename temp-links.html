@@ -87,8 +87,11 @@ layout: none
         },
         {
           name: 'Date',
-          formatter: (_, row) =>
-            gridjs.html(`${row.cells[3].data}`),
+          formatter: (_, row) => {
+            // Check if the cell exists and has valid data
+            const date = row.cells[3] && row.cells[3].data ? row.cells[3].data : 'No Date Available';
+            return gridjs.html(`${date}`);
+          },
         },
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
