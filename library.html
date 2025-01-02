@@ -31,6 +31,39 @@
 
 <div class="flex-l relative">
 
+  <div class="fixed-l h-100 bg-near-white navlinks br b--black-10 f7 fw6">
+    <a class="db-l dn  items-center ma2 ph3  pa2 mv3 link fw8 f6 br3 newgreen" href="/library">
+      LIBRARY
+    </a>
+  
+    <div class="overflow-x-scroll">
+    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+      <i data-feather="music" class="h1 pr3"></i> <span class="navname">Music</span>
+    </a>
+    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+      <i data-feather="book" class="h1 pr3"></i> <span class="navname">Books</span>
+    </a>
+    <a class="db-l flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
+      <i data-feather="link-2" class="h1 pr3"></i> <span class="navname">Links</span>
+    </a>
+  </div>
+    
+    <hr class="mh2 mv4 b--black-10 dn db-l">
+  
+    <div class="db flex items-center mh3 pa2 black br3 ttu">
+      Tags
+    </div>
+  
+  <div class="pa3">
+  {% for tag in tags | limit: 15 %}
+  {% if tag != null and tag != "" %}
+  <a href="/library/?query=tag%3A{{tag}}" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
+  {% endif %}
+  {% endfor %}
+  </div>
+  
+  </div>
+
 <div class="mh5-l mb5 mainlinks w-100">
 
     <div class="w-100 center flex">
@@ -62,36 +95,7 @@
   </div>  
 </div>
 
-<div class="fixed-l h-100 bg-near-white navlinks br b--black-10 f7 fw6">
-  <a class="db-l dn  items-center ma2 ph3  pa2 mv3 link fw8 f6 br3 newgreen" href="/library">
-    LIBRARY
-  </a>
 
-  <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
-    <i data-feather="music" class="h1 pr3"></i> <span class="navname">Music</span>
-  </a>
-  <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
-    <i data-feather="book" class="h1 pr3"></i> <span class="navname">Books</span>
-  </a>
-  <a class="db flex items-center mh3 pa2 bg-animate hover-bg-white link black br3 ttu" id="" href="">
-    <i data-feather="link-2" class="h1 pr3"></i> <span class="navname">Links</span>
-  </a>
-  
-  <hr class="mh2 mv4 b--black-10">
-
-  <div class="db flex items-center mh3 pa2 black br3 ttu">
-    Tags
-  </div>
-
-<div class="pa3">
-{% for tag in tags | limit: 15 %}
-{% if tag != null and tag != "" %}
-<a href="/library/?query=tag%3A{{tag}}" class="f6 dib pa2 mr2 bg-light-gray newgreen b br2 link">{{tag}}</a>
-{% endif %}
-{% endfor %}
-</div>
-
-</div>
 
 
 </div>  
