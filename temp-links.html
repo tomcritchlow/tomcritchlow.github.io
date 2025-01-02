@@ -16,6 +16,7 @@ layout: none
       padding: 8px;
       width:200px;
       text-overflow:ellipsis;
+      word-break: break-all;
     }
     th {
       background-color: #f4f4f4;
@@ -33,13 +34,14 @@ layout: none
       </tr>
     </thead>
     <tbody>
+        {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
+
       {% for post in site.posts %}
         {% assign content = post.output %}
         {% assign links = content | split:'href="' %}
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
           {% if link contains '://' %}
-          {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link %}
                     <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
@@ -56,7 +58,6 @@ layout: none
         {% for segment in links offset:1 %}
           {% assign link = segment | split:'"' | first %}
           {% if link contains '://' %}
-          {% assign excluded_urls = "twitter.com/tomcritchlow,linkedin.com/in/tomcritchlow,github.com/tomcritchlow" | split: ',' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link %}
                     <tr>
             <td><a href="{{ link }}">{{ link }}</a></td>
