@@ -32,7 +32,11 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            ["{{ link }}", "{{ post.title }}", "{{ post.date | date: '%Y-%m-%d' }}"],
+            [
+              "{{ link }}",
+              "{{ post.title | escape }}",
+              "{{ post.date | date: '%Y-%m-%d' }}"
+            ],
           {% endunless %}
           {% endif %}
         {% endfor %}
@@ -46,7 +50,11 @@ layout: none
           {% if link contains '://' %}
           {% unless link contains 'tomcritchlow.com' or excluded_urls contains link or all_links contains link %}
             {% assign all_links = all_links | push: link %}
-            ["{{ link }}", "{{ post.title }}", "{{ post.date_saved | date: '%Y-%m-%d' }}"],
+            [
+              "{{ link }}",
+              "{{ post.title | escape }}",
+              "{{ post.date_saved | date: '%Y-%m-%d' }}"
+            ],
           {% endunless %}
           {% endif %}
         {% endfor %}
