@@ -27,11 +27,14 @@ layout: none
       width: 98%;
       font-size: 16px;
     }
+    .hidden {
+      display: none;
+    }
   </style>
 </head>
 <body>
   <h1>Extracted Links</h1>
-  <input type="text" id="searchBox" onkeyup="filterTable()" placeholder="Search for links...">
+  <input type="text" id="searchBox" onkeyup="debouncedFilter()" placeholder="Search for links...">
   <table id="linksTable">
     <thead>
       <tr>
@@ -83,25 +86,45 @@ layout: none
   </table>
 
   <script>
+    let rows;
+
+    // Initialize rows and debounce the filter function
+    document.addEventListener('DOMContentLoaded', () => {
+      rows = Array.from(document.querySelectorAll('#linksTable tbody tr'));
+    });
+
+    function debounce(func, wait) {
+      let timeout;
+      return function (...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), wait);
+      };
+    }
+
+    const debouncedFilter = debounce(filterTable, 200);
+
     function filterTable() {
       const input = document.getElementById('searchBox');
       const filter = input.value.toLowerCase();
-      const table = document.getElementById('linksTable');
-      const rows = table.getElementsByTagName('tr');
+      const batchSize = 100;
+      let index = 0;
 
-      for (let i = 1; i < rows.length; i++) {
-        const cells = rows[i].getElementsByTagName('td');
-        let rowContainsFilter = false;
+      function processBatch() {
+        const batch = rows.slice(index, index + batchSize);
 
-        for (let j = 0; j < cells.length; j++) {
-          if (cells[j] && cells[j].innerText.toLowerCase().includes(filter)) {
-            rowContainsFilter = true;
-            break;
-          }
+        batch.forEach(row => {
+          const cells = Array.from(row.getElementsByTagName('td'));
+          const matches = cells.some(cell => cell.innerText.toLowerCase().includes(filter));
+          row.classList.toggle('hidden', !matches);
+        });
+
+        index += batchSize;
+        if (index < rows.length) {
+          requestAnimationFrame(processBatch);
         }
-
-        rows[i].style.display = rowContainsFilter ? '' : 'none';
       }
+
+      requestAnimationFrame(processBatch);
     }
   </script>
 </body>
