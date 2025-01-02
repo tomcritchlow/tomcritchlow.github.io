@@ -29,8 +29,9 @@ layout: none
 
   <script>
     // Collect data from Liquid-generated variables
-    const tableData = [
-      {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
+    {% capture json_data %}
+    [
+    {% assign excluded_urls = "https://twitter.com/tomcritchlow/,https://www.linkedin.com/in/tomcritchlow/,https://www.are.na/tom-critchlow/index,https://calendly.com/tomcritchlow," | split: ',' %}
       {% assign all_links = "" | split: "" %}
 
       {% for post in site.posts %}
@@ -70,7 +71,10 @@ layout: none
           {% endif %}
         {% endfor %}
       {% endfor %}
-    ];
+    ]
+    {% endcapture %}
+    
+    const tableData = {{ json_data | strip_newlines | strip }};
 
     // Initialize Grid.js
     new gridjs.Grid({
