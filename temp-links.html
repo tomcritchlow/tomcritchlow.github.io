@@ -83,12 +83,12 @@ layout: none
         {
           name: 'Source Post',
           formatter: (_, row) =>
-            gridjs.html(`<a href="${row.sourceUrl}" target="_blank">${row.sourcePost}</a>`),
+            gridjs.html(`<a href="${row[2]]}" target="_blank">${row.sourcePost}</a>`),
         },
         {
           name: 'Date',
           formatter: (_, row) =>
-            gridjs.html(`${row.cells[3].data}`),
+            gridjs.html(`${row[3].data}`),
         },
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
