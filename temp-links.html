@@ -44,6 +44,7 @@ layout: none
             [
               "{{ link }}",
               "{{ post.title | escape }}",
+              "{{ post.url | absolute_url }}",
               "{{ post.date | date: '%Y-%m-%d' }}"
             ],
           {% endunless %}
@@ -62,6 +63,7 @@ layout: none
             [
               "{{ link }}",
               "{{ post.title | escape }}",
+              "{{ post.url | absolute_url }}",
               "{{ post.date_saved | date: '%Y-%m-%d' }}"
             ],
           {% endunless %}
@@ -73,17 +75,23 @@ layout: none
     // Initialize Grid.js
     new gridjs.Grid({
       columns: [
-        { name: 'Link', formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`) },
-        { name: 'Source Post' },
-        { name: 'Date' }
+        {
+          name: 'Link',
+          formatter: (cell) =>
+            gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`),
+        },
+        {
+          name: 'Source Post',
+          formatter: (_, row) =>
+            gridjs.html(`<a href="${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
+        },
+        { name: 'Date' },
       ],
-      data: tableData,
-      fixedHeader: true,
-      height: '400px',
+      data: tableData.map(row => [row[0], row[1], row[2], row[3]]),
       search: true,
       pagination: {
         enabled: true,
-        limit: 100
+        limit: 100,
       },
       sort: true,
     }).render(document.getElementById('grid'));
