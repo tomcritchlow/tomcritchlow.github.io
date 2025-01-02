@@ -5,7 +5,7 @@ date_saved: 2025-01-02
 tags: ["conversations"]
 author: "Alexis Madrigal"
 image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1832669-6d39-4ebf-a13c-f5a688df0f8b_3021x1932.png"
-description: ""every person on this earth is a monstrously huge landscape, and yet, we can drop into any of it with a simple incantation, the right string of words piped through this sparse interface""
+description: "every person on this earth is a monstrously huge landscape, and yet, we can drop into any of it with a simple incantation, the right string of words piped through this sparse interface"
 ---
 
 Lovely thoughts on conversations, especially with those you've known for a long time. Rhymes with [Good Conversations Have Doorknobs](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs).
