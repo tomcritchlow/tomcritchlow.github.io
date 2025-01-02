@@ -88,7 +88,7 @@ layout: none
         {
           name: 'Date',
           formatter: (_, row) =>
-            gridjs.html(`${row.date}`),
+            gridjs.html(`${row.[4]}`),
         },
       ],
       data: tableData.map(row => [row.link, row.sourcePost, row.sourceUrl, row.date]),
