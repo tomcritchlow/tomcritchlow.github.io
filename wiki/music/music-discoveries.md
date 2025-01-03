@@ -3,7 +3,6 @@ title: Music Discoveries
 layout: wikibook
 pinned: true
 books:
-
  - title: Ólafur Arnalds live from Hafursey, in Iceland for Cercle
    author: Ólafur Arnalds
    image: 

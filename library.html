@@ -1,6 +1,6 @@
 ---
 ---
-{% assign tags = site.library | map: 'tags' | join: ',' | split: ',' | uniq %}
+{% assign tags = site.library | map: 'tags' | compact | join: ',' | split: ',' | uniq %}
 
 {% include head.html %}
 
