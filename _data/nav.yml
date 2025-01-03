@@ -8,9 +8,9 @@ main_links:
   - name: Writing
     feathericon: rss
     url: "/writing"
-  - name: Wiki
+  - name: Library
     feathericon: layers
-    url: "/wiki"    
+    url: "/library"    
   - name: Newsletter
     feathericon: mail
     url: "/newsletter"    
