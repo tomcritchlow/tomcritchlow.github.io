@@ -179,7 +179,7 @@ books:
  - title: Dune
    author: Frank Herbert
    link: https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717
-   date_finished: 11/31/2020
+   date_finished: 11/30/2020
    notes: Started reading this while traveling through Utah and Arizona to get a feel for desert living. I enjoyed the book but definitely didn't feel like it lived up to the hype. Inventive but the characters felt a little stale.
  - title: "Working in Public: The Making and Maintenance of Open Source Software"
    author: Nadia Eghbal
