@@ -1,7 +1,7 @@
 ---
 title: "Dune"
 link: "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717"
-date_saved: Unknown
+date_saved: 2023-11-30
 tags: ["books"]
 author: "Frank Herbert"
 image: ""
