@@ -22,7 +22,7 @@
     {% for item in sortedlibrary %}
     <div class="pv4 flex-l bb b--black-10">
       <div class="w-75-l pr4-l">
-        <div class="f4 b">{%if item.link %}<a class="black" href="{{item.link}}">{{item.title}}</a> <br><span class="pl2 fw4 f5 black-50">(<img class="mh1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{ item.link | split: "//" | last | split: "/" | first }})</span>{%else%}{{item.title}}{%endif%}</div>
+        <div class="f4 b">{%if item.link %}<a class="black" href="{{item.link}}">{{item.title}}</a> <br><span class="fw4 f5 black-50">(<img class="mh1 v-mid" src="https://www.google.com/s2/favicons?domain={{item.link}}"> {{ item.link | split: "//" | last | split: "/" | first }})</span>{%else%}{{item.title}}{%endif%}</div>
         
         {%if item.content %}
         <div class="pv2">
