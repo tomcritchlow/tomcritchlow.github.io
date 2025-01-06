@@ -1,6 +1,6 @@
 ---
 ---
-[{% for item in site.library | sort: 'item.date_saved' | reverse %}{
+[{% for item in site.library | sort: 'title' | reverse %}{
     "title": {{item.title | jsonify}},
     "url": {{ item.url | prepend: site.baseurl | prepend: site.url | jsonify }},
     "link": {{ item.link | jsonify }},
