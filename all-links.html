@@ -82,7 +82,7 @@
     {% endcapture %}
     
     const unsortedtableData = {{ json_data | strip_newlines | strip }};
-    const tableData = unsortedtableData.sort((a, b) => new Date(a.date) - new Date(b.date));
+    const tableData = unsortedtableData.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     // Initialize Grid.js
     new gridjs.Grid({
