@@ -17,21 +17,7 @@ main_links:
   - name: Search
     feathericon: search
     url: "/search"        
-groups:
-  - group_name: Blog
-    links:
-      - name: Start here
-        feathericon: play-circle
-        url: "/start-here"
-      - name: Latest
-        feathericon: calendar
-        url: "/writing"
-      - name: Topics
-        feathericon: folder
-        url: "/topics" 
-      - name: Map
-        feathericon: compass
-        url: "/map"                
+groups:            
   - group_name: Hire me
     links:
       - name: Consulting
