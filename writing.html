@@ -1,7 +1,12 @@
 ---
-layout: blog
-title: Latest Writing
 ---
+{% assign tags = site.library | map: 'tags' | compact | join: ',' | split: ',' | uniq %}
+
+{% include head.html %}
+
+{% include googleanalytics.html %}
+
+{% include 2024-nav.html %}
 
 </div>
 
