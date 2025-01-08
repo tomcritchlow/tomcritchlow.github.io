@@ -2,7 +2,7 @@
 title: "On Moss, Rock, Lichen, and Survival"
 link: "https://buttondown.com/theswordandthesandwich/archive/on-moss-rock-lichen-and-survival/"
 date_saved: 2025-01-08
-tags: [""]
+tags: ["lichen"]
 author: "Talia Lavin"
 image: "https://assets.buttondown.email/images/05548478-5b6d-4776-a6b6-f760cd8ee3df.jpeg"
 description: "“Moss. Roots” by Ivan Shishkin Lately, I’ve been looking at the life cycle of moss. I found myself instantly lost in a thicket of botanical terminology—from..."
