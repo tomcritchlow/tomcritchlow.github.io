@@ -1,28 +1,36 @@
 <style>
-#nav{
-    width:223px;
-    height:100vh;
+  #nav {
+      display:none
   }
 
-  #maincontent{
-    margin-left:223px;
+  #maincontent {
+      margin-left:0;
   }
 
-  @media (max-width: 1024px) {
-      #nav{
-          width:100%;
+  #topbar {
+       display:block
+  }
+
+  @media screen and (min-width: 60em)  {
+      #nav {
+          display:block;
+          width:223px;
       }
 
-      #maincontent{
-          margin-left:auto;
+      #maincontent {
+          margin-left:223px;
+      }
+
+      #topbar {
+          display:none
       }
   }
 </style>
 
 
-<div class="dn-l db w-100 pa3 bg-near-white z-1" style="position:sticky;top:0px">
+<div id="topbar" class="dn-l db w-100 pa3 bg-near-white z-1" style="position:sticky;top:0px">
     <a class="link dim dark-gray f6 f5-l dib ttu pt2 pt0-l dtc-l v-mid newgreen b" href="/" title="Home">TOM CRITCHLOW</a>
-    <div class="fr dib dn-l pt1">    
+    <div class="fr dib dn-l pt1">
         <div id="hamburger" class="hamburger hamburger--squeeze">
                 <div class="hamburger-box">
                   <div class="hamburger-inner"></div>
@@ -38,7 +46,7 @@
 
     
 
-    <div id="nav" class="w5 bg-near-white f7 fw6 br-l bt-0-l bb-0-l bt bb b--black-10 fixed dn db-l top-0-l left-0 overflow-y-scroll z-1 pt2 pt0-l">
+    <div id="nav" class="w5 bg-near-white f7 fw6 br-l bt-0-l bb-0-l bt bb b--black-10 fixed dn db-l top-0-l left-0 overflow-y-scroll z-1 pt2 pt0-l h-100 w-100">
       
       
       
@@ -149,7 +157,3 @@ addClassBasedOnUrlWithSwitch();
 
     <div class="w-100 h-100" id="maincontent">
       <div class="mw8 center w-100 h-100">
-        
-    
-        
-    
