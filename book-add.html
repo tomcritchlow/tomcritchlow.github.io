@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+    <!-- import the webpage's javascript file -->
+    <script>
+        /* If you're feeling fancy you can add interactivity 
+    to your site with Javascript */
+
+// prints "hi" in the browser's dev tools console
+console.log("hi");
+
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, "0");
+var mm = String(today.getMonth() + 1).padStart(2, "0"); //January is 0!
+var yyyy = today.getFullYear();
+
+today = mm + "/" + dd + "/" + yyyy;
+document.write(today);
+
+var jsondata;
+
+$("#search").change(function() {
+  $("#bookcovers").empty();
+  var keyword = $("#search").val();
+  var url = "https://openlibrary.org/search.json?q=" + encodeURI(keyword);
+  $.getJSON(url, function(data) {
+    console.log(data.docs);
+    jsondata = data;
+    data.docs
+      .slice(0, 10)
+      .forEach(element =>
+        $("#bookcovers").append(
+          "<div class='bookdiv db pa4 center mw5 black'><span class='booktitle'>" +
+            element.title +
+            "</span> by <span class='bookauthor'>" +
+            element.author_name[0] +
+            "</span><img src='https://covers.openlibrary.org/b/id/" +
+            element.cover_i +
+            "-L.jpg' /></a><a class='booklink' href='https://openlibrary.org" +
+            element.key +
+            "'>OpenLibrary</a><a class='select' href='#'>Select</a><a class='loadmore' href='#'>Load more</a></div>"
+        )
+      );
+  });
+});
+
+$("body").on("click", ".select", function(event) {
+  $("#generator").empty();
+  doyaml(this);
+});
+
+$("button").click(function() {
+  $("textarea").select();
+  document.execCommand("copy");
+});
+
+$("body").on("click", ".loadmore", function(event) {
+  var count = $(".loadmore").index(this);
+
+  var title = $(this)
+    .parent()
+    .find(".booktitle")
+    .text();
+
+  var author = $(this)
+    .parent()
+    .find(".bookauthor")
+    .text();
+
+  var link = $(this)
+    .parent()
+    .find(".booklink")
+    .attr("href");
+  
+  $("#bookcovers").empty();
+  console.log(jsondata.docs[0].edition_key);
+  jsondata.docs[count].edition_key.forEach(element =>
+    //todo: add booktitle etc here so onclick it can doyaml
+    $("#bookcovers").append(
+      "<div class='bookdiv db pa4 center mw5 black'><span class='booktitle'>"+title+"</span><span class='bookauthor'>"+author+"</span><img src='https://covers.openlibrary.org/b/olid/" +
+        element +
+        "-L.jpg' /><a class='booklink' href='"+link+"'>Open Library</a><a class='select' href='#'>Select</a>"
+    )
+  );
+});
+
+function doyaml(el) {
+  var title = $(el)
+    .parent()
+    .find(".booktitle")
+    .text();
+
+  var author = $(el)
+    .parent()
+    .find(".bookauthor")
+    .text();
+
+  var link = $(el)
+    .parent()
+    .find(".booklink")
+    .attr("href");
+
+  var image = $(el)
+    .parent()
+    .find("img")
+    .attr("src");
+
+  var bookyaml = ` - title: ${title}
+   author: ${author}
+   link: ${link}
+   image: ${image}
+   date_finished: ${today}
+   notes: `;
+
+  $("#generator").val(bookyaml);
+}
+    </script>
+  </head>  
+  <body>
+    
+    
+    
+    Search by title:
+    <input id="search" />
+    
+    <div id="bookcovers" class="flex flex-wrap">
+      
+    </div>
+    
+    <textarea id="generator" rows="5" cols="75"></textarea>
+    <button id="copytext">
+      Copy
+    </button>
+      
+    
+  </body>
+</html>
+

@@ -2,6 +2,96 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Simulation and its discontents
+   author: Sherry Turkle
+   link: https://openlibrary.org/works/OL16921592W
+   image: https://covers.openlibrary.org/b/id/8126259-L.jpg
+   date_finished: 07/07/2025
+   notes: An excellent short adventure through the ways computers simulate the world around us and how that changes our perception of the world and computers. Especially relevant for today's world of AI.
+ - title: The Lathe of Heaven
+   author: Ursula K. Le Guin
+   link: https://openlibrary.org/works/OL59858W
+   image: https://covers.openlibrary.org/b/id/26458-L.jpg
+   date_finished: 06/07/2025
+   notes: Excellent! Dreams as simulations. The perils of agency. A vivid description of a wonderful unique premise. This could easily have gone off the rails but Ursula is a master and this was amazing. The ending at first gave me pause but I think I've come to terms with it and embrace the taoist reading.. Beautiful writing.
+ - title: The maniac
+   author: Benjamín Labatut
+   link: https://openlibrary.org/works/OL34388805W
+   image: https://covers.openlibrary.org/b/id/14036185-L.jpg
+   date_finished: 06/07/2025
+   notes: Super engrossing. I had just watched the AlphaGo documentary and AI is of course 100% of the discourse and so this felt very timely but also timeless. I slightly preferred When We Cease to Understand the World but this was a close second. Excellent.
+ - title: How the light gets in
+   author: Pat Schneider
+   link: https://openlibrary.org/works/OL19963635W
+   image: https://covers.openlibrary.org/b/id/12180367-L.jpg
+   date_finished: 03/07/2025
+   notes: Wow. Thank you Brian for this amazing book. Poetry, writing, spirituality, self publishing and so much more. This was part autobiography, part writing manual and part manifesto for creativity and believing in yourself. Magical. Highly recommended.
+ - title: When We Cease to Understand the World
+   author: Benjamín Labatut
+   link: https://openlibrary.org/works/OL28769111W
+   image: https://covers.openlibrary.org/b/id/11416803-L.jpg
+   date_finished: 01/07/2025
+   notes: One of my all time faves. What an astonishing book. Mathematics, insanity, creativity. Highly recommended.
+ - title: Moonbound
+   author: Robin Sloan
+   link: https://openlibrary.org/works/OL37620546W
+   image: https://covers.openlibrary.org/b/id/14633560-L.jpg
+   date_finished: 12/07/2025
+   notes: A fresh new approach! I admire Robin's attempt at something decidedly new and fresh and form-breaking. The writing certainly kept me reading and I overall enjoyed it but it felt a little kitchen-sink-esque with maybe too many new ideas all at once? Also I think there's some core Arthurian analogy that I didn't quite make sense of... But overall an enjoyable read.
+ - title: Guest Lecture
+   author: Martin Riker
+   link: https://openlibrary.org/works/OL28405940W
+   image: https://covers.openlibrary.org/b/id/13346428-L.jpg
+   date_finished: 11/15/2024
+   notes: A weird little novel that I mostly enjoyed. I think the core message was supposed to land more aspirationally but the anxiety of the main character felt like it got in the way a bit too much?
+ - title: Boys
+   author: Katie Hafner
+   link: https://openlibrary.org/works/OL25586990W
+   image: https://covers.openlibrary.org/b/id/13346783-L.jpg
+   date_finished: 11/07/2024
+   notes: Read this on Eliot Peper's recommendation and loved it! A unique kind of setup and really nicely written. Kept me reading and engrossed. Recommended.
+ - title: The Space Between Worlds
+   author: Micaiah Johnson
+   link: https://openlibrary.org/works/OL20884745W
+   image: https://covers.openlibrary.org/b/id/10211392-L.jpg
+   date_finished: 09/07/2024
+   notes: Passable sci-fi with an interesting premise. The world was well crafted and the core mechanic was novel but the characters always felt a bit flat and the romance pretty far contrived!
+ - title: The Invisible Life of Addie LaRue
+   author: V. E. Schwab
+   link: https://openlibrary.org/works/OL20796936W
+   image: https://covers.openlibrary.org/b/id/10092261-L.jpg
+   date_finished: 08/07/2024
+   notes: A fast read, I enjoyed it in a kind of summer-beach-read kind of way. Had some fun moments.   
+ - title: The Steerswoman
+   author: Rosemary Kirstein
+   link: https://openlibrary.org/works/OL5728409W
+   image: https://covers.openlibrary.org/b/id/8292438-L.jpg
+   date_finished: 12/12/2023
+   notes: I read this on recommendation from A Working Library and it didn't disappoint! Great writing and a unique world full of intrigue and more questions than answers...
+ - title: The Stone Sky
+   author: N. K. Jemisin
+   link: https://openlibrary.org/works/OL17881901W
+   image: https://covers.openlibrary.org/b/id/8191910-L.jpg
+   date_finished: 10/10/2023
+   notes: While I loved the series overall the third book really felt flat and didn't work for me. It's hard to put my finger on why but something really missed here...
+ - title: The Obelisk Gate
+   author: N. K. Jemisin
+   link: https://openlibrary.org/works/OL17842279W
+   image: https://covers.openlibrary.org/b/id/8138324-L.jpg
+   date_finished: 09/09/2023
+   notes: A great continuation of the series.
+ - title: The Fifth Season
+   author: N. K. Jemisin
+   link: https://openlibrary.org/works/OL17363125W
+   image: https://covers.openlibrary.org/b/id/8133598-L.jpg
+   date_finished: 07/08/2023
+   notes: Engaging rich descriptions - loved the underlying premise and the world that was built.
+ - title: Spy Games
+   author: Adam Brookes
+   link: https://openlibrary.org/works/OL20670422W
+   image: https://covers.openlibrary.org/b/id/9339095-L.jpg
+   date_finished: 05/07/2023
+   notes: Such pace! Loved the descriptions and characters.
  - title: Night heron
    author: Adam Brookes
    link: https://openlibrary.org/works/OL19980021W

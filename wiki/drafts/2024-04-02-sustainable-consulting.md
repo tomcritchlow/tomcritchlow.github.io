@@ -23,6 +23,7 @@ Fundamentally the big two levers that you can pull are:
 
 1. Have more interesting conversations
 2. Work with clients on bigger/longer projects to get more value
+3. Build recurring revenue products to offset volatility ?
 
 I think the right balance is to track conversations.
 
