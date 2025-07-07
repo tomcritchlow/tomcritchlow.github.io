@@ -11,13 +11,55 @@
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
 
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css">
+    <style>
+        /* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+textarea{
+  position:fixed;
+  right:20px;
+  top:20px;
+}
+
+#copytext{
+    position:absolute;
+  right:20px;
+  top:120px;
+}
+        </style>
     
     <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
   crossorigin="anonymous"></script>
     <!-- import the webpage's javascript file -->
+   
+  </head>  
+  <body>
+    
+    
+    
+    Search by title:
+    <input id="search" />
+    
+    <div id="bookcovers" class="flex flex-wrap">
+      
+    </div>
+    
+    <textarea id="generator" rows="5" cols="75"></textarea>
+    <button id="copytext">
+      Copy
+    </button>
+      
     <script>
         /* If you're feeling fancy you can add interactivity 
     to your site with Javascript */
@@ -131,24 +173,6 @@ function doyaml(el) {
   $("#generator").val(bookyaml);
 }
     </script>
-  </head>  
-  <body>
-    
-    
-    
-    Search by title:
-    <input id="search" />
-    
-    <div id="bookcovers" class="flex flex-wrap">
-      
-    </div>
-    
-    <textarea id="generator" rows="5" cols="75"></textarea>
-    <button id="copytext">
-      Copy
-    </button>
-      
-    
   </body>
 </html>
 
