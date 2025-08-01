@@ -2,6 +2,12 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: Lost Book of Adana Moreau
+   author: Michael Zapata
+   link: https://openlibrary.org/works/OL21971248W
+   image: https://covers.openlibrary.org/b/id/12435541-L.jpg
+   date_finished: 07/21/2025
+   notes: Loved this book! Reminded me of Kavalier and Clay - lovingly rich characters, lavish descriptions and many layered coming of age ideas. Highly recommended!
  - title: Simulation and its discontents
    author: Sherry Turkle
    link: https://openlibrary.org/works/OL16921592W
