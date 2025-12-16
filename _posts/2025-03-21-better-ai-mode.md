@@ -214,4 +214,4 @@ So if you have a stake in the web (see my disclosures below!) I would suggest th
 
 *Update May 27th, 2025: [I liked this perspective](https://x.com/pashmerepat/status/1926717705660375463?t=IN1_YgacqtUk_X_COZBXcw&s=19), that maybe RAG is actually a dead end and that agentic search is just a better paradigm. Agentic search is much more like what I'm describing here and RAG is the core underpinning of AI Mode and AI Overviews....*
 
-*Update Dec 16th, 2025: You can now link to Gems so here's the "better AI mode" gem that uses the system prompt from this blog post: [https://gemini.google.com/gem/72a834916ac8]*
+*Update Dec 16th, 2025: You can now link to Gems so here's the "better AI mode" gem that uses the system prompt from this blog post: [https://gemini.google.com/gem/72a834916ac8](https://gemini.google.com/gem/72a834916ac8)*
