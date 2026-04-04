@@ -3,3 +3,4 @@
 User-Agent: *
 Disallow: /data/
 Disallow: /clippy/
+Disallow: /dear-anthropic/
