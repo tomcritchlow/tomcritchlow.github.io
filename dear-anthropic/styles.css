@@ -32,6 +32,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+body.is-modal-open {
+  overflow: hidden;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -39,6 +43,19 @@ img {
 
 a {
   color: inherit;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 
 .hero-kicker,
@@ -1089,6 +1106,174 @@ a {
   max-width: 38rem;
 }
 
+.companion-block {
+  margin-top: 34px;
+  padding-top: 18px;
+  border-top: 1px solid rgba(17, 17, 17, 0.08);
+}
+
+.companion-kicker {
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.68rem;
+  color: var(--muted);
+}
+
+.companion-title,
+.companion-dialog-title {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+
+.companion-copy,
+.companion-note,
+.companion-query-display,
+.companion-empty-copy {
+  margin: 10px 0 0;
+  max-width: 38rem;
+  color: rgba(17, 17, 17, 0.76);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.companion-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.companion-input,
+.companion-submit,
+.companion-close {
+  font: inherit;
+}
+
+.companion-input {
+  min-width: 0;
+  width: 100%;
+  padding: 13px 14px;
+  border: 1px solid rgba(17, 17, 17, 0.14);
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--text);
+}
+
+.companion-input::placeholder {
+  color: rgba(17, 17, 17, 0.42);
+}
+
+.companion-input:focus-visible {
+  outline: 1px solid rgba(2, 173, 40, 0.4);
+  outline-offset: 0;
+  border-color: rgba(2, 173, 40, 0.4);
+}
+
+.companion-submit,
+.companion-close {
+  padding: 13px 16px;
+  border: 1px solid rgba(17, 17, 17, 0.12);
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--text);
+  cursor: pointer;
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease,
+    background-color 160ms ease;
+}
+
+.companion-submit:hover,
+.companion-submit:focus-visible,
+.companion-close:hover,
+.companion-close:focus-visible {
+  border-color: rgba(2, 173, 40, 0.36);
+  background: rgba(255, 255, 255, 1);
+  transform: translateY(-1px);
+  outline: none;
+}
+
+.companion-note {
+  font-size: 0.88rem;
+}
+
+.companion-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.companion-modal[hidden] {
+  display: none;
+}
+
+.companion-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(17, 17, 17, 0.36);
+  backdrop-filter: blur(6px);
+}
+
+.companion-dialog {
+  position: relative;
+  z-index: 1;
+  width: min(1120px, calc(100vw - 48px));
+  height: min(84vh, 860px);
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
+  gap: 14px;
+  padding: 18px;
+  border: 1px solid rgba(17, 17, 17, 0.12);
+  background: rgba(246, 245, 240, 0.98);
+  box-shadow: 0 32px 90px rgba(17, 17, 17, 0.16);
+}
+
+.companion-dialog-head,
+.companion-dialog-meta {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.companion-dialog-meta {
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid rgba(17, 17, 17, 0.08);
+}
+
+.companion-query-display {
+  margin: 0;
+}
+
+.companion-open-new {
+  flex: 0 0 auto;
+}
+
+.companion-frame-shell {
+  position: relative;
+  min-height: 0;
+  border: 1px solid rgba(17, 17, 17, 0.08);
+  background: rgba(255, 255, 255, 0.92);
+  overflow: hidden;
+}
+
+.companion-iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background: rgba(255, 255, 255, 0.92);
+}
+
 .signature {
   margin-top: 28px;
 }
@@ -1176,6 +1361,26 @@ a {
 
   .hero-scroll {
     margin-top: 20px;
+  }
+
+  .companion-form {
+    grid-template-columns: 1fr;
+  }
+
+  .companion-modal {
+    padding: 12px;
+  }
+
+  .companion-dialog {
+    width: calc(100vw - 24px);
+    height: min(88vh, 860px);
+    padding: 14px;
+  }
+
+  .companion-dialog-head,
+  .companion-dialog-meta {
+    display: grid;
+    grid-template-columns: 1fr;
   }
 
   .visual-pillars {

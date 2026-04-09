@@ -22,7 +22,8 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main id="app">
+    <main id="app" data-companion-url="https://claude-search-grader.replit.app/">
+      <!-- Add the Replit app URL to data-companion-url to enable the companion modal. -->
       <section class="hero">
         <div class="hero-shell reveal is-visible">
           <div class="hero-copy">
@@ -690,16 +691,96 @@
               that category.
             </p>
           </div>
+          <section class="companion-block" aria-labelledby="companion-title">
+            <p class="companion-kicker">Companion / BBC rubric demo</p>
+            <h3 class="companion-title" id="companion-title">
+              Try a live query against the grading rubric
+            </h3>
+            <p class="companion-copy">
+              Enter a search query to open the companion evaluator and inspect how
+              the answer performs against the BBC rubric for sourcing, quote
+              fidelity, and reliability.
+            </p>
+            <form class="companion-form" data-companion-form>
+              <label class="sr-only" for="companion-query">Search query</label>
+              <input
+                class="companion-input"
+                id="companion-query"
+                name="q"
+                type="text"
+                placeholder="e.g. why did Birmingham bin workers go on strike?"
+                autocomplete="off"
+                required
+              />
+              <button class="companion-submit" type="submit">
+                Open evaluator
+              </button>
+            </form>
+            <p class="companion-note" data-companion-note>
+              The query opens in a modal so the essay remains in view.
+            </p>
+          </section>
           <div class="signature">
             <p class="signature-name">Tom Critchlow</p>
             <p class="signature-meta">Pitch for Head of Search &amp; Knowledge</p>
           </div>
         </div>
       </section>
+
+      <div class="companion-modal" data-companion-modal hidden>
+        <div class="companion-backdrop" data-companion-close></div>
+        <div
+          class="companion-dialog"
+          role="dialog"
+          aria-modal="true"
+          aria-labelledby="companion-modal-title"
+        >
+          <div class="companion-dialog-head">
+            <div>
+              <p class="companion-kicker">Companion / Live evaluator</p>
+              <h3 class="companion-dialog-title" id="companion-modal-title">
+                BBC rubric response audit
+              </h3>
+            </div>
+            <button
+              class="companion-close"
+              type="button"
+              aria-label="Close evaluator"
+              data-companion-close
+            >
+              Close
+            </button>
+          </div>
+          <div class="companion-dialog-meta">
+            <p class="companion-query-display">
+              Query:
+              <span data-companion-query-display></span>
+            </p>
+            <a
+              class="accent-link companion-open-new"
+              href="#"
+              target="_blank"
+              rel="noreferrer"
+              data-companion-open-new
+              hidden
+            >
+              Open in new tab
+            </a>
+          </div>
+          <div class="companion-frame-shell">
+            <iframe
+              class="companion-iframe"
+              title="BBC rubric evaluator"
+              loading="lazy"
+              data-companion-iframe
+            ></iframe>
+          </div>
+        </div>
+      </div>
     </main>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
-    <script src="./app.js"></script>
+    <script src="./app.js?v=20260409c"></script>
   </body>
 </html>
