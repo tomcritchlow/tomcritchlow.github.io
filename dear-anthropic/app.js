@@ -38,26 +38,128 @@ function setupReveals() {
 }
 
 function setupCitations() {
-  if (typeof window.tippy !== "function") {
+  const $ = window.jQuery;
+
+  if (!$ || typeof $.bigfoot !== "function") {
     return;
   }
 
-  window.tippy("[data-citation-trigger]", {
-    allowHTML: true,
-    interactive: true,
-    animation: "shift-away",
-    theme: "light-border citations",
-    maxWidth: 280,
-    trigger: "mouseenter focus click",
-    hideOnClick: true,
-    delay: [80, 40],
-    content(reference) {
-      const label = escapeHtml(reference.dataset.citationLabel ?? "");
-      const url = escapeHtml(reference.dataset.citationUrl ?? "");
-      const number = escapeHtml(reference.textContent?.trim() ?? "");
+  const groups = [...document.querySelectorAll(".inline-citation-group")];
 
-      return `<span class="tippy-source-label">Source ${number}</span><a class="tippy-source-link" href="${url}" target="_blank" rel="noreferrer">${label}</a>`;
-    },
+  if (!groups.length) {
+    return;
+  }
+
+  const footnotes = document.createElement("div");
+  footnotes.className = "footnotes footnotes--generated";
+
+  const list = document.createElement("ol");
+  footnotes.appendChild(list);
+
+  let citationIndex = 0;
+  const citationNumbers = [];
+
+  groups.forEach((group) => {
+    const triggers = [...group.querySelectorAll("[data-citation-trigger]")];
+
+    if (!triggers.length) {
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
+
+    triggers.forEach((trigger) => {
+      citationIndex += 1;
+
+      const number = trigger.textContent?.trim() || String(citationIndex);
+      const label = trigger.dataset.citationLabel ?? "";
+      const url = trigger.dataset.citationUrl ?? "";
+      const footnoteId = `fn:generated-${citationIndex}`;
+      const refId = `fnref:generated-${citationIndex}`;
+
+      citationNumbers.push(number);
+
+      const sup = document.createElement("sup");
+      sup.className = "inline-citation-ref";
+      sup.id = refId;
+      sup.dataset.citationNumber = number;
+      sup.dataset.footnoteNumber = number;
+      sup.dataset.footnoteBacklinkRef = refId;
+
+      const link = document.createElement("a");
+      link.className = "inline-citation-link";
+      link.href = `#${footnoteId}`;
+      link.rel = "footnote";
+      link.dataset.citationNumber = number;
+      link.dataset.footnoteNumber = number;
+      link.dataset.footnoteBacklinkRef = refId;
+      link.setAttribute("aria-label", `Open source ${number}`);
+      link.textContent = number;
+
+      sup.appendChild(link);
+      fragment.appendChild(sup);
+
+      const item = document.createElement("li");
+      item.className = "footnote";
+      item.id = footnoteId;
+      item.innerHTML = `<p><span class="generated-footnote-label">Source ${escapeHtml(number)}</span><a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a></p>`;
+      list.appendChild(item);
+    });
+
+    group.replaceWith(fragment);
+  });
+
+  document.body.appendChild(footnotes);
+
+  $.bigfoot({
+    actionOriginalFN: "hide",
+    activateOnHover: true,
+    allowMultipleFN: false,
+    appendPopoversTo: "body",
+    deleteOnUnhover: false,
+    hoverDelay: 80,
+    numberResetSelector: ".section, .closing",
+    popoverCreateDelay: 40,
+    positionContent: true,
+    preventPageScroll: false,
+    scope: "#app",
+    useFootnoteOnlyOnce: false,
+    buttonMarkup: `
+      <div class="bigfoot-footnote__container">
+        <button type="button" class="bigfoot-footnote__button" rel="footnote"
+          id="{{SUP:data-footnote-backlink-ref}}-button"
+          data-footnote-number="{{FOOTNOTENUM}}"
+          data-footnote-identifier="{{FOOTNOTEID}}"
+          data-bigfoot-footnote="{{FOOTNOTECONTENT}}">
+          <span class="bigfoot-footnote__button__label">{{FOOTNOTENUM}}</span>
+        </button>
+      </div>
+    `,
+    contentMarkup: `
+      <aside class="bigfoot-footnote is-positioned-bottom"
+        data-footnote-number="{{FOOTNOTENUM}}"
+        data-footnote-identifier="{{FOOTNOTEID}}"
+        aria-label="Source {{BUTTON:data-citation-number}}">
+        <div class="bigfoot-footnote__wrapper">
+          <div class="bigfoot-footnote__content">
+            {{FOOTNOTECONTENT}}
+          </div>
+        </div>
+        <div class="bigfoot-footnote__tooltip"></div>
+      </aside>
+    `,
+  });
+
+  document.querySelectorAll(".bigfoot-footnote__button").forEach((button, index) => {
+    const number = citationNumbers[index] ?? String(index + 1);
+    button.dataset.citationNumber = number;
+    button.setAttribute("aria-label", `See source ${number}`);
+
+    const label = button.querySelector(".bigfoot-footnote__button__label");
+
+    if (label) {
+      label.textContent = number;
+    }
   });
 }
 

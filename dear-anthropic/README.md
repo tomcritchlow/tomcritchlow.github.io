@@ -6,13 +6,13 @@ Static one-page microsite prototype for a Head of Search & Knowledge pitch.
 
 - `index.html`: primary content file with the full essay, visuals, and inline citation buttons
 - `styles.css`: editorial layout, typography, motion, and visual styling
-- `app.js`: lightweight behavior only for scroll reveals and citation tooltips
+- `app.js`: lightweight behavior only for scroll reveals, citation footnote popovers, and the BBC chart
 
 ## Edit the copy
 
 1. Open `index.html`.
 2. Edit the prose directly inside the hero, sections, and closing blocks.
-3. Inline citations are plain buttons in the HTML with `data-citation-label` and `data-citation-url`.
+3. Inline citations are plain buttons in the HTML with `data-citation-label` and `data-citation-url`; `app.js` turns them into Bigfoot footnote popovers automatically.
 4. Most visuals are also in `index.html`, so you can swap labels, values, or image URLs without touching JavaScript.
 
 ## Swap in final visuals

@@ -15,9 +15,10 @@
       rel="stylesheet"
     />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
-    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css" />
-    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-default.min.css"
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -66,7 +67,7 @@
             <h2 class="section-title">Search is the scaffolding we use to navigate knowledge.</h2>
             <div class="section-body">
               <p>
-                It is also one of the web’s deepest habits. Google now handles more
+                Search is also one of the web’s deepest habits. Google now handles more
                 than 5 trillion searches a year through an interface that feels
                 familiar, trusted, and effortless.
                 <sup class="inline-citation-group">
@@ -163,9 +164,8 @@
                 </p>
               </div>
               <figcaption class="figure-note">
-                Replace or re-crop these screenshots as needed, but the underlying
-                point should stay the same: search is becoming a shared AI-native
-                product surface.
+                Claude, ChatGPT, Gemini, and Perplexity are converging on a shared
+                search-shaped product surface.
               </figcaption>
             </figure>
           </div>
@@ -279,8 +279,8 @@
                 </p>
               </div>
               <figcaption class="figure-note">
-                Inspired by the WebArena task list. The point is breadth: trust is
-                built through ordinary, repeatable questions across many domains.
+                Breadth matters: trust is built through ordinary, repeatable
+                questions across many domains.
               </figcaption>
             </figure>
           </div>
@@ -377,17 +377,15 @@
         <section class="section reveal" id="ux">
           <div class="section-main">
             <p class="section-kicker">04 / The UX of search</p>
-            <h2 class="section-title">
-              People do not experience search as a text box. They experience it as a
-              rich results environment.
-            </h2>
+            <h2 class="section-title">Search is not one interface. It is a grammar of result types.</h2>
             <div class="section-body">
               <p>
-                User expectations were trained by modern search engines, not by chat
-                alone. People expect images, videos, maps, recipes, product panels,
-                local results, and other result types that help them choose the right
-                mode of attention quickly. A strong search experience is multimodal
-                and situational by default.
+                Over two decades, Google layered rich result types on top of the
+                classical ten blue links: maps, shopping, news, weather, videos,
+                recipes, and more. That mattered because format is part of meaning.
+                The way information is presented shapes how quickly people can scan
+                it, how much confidence they place in it, and what they feel ready
+                to do next.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search visual elements gallery" data-citation-url="https://developers.google.com/search/docs/appearance/visual-elements-gallery" aria-label="Open source 1">1</button>
@@ -398,12 +396,12 @@
                 </sup>
               </p>
               <p>
-                That matters because format is part of trust. A recipe query should
-                not look like a market research query. A local intent query should
-                surface place data and availability. A how-to query may need video or
-                stepwise structure. The interface should signal what kind of knowledge
-                is being returned, not just paraphrase everything into the same block
-                of prose.
+                Those formats did not emerge by accident. They were built through a
+                combination of product design, ranking systems, and structured data
+                that allowed information to be parsed and presented in consistent
+                ways. Search became more useful not just because it found the right
+                information, but because it learned how to present different kinds
+                of information in the right form.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search visual elements gallery" data-citation-url="https://developers.google.com/search/docs/appearance/visual-elements-gallery" aria-label="Open source 1">1</button>
@@ -417,11 +415,17 @@
                 </sup>
               </p>
               <p>
-                Anthropic should treat this as a UX discipline, not a garnish layer.
-                The winner in search will not just have the best model underneath. It
-                will know when to answer with text, when to show a map, when to
-                foreground an image, and when to preserve the source format because
-                that is what the user actually needs to decide.
+                AI opens up a larger design space again: comparisons, guided flows,
+                step-by-step responses, interactive explanations, diagrams, and
+                other formats that do more than summarize. But that makes the UX
+                problem harder, not easier. Matching the interface to the intent
+                requires judgment, and consistency matters as much as novelty.
+              </p>
+              <p>
+                Anthropic should treat search UX as a core product capability. The
+                winning system will not just generate strong answers. It will know
+                when to answer, when to show, when to compare, when to guide, and
+                when to preserve the structure of the underlying information.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search structured data gallery" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/search-gallery" aria-label="Open source 2">2</button>
@@ -436,7 +440,7 @@
           <div class="section-sidebar">
             <figure class="section-visual">
               <p class="figure-label">Key visual / Search UX</p>
-              <h3 class="visual-title">Rich results environment</h3>
+              <h3 class="visual-title">A grammar of result types</h3>
               <div class="visual-frame visual-image">
                 <img
                   class="visual-image-asset"
@@ -462,12 +466,11 @@
             </h2>
             <div class="section-body">
               <p>
-                The usual search metrics still matter: coverage, freshness, latency,
-                answer relevance, abandonment, task completion. But AI search adds a
-                more important layer. You need evals for confidence calibration,
-                source diversity, citation usefulness, update sensitivity, and
-                whether users can meaningfully inspect why an answer should be
-                believed.
+                All of the classical metrics still matter: coverage, freshness,
+                latency, relevance, task completion. But AI search adds a harder
+                requirement. It is not enough to retrieve something useful. The
+                system also has to help the user decide whether the answer is
+                current, well-supported, inspectable, and safe to act on.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
@@ -478,11 +481,11 @@
                 </sup>
               </p>
               <p>
-                This is where provenance stops being a UI garnish and becomes a
-                product discipline. The ideal experience does not merely attach links
-                after the fact. It surfaces evidence in the rhythm of the
-                interaction, with enough clarity that users can inspect, compare, and
-                continue thinking.
+                That changes what should be measured. In addition to relevance,
+                Anthropic should care about confidence calibration, source
+                diversity, citation usefulness, update sensitivity, and whether
+                users can actually interrogate the basis of an answer rather than
+                merely receive it.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
@@ -493,10 +496,11 @@
                 </sup>
               </p>
               <p>
-                A serious search organization at Anthropic would treat evals,
-                provenance design, and knowledge partnerships as one operating
-                system. The point is not to maximize visible citations. The point is
-                to make truth-seeking behavior easier than bluffing.
+                This is where provenance stops being a garnish layer and becomes
+                part of the product. Good provenance is not just a list of links
+                appended to an answer. It is an interface for inspection:
+                evidence presented clearly enough that a user can verify, compare,
+                and keep thinking.
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
@@ -506,33 +510,72 @@
                   </span>
                 </sup>
               </p>
+              <p>
+                If Anthropic relies on third-party web indexing
+                infrastructure, it also needs strong internal systems for
+                auditing source quality, inspecting retrieval behavior, and
+                ensuring the product is not confidently citing spam, low-quality
+                pages, or manipulated results.
+              </p>
+              <p>
+                A serious search organization would treat evals, provenance
+                design, and information access as one operating system. The goal
+                is not to maximize visible citations. It is to make truth-seeking
+                behavior easier than bluffing.
+              </p>
             </div>
           </div>
           <div class="section-sidebar">
             <figure class="section-visual">
-              <p class="figure-label">Key visual / Operating metrics</p>
-              <h3 class="visual-title">Trust system scorecard</h3>
-              <div class="visual-frame visual-scorecard">
-                <div class="score-row">
-                  <span class="score-label">Habit</span>
-                  <span class="score-value">67<small>/100</small></span>
+              <p class="figure-label">Key visual / Provenance audit</p>
+              <h3 class="visual-title">Citations only matter if the answer survives inspection</h3>
+              <div class="visual-frame visual-audit">
+                <div class="audit-answer">
+                  <p class="audit-kicker">Mock answer / audited output</p>
+                  <div class="audit-query">What caused the Birmingham bin strike?</div>
+                  <div class="audit-body">
+                    <p>
+                      The dispute centered on pay changes and role reductions. One
+                      summary claimed the union described the proposal as
+                      <span class="audit-highlight audit-highlight-a">“an assault on wages and working conditions”</span>,
+                      but that phrasing does not appear in the cited reporting.
+                    </p>
+                    <p>
+                      Another response surfaced a quote saying workers could face
+                      reductions of up to £8,000
+                      <span class="audit-highlight audit-highlight-b">without any compensation</span>,
+                      even though the cited source used more conditional and specific
+                      language.
+                    </p>
+                  </div>
+                  <p class="audit-sources">Sources [4] [6] [8]</p>
                 </div>
-                <div class="score-row">
-                  <span class="score-label">Trust</span>
-                  <span class="score-value">81<small>/100</small></span>
-                </div>
-                <div class="score-row">
-                  <span class="score-label">Coverage</span>
-                  <span class="score-value">74<small>/100</small></span>
-                </div>
-                <div class="score-row">
-                  <span class="score-label">Provenance</span>
-                  <span class="score-value">88<small>/100</small></span>
+                <div class="audit-callouts">
+                  <article class="audit-callout">
+                    <div class="audit-callout-head">
+                      <span class="audit-badge">A</span>
+                      <p class="audit-callout-title">Fabricated phrasing</p>
+                    </div>
+                    <p class="audit-callout-copy">
+                      The answer includes language that cannot be found in the cited
+                      sources, even though it is presented with citation markers.
+                    </p>
+                  </article>
+                  <article class="audit-callout">
+                    <div class="audit-callout-head">
+                      <span class="audit-badge">B</span>
+                      <p class="audit-callout-title">Altered quote</p>
+                    </div>
+                    <p class="audit-callout-copy">
+                      The summary compresses and sharpens the source language in a
+                      way that changes what the original reporting actually said.
+                    </p>
+                  </article>
                 </div>
               </div>
               <figcaption class="figure-note">
-                Good place for a real eval dashboard screenshot or a sharper
-                provenance score model.
+                Citations do not create trust on their own; the evidence has to
+                survive inspection.
               </figcaption>
             </figure>
           </div>
@@ -542,195 +585,121 @@
           <div class="section-main">
             <p class="section-kicker">06 / Why me</p>
             <h2 class="section-title">
-              I sit at the intersection of search strategy, knowledge systems, and
-              product judgment.
+              I have spent my career in search, product, and the
+              information ecosystem.
             </h2>
             <div class="section-body">
               <p>
-                My angle is not just SEO, not just product, and not just editorial.
-                It is the connective tissue between how information is discovered, how
-                it is structured, how people trust it, and how organizations turn
-                that into a differentiated user experience.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
-                  </span>
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Using Research on Claude" data-citation-url="https://support.anthropic.com/en/articles/11088861-using-research-on-claude" aria-label="Open source 2">2</button>
-                  </span>
-                </sup>
+                I have worked in search my entire career. Not just as a channel or a
+                growth function, but as a product, platform, and strategic
+                discipline: how people discover information, how systems rank and
+                structure it, and how trust gets built through the interface.
               </p>
               <p>
-                I think in wedges, interfaces, supply dynamics, incentives, and
-                operating systems. I know how to build narratives internally,
-                translate strategic ambiguity into programs, and make search legible
-                across product, partnerships, policy, and go-to-market functions.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
-                  </span>
-                </sup>
+                I have also operated at the executive level. I know how to work
+                across product, strategy, partnerships, and go-to-market, and how to
+                translate ambiguous opportunities into concrete programs. That
+                matters here because this role is not just about improving retrieval
+                quality. It is about helping Anthropic define what trusted search
+                and knowledge should become as a product category.
               </p>
               <p>
-                For this role, the job is not merely improving retrieval quality. It
-                is helping Anthropic define what trusted knowledge looks like as a
-                product category and then organizing the company around it.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Using Research on Claude" data-citation-url="https://support.anthropic.com/en/articles/11088861-using-research-on-claude" aria-label="Open source 2">2</button>
-                  </span>
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="RAG for Projects" data-citation-url="https://support.anthropic.com/en/articles/11473015-retrieval-augmented-generation-rag-for-projects" aria-label="Open source 3">3</button>
-                  </span>
-                </sup>
+                Most recently, at Raptive, I have been working directly inside the
+                information ecosystem itself. That has meant grappling with publisher
+                incentives, structured data, search visibility, and search evals
+                from the supply side as well as the product side. It is unusually
+                relevant preparation for building trusted search in AI, because the
+                work is not only about models. It is also about access, provenance,
+                incentives, and the health of the underlying web.
+              </p>
+              <p>
+                What excites me most is exactly the kind of problem Anthropic faces
+                here: high ambiguity, high leverage, and no established roadmap. I
+                like working at the frontier where the product surface is still
+                forming, the strategic wedge is not yet obvious, and the operating
+                model has to be invented in parallel with the product itself.
               </p>
             </div>
           </div>
           <div class="section-sidebar">
             <figure class="section-visual">
               <p class="figure-label">Key visual / Fit</p>
-              <h3 class="visual-title">The overlap I bring</h3>
-              <div class="visual-frame visual-pillars">
-                <article class="pillar">
-                  <h3 class="pillar-title">Search</h3>
-                  <p class="pillar-copy">Demand, discovery, and retrieval strategy</p>
+              <h3 class="visual-title">Career timeline</h3>
+              <div class="visual-frame visual-roadmap visual-career">
+                <article class="roadmap-phase career-phase">
+                  <p class="roadmap-range career-range">2012-2014</p>
+                  <div>
+                    <h3 class="roadmap-title">Product strategy and future-of-search work</h3>
+                    <p class="career-org">Google Creative Lab</p>
+                    <p class="roadmap-copy">
+                      Worked on product strategy and future-of-search ideas, including
+                      novel HCI interfaces like collaborative touch screens.
+                    </p>
+                  </div>
                 </article>
-                <article class="pillar">
-                  <h3 class="pillar-title">Knowledge</h3>
-                  <p class="pillar-copy">Structure, provenance, and information trust</p>
+                <article class="roadmap-phase career-phase">
+                  <p class="roadmap-range career-range">2014-2024</p>
+                  <div>
+                    <h3 class="roadmap-title">Independent consultant across the information ecosystem</h3>
+                    <p class="career-org">Clients included NYT, Ziff Davis, Gartner, People Inc, Etsy, and Google</p>
+                    <p class="roadmap-copy">
+                      Worked across publishers, research firms, and technology
+                      companies on search, discovery, and information strategy.
+                    </p>
+                  </div>
                 </article>
-                <article class="pillar">
-                  <h3 class="pillar-title">Product</h3>
-                  <p class="pillar-copy">Narrative, execution, and operating cadence</p>
+                <article class="roadmap-phase career-phase">
+                  <p class="roadmap-range career-range">2024-Present</p>
+                  <div>
+                    <h3 class="roadmap-title">Leading directly inside the information ecosystem</h3>
+                    <p class="career-org">Raptive</p>
+                    <p class="roadmap-copy">
+                      Overseeing a team of more than 20 while working at the center of
+                      publisher, Google, Pinterest, and open-web dynamics.
+                    </p>
+                  </div>
                 </article>
               </div>
               <figcaption class="figure-note">
-                Could become a cleaner three-circle or triangle graphic later.
+                Depth, scope, and recency across search, strategy, and the
+                information ecosystem.
               </figcaption>
             </figure>
           </div>
         </section>
 
-        <section class="section reveal" id="first-90">
-          <div class="section-main">
-            <p class="section-kicker">07 / First 90 days</p>
-            <h2 class="section-title">
-              Start with the product truth, then build the operating system behind it.
-            </h2>
-            <div class="section-body">
-              <p>
-                The first 90 days should not begin with a grand reorg or an abstract
-                strategy deck. They should begin with product truth: where Claude
-                search is already strong, where it breaks trust, what user behaviors
-                are forming, and which strategic bets are being underexploited.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC News Integrity in AI Assistants toolkit" data-citation-url="https://www.bbc.co.uk/aboutthebbc/documents/news-integrity-in-ai-assistants-toolkit.pdf" aria-label="Open source 1">1</button>
-                  </span>
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 2">2</button>
-                  </span>
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Anthropic's Transparency Hub" data-citation-url="https://www.anthropic.com/news/introducing-anthropic-transparency-hub" aria-label="Open source 3">3</button>
-                  </span>
-                </sup>
-              </p>
-            </div>
-          </div>
-          <div class="section-sidebar">
-            <figure class="section-visual">
-              <p class="figure-label">Key visual / 90-day plan</p>
-              <h3 class="visual-title">30 / 60 / 90</h3>
-              <div class="visual-frame visual-roadmap">
-                <article class="roadmap-phase">
-                  <p class="roadmap-range">1-30</p>
-                  <div>
-                    <h3 class="roadmap-title">Audit</h3>
-                    <p class="roadmap-copy">Map stack, users, failures</p>
-                  </div>
-                </article>
-                <article class="roadmap-phase">
-                  <p class="roadmap-range">31-60</p>
-                  <div>
-                    <h3 class="roadmap-title">Define</h3>
-                    <p class="roadmap-copy">Set wedge and scorecard</p>
-                  </div>
-                </article>
-                <article class="roadmap-phase">
-                  <p class="roadmap-range">61-90</p>
-                  <div>
-                    <h3 class="roadmap-title">Operate</h3>
-                    <p class="roadmap-copy">Stand up cross-functional cadence</p>
-                  </div>
-                </article>
-              </div>
-              <figcaption class="figure-note">
-                Swap for a final roadmap graphic if you want tighter sequencing.
-              </figcaption>
-            </figure>
-          </div>
-        </section>
       </article>
 
       <section class="closing reveal">
-        <div class="closing-grid">
-          <div>
-            <p class="section-kicker">08 / Closing statement</p>
-            <h2 class="section-title">
-              Anthropic has a credible path to become the trusted layer between
-              people and the world they need to understand.
-            </h2>
-            <div class="closing-copy">
-              <p>
-                That path runs through search. Not search as ten blue links. Not
-                search as a backend connector. Search as a deliberate knowledge
-                product: careful retrieval, legible evidence, calm confidence, and
-                repeatable trust.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
-                  </span>
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Anthropic's Transparency Hub" data-citation-url="https://www.anthropic.com/news/introducing-anthropic-transparency-hub" aria-label="Open source 2">2</button>
-                  </span>
-                </sup>
-              </p>
-              <p>
-                If the thesis is right, then this role is not support for the
-                roadmap. It is part of defining the roadmap. I’d like to help
-                Anthropic build that category.
-                <sup class="inline-citation-group">
-                  <span class="inline-citation">
-                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
-                  </span>
-                </sup>
-              </p>
-            </div>
-            <div class="signature">
-              <p class="signature-name">Tom Critchlow</p>
-              <p class="signature-meta">Pitch prototype for Head of Search &amp; Knowledge</p>
-            </div>
+        <div class="closing-shell">
+          <p class="section-kicker">07 / Closing statement</p>
+          <h2 class="section-title">
+            Anthropic has a credible path to become the trusted layer between
+            people and the world they need to understand.
+          </h2>
+          <div class="closing-copy">
+            <p>
+              That path runs through search. Not search as ten blue links or a
+              backend connector, but search as a deliberate knowledge product:
+              careful retrieval, legible evidence, calm confidence, and
+              repeatable trust.
+            </p>
+            <p>
+              If the thesis is right, this role is not support for the roadmap. It
+              is part of defining the roadmap. I’d like to help Anthropic build
+              that category.
+            </p>
           </div>
-          <div class="section-sidebar">
-            <figure class="section-visual">
-              <p class="figure-label">Key visual / Closing signal</p>
-              <h3 class="visual-title">Trusted research can be a category.</h3>
-              <div class="visual-frame visual-signal">
-                <p class="signal-stat">Search is thinking.</p>
-                <p class="signal-substat">Trust is the product.</p>
-              </div>
-              <figcaption class="figure-note">
-                Replace with a stronger closing mark, chart, or proof point if
-                needed.
-              </figcaption>
-            </figure>
+          <div class="signature">
+            <p class="signature-name">Tom Critchlow</p>
+            <p class="signature-meta">Pitch for Head of Search &amp; Knowledge</p>
           </div>
         </div>
       </section>
     </main>
 
-    <script src="https://unpkg.com/@popperjs/core@2"></script>
-    <script src="https://unpkg.com/tippy.js@6"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
