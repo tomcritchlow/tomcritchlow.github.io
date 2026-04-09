@@ -14,19 +14,720 @@
       href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css" />
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away.css" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <main id="app"></main>
-
-    <noscript>
-      <section class="noscript-message">
-        <p>This prototype uses a small JavaScript file to render the page content.</p>
+    <main id="app">
+      <section class="hero">
+        <div class="hero-shell reveal is-visible">
+          <div class="hero-copy">
+            <p class="hero-kicker">Open letter / Head of Search &amp; Knowledge</p>
+            <h1 class="hero-title">Dear Anthropic.</h1>
+            <p class="hero-dek">
+              The rise of Google taught us that searching is thinking.
+            </p>
+            <p class="hero-intro">
+              For Claude to become a trusted daily habit, search and knowledge
+              retrieval must be treated as first-order product surfaces. But great
+              search is not just a model problem or a retrieval problem. It is an
+              ecosystem problem, shaped by publisher incentives, access, commerce
+              infrastructure, and the changing economics of the web.
+            </p>
+            <p class="hero-intro">
+              I’ve spent my career working inside that ecosystem. I want to help
+              Anthropic build the most trusted search experience in the world.
+            </p>
+          </div>
+          <aside class="hero-meta">
+            <p class="hero-meta-label">By</p>
+            <p class="hero-byline">Tom Critchlow</p>
+            <a
+              class="hero-meta-link accent-link"
+              href="https://www.linkedin.com/in/tomcritchlow/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
+            <a class="hero-scroll accent-link" href="#shift">Read the argument</a>
+          </aside>
+        </div>
       </section>
-    </noscript>
+
+      <article class="essay">
+        <!-- Edit section copy directly in the HTML below. -->
+        <section class="section reveal" id="shift">
+          <div class="section-main">
+            <p class="section-kicker">01 / The shift</p>
+            <h2 class="section-title">Search is the scaffolding we use to navigate knowledge.</h2>
+            <div class="section-body">
+              <p>
+                It is also one of the web’s deepest habits. Google now handles more
+                than 5 trillion searches a year through an interface that feels
+                familiar, trusted, and effortless.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="AI, personalization and the future of shopping" data-citation-url="https://blog.google/products/ads-commerce/ai-personalization-and-the-future-of-shopping/" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                But great search was never just a ranking problem. In
+                <em>Delphic Costs and Benefits in Web Search</em>, Broder and McAfee
+                argue that search quality is really about reducing the total
+                cognitive, interaction, and time costs required to reach a useful
+                outcome. That is the right frame for AI, too. Users do not care
+                whether retrieval was technically elegant. They care whether the
+                system helps them get somewhere useful, quickly, clearly, and with
+                enough confidence to act.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Delphic Costs and Benefits in Web Search: A utilitarian and historical analysis" data-citation-url="https://arxiv.org/pdf/2308.07525" aria-label="Open source 3">3</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                That distinction matters because benchmark performance is not the same
+                as product value. BrowseComp tests whether a system can locate a
+                single hard-to-find fact, and its creators explicitly note that it is
+                not designed to measure common open-ended queries. DeepSearchQA
+                measures something different again: exhaustive, multi-step research
+                across open-ended search spaces. Both are useful. Neither is the same
+                as daily search, where the job is often simpler and harder at once:
+                reduce the costs of deciding. Help me decide faster, with less
+                effort, in the right format, and with enough trust to move.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Delphic Costs and Benefits in Web Search: A utilitarian and historical analysis" data-citation-url="https://arxiv.org/pdf/2308.07525" aria-label="Open source 3">3</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BrowseComp: a benchmark for browsing agents" data-citation-url="https://openai.com/index/browsecomp/" aria-label="Open source 4">4</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents" data-citation-url="https://arxiv.org/abs/2601.20975" aria-label="Open source 5">5</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                This is why search matters so much now. It is the surface where
+                models earn trust, become habit, and shape a user’s relationship with
+                reality.
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Interface convergence</p>
+              <h3 class="visual-title">Four search surfaces, one emerging pattern</h3>
+              <div class="visual-frame visual-screenshot-grid">
+                <div class="screenshot-grid">
+                  <figure class="screenshot-card">
+                    <img
+                      class="screenshot-image"
+                      src="./images/claude.ai_chat_4ac7ca59-e042-4759-8b31-893c46b348b4(iPhone 14 Pro Max) (1).png"
+                      alt="Claude mobile search and research style interface."
+                    />
+                    <figcaption class="screenshot-label">Claude</figcaption>
+                  </figure>
+                  <figure class="screenshot-card">
+                    <img
+                      class="screenshot-image"
+                      src="./images/chatgpt.com_c_69d17d8a-2f18-8326-9660-229857d2f4ef(iPhone 14 Pro Max).png"
+                      alt="ChatGPT mobile search interface."
+                    />
+                    <figcaption class="screenshot-label">ChatGPT</figcaption>
+                  </figure>
+                  <figure class="screenshot-card">
+                    <img
+                      class="screenshot-image"
+                      src="./images/gemini.google.com_app_aa831ff10abe9bb9(iPhone 14 Pro Max).png"
+                      alt="Gemini mobile interface."
+                    />
+                    <figcaption class="screenshot-label">Gemini</figcaption>
+                  </figure>
+                  <figure class="screenshot-card">
+                    <img
+                      class="screenshot-image"
+                      src="./images/www.perplexity.ai_search_can-you-provide-current-news-i-vLqcL1teQzCdIZ3UpduNdw(iPhone 14 Pro Max).png"
+                      alt="Perplexity mobile search interface."
+                    />
+                    <figcaption class="screenshot-label">Perplexity</figcaption>
+                  </figure>
+                </div>
+                <p class="screenshot-footer">
+                  Query, synthesis, sources, follow-up. The interfaces are converging.
+                </p>
+              </div>
+              <figcaption class="figure-note">
+                Replace or re-crop these screenshots as needed, but the underlying
+                point should stay the same: search is becoming a shared AI-native
+                product surface.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="wedge">
+          <div class="section-main">
+            <p class="section-kicker">02 / The wedge</p>
+            <h2 class="section-title">The wedge is trust, earned through habit.</h2>
+            <div class="section-body">
+              <p>
+                Anthropic has said Claude should be “a trusted tool for thought.” But
+                trust like that is rarely granted all at once. It is built through
+                repeated success on smaller, everyday questions, the moments that teach
+                users when a system is useful, when it is reliable, and when it is
+                worth returning to.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude is a space to think" data-citation-url="https://www.anthropic.com/news/claude-is-a-space-to-think" aria-label="Open source 1">1</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                That is why search matters strategically. If Claude is going to be
+                the system people trust for questions that are consequential,
+                confusing, or expensive, it first has to become the place they turn
+                when the stakes are low. Habit is what builds the trust that later
+                matters under pressure.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude is a space to think" data-citation-url="https://www.anthropic.com/news/claude-is-a-space-to-think" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Search and email still top the list of most popular online activities" data-citation-url="https://www.pewresearch.org/internet/2011/08/09/search-and-email-still-top-the-list-of-most-popular-online-activities/" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                The wedge, then, is not generic assistant utility. It is becoming the
+                default starting point for everyday uncertainty, and using that
+                repeated contact to earn the right to help when the stakes are real.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Search and email still top the list of most popular online activities" data-citation-url="https://www.pewresearch.org/internet/2011/08/09/search-and-email-still-top-the-list-of-most-popular-online-activities/" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                This is a particularly strong wedge for Anthropic. Claude already
+                signals care, caution, and seriousness more credibly than most AI
+                products. Search can turn those qualities into a durable advantage by
+                making research feel calm, legible, and dependable.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude is a space to think" data-citation-url="https://www.anthropic.com/news/claude-is-a-space-to-think" aria-label="Open source 1">1</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                If Anthropic gets this right, it does not just gain more usage. It
+                becomes the system people trust when the answer actually matters.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude is a space to think" data-citation-url="https://www.anthropic.com/news/claude-is-a-space-to-think" aria-label="Open source 1">1</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Everyday uncertainty</p>
+              <h3 class="visual-title">Small questions build the habit loop</h3>
+              <div class="visual-frame visual-task-mosaic">
+                <div class="task-mosaic">
+                  <article class="task-chip">
+                    <p class="task-chip-label">Maps</p>
+                    <p class="task-chip-copy">What’s the closest national park to Portland, Maine?</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Travel</p>
+                    <p class="task-chip-copy">Can I reach Duquesne from Pittsburgh airport in under an hour?</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Reviews</p>
+                    <p class="task-chip-copy">Summarize reviews for Echo Dot 3rd gen.</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Shopping</p>
+                    <p class="task-chip-copy">Find the best storage option for 31 Switch game cards.</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Local</p>
+                    <p class="task-chip-copy">Which supermarkets are within 15 minutes of this hotel?</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Route</p>
+                    <p class="task-chip-copy">What’s the walking time from CMU to Pitt?</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Catalog</p>
+                    <p class="task-chip-copy">Show me products under $30 in men’s shoes.</p>
+                  </article>
+                  <article class="task-chip">
+                    <p class="task-chip-label">Analytics</p>
+                    <p class="task-chip-copy">What brands appear most in top search terms?</p>
+                  </article>
+                </div>
+                <p class="task-mosaic-footer">
+                  Habit is built on small questions before it is earned on big ones.
+                </p>
+              </div>
+              <figcaption class="figure-note">
+                Inspired by the WebArena task list. The point is breadth: trust is
+                built through ordinary, repeatable questions across many domains.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="open-web">
+          <div class="section-main">
+            <p class="section-kicker">03 / The information ecosystem</p>
+            <h2 class="section-title">Search sits on top of the information ecosystem.</h2>
+            <div class="section-body">
+              <p>
+                Great search does not begin with the model. It begins with the
+                information ecosystem the model sits on top of. If the underlying
+                supply of information is weak, inaccessible, poorly attributed, or
+                structurally incomplete, the search experience will be weaker too.
+              </p>
+              <p>
+                The first layer is access. The BBC’s research on AI assistants is
+                useful here because it shows that quality problems are often
+                inseparable from sourcing problems. If assistants cannot reliably
+                access high-quality information, or if they present it without enough
+                attribution, context, or clarity, trust breaks down quickly. Search
+                quality depends on the health of the information supply chain, not
+                just the intelligence of the interface.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC / EBU News Integrity in AI Assistants report" data-citation-url="https://www.bbc.co.uk/mediacentre/documents/news-integrity-in-ai-assistants-report.pdf" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC News Integrity in AI Assistants toolkit" data-citation-url="https://www.bbc.co.uk/aboutthebbc/documents/news-integrity-in-ai-assistants-toolkit.pdf" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                The second layer is structure. Many of the most valuable search
+                experiences do not depend on prose alone. They depend on
+                machine-readable data: product specs, pricing, reviews, merchant
+                feeds, availability, opening hours, maps, and local business
+                information. This is what turns search from a text experience into a
+                useful one. It is also what underpins agentic commerce, local
+                discovery, and many of the workflows where AI can actually help
+                people do something rather than just read something.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google LocalBusiness structured data documentation" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/local-business" aria-label="Open source 3">3</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Schema.org LocalBusiness" data-citation-url="https://schema.org/LocalBusiness" aria-label="Open source 4">4</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                That is why building a great search experience requires grappling
+                with both access and structure. Access determines whether the system
+                can reach trustworthy information in the first place. Structure
+                determines whether it can turn that information into something
+                useful, legible, and actionable.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC / EBU News Integrity in AI Assistants report" data-citation-url="https://www.bbc.co.uk/mediacentre/documents/news-integrity-in-ai-assistants-report.pdf" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google LocalBusiness structured data documentation" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/local-business" aria-label="Open source 3">3</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                In other words: search is not just a model problem or a retrieval
+                problem. It is an ecosystem problem.
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / BBC research</p>
+              <h3 class="visual-title">Accuracy issues remain high across assistants</h3>
+              <div class="visual-frame visual-bbc-chart">
+                <div class="chart-shell">
+                  <canvas
+                    id="bbc-accuracy-chart"
+                    aria-label="Stacked bar chart of AI responses with some or significant accuracy issues across assistants"
+                  ></canvas>
+                </div>
+              </div>
+              <figcaption class="figure-note">
+                BBC / EBU 2025, core-question responses, accuracy only. This is one
+                visible symptom of the broader access and sourcing problem described
+                in the section copy.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="ux">
+          <div class="section-main">
+            <p class="section-kicker">04 / The UX of search</p>
+            <h2 class="section-title">
+              People do not experience search as a text box. They experience it as a
+              rich results environment.
+            </h2>
+            <div class="section-body">
+              <p>
+                User expectations were trained by modern search engines, not by chat
+                alone. People expect images, videos, maps, recipes, product panels,
+                local results, and other result types that help them choose the right
+                mode of attention quickly. A strong search experience is multimodal
+                and situational by default.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search visual elements gallery" data-citation-url="https://developers.google.com/search/docs/appearance/visual-elements-gallery" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search structured data gallery" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/search-gallery" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                That matters because format is part of trust. A recipe query should
+                not look like a market research query. A local intent query should
+                surface place data and availability. A how-to query may need video or
+                stepwise structure. The interface should signal what kind of knowledge
+                is being returned, not just paraphrase everything into the same block
+                of prose.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search visual elements gallery" data-citation-url="https://developers.google.com/search/docs/appearance/visual-elements-gallery" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Recipe structured data" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/recipe" aria-label="Open source 3">3</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Local business structured data" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/local-business" aria-label="Open source 4">4</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                Anthropic should treat this as a UX discipline, not a garnish layer.
+                The winner in search will not just have the best model underneath. It
+                will know when to answer with text, when to show a map, when to
+                foreground an image, and when to preserve the source format because
+                that is what the user actually needs to decide.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Google Search structured data gallery" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/search-gallery" aria-label="Open source 2">2</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Local business structured data" data-citation-url="https://developers.google.com/search/docs/appearance/structured-data/local-business" aria-label="Open source 4">4</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Search UX</p>
+              <h3 class="visual-title">Rich results environment</h3>
+              <div class="visual-frame visual-image">
+                <img
+                  class="visual-image-asset"
+                  src="https://developers.google.com/search/docs/images/anatomy-of-search-results-page.png"
+                  alt="Annotated anatomy of a search results page showing multiple result types and layout regions."
+                />
+              </div>
+              <figcaption class="figure-note">
+                Google's anatomy-of-search-results image is a useful shorthand for
+                the idea that search UX is a system of result types, not a single
+                answer block.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="metrics">
+          <div class="section-main">
+            <p class="section-kicker">05 / Metrics, evals, provenance</p>
+            <h2 class="section-title">
+              Search quality should be measured like a trust system, not just a
+              relevance system.
+            </h2>
+            <div class="section-body">
+              <p>
+                The usual search metrics still matter: coverage, freshness, latency,
+                answer relevance, abandonment, task completion. But AI search adds a
+                more important layer. You need evals for confidence calibration,
+                source diversity, citation usefulness, update sensitivity, and
+                whether users can meaningfully inspect why an answer should be
+                believed.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Search Results Documentation" data-citation-url="https://docs.anthropic.com/en/docs/build-with-claude/search-results" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                This is where provenance stops being a UI garnish and becomes a
+                product discipline. The ideal experience does not merely attach links
+                after the fact. It surfaces evidence in the rhythm of the
+                interaction, with enough clarity that users can inspect, compare, and
+                continue thinking.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude can provide incorrect or misleading responses" data-citation-url="https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on" aria-label="Open source 3">3</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                A serious search organization at Anthropic would treat evals,
+                provenance design, and knowledge partnerships as one operating
+                system. The point is not to maximize visible citations. The point is
+                to make truth-seeking behavior easier than bluffing.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Search Results Documentation" data-citation-url="https://docs.anthropic.com/en/docs/build-with-claude/search-results" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Operating metrics</p>
+              <h3 class="visual-title">Trust system scorecard</h3>
+              <div class="visual-frame visual-scorecard">
+                <div class="score-row">
+                  <span class="score-label">Habit</span>
+                  <span class="score-value">67<small>/100</small></span>
+                </div>
+                <div class="score-row">
+                  <span class="score-label">Trust</span>
+                  <span class="score-value">81<small>/100</small></span>
+                </div>
+                <div class="score-row">
+                  <span class="score-label">Coverage</span>
+                  <span class="score-value">74<small>/100</small></span>
+                </div>
+                <div class="score-row">
+                  <span class="score-label">Provenance</span>
+                  <span class="score-value">88<small>/100</small></span>
+                </div>
+              </div>
+              <figcaption class="figure-note">
+                Good place for a real eval dashboard screenshot or a sharper
+                provenance score model.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="why-me">
+          <div class="section-main">
+            <p class="section-kicker">06 / Why me</p>
+            <h2 class="section-title">
+              I sit at the intersection of search strategy, knowledge systems, and
+              product judgment.
+            </h2>
+            <div class="section-body">
+              <p>
+                My angle is not just SEO, not just product, and not just editorial.
+                It is the connective tissue between how information is discovered, how
+                it is structured, how people trust it, and how organizations turn
+                that into a differentiated user experience.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Using Research on Claude" data-citation-url="https://support.anthropic.com/en/articles/11088861-using-research-on-claude" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                I think in wedges, interfaces, supply dynamics, incentives, and
+                operating systems. I know how to build narratives internally,
+                translate strategic ambiguity into programs, and make search legible
+                across product, partnerships, policy, and go-to-market functions.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                For this role, the job is not merely improving retrieval quality. It
+                is helping Anthropic define what trusted knowledge looks like as a
+                product category and then organizing the company around it.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Using Research on Claude" data-citation-url="https://support.anthropic.com/en/articles/11088861-using-research-on-claude" aria-label="Open source 2">2</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="RAG for Projects" data-citation-url="https://support.anthropic.com/en/articles/11473015-retrieval-augmented-generation-rag-for-projects" aria-label="Open source 3">3</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Fit</p>
+              <h3 class="visual-title">The overlap I bring</h3>
+              <div class="visual-frame visual-pillars">
+                <article class="pillar">
+                  <h3 class="pillar-title">Search</h3>
+                  <p class="pillar-copy">Demand, discovery, and retrieval strategy</p>
+                </article>
+                <article class="pillar">
+                  <h3 class="pillar-title">Knowledge</h3>
+                  <p class="pillar-copy">Structure, provenance, and information trust</p>
+                </article>
+                <article class="pillar">
+                  <h3 class="pillar-title">Product</h3>
+                  <p class="pillar-copy">Narrative, execution, and operating cadence</p>
+                </article>
+              </div>
+              <figcaption class="figure-note">
+                Could become a cleaner three-circle or triangle graphic later.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section class="section reveal" id="first-90">
+          <div class="section-main">
+            <p class="section-kicker">07 / First 90 days</p>
+            <h2 class="section-title">
+              Start with the product truth, then build the operating system behind it.
+            </h2>
+            <div class="section-body">
+              <p>
+                The first 90 days should not begin with a grand reorg or an abstract
+                strategy deck. They should begin with product truth: where Claude
+                search is already strong, where it breaks trust, what user behaviors
+                are forming, and which strategic bets are being underexploited.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC News Integrity in AI Assistants toolkit" data-citation-url="https://www.bbc.co.uk/aboutthebbc/documents/news-integrity-in-ai-assistants-toolkit.pdf" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Citations on the Anthropic API" data-citation-url="https://www.anthropic.com/news/introducing-citations-api" aria-label="Open source 2">2</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Anthropic's Transparency Hub" data-citation-url="https://www.anthropic.com/news/introducing-anthropic-transparency-hub" aria-label="Open source 3">3</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / 90-day plan</p>
+              <h3 class="visual-title">30 / 60 / 90</h3>
+              <div class="visual-frame visual-roadmap">
+                <article class="roadmap-phase">
+                  <p class="roadmap-range">1-30</p>
+                  <div>
+                    <h3 class="roadmap-title">Audit</h3>
+                    <p class="roadmap-copy">Map stack, users, failures</p>
+                  </div>
+                </article>
+                <article class="roadmap-phase">
+                  <p class="roadmap-range">31-60</p>
+                  <div>
+                    <h3 class="roadmap-title">Define</h3>
+                    <p class="roadmap-copy">Set wedge and scorecard</p>
+                  </div>
+                </article>
+                <article class="roadmap-phase">
+                  <p class="roadmap-range">61-90</p>
+                  <div>
+                    <h3 class="roadmap-title">Operate</h3>
+                    <p class="roadmap-copy">Stand up cross-functional cadence</p>
+                  </div>
+                </article>
+              </div>
+              <figcaption class="figure-note">
+                Swap for a final roadmap graphic if you want tighter sequencing.
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+      </article>
+
+      <section class="closing reveal">
+        <div class="closing-grid">
+          <div>
+            <p class="section-kicker">08 / Closing statement</p>
+            <h2 class="section-title">
+              Anthropic has a credible path to become the trusted layer between
+              people and the world they need to understand.
+            </h2>
+            <div class="closing-copy">
+              <p>
+                That path runs through search. Not search as ten blue links. Not
+                search as a backend connector. Search as a deliberate knowledge
+                product: careful retrieval, legible evidence, calm confidence, and
+                repeatable trust.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Introducing Anthropic's Transparency Hub" data-citation-url="https://www.anthropic.com/news/introducing-anthropic-transparency-hub" aria-label="Open source 2">2</button>
+                  </span>
+                </sup>
+              </p>
+              <p>
+                If the thesis is right, then this role is not support for the
+                roadmap. It is part of defining the roadmap. I’d like to help
+                Anthropic build that category.
+                <sup class="inline-citation-group">
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="The Anthropic Economic Index" data-citation-url="https://www.anthropic.com/economic-index" aria-label="Open source 1">1</button>
+                  </span>
+                </sup>
+              </p>
+            </div>
+            <div class="signature">
+              <p class="signature-name">Tom Critchlow</p>
+              <p class="signature-meta">Pitch prototype for Head of Search &amp; Knowledge</p>
+            </div>
+          </div>
+          <div class="section-sidebar">
+            <figure class="section-visual">
+              <p class="figure-label">Key visual / Closing signal</p>
+              <h3 class="visual-title">Trusted research can be a category.</h3>
+              <div class="visual-frame visual-signal">
+                <p class="signal-stat">Search is thinking.</p>
+                <p class="signal-substat">Trust is the product.</p>
+              </div>
+              <figcaption class="figure-note">
+                Replace with a stronger closing mark, chart, or proof point if
+                needed.
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+    </main>
 
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>

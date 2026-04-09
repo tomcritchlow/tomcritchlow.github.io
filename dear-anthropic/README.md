@@ -4,23 +4,22 @@ Static one-page microsite prototype for a Head of Search & Knowledge pitch.
 
 ## Files
 
-- `index.html`: document shell, font import, and app mount point
-- `styles.css`: editorial layout, typography, motion, and placeholder visual styling
-- `app.js`: reusable content objects and render helpers for each section
+- `index.html`: primary content file with the full essay, visuals, and inline citation buttons
+- `styles.css`: editorial layout, typography, motion, and visual styling
+- `app.js`: lightweight behavior only for scroll reveals and citation tooltips
 
 ## Edit the copy
 
-1. Open `app.js`.
-2. Update the `hero`, `sections`, and `closing` objects.
-3. Keep paragraph copy in the `paragraphs` arrays. Paragraphs can be plain strings or objects with `text` and `refs` for inline citations.
-4. Each section now uses a single right-rail `visual` object to keep the layout cleaner.
-5. Add or edit source links in each section's `footnotes` array to control the inline citation popovers in the essay text.
+1. Open `index.html`.
+2. Edit the prose directly inside the hero, sections, and closing blocks.
+3. Inline citations are plain buttons in the HTML with `data-citation-label` and `data-citation-url`.
+4. Most visuals are also in `index.html`, so you can swap labels, values, or image URLs without touching JavaScript.
 
 ## Swap in final visuals
 
-1. Search for `visual:` in `app.js`.
-2. Replace the placeholder values with your final chart labels, stat values, or structural data.
-3. If you want to embed a real chart or SVG, update `renderVisualFrame()` and the matching renderer in `app.js`.
+1. Search for `Key visual` in `index.html`.
+2. Replace placeholder labels, stat values, or image URLs directly in the matching section.
+3. If you want to embed a custom chart or SVG, add the markup directly in `index.html`.
 4. Update `.visual-frame` and the specific `.visual-*` classes in `styles.css` if the final visuals need different styling.
 
 ## Tweak the design
