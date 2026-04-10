@@ -3,11 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/images/favicon.png" />
+
     <title>Dear Anthropic.</title>
     <meta
       name="description"
       content="A one-page editorial microsite arguing that search is a core trust and habit layer for AI."
     />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Dear Anthropic." />
+    <meta
+      property="og:description"
+      content="A manifesto on trusted search, knowledge retrieval, provenance, and why Anthropic should treat search as a first-order product surface."
+    />
+    <meta property="og:image" content="/images/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Dear Anthropic open graph card with the thesis: Search is the surface where models earn trust and become habit."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Dear Anthropic." />
+    <meta
+      name="twitter:description"
+      content="A manifesto on trusted search, knowledge retrieval, provenance, and why Anthropic should treat search as a first-order product surface."
+    />
+    <meta name="twitter:image" content="/images/og-image.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -22,13 +44,14 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <script defer data-domain="tomcritchlow.com" src="https://plausible.io/js/script.js"></script>
     <main id="app" data-companion-url="https://claude-search-grader.replit.app/">
-      <!-- Add the Replit app URL to data-companion-url to enable the companion modal. -->
       <section class="hero">
         <div class="hero-shell reveal is-visible">
-          <div class="hero-copy">
-            <p class="hero-kicker">Open letter / Head of Search &amp; Knowledge</p>
+          <div class="hero-head">
             <h1 class="hero-title">Dear Anthropic.</h1>
+          </div>
+          <div class="hero-body">
             <p class="hero-dek">
               The rise of Google taught us that searching is thinking.
             </p>
@@ -55,7 +78,18 @@
             >
               LinkedIn
             </a>
-            <a class="hero-scroll accent-link" href="#shift">Read the argument</a>
+                        <a
+              class="hero-meta-link accent-link"
+              href="mailto:tjcritchlow@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              tjcritchlow@gmail.com
+            </a>
+            <div class="hero-actions">
+              <a class="hero-scroll accent-link" href="#shift">Read the essay</a>
+              <a class="hero-scroll accent-link" href="#prototype">Explore the prototype</a>
+            </div>
           </aside>
         </div>
       </section>
@@ -115,9 +149,9 @@
                 </sup>
               </p>
               <p>
-                This is why search matters so much now. It is the surface where
+                <strong style="color: var(--accent)">This is why search matters so much now. It is the surface where
                 models earn trust, become habit, and shape a user’s relationship with
-                reality.
+                reality.</strong>
               </p>
             </div>
           </div>
@@ -205,9 +239,9 @@
                 </sup>
               </p>
               <p>
-                The wedge, then, is not generic assistant utility. It is becoming the
+                <strong style="color: var(--accent)">The wedge, then, is not generic assistant utility. It is becoming the
                 default starting point for everyday uncertainty, and using that
-                repeated contact to earn the right to help when the stakes are real.
+                repeated contact to earn the right to help when the stakes are real.</strong>
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Search and email still top the list of most popular online activities" data-citation-url="https://www.pewresearch.org/internet/2011/08/09/search-and-email-still-top-the-list-of-most-popular-online-activities/" aria-label="Open source 2">2</button>
@@ -243,36 +277,40 @@
               <div class="visual-frame visual-task-mosaic">
                 <div class="task-mosaic">
                   <article class="task-chip">
-                    <p class="task-chip-label">Maps</p>
-                    <p class="task-chip-copy">What’s the closest national park to Portland, Maine?</p>
-                  </article>
-                  <article class="task-chip">
-                    <p class="task-chip-label">Travel</p>
-                    <p class="task-chip-copy">Can I reach Duquesne from Pittsburgh airport in under an hour?</p>
-                  </article>
-                  <article class="task-chip">
-                    <p class="task-chip-label">Reviews</p>
-                    <p class="task-chip-copy">Summarize reviews for Echo Dot 3rd gen.</p>
+                    <p class="task-chip-label">Events</p>
+                    <p class="task-chip-copy">
+                      Find two upcoming sports or music events in New York City within the
+                      next two months, with venue, ticket link, and transit time from Jersey
+                      City.
+                    </p>
                   </article>
                   <article class="task-chip">
                     <p class="task-chip-label">Shopping</p>
-                    <p class="task-chip-copy">Find the best storage option for 31 Switch game cards.</p>
+                    <p class="task-chip-copy">
+                      Find at least five 34-inch curved monitors, with three purchase sites
+                      and prices for each model.
+                    </p>
                   </article>
                   <article class="task-chip">
-                    <p class="task-chip-label">Local</p>
-                    <p class="task-chip-copy">Which supermarkets are within 15 minutes of this hotel?</p>
+                    <p class="task-chip-label">Music</p>
+                    <p class="task-chip-copy">
+                      Identify five artists with 10 to 20 million monthly Spotify listeners,
+                      plus a non-Spotify-official playlist featuring one of their songs.
+                    </p>
                   </article>
                   <article class="task-chip">
-                    <p class="task-chip-label">Route</p>
-                    <p class="task-chip-copy">What’s the walking time from CMU to Pitt?</p>
+                    <p class="task-chip-label">Routing</p>
+                    <p class="task-chip-copy">
+                      Find three official state parks that keep a Dayton to Notre Dame road
+                      trip under 260 miles, with addresses and official park pages.
+                    </p>
                   </article>
                   <article class="task-chip">
-                    <p class="task-chip-label">Catalog</p>
-                    <p class="task-chip-copy">Show me products under $30 in men’s shoes.</p>
-                  </article>
-                  <article class="task-chip">
-                    <p class="task-chip-label">Analytics</p>
-                    <p class="task-chip-copy">What brands appear most in top search terms?</p>
+                    <p class="task-chip-label">Code</p>
+                    <p class="task-chip-copy">
+                      Identify the first commit on the main branch of Hugging Face
+                      Transformers that added support for LLaVA.
+                    </p>
                   </article>
                 </div>
                 <p class="task-mosaic-footer">
@@ -280,8 +318,8 @@
                 </p>
               </div>
               <figcaption class="figure-note">
-                Breadth matters: trust is built through ordinary, repeatable
-                questions across many domains.
+                Task examples adapted from Mind2Web 2 prompts. Breadth matters: trust is
+                built through ordinary, repeatable questions across many domains.
               </figcaption>
             </figure>
           </div>
@@ -334,11 +372,11 @@
                 </sup>
               </p>
               <p>
-                That is why building a great search experience requires grappling
+                <strong style="color: var(--accent)">That is why building a great search experience requires grappling
                 with both access and structure. Access determines whether the system
                 can reach trustworthy information in the first place. Structure
                 determines whether it can turn that information into something
-                useful, legible, and actionable.
+                useful, legible, and actionable.</strong>
                 <sup class="inline-citation-group">
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="BBC / EBU News Integrity in AI Assistants report" data-citation-url="https://www.bbc.co.uk/mediacentre/documents/news-integrity-in-ai-assistants-report.pdf" aria-label="Open source 1">1</button>
@@ -368,8 +406,7 @@
               </div>
               <figcaption class="figure-note">
                 BBC / EBU 2025, core-question responses, accuracy only. This is one
-                visible symptom of the broader access and sourcing problem described
-                in the section copy.
+                visible symptom of the broader access and sourcing problem described.
               </figcaption>
             </figure>
           </div>
@@ -416,11 +453,11 @@
                 </sup>
               </p>
               <p>
-                AI opens up a larger design space again: comparisons, guided flows,
+                <strong style="color: var(--accent)">AI opens up a larger design space again: comparisons, guided flows,
                 step-by-step responses, interactive explanations, diagrams, and
                 other formats that do more than summarize. But that makes the UX
                 problem harder, not easier. Matching the interface to the intent
-                requires judgment, and consistency matters as much as novelty.
+                requires judgment, and consistency matters as much as novelty.</strong>
               </p>
               <p>
                 Anthropic should treat search UX as a core product capability. The
@@ -482,6 +519,9 @@
                 </sup>
               </p>
               <p>
+                Mind2Web 2 usefully frames this as an evaluation crisis for
+                agentic search: once answers become long-horizon, time-varying,
+                and citation-backed, conventional benchmarks stop being enough.
                 That changes what should be measured. In addition to relevance,
                 Anthropic should care about confidence calibration, source
                 diversity, citation usefulness, update sensitivity, and whether
@@ -493,6 +533,9 @@
                   </span>
                   <span class="inline-citation">
                     <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Claude can provide incorrect or misleading responses" data-citation-url="https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on" aria-label="Open source 3">3</button>
+                  </span>
+                  <span class="inline-citation">
+                    <button class="inline-citation-trigger" type="button" data-citation-trigger data-citation-label="Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge" data-citation-url="https://arxiv.org/pdf/2506.21506" aria-label="Open source 4">4</button>
                   </span>
                 </sup>
               </p>
@@ -512,17 +555,17 @@
                 </sup>
               </p>
               <p>
-                If Anthropic relies on third-party web indexing
+                Since Anthropic relies on third-party web indexing
                 infrastructure, it also needs strong internal systems for
                 auditing source quality, inspecting retrieval behavior, and
                 ensuring the product is not confidently citing spam, low-quality
                 pages, or manipulated results.
               </p>
               <p>
-                A serious search organization would treat evals, provenance
-                design, and information access as one operating system. The goal
-                is not to maximize visible citations. It is to make truth-seeking
-                behavior easier than bluffing.
+                <strong style="color: var(--accent)">A serious search organization would treat evals, provenance
+                design, and information access as one system. The goal
+                is not to maximize visible citations but rather to ensure truth-seeking
+                behavior is easy and transparent.</strong>
               </p>
             </div>
           </div>
@@ -614,11 +657,11 @@
                 incentives, and the health of the underlying web.
               </p>
               <p>
-                What excites me most is exactly the kind of problem Anthropic faces
+                <strong style="color: var(--accent)">What excites me most is exactly the kind of problem Anthropic faces
                 here: high ambiguity, high leverage, and no established roadmap. I
                 like working at the frontier where the product surface is still
                 forming, the strategic wedge is not yet obvious, and the operating
-                model has to be invented in parallel with the product itself.
+                model has to be invented in parallel with the product itself.</strong>
               </p>
             </div>
           </div>
@@ -661,10 +704,6 @@
                   </div>
                 </article>
               </div>
-              <figcaption class="figure-note">
-                Depth, scope, and recency across search, strategy, and the
-                information ecosystem.
-              </figcaption>
             </figure>
           </div>
         </section>
@@ -675,10 +714,13 @@
         <div class="closing-shell">
           <p class="section-kicker">07 / Closing statement</p>
           <h2 class="section-title">
-            Anthropic has a credible path to become the trusted layer between
-            people and the world they need to understand.
+            Frontier search for frontier models.
           </h2>
           <div class="closing-copy">
+            <p>
+             Anthropic has a credible path to become the trusted layer between
+            people and the world they need to understand.
+            </p>
             <p>
               That path runs through search. Not search as ten blue links or a
               backend connector, but search as a deliberate knowledge product:
@@ -686,88 +728,53 @@
               repeatable trust.
             </p>
             <p>
-              If the thesis is right, this role is not support for the roadmap. It
-              is part of defining the roadmap. I’d like to help Anthropic build
-              that category.
+              <strong style="color: var(--accent)">I’d like to help Anthropic build
+              that category.</strong>
             </p>
           </div>
-          <section class="companion-block" aria-labelledby="companion-title">
-            <p class="companion-kicker">Companion / BBC rubric demo</p>
-            <h3 class="companion-title" id="companion-title">
-              Try a live query against the grading rubric
-            </h3>
-            <p class="companion-copy">
-              Enter a search query to open the companion evaluator and inspect how
-              the answer performs against the BBC rubric for sourcing, quote
-              fidelity, and reliability.
-            </p>
-            <form class="companion-form" data-companion-form>
-              <label class="sr-only" for="companion-query">Search query</label>
-              <input
-                class="companion-input"
-                id="companion-query"
-                name="q"
-                type="text"
-                placeholder="e.g. why did Birmingham bin workers go on strike?"
-                autocomplete="off"
-                required
-              />
-              <button class="companion-submit" type="submit">
-                Open evaluator
-              </button>
-            </form>
-            <p class="companion-note" data-companion-note>
-              The query opens in a modal so the essay remains in view.
-            </p>
-          </section>
           <div class="signature">
             <p class="signature-name">Tom Critchlow</p>
-            <p class="signature-meta">Pitch for Head of Search &amp; Knowledge</p>
+            <p class="signature-meta">tjcritchlow@gmail.com</p>
           </div>
         </div>
       </section>
 
-      <div class="companion-modal" data-companion-modal hidden>
-        <div class="companion-backdrop" data-companion-close></div>
-        <div
-          class="companion-dialog"
-          role="dialog"
-          aria-modal="true"
-          aria-labelledby="companion-modal-title"
-        >
-          <div class="companion-dialog-head">
-            <div>
-              <p class="companion-kicker">Companion / Live evaluator</p>
-              <h3 class="companion-dialog-title" id="companion-modal-title">
-                BBC rubric response audit
-              </h3>
+      <section class="prototype reveal" id="prototype">
+        <div class="prototype-shell">
+          <div class="prototype-intro">
+            <p class="section-kicker">08 / Prototype</p>
+            <h2 class="section-title">
+              A live provenance inspector for Claude Sonnet responses.
+            </h2>
+            <div class="prototype-copy">
+              <p>
+                This companion prototype explores the provenance and citations of
+                Claude Sonnet responses using the BBC’s evaluation grading. It is
+                designed to make inspection more legible: not just whether an
+                answer cites sources, but whether the evidence actually survives
+                scrutiny.
+              </p>
+              <p>
+                The tool below grades responses against BBC-style criteria for
+                sourcing, quote fidelity, attribution, and reliability.
+              </p>
+              <p>
+                <em>Disclaimer: this prototype is a simple model and uses LLMs grading LLMs, illustrative rather than prescriptive.</em>
+              </p>
             </div>
-            <button
-              class="companion-close"
-              type="button"
-              aria-label="Close evaluator"
-              data-companion-close
-            >
-              Close
-            </button>
+            <div class="prototype-meta">
+              <a
+                class="accent-link companion-open-new"
+                href="https://claude-search-grader.replit.app/?embedded=1"
+                target="_blank"
+                rel="noreferrer"
+                data-companion-open-new
+              >
+                Open full prototype
+              </a>
+            </div>
           </div>
-          <div class="companion-dialog-meta">
-            <p class="companion-query-display">
-              Query:
-              <span data-companion-query-display></span>
-            </p>
-            <a
-              class="accent-link companion-open-new"
-              href="#"
-              target="_blank"
-              rel="noreferrer"
-              data-companion-open-new
-              hidden
-            >
-              Open in new tab
-            </a>
-          </div>
-          <div class="companion-frame-shell">
+          <div class="prototype-frame-shell">
             <iframe
               class="companion-iframe"
               title="BBC rubric evaluator"
@@ -776,11 +783,11 @@
             ></iframe>
           </div>
         </div>
-      </div>
+      </section>
     </main>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
-    <script src="./app.js?v=20260409c"></script>
+    <script src="./app.js?v=20260410b"></script>
   </body>
 </html>

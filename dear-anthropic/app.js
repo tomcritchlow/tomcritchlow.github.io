@@ -7,36 +7,6 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
-function setupReveals() {
-  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-  if (reduceMotion) {
-    document.querySelectorAll(".reveal").forEach((element) => {
-      element.classList.add("is-visible");
-    });
-    return;
-  }
-
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          observer.unobserve(entry.target);
-        }
-      });
-    },
-    {
-      threshold: 0.18,
-      rootMargin: "0px 0px -6% 0px",
-    },
-  );
-
-  document.querySelectorAll(".reveal").forEach((element) => {
-    observer.observe(element);
-  });
-}
-
 function setupCitations() {
   const $ = window.jQuery;
 
@@ -184,7 +154,7 @@ function setupBBCChart() {
       labels,
       datasets: [
         {
-          label: "Significant",
+          label: "Significant issues",
           data: significant,
           backgroundColor: "rgba(17, 17, 17, 0.68)",
           borderWidth: 0,
@@ -192,7 +162,7 @@ function setupBBCChart() {
           barThickness: 34,
         },
         {
-          label: "Some",
+          label: "Some issues",
           data: some,
           backgroundColor: "#02AD28",
           borderWidth: 0,
@@ -273,31 +243,17 @@ function setupBBCChart() {
   });
 }
 
-function setupCompanionModal() {
+function setupCompanionEmbed() {
   const DEFAULT_COMPANION_URL = "https://claude-search-grader.replit.app/";
   const app = document.querySelector("#app");
-  const form = document.querySelector("[data-companion-form]");
-  const modal = document.querySelector("[data-companion-modal]");
   const iframe = document.querySelector("[data-companion-iframe]");
-  const queryDisplay = document.querySelector("[data-companion-query-display]");
   const openNew = document.querySelector("[data-companion-open-new]");
-  const note = document.querySelector("[data-companion-note]");
-  const closeButtons = [...document.querySelectorAll("[data-companion-close]")];
 
   if (
     !(app instanceof HTMLElement) ||
-    !(form instanceof HTMLFormElement) ||
-    !(modal instanceof HTMLElement) ||
     !(iframe instanceof HTMLIFrameElement) ||
-    !(queryDisplay instanceof HTMLElement) ||
     !(openNew instanceof HTMLAnchorElement)
   ) {
-    return;
-  }
-
-  const input = form.elements.namedItem("q");
-
-  if (!(input instanceof HTMLInputElement)) {
     return;
   }
 
@@ -305,57 +261,13 @@ function setupCompanionModal() {
     app.getAttribute("data-companion-url")?.trim() ||
     DEFAULT_COMPANION_URL;
 
-  if (note) {
-    note.textContent = "The query opens in a modal so the essay remains in view.";
-  }
+  const target = new URL(companionUrl, window.location.href);
+  target.searchParams.set("embedded", "1");
 
-  const closeModal = () => {
-    modal.hidden = true;
-    document.body.classList.remove("is-modal-open");
-    iframe.removeAttribute("src");
-    openNew.hidden = true;
-    queryDisplay.textContent = "";
-  };
-
-  const openModal = (query) => {
-    const trimmedQuery = query.trim();
-
-    queryDisplay.textContent = trimmedQuery;
-    modal.hidden = false;
-    document.body.classList.add("is-modal-open");
-
-    const target = new URL(companionUrl, window.location.href);
-    target.searchParams.set("q", trimmedQuery);
-    target.searchParams.set("embedded", "1");
-
-    iframe.src = target.toString();
-    openNew.href = target.toString();
-    openNew.hidden = false;
-  };
-
-  form.addEventListener("submit", (event) => {
-    event.preventDefault();
-
-    if (!input.value.trim()) {
-      input.focus();
-      return;
-    }
-
-    openModal(input.value);
-  });
-
-  closeButtons.forEach((button) => {
-    button.addEventListener("click", closeModal);
-  });
-
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape" && !modal.hidden) {
-      closeModal();
-    }
-  });
+  iframe.src = target.toString();
+  openNew.href = target.toString();
 }
 
-setupReveals();
 setupCitations();
 setupBBCChart();
-setupCompanionModal();
+setupCompanionEmbed();
