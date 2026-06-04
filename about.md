@@ -3,7 +3,7 @@ layout: blog
 title: About Me
 ---
 
-Hi there, I'm based in Brooklyn, NY and currently do independent consulting work for media and technology companies. I also run the SEO MBA. I'm always happy to grab a coffee or a zoom!
+Hi there, I'm based in Brooklyn, NY. I'm currently working at [Alephic](https://www.alephic.com/) at the intersection of AI and marketing, building [AI Search Leaders](https://www.searchleaders.ai/), and running [the SEO MBA](https://seomba.com/). I'm always happy to grab a coffee or a zoom!
 
 Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritchlow](http://twitter.com/tomcritchlow) 
 
@@ -24,13 +24,49 @@ z-index:-1
 </style>
 
 <div class="flex items-stretch">
+<div class="relative">
+<div class="greentimeline"></div>
+<img src="https://www.google.com/s2/favicons?domain=alephic.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
+<div class="pl3 pb4 w-90">
+<strong>Alephic</strong>
+<div class="black-50 f6">2026 - Present</div>
+<div class="lh-copy f5">Working at the intersection of AI and marketing, partnering with brands on AI strategy and software.</div>
+</div>
+</div>
+
+<div class="flex items-stretch">
+<div class="relative">
+<div class="greentimeline"></div>
+<img src="https://www.google.com/s2/favicons?domain=searchleaders.ai&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
+<div class="pl3 pb4 w-90">
+<strong>Launched AI Search Leaders</strong>
+<div class="black-50 f6">2026 - Present</div>
+<div class="lh-copy f5">Co-founded a private peer community and membership platform for senior search professionals to navigate the transition to generative AI search.</div>
+</div>
+</div>
+
+<div class="flex items-stretch">
+<div class="relative">
+<div class="greentimeline"></div>
+<img src="https://www.google.com/s2/favicons?domain=raptive.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+</div>
+<div class="pl3 pb4 w-90">
+<strong>Raptive: EVP Audience Growth</strong>
+<div class="black-50 f6">2024 - 2026</div>
+<div class="lh-copy f5">Led a new audience growth function focused on supporting and enhancing traffic strategies, publisher dynamics, and search engine shifts across the creator network.</div>
+</div>
+</div>
+
+<div class="flex items-stretch">
 <div class="relative ">
 <div class="greentimeline"></div>
 <img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
-<div class="black-50 f6">2014 - Present</div>
+<div class="black-50 f6">2014 - 2024</div>
 <div class="lh-copy f5">Helping media and technology companies build new growth capabilities through product innovation, SEO programs, content marketing and brand. Working with clients like The New York Times, Gartner, Etsy, Angi, Finder, Dotdash, Ziff Davis and more.</div>
 </div>
 </div>
