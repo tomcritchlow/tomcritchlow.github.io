@@ -18,14 +18,14 @@ main_links:
     feathericon: search
     url: "/search"        
 groups:            
-  - group_name: Hire me
+  - group_name: Projects
     links:
-      - name: Consulting
-        feathericon: git-merge
-        url: "/consulting"
-      - name: Advisor
-        feathericon: git-pull-request
-        url: "/advisor"
+      - name: The Strategic Independent
+        feathericon: book-open
+        url: "https://tomcritchlow.com/strategy/"
+      - name: AI Search Leaders
+        feathericon: user
+        url: "https://www.searchleaders.ai/"                     
   - group_name: Elsewhere
     links:
       - name: Twitter
