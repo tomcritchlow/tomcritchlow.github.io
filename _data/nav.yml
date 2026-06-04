@@ -20,11 +20,11 @@ main_links:
 groups:            
   - group_name: Projects
     links:
-      - name: The Strategic Independent
+      - name: My Book
         feathericon: book-open
         url: "https://tomcritchlow.com/strategy/"
       - name: AI Search Leaders
-        feathericon: user
+        feathericon: compass
         url: "https://www.searchleaders.ai/"                     
   - group_name: Elsewhere
     links:
