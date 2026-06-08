@@ -106,3 +106,7 @@ That last question matters because the danger is not one agent doing one thing b
 Colonies are powerful because local behavior scales. Colonies are dangerous for the same reason.
 
 Maybe the first wave of AI adoption is about margins. The second wave is about throughput. The third wave is about new organizational forms.
+
+--
+
+*Editor's note: I just started a new job at [Alephic](https://www.alephic.com/) so expect more AI and future of work takes!*
