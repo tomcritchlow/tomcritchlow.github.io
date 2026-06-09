@@ -1,16 +1,34 @@
 </div>
 
 <style>
-  @media (min-width:961px){
-.navlinks{
-  width:223px;
-}
+  @media (max-width: 1024px) {
+    .flex-l {
+      display: block !important;
+    }
+    .fixed-l {
+      position: static !important;
+      height: auto !important;
+    }
+    .navlinks a {
+      display: inline-flex !important;
+      align-items: center;
+    }
+    .navname.db-l {
+      display: none !important;
+    }
+    .dn.db-l {
+      display: none !important;
+    }
+  }
 
-.mainlinks{
-  padding-left:223px
-}
-}
-
+  @media (min-width: 1025px) {
+    .navlinks {
+      width: 223px;
+    }
+    .mainlinks {
+      padding-left: 223px;
+    }
+  }
 </style>
 
 
