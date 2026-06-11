@@ -103,7 +103,7 @@ But once that happens, management changes. In a machine org, management assigns 
 
 That last question matters because the danger is not one agent doing one thing badly. The danger is a pattern of agency replicating across the organization. A bad prompt copied into ten workflows. A broken metric used by five teams. A temporary automation becoming infrastructure. A hallucinated summary becoming a board slide. A vibe-coded script quietly becoming a system of record.
 
-Colonies are powerful because local behavior scales. Colonies are dangerous for the same reason.
+Colonies are powerful because local behavior scales, but colonies are dangerous for the same reason...
 
 Maybe the first wave of AI adoption is about margins. The second wave is about throughput. The third wave is about new organizational forms.
 
