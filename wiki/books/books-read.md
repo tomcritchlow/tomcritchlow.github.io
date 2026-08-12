@@ -2,6 +2,18 @@
 layout: wikibook
 title: A running list of books I've finished
 books:
+ - title: City of Stairs
+   author: Robert Jackson Bennett
+   link: https://openlibrary.org/isbn/9780804137171
+   image: https://covers.openlibrary.org/b/isbn/9780804137171-L.jpg
+ - title: City of Blades
+   author: Robert Jackson Bennett
+   link: https://openlibrary.org/isbn/9780553419719
+   image: https://covers.openlibrary.org/b/isbn/9780553419719-L.jpg
+ - title: City of Miracles
+   author: Robert Jackson Bennett
+   link: https://openlibrary.org/isbn/9780553419733
+   image: https://covers.openlibrary.org/b/isbn/9780553419733-L.jpg
  - title: Lost Book of Adana Moreau
    author: Michael Zapata
    link: https://openlibrary.org/works/OL21971248W
