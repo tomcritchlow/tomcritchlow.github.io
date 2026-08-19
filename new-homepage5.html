@@ -221,14 +221,13 @@
 
     <p class="f6 mw7 center"><em>Join my newsletter:</em></p>
   <form
-  action="https://buttondown.email/api/emails/embed-subscribe/tomcritchlow"
+  action="https://buttondown.com/api/emails/embed-subscribe/tomcritchlow"
   method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/tomcritchlow', 'popupwindow')"
   class="embeddable-buttondown-form flex items-center w-100 f4-l f5 mw7 center"
 >
-  <input placeholder="Email Address" type="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv3 ph4 border-box br2 br--left">
+  <input placeholder="Email Address" type="email" required autocomplete="email" name="email" id="bd-email" class="w-100 input-reset ba b--black-20 pv3 ph4 border-box br2 br--left">
   <input type="hidden" name="metadata__cta" value="homepage">
+  <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" class="input-reset w-auto-ns bg-newgreen white pv3 ph4 ba b--black-20 bg-hover-mid-gray br2 br--right pointer">
   </form>
     
