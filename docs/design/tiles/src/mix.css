@@ -1,0 +1,6 @@
+/* shared by the B+C hybrids: essay parts use the bright mark green so they read in dark mode */
+.reader a{text-decoration-color:var(--mark)}
+.reader .key{box-shadow:inset 0 -2px 0 var(--mark)}
+.railnote{border-left-color:var(--mark)}
+.peek.live{border-color:var(--mark)}
+.rows button[aria-selected="true"]::before{background:var(--mark)}

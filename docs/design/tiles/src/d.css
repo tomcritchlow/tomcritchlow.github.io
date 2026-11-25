@@ -1,0 +1,5 @@
+/* D: B's homepage, C's reader. The display face carries over so the two halves feel like one site. */
+.reader h1{font:750 clamp(38px,4.6vw,58px)/1 var(--font-display);letter-spacing:-.04em}
+.reader h3{font:700 24px/1.15 var(--font-display);letter-spacing:-.025em}
+.shell.read{border-radius:16px}
+.rail h4,.reader time{font-family:var(--font-mono)}

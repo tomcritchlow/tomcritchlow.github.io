@@ -1,0 +1,253 @@
+/* M · Living Garden — Data-Driven 2012-2026 Archive Pixel Skyline + Title-Weave Hero + Swiss Technical Essay */
+.pad{padding-left:clamp(20px,5vw,72px);padding-right:clamp(20px,5vw,72px)}
+.wrap-inner{max-width:1180px;margin:0 auto}
+
+.m-hero{
+  background:var(--field);
+  color:var(--on-field);
+  position:relative;
+  overflow:hidden;
+  padding-bottom:46px;
+}
+.m-weave{
+  position:absolute;inset:0;overflow:hidden;pointer-events:none;
+  font:500 12px/2.05 var(--font-mono);
+  color:var(--on-field);opacity:.075;
+  white-space:nowrap;user-select:none;
+  padding:12px 0;
+}
+.m-weave div{will-change:transform}
+.m-hero-content{position:relative;z-index:2}
+
+.m-nav{
+  display:flex;justify-content:space-between;align-items:center;gap:16px;
+  padding-top:24px;padding-bottom:14px;
+  font-family:var(--font-label);font-size:14.5px;
+}
+.m-wordmark{font:700 18px/1 var(--font-display);letter-spacing:-.02em;text-decoration:none}
+.m-nav nav{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.m-nav nav a{
+  text-decoration:none;padding:6px 10px;border-radius:7px;font-weight:500;
+  transition:background .12s ease,color .12s ease;
+}
+.m-nav nav a:hover{background:var(--on-field);color:var(--field)}
+.m-searchbtn{
+  font:500 13px/1 var(--font-label);
+  display:inline-flex;align-items:center;gap:8px;
+  padding:7px 11px;border-radius:8px;cursor:pointer;
+  border:1.5px solid var(--on-field);background:var(--field);color:var(--on-field);
+  margin-left:6px;transition:background .12s ease,color .12s ease;
+}
+.m-searchbtn kbd{font:500 11px/1 var(--font-mono);border:1px solid currentColor;border-radius:4px;padding:1px 5px}
+.m-searchbtn:hover{background:var(--on-field);color:var(--field)}
+.m-searchbtn.quiet{border:1px solid var(--rule);color:var(--muted);background:var(--panel);margin-left:0}
+.m-searchbtn.quiet:hover{border-color:var(--fg);color:var(--fg);background:var(--panel)}
+
+.m-head{
+  padding-top:46px;
+  display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);
+  gap:clamp(24px,4.5vw,68px);align-items:end;
+}
+.m-hello{
+  font:800 clamp(62px,8vw,116px)/.9 var(--font-display);
+  letter-spacing:-.048em;margin:0;
+}
+.m-hello span{
+  background:var(--field);box-decoration-break:clone;-webkit-box-decoration-break:clone;
+  padding:0 .06em;
+}
+.m-bio{
+  font:500 clamp(17.5px,1.45vw,20px)/1.52 var(--font-body);
+  margin:0;
+  text-shadow:0 0 14px var(--field);
+}
+.m-bio p{margin:0 0 .85em}
+.m-bio p:last-child{margin-bottom:0}
+.m-bio a{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
+.m-bio a:hover{background:var(--on-field);color:var(--field);text-decoration:none}
+
+/* Top posts on the green */
+.m-tops{
+  margin-top:56px;
+  border-top:2px solid var(--on-field);
+  padding-top:18px;
+}
+.m-tag{
+  font:600 12px/1 var(--font-mono);text-transform:uppercase;letter-spacing:.05em;
+  margin:0 0 20px;display:flex;justify-content:space-between;align-items:center;
+}
+.m-topgrid{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;
+}
+.m-tcard{
+  display:flex;flex-direction:column;justify-content:space-between;gap:14px;
+  padding:18px 20px;border-radius:10px;text-decoration:none;
+  border:1.5px solid color-mix(in oklch, var(--on-field) 55%, transparent);
+  background:color-mix(in oklch, var(--field) 86%, var(--on-field) 0%);
+  transition:background .12s ease,color .12s ease,transform .12s ease;
+}
+.m-tcard.lead{
+  grid-column:span 2;
+  grid-row:span 2;
+  padding:26px 28px;
+  border-color:var(--on-field);
+  background:color-mix(in oklch, var(--on-field) 8%, var(--field));
+}
+.m-tcard time{font:500 11.5px/1 var(--font-mono);opacity:.78}
+.m-tcard b{display:block;font:700 19.5px/1.18 var(--font-display);letter-spacing:-.02em;margin:8px 0 6px}
+.m-tcard.lead b{font-size:clamp(32px,3.6vw,48px);line-height:1.0;margin:14px 0 12px}
+.m-tcard.lead i{font-size:17px;line-height:1.48;max-width:38ch}
+.m-tcard .m-lead-cta{
+  display:inline-flex;align-items:center;align-self:flex-start;gap:6px;margin-top:24px;
+  font:600 13.5px/1 var(--font-label);
+  padding:8px 13px;border-radius:7px;
+  background:var(--on-field);color:var(--field);
+}
+.m-tcard:hover .m-lead-cta{background:var(--field);color:var(--on-field)}
+.m-tcard i{display:block;font-style:normal;font-size:14px;line-height:1.42;opacity:.86}
+.m-tcard:hover{background:var(--on-field);color:var(--field);transform:translateY(-2px)}
+
+/* Data-Driven 2012-2026 Archive Pixel Skyline */
+.m-skyline-wrap{
+  position:relative;
+  background:var(--bg);
+}
+.m-skyline{display:block;width:100%;height:142px;cursor:pointer}
+.m-skyline-bar{
+  display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;
+  padding:8px clamp(20px,5vw,72px) 0;
+  font:400 11.5px/1.3 var(--font-mono);color:var(--muted);
+}
+.m-skyline-readout{color:var(--green-ink);font-weight:600}
+
+/* Latest & Projects */
+.m-latest{padding-top:26px;padding-bottom:60px}
+.m-lhead{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:14px}
+.m-lhead h2{font:600 12px/1 var(--font-mono);text-transform:uppercase;letter-spacing:.05em;margin:0;color:var(--green-ink)}
+.m-rows{list-style:none;margin:0 -12px;padding:0}
+.m-rows a{
+  display:grid;grid-template-columns:108px minmax(0,1fr);gap:14px;align-items:baseline;
+  padding:12px;border-radius:8px;text-decoration:none;position:relative;
+}
+.m-rows li+li a{box-shadow:0 -1px 0 var(--rule)}
+.m-rows time{font:400 12.5px/1.4 var(--font-mono);color:var(--muted)}
+.m-rows b{display:block;font:600 17px/1.3 var(--font-body);letter-spacing:-.01em}
+.m-rows i{display:block;font-style:normal;font-size:14px;color:var(--muted);margin-top:2px}
+.m-rows a:hover{background:var(--wash);box-shadow:none}
+.m-rows a:hover::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:3px;border-radius:2px;background:var(--brand)}
+.m-more{
+  display:inline-block;margin-top:18px;
+  font:600 14px/1 var(--font-label);color:var(--green-ink);
+  text-decoration:none;border-bottom:1.5px solid var(--brand);padding-bottom:2px;
+}
+
+.m-projects{padding:24px 0 76px;border-top:1px solid var(--rule)}
+.m-pstrip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin-top:14px}
+.m-pstrip a{
+  text-decoration:none;padding:14px 16px;border-radius:9px;
+  border:1px solid var(--rule);background:var(--panel);
+  display:flex;flex-direction:column;gap:6px;
+  transition:border-color .12s ease;
+}
+.m-pstrip a:hover{border-color:var(--brand)}
+.m-pstrip b{font:700 15px/1.25 var(--font-body)}
+.m-pstrip small{font-size:13px;line-height:1.4;color:var(--muted)}
+.m-pstrip span{font:400 11px/1 var(--font-mono);color:var(--green-ink);margin-top:auto;padding-top:6px}
+
+/* Screen 2: Swiss Technical Essay + Live Pixel-Dither Progress Seam + Whisper Section Rail */
+.m-essay-bar{
+  position:sticky;top:0;z-index:20;
+  background:var(--bg);
+}
+.m-essay-bar-inner{
+  display:flex;justify-content:space-between;align-items:center;gap:16px;
+  padding:14px clamp(20px,5vw,72px);
+}
+.m-crumb{
+  display:inline-flex;align-items:center;gap:10px;
+  font:500 13.5px/1 var(--font-label);
+}
+.m-crumb a{text-decoration:none;font-weight:700}
+.m-crumb span{color:var(--muted);font-family:var(--font-mono);font-size:12px}
+.m-dither-bar{display:block;width:100%;height:12px}
+
+.m-essay{padding-top:46px;padding-bottom:76px}
+.m-layout{
+  display:grid;
+  grid-template-columns:148px minmax(0,65ch) minmax(0,250px);
+  column-gap:42px;align-items:start;
+}
+.m-toc{
+  position:sticky;top:76px;
+  font:400 12px/1.45 var(--font-mono);color:var(--muted);
+}
+.m-toc-label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-bottom:10px;opacity:.7}
+.m-toc ol{list-style:none;margin:0;padding:0;display:grid;gap:8px;border-left:1px solid var(--rule);padding-left:12px}
+.m-toc a{text-decoration:none;display:block;position:relative;transition:color .12s ease}
+.m-toc a:hover,.m-toc a.active{color:var(--green-ink);font-weight:600}
+.m-toc a.active::before{
+  content:"";position:absolute;left:-14px;top:3px;bottom:3px;width:3px;border-radius:2px;background:var(--brand);
+}
+
+.m-main{grid-column:2/4;display:grid;grid-template-columns:subgrid}
+.m-row{grid-column:1/3;display:grid;grid-template-columns:subgrid;align-items:start}
+.m-col{grid-column:1;min-width:0;font:400 17.5px/1.7 var(--font-body)}
+.m-meta{font:500 12.5px/1 var(--font-mono);color:var(--green-ink);margin-bottom:14px}
+.m-col h1{
+  font:700 clamp(38px,4.8vw,56px)/1.02 var(--font-display);
+  letter-spacing:-.035em;margin:0 0 12px;text-wrap:balance;
+}
+.m-sub{font:400 20px/1.4 var(--font-body);color:var(--muted);margin:0 0 36px}
+.m-col p{margin:0 0 1.2em}
+.m-col h2{
+  font:600 15px/1.3 var(--font-mono);
+  color:var(--green-ink);
+  margin:2.2em 0 .75em;padding-top:14px;
+  border-top:1px solid var(--rule);
+  display:flex;align-items:center;gap:10px;
+}
+.m-col h2 b{color:var(--fg);font:700 21px/1.2 var(--font-body);letter-spacing:-.02em}
+.m-col a{
+  color:var(--fg);text-decoration:underline;
+  text-decoration-color:var(--brand);text-decoration-thickness:2px;text-underline-offset:3px;
+}
+.m-col a:hover{background:var(--wash)}
+.m-key{
+  background:var(--wash);
+  border-bottom:2px solid var(--brand);
+  padding:1px 3px;border-radius:3px;
+}
+.m-note{
+  grid-column:2;
+  font:400 13px/1.52 var(--font-label);color:var(--muted);
+  padding:10px 12px;border-radius:8px;
+  background:var(--panel);border:1px solid var(--rule);
+  border-left:3px solid var(--brand);
+}
+.m-note b{display:block;font:600 11px/1 var(--font-mono);color:var(--green-ink);margin-bottom:4px}
+
+.m-foot-sky{display:block;width:100%;height:74px;background:var(--bg)}
+.m-foot{background:var(--field);color:var(--on-field);padding:12px 0 44px}
+.m-foot .m-tops{margin-top:8px}
+.m-footline{
+  display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+  margin-top:30px;padding-top:16px;
+  border-top:1px solid color-mix(in oklch, var(--on-field) 28%, transparent);
+  font-size:14px;
+}
+.m-footline span{display:flex;gap:16px;align-items:center}
+
+@media(max-width:1080px){
+  .m-layout{grid-template-columns:minmax(0,65ch) minmax(0,250px)}
+  .m-toc{display:none}
+  .m-main{grid-column:1/3}
+}
+@media(max-width:860px){
+  .m-head,.m-topgrid,.m-pstrip{grid-template-columns:1fr}
+  .m-tcard.lead{grid-column:auto}
+  .m-layout{grid-template-columns:1fr}
+  .m-main,.m-row{display:block}
+  .m-note{margin-bottom:1.3em}
+  .m-nav nav a{display:none}
+  .m-rows a{grid-template-columns:1fr;gap:3px}
+}

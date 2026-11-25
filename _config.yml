@@ -16,3 +16,14 @@ defaults:
       type: "library"
     values:
       layout: "libraryitem"      
+# Kept out of the published site (Jekyll 3 replaces its default list when this is set)
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - tmp
+  - docs
+  - PRODUCT.md
+  - DESIGN.md

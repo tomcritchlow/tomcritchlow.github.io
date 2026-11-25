@@ -1,0 +1,260 @@
+/* L · Green Press — Literary Brooklyn Press, Interactive ASCII Koi Pond, Risograph Halftone Fade, Chapter Frontispiece */
+.pad{padding-left:clamp(20px,5vw,76px);padding-right:clamp(20px,5vw,76px)}
+.wrap-inner{max-width:1160px;margin:0 auto}
+
+.l-cover{
+  background:var(--field);
+  color:var(--on-field);
+  padding-bottom:54px;
+  position:relative;
+}
+.l-nav{
+  display:flex;justify-content:space-between;align-items:center;gap:16px;
+  padding-top:26px;padding-bottom:18px;
+  border-bottom:1px solid color-mix(in oklch, var(--on-field) 24%, transparent);
+  font-family:var(--font-label);font-size:14px;
+}
+.l-wordmark{
+  font:700 18px/1 var(--font-display);letter-spacing:-.02em;text-decoration:none;
+}
+.l-wordmark em{font:italic 500 18px/1 var(--font-body);margin-left:6px;opacity:.76}
+.l-nav nav{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.l-nav nav a{
+  text-decoration:none;padding:6px 10px;border-radius:999px;font-weight:500;
+  transition:background .14s ease,color .14s ease;
+}
+.l-nav nav a:hover{background:var(--on-field);color:var(--field)}
+.l-searchbtn{
+  font:500 13px/1 var(--font-label);
+  display:inline-flex;align-items:center;gap:8px;
+  padding:7px 12px;border-radius:999px;cursor:pointer;
+  border:1.5px solid var(--on-field);background:transparent;color:var(--on-field);
+  margin-left:4px;transition:background .14s ease,color .14s ease;
+}
+.l-searchbtn kbd{font:500 11px/1 var(--font-mono);border:1px solid currentColor;border-radius:4px;padding:1px 5px}
+.l-searchbtn:hover{background:var(--on-field);color:var(--field)}
+.l-searchbtn.quiet{border:1px solid var(--rule);color:var(--muted);background:var(--panel);margin-left:0}
+.l-searchbtn.quiet:hover{border-color:var(--fg);color:var(--fg);background:var(--panel)}
+
+/* Hero split: Literary lockup + ASCII Koi Pond */
+.l-hero-grid{
+  display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,0.85fr);
+  gap:clamp(24px,4vw,56px);align-items:end;
+  padding-top:44px;
+}
+.l-kicker{
+  font:500 12px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;
+  margin-bottom:16px;opacity:.8;
+}
+.l-hello{
+  font:800 clamp(58px,7.4vw,108px)/.92 var(--font-display);
+  letter-spacing:-.045em;margin:0 0 24px;
+}
+.l-hello em{
+  font:italic 400 .96em/1 var(--font-body);
+  letter-spacing:-.025em;display:inline-block;
+}
+.l-bio{
+  font:400 clamp(18px,1.55vw,21px)/1.56 var(--font-body);
+  margin:0;max-width:48ch;
+}
+.l-bio a{
+  text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:4px;
+}
+.l-bio a:hover{background:var(--on-field);color:var(--field);text-decoration:none}
+
+/* Interactive ASCII Koi Pond */
+.l-pond-frame{
+  border:1.5px solid color-mix(in oklch, var(--on-field) 55%, transparent);
+  border-radius:14px;
+  padding:14px 16px 12px;
+  background:color-mix(in oklch, var(--on-field) 7%, transparent);
+}
+.l-pond{
+  margin:0;height:210px;overflow:hidden;
+  font:600 12px/1.25 var(--font-mono);
+  white-space:pre;user-select:none;cursor:crosshair;
+  color:color-mix(in oklch, var(--on-field) 42%, transparent);
+}
+.l-pond b{color:var(--on-field);font-weight:700}
+.l-pond i{font-style:normal;color:color-mix(in oklch, var(--on-field) 72%, transparent)}
+.l-pond-cap{
+  display:flex;justify-content:space-between;align-items:center;
+  margin-top:10px;padding-top:8px;
+  border-top:1px solid color-mix(in oklch, var(--on-field) 22%, transparent);
+  font:400 11px/1.2 var(--font-mono);opacity:.78;
+}
+
+/* Top posts on the green cover */
+.l-tops{
+  margin-top:54px;
+  border-top:2px solid var(--on-field);
+  padding-top:18px;
+}
+.l-tag{
+  font:600 12px/1 var(--font-mono);letter-spacing:.05em;text-transform:uppercase;
+  margin:0 0 22px;display:flex;justify-content:space-between;
+}
+.l-topgrid{
+  display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);
+  gap:clamp(24px,4.5vw,68px);align-items:start;
+}
+.l-lead{display:block;text-decoration:none;padding-right:12px}
+.l-lead time{font:500 12px/1 var(--font-mono);opacity:.8}
+.l-lead b{
+  display:block;font:700 clamp(32px,4vw,52px)/1.0 var(--font-display);
+  letter-spacing:-.035em;margin:10px 0 12px;text-wrap:balance;
+}
+.l-lead i{
+  display:block;font:italic 400 19px/1.45 var(--font-body);max-width:34ch;
+}
+.l-lead u{
+  display:inline-block;margin-top:18px;
+  font:600 13.5px/1 var(--font-label);text-decoration:none;
+  border-bottom:2px solid var(--on-field);padding-bottom:3px;
+}
+.l-lead:hover u{background:var(--on-field);color:var(--field);padding:4px 8px;border-radius:4px;border-bottom-color:transparent}
+
+.l-toplist{list-style:none;margin:0;padding:0}
+.l-toplist li{border-top:1px solid color-mix(in oklch, var(--on-field) 28%, transparent)}
+.l-toplist li:first-child{border-top:0}
+.l-toplist a{
+  display:grid;grid-template-columns:1fr auto;gap:14px;align-items:baseline;
+  padding:13px 10px;margin:0 -10px;border-radius:8px;text-decoration:none;
+  transition:background .12s ease,color .12s ease;
+}
+.l-toplist b{display:block;font:700 18.5px/1.25 var(--font-display);letter-spacing:-.015em}
+.l-toplist i{display:block;font:italic 400 14.5px/1.4 var(--font-body);opacity:.86;margin-top:2px}
+.l-toplist time{font:400 12px/1 var(--font-mono);opacity:.78}
+.l-toplist a:hover{background:var(--on-field);color:var(--field)}
+
+/* Risograph Variable-Dot Halftone Fade */
+.l-halftone{display:block;width:100%;height:118px;cursor:crosshair;background:var(--bg)}
+.l-halftone.mid{height:84px}
+
+/* Latest & Projects on warm archival paper */
+.l-latest{padding-top:30px;padding-bottom:60px}
+.l-lhead{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px}
+.l-lhead h2{font:600 12px/1 var(--font-mono);text-transform:uppercase;letter-spacing:.05em;margin:0;color:var(--green-ink)}
+.l-rows{list-style:none;margin:0 -12px;padding:0}
+.l-rows a{
+  display:grid;grid-template-columns:108px minmax(0,1fr);gap:16px;align-items:baseline;
+  padding:13px 12px;border-radius:8px;text-decoration:none;
+  transition:background .12s ease;
+}
+.l-rows li+li a{box-shadow:0 -1px 0 var(--rule)}
+.l-rows time{font:400 12.5px/1.4 var(--font-mono);color:var(--muted)}
+.l-rows b{display:block;font:600 17.5px/1.3 var(--font-display);letter-spacing:-.015em}
+.l-rows i{display:block;font:italic 400 14.5px/1.4 var(--font-body);color:var(--muted);margin-top:2px}
+.l-rows a:hover{background:var(--wash);box-shadow:none}
+.l-more{
+  display:inline-block;margin-top:18px;
+  font:600 14px/1 var(--font-label);color:var(--green-ink);
+  text-decoration:none;border-bottom:1.5px solid var(--brand);padding-bottom:2px;
+}
+
+.l-projects{padding:26px 0 80px;border-top:1px solid var(--rule)}
+.l-plist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 36px;margin-top:14px}
+.l-pitem{
+  display:flex;justify-content:space-between;align-items:baseline;gap:16px;
+  padding:12px 0;border-bottom:1px solid var(--rule);text-decoration:none;
+}
+.l-pitem:hover b{color:var(--green-ink)}
+.l-pitem b{display:block;font:700 16.5px/1.25 var(--font-display)}
+.l-pitem small{display:block;font:italic 400 14px/1.4 var(--font-body);color:var(--muted);margin-top:2px}
+.l-pitem span{font:400 11.5px/1 var(--font-mono);color:var(--muted);white-space:nowrap}
+
+/* Screen 2: Essay Page — Full Green Chapter Frontispiece -> Halftone -> Literary Serif Sheet */
+.l-frontispiece{
+  background:var(--field);
+  color:var(--on-field);
+  padding-bottom:36px;
+}
+.l-front-head{
+  padding-top:46px;max-width:780px;
+}
+.l-front-meta{
+  font:500 12px/1 var(--font-mono);letter-spacing:.04em;text-transform:uppercase;
+  margin-bottom:14px;opacity:.82;
+}
+.l-front-head h1{
+  font:800 clamp(42px,5.8vw,74px)/.96 var(--font-display);
+  letter-spacing:-.04em;margin:0 0 14px;text-wrap:balance;
+}
+.l-front-head p{
+  font:italic 400 clamp(19px,1.8vw,24px)/1.38 var(--font-body);
+  margin:0;opacity:.92;
+}
+
+.l-essay{padding-top:34px;padding-bottom:76px}
+.l-erow{
+  display:grid;grid-template-columns:minmax(0,63ch) 24px minmax(0,250px);
+  column-gap:16px;align-items:start;
+}
+.l-ecol{min-width:0;font:400 19px/1.72 var(--font-body)}
+.l-ecol p{margin:0 0 1.25em}
+.l-ecol h2{
+  font:700 25px/1.2 var(--font-display);letter-spacing:-.025em;
+  margin:2.1em 0 .6em;
+}
+.l-ecol a{
+  color:var(--fg);text-decoration:underline;
+  text-decoration-color:var(--brand);text-decoration-thickness:1.8px;text-underline-offset:4px;
+}
+.l-ecol a:hover{background:var(--wash)}
+
+/* Neat-annotations brush sweep + hand-drawn marginal brace */
+.l-brush{
+  background:linear-gradient(104deg, transparent 0.9%, var(--hl) 2.4%, var(--hl) 95.5%, transparent 98.5%) no-repeat 0 84%/0% 48%;
+  box-decoration-break:clone;-webkit-box-decoration-break:clone;
+  transition:background-size .7s cubic-bezier(.2,.75,.2,1);
+}
+.l-brush.seen{background-size:100% 48%}
+
+.l-brace{
+  height:100%;min-height:68px;display:flex;align-items:stretch;
+  color:var(--brand);padding-top:4px;
+}
+.l-brace svg{width:20px;height:100%;overflow:visible}
+.l-brace path{
+  fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;
+  stroke-dasharray:260;stroke-dashoffset:260;
+  transition:stroke-dashoffset .75s cubic-bezier(.2,.75,.2,1);
+}
+.l-brace.seen path{stroke-dashoffset:0}
+
+.l-note{
+  font:italic 400 14.5px/1.55 var(--font-body);
+  color:var(--muted);padding-top:4px;
+}
+.l-note b{
+  display:block;font:600 11px/1 var(--font-mono);font-style:normal;
+  color:var(--green-ink);margin-bottom:4px;letter-spacing:.03em;
+}
+.l-circle{position:relative;display:inline-block;padding:0 3px}
+.l-circle svg{position:absolute;inset:-5px -7px;width:calc(100% + 14px);height:calc(100% + 10px);pointer-events:none;overflow:visible}
+.l-circle path{
+  fill:none;stroke:var(--brand);stroke-width:1.8;stroke-linecap:round;
+  stroke-dasharray:240;stroke-dashoffset:240;
+  transition:stroke-dashoffset .8s cubic-bezier(.2,.7,.2,1);
+}
+.l-circle.seen path{stroke-dashoffset:0}
+
+.l-foot{background:var(--field);color:var(--on-field);padding:12px 0 44px}
+.l-foot .l-tops{margin-top:8px}
+.l-footline{
+  display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+  margin-top:34px;padding-top:18px;
+  border-top:1px solid color-mix(in oklch, var(--on-field) 26%, transparent);
+  font-size:14px;
+}
+.l-footline span{display:flex;gap:16px;align-items:center}
+
+@media(max-width:900px){
+  .l-hero-grid,.l-topgrid,.l-plist{grid-template-columns:1fr}
+  .l-erow{grid-template-columns:1fr}
+  .l-brace{display:none}
+  .l-note{border-left:2px solid var(--brand);padding-left:12px;margin-bottom:1.4em}
+  .l-nav nav a{display:none}
+  .l-rows a{grid-template-columns:1fr;gap:3px}
+}

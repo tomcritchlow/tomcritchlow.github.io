@@ -1,0 +1,7 @@
+/* G: finer characters, and a serif for essay text */
+.drench{--font-body:var(--font-label)}
+.eat.fine{font-size:7.5px}
+.eat.fine b{background:var(--on-field);color:var(--green);font-weight:700}
+.mbody p{font:400 19px/1.66 'Literata',Georgia,serif;max-width:62ch}
+.mbody .callout{font:400 13px/1.6 var(--font-mono)}
+.man .sub{font:italic 400 21px/1.4 'Literata',Georgia,serif}

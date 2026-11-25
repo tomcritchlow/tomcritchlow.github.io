@@ -1,0 +1,11 @@
+/* I: paper ground, green characters, more character drawings */
+.latestlabel{font:500 12.5px/1.4 var(--font-mono);margin:40px 0 -26px}
+.drench{border-bottom:1px solid var(--rule)}
+.drench .garden{margin-top:30px;color:var(--on-field)}
+.drench .garden b{color:var(--fg)}
+.drench .gcap{color:var(--on-field)}
+.plain b{color:var(--fg)}
+.plain a:hover b,.plain a:focus-visible b{color:var(--green)}
+.drench .say{color:var(--fg)}
+.walk{font-size:12px;line-height:1;color:var(--green-ink);margin:2.4em 0 -1.2em;max-width:66ch;cursor:default}
+.walk+h3{border-top:0}

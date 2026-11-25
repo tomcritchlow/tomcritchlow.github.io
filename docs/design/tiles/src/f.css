@@ -1,0 +1,38 @@
+/* F: drenched green homepage with an edible headline; essay as a technical manual */
+.sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.drench{min-height:0;padding-bottom:64px}
+.eat{font-size:9px;line-height:1;color:var(--field-ink);margin-top:44px;cursor:crosshair}
+.eat b{color:var(--on-field);font-weight:700}
+.under{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:clamp(24px,5vw,80px);margin-top:36px;align-items:start}
+.drench .say{font-size:clamp(17px,1.45vw,20px);max-width:40ch}
+.eatcap{font:500 12.5px/1.4 var(--font-mono);margin:22px 0 0;max-width:40ch}
+.plain{list-style:none;margin:0;padding:0;border-top:2px solid var(--on-field)}
+.plain a{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:baseline;text-decoration:none;padding:11px 8px;border-bottom:1px solid color-mix(in oklch,var(--on-field) 30%,transparent);transition:padding-left .14s ease-out}
+.plain time{font:400 12.5px/1.4 var(--font-mono)}
+.plain b{font:650 17px/1.25 var(--font-display);letter-spacing:-.015em}
+.plain a:hover,.plain a:focus-visible{background:var(--on-field);color:var(--green);padding-left:16px;outline:0}
+.man{display:grid;grid-template-columns:270px minmax(0,1fr);max-width:1180px;margin:0 auto;padding:0 clamp(16px,3vw,32px) 84px}
+.toc{border-right:1px solid var(--rule);padding:40px 24px 0 0;font:400 12.5px/1.45 var(--font-mono)}
+.toc>*{position:sticky;top:20px}
+.tochead{font:700 14px/1.2 var(--font-display);margin-bottom:16px;position:static}
+.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:2px;position:static}
+.toc a{display:grid;grid-template-columns:22px 1fr;gap:6px;text-decoration:none;color:var(--muted);padding:6px 8px;border-radius:6px}
+.toc a:hover{color:var(--fg);background:var(--bg)}
+.toc .done a{color:var(--fg)}
+.toc .done span{color:var(--green-ink)}
+.toc .here a{background:var(--wash);color:var(--fg);box-shadow:inset 3px 0 0 var(--mark)}
+.tocfoot{margin-top:18px;color:var(--muted);padding-left:8px;position:static}
+.mbody{padding:40px 0 0 clamp(24px,5vw,72px);max-width:760px;min-width:0}
+.meta{font:400 12.5px/1 var(--font-mono);color:var(--green-ink)}
+.man h1{font:750 clamp(40px,5vw,62px)/.98 var(--font-display);letter-spacing:-.04em;margin:16px 0 12px;text-wrap:balance}
+.man .sub{font:400 20px/1.4 var(--font-body);color:var(--muted);margin:0 0 36px}
+.mbody p{font:400 17.5px/1.7 var(--font-body);margin:0 0 1.1em;max-width:66ch}
+.man h3{font:600 15px/1.3 var(--font-mono);margin:2.2em 0 .9em;padding-top:14px;border-top:1px solid var(--rule);display:flex;gap:12px}
+.man h3 span{color:var(--green-ink)}
+.mbody a{color:var(--fg);text-decoration:underline;text-decoration-color:var(--mark);text-decoration-thickness:2px;text-underline-offset:3px}
+.mbody a:hover{background:var(--wash)}
+.mbody .callout{font:400 13px/1.6 var(--font-mono);background:var(--bg);border:1px solid var(--rule);border-radius:8px;padding:12px 14px;display:grid;grid-template-columns:52px 1fr;color:var(--fg)}
+.callout b{color:var(--green-ink);font-weight:600}
+.preview{border-radius:8px;font-family:var(--font-mono);font-size:12px;box-shadow:0 10px 30px -14px oklch(0.2 0.03 150 / .45)}
+.preview b{font:700 16px/1.2 var(--font-display);letter-spacing:-.01em}
+@media(max-width:900px){.under{grid-template-columns:1fr}.man{grid-template-columns:1fr}.toc{border-right:0;border-bottom:1px solid var(--rule);padding:24px 0 18px}.mbody{padding-left:0}.plain a{grid-template-columns:1fr}}

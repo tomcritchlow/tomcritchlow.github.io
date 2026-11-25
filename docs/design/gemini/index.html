@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>tomcritchlow.com — Three Redesign Iterations (K, L, M)</title>
+<style>
+:root{
+  color-scheme:light dark;
+  --bg:light-dark(#f6f8f6,#0d120f);
+  --panel:light-dark(#ffffff,#141d17);
+  --fg:light-dark(#141f18,#eaf2ec);
+  --muted:light-dark(#516056,#9cb0a2);
+  --rule:light-dark(#d8e2da,#26342a);
+  --green:light-dark(#02ad28,#24d14a);
+  --green-ink:light-dark(#036b1a,#6ee888);
+  --wash:light-dark(#e5f6e8,#172e1e);
+  --cost:light-dark(#6b5a12,#e3d48a);
+  --cost-wash:light-dark(#f7f1d6,#2d2914);
+  --font:system-ui,-apple-system,'Segoe UI',sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15.5px/1.55 var(--font);padding:40px clamp(18px,4vw,44px) 76px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1320px;margin:0 auto;display:grid;gap:34px}
+header{display:grid;gap:12px}
+.eyebrow{font:600 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--green-ink)}
+h1{font:800 clamp(28px,3.2vw,40px)/1.1 var(--font);letter-spacing:-.03em;margin:0;text-wrap:balance}
+.lede{margin:0;max-width:82ch;color:var(--muted);font-size:16px}
+.notes-bar{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;
+}
+.notes-bar>div{
+  background:var(--panel);border:1px solid var(--rule);border-left:3px solid var(--green);
+  border-radius:10px;padding:13px 15px;font-size:14px;line-height:1.45;
+}
+.notes-bar b{display:block;font:600 12px/1 var(--mono);color:var(--green-ink);margin-bottom:5px;text-transform:uppercase}
+
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;align-items:start}
+.card{
+  background:var(--panel);border:1px solid var(--rule);border-radius:14px;
+  padding:20px;display:grid;gap:16px;
+}
+.card-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.card h2{font:800 21px/1.15 var(--font);letter-spacing:-.02em;margin:0}
+.card h2 span{color:var(--green-ink);font-family:var(--mono);font-size:15px;margin-right:6px}
+.card .tag{font:500 11.5px/1 var(--mono);color:var(--muted)}
+.card .thesis{margin:0;font-size:14.5px;line-height:1.5;color:var(--fg)}
+
+.shots{display:grid;gap:12px}
+.shots figure{margin:0;display:grid;gap:6px}
+.shots figcaption{
+  display:flex;justify-content:space-between;align-items:center;
+  font:500 11.5px/1 var(--mono);color:var(--muted);
+}
+.shots figcaption button{
+  font:500 11px/1 var(--mono);color:var(--green-ink);
+  background:var(--wash);border:0;border-radius:5px;padding:3px 7px;cursor:pointer;
+}
+.shot{
+  display:block;border:1px solid var(--rule);border-radius:10px;overflow:hidden;
+  background:var(--bg);transition:transform .15s ease,border-color .15s ease;
+}
+.shot:hover{transform:translateY(-2px);border-color:var(--green)}
+.shot img{display:block;width:100%;height:auto;aspect-ratio:1360/1080;object-fit:cover;object-position:top}
+.shot.post img{aspect-ratio:1360/960}
+
+dl{margin:0;display:grid;gap:9px}
+dl div{padding:10px 12px;border-radius:8px;font-size:13.5px;line-height:1.45}
+dt{font:700 11.5px/1 var(--mono);text-transform:uppercase;margin-bottom:4px}
+dd{margin:0}
+.wins{background:var(--wash)} .wins dt{color:var(--green-ink)}
+.cost{background:var(--cost-wash)} .cost dt{color:var(--cost)}
+
+.open{
+  display:inline-flex;justify-content:center;align-items:center;gap:8px;
+  font:700 14px/1 var(--font);text-decoration:none;
+  background:var(--fg);color:var(--panel);
+  padding:11px 16px;border-radius:9px;
+  transition:transform .12s ease;
+}
+.open:hover{opacity:.92}
+.open:active{transform:scale(.98)}
+
+.ref-row{
+  border-top:1px solid var(--rule);padding-top:22px;
+  display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+  font-size:14px;color:var(--muted);
+}
+.ref-row a{color:var(--green-ink);font-weight:600}
+@media(max-width:1020px){
+  .grid,.notes-bar{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">tomcritchlow.com · Redesign Iterations (building on Round 5 · Green Stacks)</div>
+    <h1>Three next-step iterations: K, L, and M</h1>
+    <p class="lede">Building directly from where Claude's <b>J · Green Stacks</b> landed (bold <code>#02AD28</code> green front, Top posts &rarr; Latest flow, spare essay column with margin notes, <code>/</code> search across all 223 posts), each iteration upgrades the green-to-page dissolve, dark mode emerald contrast, essay-to-homepage connective tissue, and adds authentic Quotebacks + Projects.</p>
+  </header>
+
+  <div class="notes-bar">
+    <div><b>Upgrade 1 · Crisp Canvas Dissolves</b>Replaces raw monospace <code>&lt;pre&gt;</code> blocks with Retina Canvas renders: Bayer 8&times;8 dither + mode toggle (K), Risograph halftone dots (L), and a real 2012&ndash;2026 archive pixel skyline (M).</div>
+    <div><b>Upgrade 2 · Stronger Connective Tissue</b>Three distinct answers to tying essays back to the homepage without re-adding a heavy sidebar: a 6px green spine (K), a full green chapter frontispiece (L), or a live pixel-dither scroll seam + quiet left TOC (M).</div>
+    <div><b>Upgrade 3 · Electric Dark Mode &amp; Quotebacks</b>High-contrast nocturnal emerald (<code>#074e1a</code> + <code>#ecfff0</code> on <code>#0b110d</code>, all WCAG AA verified), native <code>&lt;dialog&gt;</code> search across all 223 posts, and real styled Quoteback blocks.</div>
+  </div>
+
+  <div class="grid">
+    <!-- K -->
+    <article class="card">
+      <div class="card-head">
+        <h2><span>K</span>Field &amp; Margin</h2>
+        <span class="tag">Retina Bayer · Sans + Mono</span>
+      </div>
+      <p class="thesis">The sharpest evolution of Green Stacks. A sub-pixel Canvas glyph-matrix headline replaces raw <code>#</code> blocks, a live <b>Bayer / Contour / Strata</b> switcher sits right on the shoreline, and essays get a 6px continuous green architectural spine.</p>
+      <div class="shots">
+        <figure>
+          <figcaption><span>Homepage</span><button type="button" data-flip="k-home">Show dark</button></figcaption>
+          <a class="shot" href="field-margin.html"><img id="k-home" src="shots/field-margin-home-light.png" data-light="shots/field-margin-home-light.png" data-dark="shots/field-margin-home-dark.png" alt="Field & Margin homepage with Retina Canvas glyph-matrix headline and Bayer dither shoreline"></a>
+        </figure>
+        <figure>
+          <figcaption><span>Essay page</span><span>Green spine + neat annotations</span></figcaption>
+          <a class="shot post" href="field-margin.html"><img src="shots/field-margin-post-light.png" alt="Field & Margin essay page with 6px green spine, Bayer fringe, Quoteback, and circled stigmergy annotation"></a>
+        </figure>
+      </div>
+      <dl>
+        <div class="wins"><dt>What wins</dt><dd>Closest to Tom's Green Stacks instincts while dramatically sharper visually; the interactive Bayer/Contour/Strata switcher lets you feel three pixel fades live; dark mode pops.</dd></div>
+        <div class="cost"><dt>Tradeoff</dt><dd>Keeps sans-serif body text (Hanken Grotesk) throughout, so it leans slightly more "crisp technical blog" than "literary paperback".</dd></div>
+      </dl>
+      <a class="open" href="field-margin.html">Open K · Field &amp; Margin &rarr;</a>
+    </article>
+
+    <!-- L -->
+    <article class="card">
+      <div class="card-head">
+        <h2><span>L</span>Green Press</h2>
+        <span class="tag">Risograph · Koi Pond · Serif</span>
+      </div>
+      <p class="thesis">Pushes the <b>"literary, quirky"</b> pole. Bold grotesque + italic Literata cover with an interactive <b>ASCII Koi Pond</b>, a sculptural variable-dot Risograph halftone fade, and a full green chapter frontispiece on every essay.</p>
+      <div class="shots">
+        <figure>
+          <figcaption><span>Homepage</span><button type="button" data-flip="l-home">Show dark</button></figcaption>
+          <a class="shot" href="green-press.html"><img id="l-home" src="shots/green-press-home-light.png" data-light="shots/green-press-home-light.png" data-dark="shots/green-press-home-dark.png" alt="Green Press homepage with Bricolage + Literata lockup, ASCII Koi Pond, and Risograph halftone fade"></a>
+        </figure>
+        <figure>
+          <figcaption><span>Essay page</span><span>Frontispiece + curly margin braces</span></figcaption>
+          <a class="shot post" href="green-press.html"><img src="shots/green-press-post-light.png" alt="Green Press essay page with full green chapter frontispiece dissolving via halftone into Literata serif prose"></a>
+        </figure>
+      </div>
+      <dl>
+        <div class="wins"><dt>What wins</dt><dd>Unmistakably Brooklyn indie-press warmth; brings back your ASCII koi reference; the halftone dot dissolve and hand-drawn curly braces feel genuinely one-of-a-kind.</dd></div>
+        <div class="cost"><dt>Tradeoff</dt><dd>Moves away from the edible character headline and Stacks sans body; a warmer, more editorial reading feel.</dd></div>
+      </dl>
+      <a class="open" href="green-press.html">Open L · Green Press &rarr;</a>
+    </article>
+
+    <!-- M -->
+    <article class="card">
+      <div class="card-head">
+        <h2><span>M</span>Living Garden</h2>
+        <span class="tag">2012&ndash;2026 Skyline · Swiss Tech</span>
+      </div>
+      <p class="thesis">Makes the pixelated fade <b>meaningful</b>: every ridge from 2012 to 2026 reflects your actual post count per year (hover to inspect, click to search that year). Essays get a live pixel-dither scroll seam and a quiet left TOC rail.</p>
+      <div class="shots">
+        <figure>
+          <figcaption><span>Homepage</span><button type="button" data-flip="m-home">Show dark</button></figcaption>
+          <a class="shot" href="living-garden.html"><img id="m-home" src="shots/living-garden-home-light.png" data-light="shots/living-garden-home-light.png" data-dark="shots/living-garden-home-dark.png" alt="Living Garden homepage with title-weave hero and 2012-2026 data-driven pixel skyline"></a>
+        </figure>
+        <figure>
+          <figcaption><span>Essay page</span><span>Dither scroll seam + quiet TOC</span></figcaption>
+          <a class="shot post" href="living-garden.html"><img src="shots/living-garden-post-light.png" alt="Living Garden essay page with live pixel-dither scroll seam, quiet left section rail, and bordered margin notes"></a>
+        </figure>
+      </div>
+      <dl>
+        <div class="wins"><dt>What wins</dt><dd>Turns the dissolve into a living artifact of 14 years of writing (the 2020 peak jumps right out); restores "On this page" navigation without a heavy right sidebar.</dd></div>
+        <div class="cost"><dt>Tradeoff</dt><dd>Cleanest and most restrained essay header (less big green at the top of essays than L, relying on the live green pixel progress bar and green footer instead).</dd></div>
+      </dl>
+      <a class="open" href="living-garden.html">Open M · Living Garden &rarr;</a>
+    </article>
+  </div>
+
+  <div class="ref-row">
+    <span>All three pages are self-contained HTML with embedded fonts, native <code>&lt;dialog&gt;</code> search over all 223 posts (<code>/</code> or <code>Cmd+K</code>), and WCAG AA verified light/dark themes.</span>
+    <span>Compare with Claude's latest: <a href="../tiles/green-stacks.html">J · Green Stacks</a> &middot; <a href="../tiles/directions.html">Claude's review page</a></span>
+  </div>
+</div>
+<script>
+document.querySelectorAll('[data-flip]').forEach(function(btn){
+  btn.addEventListener('click',function(){
+    var img=document.getElementById(btn.dataset.flip);
+    var isDark=img.dataset.mode==='dark';
+    img.src=isDark?img.dataset.light:img.dataset.dark;
+    img.dataset.mode=isDark?'light':'dark';
+    btn.textContent=isDark?'Show dark':'Show light';
+  });
+});
+</script>
+</body>
+</html>

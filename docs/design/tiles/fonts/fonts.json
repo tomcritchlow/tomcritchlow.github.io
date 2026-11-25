@@ -1,0 +1,50 @@
+[
+ {
+  "family": "Bricolage Grotesque",
+  "style": "normal",
+  "weight": "400 800",
+  "file": "BricolageGrotesque-normal.woff2"
+ },
+ {
+  "family": "Figtree",
+  "style": "normal",
+  "weight": "400 700",
+  "file": "Figtree-normal.woff2"
+ },
+ {
+  "family": "Geist",
+  "style": "normal",
+  "weight": "400 700",
+  "file": "Geist-normal.woff2"
+ },
+ {
+  "family": "Geist Mono",
+  "style": "normal",
+  "weight": "400 600",
+  "file": "GeistMono-normal.woff2"
+ },
+ {
+  "family": "Hanken Grotesk",
+  "style": "normal",
+  "weight": "400 700",
+  "file": "HankenGrotesk-normal.woff2"
+ },
+ {
+  "family": "JetBrains Mono",
+  "style": "normal",
+  "weight": "400 600",
+  "file": "JetBrainsMono-normal.woff2"
+ },
+ {
+  "family": "Literata",
+  "style": "italic",
+  "weight": "400 700",
+  "file": "Literata-italic.woff2"
+ },
+ {
+  "family": "Literata",
+  "style": "normal",
+  "weight": "400 700",
+  "file": "Literata-normal.woff2"
+ }
+]

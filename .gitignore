@@ -6,3 +6,5 @@ _site/
 vendor/
 .DS_Store
 .obsidian/
+# design screenshots are regenerable
+docs/design/**/*.png
