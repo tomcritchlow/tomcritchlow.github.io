@@ -391,12 +391,20 @@
     }).catch(function () { });
   }
 
+  /* ---------- end of a post on a phone: count which keep-reading card is showing ---------- */
+  function keepRow(row) {
+    var count = document.getElementById('keepcount'), n = row.children.length; if (!count || !n) return;
+    function label() { var w = row.children[0].offsetWidth + 12; count.textContent = (Math.min(n - 1, Math.round(row.scrollLeft / w)) + 1) + ' / ' + n; }
+    row.addEventListener('scroll', label, { passive: true }); addEventListener('resize', label); label();
+  }
+
   ready(function () {
     var eat = document.getElementById('eat'); if (eat) headline(eat);
     document.querySelectorAll('canvas.fade').forEach(fade);
     var row = document.getElementById('swipe'); if (row) swipeRow(row);
     if (document.querySelector('[data-search]')) search();
     var body = document.querySelector('.post-body'); if (body) essay(body);
+    var keep = document.getElementById('keep'); if (keep) keepRow(keep);
     var past = document.getElementById('issues'); if (past && past.dataset.feed) issues(past);
   });
 })();

@@ -196,6 +196,10 @@ canvas.fade[data-live]{cursor:crosshair}
 .plain time{font:400 12.5px/1.4 var(--font-mono);font-variant-numeric:tabular-nums}
 .plain b{font:650 19px/1.25 var(--font-body);letter-spacing:-.015em}
 .plain i{display:block;font-style:normal;font-size:14.5px;line-height:1.4;margin-top:2px;opacity:.86}
+.keephead{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.keephead span{font:400 12.5px/1 var(--font-mono);font-variant-numeric:tabular-nums}
+.keep em,.keep small,.keep u,.keephead span{display:none}
+.keep li:nth-child(n+4){display:none}
 .plain a:hover,.plain a:focus-visible{background:var(--on-field);color:var(--green);padding-left:16px;outline:0}
 .subscribe{margin-top:30px;display:grid;gap:10px;max-width:520px}
 .foot-compact .subscribe{margin-top:0}
@@ -265,6 +269,19 @@ canvas.fade[data-live]{cursor:crosshair}
   .nav .searchbtn{margin-left:auto}
   .crisp a{grid-template-columns:1fr;gap:2px}
   .plain a{grid-template-columns:1fr;gap:2px}
+  /* end of a post on a phone: keep reading becomes full-width cards you swipe through */
+  .keephead span{display:inline}
+  .keep{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin-inline:calc(-1*var(--gutter));padding:4px var(--gutter) 8px}
+  .keep::-webkit-scrollbar{display:none}
+  .keep li,.keep li:nth-child(n+4){display:block;flex:none;width:100%;scroll-snap-align:center;scroll-snap-stop:always}
+  .keep a{display:flex;flex-direction:column;gap:8px;height:100%;min-height:330px;padding:20px 18px 18px;border:2px solid var(--on-field);border-radius:14px}
+  .keep a:hover,.keep a:focus-visible{background:transparent;color:inherit;padding-left:18px;outline:2px solid var(--on-field);outline-offset:2px}
+  .keep b{font-size:26px;line-height:1.06;letter-spacing:-.03em;display:block;text-wrap:balance}
+  .keep i{font-size:15.5px;margin-top:8px}
+  .keep em{display:block;font-style:normal;font-size:14.5px;line-height:1.5;margin-top:12px}
+  .keep time{display:none}
+  .keep small{display:block;font:400 11.5px/1.3 var(--font-mono);margin-top:auto;opacity:.85}
+  .keep u{display:inline-block;align-self:flex-start;text-decoration:none;font:600 14px/1 var(--font-body);border:1.5px solid var(--on-field);border-radius:8px;padding:9px 13px}
   .footline{flex-direction:column;align-items:flex-start}
   .eat{font-size:7px;margin-top:28px;min-height:200px}
   .tops{margin-top:48px}

@@ -4,9 +4,10 @@
     {% unless include.compact %}
     <div class="tops">
       {% assign shown = 0 %}
-      <h2>Keep reading</h2>
-      <ol class="plain">{% for post in site.posts %}{% if post.url != page.url and shown < 3 %}{% assign shown = shown | plus: 1 %}
-        <li><a href="{{ post.url }}"><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y" }}</time></a></li>{% endif %}{% endfor %}
+      <div class="keephead"><h2>Keep reading</h2><span id="keepcount" aria-hidden="true"></span></div>
+      {% comment %} A plain list on wide screens (first three). On phones each post is a full-width card you swipe through. {% endcomment %}
+      <ol class="plain keep" id="keep">{% for post in site.posts %}{% if post.url != page.url and shown < 5 %}{% assign shown = shown | plus: 1 %}{% assign words = post.content | strip_html | number_of_words %}
+        <li><a href="{{ post.url }}"><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}<em>{{ post.content | markdownify | replace: "</p>", " " | strip_html | strip_newlines | truncatewords: 42 }}</em></span><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y" }}</time><small>{{ post.date | date: "%Y-%m-%d" }} · {{ words | divided_by: 230 | at_least: 1 }} min read</small><u>Read</u></a></li>{% endif %}{% endfor %}
       </ol>
     </div>
     {% endunless %}
