@@ -14,7 +14,7 @@ Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritc
 <style>
 .greentimeline{
 position:absolute;
-border-left:1px solid #02AD28;
+border-left:1px solid var(--mark, #02AD28);
 top:0px;
 left:50%;
 width:50%;
@@ -26,7 +26,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=alephic.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=alephic.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Alephic</strong>
@@ -38,7 +38,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=searchleaders.ai&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=searchleaders.ai&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched AI Search Leaders</strong>
@@ -50,7 +50,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=raptive.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=raptive.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Raptive: EVP Audience Growth</strong>
@@ -62,7 +62,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative ">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
@@ -74,7 +74,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched the SEO MBA</strong>
@@ -86,7 +86,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched Fiercely Curious</strong>
@@ -98,7 +98,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=google.com&sz=256" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Google: PMM Special Projects</strong>
@@ -110,7 +110,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="/images/7books-favicon.ico" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="/images/7books-favicon.ico" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Launched 7books</strong>
@@ -122,7 +122,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative">
 <div class="greentimeline"></div>
-<img src="/images/distilled-favicon.jpeg" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="/images/distilled-favicon.jpeg" alt="" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Distilled: VP Operations, NYC</strong>

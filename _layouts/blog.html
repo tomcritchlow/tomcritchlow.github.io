@@ -5,6 +5,7 @@
 <header class="field strip">
   {% include gs-nav.html %}
   <div class="pad striptitle"><div class="inner h-entry">
+    {% if page.series == "newmba" %}<p class="series">From <a href="/newmba/">The NEW MBA</a></p>{% endif %}
     {% if page.date %}<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>{% endif %}
     <h1 class="st1 p-name">{{ page.title }}</h1>
     {% if page.subtitle %}<p class="st2 p-summary">{{ page.subtitle }}</p>{% endif %}
@@ -12,10 +13,10 @@
 </header>
 <div class="spined">
 <canvas class="fade" data-h="36" data-cell="3" aria-hidden="true"></canvas>
-<main class="essay pad"><div class="post-wrap">
+<main class="essay pad" id="main"><div class="post-wrap">
   {% if page.blogchain %}{% assign chain = site.posts | where_exp: "item", "item.blogchain contains page.blogchain" | reverse %}
   <details class="chain"><summary>Part of the <a href="/blogchains/{{ page.blogchain }}">{{ page.blogchain }}</a> blogchain</summary>
-    <ol>{% for item in chain %}<li><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}</ol>
+    <ol>{% for item in chain %}<li>{% if item.url == page.url %}<span class="chain-here" aria-current="page">{{ item.title }}</span>{% else %}<a href="{{ item.url }}">{{ item.title }}</a>{% endif %}</li>{% endfor %}</ol>
   </details>{% endif %}
   {% comment %} A few old posts have inline scripts that expect jQuery; load it only for those. {% endcomment %}
   {% if content contains '$(' or content contains 'jQuery' %}<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>{% endif %}
@@ -35,4 +36,4 @@
 {{ body }}
   </article>
 </div></main>
-{% include gs-foot.html %}
+{% include gs-foot.html close_spined=true %}

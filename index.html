@@ -5,38 +5,43 @@ subtitle: Move. Think. Create.
 <section class="field home">
   {% include gs-nav.html %}
   <h1 class="sr">Hey, I'm Tom.</h1>
-  <div class="pad"><pre class="ascii eat" id="eat" aria-hidden="true" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre></div>
-  <div class="pad intro2">
+  <div class="pad"><div class="wrap"><pre class="ascii eat" id="eat" aria-hidden="true" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre></div></div>
+  <div class="pad"><div class="wrap intro2">
     <div><p class="say">I'm a dad, blogger, and AI search obsessive based in Brooklyn, NY.</p>
     <p class="say">I've been an executive, a consultant and a founder. I'm currently working at <a href="https://www.alephic.com/">Alephic</a> at the intersection of AI and marketing and building <a href="https://www.searchleaders.ai/">AI Search Leaders</a>, a community for operators trying to make sense of AI search before it makes nonsense of them.</p></div>
-    <p class="say">This site is where I write about strategy, <a href="/strategy/">independent work</a>, <a href="/blogchains/digital-gardens/">digital gardens</a>, weird internet careers, <a href="/2018/02/23/small-b-blogging/">small-b blogging</a>, <a href="/2023/02/10/riffs/">riffs</a> and whatever else is currently rattling around in my head.</p>
-  </div>
+    <div><p class="say">This site is where I write about strategy, <a href="/strategy/">independent work</a>, <a href="/blogchains/digital-gardens/">digital gardens</a>, weird internet careers, <a href="/2018/02/23/small-b-blogging/">small-b blogging</a>, <a href="/2023/02/10/riffs/">riffs</a> and whatever else is currently rattling around in my head.</p>
+    {% assign news = site.data.newsletter %}{% assign latest = news.issues.first %}
+    <div class="signup subscribe">
+      <h2>Newsletter</h2>
+      <p>{{ news.description }}</p>
+      {% include gs-subscribe.html cta="homepage" %}
+      {% if latest %}<p class="signup-latest">Latest issue: <a href="{{ latest.url }}">{{ latest.title }}</a> <span>{{ latest.date | date: "%b %-d, %Y" }}</span> <a href="/newsletter/">All {{ news.issues | size }} issues</a></p>{% endif %}
+    </div></div>
+  </div></div>
   {% comment %} Top posts: add `featured: N` to a post's front matter; N sets the order. {% endcomment %}
   {% assign featured = site.posts | where_exp: "post", "post.featured" | sort: "featured" %}
   {% if featured.size > 0 %}
-  <div class="pad"><div class="tops">
-    <div class="feathead"><h2>Top posts</h2><div class="featnav"><span id="featcount"></span><button type="button" id="featprev" aria-label="Previous essay">&larr;</button><button type="button" id="featnext" aria-label="Next essay">&rarr;</button></div></div>
+  <div class="pad"><div class="wrap"><div class="tops">
+    <div class="feathead"><h2>Top posts</h2><div class="featnav"><span id="featcount" aria-live="polite"></span><button type="button" id="featprev" aria-label="Previous essay">&larr;</button><button type="button" id="featnext" aria-label="Next essay">&rarr;</button></div></div>
     <div class="swipe" id="swipe" tabindex="0" aria-label="Top posts, swipe or scroll sideways">
       {% for post in featured %}
       <a class="mini" href="{{ post.url }}" aria-label="{{ post.title | escape }}"><div>
         <div class="minihead"><div class="mw">Tom Critchlow</div><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</div>
-        <div class="minibody">{% assign shown = 0 %}{% assign paras = post.content | split: "</p>" %}{% for para in paras %}{% assign text = para | strip_html | strip %}{% assign len = text | size %}{% if len > 40 and shown < 4 %}<p>{{ text }}</p>{% assign shown = shown | plus: 1 %}{% endif %}{% endfor %}</div>
+        <div class="minibody">{% assign shown = 0 %}{% assign paras = post.content | split: "</p>" %}{% for para in paras %}{% assign text = para | strip_html | strip %}{% assign len = text | size %}{% if len > 40 and shown < 7 %}<p>{{ text }}</p>{% assign shown = shown | plus: 1 %}{% endif %}{% endfor %}</div>
       </div></a>
       {% endfor %}
     </div>
-  </div></div>
+  </div></div></div>
   {% endif %}
 </section>
 <canvas class="fade" data-h="120" data-cell="4" data-live aria-hidden="true"></canvas>
-<main class="latestC pad">
+<main class="latestC pad" id="main"><div class="wrap">
   <div class="lhead"><h2>Latest</h2><button class="searchbtn quiet" type="button" data-search>Search all {{ site.posts | size }} posts <kbd>/</kbd></button></div>
   <ol class="crisp">
     {% for post in site.posts limit: 8 %}
     <li><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span></a></li>
     {% endfor %}
   </ol>
-  <a class="more" href="/writing/">All {{ site.posts | size }} posts, by year</a>
-</main>
-<script src="/js/site.js" defer></script>
-</body>
-</html>
+  <a class="more" href="/writing/">All {{ site.posts | size }} posts, by year &rarr;</a>
+</div></main>
+{% include gs-foot.html compact=true no_subscribe=true %}

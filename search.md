@@ -1,11 +1,13 @@
 ---
 layout: blog
 title: Search
+subtitle: Search posts, blogchains and wiki pages.
 ---
 
-<div class="mb5">
-<input id="searchInput" tabindex="0" placeholder="Search..." class="border-box w-100 pv2 br2 br--top shadow-4 b-black-10" />
-<div id="searchResults" class="w-100 ba br2 dn br--bottom shadow-4 b-black-10"></div>
+<div class="search-page">
+  <input id="searchInput" type="search" placeholder="Search posts, blogchains and wiki…" autocomplete="off" aria-label="Search site" />
+  <div id="searchStatus" class="search-status" aria-live="polite">Loading index…</div>
+  <ol id="searchResults" class="search-list"></ol>
 </div>
 
 <script src="/js/fuse.min.js"></script>

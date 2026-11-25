@@ -5,15 +5,15 @@ subtitle: Everything I've published here, newest first.
 {% include gs-head.html %}
 <header class="field strip">
   {% include gs-nav.html %}
-  <div class="pad striptitle"><div class="inner" style="max-width:1180px">
+  <div class="pad striptitle"><div class="wrap">
     <h1 class="st1">Writing</h1>
     <p class="st2">{{ site.posts | size }} posts since {{ site.posts.last.date | date: "%Y" }}, newest first.</p>
   </div></div>
 </header>
 <canvas class="fade" data-h="36" data-cell="3" aria-hidden="true"></canvas>
-<main class="archive pad">
+<main class="archive pad" id="main"><div class="wrap">
   {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  <div class="lhead"><nav class="years" aria-label="Jump to a year">{% for year in years %}<a href="#y{{ year.name }}">{{ year.name }}</a>{% endfor %}</nav><button class="searchbtn quiet" type="button" data-search>Search <kbd>/</kbd></button></div>
+  <nav class="years" aria-label="Jump to a year">{% for year in years %}<a href="#y{{ year.name }}">{{ year.name }}</a>{% endfor %}</nav>
   {% for year in years %}
   <h2 id="y{{ year.name }}">{{ year.name }}<span>{{ year.items | size }} {% if year.items.size == 1 %}post{% else %}posts{% endif %}</span></h2>
   <ol class="crisp">
@@ -22,7 +22,5 @@ subtitle: Everything I've published here, newest first.
     {% endunless %}{% endfor %}
   </ol>
   {% endfor %}
-</main>
-<script src="/js/site.js" defer></script>
-</body>
-</html>
+</div></main>
+{% include gs-foot.html compact=true %}

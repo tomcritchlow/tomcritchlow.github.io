@@ -1,110 +1,60 @@
-//
-// Originally from Craig Mod here: https://gist.github.com/cmod/5410eae147e4318164258742dd053993
-// Lightly customized by Tom Critchlow
-//
+// Full-site search for /search/ (posts, blogchains, wiki via /index.json + Fuse.js)
+(function () {
+  var fuse = null;
+  var list = document.getElementById('searchResults');
+  var status = document.getElementById('searchStatus');
+  var input = document.getElementById('searchInput');
+  if (!input || !list) return;
 
-var fuse; // holds our search engine
-var searchVisible = false;
-var firstRun = true; // allow us to delay loading json data unless search activated
-var list = document.getElementById('searchResults'); // targets the <ul>
-var first, last; // updated dynamically when search results are loaded
-var maininput = document.getElementById('searchInput'); // input box for search
-var resultsAvailable = false; // Did we get any search results?
-
-maininput.focus();
-loadSearch();
-
-// add microblog https://notes.tomcritchlow.com/archive/index.json
-// add arena channels?
-
-document.addEventListener('keydown', function (event) {
-  if (event.keyCode == 40 && resultsAvailable) { // DOWN (40)
-    event.preventDefault();
-    if (document.activeElement === maininput) first.focus();
-    else if (document.activeElement === last) last.focus();
-    else document.activeElement.parentElement.nextSibling.firstElementChild.focus();
-  } else if (event.keyCode == 38 && resultsAvailable) { // UP (38)
-    event.preventDefault();
-    if (document.activeElement === maininput) maininput.focus();
-    else if (document.activeElement === first) maininput.focus();
-    else document.activeElement.parentElement.previousSibling.firstElementChild.focus();
+  function esc(s) {
+    return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
   }
-});
 
-// ==========================================
-// execute search as each character is typed
-//
-document.getElementById("searchInput").onkeyup = function (e) {
-  executeSearch(this.value);
-};
-
-// ==========================================
-// fetch some json without jquery
-//
-function fetchJSONFile(path, callback) {
-  var httpRequest = new XMLHttpRequest();
-  httpRequest.onreadystatechange = function () {
-    if (httpRequest.readyState === 4) {
-      if (httpRequest.status === 200) {
-        var data = JSON.parse(httpRequest.responseText);
-        if (callback) callback(data);
-      }
+  function render(term) {
+    var q = (term || '').trim();
+    if (!fuse) {
+      if (status) status.textContent = 'Loading index…';
+      return;
     }
-  };
-  httpRequest.open('GET', path);
-  httpRequest.send();
-}
+    if (!q) {
+      list.innerHTML = '';
+      if (status) status.textContent = 'Type to search across posts, blogchains and wiki pages.';
+      return;
+    }
+    var results = fuse.search(q);
+    if (!results.length) {
+      list.innerHTML = '';
+      if (status) status.textContent = 'No matches for “' + q + '”.';
+      return;
+    }
+    var shown = results.slice(0, 20);
+    if (status) status.textContent = results.length + (results.length === 1 ? ' result' : ' results') + (results.length > shown.length ? ' (showing top ' + shown.length + ')' : '');
+    list.innerHTML = shown.map(function (r) {
+      var item = r.item;
+      var meta = item.date || (item.category ? item.category : '');
+      var snippet = (item.content || '').replace(/\s+/g, ' ').trim().slice(0, 180);
+      return '<li><a href="' + esc(item.url) + '"><span class="sr-top"><b>' + esc(item.title) + '</b>' + (meta ? '<time>' + esc(meta) + '</time>' : '') + '</span>' + (snippet ? '<p>' + esc(snippet) + '…</p>' : '') + '</a></li>';
+    }).join('');
+  }
 
-// ==========================================
-// load our search index, only executed once
-//
-function loadSearch() {
-  fetchJSONFile('https://tomcritchlow.com/index.json', function (data) {
-    var options = {
-      shouldSort: true,
-      ignoreLocation: true,
-      distance: 5000,
-      threshold: 0.6,
-      fieldNormWeight: 2.0,
-      minMatchCharLength: 2,
-      keys: ['title', 'url', 'content']
-    };
-    fuse = new Fuse(data, options); // build the index from the json file
-  });
-}
+  input.focus();
+  input.addEventListener('input', function () { render(input.value); });
 
-// ==========================================
-// using the index we loaded, run a search query
-//
-function executeSearch(term) {
-  let results = fuse.search(term); // the actual query being run using fuse.js
-  let searchitems = ''; // our results bucket
-
-  if (results.length === 0) {
-    resultsAvailable = false;
-    searchitems = '';
-  } else {
-    results.slice(0, 10).forEach(result => {
-      let item = result.item; // Extract the item from the result
-      let date = item.date ? item.date : "";
-      searchitems += `
-        <div class="f5 pv2 overflow-hidden bg-animate hover-bg-near-white pointer">
-          <a href="${item.url}" tabindex="0" class="link black dim">
-            <span>
-              <strong>${item.title}</strong> <span>${date}</span><br>
-              <em class="f6">${item.content.substring(0, 200)}</em>
-            </span>
-          </a>
-        </div>`;
+  fetch('/index.json')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      fuse = new Fuse(data, {
+        shouldSort: true,
+        ignoreLocation: true,
+        distance: 5000,
+        threshold: 0.45,
+        fieldNormWeight: 2.0,
+        minMatchCharLength: 2,
+        keys: ['title', 'url', 'content']
+      });
+      render(input.value);
+    })
+    .catch(function () {
+      if (status) status.textContent = 'Could not load search index.';
     });
-    resultsAvailable = true;
-  }
-
-  list.innerHTML = searchitems;
-  list.style.display = "block";
-
-  if (results.length > 0) {
-    first = list.firstChild.querySelector('a');
-    last = list.lastChild.querySelector('a');
-  }
-}
+})();

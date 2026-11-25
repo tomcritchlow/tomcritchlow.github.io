@@ -1,0 +1,23 @@
+---
+title: The NEW MBA
+subtitle: Essays from a 2023 project about becoming more capable and confident at work.
+---
+{% include gs-head.html %}
+<header class="field strip">
+  {% include gs-nav.html %}
+  <div class="pad striptitle"><div class="wrap">
+    <h1 class="st1">The NEW MBA</h1>
+    <p class="st2">{{ page.subtitle }}</p>
+  </div></div>
+</header>
+<canvas class="fade" data-h="36" data-cell="3" aria-hidden="true"></canvas>
+<main class="archive pad" id="main"><div class="wrap">
+  {% assign series = site.posts | where: "series", "newmba" %}
+  <p style="max-width:66ch;margin:0 0 18px">These {{ series | size }} essays were first published at <a href="https://newmba.co/">newmba.co</a> in 2023 and now live here with the rest of my writing.</p>
+  <ol class="crisp">
+    {% for post in series %}
+    <li><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span></a></li>
+    {% endfor %}
+  </ol>
+</div></main>
+{% include gs-foot.html compact=true %}

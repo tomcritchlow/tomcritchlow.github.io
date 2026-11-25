@@ -1,0 +1,7 @@
+{% comment %} Buttondown subscribe form, posted straight to Buttondown (no iframe, no script). Pass cta="..." to tag where the signup came from. {% endcomment %}
+<form action="https://buttondown.com/api/emails/embed-subscribe/tomcritchlow" method="post" class="embeddable-buttondown-form">
+  <input placeholder="Email address" type="email" required autocomplete="email" name="email" aria-label="Email address">
+  <input type="hidden" name="metadata__cta" value="{{ include.cta | default: 'site' }}">
+  <input type="hidden" value="1" name="embed">
+  <input type="submit" value="Subscribe">
+</form>
