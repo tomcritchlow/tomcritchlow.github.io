@@ -1,0 +1,81 @@
+/* additions for the homepage explorations; everything else is the live site.css */
+.xbar{display:flex;gap:14px;align-items:baseline;flex-wrap:wrap;padding:10px var(--gutter);font:400 13px/1.4 var(--font-body);background:var(--bg);color:var(--muted);border-bottom:1px solid var(--rule)}
+.xbar b{color:var(--fg)}
+.xbar a{color:var(--green-ink)}
+.sechead{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:20px}
+.sechead h2{font:600 13px/1 var(--font-mono);margin:0}
+/* projects carousel */
+.projects{margin-top:64px;border-top:2px solid var(--on-field);padding-top:16px}
+.projrow{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding:8px var(--gutter) 22px 2px;margin-right:calc(-1*var(--gutter));scrollbar-width:thin;scrollbar-color:var(--on-field) transparent}
+.proj{flex:none;width:min(430px,82vw);scroll-snap-align:start;text-decoration:none;color:inherit;border:2px solid var(--on-field);border-radius:12px;overflow:hidden;background:var(--green);display:flex;flex-direction:column;transition:transform .18s ease-out,box-shadow .18s ease-out}
+.proj:hover,.proj:focus-visible{transform:translateY(-6px);box-shadow:0 14px 0 -6px var(--on-field)}
+.proj figure{margin:0;aspect-ratio:16/10;background:var(--on-field);border-bottom:2px solid var(--on-field);overflow:hidden}
+.proj img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}
+.proj .ph{display:grid;place-items:center;height:100%;color:var(--green);font:800 54px/1 'Bricolage Grotesque',var(--font-body);letter-spacing:-.04em}
+.proj div.meta{padding:14px 16px 16px;display:grid;gap:4px}
+.proj b{font:700 22px/1.15 var(--font-body);letter-spacing:-.02em}
+.proj i{font-style:normal;font-size:15px;line-height:1.4}
+.proj span{font:400 12px/1.4 var(--font-mono);margin-top:4px;opacity:.85}
+/* A: the headline cut out of a wall of his own sentences */
+.wall{font-size:9px;line-height:1.15;color:color-mix(in oklch,var(--on-field) 15%,transparent);margin-top:26px;cursor:crosshair;font-weight:400}
+.wall b{color:var(--on-field);font-weight:700;background:color-mix(in oklch,var(--on-field) 13%,transparent)}
+.wallcap{font:500 12.5px/1.4 var(--font-mono);margin:14px 0 0}
+/* B: every title, as one paragraph you can read and click */
+.titles{font:700 clamp(21px,2.5vw,38px)/1.16 var(--font-body);letter-spacing:-.025em;margin:34px 0 0;max-height:680px;overflow:hidden;position:relative;text-wrap:pretty}
+.titles a{text-decoration:none;color:color-mix(in oklch,var(--on-field) 72%,transparent);transition:color .12s ease-out}
+.titles a:hover,.titles a:focus-visible{color:var(--on-field);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.titles a.hit{color:var(--on-field)}
+.titles a.miss{color:color-mix(in oklch,var(--on-field) 14%,transparent)}
+.titles sup{font:400 11px/1 var(--font-mono);letter-spacing:0;margin:0 .9em 0 .25em;opacity:.6;vertical-align:.9em}
+.titles::after{content:"";position:absolute;inset:auto 0 0 0;height:120px;background:linear-gradient(to bottom,transparent,var(--green));pointer-events:none}
+.titlebar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:40px}
+.titlebar p{margin:0;font:500 clamp(17px,1.45vw,20px)/1.4 var(--font-body);max-width:46ch}
+.titlebar input{font:400 15px/1 var(--font-body);padding:10px 12px;border:1.5px solid var(--on-field);border-radius:8px;background:transparent;color:inherit;min-width:240px;margin-left:auto}
+.titlebar input::placeholder{color:inherit;opacity:.7}
+.paperprojects{padding-top:28px;padding-bottom:20px}
+.paperprojects .projects{margin-top:0;border-top:0;padding-top:0}
+.paperprojects .proj{background:var(--panel);border-color:var(--fg)}
+.paperprojects .proj figure{border-color:var(--fg);background:var(--fg)}
+.paperprojects .proj:hover{box-shadow:0 14px 0 -6px var(--fg)}
+.paperprojects .sechead h2{color:var(--green-ink)}
+/* C: projects as the centrepiece, with his sentences running past */
+.ticker{overflow:hidden;white-space:nowrap;font:700 clamp(20px,2.4vw,34px)/1.3 var(--font-body);letter-spacing:-.02em;color:color-mix(in oklch,var(--on-field) 34%,transparent);padding:10px 0;border-block:2px solid var(--on-field);margin-top:44px;user-select:none}
+.ticker+.ticker{margin-top:-2px}
+.ticker div{display:inline-block;animation:run 240s linear infinite}
+.ticker.back div{animation-direction:reverse;animation-duration:300s}
+.ticker:hover div{animation-play-state:paused}
+.ticker span{margin:0 1.1em}
+@keyframes run{to{transform:translateX(-50%)}}
+.stage{margin-top:34px}
+.stage .projrow{gap:28px;scroll-snap-type:x mandatory;padding-left:calc((100vw - min(880px,78vw))/2 - var(--gutter));padding-right:calc((100vw - min(880px,78vw))/2);margin-left:calc(-1*var(--gutter))}
+.stage .proj{width:min(880px,78vw);scroll-snap-align:center;display:grid;grid-template-columns:1.5fr 1fr}
+.stage .proj figure{border-bottom:0;border-right:2px solid var(--on-field);aspect-ratio:auto;min-height:340px}
+.stage .proj div.meta{padding:26px 24px;align-content:end}
+.stage .proj b{font-size:clamp(28px,3.4vw,46px);line-height:1}
+.stage .proj i{font-size:17px;margin-top:6px}
+.compacthead .eat{margin-top:26px}
+@media(max-width:820px){.stage .proj{grid-template-columns:1fr}.stage .proj figure{border-right:0;border-bottom:2px solid var(--on-field);min-height:0;aspect-ratio:16/10}.titlebar input{margin-left:0;width:100%}}
+@media(prefers-reduced-motion:reduce){.ticker div{animation:none}}
+/* A, below the fold: every title on a dark ground. Pointing at one dims the rest and reads out its details. */
+.deep{background:var(--fg);color:var(--bg);padding:0 0 70px}
+.deep+canvas.fade{background:var(--fg)}
+.deephead{position:sticky;top:0;z-index:5;background:var(--fg);padding:18px 0 12px;border-bottom:1px solid color-mix(in oklch,var(--bg) 22%,transparent)}
+.deepbar{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px 22px;align-items:center}
+.deepbar h2{font:600 13px/1 var(--font-mono);margin:0;color:var(--mark)}
+.readout{margin:0;font-size:15px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.readout b{color:var(--mark);font-weight:700}
+.deepbar input{font:400 15px/1 var(--font-body);padding:9px 12px;border:1.5px solid color-mix(in oklch,var(--bg) 50%,transparent);border-radius:8px;background:transparent;color:inherit;min-width:230px}
+.deepbar input::placeholder{color:inherit;opacity:.6}
+.yearchips{display:flex;flex-wrap:wrap;gap:4px;margin-top:10px}
+.yearchips button{font:400 12px/1 var(--font-mono);padding:5px 7px;border-radius:6px;border:0;background:transparent;color:color-mix(in oklch,var(--bg) 70%,transparent);cursor:pointer}
+.yearchips button:hover{background:color-mix(in oklch,var(--bg) 14%,transparent);color:var(--bg)}
+.yearchips button[aria-pressed="true"]{background:var(--mark);color:var(--fg)}
+.titles.deepwall{max-height:none;overflow:visible;font-size:clamp(24px,3.5vw,56px);line-height:1.08;letter-spacing:-.035em;margin:30px 0 0}
+.titles.deepwall::after{display:none}
+.deepwall a{color:color-mix(in oklch,var(--bg) 78%,transparent);transition:color .14s ease-out}
+.deepwall:hover a,.deepwall:focus-within a{color:color-mix(in oklch,var(--bg) 26%,transparent)}
+.deepwall a:hover,.deepwall a:focus-visible{color:var(--mark)!important;text-decoration:none}
+.deepwall a.hit{color:var(--mark)}
+.deepwall a.miss{color:color-mix(in oklch,var(--bg) 16%,transparent)}
+.deepwall sup{opacity:.45}
+@media(max-width:820px){.deepbar{grid-template-columns:1fr}.deepbar input{min-width:0;width:100%}.readout{white-space:normal}}

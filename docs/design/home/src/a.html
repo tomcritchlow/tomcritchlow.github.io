@@ -1,0 +1,24 @@
+<section class="field home">
+  {{NAV}}
+  <h1 class="sr">Hey, I'm Tom.</h1>
+  <div class="pad"><div class="wrap"><pre class="ascii wall" id="wall" aria-hidden="true" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre>
+  <p class="wallcap">The page is the opening lines of your posts, set end to end. The headline is the same text, made bold. Termites eat it and it grows back.</p></div></div>
+  {{INTRO}}
+  <div class="pad"><div class="wrap"><div class="projects">
+    <div class="sechead"><h2>Things I've made</h2></div>
+    <div class="projrow" tabindex="0" aria-label="Projects, swipe or scroll sideways">{{PROJECTS}}</div>
+  </div></div></div>
+  {{TOP}}
+</section>
+<canvas class="fade" data-h="120" data-cell="4" data-live aria-hidden="true"></canvas>
+{{LATEST_MAIN}}
+<canvas class="fade" data-h="72" data-cell="4" data-dir="up" style="--green:var(--fg)" aria-hidden="true"></canvas>
+<section class="deep" aria-label="Every post">
+  <div class="deephead"><div class="pad"><div class="wrap deepbar">
+    <h2>Everything, since 2012</h2>
+    <p class="readout" id="readout" aria-live="polite">{{COUNT}} posts. Point at one.</p>
+    <input id="wallfilter" type="search" placeholder="Type to light up titles" aria-label="Filter titles">
+  </div><div class="wrap yearchips" id="yearchips" aria-label="Light up a year">{{YEARS}}</div></div></div>
+  <div class="pad"><p class="titles deepwall" id="titles">{{TITLES}}</p></div>
+</section>
+{{FOOTER}}
