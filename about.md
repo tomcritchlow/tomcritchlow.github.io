@@ -154,7 +154,7 @@ A consistent theme across my work has been sharing knowledge and helping to teac
 
 More recently I launched the [SEO MBA](https://seomba.com) which is an online education platform for SEO professionals to level up their business and management skills.
 
-Maybe because of my British accent, I've been a mentor for various startup accelerators and incubators and spoken at conferences all around the world. More on my [speaking here](http://tomcritchlow.com/speaking).
+Maybe because of my British accent, I've been a mentor for various startup accelerators and incubators and spoken at conferences all around the world.
  
 ## Get in touch
 

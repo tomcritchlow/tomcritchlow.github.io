@@ -14,7 +14,7 @@ A few things that are new:
 * New sidebar menu layout
 * White background for most of the site
 * A new [advisor](/advisor) page
-* New [topics](/topics) pages
+* New topics pages
 * Bringing back the [blog map](https://tomcritchlow.com/map/)
 * A mini timeline on my [about](/about/) page
 * The [newsletter](/newsletter) is now embedded (via buttondown)
@@ -31,7 +31,7 @@ Here's something fun I'm tinkering with. Heavily inspired by [Emmanual Quartey](
 
 ![](/images/2024-03-20-09-58-17.png)
 
-These topic pages (example: [sustainable independent consulting](https://tomcritchlow.com/topics/indie-consulting/)) house collections of writing as well as my are.na research boards. Hopefully as evolving, deepening spaces for long term lines of inquiry.
+These topic pages (example: sustainable independent consulting) house collections of writing as well as my are.na research boards. Hopefully as evolving, deepening spaces for long term lines of inquiry.
 
 ## Take Your Website Seriously
 
