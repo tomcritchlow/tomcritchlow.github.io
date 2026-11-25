@@ -2,6 +2,7 @@
 layout: blog
 title: Some notes on Thinking in Public
 subtitle: An evolution of my small-b-blogging thesis
+featured: 6
 ---
 
 A few weeks ago my good friend Jim asked me if I'd run a little session for [Part & Sum](https://partandsum.com/) around the theme of "thinking in public". I love Jim and I love Part & Sum and I love thinking in public so I jumped at the opportunity!

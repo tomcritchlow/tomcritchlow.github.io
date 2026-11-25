@@ -1,76 +1,28 @@
 ---
+title: Writing
+subtitle: Everything I've published here, newest first.
 ---
-{% assign tags = site.library | map: 'tags' | compact | join: ',' | split: ',' | uniq %}
-
-{% include head.html %}
-
-{% include googleanalytics.html %}
-
-{% include 2024-nav.html %}
-
-{% include writing-nav.html %}
-
-
-
-<div class="mainlinks pv4-l mh5-l ph3">
-
-{% include streak.html %}
-
-{% for post in site.posts  %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
-{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-{% capture next_month %}{{ post.next.date | date: "%B" }}{% endcapture %}
-
-{% if forloop.first %}
-<div id="{{ this_year }}-ref" class="b f4 pv2">{{this_year}}</div>
-
-{% endif %}
-
-{% if post.draft == true %}
-{% else %}
-
-{% if forloop.first %}
-<div class="f7 ttu black-70 b pt4">{{ this_month }}</div>
-{% elsif this_month != next_month %}
-<div class="f7 ttu black-70 b pt4">{{ this_month }}</div>
-{% endif %}
-
-<div class="flex flex-wrap w-100 pv2 justify-between f5">
-  <div class="w-100 w-auto-l">
-  <a class="link newgreen b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a>
-  <br><span class="black-50 i">{{post.subtitle}}</span>
-  </div>
-  <div class="black-50 f6 tr">{{ post.date | date: "%B %-d, %Y" }}
-  <br><span class="black-50 f6"  data-page-id="http://tomcritchlow.com{{post.url}}"><a class="link black-50" id="commentolink" href="{{ post.url }}#commento"></a></span></div>
-</div>
-
-{% endif %}
-
-
-
-{% if forloop.last %}
-
-{% else %}
-{% if this_year != next_year %}
-<div id="{{ next_year }}-ref" class="b f4 pv2">{{next_year}}</div>
-
-{% endif %}
-{% endif %}
-{% endfor %}
-</div>
-
-<script>
-window.commentoCustomText = function(count) {
-  if(count === 0) {
-    return "";
-  } else if (count === 1) {
-    return "⚡ 1 comment";
-  } else {
-    return "⚡ "+ count + " comments";
-  }
-}
-</script>
-
-{% include 2024-footer.html %}
+{% include gs-head.html %}
+<header class="field strip">
+  {% include gs-nav.html %}
+  <div class="pad striptitle"><div class="inner" style="max-width:1180px">
+    <h1 class="st1">Writing</h1>
+    <p class="st2">{{ site.posts | size }} posts since {{ site.posts.last.date | date: "%Y" }}, newest first.</p>
+  </div></div>
+</header>
+<canvas class="fade" data-h="36" data-cell="3" aria-hidden="true"></canvas>
+<main class="archive pad">
+  {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  <div class="lhead"><nav class="years" aria-label="Jump to a year">{% for year in years %}<a href="#y{{ year.name }}">{{ year.name }}</a>{% endfor %}</nav><button class="searchbtn quiet" type="button" data-search>Search <kbd>/</kbd></button></div>
+  {% for year in years %}
+  <h2 id="y{{ year.name }}">{{ year.name }}<span>{{ year.items | size }} {% if year.items.size == 1 %}post{% else %}posts{% endif %}</span></h2>
+  <ol class="crisp">
+    {% for post in year.items %}{% unless post.draft %}
+    <li><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d" }}</time><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span></a></li>
+    {% endunless %}{% endfor %}
+  </ol>
+  {% endfor %}
+</main>
+<script src="/js/site.js" defer></script>
+</body>
+</html>

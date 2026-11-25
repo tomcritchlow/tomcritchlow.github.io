@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.metatitle %}{{ page.metatitle }}{% elsif page.title %}{{ page.title }}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}</title>
+<meta name="description" content="{% if page.subtitle %}{{ page.subtitle | escape }}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}">
+{% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
+<link rel="preload" href="/fonts/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/css/site.css">
+<link rel="icon" href="/images/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for tomcritchlow.com" href="/feed.xml">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tomcritchlow.com{{ page.url }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
+<meta name="og:description" content="{% if page.subtitle %}{{ page.subtitle | escape }}{% else %}{{ page.content | strip_html | truncatewords: 20 | escape }}{% endif %}">
+<meta property="og:image" content="{% if page.og %}{{ page.og }}{% else %}https://tomcritchlow.com/images/green.png{% endif %}">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+{% if page.date %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tomcritchlow">
+<meta name="twitter:creator" content="@tomcritchlow">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
+<meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle | escape }}{% else %}{{ page.content | strip_html | truncatewords: 20 | escape }}{% endif %}">
+{% if page.og %}<meta property="twitter:image" content="{{ page.og }}">{% else %}<meta name="twitter:image" content="https://tomcritchlow-tom_og.web.val.run/?headline={{ page.title | url_encode }}&subheadline={{ page.subtitle | url_encode }}&date={{ page.date | date: "%B %-d, %Y" | url_encode }}">{% endif %}
+{% endif %}
+<meta name="pocket-site-verification" content="d481265d27c9597cbdc003abbf1994">
+<link rel="webmention" href="https://webmention.io/tomcritchlow.com/webmention">
+<link rel="pingback" href="https://webmention.io/tomcritchlow.com/xmlrpc">
+{% include googleanalytics.html %}
+</head>
+<body>

@@ -1,132 +1,38 @@
 ---
 ---
-
-{% include head.html %}
-
-{% include googleanalytics.html %}
-
-{% include 2024-nav.html %}
-
-{% include blogchain-nav-top.html %}
-
-<div class="pt4 pt5-l pb2 w-two-thirds-ns center">
-
-<div class="f4 ph3 pb4 ph0-l lh-copy">
-
-  {% if page.date %}
-<div class="bb b--newgreen w-100 ibmplexmono ttu f6 dt-published mb5" datetime="{{ page.date}}">
-    {{ page.date | date: "%B %-d, %Y" }}
-  </div>
-  {% endif %}
-        <h1 class="f2 fw8 lh-solid mv1 posttitle p-name">{{page.title}}</h1>
-  
-      {% if page.subtitle %}
-      <h2 class="f3 fw3 lh-copy mt1 subtitle pb2 p-summary i">{{page.subtitle}}</h2>
-        {% endif %}
-    
-    <div class="postcontainer">
-    {{content}}
-  </div>
-
-    {% if page.date %}
-    <hr class="w3 mv5">
-    {% endif %}
-
-  {% include blogchain-nav-bottom.html %}
-
-  {% if page.date %}
-  <div class="w-100 mv3 pa3 ba b--newgreen br2 f5 bg-near-white">
-    <div class="b pv1">More blog posts:</div>
-    {% for post in site.posts | limit:3 %}
-    <div class="flex w-100">
-      <p class="pv0 mv1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-      <p class="f6 black-50 ml-auto w-20-l w-40 tr pv0 mv1">{{ post.date | date: "%B %-d, %Y" }}</p>
-    </div>
-    
-    {% endfor %}
-        
-    <div class="bt b--black-10 mt3">
-      <p>This post was written by Tom Critchlow - blogger and independent consultant. Subscribe to join my occassional newsletter:</p>
-        <form action="https://buttondown.com/api/emails/embed-subscribe/tomcritchlow" method="post" class="embeddable-buttondown-form flex items-center w-100 f5">
-            <input placeholder="Email Address" type="email" required autocomplete="email" name="email" id="bd-email" class="bg-light-gray w-100 input-reset ba b--black-20 pv2 ph3 border-box br2 br--left">
-            <input type="hidden" name="metadata__cta" value="blogend">
-            <input type="hidden" value="1" name="embed" />
-            <input type="submit" value="Subscribe" class="input-reset w-auto-ns pv2 ph3 ba b--newgreen bg-light-gray br2 br--right pointer">
-            </form>
-    </div>
-        
-    </div>
-    {% endif %}
-
-
-{% if page.date %}
-<hr class="w3 mv5">
-{% endif %}
-
-<script>
-
-    $( document ).ready(function() {
-        var footnotes = $(".footnotes p");
-        $("sup").each(function(index){
-            var fn = footnotes[index].removeChild(footnotes[index].lastChild);
-            $(this).replaceWith("<label for='"+index+"' class='margin-toggle sidenote-number'></label><input type='checkbox' id='"+index+"' class='margin-toggle'/><span class='sidenote'>"+footnotes[index].innerHTML+"</span>")  
-        });   
-        $(".footnotes").hide()
-    });    
-       
-
-    </script>
-
-{% if page.date %}
-<script type="application/json" class="js-hypothesis-config">
-  {
-    "openSidebar": false,
-    "theme": "clean"
-  }
-</script>
-
-
-<script src="https://hypothes.is/embed.js" async></script>
-
-<script type="text/javascript">
-
-window.hypothesisConfig = function () {
-  return {
-    branding: {
-      appBackgroundColor: 'white',
-      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
-      ctaTextColor: '#eee',
-      selectionFontFamily: 'helvetica, arial, sans serif'
-    }
-  };
-};
-
-if ($(window).width()<600){
-      window.hypothesisConfig = function () {
-        return {
-          "externalContainerSelector": "#hypbox",
-          "onLayoutChange": function(layout) {
-            if (layout.expanded) {
-              $('#hypbox').show();
-            } else {
-              $('#hypbox').hide();
-            }
-          }
-        };
-      };
-    };
-</script>
-
-
-{% endif %}
-
-
-</div>
-</div>
-
-<div id="hypbox" style="display:none;width:100%;height:65%;position:fixed;bottom:0px;border-top:1px solid #02AD28;">
-      
-</div>
-
-</div>
-{% include 2024-footer.html %}
+{% include gs-head.html %}
+<link rel="stylesheet" href="/css/legacy.css">
+<header class="field strip">
+  {% include gs-nav.html %}
+  <div class="pad striptitle"><div class="inner h-entry">
+    {% if page.date %}<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>{% endif %}
+    <h1 class="st1 p-name">{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="st2 p-summary">{{ page.subtitle }}</p>{% endif %}
+  </div></div>
+</header>
+<div class="spined">
+<canvas class="fade" data-h="36" data-cell="3" aria-hidden="true"></canvas>
+<main class="essay pad"><div class="post-wrap">
+  {% if page.blogchain %}{% assign chain = site.posts | where_exp: "item", "item.blogchain contains page.blogchain" | reverse %}
+  <details class="chain"><summary>Part of the <a href="/blogchains/{{ page.blogchain }}">{{ page.blogchain }}</a> blogchain</summary>
+    <ol>{% for item in chain %}<li><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}</ol>
+  </details>{% endif %}
+  {% comment %} A few old posts have inline scripts that expect jQuery; load it only for those. {% endcomment %}
+  {% if content contains '$(' or content contains 'jQuery' %}<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>{% endif %}
+  {% comment %} Quotebacks and tweets are restyled as cards by /js/site.js, so their own embed scripts are dropped. {% endcomment %}
+  <article class="post-body e-content">
+{% assign body = content
+    | replace: '<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>', ''
+    | replace: '<script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>', ''
+    | replace: '<script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@toby-branch/quoteback.js"></script>', ''
+    | replace: '<script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>', ''
+    | replace: '<script note="UPDATE THIS 4REALZ" src="https://cdn.jsdelivr.net/gh/tomcritchlow/Citations-Magic@tom-branch/quoteback.js"></script>', ''
+    | replace: '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>', ''
+    | replace: "<script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>", ''
+    | replace: '<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>', ''
+    | replace: '<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>', ''
+    | replace: '<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>', '' %}
+{{ body }}
+  </article>
+</div></main>
+{% include gs-foot.html %}

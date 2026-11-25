@@ -3,6 +3,7 @@ layout: tsi-chapter
 title: Ways of Seeing
 subtitle: How to recognize and understand culture inside a client's organization
 tags: strategy
+featured: 3
 ---
 
 > *"One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in." - Marshall McLuhan*

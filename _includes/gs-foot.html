@@ -1,0 +1,23 @@
+<canvas class="fade" data-h="36" data-cell="3" data-dir="up" aria-hidden="true"></canvas>
+<footer class="field foot">
+  <div class="pad"><div class="tops">
+    {% assign shown = 0 %}
+    <h2>Keep reading</h2>
+    <ol class="plain">{% for post in site.posts %}{% if post.url != page.url and shown < 3 %}{% assign shown = shown | plus: 1 %}
+      <li><a href="{{ post.url }}"><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y" }}</time></a></li>{% endif %}{% endfor %}
+    </ol>
+    <div class="subscribe">
+      <p>An occasional newsletter when there is something new to read.</p>
+      <form action="https://buttondown.com/api/emails/embed-subscribe/tomcritchlow" method="post" class="embeddable-buttondown-form">
+        <input placeholder="Email address" type="email" required autocomplete="email" name="email" id="bd-email" aria-label="Email address">
+        <input type="hidden" name="metadata__cta" value="blogend">
+        <input type="hidden" value="1" name="embed">
+        <input type="submit" value="Subscribe">
+      </form>
+    </div>
+    <div class="footline"><a class="wordmark" href="/">Tom Critchlow</a><span><a href="/feed.xml">RSS</a><a href="https://newsletter.tomcritchlow.com/">Newsletter</a><a href="/now/">Now</a><button class="searchbtn" type="button" data-search>Search <kbd>/</kbd></button></span></div>
+  </div></div>
+</footer>
+<script src="/js/site.js" defer></script>
+</body>
+</html>

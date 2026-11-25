@@ -3,6 +3,7 @@ layout: tsi-chapter
 title: The Strategic Independent
 subtitle: How to do better work for more money, whether you're a designer, writer or strategist.
 tags: strategy
+featured: 1
 ---
 
 In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.

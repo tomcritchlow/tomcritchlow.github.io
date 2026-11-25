@@ -1,97 +1,42 @@
 ---
 subtitle: Move. Think. Create.
 ---
-
-{% include head.html %}
-
-{% include googleanalytics.html %}
-
-{% include 2024-nav.html %}
-
-<div class="pt4 pt5-l pb2 w-two-thirds-ns ph3 ph0-l center">
-
-<div class="pv3">
-  <p class="lh-copy f4">Hey, I'm Tom. I'm a dad, blogger, and AI search obsessive based in Brooklyn, NY.
-<br><br>
-I've been an executive, a consultant and a founder. I'm currently working at <a href="https://www.alephic.com/">Alephic</a> at the intersection of AI and marketing and building <a href="https://www.searchleaders.ai/">AI Search Leaders</a>, a community for operators trying to make sense of AI search before it makes nonsense of them.
-<br><br>
-This site is where I write about strategy, <a href="https://tomcritchlow.com/strategy/">independent work</a>, <a href="https://tomcritchlow.com/blogchains/digital-gardens/">digital gardens</a>, weird internet careers, <a href="https://tomcritchlow.com/2018/02/23/small-b-blogging/">small-b blogging</a>, <a href="https://tomcritchlow.com/2023/02/10/riffs/">riffs</a> and whatever else is currently rattling around in my head.
-  </p>
-</div>
-
-  <div class="pv5">
-    <div class="ttu f5 newgreen tracked b pb3">Latest Writing</div>
-  
-    {% for post in site.posts | limit:10 %}
-    <div class="flex flex-wrap w-100 pv2 justify-between">
-      <div class="w-100 w-auto-l"><a class="link black b" href="https://tomcritchlow.com{{post.url}}">{{post.title}}</a></div>
-      <div class="black-50 f6">{{ post.date | date: "%B %-d, %Y" }}</div>
+{% include gs-head.html %}
+<section class="field home">
+  {% include gs-nav.html %}
+  <h1 class="sr">Hey, I'm Tom.</h1>
+  <div class="pad"><pre class="ascii eat" id="eat" aria-hidden="true" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre></div>
+  <div class="pad intro2">
+    <div><p class="say">I'm a dad, blogger, and AI search obsessive based in Brooklyn, NY.</p>
+    <p class="say">I've been an executive, a consultant and a founder. I'm currently working at <a href="https://www.alephic.com/">Alephic</a> at the intersection of AI and marketing and building <a href="https://www.searchleaders.ai/">AI Search Leaders</a>, a community for operators trying to make sense of AI search before it makes nonsense of them.</p></div>
+    <p class="say">This site is where I write about strategy, <a href="/strategy/">independent work</a>, <a href="/blogchains/digital-gardens/">digital gardens</a>, weird internet careers, <a href="/2018/02/23/small-b-blogging/">small-b blogging</a>, <a href="/2023/02/10/riffs/">riffs</a> and whatever else is currently rattling around in my head.</p>
+  </div>
+  {% comment %} Top posts: add `featured: N` to a post's front matter; N sets the order. {% endcomment %}
+  {% assign featured = site.posts | where_exp: "post", "post.featured" | sort: "featured" %}
+  {% if featured.size > 0 %}
+  <div class="pad"><div class="tops">
+    <div class="feathead"><h2>Top posts</h2><div class="featnav"><span id="featcount"></span><button type="button" id="featprev" aria-label="Previous essay">&larr;</button><button type="button" id="featnext" aria-label="Next essay">&rarr;</button></div></div>
+    <div class="swipe" id="swipe" tabindex="0" aria-label="Top posts, swipe or scroll sideways">
+      {% for post in featured %}
+      <a class="mini" href="{{ post.url }}" aria-label="{{ post.title | escape }}"><div>
+        <div class="minihead"><div class="mw">Tom Critchlow</div><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</div>
+        <div class="minibody">{% assign shown = 0 %}{% assign paras = post.content | split: "</p>" %}{% for para in paras %}{% assign text = para | strip_html | strip %}{% assign len = text | size %}{% if len > 40 and shown < 4 %}<p>{{ text }}</p>{% assign shown = shown | plus: 1 %}{% endif %}{% endfor %}</div>
+      </div></a>
+      {% endfor %}
     </div>
+  </div></div>
+  {% endif %}
+</section>
+<canvas class="fade" data-h="120" data-cell="4" data-live aria-hidden="true"></canvas>
+<main class="latestC pad">
+  <div class="lhead"><h2>Latest</h2><button class="searchbtn quiet" type="button" data-search>Search all {{ site.posts | size }} posts <kbd>/</kbd></button></div>
+  <ol class="crisp">
+    {% for post in site.posts limit: 8 %}
+    <li><a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time><span><b>{{ post.title }}</b>{% if post.subtitle %}<i>{{ post.subtitle }}</i>{% endif %}</span></a></li>
     {% endfor %}
-  
-    <div class="fr pv3"><a class="link black" href="/writing">See all <i data-feather="arrow-right" class="h1 v-mid"></i></div>
-  
-    </div>
-
-<div class="pv5">
-<div class="ttu f5 newgreen tracked b pb3">Projects</div>
-
-<a class="link black-90 flex w-100 pv2 mv2 items-center" href="https://tomcritchlow.com/strategy/">
-  <div class="flex mr3 pa3 bg-white ba b--black-10 br-100">
-  <img class="h1" src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256">
-</div>
-  <div>
-    <strong>The Strategic Independent</strong>
-    <br>A book about sustainable indie consulting
-  </div>
-  <div class="dn db-l black-50 f6 ml-auto">
-    tomcritchlow.com
-  </div>  
-</a>
-
-<a class="link black-90 flex w-100 pv2 mv2 items-center" href="https://quotebacks.net/">
-  <div class="flex mr3 pa3 bg-white ba b--black-10 br-100">
-  <img class="h1" src="https://www.google.com/s2/favicons?domain=quotebacks.net&sz=256">
-</div>
-  <div>
-    <strong>Quotebacks</strong>
-    <br>A quoting tool for bloggers
-  </div>
-  <div class="dn db-l black-50 f6 ml-auto">
-    quotebacks.net
-  </div>  
-</a>
-
-<a class="link black-90 flex w-100 pv2 mv2 items-center" href="https://seomba.com">
-  <div class="flex mr3 pa3 bg-white ba b--black-10 br-100">
-  <img class="h1" src="https://www.google.com/s2/favicons?domain=seomba.com&sz=256">
-</div>
-  <div>
-    <strong>The SEO MBA</strong>
-    <br>Professional development for SEO professionals
-  </div>
-  <div class="dn db-l black-50 f6 ml-auto">
-    seomba.com
-  </div>  
-</a>
-
-<a class="link black-90 flex w-100 pv2 mv2 items-center" href="https://fiercelycurious.com">
-  <div class="flex mr3 pa3 bg-white ba b--black-10 br-100">
-  <img class="h1" src="https://www.google.com/s2/favicons?domain=fiercelycurious.com&sz=256">
-</div>
-  <div>
-    <strong>Fiercely Curious</strong>
-    <br>A brooklyn art collective
-  </div>
-  <div class="dn db-l black-50 f6 ml-auto">
-    fiercelycurious.com
-  </div>  
-</a>
-
-
-</div>
-
-
-
-
-{% include 2024-footer.html %}
+  </ol>
+  <a class="more" href="/writing/">All {{ site.posts | size }} posts, by year</a>
+</main>
+<script src="/js/site.js" defer></script>
+</body>
+</html>
