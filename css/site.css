@@ -66,7 +66,7 @@ kbd{font:500 11px/1 var(--font-mono);border:1px solid currentColor;border-bottom
 .say a{text-decoration-thickness:2px;text-underline-offset:3px;transition:background .12s ease-out,color .12s ease-out}
 .say a:hover{background:var(--on-field);color:var(--green);text-decoration:none}
 .tops{margin-top:72px;border-top:2px solid var(--on-field);padding-top:16px}
-.tops h2,.lhead h2,.archive h2{font:600 13px/1 var(--font-mono);margin:0}
+.tops h2,.projects h2,.lhead h2,.archive h2{font:600 13px/1 var(--font-mono);margin:0}
 .feathead{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:22px}
 .featnav{display:flex;align-items:center;gap:10px;font:500 12.5px/1 var(--font-mono);font-variant-numeric:tabular-nums}
 .featnav button{font:600 15px/1 var(--font-body);width:36px;height:36px;border-radius:50%;border:1.5px solid var(--on-field);background:transparent;color:inherit;cursor:pointer;transition:transform .12s ease-out,background .12s ease-out,color .12s ease-out,opacity .15s ease-out}
@@ -87,6 +87,43 @@ kbd{font:500 11px/1 var(--font-mono);border:1px solid currentColor;border-bottom
 .mini::after{content:"";position:absolute;left:0;right:0;bottom:0;height:34%;background:linear-gradient(to bottom,transparent,var(--bg) 82%);pointer-events:none}
 .mini:hover,.mini:focus-visible{transform:translateY(-6px);box-shadow:0 14px 0 -6px var(--on-field)}
 
+/* homepage headline cut from a wall of opening lines: the letters are the same text, made bold */
+.eat.wall{line-height:1.15;color:color-mix(in oklch,var(--on-field) 15%,transparent);margin-top:26px;font-weight:400}
+.eat.wall b{background:color-mix(in oklch,var(--on-field) 13%,transparent)}
+/* projects carousel */
+.projects{margin-top:64px;border-top:2px solid var(--on-field);padding-top:16px}
+.projrow{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-left:2px;padding:8px var(--gutter) 22px 2px;margin-right:calc(-1*var(--gutter));scrollbar-width:thin;scrollbar-color:var(--on-field) transparent}
+.proj{flex:none;width:min(430px,82vw);scroll-snap-align:start;text-decoration:none;color:inherit;border:2px solid var(--on-field);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:transform .18s ease-out,box-shadow .18s ease-out}
+a.proj:hover,a.proj:focus-visible{transform:translateY(-6px);box-shadow:0 14px 0 -6px var(--on-field)}
+.proj figure{margin:0;aspect-ratio:16/10;background:var(--on-field);border-bottom:2px solid var(--on-field);overflow:hidden}
+.proj img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}
+.proj .ph{display:grid;place-items:center;height:100%;color:var(--green);font:800 54px/1 'Bricolage Grotesque',var(--font-body);letter-spacing:-.04em}
+.proj .meta{padding:14px 16px 16px;display:grid;gap:4px}
+.proj b{font:700 22px/1.15 var(--font-body);letter-spacing:-.02em}
+.proj i{font-style:normal;font-size:15px;line-height:1.4}
+.proj small{font:400 12px/1.4 var(--font-mono);margin-top:4px;opacity:.85}
+/* every title, on a dark ground: pointing at one dims the rest and reads out its details */
+.deep{background:var(--fg);color:var(--bg);padding:0 0 70px}
+.deep+canvas.fade{background:var(--fg)}
+.deephead{position:sticky;top:0;z-index:5;background:var(--fg);padding:18px 0 12px;border-bottom:1px solid color-mix(in oklch,var(--bg) 22%,transparent)}
+.deepbar{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px 22px;align-items:center}
+.deepbar h2{font:600 13px/1 var(--font-mono);margin:0;color:var(--mark)}
+.readout{margin:0;font-size:15px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.readout b{color:var(--mark);font-weight:700;margin-right:.6em;font-variant-numeric:tabular-nums}
+.deepbar input{font:400 15px/1 var(--font-body);padding:9px 12px;border:1.5px solid color-mix(in oklch,var(--bg) 50%,transparent);border-radius:8px;background:transparent;color:inherit;min-width:230px;caret-color:var(--mark)}
+.deepbar input::placeholder{color:inherit;opacity:.6}
+.yearchips{display:flex;flex-wrap:wrap;gap:4px;margin-top:10px}
+.yearchips button{font:400 12px/1 var(--font-mono);padding:5px 7px;border-radius:6px;border:0;background:transparent;color:color-mix(in oklch,var(--bg) 70%,transparent);cursor:pointer}
+.yearchips button:hover{background:color-mix(in oklch,var(--bg) 14%,transparent);color:var(--bg)}
+.yearchips button[aria-pressed="true"]{background:var(--mark);color:var(--fg)}
+.deep :focus-visible{outline-color:var(--mark)}
+.deepwall{font:700 clamp(24px,3.5vw,56px)/1.08 var(--font-body);letter-spacing:-.035em;margin:30px 0 0;text-wrap:pretty}
+.deepwall a{text-decoration:none;color:color-mix(in oklch,var(--bg) 78%,transparent);transition:color .14s ease-out}
+.deepwall:hover a,.deepwall:focus-within a{color:color-mix(in oklch,var(--bg) 26%,transparent)}
+.deepwall a:hover,.deepwall a:focus-visible{color:var(--mark)!important}
+.deepwall a.hit{color:var(--mark)}
+.deepwall a.miss{color:color-mix(in oklch,var(--bg) 16%,transparent)}
+.deepwall sup{font:400 11px/1 var(--font-mono);letter-spacing:0;margin:0 .9em 0 .25em;opacity:.45;vertical-align:.9em}
 canvas.fade{display:block;width:100%;background:var(--bg);margin:-1px 0}
 canvas.fade[data-live]{cursor:crosshair}
 
@@ -261,6 +298,7 @@ canvas.fade[data-live]{cursor:crosshair}
   .enote{position:static;width:auto;margin:-.4em 0 1.2em;border-left-color:var(--mark)}
 }
 @media (max-width:820px){
+  .deepbar{grid-template-columns:1fr}.deepbar input{min-width:0;width:100%}.readout{white-space:normal}
   .intro2{grid-template-columns:1fr;gap:.8em}
   .nav-inner{flex-wrap:wrap;row-gap:12px}
   .nav nav{flex-wrap:wrap;gap:4px 6px;width:100%}

@@ -30,25 +30,29 @@
     new ResizeObserver(function () { if (Math.abs(node.clientWidth - w) > 8) { w = node.clientWidth; fn(); } }).observe(node);
   }
 
-  /* ---------- 1. headline: letters drawn in # characters; termites chew holes that grow back ---------- */
+  /* ---------- 1. headline: letters drawn in characters; termites chew holes that grow back.
+     With data-fill="words" the whole block is the opening lines of posts and the letters are that text made bold. ---------- */
   function headline(node) {
-    var cfg = node.dataset, g, n, mask, eaten, ants = [], tick = 0, DX = [1, 1, 0, -1, -1, -1, 0, 1], DY = [0, 1, 1, 1, 0, -1, -1, -1];
+    var cfg = node.dataset, g, n, mask, eaten, ants = [], tick = 0, DX = [1, 1, 0, -1, -1, -1, 0, 1], DY = [0, 1, 1, 1, 0, -1, -1, -1], TEXT = '', chars = [];
+    function esc(c) { return c === '&' ? '&amp;' : c === '<' ? '&lt;' : c; }
     function init() {
       node.textContent = ''; node.style.height = ''; g = grid(node);
       var W = g.cols * g.cw, lines = (W < 720 ? (cfg.narrow || cfg.wide) : cfg.wide).split('|');
       var c = document.createElement('canvas'), x = c.getContext('2d'), face = '800 100px "Bricolage Grotesque",system-ui,sans-serif';
       x.font = face; var widest = Math.max.apply(null, lines.map(function (l) { return x.measureText(l).width; }));
       var fs = Math.min(lines.length > 1 ? 230 : 300, 100 * (W * .97) / widest), lh = fs * .86, H = lh * lines.length + fs * .16;
-      g.rows = Math.ceil(H / g.ch) + 3; n = g.cols * g.rows; c.width = Math.ceil(W); c.height = Math.ceil(g.rows * g.ch);
+      var PAD = TEXT ? (W < 720 ? 3 : 5) : 1; // rows of plain text above and below the letters
+      g.rows = Math.ceil(H / g.ch) + (TEXT ? PAD * 2 : 3); n = g.cols * g.rows; c.width = Math.ceil(W); c.height = Math.ceil(g.rows * g.ch);
       x.font = face.replace('100px', fs + 'px'); x.textBaseline = 'alphabetic'; x.fillStyle = '#000';
-      lines.forEach(function (l, i) { x.fillText(l, W * .005, fs * .78 + lh * i + g.ch); });
+      lines.forEach(function (l, i) { x.fillText(l, W * .005, fs * .78 + lh * i + PAD * g.ch); });
       var data = x.getImageData(0, 0, c.width, c.height).data; mask = new Uint8Array(n); eaten = new Int32Array(n);
       for (var r = 0; r < g.rows; r++) for (var q = 0; q < g.cols; q++) {
         var px = Math.min(c.width - 1, Math.floor((q + .5) * g.cw)), py = Math.min(c.height - 1, Math.floor((r + .5) * g.ch));
         mask[r * g.cols + q] = data[(py * c.width + px) * 4 + 3] > 110 ? 1 : 0;
       }
+      if (TEXT) { chars = new Array(n); for (var ci = 0; ci < n; ci++) chars[ci] = esc(TEXT[ci % TEXT.length]); }
       node.style.height = (g.rows * g.ch) + 'px'; node.style.minHeight = '0'; ants = [];
-      var count = REDUCED ? 0 : Math.max(8, Math.round(n / 520));
+      var count = REDUCED ? 0 : Math.max(8, Math.round(n / (TEXT ? 900 : 520)));
       for (var a = 0; a < count; a++) ants.push({ x: Math.random() * g.cols, y: Math.random() * g.rows, d: Math.floor(Math.random() * 8) });
     }
     function bite(cx, cy, r, ticks) {
@@ -73,16 +77,21 @@
       var out = '', open = false;
       for (var y = 0; y < g.rows; y++) {
         for (var x2 = 0; x2 < g.cols; x2++) {
-          var k2 = y * g.cols + x2, solid = where[k2] || (mask[k2] && eaten[k2] < tick);
+          var k2 = y * g.cols + x2, solid = TEXT ? (mask[k2] && eaten[k2] < tick) : (where[k2] || (mask[k2] && eaten[k2] < tick));
           if (solid && !open) { out += '<b>'; open = true; } else if (!solid && open) { out += '</b>'; open = false; }
-          out += where[k2] ? 't' : solid ? '#' : ' ';
+          out += TEXT ? chars[k2] : where[k2] ? 't' : solid ? '#' : ' ';
         }
         if (open) { out += '</b>'; open = false; } out += '\n';
       }
       node.innerHTML = out;
     }
-    function start() { init(); onResize(node, function () { init(); step(); }); loop(node, step, 20); }
-    if (document.fonts && document.fonts.load) document.fonts.load('800 100px "Bricolage Grotesque"').then(start, start); else start();
+    function start() { init(); onResize(node, function () { init(); step(); }); loop(node, step, TEXT ? 14 : 20); }
+    function fontThenStart() { if (document.fonts && document.fonts.load) document.fonts.load('800 100px "Bricolage Grotesque"').then(start, start); else start(); }
+    // the words are the opening lines from the post index; if it cannot be loaded the headline falls back to # characters
+    // on narrow screens the letters are too small to be read as text, so phones keep the # headline
+    if (cfg.fill === 'words' && node.clientWidth < 720) node.classList.remove('wall');
+    if (cfg.fill === 'words' && node.clientWidth >= 720) posts().then(function (all) { TEXT = all.map(function (p) { return (p.x || '').replace(/\.\.\.$/, ''); }).join(' ').replace(/\s+/g, ' '); if (TEXT.length < 200) TEXT = ''; if (!TEXT) node.classList.remove('wall'); fontThenStart(); });
+    else fontThenStart();
   }
 
   /* ---------- 2. dither: an 8x8 ordered dither that also fades in strength ---------- */
@@ -398,6 +407,36 @@
     row.addEventListener('scroll', label, { passive: true }); addEventListener('resize', label); label();
   }
 
+  /* ---------- homepage title wall: readout for the title under the pointer, a filter, and year buttons ---------- */
+  function deepWall(titles) {
+    var readout = document.getElementById('readout'), filter = document.getElementById('wallfilter'), chips = document.getElementById('yearchips');
+    var links = [].slice.call(titles.querySelectorAll('a')), idle = readout ? readout.textContent : '', total = idle;
+    function mark(test) { var hits = 0; links.forEach(function (a) { var hit = test ? test(a) : false; if (hit) hits++; a.classList.toggle('hit', !!test && hit); a.classList.toggle('miss', !!test && !hit); }); return hits; }
+    function say(a) {
+      if (!readout) return; var path = new URL(a.href, location.href).pathname;
+      posts().then(function (all) {
+        var p = all.filter(function (x) { return x.u === path; })[0]; if (!p || !a.matches(':hover, :focus')) return;
+        readout.textContent = ''; readout.appendChild(el('b', null, p.d));
+        readout.appendChild(document.createTextNode([p.s, p.w.toLocaleString('en-US') + ' words', Math.max(1, Math.round(p.w / 230)) + ' min'].filter(Boolean).join(' \u00b7 ')));
+      });
+    }
+    titles.addEventListener('pointerover', function (e) { var a = e.target.closest('a'); if (a) say(a); });
+    titles.addEventListener('focusin', function (e) { var a = e.target.closest('a'); if (a) say(a); });
+    titles.addEventListener('pointerleave', function () { if (readout) readout.textContent = idle; });
+    function clearChips() { if (chips) chips.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', 'false'); }); }
+    if (filter) filter.addEventListener('input', function () {
+      var q = filter.value.trim().toLowerCase(); clearChips();
+      var n = mark(q ? function (a) { return a.textContent.toLowerCase().indexOf(q) >= 0; } : null);
+      idle = q ? n + ' title' + (n === 1 ? '' : 's') + ' match.' : total; if (readout) readout.textContent = idle;
+    });
+    if (chips) chips.addEventListener('click', function (e) {
+      var btn = e.target.closest('button'); if (!btn) return; var on = btn.getAttribute('aria-pressed') !== 'true', y = btn.dataset.year;
+      clearChips(); if (on) btn.setAttribute('aria-pressed', 'true'); if (filter) filter.value = '';
+      var n = mark(on ? function (a) { return a.dataset.y === y; } : null);
+      idle = on ? n + ' post' + (n === 1 ? '' : 's') + ' in ' + y + '.' : total; if (readout) readout.textContent = idle;
+    });
+  }
+
   ready(function () {
     var eat = document.getElementById('eat'); if (eat) headline(eat);
     document.querySelectorAll('canvas.fade').forEach(fade);
@@ -405,6 +444,7 @@
     if (document.querySelector('[data-search]')) search();
     var body = document.querySelector('.post-body'); if (body) essay(body);
     var keep = document.getElementById('keep'); if (keep) keepRow(keep);
+    var wallTitles = document.getElementById('titles'); if (wallTitles) deepWall(wallTitles);
     var past = document.getElementById('issues'); if (past && past.dataset.feed) issues(past);
   });
 })();

@@ -5,7 +5,7 @@ subtitle: Move. Think. Create.
 <section class="field home">
   {% include gs-nav.html %}
   <h1 class="sr">Hey, I'm Tom.</h1>
-  <div class="pad"><div class="wrap"><pre class="ascii eat" id="eat" aria-hidden="true" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre></div></div>
+  <div class="pad"><div class="wrap"><pre class="ascii eat wall" id="eat" aria-hidden="true" data-fill="words" data-wide="Hey, I'm Tom." data-narrow="Hey,|I'm Tom."></pre></div></div>
   <div class="pad"><div class="wrap intro2">
     <div><p class="say">I'm a dad, blogger, and AI search obsessive based in Brooklyn, NY.</p>
     <p class="say">I've been an executive, a consultant and a founder. I'm currently working at <a href="https://www.alephic.com/">Alephic</a> at the intersection of AI and marketing and building <a href="https://www.searchleaders.ai/">AI Search Leaders</a>, a community for operators trying to make sense of AI search before it makes nonsense of them.</p></div>
@@ -18,6 +18,18 @@ subtitle: Move. Think. Create.
       {% if latest %}<p class="signup-latest">Latest issue: <a href="{{ latest.url }}">{{ latest.title }}</a> <span>{{ latest.date | date: "%b %-d, %Y" }}</span> <a href="/newsletter/">All {{ news.issues | size }} issues</a></p>{% endif %}
     </div></div>
   </div></div>
+  {% comment %} Projects: edit _data/projects.yml. {% endcomment %}
+  <div class="pad"><div class="wrap"><div class="projects">
+    <div class="feathead"><h2>Things I've made</h2></div>
+    <div class="projrow" tabindex="0" aria-label="Projects, swipe or scroll sideways">
+      {% for project in site.data.projects %}
+      {% if project.url %}<a class="proj" href="{{ project.url }}">{% else %}<div class="proj">{% endif %}
+        <figure>{% if project.image %}<img src="/images/projects/{{ project.image }}" alt="Screenshot of {{ project.name | escape }}" loading="lazy" width="900" height="563">{% else %}<span class="ph">{{ project.name }}</span>{% endif %}</figure>
+        <span class="meta"><b>{{ project.name }}</b><i>{{ project.line }}</i><small>{{ project.meta }}</small></span>
+      {% if project.url %}</a>{% else %}</div>{% endif %}
+      {% endfor %}
+    </div>
+  </div></div></div>
   {% comment %} Top posts: add `featured: N` to a post's front matter; N sets the order. {% endcomment %}
   {% assign featured = site.posts | where_exp: "post", "post.featured" | sort: "featured" %}
   {% if featured.size > 0 %}
@@ -44,4 +56,18 @@ subtitle: Move. Think. Create.
   </ol>
   <a class="more" href="/writing/">All {{ site.posts | size }} posts, by year &rarr;</a>
 </div></main>
+{% comment %} Every post title, on a dark ground. Works as plain links; site.js adds the readout, the filter and the year buttons. {% endcomment %}
+<canvas class="fade" data-h="72" data-cell="4" data-dir="up" style="--green:var(--fg)" aria-hidden="true"></canvas>
+<section class="deep" aria-label="Every post">
+  <div class="deephead"><div class="pad"><div class="wrap">
+    <div class="deepbar">
+      <h2>Everything, since {{ site.posts.last.date | date: "%Y" }}</h2>
+      <p class="readout" id="readout" aria-live="polite">{{ site.posts | size }} posts. Point at one.</p>
+      <input id="wallfilter" type="search" placeholder="Type to light up titles" aria-label="Filter titles">
+    </div>
+    {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    <div class="yearchips" id="yearchips" aria-label="Light up a year">{% for year in years %}<button type="button" data-year="{{ year.name }}" aria-pressed="false">{{ year.name }}</button>{% endfor %}</div>
+  </div></div></div>
+  <div class="pad"><div class="wrap"><p class="deepwall" id="titles">{% for post in site.posts %}<a href="{{ post.url }}" data-y="{{ post.date | date: "%Y" }}">{{ post.title }}</a><sup>{{ post.date | date: "%y" }}</sup> {% endfor %}</p></div></div>
+</section>
 {% include gs-foot.html compact=true no_subscribe=true %}

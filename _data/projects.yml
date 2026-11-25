@@ -1,0 +1,36 @@
+# Projects carousel on the homepage, in display order.
+# image is a file in /images/projects/ (a 16:10 screenshot); leave it out for a text-only card.
+# url is optional; without it the card is not a link.
+- name: AI Search Leaders
+  line: A private peer community for senior search professionals navigating the shift to generative AI search.
+  meta: 2026 to now · searchleaders.ai
+  url: https://www.searchleaders.ai/
+  image: aisl.jpg
+- name: The SEO MBA
+  line: Professional development for SEO professionals.
+  meta: 2021 to now · seomba.com
+  url: https://seomba.com/
+  image: seomba.jpg
+- name: The Strategic Independent
+  line: A book about sustainable indie consulting.
+  meta: Book · tomcritchlow.com/strategy
+  url: /strategy/
+  image: strategy.jpg
+- name: Quotebacks
+  line: A quoting tool for bloggers.
+  meta: 2020 · quotebacks.net
+  url: https://quotebacks.net/
+  image: quotebacks.jpg
+- name: The NEW MBA
+  line: Essays on becoming more capable and confident at work.
+  meta: 2023 · newmba.co
+  url: /newmba/
+  image: newmba.jpg
+- name: Fiercely Curious
+  line: A Brooklyn art collective with pop-up art shows.
+  meta: 2013 to now · fiercelycurious.com
+  url: https://fiercelycurious.com/
+  image: fiercely.jpg
+- name: 7books
+  line: Playlists for bookworms. My first Python project; it grew to over 6,000 users.
+  meta: 2011 to 2013 · no longer online
