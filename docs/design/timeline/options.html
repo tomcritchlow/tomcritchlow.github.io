@@ -1,0 +1,256 @@
+<title>Career Timeline Options</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700;800&family=Hanken+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a short brief, then three timeline treatments stacked, each drawn live on the homepage's green field with a two-line note beneath. */
+:root{
+  --bg:oklch(0.972 0.008 150); --panel:oklch(0.995 0.003 150); --fg:oklch(0.21 0.02 155); --muted:oklch(0.46 0.02 155);
+  --rule:oklch(0.885 0.012 150); --green:oklch(0.69 0.21 145); --green-ink:oklch(0.43 0.14 148); --on-field:oklch(0.18 0.06 152);
+  --font-body:'Hanken Grotesk',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --font-mono:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
+  --font-display:'Bricolage Grotesque','Hanken Grotesk',system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:oklch(0.165 0.012 155); --panel:oklch(0.205 0.014 155); --fg:oklch(0.93 0.012 150); --muted:oklch(0.71 0.02 150);
+  --rule:oklch(0.3 0.016 152); --green:oklch(0.36 0.11 148); --green-ink:oklch(0.8 0.18 145); --on-field:oklch(0.96 0.04 145); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:oklch(0.165 0.012 155); --panel:oklch(0.205 0.014 155); --fg:oklch(0.93 0.012 150); --muted:oklch(0.71 0.02 150);
+  --rule:oklch(0.3 0.016 152); --green:oklch(0.36 0.11 148); --green-ink:oklch(0.8 0.18 145); --on-field:oklch(0.96 0.04 145); color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:16px/1.5 var(--font-body);padding-block:40px 72px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1180px;margin:0 auto;display:grid;gap:56px}
+h1{font:700 30px/1.15 var(--font-body);letter-spacing:-.02em;margin:0 0 10px;text-wrap:balance}
+.lede{margin:0;max-width:68ch;color:var(--muted)}
+.opt{display:grid;gap:16px;min-width:0}
+.opt>header h2{font:700 22px/1.2 var(--font-body);letter-spacing:-.015em;margin:0 0 4px}
+.opt>header h2 small{font:600 12px/1 var(--font-mono);color:var(--green-ink);margin-left:10px;letter-spacing:0}
+.opt>header p{margin:0;color:var(--muted);max-width:72ch}
+.notes{margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 32px;font-size:15px}
+@media(max-width:700px){.notes{grid-template-columns:1fr}}
+.notes dt{font:600 12px/1.4 var(--font-mono);color:var(--muted)}
+.notes dd{margin:2px 0 0}
+.foot{color:var(--muted);font-size:14.5px;max-width:80ch;margin:0}
+
+/* The green field, as on the homepage */
+.field{background:var(--green);color:var(--on-field);border-radius:14px;padding:26px clamp(16px,3vw,34px) 30px;min-width:0}
+.field h3{font:600 13px/1 var(--font-mono);margin:0 0 20px;border-top:2px solid var(--on-field);padding-top:16px}
+.field a{color:inherit}
+.field :focus-visible{outline:2px solid var(--on-field);outline-offset:3px}
+button{font:inherit;color:inherit}
+
+/* A: chart */
+.scroll{overflow-x:auto;padding-bottom:6px;scrollbar-width:thin;scrollbar-color:var(--on-field) transparent}
+.chart{min-width:780px;display:grid;gap:6px}
+.row{display:grid;grid-template-columns:repeat(21,minmax(0,1fr));align-items:end}
+.cap{font:600 11px/1 var(--font-mono);opacity:.75;margin-top:10px}
+.cap:first-child{margin-top:0}
+.bar{appearance:none;background:none;border:2px solid var(--on-field);border-radius:4px;height:26px;position:relative;cursor:pointer;padding:0 8px;text-align:left;font:600 12.5px/1 var(--font-mono);white-space:nowrap;margin-right:3px;transition:background-color .12s ease-out,color .12s ease-out}
+.bar.job{background:var(--on-field);color:var(--green);height:42px;font:700 15px/1 var(--font-body)}
+.bar.open{border-right-style:dashed;border-radius:4px 0 0 4px;margin-right:0}
+.bar.out span,.bar.outl span{position:absolute;top:50%;translate:0 -50%;color:var(--on-field)}
+.bar.out span{left:calc(100% + 8px)}
+.bar.outl span{right:calc(100% + 8px)}
+.bar:not(.job):hover,.bar:not(.job)[aria-pressed="true"]{background:var(--on-field);color:var(--green)}
+.bar.job:hover,.bar.job[aria-pressed="true"]{background:transparent;color:var(--on-field)}
+.posts{height:74px}
+.posts .p{display:grid;justify-items:center;gap:3px;font:400 10.5px/1 var(--font-mono)}
+.posts .p i{display:block;width:58%;background:var(--on-field);border-radius:2px 2px 0 0}
+.posts .say{grid-column:1/6;grid-row:1;font:400 12.5px/1.35 var(--font-mono);align-self:end;padding-bottom:2px}
+.axis{border-top:2px solid var(--on-field);align-items:start}
+.axis span{font:400 11px/1 var(--font-mono);text-align:center;padding-top:7px}
+.readout{margin-top:22px;display:grid;grid-template-columns:150px minmax(0,1fr);gap:18px;align-items:center;min-height:96px}
+.readout figure{margin:0;aspect-ratio:16/10;border:2px solid var(--on-field);border-radius:8px;overflow:hidden;background:var(--on-field);display:grid;place-items:center;color:var(--green);font:800 22px/1 var(--font-display);text-align:center;padding:0}
+.readout img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}
+.readout b{font:700 22px/1.15 var(--font-body);letter-spacing:-.02em;display:block}
+.readout small{font:400 12px/1.4 var(--font-mono);display:block;margin:3px 0 5px}
+.readout p{margin:0;max-width:62ch;font-size:15.5px;line-height:1.4}
+@media(max-width:560px){.readout{grid-template-columns:96px minmax(0,1fr);gap:12px}.readout b{font-size:18px}}
+
+/* B: spine */
+.spine{list-style:none;margin:0;padding:0;position:relative;display:grid}
+.spine::before{content:"";position:absolute;left:50%;top:6px;bottom:0;width:2px;margin-left:-1px;background:var(--on-field)}
+.spine li{display:grid;grid-template-columns:minmax(0,1fr) 84px minmax(0,1fr);align-items:start;padding-bottom:26px}
+.spine .yr{grid-column:2;justify-self:center;font:600 12px/1 var(--font-mono);background:var(--on-field);color:var(--green);padding:5px 8px;border-radius:99px;position:relative}
+.spine .role{grid-column:1;grid-row:1;text-align:right}
+.spine .role b{font:800 clamp(24px,3vw,34px)/1.02 var(--font-display);letter-spacing:-.03em;display:block}
+.spine .role em{font-style:normal;font:600 12px/1.4 var(--font-mono);display:block;margin:6px 0 4px}
+.spine .role p{margin:0 0 0 auto;font-size:15px;line-height:1.4;max-width:40ch}
+.spine .made{grid-column:3;grid-row:1;display:grid;gap:10px}
+.pnote{display:grid;grid-template-columns:112px minmax(0,1fr);gap:12px;align-items:center;text-decoration:none;border:2px solid var(--on-field);border-radius:10px;overflow:hidden;max-width:420px;transition:transform .16s ease-out}
+a.pnote:hover{transform:translateX(4px)}
+.pnote figure{margin:0;min-width:0;min-height:74px;position:relative;overflow:hidden;background:var(--on-field);align-self:stretch;display:grid;place-items:center;color:var(--green);font:800 17px/1 var(--font-display)}
+.pnote img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top}
+.pnote span{padding:8px 10px 8px 0;display:grid;gap:2px}
+.pnote b{font:700 16.5px/1.2 var(--font-body);letter-spacing:-.01em}
+.pnote i{font-style:normal;font-size:13.5px;line-height:1.35}
+.pnote small{font:400 11px/1.3 var(--font-mono);opacity:.85}
+@media(max-width:720px){
+  .spine::before{left:30px}
+  .spine li{grid-template-columns:60px minmax(0,1fr);row-gap:10px}
+  .spine .yr{grid-column:1;grid-row:1}
+  .spine .role{grid-column:2;grid-row:auto;text-align:left}
+  .spine .role p{margin:0}
+  .spine .made{grid-column:2;grid-row:auto}
+  .pnote{grid-template-columns:84px minmax(0,1fr)}
+}
+
+/* C: reel */
+.reel{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding:0 0 18px;scrollbar-width:thin;scrollbar-color:var(--on-field) transparent}
+.ritem{flex:none;width:min(300px,78vw);scroll-snap-align:start;border-top:2px solid var(--on-field);padding:0 20px 0 0;display:grid;grid-template-rows:auto 1fr;gap:12px}
+.ritem .tick{font:600 12px/1 var(--font-mono);padding-top:10px;position:relative}
+.ritem .tick::before{content:"";position:absolute;left:0;top:-6px;width:10px;height:10px;border-radius:50%;background:var(--on-field)}
+.rc{border:2px solid var(--on-field);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;transition:transform .18s ease-out}
+a.rc:hover{transform:translateY(-5px)}
+.rc figure{margin:0;aspect-ratio:16/10;background:var(--on-field);border-bottom:2px solid var(--on-field);display:grid;place-items:center;color:var(--green);font:800 40px/1 var(--font-display);letter-spacing:-.04em}
+.rc img{display:block;width:100%;height:100%;object-fit:cover;object-position:top}
+.rc .meta{padding:12px 14px 14px;display:grid;gap:4px}
+.rc b{font:700 19px/1.15 var(--font-body);letter-spacing:-.02em}
+.rc i{font-style:normal;font-size:14px;line-height:1.4}
+.rc small{font:400 11.5px/1.4 var(--font-mono);opacity:.85}
+.rc.job{background:var(--on-field);color:var(--green);padding:18px 16px;justify-content:space-between;gap:18px}
+.rc.job b{font:800 36px/.98 var(--font-display);letter-spacing:-.04em}
+.rc.job em{font-style:normal;font:600 12px/1.4 var(--font-mono);display:block;margin-top:8px}
+.rc.job i{font-size:14.5px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Three ways to put your career and projects on one timeline</h1>
+    <p class="lede">Each one would replace the "Things I've made" row on the homepage and sits on the same green. They are live, so hover, tap and swipe. All three use the dates from your About page and projects list.</p>
+  </header>
+
+  <section class="opt">
+    <header><h2>A · The chart <small>my pick</small></h2><p>Jobs, projects and writing as three layers on one axis from 2007 to now. Tap any bar to read about it.</p></header>
+    <div class="field">
+      <h3>Career and projects</h3>
+      <div class="scroll" id="scrollA" tabindex="0" aria-label="Timeline chart, scrolls sideways on small screens"><div class="chart" id="chart"></div></div>
+      <div class="readout" id="readout" aria-live="polite"></div>
+    </div>
+    <dl class="notes">
+      <div><dt>Best for</dt><dd>Seeing the whole shape at once: which projects overlapped which jobs, and that the writing peaked during the consulting years. About half the height of the current projects row.</dd></div>
+      <div><dt>Costs</dt><dd>On a phone the chart scrolls sideways. Screenshots only appear one at a time, so projects get less visual weight than they have now.</dd></div>
+    </dl>
+  </section>
+
+  <section class="opt">
+    <header><h2>B · The spine</h2><p>A vertical line, newest first. Jobs sit on the left in big type; the things you made hang off the right like the margin notes on your essays.</p></header>
+    <div class="field">
+      <h3>Career and projects</h3>
+      <ol class="spine" id="spine"></ol>
+    </div>
+    <dl class="notes">
+      <div><dt>Best for</dt><dd>Reading as a story, and tying the homepage to the essay page's spine and margin notes. Works well on a phone.</dd></div>
+      <div><dt>Costs</dt><dd>It is tall: roughly two laptop screens, on a homepage that is already long. Durations and overlaps are not visible, only start dates.</dd></div>
+    </dl>
+  </section>
+
+  <section class="opt">
+    <header><h2>C · The reel</h2><p>The row you have now, put in date order with jobs added as solid cards between the project screenshots. Swipe back through time.</p></header>
+    <div class="field">
+      <h3>Career and projects</h3>
+      <div class="reel" id="reel" tabindex="0" aria-label="Career and projects, newest first, swipe or scroll sideways"></div>
+    </div>
+    <dl class="notes">
+      <div><dt>Best for</dt><dd>Keeping the screenshots prominent and the swipe feel you liked. The smallest change from the live homepage.</dd></div>
+      <div><dt>Costs</dt><dd>Only three or four cards are visible at a time, so 2007 to 2014 stays hidden until someone swipes. It reads as a carousel more than a timeline.</dd></div>
+    </dl>
+  </section>
+
+  <p class="foot">Two things to check. The Strategic Independent is dated 2018 because that is when its page was added to the site; correct me if the book has a better date. Quotebacks, The NEW MBA and the book are shown as single years because the projects list gives no end date.</p>
+</div>
+
+<script>
+const SITE = 'https://tomcritchlow.com';
+const JOBS = [
+  {n:'Alephic', s:2026, e:null, line:'Working at the intersection of AI and marketing, partnering with brands on AI strategy and software.', url:'https://www.alephic.com/'},
+  {n:'Raptive', role:'EVP Audience Growth', s:2024, e:2026, line:'Led a new audience growth function across the creator network: traffic strategy, publisher dynamics and search engine shifts.'},
+  {n:'Independent consultant', short:'Independent', s:2014, e:2024, line:'Helped media and technology companies build growth capabilities. Clients included The New York Times, Gartner, Etsy, Angi, Dotdash and Ziff Davis.'},
+  {n:'Google', role:'PMM Special Projects', s:2012, e:2014, line:'Worked with the Creative Lab, Cardboard, Jamboard and BizOps to develop new products and bring them to market.'},
+  {n:'Distilled', role:'VP Operations, NYC', s:2007, e:2012, line:'Helped grow the agency from 3 people to more than 50 across three offices, and built the New York office.'}
+];
+const MADE = [
+  {n:'AI Search Leaders', s:2026, e:null, img:'aisl.jpg', line:'A private peer community for senior search professionals navigating the shift to generative AI search.', url:'https://www.searchleaders.ai/', side:'l'},
+  {n:'The NEW MBA', s:2023, e:2024, one:true, img:'newmba.jpg', line:'Essays on becoming more capable and confident at work.', url:SITE+'/newmba/', side:'l'},
+  {n:'The SEO MBA', s:2021, e:null, img:'seomba.jpg', line:'Professional development for SEO professionals.', url:'https://seomba.com/'},
+  {n:'Quotebacks', s:2020, e:2021, one:true, img:'quotebacks.jpg', line:'A quoting tool for bloggers.', url:'https://quotebacks.net/', side:'r'},
+  {n:'The Strategic Independent', s:2018, e:2019, one:true, img:'strategy.jpg', line:'A book about sustainable indie consulting.', url:SITE+'/strategy/', side:'r'},
+  {n:'Fiercely Curious', s:2013, e:null, img:'fiercely.jpg', line:'A Brooklyn art collective with pop-up art shows.', url:'https://fiercelycurious.com/'},
+  {n:'7books', s:2011, e:2013, line:'Playlists for bookworms. My first Python project; it grew to over 6,000 users.', side:'r'}
+];
+const POSTS = {2012:2,2013:1,2014:4,2015:13,2016:18,2017:19,2018:27,2019:36,2020:41,2021:11,2022:25,2023:14,2024:13,2025:3,2026:1};
+const FIRST = 2007, LAST = 2027;
+const col = y => y - FIRST + 1;
+const span = x => x.e ? (x.one ? String(x.s) : x.s + ' to ' + x.e) : x.s + ' to now';
+const el = (tag, cls, html) => { const node = document.createElement(tag); if (cls) node.className = cls; if (html != null) node.innerHTML = html; return node; };
+const fig = x => x.img ? '<img src="img/' + x.img + '" alt="Screenshot of ' + x.n + '">' : x.n;
+
+/* A */
+(function () {
+  const chart = document.getElementById('chart'), out = document.getElementById('readout');
+  const bars = [];
+  function show(x, btn) {
+    bars.forEach(b => b.setAttribute('aria-pressed', b === btn));
+    out.innerHTML = '<figure>' + (x.img ? fig(x) : (x.short || x.n)) + '</figure><div><b>' + x.n + (x.role ? ', ' + x.role : '') + '</b><small>' + span(x) + '</small><p>' + x.line + (x.url ? ' <a href="' + x.url + '">Visit</a>' : '') + '</p></div>';
+  }
+  function bar(x, job) {
+    const b = el('button', 'bar' + (job ? ' job' : '') + (x.e ? '' : ' open') + (!job && x.side ? (x.side === 'l' ? ' outl' : ' out') : ''), '<span>' + (job ? (x.short || x.n) : x.n) + '</span>');
+    b.type = 'button';
+    b.style.gridColumn = col(x.s) + ' / ' + (x.e ? col(x.e) : col(LAST) + 1);
+    b.setAttribute('aria-label', x.n + ', ' + span(x));
+    b.addEventListener('click', () => show(x, b));
+    b.addEventListener('mouseenter', () => show(x, b));
+    b.addEventListener('focus', () => show(x, b));
+    bars.push(b);
+    return b;
+  }
+  chart.append(el('div', 'cap', 'Jobs'));
+  const jobs = el('div', 'row');
+  let current;
+  JOBS.slice().reverse().forEach(j => { const b = bar(j, true); jobs.append(b); if (!j.e) current = [j, b]; });
+  chart.append(jobs, el('div', 'cap', 'Things I made'));
+  MADE.slice().reverse().forEach(m => { const row = el('div', 'row'); row.append(bar(m, false)); chart.append(row); });
+  chart.append(el('div', 'cap', 'Writing'));
+  const posts = el('div', 'row posts');
+  posts.append(el('span', 'say', '228 posts since 2012,<br>counted by year'));
+  Object.keys(POSTS).forEach(y => { const p = el('span', 'p', POSTS[y] + '<i style="height:' + Math.max(2, Math.round(POSTS[y] / 41 * 50)) + 'px"></i>'); p.style.gridColumn = col(+y); p.style.gridRow = 1; posts.append(p); });
+  chart.append(posts);
+  const axis = el('div', 'row axis');
+  for (let y = FIRST; y < LAST; y++) axis.append(el('span', '', "'" + String(y).slice(2)));
+  axis.append(el('span', '', 'now'));
+  chart.append(axis);
+  show(current[0], current[1]);
+  const sc = document.getElementById('scrollA'); sc.scrollLeft = sc.scrollWidth;
+})();
+
+/* B */
+(function () {
+  const spine = document.getElementById('spine');
+  const years = [...new Set([...JOBS, ...MADE].map(x => x.s))].sort((a, b) => b - a);
+  years.forEach(y => {
+    const li = el('li'); li.append(el('span', 'yr', y));
+    const job = JOBS.find(j => j.s === y);
+    if (job) li.append(el('div', 'role', '<b>' + job.n + '</b><em>' + (job.role ? job.role + ' · ' : '') + span(job) + '</em><p>' + job.line + '</p>'));
+    const made = MADE.filter(m => m.s === y);
+    if (made.length) {
+      const box = el('div', 'made');
+      made.forEach(m => { const a = el(m.url ? 'a' : 'div', 'pnote', '<figure>' + fig(m) + '</figure><span><b>' + m.n + '</b><i>' + m.line + '</i><small>' + span(m) + '</small></span>'); if (m.url) a.href = m.url; box.append(a); });
+      li.append(box);
+    }
+    spine.append(li);
+  });
+})();
+
+/* C */
+(function () {
+  const reel = document.getElementById('reel');
+  const all = [...JOBS.map(j => ({...j, job:true})), ...MADE].sort((a, b) => b.s - a.s || (a.job ? -1 : 1));
+  all.forEach(x => {
+    const item = el('div', 'ritem'); item.append(el('span', 'tick', span(x)));
+    let card;
+    if (x.job) card = el('div', 'rc job', '<div><b>' + x.n + '</b>' + (x.role ? '<em>' + x.role + '</em>' : '') + '</div><i>' + x.line + '</i>');
+    else { card = el(x.url ? 'a' : 'div', 'rc', '<figure>' + fig(x) + '</figure><span class="meta"><b>' + x.n + '</b><i>' + x.line + '</i></span>'); if (x.url) card.href = x.url; }
+    item.append(card); reel.append(item);
+  });
+})();
+</script>

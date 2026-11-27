@@ -1,0 +1,82 @@
+# Career and projects, newest first. One list feeds three places:
+# the reel on the homepage, the spine on /about/ and the chart on /writing/.
+#
+# kind:  job or project
+# start: year it began. end: year it finished; leave out if it is still going.
+#        For a one-year project set end to the same year as start.
+# role:  job title (jobs only). short: a shorter name for narrow chart bars.
+# image: a file in /images/projects/ (a 16:10 screenshot); leave it out for a text-only card.
+# url:   optional; without it the card is not a link.
+- kind: job
+  name: Alephic
+  start: 2026
+  line: Working at the intersection of AI and marketing, partnering with brands on AI strategy and software.
+  url: https://www.alephic.com/
+- kind: project
+  name: AI Search Leaders
+  start: 2026
+  line: A private peer community for senior search professionals navigating the shift to generative AI search.
+  url: https://www.searchleaders.ai/
+  image: aisl.jpg
+- kind: job
+  name: Raptive
+  role: EVP Audience Growth
+  start: 2024
+  end: 2026
+  line: "Led a new audience growth function across the creator network: traffic strategy, publisher dynamics and search engine shifts."
+- kind: project
+  name: The NEW MBA
+  start: 2023
+  end: 2023
+  line: Essays on becoming more capable and confident at work.
+  url: /newmba/
+  image: newmba.jpg
+- kind: project
+  name: The SEO MBA
+  start: 2021
+  line: Professional development for SEO professionals.
+  url: https://seomba.com/
+  image: seomba.jpg
+- kind: project
+  name: Quotebacks
+  start: 2020
+  end: 2020
+  line: A quoting tool for bloggers.
+  url: https://quotebacks.net/
+  image: quotebacks.jpg
+- kind: project
+  name: The Strategic Independent
+  start: 2018
+  end: 2018
+  line: A book about sustainable indie consulting.
+  url: /strategy/
+  image: strategy.jpg
+- kind: job
+  name: Independent consultant
+  short: Independent
+  start: 2014
+  end: 2024
+  line: Helped media and technology companies build growth capabilities. Clients included The New York Times, Gartner, Etsy, Angi, Finder, Dotdash and Ziff Davis.
+- kind: project
+  name: Fiercely Curious
+  start: 2013
+  line: A Brooklyn art collective with pop-up art shows.
+  url: https://fiercelycurious.com/
+  image: fiercely.jpg
+- kind: job
+  name: Google
+  role: PMM Special Projects
+  start: 2012
+  end: 2014
+  line: Worked with the Creative Lab, Cardboard, Jamboard and BizOps to develop new products and bring them to market.
+- kind: project
+  name: 7books
+  start: 2011
+  end: 2013
+  line: Playlists for bookworms. My first Python project; it grew to over 6,000 users.
+- kind: job
+  name: Distilled
+  role: VP Operations, NYC
+  start: 2007
+  end: 2012
+  line: Helped grow the agency from 3 people to more than 50 across three offices, and built the New York office.

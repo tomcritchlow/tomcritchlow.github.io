@@ -1,0 +1,37 @@
+{% comment %} Jobs, projects and posts per year on one axis. Edit _data/timeline.yml. site.js fills the readout. {% endcomment %}
+{% assign tl = site.data.timeline | sort: "start" %}
+{% assign first = tl.first.start %}
+{% assign off = first | minus: 1 %}
+{% assign thisyear = site.time | date: "%Y" | plus: 0 %}
+{% assign cols = thisyear | minus: first | plus: 2 %}
+{% assign lastline = cols | plus: 1 %}
+{% assign leftfrom = cols | minus: 6 %}
+{% assign byyear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign most = 1 %}{% for y in byyear %}{% if y.items.size > most %}{% assign most = y.items.size %}{% endif %}{% endfor %}
+{% assign current = site.data.timeline | where: "kind", "job" | first %}
+<section class="tl chartbox" aria-label="Career, projects and writing over time">
+  <div class="scroll" tabindex="0" aria-label="Timeline chart. Scrolls sideways on small screens"><div class="chart" style="--cols:{{ cols }}">
+    {% assign kinds = "job,project" | split: "," %}{% for kind in kinds %}
+    <div class="cap">{% if kind == "job" %}Jobs{% else %}Things I made{% endif %}</div>
+    {% if kind == "job" %}<div class="row">{% endif %}
+    {% for e in tl %}{% if e.kind == kind %}
+    {% assign c1 = e.start | minus: off %}
+    {% if e.end == nil %}{% assign c2 = lastline %}{% elsif e.end == e.start %}{% assign c2 = c1 | plus: 1 %}{% else %}{% assign c2 = e.end | minus: off %}{% endif %}
+    {% assign w = c2 | minus: c1 %}
+    {% capture cls %}bar{% if kind == "job" %} job{% endif %}{% if e.end == nil %} open{% endif %}{% if kind == "project" and w < 4 %}{% if c1 > leftfrom %} outl{% else %} out{% endif %}{% endif %}{% endcapture %}
+    {% capture span %}{% include tl-span.html e=e %}{% endcapture %}
+    {% if kind == "project" %}<div class="row">{% endif %}
+    <button type="button" class="{{ cls }}" style="grid-column:{{ c1 }}/{{ c2 }}" aria-pressed="{% if e.name == current.name %}true{% else %}false{% endif %}" aria-label="{{ e.name | escape }}, {{ span | strip }}" data-name="{{ e.name | escape }}{% if e.role %}, {{ e.role | escape }}{% endif %}" data-short="{{ e.short | default: e.name | escape }}" data-span="{{ span | strip }}" data-line="{{ e.line | escape }}"{% if e.url %} data-url="{{ e.url }}"{% endif %}{% if e.image %} data-img="/images/projects/{{ e.image }}"{% endif %}><span>{% if kind == "job" %}{{ e.short | default: e.name }}{% else %}{{ e.name }}{% endif %}</span></button>
+    {% if kind == "project" %}</div>{% endif %}
+    {% endif %}{% endfor %}
+    {% if kind == "job" %}</div>{% endif %}
+    {% endfor %}
+    <div class="cap">Writing</div>
+    <div class="row posts">
+      <span class="say">{{ site.posts | size }} posts since {{ site.posts.last.date | date: "%Y" }},<br>counted by year</span>
+      {% for y in byyear %}{% assign c = y.name | minus: off %}{% assign h = y.items.size | times: 50 | divided_by: most | at_least: 2 %}<a class="p" href="#y{{ y.name }}" style="grid-column:{{ c }}" aria-label="{{ y.items.size }} posts in {{ y.name }}">{{ y.items.size }}<i style="height:{{ h }}px"></i></a>{% endfor %}
+    </div>
+    <div class="row axis" aria-hidden="true">{% for i in (first..thisyear) %}<span>'{{ i | append: "" | slice: 2, 2 }}</span>{% endfor %}<span>now</span></div>
+  </div></div>
+  <div class="readout" aria-live="polite"><figure>{{ current.short | default: current.name }}</figure><div><b>{{ current.name }}{% if current.role %}, {{ current.role }}{% endif %}</b><small>{% include tl-span.html e=current %}</small><p>{{ current.line }}{% if current.url %} <a href="{{ current.url }}">Visit</a>{% endif %}</p></div></div>
+</section>

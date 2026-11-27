@@ -1,0 +1,15 @@
+{% comment %} Career and projects as a swipe row, newest first. Edit _data/timeline.yml. {% endcomment %}
+<div class="tl reel" tabindex="0" aria-label="Career and projects, newest first. Swipe or scroll sideways">
+  {% for e in site.data.timeline %}
+  <div class="ritem"><span class="tick">{% include tl-span.html e=e %}</span>
+    {% if e.kind == "job" %}
+    <div class="rc job"><div><b>{{ e.name }}</b>{% if e.role %}<em>{{ e.role }}</em>{% endif %}</div><i>{{ e.line }}</i></div>
+    {% else %}
+    {% if e.url %}<a class="rc" href="{{ e.url }}">{% else %}<div class="rc">{% endif %}
+      <figure>{% if e.image %}<img src="/images/projects/{{ e.image }}" alt="Screenshot of {{ e.name | escape }}" loading="lazy" width="900" height="563">{% else %}{{ e.name }}{% endif %}</figure>
+      <span class="meta"><b>{{ e.name }}</b><i>{{ e.line }}</i></span>
+    {% if e.url %}</a>{% else %}</div>{% endif %}
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>

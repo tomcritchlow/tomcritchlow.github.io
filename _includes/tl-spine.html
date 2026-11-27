@@ -1,0 +1,12 @@
+{% comment %} Career and projects down a vertical line, newest first. Edit _data/timeline.yml. {% endcomment %}
+{% assign tlyears = site.data.timeline | group_by: "start" %}
+<ol class="tl spine">
+{% for y in tlyears %}
+<li><span class="yr">{{ y.name }}</span>
+{% for e in y.items %}{% if e.kind == "job" %}<div class="role"><b>{{ e.name }}</b><em>{% if e.role %}{{ e.role }} · {% endif %}{% include tl-span.html e=e %}</em><p>{{ e.line }}</p></div>{% endif %}{% endfor %}
+{% assign made = y.items | where: "kind", "project" %}{% if made.size > 0 %}<div class="made">
+{% for e in made %}{% if e.url %}<a class="pnote" href="{{ e.url }}">{% else %}<div class="pnote">{% endif %}<figure>{% if e.image %}<img src="/images/projects/{{ e.image }}" alt="" loading="lazy">{% else %}{{ e.name }}{% endif %}</figure><span><b>{{ e.name }}</b><i>{{ e.line }}</i><small>{% include tl-span.html e=e %}</small></span>{% if e.url %}</a>{% else %}</div>{% endif %}
+{% endfor %}</div>{% endif %}
+</li>
+{% endfor %}
+</ol>

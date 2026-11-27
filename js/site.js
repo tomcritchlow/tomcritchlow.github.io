@@ -437,6 +437,21 @@
     });
   }
 
+  /* ---------- timeline chart: pressing or pointing at a bar fills the readout below it ---------- */
+  function timeline(box) {
+    var out = box.querySelector('.readout'), bars = [].slice.call(box.querySelectorAll('.bar'));
+    function show(b) {
+      bars.forEach(function (o) { o.setAttribute('aria-pressed', o === b); });
+      var d = b.dataset, fig = el('figure'), body = el('div'), p = el('p', null, d.line);
+      if (d.img) { var im = el('img'); im.src = d.img; im.alt = 'Screenshot of ' + d.name; fig.appendChild(im); } else fig.textContent = d.short;
+      body.appendChild(el('b', null, d.name)); body.appendChild(el('small', null, d.span));
+      if (d.url) { var a = el('a', null, 'Visit'); a.href = d.url; p.appendChild(document.createTextNode(' ')); p.appendChild(a); }
+      body.appendChild(p); out.textContent = ''; out.appendChild(fig); out.appendChild(body);
+    }
+    bars.forEach(function (b) { ['click', 'mouseenter', 'focus'].forEach(function (ev) { b.addEventListener(ev, function () { show(b); }); }); });
+    var sc = box.querySelector('.scroll'); sc.scrollLeft = sc.scrollWidth;
+  }
+
   ready(function () {
     var eat = document.getElementById('eat'); if (eat) headline(eat);
     document.querySelectorAll('canvas.fade').forEach(fade);
@@ -445,6 +460,7 @@
     var body = document.querySelector('.post-body'); if (body) essay(body);
     var keep = document.getElementById('keep'); if (keep) keepRow(keep);
     var wallTitles = document.getElementById('titles'); if (wallTitles) deepWall(wallTitles);
+    var chart = document.querySelector('.chartbox'); if (chart) timeline(chart);
     var past = document.getElementById('issues'); if (past && past.dataset.feed) issues(past);
   });
 })();

@@ -18,17 +18,10 @@ subtitle: Move. Think. Create.
       {% if latest %}<p class="signup-latest">Latest issue: <a href="{{ latest.url }}">{{ latest.title }}</a> <span>{{ latest.date | date: "%b %-d, %Y" }}</span> <a href="/newsletter/">All {{ news.issues | size }} issues</a></p>{% endif %}
     </div></div>
   </div></div>
-  {% comment %} Projects: edit _data/projects.yml. {% endcomment %}
+  {% comment %} Career and projects: edit _data/timeline.yml. {% endcomment %}
   <div class="pad"><div class="wrap"><div class="projects">
-    <div class="feathead"><h2>Things I've made</h2></div>
-    <div class="projrow" tabindex="0" aria-label="Projects, swipe or scroll sideways">
-      {% for project in site.data.projects %}
-      {% if project.url %}<a class="proj" href="{{ project.url }}">{% else %}<div class="proj">{% endif %}
-        <figure>{% if project.image %}<img src="/images/projects/{{ project.image }}" alt="Screenshot of {{ project.name | escape }}" loading="lazy" width="900" height="563">{% else %}<span class="ph">{{ project.name }}</span>{% endif %}</figure>
-        <span class="meta"><b>{{ project.name }}</b><i>{{ project.line }}</i><small>{{ project.meta }}</small></span>
-      {% if project.url %}</a>{% else %}</div>{% endif %}
-      {% endfor %}
-    </div>
+    <div class="feathead"><h2>Career and projects</h2></div>
+    {% include tl-reel.html %}
   </div></div></div>
   {% comment %} Top posts: add `featured: N` to a post's front matter; N sets the order. {% endcomment %}
   {% assign featured = site.posts | where_exp: "post", "post.featured" | sort: "featured" %}

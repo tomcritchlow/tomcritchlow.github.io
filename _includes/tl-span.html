@@ -1,0 +1,1 @@
+{% if include.e.end == nil %}{{ include.e.start }} to now{% elsif include.e.end == include.e.start %}{{ include.e.start }}{% else %}{{ include.e.start }} to {{ include.e.end }}{% endif %}
